@@ -1,7 +1,7 @@
 baseURL = "https://gracious-poitras-c5d8b0.netlify.com/"
 languageCode = "en-us"
 title = "IASSIST"
-theme = "timer-hugo"
+theme = "hugo-universal-theme"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
