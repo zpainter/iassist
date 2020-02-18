@@ -1,0 +1,19 @@
+/* your styles go here */
+
+.navbar-brand {
+  height: 80px;
+}
+
+#navigation > ul > li.dropdown > a {
+  line-height: 33px;
+}
+
+/* these ones were already here */
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
