@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "Minutes 2008"
 oldpath = "/about/minutes-2008"
-postdate = "2010-06-15 05:25:38 -0700"
+date = "2010-06-15 05:25:38 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 29, 2008, Stanford
@@ -19,8 +19,8 @@ present.
 2. Approval of the minutes of the previous AGM (2007)
 -----------------------------------------------------
 
-It was noted that the phrase \'website engineer\' should be replaced by
-\'web site editor\'.
+It was noted that the phrase 'website engineer' should be replaced by
+'web site editor'.
 
 MOVED to approve the minutes of the annual general meeting of May 25,
 2006 as amended. Moved: E Boyko, L Timms-Ferrara. The motion CARRIED.
@@ -30,8 +30,8 @@ MOVED to approve the minutes of the annual general meeting of May 25,
 
 The president announced the appointment of J Herndon to replace B Block
 as member at large of the Administrative Committee, the appointment of
-an archivist -- Amy West, chairing the new \'Organizational Memory
-Action Group\' and the appointment of Kristin Partlo as secretary.
+an archivist -- Amy West, chairing the new 'Organizational Memory
+Action Group' and the appointment of Kristin Partlo as secretary.
 
 4. IASSIST 2009
 ---------------
@@ -55,8 +55,8 @@ shortly to solicit views of members.
 
 Treasurer -- J Green
 
-The membership is stable, new rates reflecting current state of US\$.
-Have a surplus of \$125,000 (mostly in Canadian & UK funds). The budget
+The membership is stable, new rates reflecting current state of US$.
+Have a surplus of $125,000 (mostly in Canadian & UK funds). The budget
 for the current year was presented.
 
 6. Reports of regional secretaries
@@ -127,7 +127,7 @@ Nominations & Elections Committee -- E Boyko
 2009 is an election year. Per the constitution, half of the regional
 representatives are to be elected for 4 year term, as well as regional
 secretaries and the executive. It is time to think in terms of renewal.
-Will put together a summary of what the positions responsibilities are.\
+Will put together a summary of what the positions responsibilities are.
 In September there will be a call for nominations on the listserv. In
 order to participate, members need to have paid dues by Jan 2009. The
 election will use an electronic election service. By January, the

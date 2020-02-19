@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 1998"
 oldpath = "/about/agm/1998agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 IASSIST Annual General Meeting 1998, New Haven, Connecticut, May 22,
@@ -49,7 +49,7 @@ them for their contribution.
 W Treadwell reported that the function of Treasurer has now been
 reformed into a group consisting of a treasurer and three assistant
 treasurers, Gaetan Drolet (Canada), JoAnn Dionne (United States), Alison
-Bayley (Europe) to administer IASSIST\'s dispersed funds.
+Bayley (Europe) to administer IASSIST's dispersed funds.
 
 IASSIST is financially comfortable. She is working with the membership
 database with the goal of enabling the assistant treasurers to update it
@@ -133,7 +133,7 @@ Statistical Society.
 -   Canada is undertaking a review of the National Archives and the
     National Library
 -   ICPSR still has 24 Canadian member institutions
--   She introduced Canada\'s latest data librarian, Walter Giesbrecht of
+-   She introduced Canada's latest data librarian, Walter Giesbrecht of
     York University
 
 **3.5.3 US secretariate report**

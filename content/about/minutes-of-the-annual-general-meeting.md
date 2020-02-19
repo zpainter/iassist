@@ -4,17 +4,17 @@ uid = "1"
 author = "administrator"
 title = "Minutes of the annual general meeting"
 oldpath = "/about/agm.html"
-postdate = "2010-01-08 22:00:25 -0700"
+date = "2010-01-08 22:00:25 -0700"
 draft = "false"
 +++
 According to [Article VIII of the IASSIST
 Constitution](https://iassistdata.org/about/iassist-constitution#article8):
 
-\"The annual Business Meeting of the General Assembly shall be held at a
+"The annual Business Meeting of the General Assembly shall be held at a
 time and place chosen by the Administrative Committee and in conjunction
 with the [annual
 conference](http://www.iassistdata.org/conferences/archive) of the
-Association.\"
+Association."
 
 The years for which minutes are available are listed below.
 

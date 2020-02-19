@@ -4,14 +4,14 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2001-2002: Europe"
 oldpath = "/about/regional-report-2001-2002-europe"
-postdate = "2013-05-22 14:03:12 -0700"
+date = "2013-05-22 14:03:12 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2001-2002\
+IASSIST Regional Report 2001-2002
 European Region
 
-Melanie Wright\
-UK Data Archive\
+Melanie Wright
+UK Data Archive
 June 2002
 
 Introduction
@@ -33,8 +33,8 @@ received information.
 European membership
 ===================
 
-There are currently 82 IASSIST members from 21 countries \"on the
-books\" for the European region. This increase in European membership
+There are currently 82 IASSIST members from 21 countries "on the
+books" for the European region. This increase in European membership
 undoubtedly reflects the fact that the last conference was held in
 Amsterdam. The geographic breakdown by sub-region is shown in the table
 below. Clearly the biggest shift in European membership in recent years
@@ -42,7 +42,7 @@ has been the increased involvement of members from Eastern Europe,
 largely due to the effectiveness of IASSIST Outreach Committee
 activities. This is a success story that we hope continues.
 
-![](/sites/default/files/inline/image002.gif "Geographic breakdown by sub-region"){width="476"
+![](/img/about/image002.gif "Geographic breakdown by sub-region"){width="476"
 height="290"}
 
 Cross European Collaborations
@@ -54,7 +54,7 @@ Cross European Collaborations
 the Directors of the respective European data archives meet to discuss
 inter-working relationships, was held in Ljubljana, Slovenia, in March,
 hosted by the *Arhiv Družboslovnih Podatkov*. The meeting voted to admit
-two new national members to CESSDA, CEPS (Centre d\'Études de
+two new national members to CESSDA, CEPS (Centre d'Études de
 Populations, de Pauvreté et de Politiques Socio-Économiques)
 representing Luxembourg and RODA, the Romanian Data Archive at the
 Institute for Quality of Life Research, Bucharest. This now takes the
@@ -73,8 +73,8 @@ period.
 
 ### [The East European Data Archive Network (EDAN)]{style="text-transform:uppercase"}
 
-The workshop \"Social Science Data Archives in Eastern Europe --
-Results, Potentials and Prospects of the Archival Development\"
+The workshop "Social Science Data Archives in Eastern Europe --
+Results, Potentials and Prospects of the Archival Development"
 supported by UNESCO/MOST Programme and the German Social Science
 Infrastructure Services (GESIS) was held in Berlin on 22-24 February
 2002. The workshop brought together representatives of the existing or
@@ -102,8 +102,8 @@ special training in metadata production in the very next future. It is
 envisaged to organize a training seminar on DDI in Bucharest 2002 within
 the framework of EDAN.
 
-\[From the website
-http://www.gesis.org/en/cooperation/data\_service/eastern\_europe/index.htm\]
+[From the website
+http://www.gesis.org/en/cooperation/data_service/eastern_europe/index.htm]
 
 ### [CDG and MMG]{style="text-transform:uppercase"}
 
@@ -171,8 +171,8 @@ and to develop a sophisticated access control syntax, among other
 things. The FASTER consortium included the UKDA, NSD, DDA, CBS
 (Statistics Netherlands), University of Milan, CSO (Central Statistical
 Office, Ireland), SSB (Statistics Norway), and CIDSP (Centre
-d\'Informatisation des Données Socio Politiques, France). The final
-report by the EU review panel dated 31 March 2002 said, \"The project
+d'Informatisation des Données Socio Politiques, France). The final
+report by the EU review panel dated 31 March 2002 said, "The project
 has been well run and very successful. It has achieved all its major
 objectives, and has made more progress than anticipated in some areas.
 The exploitation plans are excellent, as is the prospect for successful
@@ -189,7 +189,7 @@ standards. The products are based on established Web and Internet
 technologies, and it has drawn on and is contributing to standardisation
 initiatives for statistical structures and metadata. Overall, the
 reviewers are impressed with the performance and quality of work from
-the project -- it can stand as a model for many projects in this area.\"
+the project -- it can stand as a model for many projects in this area."
 
 ### [Limber]{style="text-transform:uppercase"}
 
@@ -213,7 +213,7 @@ harmonisation and data transfer and management.
 ### [Mission]{style="text-transform:uppercase"}
 
 An EU 5th Framework project, MISSION (Multi-Agent Integration of Shared
-Statistical Information Over the \[inter\]Net), is developing software
+Statistical Information Over the [inter]Net), is developing software
 tools to assist cross-national comparative data analysis. The first of
 two prototypes allows comparison of homogenous data (defined as data
 from different sources or countries, which use the same classifications
@@ -229,8 +229,8 @@ at a later date.
 ### [MetaNet]{style="text-transform:uppercase"}
 
 (<http://www.epros.ed.ac.uk/metanet/>) The EU funded MetaNet group is
-described as \'a network of excellence for harmonising and synthesising
-the development of statistical metadata\'.[
+described as 'a network of excellence for harmonising and synthesising
+the development of statistical metadata'.[
 ]{style="mso-spacerun: yes"}The network is considering the harmonisation
 of metadata, conceptually, in terms of structure and definitions, along
 with other aspects of metadata, including metadata for dissemination,
@@ -244,19 +244,19 @@ National Reports
 
 [FSD]{.underline}
 
-Sami Borg writes, \"Since 2001 FSD has been responsible for the yearly
+Sami Borg writes, "Since 2001 FSD has been responsible for the yearly
 funding of Finnish participation in the Luxembourg Income Study and in
 the ISSP. The archive also co-operates closely with the national
 co-ordinator of the European Social Survey, which will be collected
 first time during next fall. At the moment, setting up the national web
 resource portal for social science quantitative methods is the most
-important development project.\"
+important development project."
 
 ### [The Netherlands]{style="text-transform:uppercase"}
 
 [NIWI]{.underline}
 
-Cor van der Meer and Heiko Tjalsma write \"Since last year, NIWI has
+Cor van der Meer and Heiko Tjalsma write "Since last year, NIWI has
 reorganised its structure into discipline-oriented departments. The
 Steinmetz archive is now part of the Social Science department and the
 Historical data archive (NHDA) is part of the Historical department. The
@@ -277,37 +277,37 @@ There were some significant staff changes. Ron Dekker left NIWI in the
 fall of 2001 to work full time again for the Research Council and since
 March 2002 Peter van den Besselaar has been head of the Social Science
 department, whilst Peter Doorn is head of the historical department of
-NIWI.\"
+NIWI."
 
 [Scientific Statistical Agency (WSA)]{.underline}
 
-Ron Dekker writes \"At the Scientific Statistical Agency (WSA) we are
+Ron Dekker writes "At the Scientific Statistical Agency (WSA) we are
 working on an English website and we have translated documentation of
-the Dutch Socio-Economic Panel into English.\"
+the Dutch Socio-Economic Panel into English."
 
 ### [Romania]{style="text-transform:uppercase"}
 
 [Romanian Social Data Archive (RODA)]{.underline}
 
-Adrian Dusa writes: \"Last Friday \[31 May 2002\], we officially
+Adrian Dusa writes: "Last Friday [31 May 2002], we officially
 launched our data archive; after a year or so of work and a couple of
 delays, we finally did it. The English version of the web site is ready
-([http://www.roda.ro/site-en/e1\_1.htm]{#OLE_LINK1}), and we\'re
-currently translating all our datasets in English.\"
+([http://www.roda.ro/site-en/e1_1.htm]{#OLE_LINK1}), and we're
+currently translating all our datasets in English."
 
 ### [Russia]{style="text-transform:uppercase"}
 
 [Joint Sociological Data Archive]{.underline}
 
-Larisa Kosova writes, \"18 months ago Russian Centre for Public Opinion
+Larisa Kosova writes, "18 months ago Russian Centre for Public Opinion
 and Market Research (VCIOM) with the Ford Foundation financial support
 launched a project aimed at compiling a national social data archive. We
 managed to interest in the project leading research agencies in Russia
 which deposited their studies in the archive. At the moment the Joint
 Archive houses more then 60 surveys covering the most important social,
-national and political problems in Russia.\"
+national and political problems in Russia."
 
-\"All data files are verified and stored in the SPSS portable format. To
+"All data files are verified and stored in the SPSS portable format. To
 provide searching for relevant information a retrieval system was
 designed. At the moment it supports two types of searching: by key words
 assigned to each study by its author and text searching in
@@ -315,21 +315,21 @@ questionnaires (questions and/or possible answers). We keep working on
 the option of enabling searches using a thesaurus. The retrieval system
 is available on the site <http://www.socialpolicy.ru>. We highly
 encourage all interested researchers to try the opened opportunity.
-Welcome to the new archive!\"
+Welcome to the new archive!"
 
 ### [Switzerland]{style="text-transform:uppercase"}
 
 [SIDOS]{.underline}
 
-Reto Hadorn writes: \"From the point of view of SIDOS, I see\
+Reto Hadorn writes: "From the point of view of SIDOS, I see
 especially the interest of mentioning the European collaborations:
 
--   the Cessda DDI group \[CDG -- see above\], which makes some progress
-    in defining a common standard for the new IDC \[integrated data
-    catalogue\]
--   the metadata management group \[MMG -- see above\] which does on the
+-   the Cessda DDI group [CDG -- see above], which makes some progress
+    in defining a common standard for the new IDC [integrated data
+    catalogue]
+-   the metadata management group [MMG -- see above] which does on the
     informal level of information exchange what the MetaDater project
-    will develop in a more formal setting\"
+    will develop in a more formal setting"
 
 ### [United Kingdom]{style="text-transform:uppercase"}
 
@@ -355,8 +355,8 @@ the UKDA was formally contracted to assist the Medical Research Council
 (MRC) in its investigation of data archiving and dissemination needs for
 MRC-funded research. The project will result in a series of
 recommendations to be put to the Medical Research Council at the end of
-the year. And in May we received news of our successful bid \"Exploiting
-UK survey data sources for teaching political science\" under the JISC
+the year. And in May we received news of our successful bid "Exploiting
+UK survey data sources for teaching political science" under the JISC
 X4L programme.
 
 Overshadowing all of this activity has been the preparation of first
@@ -383,5 +383,5 @@ Tiziano son of Lene Wul formerly of DDA and project Nesstar on 1^st^ May
 11^th^ May 2002. The contagion may have spread further, but these are
 the cases of which I am aware ;-).
 
-Melanie Wright\
+Melanie Wright
 Colchester, June 2002

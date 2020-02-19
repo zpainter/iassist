@@ -4,14 +4,14 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 1999-2000: Europe"
 oldpath = "/about/regional-report-1999-2000-europe"
-postdate = "2013-05-19 10:20:04 -0700"
+date = "2013-05-19 10:20:04 -0700"
 draft = "false"
 +++
 Report of the European Regional Secretary
 
-by\
-Vigdis Kvalheim\
-Norwegian Social Science Data Services (NSD)\
+by
+Vigdis Kvalheim
+Norwegian Social Science Data Services (NSD)
 May 2000
 
 This report includes information on some of the activities in the
@@ -72,7 +72,7 @@ technology, brings together content management and personalisation
 technologies with the requirements for user-friendly statistical
 dissemination services. It will create a flexible and intelligent
 presentation system to access statistical and other data in a
-distributed \'virtual\' environment. Based on a Web environment with
+distributed 'virtual' environment. Based on a Web environment with
 client side functionality, and built around the careful specification of
 metadata content, it will allow the user to create their own personal
 data environment, derive all relevant contextual and supporting
@@ -164,7 +164,7 @@ countries and over time.
 
 The Centre for Educational Studies in Edinburgh (CES) reports that the
 Centre is responsible for two EU funded projects, MISSION (Multi-Agent
-Integration Of Shared Statistical Information Over The \[Inter\]Net)
+Integration Of Shared Statistical Information Over The [Inter]Net)
 aims to provide a modular system of software which will enable providers
 of official statistics to publish their data in a unified, and unifying,
 framework, and to allow consumers of statistics to access these data in
@@ -180,7 +180,7 @@ Further details can be found on { HYPERLINK
 }[www.epros.ed.ac.uk/mission](http://www.epros.ed.ac.uk/mission) Project
 number: IST-1999-10655
 
-IQML (A Software Suite and Extended Mark-Up Language \[XML\] Standard
+IQML (A Software Suite and Extended Mark-Up Language [XML] Standard
 for Intelligent Questionnaires) is a project, which aims to use current
 and emerging information technologies to implement a solution for
 intelligent questionnaires, and to influence international standards for
@@ -315,7 +315,7 @@ archive come from research work that EKKE has available as well as other
 sources. The process of collecting data (that is interviews,
 questionnaires etc) is a procedure that has to be done from a lot of
 organisations collecting data according to their mission. In the future,
-the datasets will be collected on a regular basis, and **\"MITOS\"**
+the datasets will be collected on a regular basis, and **"MITOS"**
 will operate as an Inventory Center.
 
 **ITCC S.A.** undertook the project of this special Data Bank in
@@ -385,8 +385,8 @@ to establish a formal Norwegian Eurobarometer affiliation through the
 European Free Trade Association or the European Economic Area. In 1999,
 the Norway received the go ahead from the EC, and funding was secured
 through the Research Council of Norway. From 1999 NSD will conduct the
-Norwegian edition of the Eurobarometer survey \"the Norwegian Europe
-Survey\" on a yearly basis. The international co-operation in which the
+Norwegian edition of the Eurobarometer survey "the Norwegian Europe
+Survey" on a yearly basis. The international co-operation in which the
 NSD is involved is vital to the quality of the data services we offer
 our national users.
 
@@ -570,10 +570,10 @@ bibliographic and research datasets to UK Higher Education as EDINA
 
 There were significant staff changes. Donald Morse left the Data Library
 last Fall, but not Edinburgh University Computing Services, where he now
-manages the university\'s Call Management System. Robin Rice took a more
-permanent position as Data Librarian in October \'99 after serving a
+manages the university's Call Management System. Robin Rice took a more
+permanent position as Data Librarian in October '99 after serving a
 one-year secondment from the Data and Program Library Service at the
-University of Wisconsin. Since January \'99 Stuart
+University of Wisconsin. Since January '99 Stuart
 
 Macdonald, as Library Assistant, has been helping local users register
 and access datasets and writing web-based documentation. Peter Burnhill

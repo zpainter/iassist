@@ -4,13 +4,13 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2005-2006: United States"
 oldpath = "/about/regional-report-2005-2006-united-states"
-postdate = "2011-04-19 06:35:57 -0700"
+date = "2011-04-19 06:35:57 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2005-2006\
-United States\
-Pam Baxter\
-Cornell University\
+IASSIST Regional Report 2005-2006
+United States
+Pam Baxter
+Cornell University
 May 2006
 
 ### Transitions, Recognitions, and Professional Activities
@@ -39,8 +39,8 @@ life cycle research and planning.
 Kristi Thompson and Daniel Edelstein, formerly Data Specialists with the
 Data and Statistical Services, Princeton University, have assumed
 positions as Data Librarian and Data Centre Manager, respectively, at
-the University of Windsor (Ontario). \[As a very important sidenote,
-they also assumed matrimony in September 2005.\]
+the University of Windsor (Ontario). [As a very important sidenote,
+they also assumed matrimony in September 2005.]
 
 In November 2005, Cheryl Stadel-Bevans became the first data librarian
 for the Congressional Research Service (CRS) at the Library of Congress.
@@ -69,16 +69,16 @@ is the 2006 recipient of the NewsBank/Readex/GODORT/ALA Catharine J.
 Reynolds Award.  This award provides funding for research in the field
 of documents librarianship,
 
-Julie Linden and Ann Green published an article, \"[Don\'t Leave the
+Julie Linden and Ann Green published an article, "[Don't Leave the
 Data in the
 Dark](http://www.dlib.org/dlib/january06/linden/01linden.html): Issues
-in Digitizing Print Statistical Publications.\" It appeared inthe
+in Digitizing Print Statistical Publications." It appeared inthe
 January 2006 issue of *D-Lib Magazine* (Volume 12, number 1).
 
 Ron Jantz, Rutgers University, coauthored (with  Michael J. Giarlo)
 "[Digital
 Preservation](http://www.dlib.org/dlib/june05/jantz/06jantz.html):
-Architecture and Technology for Trusted Digital Repositories,\" which
+Architecture and Technology for Trusted Digital Repositories," which
 appeared in the June 2005 issue of D-Lib Magazine (Volume 11 Number 6) 
 
 Dan Tsang, social science data librarian at University of California,
@@ -133,13 +133,13 @@ technical standard was developed by the Statistical Data and Metadata
 Exchange (SDMX) initiative under the governance of the Bank for
 International Settlements, the European Central Bank, World Bank,
 International Monetary Fund, Eurostat, the United Nations, and the
-Organisation for Economic Co-operation and Development. \[Contributed by
-San Cannon\]
+Organisation for Economic Co-operation and Development. [Contributed by
+San Cannon]
 
 Many projects occupied staff of the **Roper** **Center** **for Public
 Opinion Research.** In October 2005, it initiated Roper*Express*, an on
 demand dataset download service for its members. About 75% of the
-Center\'s public opinion studies conducted in the US (and many recent
+Center's public opinion studies conducted in the US (and many recent
 studies from outside of the US) are accessible via this service, and
 access to additional studies is forthcoming. The Center added a
 substantial collection of public opinion surveys conducted by Opinion
@@ -155,7 +155,7 @@ uncovered possible new acquisitions from the NORC storage facilities.
 The DataPass project has also provided the means for a data exchange of
 USIA holdings at NARA and the Roper Center. Datafiles of the North
 American Jewish Databank have been professionally archived by the Roper
-Center. \[Contributed by Lois Timms-Ferrara\]
+Center. [Contributed by Lois Timms-Ferrara]
 
 The **National Archives and Records Administration** continues to
 enhance its Access to Archival Databases
@@ -164,5 +164,5 @@ most popular electronic records available to the public over the
 Internet. The redesigned AAD will be demonstrated at the IASSIST 2006
 annual conference. In October 2005, David McMillen was appointed
 External Affairs Liaison for NARA, a newly established function within
-the Congressional and Communications Staff (NCON). \[Contributed by
-Margaret Adams\]
+the Congressional and Communications Staff (NCON). [Contributed by
+Margaret Adams]

@@ -4,68 +4,68 @@ uid = "1"
 author = "administrator"
 title = "Officials"
 oldpath = "/about/officials.html"
-postdate = "2010-01-08 22:00:31 -0700"
+date = "2010-01-08 22:00:31 -0700"
 draft = "false"
 +++
 Officers
 
-President\*
+President*
 
-San Cannon\
+San Cannon
 
-sandra.cannon\@rochester.edu
+sandra.cannon@rochester.edu
 
-Vice-President\*
+Vice-President*
 
 Robin Rice
 
-robin.rice\@ed.ac.uk\
+robin.rice@ed.ac.uk
 
-Secretary\*
+Secretary*
 
 Lynda Kellam
 
-lmk277\@cornell.edu
+lmk277@cornell.edu
 
-Treasurer\*
+Treasurer*
 
 Tom Lindsay
 
-lindsayt\@umn.edu
+lindsayt@umn.edu
 
  
 
 Regional Secretaries
 
-Africa\*
+Africa*
 
 Winny Nekesa
 
-winny.nekesa\@ubos.org\
+winny.nekesa@ubos.org
 
-Asia/Pacific\*
+Asia/Pacific*
 
 Samuel Spencer
 
-sam\@sqbl.org
+sam@sqbl.org
 
-Canada\*
+Canada*
 
-Carol Perry\
+Carol Perry
 
-carolp\@uoguelph.ca
+carolp@uoguelph.ca
 
-Europe\*
+Europe*
 
-Anne-Sofie Fink Kjeldgaard\
+Anne-Sofie Fink Kjeldgaard
 
-asf\@sa.dk\
+asf@sa.dk
 
-USA\*
+USA*
 
 Stephanie Tulley
 
-stulley\@clev.frb.org\
+stulley@clev.frb.org
 
  
 
@@ -73,75 +73,75 @@ Members at Large (by region)
 
 **Term from 2019-2023**
 
-Canada\*
+Canada*
 
-Dylanne Dearborn\
+Dylanne Dearborn
 
-dylanne.dearborn\@utoronto.ca
+dylanne.dearborn@utoronto.ca
 
-Europe\*
+Europe*
 
 David Schiller
 
-david.schiller\@htwchur.ch
+david.schiller@htwchur.ch
 
-Europe\*
+Europe*
 
-Wolfgang Zenk-Möltgen\
+Wolfgang Zenk-Möltgen
 
-wolfgang.zenk-moeltgen\@gesis.org
+wolfgang.zenk-moeltgen@gesis.org
 
-USA\*
+USA*
 
 Bobray Bordelon
 
-bordelon\@princeton.edu\
+bordelon@princeton.edu
 
-USA\*
+USA*
 
-Ashley Jester\
+Ashley Jester
 
-ajester\@stanford.edu
+ajester@stanford.edu
 
-USA\*
+USA*
 
 Ryan Womack
 
-rwomack\@scarletmail.rutgers.edu
+rwomack@scarletmail.rutgers.edu
 
  
 
 **Term from 2017-2021**
 
-Canada\*
+Canada*
 
 Amber Leahey
 
-amber.leahey\@utoronto.ca
+amber.leahey@utoronto.ca
 
-Europe\*
+Europe*
 
 Laurence Horton
 
-hortonlaurence\@gmail.com
+hortonlaurence@gmail.com
 
-USA\*
+USA*
 
 Harrison Dekker
 
-hdekker\@uri.edu
+hdekker@uri.edu
 
-USA\*
+USA*
 
 Sophia Lafferty-Hess
 
-sophia.lafferty.hess\@duke.edu
+sophia.lafferty.hess@duke.edu
 
-USA\*
+USA*
 
 Amy Pienta
 
-apienta\@umich.edu
+apienta@umich.edu
 
  
 
@@ -151,83 +151,83 @@ Regional Treasurer (Canada)
 
 Amber Leahey
 
-amber.leahey\@utoronto.ca
+amber.leahey@utoronto.ca
 
 Regional Treasurer (Europe & Africa)
 
 Open
 
-\
+
 
 Regional Treasurer (Asia & Pacific)
 
 Open
 
-\
 
-Editor, Quarterly\*
+
+Editor, Quarterly*
 
 Karsten Boye Rasmussen
 
-kbr\@sam.sdu.dk
+kbr@sam.sdu.dk
 
-Editor, Web\*
+Editor, Web*
 
 Zac Painter
 
-zwp\@stanford.edu\
+zwp@stanford.edu
 
-Archivist\*
+Archivist*
 
-Kelly Chatain\
+Kelly Chatain
 
-kchatain\@umich.edu
+kchatain@umich.edu
 
-Past President\*
+Past President*
 
-Tuomas J. Alaterä\
+Tuomas J. Alaterä
 
-tuomas.alatera\@tuni.fi
+tuomas.alatera@tuni.fi
 
  
 
 Committee and Action and Interest Group Chairs
 
-Constitutional Review Committee\*
+Constitutional Review Committee*
 
-Ann Green\
+Ann Green
 
-green.ann\@gmail.com
+green.ann@gmail.com
 
-Professional Development Committee\*\
+Professional Development Committee*
 
 Amy Pienta
 
-apienta\@umich.edu
+apienta@umich.edu
 
-IASSIST Fellows\*\
+IASSIST Fellows*
 
-Florio Arguillas\
+Florio Arguillas
 
-foa2\@cornell.edu\
+foa2@cornell.edu
 
-Membership Committee\*
+Membership Committee*
 
-Jen Doty\
+Jen Doty
 
-jennifer.doty\@emory.edu
+jennifer.doty@emory.edu
 
-Elections Committee\*\
-
-Tuomas J. Alaterä
-
-tuomas.alatera\@tuni.fi
-
-Communications Committee\*\
+Elections Committee*
 
 Tuomas J. Alaterä
 
-tuomas.alatera\@tuni.fi
+tuomas.alatera@tuni.fi
+
+Communications Committee*
+
+Tuomas J. Alaterä
+
+tuomas.alatera@tuni.fi
 
 Conference Program Committee 2020
 
@@ -237,25 +237,25 @@ Louise Corti, Stephanie Labou, Stephanie Tulley
 
 Geospatial Interest Group (GEOIG)
 
-Jennie Murack\
+Jennie Murack
 Amanda Tickner
 
-murack\@mit.edu\
-atickner\@msu.edu
+murack@mit.edu
+atickner@msu.edu
 
 Qualitative Social Science and Humanities DataInterest Group (QUSSHDIG)
 
-Sebastian Karcher\
+Sebastian Karcher
 Alesia Montgomery
 
-skarcher\@maxwell.syr.edu\
-alesiam\@stanford.edu \
+skarcher@maxwell.syr.edu
+alesiam@stanford.edu 
 
 Health Data Interest Group (HDIG)
 
 Richard Welpton
 
-richard.welpton\@health.org.uk
+richard.welpton@health.org.uk
 
  
 
@@ -265,81 +265,81 @@ Past Presidents
 
 Carolyn Geda
 
-cg3\@ix.netcom.com
+cg3@ix.netcom.com
 
 1979-1982
 
 Alice Robbin
 
-arobbin\@indiana.edu
+arobbin@indiana.edu
 
 1982-1985
 
 Katherine (Sue) Bryant 
 
-bryant.sue\@tbs-sct.gc.ca
+bryant.sue@tbs-sct.gc.ca
 
 1985-1988
 
 Judith Rowe
 
-judith\@princeton.edu
+judith@princeton.edu
 
 1988-1991
 
 Thomas Brown
 
-ThomasEBrownDC\@aol.com
+ThomasEBrownDC@aol.com
 
 1991-1995
 
 Charles Humphrey
 
-chuck.humphrey\@ualberta.ca
+chuck.humphrey@ualberta.ca
 
 1995-1997
 
 Elizabeth Stephenson
 
-libbie\@ucla.edu
+libbie@ucla.edu
 
 1997-2001
 
 Peter Burnhill
 
-p.burnhill\@ed.ac.uk
+p.burnhill@ed.ac.uk
 
 2001-2005
 
 Ann Green
 
-dlifecycle\@gmail.com
+dlifecycle@gmail.com
 
 2005-2007
 
 Ernie Boyko
 
-boykern\@yahoo.com
+boykern@yahoo.com
 
 2007-2011
 
 Melanie Wright
 
-melanie\@essex.ac.uk
+melanie@essex.ac.uk
 
 2011-2015
 
 Bill Block
 
-block\@cornell.edu
+block@cornell.edu
 
 2015-2019
 
 Tuomas J. Alaterä
 
-tuomas.alatera\@tuni.fi
+tuomas.alatera@tuni.fi
 
-**\* Members of the Administrative Committee**
+*** Members of the Administrative Committee**
 
 The **Executive Committee** consists of the President, the
 Vice-President, the Treasurer, the Secretary and the immediate Past

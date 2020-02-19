@@ -4,11 +4,11 @@ uid = "22"
 author = "t.alatera"
 title = "Strategic Plans"
 oldpath = "/about/strategic-plan"
-postdate = "2011-05-25 13:32:10 -0700"
+date = "2011-05-25 13:32:10 -0700"
 draft = "false"
 +++
 In 2010, a two year long effort to produce an updated five-year
-Strategic Plan for IASSIST was completed by the organization\'s
+Strategic Plan for IASSIST was completed by the organization's
 Strategic Plan Action Group. At the 2010 Annual Conference of IASSIST,
 the Administrative Committee approved the strategic plan and set its
 implementation into motion.
@@ -29,10 +29,10 @@ development of data professionals.
 
 Read the full plan: **[Democratizing Data - The IASSIST Strategic Plan
 for
-2010--2014](http://www.iassistdata.org/sites/default/files/strategic_plan_2010-14.pdf)**
+2010--2014](http://www.iassistdata.org/files/about/strategic_plan_2010-14.pdf)**
 
 Previous plans
 --------------
 
 -   [Strategic Plan
-    2004--2009](http://iassistdata.org/sites/default/files/strategic_plan_june2004.pdf) 
+    2004--2009](http://iassistdata.org/files/about/strategic_plan_june2004.pdf) 

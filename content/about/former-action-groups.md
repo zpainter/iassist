@@ -4,19 +4,19 @@ uid = "22"
 author = "t.alatera"
 title = "Former Action Groups"
 oldpath = "/about/engaging-spanish-speakers-action-group"
-postdate = "2012-07-16 08:40:12 -0700"
+date = "2012-07-16 08:40:12 -0700"
 draft = "false"
 +++
 **Engaging Spanish Speakers Action Group**
 :   Proposes a set of concrete activities that IASSIST and its members
-    could undertake to further the organization\'s engagement with data
+    could undertake to further the organization's engagement with data
     professional from Spanish (and Portuguese) speaking institutions
-    from Spain, Portugal and Latin America.\
+    from Spain, Portugal and Latin America.
     **[» Action group
     wiki](http://latinengagementiassist.wiki.zoho.com/HomePage.html)**. 
 :   Shepherd: *Melanie Wright*
-:   **2011-2012 Chairs:** *Luis Martínez-Uribe, lmartinez\@march.es and
-    Stuart Macdonald, stuart.macdonald\@ed.ac.uk*
+:   **2011-2012 Chairs:** *Luis Martínez-Uribe, lmartinez@march.es and
+    Stuart Macdonald, stuart.macdonald@ed.ac.uk*
 
 **Organizational Linkages Action Group**
 
@@ -29,4 +29,4 @@ what these other organizations are doing, in areas of mutual interest.
 
 Shepherd: *San Cannon*
 
-**2011-2012 Chair:** *Lynda Kellam, lmkellam\@uncg.edu*
+**2011-2012 Chair:** *Lynda Kellam, lmkellam@uncg.edu*

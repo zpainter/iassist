@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "Minutes 2010"
 oldpath = "/about/minutes-2010"
-postdate = "2011-08-09 04:53:32 -0700"
+date = "2011-08-09 04:53:32 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, June 3, 2010, Cornell
@@ -19,10 +19,10 @@ The meeting was called to order at 12:59 p.m.
 -----------------------------------------------------
 
 MOVED to approve the minutes of the annual general meeting of May 28,
-2009 subject to typographical editorial review.\
+2009 subject to typographical editorial review.
 Moved: T. Lindsay, seconded W. Piovesan. The motion CARRIED.
 
-3. Treasurer\'s Report
+3. Treasurer's Report
 ----------------------
 
 In the interest of brevity: the budget is holding steady. Pose any
@@ -68,7 +68,7 @@ Archivists. Congratulations to one and all. Members are encouraged to
 look at the proposed changes to the committee structure and consider
 participating. We are seeking members to contribute to IASSIST
 initiatives. Anyone interested is encouraged to contact P. Baxter.
-Don\'t be surprised if she reaches out to you.
+Don't be surprised if she reaches out to you.
 
 5. Committee Reports
 --------------------
@@ -115,7 +115,7 @@ International Outreach Committee - P. Lackie
 The committee has developed over the last two years with lots of
 conversations since Stanford and Tampere. We have come up with a more
 sustainable model. We needed a better way to sustain participation from
-members from countries with developing economies and didn\'t previously
+members from countries with developing economies and didn't previously
 have the funding and stamina to keep it going. We have a new mechanism,
 the Fellows Program. We are currently looking for new funding models and
 sources of funding. Also, we have a new co-chair, L. Woolfrey who spoke
@@ -126,8 +126,8 @@ for Africa earlier.
 
 2009 - T. Alaterä
 
-It was the second best IASSIST and this is the best one. I\'m sorry I
-couldn\'t keep my promise - we ended up making a good profit.
+It was the second best IASSIST and this is the best one. I'm sorry I
+couldn't keep my promise - we ended up making a good profit.
 
 2010 - B. Block
 
@@ -136,7 +136,7 @@ achieve the best conference ever this year.
 
 2011 - W. Piovesan
 
-IASSIST 2011 will be held in Vancouver \[applause\]. You are all
+IASSIST 2011 will be held in Vancouver [applause]. You are all
 welcome, come on down! It will be held the last week of May 2011, May
 30-June 3.
 
@@ -176,11 +176,11 @@ phone calls, and conversations at conferences we focused the plan on
 three main themes: advocacy, community, and professional development. I
 want to thank the membership for your input, which was invaluable in
 structuring the final document. I also want specifically to thank
-members of the committee: M. Edwards, P. Lackie, and R. O\'Reilley who
+members of the committee: M. Edwards, P. Lackie, and R. O'Reilley who
 spent a great deal of time working on the advocacy section of the
 document. One of the goals of the AC in working through the planning
 document was to go forward and translate those into specific actions for
-the organization. On your handout you\'ll see 6 action groups designed
+the organization. On your handout you'll see 6 action groups designed
 to incorporate concrete actions we heard throughout the planning
 process, things people wanted to see the org move forward. Each Action
 Group is a one-year group. If you are interested in working on one of
@@ -191,8 +191,8 @@ these groups, we are looking for people.
 
 Description and elaboration of the six new action groups were given. See
 the accompanying hand-out
-\[[1](http://iassistdata.org/sites/default/files/action_groups_2010_handout_pg1.pdf),
-[2](http://iassistdata.org/sites/default/files/action_groups_2010_handout_pg2-7.pdf)\]
+[[1](http://iassistdata.org/files/about/action_groups_2010_handout_pg1.pdf),
+[2](http://iassistdata.org/files/about/action_groups_2010_handout_pg2-7.pdf)]
 for more detail. We are hoping through this process to make the
 organization more responsive to the members and to open up more avenues
 for people to participate in the organization. Action groups provide
@@ -202,7 +202,7 @@ in IASSIST.
 9. Constitutional and structural reform - M. Wright
 ---------------------------------------------------
 
-A proposal for next year\'s AGM will refocus the standing committees.
+A proposal for next year's AGM will refocus the standing committees.
 The organization is no longer about paper publications but about
 community and communication.
 
@@ -228,8 +228,8 @@ today. We are still working out some of the functionality and whether
 some features will go in the .org or the .info site, such as member
 profiles. Membership renewal messages are sent from the site
 automatically. There may be some spam filtering going on, so if you
-haven\'t renewed and you\'re expecting a notice, you might want to
-contact your regional secretary if you haven\'t received one. You can
+haven't renewed and you're expecting a notice, you might want to
+contact your regional secretary if you haven't received one. You can
 also log in and check your status. There is potential for some other
 features, such as fora for discussions that are exclusively
 member-driven (private). All of this will be discussed at the session
@@ -240,7 +240,7 @@ later today.
 
 Local arrangements announcements - P. Baxter
 
-In the breakfast area there\'s an IASSIST message board. If you\'re
+In the breakfast area there's an IASSIST message board. If you're
 looking for a ride, you can look there. Please drop conference
 evaluations in the conference office. They can be done in print or
 online.

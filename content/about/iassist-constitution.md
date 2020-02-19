@@ -4,11 +4,11 @@ uid = "22"
 author = "t.alatera"
 title = "IASSIST Constitution"
 oldpath = "/about/iassist-constitution"
-postdate = "2012-01-27 13:09:55 -0700"
+date = "2012-01-27 13:09:55 -0700"
 draft = "false"
 +++
-*Endorsed by the Administrative Committee September 20, 2011.\
-Approved by the Membership December 19, 2011*\
+*Endorsed by the Administrative Committee September 20, 2011.
+Approved by the Membership December 19, 2011*
 *Effective following the annual Business Meeting June 6, 2012,
 Washington, DC.*
 
@@ -30,8 +30,8 @@ Washington, DC.*
 
 The name of this organization shall be the International Association for
 Social Science Information Services and Technology / Association
-Internationale pour les Services et Techniques d\'Information en
-Sciences Sociales, hereafter referred to as \"IASSIST\".
+Internationale pour les Services et Techniques d'Information en
+Sciences Sociales, hereafter referred to as "IASSIST".
 
 **Article ii Headquarters** {#article1}
 ---------------------------
@@ -264,7 +264,7 @@ writing to the Standing Committee on Constitutional Review with the
 written support of the Administrative Committee or at least five (5)
 paid up members of the Association; and
 
-**10.2** two months\' notice of the proposed amendments is given in
+**10.2** two months' notice of the proposed amendments is given in
 writing to all members of the Association prior to the conduct of the
 electronic ballot or during the Business Meeting of the General
 Assembly.
@@ -301,73 +301,73 @@ assembly has previously adopted a motion to that effect.
 
 The President shall:
 
-\(i) be the principal officer of IASSIST;
+(i) be the principal officer of IASSIST;
 
-\(ii) provide leadership and guidance in the realization of IASSIST\'S
+(ii) provide leadership and guidance in the realization of IASSIST'S
 objectives;
 
-\(iii) give notice to the membership of and preside at all meetings,
+(iii) give notice to the membership of and preside at all meetings,
 in-person or virtual, of the General Assembly and of the Administrative
 Committee.
 
-\(iv) participate as a voting member of the Administrative Committee;
+(iv) participate as a voting member of the Administrative Committee;
 
-\(v) represent IASSIST in its dealings with external bodies and agencies,
+(v) represent IASSIST in its dealings with external bodies and agencies,
 particularly those at the international level; and
 
-\(vi) report on the state of IASSIST at each annual Business Meeting of
+(vi) report on the state of IASSIST at each annual Business Meeting of
 the General Assembly.
 
 **12.1.2 Duties of the Vice-President (elected for a 2 year period)**
 
 The Vice-President shall:
 
-\(i) perform duties and exercise the powers of the President in the
+(i) perform duties and exercise the powers of the President in the
 absence or disability of the latter;
 
-\(ii) assist the President in recommending measures to further the
+(ii) assist the President in recommending measures to further the
 objectives of IASSIST when requested;
 
-\(iii) participate as a voting member of the Administrative Committee;
+(iii) participate as a voting member of the Administrative Committee;
 
-\(iv) participate at the annual Business Meeting, all meetings of the
+(iv) participate at the annual Business Meeting, all meetings of the
 Administrative Committee, and in any other business carried out via the
-Administrative Committee\'s email and/or online conferencing throughout
+Administrative Committee's email and/or online conferencing throughout
 the year; and
 
-\(v) in the event of the resignation, death, or incapacity of the
+(v) in the event of the resignation, death, or incapacity of the
 President, succeed as Acting President for the duration of the
-President\'s term.
+President's term.
 
 **12.1.3 Duties of the Regional Secretaries (elected for a 2 year
 period)**
 
 The Regional Secretaries shall:
 
-\(i) be the primary officers of IASSIST in their respective regions,
+(i) be the primary officers of IASSIST in their respective regions,
 working closely with the President and Executive Committee of IASSIST;
 
-\(ii) provide engagement, leadership and guidance in the realization of
-IASSIST\'s objectives in their respective regions;
+(ii) provide engagement, leadership and guidance in the realization of
+IASSIST's objectives in their respective regions;
 
-\(iii) represent IASSIST in its dealings with external bodies and
+(iii) represent IASSIST in its dealings with external bodies and
 agencies, particularly those at the national level;
 
-\(iv) represent the professional interests of IASSIST members in their
+(iv) represent the professional interests of IASSIST members in their
 respective regions and advocate those interests to members of the
 Administrative Committee and submit an annual report to the General
 Assembly;
 
-\(v) serve as members of the Standing Committee on Membership;
+(v) serve as members of the Standing Committee on Membership;
 
-\(vi) participate as a voting member of the Administrative Committee;
+(vi) participate as a voting member of the Administrative Committee;
 
-\(vii) participate at the annual Business Meeting, all meetings of the
+(vii) participate at the annual Business Meeting, all meetings of the
 Administrative Committee, and in any other business carried out via the
-Administrative Committee\'s email and/or online conferencing throughout
+Administrative Committee's email and/or online conferencing throughout
 the year; and
 
-\(viii) work closely with the chairs of the program committee and/or
+(viii) work closely with the chairs of the program committee and/or
 local arrangements committee when the annual conference is to be held in
 their region.
 
@@ -375,23 +375,23 @@ their region.
 
 Members at Large shall:
 
-\(i) participate in the Business Meeting of the General Assembly and as a
+(i) participate in the Business Meeting of the General Assembly and as a
 voting member of the Administrative Committee, and in any other business
-carried out via the Administrative Committee\'s email and/or online
+carried out via the Administrative Committee's email and/or online
 conferencing throughout the year;
 
-\(ii) provide input and support to IASSIST by providing ideas, feedback
+(ii) provide input and support to IASSIST by providing ideas, feedback
 and interests from the point of view of their region;
 
-\(iii) participate in ad hoc working groups to address tasks delegated by
+(iii) participate in ad hoc working groups to address tasks delegated by
 the Administrative Committee or the Executive Committee;
 
-\(iv) work with the Regional Secretary in promoting IASSIST and its
+(iv) work with the Regional Secretary in promoting IASSIST and its
 objectives;
 
-\(v) provide input into the annual regional report; and
+(v) provide input into the annual regional report; and
 
-\(vi) support the work of the annual conference local arrangements
+(vi) support the work of the annual conference local arrangements
 committees and/or program planning committees to support the conference
 as feasible.
 
@@ -399,136 +399,136 @@ as feasible.
 
 The Secretary shall:
 
-\(i) attend as a voting member both in-person and virtual meetings of the
+(i) attend as a voting member both in-person and virtual meetings of the
 Administrative Committee and meetings of the General Assembly; and
 
-\(ii) record all facts and minutes of all proceedings, including a record
+(ii) record all facts and minutes of all proceedings, including a record
 of votes and decisions carried out in-person or by email.
 
 **12.1.6 Duties of the Treasurer (elected for a 4 year period)**
 
 The Treasurer shall:
 
-\(i) attend as a voting member both in-person and virtual meetings of the
+(i) attend as a voting member both in-person and virtual meetings of the
 Administrative Committee and meetings of the General Assembly;
 
-\(ii) have the custody of the funds and securities of IASSIST and shall
+(ii) have the custody of the funds and securities of IASSIST and shall
 keep full and accurate accounts of receipts and disbursements in books
 belonging to IASSIST and shall deposit all monies and other valuable
 effects in the name and to the credit of IASSIST and in such
 depositories as may be designated by the Administrative Committee;
 
-\(iii) disburse the funds of IASSIST as may be ordered by the
+(iii) disburse the funds of IASSIST as may be ordered by the
 Administrative Committee;
 
-\(iv) render to the Administrative Committee at its various meetings, or
+(iv) render to the Administrative Committee at its various meetings, or
 whenever the members of the Administrative Committee may require it, an
 account of all his/her transactions as Treasurer and of the financial
 position of IASSIST;
 
-\(v) prepare a written report for submission to the General Assembly at
+(v) prepare a written report for submission to the General Assembly at
 its annual meeting;
 
-\(vi) provide the Standing Committee on Membership and the Elections
+(vi) provide the Standing Committee on Membership and the Elections
 Committee with an up-to-date report identifying members who have paid
 membership fees for the current year in each of the geographic regions;
 and
 
-\(vii) file all appropriate state and federal documents annually; and
+(vii) file all appropriate state and federal documents annually; and
 
-\(viii) perform such other duties as may from time to time be determined
+(viii) perform such other duties as may from time to time be determined
 by the Administrative Committee.
 
 ### **12.2 Appointed Officials**
 
 **12.2.1 The Regional Treasurers shall:**
 
-\(i) be appointed by the President with the approval of the
+(i) be appointed by the President with the approval of the
 Administrative Committee for a four year term which may be renewed;
 
-\(ii) assist the Treasurer in maintaining an up-to-date membership
+(ii) assist the Treasurer in maintaining an up-to-date membership
 database for their region; and
 
-\(iii) perform such other duties as may from time to time be determined
+(iii) perform such other duties as may from time to time be determined
 by the Treasurer.
 
 **12.2.2 The Editor of the IASSIST Quarterly shall:**
 
-\(i) be appointed by the President of IASSIST, on the advice of the
+(i) be appointed by the President of IASSIST, on the advice of the
 Standing Committee on Communications and with the consent of the
 Administrative Committee, for a term of four years which may be renewed;
 
-\(ii) attend as a non-voting member both in-person and virtual meetings
+(ii) attend as a non-voting member both in-person and virtual meetings
 of the Administrative Committee;
 
-\(iii) serve on the Standing Committee on Communications; and
+(iii) serve on the Standing Committee on Communications; and
 
-\(iv) be responsible for the regular preparation, publication, and
+(iv) be responsible for the regular preparation, publication, and
 distribution of the IASSIST Quarterly.
 
 **12.2.3 The Web Editor shall:**
 
-\(i) be appointed by the President, on the advice of the Standing
+(i) be appointed by the President, on the advice of the Standing
 Committee on Communications and with the consent of the Administrative
 Committee, for a term of four years which may be renewed;
 
-\(ii) attend as a non-voting member both in-person and virtual meetings
+(ii) attend as a non-voting member both in-person and virtual meetings
 of the Administrative Committee;
 
-\(iii) serve on the Standing Committee on Communications; and
+(iii) serve on the Standing Committee on Communications; and
 
-\(iv) be responsible for developing, maintaining, and providing access to
+(iv) be responsible for developing, maintaining, and providing access to
 the IASSIST website, web applications, and web based communications and
 publications.
 
 **12.2.4 The Chair of the Program Committee for the Annual Conference
 shall:**
 
-\(i) be appointed by the President of IASSIST with the consent of the
+(i) be appointed by the President of IASSIST with the consent of the
 Administrative Committee;
 
-\(ii) set up a committee to organize the program for the designated
+(ii) set up a committee to organize the program for the designated
 annual conference in coordination with the Local Arrangements Committee;
 
-\(iii) be responsible for keeping the Administrative Committee regularly
+(iii) be responsible for keeping the Administrative Committee regularly
 informed of all preparations; and
 
-\(iv) work closely with the Regional Secretary in the region in which the
+(iv) work closely with the Regional Secretary in the region in which the
 annual conference is to be held.
 
 **12.2.5 The Chair of the Local Arrangements Committee for the Annual
 Conference shall:**
 
-\(i) be appointed by the President of IASSIST with the consent of the
+(i) be appointed by the President of IASSIST with the consent of the
 Administrative Committee;
 
-\(ii) set up a committee to organize the local arrangements for the
+(ii) set up a committee to organize the local arrangements for the
 designated annual conference in coordination with the Chair of the
 Program Committee;
 
-\(iii) be responsible for keeping the Administrative Committee regularly
+(iii) be responsible for keeping the Administrative Committee regularly
 informed of all preparations; and
 
-\(iv) work closely with the Regional Secretary in the region in which the
+(iv) work closely with the Regional Secretary in the region in which the
 annual meeting is to be held.
 
 **12.2.6 The Archivist shall:**
 
-\(i) be appointed by the President with the approval of the
+(i) be appointed by the President with the approval of the
 Administrative Committee for a four year period which may be renewed;
 
-\(ii) attend as a non-voting member both in-person and virtual meetings
+(ii) attend as a non-voting member both in-person and virtual meetings
 of the Administrative Committee;
 
-\(iii) solicit and obtain records and other documentary materials from
+(iii) solicit and obtain records and other documentary materials from
 former and current officers and from the general membership in order to
 document the policies, procedures, and transactions of IASSIST;
 
-\(iv) maintain these materials in an archive or arrange for their orderly
+(iv) maintain these materials in an archive or arrange for their orderly
 transfer to another archive designated by the Administrative Committee;
 and
 
-\(v) take action to promote the use of these materials.
+(v) take action to promote the use of these materials.
 
 ### **12.3 Standing Committees**
 
@@ -545,17 +545,17 @@ IASSIST Website.
 
 **12.3.3** The Standing Committees of IASSIST are the following:
 
-\(i) Constitutional Review Committee
+(i) Constitutional Review Committee
 
-\(ii) Professional Development Committee
+(ii) Professional Development Committee
 
-\(iii) IASSIST Fellows
+(iii) IASSIST Fellows
 
-\(iv) Membership Committee
+(iv) Membership Committee
 
-\(v) Elections Committee
+(v) Elections Committee
 
-\(vi) Communications Committee
+(vi) Communications Committee
 
 ### **12.4 Action Groups**
 
@@ -610,7 +610,7 @@ their particular sphere.
 
 **12.6.1 Nominations**
 
-\(i) The President, the Vice-President, the Secretary, the Treasurer, the
+(i) The President, the Vice-President, the Secretary, the Treasurer, the
 Regional Secretaries, and one-half of the Members at Large of the
 Administrative Committee shall be elected from a slate of candidates
 nominated by the membership and put forward by the Elections Committee.
@@ -621,7 +621,7 @@ process. If a region has no members at the time nominations are
 requested, the Administrative Committee will declare that region
 inactive.
 
-\(ii) A public call for nominations will be sent out by the Elections
+(ii) A public call for nominations will be sent out by the Elections
 Committee. Any member who has paid membership fees for the year of the
 election by the time nominations are requested, may submit to the
 Elections Committee the names of as many as seven (7) persons for the
@@ -633,10 +633,10 @@ submit to the Elections Committee, the name of a person for a Regional
 Secretary who must reside in the same geographic region as the
 nomination.
 
-\(iii) The Elections Committee will compile a list of nominees which
+(iii) The Elections Committee will compile a list of nominees which
 shall be reviewed by the Administrative Committee.
 
-\(iv) A nomination must be accompanied by a written statement from the
+(iv) A nomination must be accompanied by a written statement from the
 nominee declaring his/her willingness to stand for election and an
 outline of the qualifications of the nominee. Nominees must be members
 who have paid their membership fees for the year of the election by the
@@ -644,30 +644,30 @@ time nominations are requested.
 
 **12.6.2 Voting and announcement of results**
 
-\(i) The Elections committee will compile lists of nominees and present
+(i) The Elections committee will compile lists of nominees and present
 appropriate ballots to the membership of each geographic region.
 
-\(ii) All members who have paid their membership fees for the year of the
+(ii) All members who have paid their membership fees for the year of the
 election by the time the vote is held, regardless of the geographic
 region in which they reside, shall be eligible to vote. All members in
 each geographic region who have paid their membership fees for the year
 of the election, by the time the vote is held, shall be eligible to vote
 for the Regional Secretary for that particular geographic region.
 
-\(iii) Voting will take place over a period of not more than one month
+(iii) Voting will take place over a period of not more than one month
 during any election year, with the election process completed at least
 two months prior to the annual Business Meeting. If a vote for office
 results in a tie, a second ballot with the names of the candidates who
 have tied will be sent to members for a second vote for that office.
 
-\(iv) The results of the election shall be announced to the membership
+(iv) The results of the election shall be announced to the membership
 via email and on the IASSIST web site in every election year at least
 two months prior to the Business Meeting. All winners, acclaimed or
 elected, will be listed, but the number of votes will not be published.
 If there is a nomination but no votes cast from an active region, the
 Administrative Committee will declare the region inactive.
 
-\(v) Newly elected members of the Administrative Committee and Officers
+(v) Newly elected members of the Administrative Committee and Officers
 shall take office immediately after the annual Business Meeting of the
 General Assembly following the elections.
 

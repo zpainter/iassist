@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Fellows Program"
 oldpath = "/about/outreach.html"
-postdate = "2010-01-08 22:00:31 -0700"
+date = "2010-01-08 22:00:31 -0700"
 draft = "false"
 +++
 The mission of the IASSIST Fellows Program, formerly International
@@ -30,7 +30,7 @@ representation at IASSIST. Only fully completed applications will be
 considered. Applicants submitting a paper for the conference will be
 given priority consideration for funding.
 
-» Check the [current year\'s conference
+» Check the [current year's conference
 website](https://www.iassistdata.org/conferences) for information about
 the conference and applying, including deadlines.
 

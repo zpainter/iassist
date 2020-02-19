@@ -4,18 +4,18 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2007-2008: United States"
 oldpath = "/about/regional-report-2007-2008-united-states"
-postdate = "2010-11-26 04:52:42 -0700"
+date = "2010-11-26 04:52:42 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2007-2008\
-United States\
-Pam Baxter\
-Cornell University\
+IASSIST Regional Report 2007-2008
+United States
+Pam Baxter
+Cornell University
 May 2008
 
 ### National Statistical Agencies
 
-Last year\'s regional report began with the stir regarding Census Bureau
+Last year's regional report began with the stir regarding Census Bureau
 leadership. *Plus ça change, plus c'est la même chose*. Steven Murdock
 was confirmed as Director in December, 13 months after his predecessor
 announced his intention to resign. Jay Waite, a 38-year employee of the
@@ -46,13 +46,13 @@ Association (June 2007, Washington), Society of American Archivists
 Ann Arbor), and is scheduled for this summer's American Sociological
 Association meeting in Boston.
 
-### Developments in IASSIST Members\' Institutions
+### Developments in IASSIST Members' Institutions
 
 The [Roper Center for Public Opinion
 Research](http://www.ropercenter.uconn.edu/) established its new
 residence at the University of Connecticut this year, with its board of
 directors signing a five year agreement to maintain the Center in
-Storrs. The Roper Center\'s membership family has expanded significantly
+Storrs. The Roper Center's membership family has expanded significantly
 during the last year with forty new members since last summer. The
 Center focused its acquisitions efforts on international collections.
 More than 500 United States Information Agency surveys were acquired
@@ -76,8 +76,8 @@ Commended](http://info.emeraldinsight.com/authors/literati/awards.htm?jr=rsr)
 as an Outstanding Paper of 2008. Awarded by the Emerald Literati
 Network, content of the article first came to the attention of IASSIST
 as a paper presentation at Montreal in May 2007. Its published form
-appeared as \"Incorporating data literacy into undergraduate information
-literacy programs in the social sciences: A pilot project\" (*Reference
+appeared as "Incorporating data literacy into undergraduate information
+literacy programs in the social sciences: A pilot project" (*Reference
 Services Review*; Volume: 35 Issue: 4; 2007).
 
 Katherine McNeill (MIT) serves on the Advisory Committee for the [Data
@@ -90,13 +90,13 @@ Implementation Committee of the [DDI
 Alliance](http://www.ddialliance.org/). The Committee produced 4
 versions of the DDI 3.0 Candidate review, and the final 3.0 version
 which was accepted for publication in April. Wendy wrote the draft
-version of *DDI Technical Specification Part II: User\'s Guide for
+version of *DDI Technical Specification Part II: User's Guide for
 Candidate Review* and updated both *Part I: Overview* and *Part II: User
 Guide* for the final version. With Arofan Gregory (Aeon Consulting) and
 Joachim Wackero (GESIS-ZUMA), she created and presented a DDI 3.0
 workshop for technical implementers and production staff at GESIS-ZUMA.
 
-I\'m sorry to close this report on a sad note: IASSIST member Jim Ovitt,
+I'm sorry to close this report on a sad note: IASSIST member Jim Ovitt,
 Government Data Librarian at the University of North Carolina, passed
 away on April 20 at age 51. Before entering the field of library
 science, he spent nearly 20 years in the media industry in New York as a

@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2003"
 oldpath = "/about/agm/2003agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 29, 2003 Ottawa, Ont.
@@ -24,7 +24,7 @@ An item 8d. Membership was added. The agenda were approved as amended.
 --------------------------
 
 Of the 2002 meeting of the General Assembly. Moved: Ernie Boko,
-seconded: Tess Trost \-- The motion was Carried.
+seconded: Tess Trost -- The motion was Carried.
 
 4. Matters arising
 ------------------
@@ -70,27 +70,27 @@ Giles, F Booker, C Severt, D Tsang.
 
 Africa - none, will be posted to the WWW.
 
-Australia \-- the region will report next year
+Australia -- the region will report next year
 
-**Canada** \-- W Watkins\
+**Canada** -- W Watkins
 A full report will be made available on the web site. National Data
 Archive - nothing has been done in the last year. Data Liberation
 Initiative (DLI) is alive and well. The first national data library
 training will occur this year, with representatives from coast to coast.
 CAPDU also met here in Ottawa in conjunction with IASSIST. Spin offs
-from DLI \-- former users of DLI products who are now in the labour
+from DLI -- former users of DLI products who are now in the labour
 force and involved with the creation of of surveys, are putting data in
 our collections.
 
-**Europe** \-- M Wright\
+**Europe** -- M Wright
 A full report will be made available on the web site. One highlight:
 membership numbers have dropped, but distribution around Europe has
 remained very stable, especially in eastern Europe. This is due in no
 small measure to IASSIST and the Outreach program.
 
-**United States** \-- P Adams\
+**United States** -- P Adams
 The US region had members from US in 2002-2003. US members should make
-themselves known to her. Has tried to focus on major policy issues \-- a
+themselves known to her. Has tried to focus on major policy issues -- a
 full report will be available on the web. New legislation has been
 enacted, with respect to confidentiality, and data quality. J Stratford
 has an article forthcoming in Government Information. NIH now requires
@@ -122,7 +122,7 @@ president), C Geda (Constitutional Review committee), I Einowski
 
 ### 5.c Treasury (W Thomas)
 
-Last year we had US\$74,500, now US\$74,900. The budget for next year is
+Last year we had US$74,500, now US$74,900. The budget for next year is
 a balanced budget. The financial health of the association is good.
 Changes are anticipated among the assistant treasurers group, including
 retirements. Gift and thanks were presented to G Drolet (assistant
@@ -139,7 +139,7 @@ formulated.
 ### 6.1 Outreach Action Group (M Wright)
 
 Budget for the Outreach Action Group for this conference was
-US\$3491.00. 3 applicants, offered funding to 2, but one couldn\'t make
+US$3491.00. 3 applicants, offered funding to 2, but one couldn't make
 it. Ms Omerzu from Slovenia has attended the conference.
 
 ### 6.2 Liaison & Representation (R Dekker)
@@ -186,7 +186,7 @@ presentations. Some new ideas to be announced.
 ### 8.2 Constitutional Review Committee (A Green)
 
 An election was duly conducted. Proposed changes to the constitution
-have been approved. The committee is \[no\] longer active.
+have been approved. The committee is [no] longer active.
 
 ### 8.3 Education Committee (W Watkins)
 

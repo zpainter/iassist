@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Constitution 2005"
 oldpath = "/about/constitution.html"
-postdate = "2010-01-08 22:00:25 -0700"
+date = "2010-01-08 22:00:25 -0700"
 draft = "false"
 +++
 **Note: **The membership ratified the proposed changes to the IASSIST
@@ -33,8 +33,8 @@ Article I NAME {#article1}
 
 The name of this organization shall be the International Association for
 Social Science Information Services and Technology / Association
-Internationale pour les Services et Techniques d\'Information en
-Sciences Sociales, hereafter referred to as \"IASSIST\".
+Internationale pour les Services et Techniques d'Information en
+Sciences Sociales, hereafter referred to as "IASSIST".
 
 [top of document](#top)
 
@@ -252,7 +252,7 @@ Article X AMENDMENTS {#article10}
 The Constitution of IASSIST may be amended by a two-thirds vote of the
 members on a mail ballot, such ballots to be undertaken between October
 and December of any calendar year, the results of such ballots to go
-into effect after the following year\'s annual meeting of the general
+into effect after the following year's annual meeting of the general
 Assembly, provided that:
 
 > **10.1** notice of the proposed amendments shall have been given in
@@ -260,7 +260,7 @@ Assembly, provided that:
 > written support of at least five (5) members who have paid membership
 > fees for the current year in the ASSOCIATION; and
 >
-> **10.2** two months\' notice of the proposed amendments is given in
+> **10.2** two months' notice of the proposed amendments is given in
 > writing to all members of the ASSOCIATION prior to the conduct of the
 > mail ballot.
 
@@ -285,7 +285,7 @@ Article XII BY-LAWS {#article12}
 > > **(i)** be the principal officer of IASSIST;
 > >
 > > **(ii)** provide leadership and guidance in the realization of
-> > IASSIST\'S objectives;
+> > IASSIST'S objectives;
 > >
 > > **(iii)** preside at all meetings of the General Assembly and the
 > > Administrative Committee;
@@ -317,7 +317,7 @@ Article XII BY-LAWS {#article12}
 > >
 > > **(iv)** in the event of the resignation, death, or incapacity of
 > > the President, succeed as acting President for the duration of the
-> > President\'s term.
+> > President's term.
 >
 > **12.3 Duties of the Regional Secretaries**
 >
@@ -327,7 +327,7 @@ Article XII BY-LAWS {#article12}
 > > regions, working closely with the President of IASSIST;
 > >
 > > **(ii)** provide leadership and guidance in the realization of
-> > IASSIST\'s objectives in their respective regions;
+> > IASSIST's objectives in their respective regions;
 > >
 > > **(iii)** represent IASSIST in its dealings with external bodies and
 > > agencies, particularly those at the national level;
@@ -357,7 +357,7 @@ Article XII BY-LAWS {#article12}
 > > >
 > > > **(iv)** be an ex-officio member of the Standing Committee on
 > > > Constitutional Review to maintain notices of proposed amendments
-> > > to the Association\'s constitution and to assist in the
+> > > to the Association's constitution and to assist in the
 > > > preparation and distribution of ballots; and
 > > >
 > > > **(v)** give notice of all meetings of the General Assembly and of
@@ -403,7 +403,7 @@ Article XII BY-LAWS {#article12}
 > > > **(ii)** serve on the Standing Committee on Publications; and
 > > >
 > > > **(iii)** be responsible for the regular preparation, publication,
-> > > and distribution of IASSIST\'s official Newsletter.
+> > > and distribution of IASSIST's official Newsletter.
 > >
 > > **12.4.4** The Program Director of the Annual Meeting shall:
 > >
@@ -458,7 +458,7 @@ Article XII BY-LAWS {#article12}
 > > > **(i)** Constitutional Review Committee: responsible for receiving
 > > > proposals for the enacting, amending, and repealing of the by-laws
 > > > of IASSIST and for preparing revised articles and by-laws for
-> > > members\' approval, as well as for undertaking an annual review of
+> > > members' approval, as well as for undertaking an annual review of
 > > > the constitution and by-laws and proposing amendments as it deems
 > > > appropriate.
 > > >
@@ -469,7 +469,7 @@ Article XII BY-LAWS {#article12}
 > > >
 > > > **(iii)** Membership Committee: responsible for recruiting
 > > > membership in IASSIST and for recommending alterations in the
-> > > classes of membership and dues. This committee\'s membership shall
+> > > classes of membership and dues. This committee's membership shall
 > > > include the Regional Secretaries.
 > > >
 > > > **(iv)** Nominations and Elections Committee: responsible for
@@ -482,7 +482,7 @@ Article XII BY-LAWS {#article12}
 > > > **(v)** Publications Committee: responsible for advising the
 > > > Administrative Committee on general publications program policy
 > > > and for reviewing manuscripts submitted for publications. This
-> > > Committee\'s membership shall also include the Editor of the
+> > > Committee's membership shall also include the Editor of the
 > > > Newsletter.
 > > >
 > > > **(vi)** International Outreach Committee: Provides support for
@@ -570,7 +570,7 @@ Article XII BY-LAWS {#article12}
 > > > regardless of the geographic region in which they reside, shall be
 > > > eligible to vote for nominees from each active geographic region.
 > > > The number of nominees shown on the ballot shall be proportional
-> > > to each region\'s percentage of total membership in IASSIST.
+> > > to each region's percentage of total membership in IASSIST.
 > > > Voting will take place over a period of not more than one month
 > > > during any election year, with the election process completed at
 > > > least two months prior to the annual conference. If a vote for

@@ -4,18 +4,18 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2007-2008 Asia/Pasific"
 oldpath = "/about/regional-report-2007-2008-asiapasific"
-postdate = "2010-11-29 05:57:21 -0700"
+date = "2010-11-29 05:57:21 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2007-2008\
-Asia/Pacific\
-Sophie Holloway\
-Australian National University\
+IASSIST Regional Report 2007-2008
+Asia/Pacific
+Sophie Holloway
+Australian National University
 May 2008
 
 ### AUSTRALIA
 
-**The Australian Social Science Data Archive**\
+**The Australian Social Science Data Archive**
 ASSDA has been successful in gaining a 4.2 million dollar grant to
 establish a national e-research service for the social sciences in
 Australia. Based at the Australian National University's Supercomputer
@@ -34,19 +34,19 @@ specializing in Business and Economics data and the University of
 Griffith in Crime and Policing data.
 
 **Australian Consortium for Social and Political Research Incorporated
-(ACSPRI)**\
+(ACSPRI)**
 ACSPRI is holding its second conference in research methods at the
 University of Sydney from Sunday December 7th to Wednesday December
-10th. The invited speakers for this year\'s conference are Professor Lyn
+10th. The invited speakers for this year's conference are Professor Lyn
 Richards, founder of QSR International, and Professor Colm
-O\'Muircheartaigh, University of Chicago. There will be a stream on data
+O'Muircheartaigh, University of Chicago. There will be a stream on data
 archiving and access, and it would be great to see other IASSISTers
 attending the conference. Further information can be found when
 available at <http://www.acspri.org.au>.
 
 ### NEW ZEALAND
 
-**The New Zealand Social Science Data Service**\
+**The New Zealand Social Science Data Service**
 The Social Statistics Research Group at The University of Auckland, New
 Zealand, has enjoyed a year's successful development of the New Zealand
 Social Science Data Service (NZSSDS). It now has a web presence (at
@@ -63,7 +63,7 @@ end, and getting started with the archiving, them having been custodians
 of a series of New Zealand data sets since the closure of the previous
 local effort, the New Zealand Social Research Data Archives.
 
-**The New Zealand Social Statistics Network**\
+**The New Zealand Social Statistics Network**
 NZSSN has continued its role in the development of quantitative social
 science research, with short courses held in February, one of which made
 use of data archived with NZSSDS, and a presence at the TASA/SAANZ

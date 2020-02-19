@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "IASSIST General Assembly May 14, 1993"
 oldpath = "/about/agm/1993agm.html"
-postdate = "2010-01-08 22:00:23 -0700"
+date = "2010-01-08 22:00:23 -0700"
 draft = "false"
 +++
 MINUTES - Draft copy until approved
@@ -62,7 +62,7 @@ Arrangements Committee to local assistants, and to the LAC of the
 Madison conference (1992). He further proffered thanks to the IASSIST
 and IFDO Program Chairs.
 
-Tokens of IASSIST\'s thanks were presented by the President to: Peter
+Tokens of IASSIST's thanks were presented by the President to: Peter
 Burnhill, Alison Bayley, Heather Eawing, Donald Morse, Moraig ???,
 Jackie ???, and Margaret Tubby.
 
@@ -73,7 +73,7 @@ The IASSIST banner was formally passed on to Ilona Einowski.
 The dates of the 1994 conference are May 3 through 6, 1994. On the
 Tuesday, workshops will be held at University of California, Berkeley.
 The remainder of the conference will be located at the Sheraton Hotel at
-Fisherman\'s Wharf. A meeting to plan the 1994 conference will be held
+Fisherman's Wharf. A meeting to plan the 1994 conference will be held
 June 18, 1993, at University of California, Los Angeles. All are
 welcome.
 
@@ -89,10 +89,10 @@ welcome.
 Kay Worrell reported as outgoing Treasurer. The Treasury has now been
 turned over to Martin Pawlocki.
 
-### 4.1 Treasurer\'s report as of January 1, 1993
+### 4.1 Treasurer's report as of January 1, 1993
 
-Balance forward (1991) \$16,217.48 1992 Revenues Dues paid during 1992
-\$ 9,005.00 Income from Edmonton conference 6,722.68 Income from Madison
+Balance forward (1991) $16,217.48 1992 Revenues Dues paid during 1992
+$ 9,005.00 Income from Edmonton conference 6,722.68 Income from Madison
 conference 8,000.00 Total revenues 1992 23,727.68 1992 Expenses
 Quarterly (production, UCLA) 2,809.12 Printing, stationery 71.66 Postage
 (subscription billing) 150.00 To C. Lew for IASSIST 92 expenses 5,000.00
@@ -100,18 +100,18 @@ Subscription, U. Illinois 50.00 (journal, W. Piovesan) Travel subsidy
 (airfare, W.P.) 210.00 Gifts, plaques 137.64 COPAFS membership 500.00
 Advance for IASSIST 93 expenses 4,500.00 Bank charges (Canadian cheques)
 11.18 Certified cheque charge, to P. Burnhill 9.50 Total expenses, 1992
-13,449.10 Closing balance, December 31, 1992 \$26,496.06 Last deposit
+13,449.10 Closing balance, December 31, 1992 $26,496.06 Last deposit
 1/7/93 40.00 Cheque to Martin Pawlocki, balance 26,536.06 Balance as of
-1/20/93 \$ 0.00
+1/20/93 $ 0.00
 
 Submitted by Kay Worrell, 5/11/93
 
 ### 4.2 Report to date from Martin Pawlocki May 12, 1993
 
-Total revenues \$ 32,475.04 Total expenses, 1993 3,057.12 Balance to
+Total revenues $ 32,475.04 Total expenses, 1993 3,057.12 Balance to
 date 29,418.92 Memberships: Paid individual members, 1993 131 Paid
 institutional subscriptions, 1993 32 Subtotal 163 Individual members
-paid \'92 57 Institutional subscriptions paid \'92 6 Total 226
+paid '92 57 Institutional subscriptions paid '92 6 Total 226
 
 5. Reports of the Regional Secretariats
 ---------------------------------------
@@ -147,25 +147,25 @@ University jointly offered a data library workshop in Calgary.
 
 In the realm of distributed and network service, the University of
 Alberta is now supporting its own gopher server. At Simon Fraser, the
-Research Data Library is on the university\'s Campus-Wide Information
+Research Data Library is on the university's Campus-Wide Information
 Service (CWIS) and has set up a CANSIM server which is distributed to
-UBC and the University of Alberta, with Statistics Canada\'s hearty
+UBC and the University of Alberta, with Statistics Canada's hearty
 endorsement.
 
-Further to the east, Statistics Canada\'s Quebec regional office offered
+Further to the east, Statistics Canada's Quebec regional office offered
 two, one-day workshops to librarians using their CANSIM and Census cd
-data products. A workshop for \'upcoming data librarians\' was held in
+data products. A workshop for 'upcoming data librarians' was held in
 Quebec in April.
 
 The year has seen three established data archives change places of
 residence or responsibility. Both the University of British Columbia and
 the University of Alberta libraries have taken responsibility for the
-data libraries from the computing centres. In addition, Carleton\'s
+data libraries from the computing centres. In addition, Carleton's
 Social Science Data Archives has been moved from the Sociology
 Department and is now known as the Library Data Centre. Again,
 responsibility resides in the Library.
 
-While some of the \'old\' archives were on the move, new data libraries
+While some of the 'old' archives were on the move, new data libraries
 were established at the University of Calgary, the University of
 Saskatchewan and Universite Laval. In addition, the libraries at McGill,
 Guelph, and Waterloo are thinking about consolidating, coordinating
@@ -178,18 +178,18 @@ consortium bulk purchases to five. Previous acquisitions included two
 sets of GSS (General Social Survey) data and the data from the 1986
 Census of population.
 
-Statistics Canada\'s University Liaison Program is now in its third
+Statistics Canada's University Liaison Program is now in its third
 year. This year, a member of the Headquarters staff is in residence in
-the Faculty of Education at Queen\'s University. In addition, the
+the Faculty of Education at Queen's University. In addition, the
 Vancouver, Winnipeg and Montreal Regional Offices have collaborated with
 universities in their areas.
 
-In December \[1992\], the Canadian Library Association and the federal
+In December [1992], the Canadian Library Association and the federal
 Department of Communications held a National Information Summit, with
 200 invited delegates. IASSIST was well-represented, under the guise of
 different institutions. For example, Laine Ruus attended as co-chair of
 the Canadian Global Change Data and Information Systems Panel, and Ernie
-Boyko attended as chair of the West Quebec School Board\'s Information
+Boyko attended as chair of the West Quebec School Board's Information
 Technology Committee. A report from the summit is expected any day now
 and can be made available to anyone who is interested.
 
@@ -211,7 +211,7 @@ Not to be left behind, a group of committed people is currently planning
 the Toronto Free-Net. After several planning sessions, their held their
 first meeting in late April and had to turn people away at the door. And
 a Vancouver Freenet plans to be in operation by the end of the year.
-We\'d all like to hear from the rest of you about community computing in
+We'd all like to hear from the rest of you about community computing in
 your area. Perhaps we could make it into a session next year.
 
 Thus the theme for the year is sharing our wealth of experience, forming
@@ -252,7 +252,7 @@ Adams and Mark Conrad.
 
 ### 6.1 Round table on the virtual data library - Judith Rowe
 
-Participants were unable to agree on the meaning of \'virtual archive\'.
+Participants were unable to agree on the meaning of 'virtual archive'.
 A number of concerns were discussed, including access versus ownership,
 the need for special expertise to make data available to users. In the
 U.S., there is considerable concern with federal government agencies
@@ -265,12 +265,12 @@ data.
 
 Although the table was a square one, there was consensus, partly based
 on all the papers during the conference, on software and dreams, that we
-are approaching a \'standardized dream\'. Rasmussen proposes that a
+are approaching a 'standardized dream'. Rasmussen proposes that a
 working group be set up to identify features that should be available in
-social science codebooks\...the keyword in the new codebook vision is
+social science codebooks...the keyword in the new codebook vision is
 flexibility.
 
-### 6.3 Round table on \'liberating the data\' - Ernie Boyko
+### 6.3 Round table on 'liberating the data' - Ernie Boyko
 
 The participants discussed whether or not data are as free as they might
 be. It was decided that the Norwegian policy towards data was the most
@@ -286,10 +286,10 @@ Australia too, there is a current effort to negotiate to buy census
 data. Participants were in agreement that charging for data impedes
 their use in the generation of knowledge.
 
-The quote of the conference: \"You have to love us for something other
-than money, because that is not our strength.\" - Peter Burnhill.
+The quote of the conference: "You have to love us for something other
+than money, because that is not our strength." - Peter Burnhill.
 
-Denise Lievesley\'s 10 services that data libraries provide to data
+Denise Lievesley's 10 services that data libraries provide to data
 producers:
 
 -   long-term preservation
@@ -301,7 +301,7 @@ producers:
 -   educate users in the ethical use of data
 -   act as an intermediary between data producers and data users
 -   provide feedback to producers
--   train \'baby statisticians\'.
+-   train 'baby statisticians'.
 
 Judith Rowe rejoindered that the report did not take the U.S. situation
 into account. The U.S. situation of having all federal government
@@ -313,7 +313,7 @@ replied that no Americans had participated in the round table.
 This round table had a very wide international representation, with the
 exception of Australia. It was felt that new guidelines are needed which
 are targeted at the data producers - n.b. these should be guidelines
-rather than standards\...it is probably not possible to impose standards
+rather than standards...it is probably not possible to impose standards
 at this stage. The guidelines should be applicable to more than just
 social science files, i.e. also text files. They should also be as
 generic as possible, and contain references to further information.
@@ -329,9 +329,9 @@ definitions that can be internationally accepted.
 
 ### 6.5 The nameless round table - Peter Burnhill
 
-This was a \'real\' round table. Discussion concentrated on the
+This was a 'real' round table. Discussion concentrated on the
 Internet. From this round table comes a recommendation that there should
-be a \'flotsam & jetsam\' round table with no assigned discussion topic
+be a 'flotsam & jetsam' round table with no assigned discussion topic
 for those who do not wish to participate in other round tables.
 Alternately, perhaps there should be a permanent IFDO round table.
 
@@ -343,7 +343,7 @@ The following proposals for working groups were presented:
 ### 7.1 Conference planning manual
 
 Proposal to form a Working Group on a conference planning manual for
-IASSIST\
+IASSIST
 Co-chairs: Gaetan Drolet and Laura Guy
 
 Objectives: to write a conference planning manual for IASSIST to be made
@@ -397,7 +397,7 @@ codebook format, that automatically documents what has not been
 documented. The archives having documented in the same way will be able
 to use the same software for making the conversion to the new format.
 
-Submitted by: Karsten Boye Rasmussen, Dansk Data Arkiv IASSIST \'93
+Submitted by: Karsten Boye Rasmussen, Dansk Data Arkiv IASSIST '93
 conference in Edinburgh. May 13, 1993.
 
 ### 7.3 Creating documentation guidelines for data producers Chairs - Sue Dodd, Bridget Winstanley
@@ -411,11 +411,11 @@ agencies about the Manual and its contents. In addition to requiring
 that recipients of social science funding deposit their data in an
 archive of choice, the funding agencies would be persuaded to extend
 this requirement to include the generation of acceptable documentation
-as part of the data creation process \-- using the Manual and subsequent
+as part of the data creation process -- using the Manual and subsequent
 elements as a guide. The funding agencies would make it clear that the
 initial and final responsibility for creating useable documentation
 would lie with the principal investigator(s). The manual would outline
-minimal and optimal elements \-- giving the principal investigators a
+minimal and optimal elements -- giving the principal investigators a
 choice.
 
 ### 7.4 Bibliographic standards: Chair - Patricia Vanderberg
@@ -423,8 +423,8 @@ choice.
 I propose that IASSIST establish a cataloguing working group to review
 cataloguing rules and documents that have relevance for cataloguing
 research data. Such a working group would produce a written document
-with recommendations for changes to the \_Anglo-American cataloguing
-rules\_, 2nd revised edition, that would reflect changes in both
+with recommendations for changes to the _Anglo-American cataloguing
+rules_, 2nd revised edition, that would reflect changes in both
 technological developments and access needs. This body would carry on
 the work of the former IASSIST Classification Action Group and would
 assist the IASSIST representative to the American Library Association,
@@ -447,7 +447,7 @@ within this 2 year period.
 Respectfully submitted:
 
 Patricia S. Vanderberg 212 Library University of California Berkeley, CA
-94720 USA e-mail: pvanderb\@library.berkeley.edu telephone: (510)
+94720 USA e-mail: pvanderb@library.berkeley.edu telephone: (510)
 642-2329 FAX: (510) 643-7891
 
 Moved by Craig McKie, seconded by Roger Jones that these working groups
@@ -458,7 +458,7 @@ be approved as presented. CARRIED.
 
 The following was presented to the membership:
 
-Harold Naugler served IASSIST in numerous capacities \-- program
+Harold Naugler served IASSIST in numerous capacities -- program
 coordinator for the 1984 Ottawa meeting, chair of the Constitutional
 Review Committee, and long-time member of the Administrative Committee.
 In his memory, a memorial fund has been established at the University of
@@ -480,10 +480,10 @@ send contributions to:
 The Harold Naugler Memorial Fund c/o American Foundation for UBC 1718 M
 Street NW Washington DC 20036 USA
 
-Please make checks \[sic\] payable to: \"Harold Naugler Memorial Fund\"
+Please make checks [sic] payable to: "Harold Naugler Memorial Fund"
 
 Margaret O. Adams moved, Diane Geraci seconded, a motion that IASSIST
-donate \$200.00 to this memorial fund. CARRIED.
+donate $200.00 to this memorial fund. CARRIED.
 
 9. New business
 ---------------

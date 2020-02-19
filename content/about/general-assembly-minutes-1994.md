@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes of the 1994 Annual general meeting"
 oldpath = "/about/agm/1994agm.html"
-postdate = "2010-01-08 22:00:23 -0700"
+date = "2010-01-08 22:00:23 -0700"
 draft = "false"
 +++
 Chair: Chuck Humphrey
@@ -82,7 +82,7 @@ France, Norway, South Africa, in addition to USA.
 
 ### 5.2 Treasurer - Marty Pawlocki
 
-The Association\'s only expenses are the annual conference and the
+The Association's only expenses are the annual conference and the
 IASSIST Quarterly. Income comes primarily from dues.
 
 ### 5.3 Publications Committee - Chuck Humphrey

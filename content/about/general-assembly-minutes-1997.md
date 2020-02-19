@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "IASSIST Annual General Meeting 1997"
 oldpath = "/about/agm/1997agm.html"
-postdate = "2010-01-08 22:00:23 -0700"
+date = "2010-01-08 22:00:23 -0700"
 draft = "false"
 +++
 Chair: Libbie Stephenson

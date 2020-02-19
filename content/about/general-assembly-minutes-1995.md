@@ -4,13 +4,13 @@ uid = "1"
 author = "administrator"
 title = "Minutes 1995"
 oldpath = "/about/agm/1995agm.html"
-postdate = "2010-01-08 22:00:23 -0700"
+date = "2010-01-08 22:00:23 -0700"
 draft = "false"
 +++
 The President, Chuck Humphrey called the meeting to order at 13:00, with
 approximately 85 persons present.
 
-1\. Chuck Humphrey thanked the membership for the support extended him
+1. Chuck Humphrey thanked the membership for the support extended him
 during his term as president of the Association.
 
 2. Passing of IASSIST banner
@@ -48,7 +48,7 @@ Libbie Stephenson introduced the new Administrative Committee:
     -   Bridget Winstanley (Europe)
     -   Laura Guy (USA)
 
-    \
+    
 -   New members of the Administrative Committee:
     -   Canada - Gaetan Drolet
     -   Europe - Karsten Boye Rasmussen
@@ -58,7 +58,7 @@ Libbie Stephenson introduced the new Administrative Committee:
 
 Libbie Stephenson outlined as major issues for her as president:
 
--   a\. Improved communication, through a four-pronged approach to
+-   a. Improved communication, through a four-pronged approach to
     communication policy:
     -   continuing with IASSIST Quarterly, twice per year
     -   fasttrack versions of papers from conferences on Web site

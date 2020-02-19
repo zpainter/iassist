@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 1999"
 oldpath = "/about/agm/1999agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 IASSIST Annual General Meeting, May 20, 1999, Toronto, Ont., Canada
@@ -88,11 +88,11 @@ He further introduced the continuing presidential appointments:
 --------------------------------------------------
 
 W Treadwell reported that the Association is in good financial
-condition, with reserves of approximately US\$56,000.00, which
-represents a full year\'s expenses, plus an additional cushion. Bank
+condition, with reserves of approximately US$56,000.00, which
+represents a full year's expenses, plus an additional cushion. Bank
 interest earned covers banking charges. The membership fees cover
 membership charges. Conferences generate additional revenues, for
-example, the 1998 conference generated US\$6,000.00 in net income.
+example, the 1998 conference generated US$6,000.00 in net income.
 
 The treasury consists of, in addition to herself, three regional
 treasurers:
@@ -110,7 +110,7 @@ Five issues of the IASSIST Quarterly have been mailed out, and one is at
 the printer. The process is as follows: rticles are first sent to Juri
 Stratford for editorial work, then to Walter Piovesan for layout, and
 then simultaneiously to Chuck Humphrey for mounting on the WWW site, and
-to Kinko\'s for duplicating. W Treadwell produces the labels.
+to Kinko's for duplicating. W Treadwell produces the labels.
 
 W Treadwell is also putting together a membership directory for
 publication and distribution. G Haley manages the Association listservs,

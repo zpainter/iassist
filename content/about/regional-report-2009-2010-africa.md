@@ -4,15 +4,15 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2009-2010: Africa"
 oldpath = "/about/regional-report-2009-2010-africa"
-postdate = "2010-11-29 04:38:16 -0700"
+date = "2010-11-29 04:38:16 -0700"
 draft = "false"
 +++
 IASSIST Report of the African Regional Secretary
 
-By\
-Kizito Kasozi\
-Director Information Technology\
-Uganda Bureau of Statistics\
+By
+Kizito Kasozi
+Director Information Technology
+Uganda Bureau of Statistics
 2010
 
 This report is centered on the recent developments in the African
@@ -43,8 +43,8 @@ development.
 -   Nigeria - 23
 -   Senegal - 22
 -   Uganda - 11
--   Zambia - 23\
-    \
+-   Zambia - 23
+    
 -   DataFirst - 15
 -   SADA - 150
 
@@ -73,9 +73,9 @@ presentation at different forums. Notably are the 57th Session of the
 International Statistical Institute in Durban, South Africa in August
 2009 and the Zambia National Microdata Dissemination Policy Workshop
 held in Lusaka, Zambia in April 2010 on behalf of the ADP. In she also
-released a publication entitled \"Knowledge Utilisation for Governance
+released a publication entitled "Knowledge Utilisation for Governance
 in Africa: evidence-based decision-making and the role of Survey Data
-Archives in the region\"
+Archives in the region"
 
 DataFirst received an award in the data dissemination category at the
 Statistics South Africa 2009 awards ceremony in Johannesburg in November

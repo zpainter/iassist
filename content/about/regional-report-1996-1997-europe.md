@@ -4,23 +4,23 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 1996-1997: Europe"
 oldpath = "/about/regional-report-1996-1997-europe"
-postdate = "2013-05-19 01:05:27 -0700"
+date = "2013-05-19 01:05:27 -0700"
 draft = "false"
 +++
 Report of the European Regional Secretary
 
-by\
-Bridget Winstanley\
-The Data Archive\
-University of Essex, UK\
+by
+Bridget Winstanley
+The Data Archive
+University of Essex, UK
 May 1997
 
 ::: {style="font-size:12px;"}
 
-**Per Nielsen**\
+**Per Nielsen**
 :   The European Region and IASSIST as a whole are the poorer for the
     loss of Per Nielsen. His untimely death on December 27 1996 has
-    deeply saddened us all.\
+    deeply saddened us all.
 
 <!-- -->
 
@@ -72,7 +72,7 @@ May 1997
 **The NESSTAR Project (Networked European Social Science Tools and Resources)** 
 :   The NESSTAR project is utilising recent advances in Internet
     technology to meet the increasing demand for European data. The
-    project has spent 12 months as a \"Preliminary Pilot Project,\"
+    project has spent 12 months as a "Preliminary Pilot Project,"
     funded by the European Union. This time was spent evaluating
     available technologies, identifying user requirements and developing
     a functional specification, a blue print for the final system. The
@@ -94,7 +94,7 @@ May 1997
     few computing and statistical skills to access these valuable
     sources of information. It will also facilitate cross-national
     research. Further information about the project can be found at the
-    project\'s website, <http://dawww.essex.ac.uk/projects/nesstar>. Any
+    project's website, <http://dawww.essex.ac.uk/projects/nesstar>. Any
     questions or comments about the project should be directed to Simon
     Musgrave or Michelle Rogerson.
 
@@ -106,8 +106,8 @@ May 1997
     able in October to host a meeting of European experts on electronic
     records as part of the programme of cultural events under the
     Presidency. It included a half-day seminar for Irish archivists on
-    the subject of electronic records and the launch of \"For the
-    Record\", the proceedings of the previous year\'s conference on data
+    the subject of electronic records and the launch of "For the
+    Record", the proceedings of the previous year's conference on data
     archives, electronic records and access to information to which
     Denise Lievesley and Mark Conrad contributed (and which Mark
     co-edited). This was the first Irish publication devoted to the
@@ -118,21 +118,21 @@ May 1997
     Bridget Winstanley attended a scoping meeting in Dublin in December
     last year. Kevin Schurer has been appointed to carry out the
     feasibility study which will report to the SSRC in June this year.
-:   Ken Hannigan\'s report pays tribute to the influence of IASSIST on
+:   Ken Hannigan's report pays tribute to the influence of IASSIST on
     the activity in Ireland:
-:   \"IASSISTers (yourself, Denise, Mark) have been directly involved
+:   "IASSISTers (yourself, Denise, Mark) have been directly involved
     while others such as Peggy Adams and Tom Browne have been offering
     intellectual and practical support from a distance.
 :   You noted in your report last year that Mark Conrad had been
     appointed as a Fulbright Scholar in the Archives Department of
     University College Dublin for the academic year 1995-96. He finished
     his stint in June 1996 but I think that his influence over the
-    archival profession here will be felt for a long time to come.\"
+    archival profession here will be felt for a long time to come."
 
 <!-- -->
 
 **EconData: a Dutch data service for economic data** 
-:   In the summer of 1996 SWIDOC\'s Steinmetz Archive started the
+:   In the summer of 1996 SWIDOC's Steinmetz Archive started the
     project EconData to establish a Dutch data service for economic
     data. This service will be integrated with the current activities of
     the archive. EconData builds on previous feasibility studies
@@ -159,15 +159,15 @@ May 1997
     project coordinator. He is currently active as lecturer at the
     department of Economics of the Free Univer-sity, Amster-dam. He is
     one of the authors of the aforementioned feasibility study by EIT.
-:   **SWIDOC/Steinmetz Archive**\
-    EconData\
-    Project Manager Albert Bots\
-    Herengracht 410-412\
+:   **SWIDOC/Steinmetz Archive**
+    EconData
+    Project Manager Albert Bots
+    Herengracht 410-412
     1017 BX AMSTERDAM - THE NETHERLANDS
 
-    Tel.: +31 20 6225061\
-    Fax: +31 20 6238374\
-    E-mail: <A.Bots@swidoc.nl>\
+    Tel.: +31 20 6225061
+    Fax: +31 20 6238374
+    E-mail: <A.Bots@swidoc.nl>
     Internet: <http://www.swidoc.nl>
 
 <!-- -->
@@ -235,9 +235,9 @@ May 1997
 
 or contact ECASS on
 
-(44 (0)1206 873087\
-Fax: 44 (0)1206 872403\
-Email:ecass\@essex.ac.uk\
+(44 (0)1206 873087
+Fax: 44 (0)1206 872403
+Email:ecass@essex.ac.uk
 
 **SCORUS Conference, Northern Ireland, 1998** 
 :   Derek Bond is organising the 21st International Conference on
@@ -277,21 +277,21 @@ Email:ecass\@essex.ac.uk\
     delighted to welcome the appointment of Simon Brackenbury in this
     capacity at the British Library of Political and Economic Science at
     the LSE. The post is a new one resulting from increased demand for
-    electronic data in recent years. Simon\'s duties will include:
+    electronic data in recent years. Simon's duties will include:
     locating and acquiring data for staff and students; cataloguing
     resources; collating information about data use at LSE; advising and
     assisting in the use of software for analysis and liason with
     external data providers.
 :   His contact details are:
-:   Simon Brackenbury,\
-    Data Librarian,\
-    British Library of Political and Economic Science,\
-    London School of Economics and Political Science,\
-    10 Portugal Street,\
-    London.\
+:   Simon Brackenbury,
+    Data Librarian,
+    British Library of Political and Economic Science,
+    London School of Economics and Political Science,
+    10 Portugal Street,
+    London.
     WC2A 2HD.
-:   Telephone: 0171 955 6130\
-    Fax: 0171 405 7686\
-    E-mail: <s.brackenbury@lse.ac.uk>\
+:   Telephone: 0171 955 6130
+    Fax: 0171 405 7686
+    E-mail: <s.brackenbury@lse.ac.uk>
     Web: <http://www.lse.ac.uk/blpes>
 :::

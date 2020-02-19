@@ -4,16 +4,16 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2008-2009: Europe"
 oldpath = "/about/regional-report-2008-2009-europe"
-postdate = "2010-11-29 03:50:13 -0700"
+date = "2010-11-29 03:50:13 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2008-2009\
-European Region\
-Mari Kleemola\
-Finnish Social Science Data Archive\
+IASSIST Regional Report 2008-2009
+European Region
+Mari Kleemola
+Finnish Social Science Data Archive
 June 12, 2009
 
-[Cross European Collaborations](#cross_european_collaborations) \|
+[Cross European Collaborations](#cross_european_collaborations) |
 [National Reports](#national_reports)
 
 This report begins with some observations on cross-national
@@ -24,8 +24,8 @@ national/institutional/individual activities.
 
 ### Cross European Collaborations
 
-[CESSDA and CESSDA PPP](#cessda) \| [ESS](#ess) \| [EDAN](#edan) \|
-[Bremen Workshop](#bremen) \| [DDI Training at Dagstuhl](#ddi) \|
+[CESSDA and CESSDA PPP](#cessda) | [ESS](#ess) | [EDAN](#edan) |
+[Bremen Workshop](#bremen) | [DDI Training at Dagstuhl](#ddi) |
 [Other](#other)
 
 []{#cessda}
@@ -36,7 +36,7 @@ The two-year CESSDA PPP, [Preparatory Phase Project for a Major Upgrade
 of the Council of European Social Science Data Archives (CESSDA)
 Research Infrastructure](http://www.nsd.uib.no/cessda/ppp/about/), is in
 one of its busiest working periods. Much has been achieved since the
-project began in January 2008. Details of the project\'s many activities
+project began in January 2008. Details of the project's many activities
 can be found on the [CESSDA PPP](http://www.cessda.org/) website.
 
 CESSDA [Expert Seminar](http://samfund.dda.dk/expertseminar2008/) was
@@ -58,7 +58,7 @@ website](http://epp.eurostat.ec.europa.eu/portal/page/portal/research_methodolog
 
 The European Social Survey ([ESS](http://www.europeansocialsurvey.org/))
 is an academically-driven social survey designed to chart and explain
-the interaction between Europe\'s changing institutions and the
+the interaction between Europe's changing institutions and the
 attitudes, beliefs and behaviour patterns of its diverse populations.
 The survey covers over 25 European nations and employs rigorous
 methodology. Round 4 fieldwork was completed in December 2008, and the
@@ -127,7 +127,7 @@ offered at Schloss Dagstuhl, Leibniz Center for Informatics, in November
 archives and data producing agencies. The multi-day structure of the
 workshop provides participants with an opportunity for in-depth
 assistance on the specialized features of DDI that are important to
-their organizations\' activities.
+their organizations' activities.
 
 DDI training will be offered again at Dagstuhl in October 2009, and the
 first European DDI User Group meeting (EDDI 09) will take place in
@@ -154,8 +154,8 @@ the following:
 
 ### National Reports
 
-[Denmark](#denmark) \| [Finland](#finland) \| [France](#france) \|
-[Norway](#norway) [Slovenia](#slovenia) \| [Sweden](#sweden) \| [United
+[Denmark](#denmark) | [Finland](#finland) | [France](#france) |
+[Norway](#norway) [Slovenia](#slovenia) | [Sweden](#sweden) | [United
 Kingdom](#uk)
 
 []{#denmark}
@@ -165,7 +165,7 @@ Kingdom](#uk)
 (Reported by Anne Sofie Fink Kjeldgaard)
 
 In 2008 DDA introduced two new facilities for finding studies in our
-holdings. Apart from the \'traditional\' search catalogue the users can
+holdings. Apart from the 'traditional' search catalogue the users can
 search for studies and/or questions in our Question Database. The users
 can search for phrases or wordings in questions and from the query
 result make instant comparisons or go directly to the full question text
@@ -175,8 +175,8 @@ according to the Cessda topic classifications. In this way it is
 possible to find the holdings related to the wanted topic. Both of these
 new facilities will be supplied with new search features in 2009.
 
-In October 2008 a seminar with the title \"Data Preservation and Data
-sharing: Regulations, practices and recommendations\" was arranged. At
+In October 2008 a seminar with the title "Data Preservation and Data
+sharing: Regulations, practices and recommendations" was arranged. At
 the seminar 35 Danish and international researchers had the opportunity
 to meet and discuss best practices for archiving and data sharing.
 
@@ -188,7 +188,7 @@ The full evaluation report can be read at www.sundhed.dda.dk
 
 In January 2009 senior researcher Hans Jørgen Marker could look back on
 his 25 years of employment in DDA. The day was celebrated in DDA at a
-pleasant reception with Hans Jørgens\' colleagues, family, friends and
+pleasant reception with Hans Jørgens' colleagues, family, friends and
 business relations.
 
 During 2008/9 DDA has been working on developing an editor for the DDI
@@ -225,12 +225,12 @@ Data Archive.
 In addition, three open access web resources developed by FSD have
 become important sources to social science research and teaching. 1)
 Research methods Web resource (MOTV) is widely utilized in research
-methods courses and students\' self-directed learning in universities.
-2) The research ethics web resource supports FSD\'s work on promotion of
+methods courses and students' self-directed learning in universities.
+2) The research ethics web resource supports FSD's work on promotion of
 sensitiveness to data security and data sharing. It offers information
 on the rights of research participants and how researchers should inform
 participants. Parts of this resource are also available in English:
-http://www.fsd.uta.fi/english/other\_services.html. 3) The Party
+http://www.fsd.uta.fi/english/other_services.html. 3) The Party
 Manifesto Database (POHTIVA) includes over 800 manifestos from 57
 political parties from the years 1880-2008. (Pohtiva is available in
 Finnish and partly in Swedish.)
@@ -238,7 +238,7 @@ Finnish and partly in Swedish.)
 Recently FSD was listed among the 24 research infrastructures at the
 national level in Finland by the Steering Group of the first Finnish
 road map project (Report in English
-http://www.tsv.fi/tik/laaja\_englanti\_PDF.pdf). FSD is also represented
+http://www.tsv.fi/tik/laaja_englanti_PDF.pdf). FSD is also represented
 in the project of developing Finnish national digital library and
 continues to actively co-operate with several national units (like
 Statistics Finland, National Advisory Board on Ethics, and Finnish

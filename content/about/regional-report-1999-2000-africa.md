@@ -4,17 +4,17 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 1999-2000: Africa"
 oldpath = "/about/regional-report-1999-2000-africa"
-postdate = "2011-05-13 08:38:43 -0700"
+date = "2011-05-13 08:38:43 -0700"
 draft = "false"
 +++
 Report of the African Regional Secretary
 
-By\
-Julia Paris\
-Senior Research Administrator\
-Research Development Unit\
-Technikon Witwatersrand\
-Johannesburg, South Africa\
+By
+Julia Paris
+Senior Research Administrator
+Research Development Unit
+Technikon Witwatersrand
+Johannesburg, South Africa
 2000-05-15
 
 A warm greeting from South Africa. Thank you very much for the
@@ -48,8 +48,8 @@ Board's term of office had been extended for one more year. There is
 much controversy around the existence of the Board as a decision making
 body within the new structure of the NRF.
 
-The new Head of SADA, Dr Heston Phillips (e-mail: Hphillips\@nrf.ac.za)
-reported that \"more than 220 new contacts have been made with
+The new Head of SADA, Dr Heston Phillips (e-mail: Hphillips@nrf.ac.za)
+reported that "more than 220 new contacts have been made with
 researchers and institutions. 40 data sets have been acquired, which
 increased the SADA holdings from 69 completely archived data sets in
 January '99 to 87 in October of '99. SADA is currently revising and
@@ -84,9 +84,9 @@ Namibia, Zambia Zimbabwe, Ghana and Tanzania. I am in the process of
 finding a link in Nairobi. The situation with regards to data archives
 in Africa remains an idealistic one. This is the opinion of the African
 professionals themselves. Dr Joe Uta of Malawi, a University Librarian
-at the Mzuzu University of Malawi (e-mail mzuni\@sdnp.org.mw), Dr I.K.
+at the Mzuzu University of Malawi (e-mail mzuni@sdnp.org.mw), Dr I.K.
 Antwi of the University for Development studies (e-mail:
-udslib\@libr.ug.edu.gh) in Ghana, and Jangawe Msuya of Tanzania (a
+udslib@libr.ug.edu.gh) in Ghana, and Jangawe Msuya of Tanzania (a
 recent doctoral graduate of the University of the Western Cape),
 indicated that they would be interested to further the IASSIST work in
 their respective countries. However, e-mail and fax messages sometimes

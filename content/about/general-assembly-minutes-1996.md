@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 1996"
 oldpath = "/about/agm/1996agm.html"
-postdate = "2010-01-08 22:00:23 -0700"
+date = "2010-01-08 22:00:23 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, May 17, 1996, Minneapolis MN
@@ -13,10 +13,10 @@ Chair: Libbie Stephenson
 
 Approximately 90 persons present. The meeting convened at 12:50.
 
-1\. Wendy Treadwell thanked all those who had worked with her on the 1996
+1. Wendy Treadwell thanked all those who had worked with her on the 1996
 conference, as well as the many sponsors of the conference.
 
-2\. Libbie Stephenson opened the IASSIST business meeting, and thanked
+2. Libbie Stephenson opened the IASSIST business meeting, and thanked
 those who had worked on the 1996 conference, with especial mention of
 Wendy Treadwell, Mary Drew, and Peggy Adams.
 

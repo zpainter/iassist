@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2005"
 oldpath = "/about/agm/2005agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 26, 2005, Edinburgh,
@@ -98,7 +98,7 @@ questions on the listserv, and keep the IQ strong.
 6.2 Treasurer - W Thomas
 
 The Association is in good fiscal condition, with a balance sheet up
-about \$30k. There has been a modest increase in membership. There have
+about $30k. There has been a modest increase in membership. There have
 been two changes in the past year -- J Dionne has retired and the
 Association accounts have moved to California. Paying the membership fee
 via credit card has proven to be a very popular option.

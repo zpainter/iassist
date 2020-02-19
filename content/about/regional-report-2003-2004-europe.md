@@ -4,14 +4,14 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2003-2004: Europe"
 oldpath = "/about/regional-report-2003-2004-europe"
-postdate = "2013-05-22 15:02:44 -0700"
+date = "2013-05-22 15:02:44 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2002-2003\
+IASSIST Regional Report 2002-2003
 European Region
 
-Melanie Wright\
-UK Data Archive\
+Melanie Wright
+UK Data Archive
 May 2004
 
 ### ***Introduction***
@@ -26,11 +26,11 @@ information.
 
 ### ***European membership***
 
-There are currently 49 IASSIST members from 13 countries \"on the
-books\" for the European region (down from 53/21 last year). We
+There are currently 49 IASSIST members from 13 countries "on the
+books" for the European region (down from 53/21 last year). We
 currently have no paid-up members from previously active countries:
 France, Greece, Hungary, Latvia, Romania, Russia, Slovakia, and
-Slovenia. The decrease in European membership from 2001\'s high of 82
+Slovenia. The decrease in European membership from 2001's high of 82
 undoubtedly reflects the fact that the 2000/01 conference was held in
 Amsterdam, and the subsequent two conferences in North America. The
 geographic breakdown by sub-region across these to years is shown in the
@@ -45,21 +45,21 @@ be a reflection of the success of local networks such as EDAN, which
 provide much closer to home some of the same kinds of training and
 networking opportunities previously only available at IASSIST.
 
-![](/sites/default/files/inline/eu04_1.gif "IASSIST European Members 2003"){width="480"
-height="273"}\
-![](/sites/default/files/inline/eu04_2.gif "IASSIST European Members 2002"){width="465"
-height="279"}\
-![](/sites/default/files/inline/eu04_3.gif "IASSIST European Members 2001"){width="464"
+![](/img/about/eu04_1.gif "IASSIST European Members 2003"){width="480"
+height="273"}
+![](/img/about/eu04_2.gif "IASSIST European Members 2002"){width="465"
+height="279"}
+![](/img/about/eu04_3.gif "IASSIST European Members 2001"){width="464"
 height="279"}
 
 ### ***Cross European Collaborations***
 
-**MADIERA**\
-\
-Ken Miller writes:\
+**MADIERA**
+
+Ken Miller writes:
 The MADIERA project is now half way through and on course to developing
 the tools and resources to produce an effective CESSDA gateway. Based on
-stable NESSTAR products the MADIERA portal will utilise \"Google\" type
+stable NESSTAR products the MADIERA portal will utilise "Google" type
 harvesting to incorporate the power of a multilingual thesaurus (ELSST)
 in both searches and resource evaluation.
 
@@ -77,9 +77,9 @@ It is hoped to double the number of concepts held in ELSST, to around
 put in place to ensure that the development and maintenance of the
 thesaurus continues beyond the end of the project.
 
-**MetaDater**\
-\
-Uwe Jensen writes:\
+**MetaDater**
+
+Uwe Jensen writes:
 The MetaDater project
 ([www.metadater.org](http://www.metadater.org "www.metadater.org"))
 develops a Metadata Management and Production System for comparative
@@ -93,18 +93,18 @@ development of tools for efficient and economic production and
 management of those metadata by researchers (MD-COLL) and data services
 (MD-PRO).
 
-*Progress against workpackages since January 2003:*\
+*Progress against workpackages since January 2003:*
 [WP2 - Analysis of Requirements & User
-Needs]{style="text-decoration: underline;"}\
-\
+Needs]{style="text-decoration: underline;"}
+
 The User analysis (WP2) refereed to the requirements and expectation to
 a MetaDater system and covered two potential user groups: Data
 Archivists and Researchers.
 
-*Data Archive Requirements & Expectations*\
+*Data Archive Requirements & Expectations*
 The principal contractors of the consortium (DDA, EKKE, NIWI, SSD,
 SIDOS, ZA) prepared substantial information on metadata processing and
-management according to the partner\'s workflow. A general result was
+management according to the partner's workflow. A general result was
 that the implications of the technical and functional differences
 between the existing systems and applications need deeper analytical
 work at WP 3 (Modelling the Database) to achieve a unique conceptual
@@ -113,7 +113,7 @@ requirements to be considered during the design of MD-PRO (WP5) and
 MD-COLL (WP6).
 
 *Requirements & Expectations of researcher at research and fieldwork
-institutes*\
+institutes*
 The overall result of thirteen interviews on a metadata system covered
 some concepts and specific ideas to improve metadata capture already in
 the research phase. Broader attention was paid to facilities which
@@ -122,7 +122,7 @@ design and the fieldwork. The project will consider to what extend these
 expectations can be covered developing the MD-COLL tool designed to this
 group of potential user.
 
-[WP 3 - Modelling the Database]{style="text-decoration: underline;"}\
+[WP 3 - Modelling the Database]{style="text-decoration: underline;"}
 One central part of the project work in 2003 was to develop in WP3 a
 substantial data model for metadata of the domain as the first product
 of the project. As some of the most important entities (dataset, study
@@ -133,7 +133,7 @@ data modelling are very closely related in this project. Although data
 modelling is usually described by the development of an Entity
 Relationship Diagram (ERD) and a Data Dictionary (DD), the detailed
 analysis of essential processes and their preliminary specification are
-also part of WP3. Based on the concepts of the \"Structured Analysis\"
+also part of WP3. Based on the concepts of the "Structured Analysis"
 the analysis covers two levels of abstraction, which makes no premature
 decisions about how the domain will be implemented in the final system
 
@@ -176,44 +176,44 @@ outside the project according to the following planned time schedule:
 The results will be the base of the programming phase for MD-PRO (WP5)
 and MD-COLL (WP6) as the major work in the second half of 2004.
 
-**Council of European Social Science Data Archives (CESSDA)**\
-[Transborder Data Exchange]{style="text-decoration: underline;"}\
-\
+**Council of European Social Science Data Archives (CESSDA)**
+[Transborder Data Exchange]{style="text-decoration: underline;"}
+
 CESSDA is currently working on revising its transborder data exchange
 agreement, and has set up a working group to propose a new model. The
-group\'s work will be reported on at this year\'s IASSIST conference.
+group's work will be reported on at this year's IASSIST conference.
 
-[Expert Seminar]{style="text-decoration: underline;"}\
+[Expert Seminar]{style="text-decoration: underline;"}
 The CESSDA expert seminar took place in Vienna hosted by WISDOM on 21-22
-September 2003 and focused on \"Data Service Cost Structures and User
+September 2003 and focused on "Data Service Cost Structures and User
 Needs: From Economic Aspects to Authentication Practices at CESSDA
-Archives.\" Included were sessions on steps towards a new transborder
+Archives." Included were sessions on steps towards a new transborder
 agreement: fee structures, user groups, dataset types, registration and
 authentication procedures; and the Future of Data Processing.
 
 The 2004 seminar will be in Neuchâtel, Switzerland 9-11 September,
 hosted by SIDOS, and will concern Dataset Processing and Publishing.
 
-**The East European Data Archive Network (EDAN)**\
-\
-Brigitte Haustein writes:\
-[EDAN Training Seminar]{style="text-decoration: underline;"}\
+**The East European Data Archive Network (EDAN)**
+
+Brigitte Haustein writes:
+[EDAN Training Seminar]{style="text-decoration: underline;"}
 The second training seminar of the East European Data Archive Network
 (EDAN) will be held at the University of Ljubljana (Slovenia) on 4-6
 June 2004. It is intended for DDI Beginners and covers the basics of
 producing DDI compliant codebooks. This seminar will introduce the
 structure of the DDI metadata format and demonstrate how to produce DDI
-compliant codebooks. Based on the ADP\'s experience with creating
+compliant codebooks. Based on the ADP's experience with creating
 DDI-XML codebooks the participants will learn in a hands-on exercise how
 to get the most out of the Tag Library as well as making full use of
 elements and attributes. By sharing the manuals and tools for creating
 codebooks ADP would like to launch a discussion on Best practices in
 meta data production.
 
-**ERPANET / CODATA Workshop**\
+**ERPANET / CODATA Workshop**
 [The Selection, Appraisal and Retention of Digital Scientific
-Data]{style="text-decoration: underline;"}\
-Excerpt from the final report Executive Summary :\
+Data]{style="text-decoration: underline;"}
+Excerpt from the final report Executive Summary :
 The international EPRANET/CODATA seminar examined the current state of
 practice of the selection, appraisal and retention among diverse
 scientific communities and discussed how archival concepts can best be
@@ -233,9 +233,9 @@ effective collaboration between the diverse communities can take place.
 
 ### ***National Reports***
 
-**BULGARIA**\
-\
-Brigitte Haustein writes:\
+**BULGARIA**
+
+Brigitte Haustein writes:
 In 2003 the Bulgarian Social Science Data Archive was established within
 the Research Centre Regional and Global Development (ROGLO) in Sofia.
 The archive will contribute to the accessibility of survey data,
@@ -245,15 +245,15 @@ the UNESCO Participation Programme Bulgaria. For more information,
 please contact Yantsislav Yanakiev (project director)
 <reglo-office@techno-link.com>
 
-**FINLAND**\
-\
-[FSD]{style="text-decoration: underline;"}\
-\
-Sami Borg writes:\
+**FINLAND**
+
+[FSD]{style="text-decoration: underline;"}
+
+Sami Borg writes:
 In terms of user statistics and the progress of the major projects, the
 year 2003 was successful for FSD.
 
-FSD\'s Board and National Advisory Committee accepted a new
+FSD's Board and National Advisory Committee accepted a new
 organisational structure for the archive in the spring of 2003. It was
 implemented in the beginning of 2004. The new structure defines more
 clearly who has responsibility for data localisation and acquisition,
@@ -262,7 +262,7 @@ activities.
 
 In the beginning of 2004, FSD launched a three-year project which aims
 at creating learning materials to support social science research and
-methodology teaching. See more at\
+methodology teaching. See more at
 [http://www.fsd.uta.fi/tietoarkistolehti/english/13/oppimateriaali.html](http://www.fsd.uta.fi/tietoarkistolehti/english/13/oppimateriaali.htmll).
 
 FSD began archiving qualitative data in 2003. The main challenges have
@@ -279,9 +279,9 @@ especially in social and health sciences. It also offers advice on how
 to plan and carry out research based on register information and on
 statistic reports. FSD co-operates with this new unit.
 
-**NETHERLANDS**\
-\
-Ron Dekker writes:\
+**NETHERLANDS**
+
+Ron Dekker writes:
 In 2002 the Royal Academy of Sciences decided to dissolve NIWI, where
 the Steinmetz data archive is located. Next a series of commissions
 started to give advise on the future of NIWI and the future of data
@@ -289,7 +289,7 @@ infrastructure for the Social Sciences.
 
 Their advice of the first commission (in September 2003) pointed towards
 a solution in which Steinmetz Archive and the Historical Data Archive
-would merge, and the Research Council\'s Statistical Agency would stay
+would merge, and the Research Council's Statistical Agency would stay
 at the council. This would imply missing the opportunity to merge the
 Scientific Agency, the Steinmetz, and the Historical Data Archive into
 ONE strong and substantial office. Fortunately the Royal Academy decided
@@ -307,9 +307,9 @@ data (although it is not the researcher but the university that has to
 order the data).
 
 [The Netherlands; the Steinmetz Archive and the Netherlands Historical
-Data Archive (NHDA)]{style="text-decoration: underline;"}\
-\
-Helga van Gelder writes:\
+Data Archive (NHDA)]{style="text-decoration: underline;"}
+
+Helga van Gelder writes:
 In 2003 and 2004, both data archives are part of NIWI, the Netherlands
 Institute for Scientific Information Services, which is part of the
 Royal Netherlands Academy of Arts and Sciences (KNAW).
@@ -330,11 +330,11 @@ sciences.
 Cor van der Meer is seconded to the Mercator Project of the Frisian
 Academy until the end of 2004.
 
-**NORWAY**\
-\
-[NSD]{style="text-decoration: underline;"}\
-\
-Bjørn Henrichsen writes:\
+**NORWAY**
+
+[NSD]{style="text-decoration: underline;"}
+
+Bjørn Henrichsen writes:
 From its start in 1971 NSD was a part of the Research Council of Norway.
 After a decision in the Parliament in 2002, ownership was moved from the
 Research Council to the Ministry of Education and Research. In January
@@ -346,16 +346,16 @@ for the Research Council and the NSD Board will still be elected from
 the same constituency (mainly social sciences and medicine as well as
 Statistics Norway).
 
-NSD\'s agreements with Statistics Norway, the Data Inspectorate, the
+NSD's agreements with Statistics Norway, the Data Inspectorate, the
 universities and colleges have been renewed.
 
 It is business as usual.
 
-**ROMANIA**\
-\
-[RODA]{style="text-decoration: underline;"}\
-\
-Adrian Dusa writes:\
+**ROMANIA**
+
+[RODA]{style="text-decoration: underline;"}
+
+Adrian Dusa writes:
 In the last 6 months, RODA has been working on a Visual Access Control
 Unit as an add-on to the Nesstar system. Our (beta version) module is
 based on MySQL, Apache and Tomcat servers, and is capable of reading the
@@ -368,10 +368,10 @@ completely secure, using a 128bits encryption key for usernames and
 passwords. As soon as we finish documenting it, we can release a working
 version to the community.
 
-**RUSSIA**\
-\
-Larisa Kosova writes:\
-The spring 2003, the Archive\'s collection was significantly
+**RUSSIA**
+
+Larisa Kosova writes:
+The spring 2003, the Archive's collection was significantly
 replenished. VCIOM surveys for 2002 and early 2003, IKSI surveys for
 2000, 2001 and 2002 are now available in free access at
 [http://sofist.socpol.ru/oprosy.asp](http://sofist.socpol.ru/main.asp?en=1)
@@ -399,18 +399,18 @@ data. You can find more information at
 In November 2003, an annual congress of the American Association for the
 Advancement of Slavic Studies (AAASS) took place in Toronto, Canada. The
 Russian Sociological Data Archive was presented at a special session
-called \"The Russian Sociological Data Archive as a New Tool for
-Research and Education\". For more details please visit
+called "The Russian Sociological Data Archive as a New Tool for
+Research and Education". For more details please visit
 <http://www.fas.harvard.edu/~aaass> .
 
-**SWITZERLAND**\
-\
-[SIDOS]{style="text-decoration: underline;"}\
-\
-Dominique Joye writes:\
-2003 at the SIDOS\
-\
-Last year could appear as a \"normal year\" for the SIDOS : we have
+**SWITZERLAND**
+
+[SIDOS]{style="text-decoration: underline;"}
+
+Dominique Joye writes:
+2003 at the SIDOS
+
+Last year could appear as a "normal year" for the SIDOS : we have
 complemented the datasets at disposal by adding some very interesting
 pieces and the distribution of the Swiss datasets is still in growth. In
 the same direction, we can mention an augmentation of 30% for the number
@@ -430,7 +430,7 @@ surveys, ISSP and ESS in particular, where SIDOS is responsible for.
 This is important for an archive in the Swiss context for three reasons:
 
 1.  to learn the problems linked to the production of quality data;
-2.  to better the image of the archive in the researcher\'s community by
+2.  to better the image of the archive in the researcher's community by
     giving quickly access to important data;
 3.  to stress that, for these programs, the concept of infrastructure
     for the social sciences was introduced in a special section of the
@@ -446,10 +446,10 @@ habitually furnished with the datasets. It is also the occasion the
 rethink the category of users and the way to give them access rights
 ac-cording their institutional situation for some datasets.
 
-**UKRAINE**\
-\
-Brigitte Haustein writes:\
-Within the \"Center Social Indicators\" the Project of the Open Bank of
+**UKRAINE**
+
+Brigitte Haustein writes:
+Within the "Center Social Indicators" the Project of the Open Bank of
 Social Data (DATABANK) initiates the creation of the National Bank of
 Social Data. The main purpose of this project is to promote free access
 to data of sociological surveys about Ukrainian society in the process
@@ -462,13 +462,13 @@ is expected that the completion of the DATABANK with new sociological
 survey data will be persistent and will not stop at this stage but will
 continue in the course of its existence.
 
-**UNITED KINGDOM**\
-\
-[EDINA]{style="text-decoration: underline;"}\
-\
-Robin Rice writes:\
+**UNITED KINGDOM**
+
+[EDINA]{style="text-decoration: underline;"}
+
+Robin Rice writes:
 The EDINA National Datacentre and Edinburgh University Data Library
-became a planning unit in the University\'s Information Services Group,
+became a planning unit in the University's Information Services Group,
 no longer a division in the Computing Service. EDINA added the
 Educational Image Gallery to its suite of multimedia content services,
 updated its UKBORDERS boundary data service with 2001 data, and became
@@ -498,12 +498,12 @@ and LSE - intend to open up their group to others performing similar
 roles in their universities, such as national data service site
 representatives - though they may not work in dedicated data libraries.
 An initial website for the group has been set up, with links to member
-sites and a description of the group\'s aims at,
+sites and a description of the group's aims at,
 http://datalib.ed.ac.uk/disc-uk/
 
-[ESDS]{style="text-decoration: underline;"}\
-\
-Kevin Schürer writes:\
+[ESDS]{style="text-decoration: underline;"}
+
+Kevin Schürer writes:
 The initial period of the new Economic and Social Data Service (ESDS -
 established in January 2003) was hectic but exciting. Clearly, three key
 objectives in the initial period were to establish effective
@@ -514,7 +514,7 @@ service the user community.
 
 Whilst services to users continued uninterrupted from January, the new
 service was formally launched on 30 June 2003 at an event held at
-Regent\'s College, London, at which various new products were
+Regent's College, London, at which various new products were
 demonstrated and Ian Diamond (Chief Executive, Economic and Social
 Research Council) and Len Cook (the National Statistician) gave
 addresses. This meeting also provided the opportunity for the first
@@ -562,11 +562,11 @@ summarised at follows:
     preparation of datasets in multiple software formats for http
     download.
 -   Work is being done on access control will allow more users to access
-    more datasets via http download (i.e. \"depositor permission\"
+    more datasets via http download (i.e. "depositor permission"
     datasets will be able to be mounted, non-academic users will be able
     to use download if access conditions permit, etc).
 -   Work is being done on Athens implementation, and on becoming an
-    Athens issuing agent for users outside UK HE/FE who can\'t obtain
+    Athens issuing agent for users outside UK HE/FE who can't obtain
     Athens IDs through their home institution, and on implementing
     Athens in Nesstar access control.
 -   SLD (Service Level Definition) has finally been agreed at
@@ -582,7 +582,7 @@ summarised at follows:
 
 Another strand of ESDS activity that we would wish to highlight is the
 continued acquisition of new data collections. Since the establishment
-of ESDS in addition to \'core\' and longitudinal data materials the ESDS
+of ESDS in addition to 'core' and longitudinal data materials the ESDS
 Access and Preservation has acquired a total of 63 government datasets
 (excluding new editions). This figure is 80 per cent in excess of the
 originally set target. Equally, the ESDS International data portfolio
@@ -602,6 +602,6 @@ data portfolio using the interactive web GIS.
 Over the course of 2003, ESDS had approximately 2,000 distinct users,
 who collectively accessed approximately 17,000 data collections.
 
-![](/sites/default/files/inline/eu04_2.gif "IASSIST European Members 2002"){width="465"
-height="279"}![](/sites/default/files/inline/eu04_3.gif "IASSIST European Members 2001"){width="464"
+![](/img/about/eu04_2.gif "IASSIST European Members 2002"){width="465"
+height="279"}![](/img/about/eu04_3.gif "IASSIST European Members 2001"){width="464"
 height="279"}

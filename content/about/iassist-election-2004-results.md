@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "IASSIST Election 2004 Results"
 oldpath = "/about/elections/2004/index.html"
-postdate = "2010-01-08 22:00:28 -0700"
+date = "2010-01-08 22:00:28 -0700"
 draft = "false"
 +++
 The following elected individuals assumed their offices at the 2005

@@ -4,10 +4,10 @@ uid = "1"
 author = "administrator"
 title = "IASSIST Discussion List"
 oldpath = "/about/iasst-l.html"
-postdate = "2010-01-08 22:47:39 -0700"
+date = "2010-01-08 22:47:39 -0700"
 draft = "false"
 +++
-**discuss\@lists.iassistdata.org** (former IASST-L\@lists.columbia.edu)
+**discuss@lists.iassistdata.org** (former IASST-L@lists.columbia.edu)
 is an email discussion list for IASSIST members. Everyone with a current
 membership and for whom we have an email address, and an indication that
 you wish to join the list, is registered on this distribution list.
@@ -36,6 +36,6 @@ As a non-profit organization, the resources of IASSIST, including its
 discussion list, are not to be used for commercial purposes including
 advertizing or other promotional efforts related to commercial products.
 IASSIST Policy does permit, however, the use of its discussion list for
-announcements of the availability of new datasets from members\'
+announcements of the availability of new datasets from members'
 institutions and conferences for other organizations. IASSIST Policy
 does not permit the use of this service by, or for, non-members.

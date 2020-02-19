@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "Human Subjects Interest Group"
 oldpath = "/about/human-subjects-interest-group"
-postdate = "2010-07-13 13:33:10 -0700"
+date = "2010-07-13 13:33:10 -0700"
 draft = "false"
 +++
 ### Interest Group on Human Subjects Review Committees and Privacy and Confidentiality in Research
@@ -31,52 +31,52 @@ members.
 Members
 -------
 
-Libbie Stephenson, UCLA, libbie\@ucla.edu (Chair)\
-Amy Pienta, ICPSR, apienta\@umich.edu\
-Jacob Carlson, Purdue, jrcarlso\@purdue.edu\
-Thomas Lindsay, U Minnesota, lindsayt\@socsci.umn.edu\
-Cindy Severt, U Wisconsin, Madison, cdsevert\@wisc.edu
+Libbie Stephenson, UCLA, libbie@ucla.edu (Chair)
+Amy Pienta, ICPSR, apienta@umich.edu
+Jacob Carlson, Purdue, jrcarlso@purdue.edu
+Thomas Lindsay, U Minnesota, lindsayt@socsci.umn.edu
+Cindy Severt, U Wisconsin, Madison, cdsevert@wisc.edu
 
 Past activities
 ---------------
 
 ### The 2009 Conference
 
-Session D3\
+Session D3
 **The Ideal IRB: Perspectives on Researchers, Institutional Data
-Archives and Professional Data Organizations**\
+Archives and Professional Data Organizations**
 Chair: Thomas Lindsay (University of Minnesota)
 
 In four presentations, this session will address issues with respect to
-how IRB\'s (Institutional Review Boards) affect the data
+how IRB's (Institutional Review Boards) affect the data
 gathering/sharing/preserving practices of researchers; understanding how
-IRB\'s view their role in overseeing the re-use of social science
+IRB's view their role in overseeing the re-use of social science
 researchers and how this affects institutional repositories such as
 ICPSR; and finally, we will review issues addressed in the first two
 presentations, highlight how some organizations are responding, and
 introduce a newly formed IASSIST IRB Interest Group. We plan on opening
 up the floor for discussion on next steps.
 
-Kristine Witkowski and George Alter (ICPSR)\
+Kristine Witkowski and George Alter (ICPSR)
 [»
 Presentation](http://www.fsd.uta.fi/iassist2009/presentations/D3_Witkowski.ppt)
 
 Elizabeth Stephenson (UCLA, ISSR Data Archives) and Jacob Carlson
 (Purdue University) presented by Thomas Lindsay (University of
-Minnesota)\
+Minnesota)
 [»
 Presentation](http://www.fsd.uta.fi/iassist2009/presentations/D3_Stephenson.ppt)
 
-Arja Kuula (Finnish Social Science Data Archive, FSD)\
+Arja Kuula (Finnish Social Science Data Archive, FSD)
 [»
 Presentation](http://www.fsd.uta.fi/iassist2009/presentations/D3_Kuula.ppt)
 
 ### The 2010 Conference
 
-Session E3\
+Session E3
 **Panel: Confidentiality and Access Concerns of the Social Sciences and
-Human Subjects Ethics Review Boards**\
-Chair: Thomas Lindsay (University of Minnesota)\
+Human Subjects Ethics Review Boards**
+Chair: Thomas Lindsay (University of Minnesota)
 Moderator: Libbie Stephenson, Social Science Data Archive, University of
 California, Los Angeles
 
@@ -104,7 +104,7 @@ One of the goals of the Finnish system is to find a balance between
 confidentiality and the openness of science and research. In addition to
 informing about the ethical norms that relate to data archiving, Arja
 will tell how the Finnish Social Science Data Archive has been involved
-in making guidelines for ethics review at the University of Tampere.\
+in making guidelines for ethics review at the University of Tampere.
 [»
 Presentation](http://www.ciser.cornell.edu/IASSIST/program/pres/e3/ArjaIASSIST2010%20-%20Copy.ppt)
 
@@ -113,7 +113,7 @@ the perspective that the IRB takes on data management when reviewing
 research protocols for the protection of human subjects and discuss ways
 in which these issues can be addressed. He will also discuss some
 challenges that the protection of human subjects presents to researchers
-and archives for the collection, management, and dissemination of data.\
+and archives for the collection, management, and dissemination of data.
 [»
 Presentation](http://www.ciser.cornell.edu/IASSIST/program/pres/e3/DownsDataMgtForProtectionHumanSubjects20100603.pptx)
 

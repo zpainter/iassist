@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2007"
 oldpath = "/about/agm/2007agm.html"
-postdate = "2010-01-08 22:00:25 -0700"
+date = "2010-01-08 22:00:25 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 17, 2007, Montréal,
@@ -53,7 +53,7 @@ association has three sets of accounts in three countries. A
 diagrammatic overview of the distribution of the funds was presented.
 The association has 3 times the annual operating budget in the bank, and
 is in a healthy financial position. As well, the association has some
-long term investments. Last year\'s expenditures were over budget. A
+long term investments. Last year's expenditures were over budget. A
 large portion of association revenues are from membership fees; these
 fees are returned to the membership in the form of for example the
 IASSIST Quarterly and the listserv. The budget for the coming year is
@@ -131,8 +131,8 @@ with its members.
 
 International Outreach Committee -- P Lackie
 
-Budget last year was US\$10,000. The commmittee is now looking for
-funding from other organizations. An additional US\$3,000 was allocated
+Budget last year was US$10,000. The commmittee is now looking for
+funding from other organizations. An additional US$3,000 was allocated
 to the Strategic Plan.
 
 Outreach fellows this year: Welch, Woolfrey, Epeh, Kosova. Six people
@@ -161,7 +161,7 @@ Ms Neidert also stepping down as chair of the Publications Committee.
 Chair is really only an umbrella role; the important work of the
 committee is directed by KB Rasmussen, R Rice, and S Cannon.
 
-KB Rasmussen - publication of the IQ is one year behind, but that\'s
+KB Rasmussen - publication of the IQ is one year behind, but that's
 good, because we have been even farther behind. All presenters were
 urged to submit their presentations.
 

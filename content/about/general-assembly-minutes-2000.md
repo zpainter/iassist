@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2000"
 oldpath = "/about/agm/2000agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 IASSIST Annual General Meeting, June 8, 2000, Evanston, Il., USA
@@ -64,7 +64,7 @@ a US university to host the 2002 conference.
 6. Reports
 ----------
 
-### 6.1 President and vice-president\'s report
+### 6.1 President and vice-president's report
 
 P Burnhill reported that the past 3 years have been spend resolving
 infrastructure issues within the association, and that there are
@@ -96,20 +96,20 @@ report will be produced via a participatory process via e-mail.
 Representatives of these secretariates were not present. Reports to be
 made available on the WWW.
 
-### 6.3 Treasurer\'s report (W Treadwell)
+### 6.3 Treasurer's report (W Treadwell)
 
 W Treadwell reported that there are 3 regional treasurers: JoAnne
 Dionne, Allison Bayley, and Gaetan Drolet. Membership fees have not
-changed since last year. The association has one (1) year\'s operating
+changed since last year. The association has one (1) year's operating
 funds in the bank. Conferences tend to break even. Discretionary funds
 are needed for one-time expenses, and funding of new initiatives. She
-proposed raising membership fees to US\$50.00 (\$20.00 for students to
+proposed raising membership fees to US$50.00 ($20.00 for students to
 take effect next July (2001). The membership year has been shifted to
 July through June to improve management of the process; membership fees
 can be paid with conference fees.
 
-MOVED that membership be raised from US\$40.00 (US\$20.00 for students),
-to US\$50.00 (US\$25.00 for students). Moved: Wendy Treadwell; seconded:
+MOVED that membership be raised from US$40.00 (US$20.00 for students),
+to US$50.00 (US$25.00 for students). Moved: Wendy Treadwell; seconded:
 Laine Ruus. The motion CARRIED.
 
 ### 6.4 Membership Committee report
@@ -131,9 +131,9 @@ committee has three major areas of activity:
     format changes to the IQ, including the production of a table of
     contents with links to individual articles, and individual title
     pages for each article.
--   there was additional discussion of R de Vries\' \'town crier\'
+-   there was additional discussion of R de Vries' 'town crier'
     project. K B Rasmussen and R de Vries to conduct a session on
-    \'Whither IASSIST\' at the conference.
+    'Whither IASSIST' at the conference.
 -   IQ production team: 5 issues of the IQ have been produced since the
     1999 conference. To the team has been added Bill Block (U
     Minnesota), responsible for printing labels and mailing. J Stratford

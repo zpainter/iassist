@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Regional Secretaries and Reports"
 oldpath = "/about/regions.html"
-postdate = "2010-01-08 22:00:31 -0700"
+date = "2010-01-08 22:00:31 -0700"
 draft = "false"
 +++
 [Regional Secretaries](https://iassistdata.org/about/faq.html#faq14)

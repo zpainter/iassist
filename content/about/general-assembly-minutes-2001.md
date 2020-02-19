@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2001"
 oldpath = "/about/agm/2001agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 IASSIST General Assembly, 17 May, 2001, Amsterdam, Netherlands
@@ -116,7 +116,7 @@ The US report will be posted to the WWW site.
 5.2.4 Africa (J Paris)
 
 Report is from the South African perspective. Africa has 54 countries,
-and a lot of different activities. Next year\'s report will be more
+and a lot of different activities. Next year's report will be more
 representative. Issued an invitation to IASSIST to come to Africa.
 
 ### 5.3 IASSIST Treasury
@@ -140,7 +140,7 @@ before they are shipped to York University.
 I Einowski gave a brief history of the Outreach Action Group, which
 began in 1997, and from 1997 to 2000, assisted a total of 15 people to
 come to IASSIST conferences. This year there are a total of 20 people
-attending under this program. Funding for this year\'s effort was
+attending under this program. Funding for this year's effort was
 received from the World Bank and from UNESCO. Now it is important to
 manage this success. Other initiatives being considered by the AG
 include seeking funding to hold a conference in a developing country,

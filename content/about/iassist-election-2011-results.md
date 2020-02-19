@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "IASSIST Election 2011 Results"
 oldpath = "/about/iassist-election-2011-results"
-postdate = "2013-04-16 08:21:51 -0700"
+date = "2013-04-16 08:21:51 -0700"
 draft = "false"
 +++
 The following elected individuals assumed their offices at the 2011

@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2002"
 oldpath = "/about/agm/2002agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, June 13, 2002, Storrs, Ct.
@@ -62,28 +62,28 @@ membership growing a bit.
 
 ### 4.2 Regional secretariats
 
--   Canada (W Watkins)\
+-   Canada (W Watkins)
     National Data Archive Committee round II report was accepted 3 days
     ago. Rest of report on web.
 
 <!-- -->
 
--   USA (P Adams)\
+-   USA (P Adams)
     P Doyle was named a fellow of the American Statistical Assn last
     year. Report for 2001 now up on the web; the report for 2002 is
     pending. A great deal of data activity in the United States in last
     year. P Adams commended members of APDU for taking risk of holding
     meeting in shadow of damaged pentagon shortly after September 11th.
-    The President\'s report on homeland security focussed on data, data
+    The President's report on homeland security focussed on data, data
     integrity, data standards, and telecommunications infrastructure. US
     members are urged to make our experience of data known to elected
     officials because they need our expertise.
 
 <!-- -->
 
--   Europe (M Wright)\
+-   Europe (M Wright)
     Report will be posted on the web. 82 members in the region from 21
-    countries, largely due to last year\'s Outreach Action Group. 15% of
+    countries, largely due to last year's Outreach Action Group. 15% of
     members are from eastern Europe. Lots of collaborative, pan-European
     projects.
 
@@ -91,7 +91,7 @@ membership growing a bit.
 
 The association is in good financial shape, having added to reserves
 last year. A budget has been accepted, and it does balance. Outreach
-Action Group budget will be \$2000 next year.
+Action Group budget will be $2000 next year.
 
 ### 4.4 Archives (A Green for Y Hackett)
 
@@ -200,9 +200,9 @@ Introduced the new web site: http://www.iassistdata.org, to be
 officially opened 13 June, 2002
 
 The first IASSIST web site, created in 1995, focused on answering such
-questions as \"who we are\" and \"what we are about\". The new web site
-will instead focus on \"why you want to come to this site\", and \"what
-you will get by coming to IASSIST\".
+questions as "who we are" and "what we are about". The new web site
+will instead focus on "why you want to come to this site", and "what
+you will get by coming to IASSIST".
 
 The site will also be available have the DNS www.iassist.info.
 

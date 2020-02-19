@@ -4,10 +4,10 @@ uid = "22"
 author = "t.alatera"
 title = "All about interest groups"
 oldpath = "/about/all-about-interest-groups"
-postdate = "2010-12-10 11:23:12 -0700"
+date = "2010-12-10 11:23:12 -0700"
 draft = "false"
 +++
-An Action Group to encourage interest groups\...
+An Action Group to encourage interest groups...
 ------------------------------------------------
 
 During the Ithaca 2010 conference, many members talked about wanting to
@@ -71,7 +71,7 @@ checking the membership directory on the
 [www.iassistdata.info](http://www.iassistdata.info) site.
 
 **» Consult** **[Interest Group Formation
-Checklist](http://www.iassistdata.org/sites/default/files/interest_group_checklist.pdf)
+Checklist](http://www.iassistdata.org/files/about/interest_group_checklist.pdf)
 to get started**.
 
 ### How does an interest group carry out its work in between conferences?
@@ -80,5 +80,5 @@ It is up to your group what online tools you wish to use. Your group may
 have experience or preferences for certain online tools such as google
 docs, ning, skype, wikis, etc. You are welcome to use IASSIST tools.
 Once approved by the Admin Committee, your group can set up a listserv,
-if desired, by sending a request to iasst-l-owner\@lists.columbia.edu
+if desired, by sending a request to iasst-l-owner@lists.columbia.edu
 explaining it is for an IASSIST interest group.

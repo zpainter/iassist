@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes 2006"
 oldpath = "/about/agm/2006agm.html"
-postdate = "2010-01-08 22:00:24 -0700"
+date = "2010-01-08 22:00:24 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 25, 2006, Ann Arbor,

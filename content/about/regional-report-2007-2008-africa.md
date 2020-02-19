@@ -4,15 +4,15 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2007-2008: Africa"
 oldpath = "/about/regional-report-2007-2008-africa"
-postdate = "2011-05-13 08:29:28 -0700"
+date = "2011-05-13 08:29:28 -0700"
 draft = "false"
 +++
 Report of the African Regional Secretary
 
-By\
-Kitzito Kasozi\
-Director Information Technology\
-Uganda Bureau of Statistics\
+By
+Kitzito Kasozi
+Director Information Technology
+Uganda Bureau of Statistics
 2008
 
 I convey warm greetings from Africa. I am humbled for this opportunity
@@ -63,7 +63,7 @@ community of practice had to follow suit.
 ### The African Association of Statistical Data Archivists
 
 The AFRICAN ASSOCIATION OF STATISTICAL DATA ARCHIVISTS / ASSOCIATION
-AFRICAINE POUR L\'ARCHIVAGE DES DONNÉES STATISTIQUES (AASDA) was formed
+AFRICAINE POUR L'ARCHIVAGE DES DONNÉES STATISTIQUES (AASDA) was formed
 at a meeting held in Cape Town, South Africa (10th - 12th April). The
 meeting was hosted by the University of Cape Town, organised by
 DataFirst and funded by IHSN. The meeting was opened by the Statistician

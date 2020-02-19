@@ -4,14 +4,14 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2003-2004 Asia/Pasific"
 oldpath = "/about/regional-report-2003-2004-asiapasific"
-postdate = "2013-05-17 11:11:42 -0700"
+date = "2013-05-17 11:11:42 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2003-04\
+IASSIST Regional Report 2003-04
 Australia
 
-Sophie Holloway\
-Australian National University\
+Sophie Holloway
+Australian National University
 May 2004
 
 After a recent hiatus in data preservation and sharing issues, 2003-04
@@ -44,7 +44,7 @@ speak at a number of workshops in New Zealand about the necessity of
 setting up a data archive and access to government data in New Zealand.
 I also spoke about the importance of joining IASSIST, and gaining the
 benefit of the years of experience and collegiate support that this
-organisation offers. Since then, we\'ve had visitors from New Zealand to
+organisation offers. Since then, we've had visitors from New Zealand to
 discuss the different ways that could be achieved, and the developments
 look very positive. Since the New Zealand Data Archive closed its doors
 in 1996, the Australian data archive has played a care taker role for

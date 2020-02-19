@@ -4,14 +4,14 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2010-2011: Canada"
 oldpath = "/about/regional-report-2010-2011-canada"
-postdate = "2011-06-08 12:54:24 -0700"
+date = "2011-06-08 12:54:24 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2010-2011\
-Canada\
-Marilyn Andrews\
-University of Regina\
+IASSIST Regional Report 2010-2011
+Canada
+Marilyn Andrews
+University of Regina
 May 2011
 
 » **[Report in PDF
-format](http://iassistdata.org/sites/default/files/canada_regional_report_2010-2011.pdf).**
+format](http://iassistdata.org/files/about/canada_regional_report_2010-2011.pdf).**

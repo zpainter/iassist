@@ -4,11 +4,11 @@ uid = "1"
 author = "administrator"
 title = "IASSIST ELECTION"
 oldpath = "/about/membership/elections/index.html"
-postdate = "2010-01-08 22:00:26 -0700"
+date = "2010-01-08 22:00:26 -0700"
 draft = "false"
 +++
 [ ]{.tweet-text}Questions about the Election? Please contact Elections
-Committee Chair Bill Block (block\@cornell.edu).
+Committee Chair Bill Block (block@cornell.edu).
 
 IASSIST ELECTION 2019 - Results
 -------------------------------
@@ -42,7 +42,7 @@ Newly elected officials are listed below. Congratulations to all.
 | United States                     | Stephanie Tulley                  |
 +-----------------------------------+-----------------------------------+
 
-Adminstrative Committee Member-at-Large\
+Adminstrative Committee Member-at-Large
 (4 Years)
 
 Name of Incumbent
@@ -70,13 +70,13 @@ Biographies](https://iassistdata.org/about/2019-election-bios "2019 Elections Ca
 
 #### Results of the previous Elections
 
-**\| [2017](https://iassistdata.org/about/iassist-election-2017-results)
-\| [2015](https://iassistdata.org/about/iassist-election-2015-results)\|
-[2013](https://iassistdata.org/about/iassist-election-2013-results)\|
-[2011](https://iassistdata.org/about/iassist-election-2011-results)\|
-[2009](http://www.iassistdata.org/about/iassist-election-2009-results)\|
-[2007](https://iassistdata.org/about/elections/2007/index.html)\|
-[2004](https://iassistdata.org/about/elections/2004/index.html)\|
-[2002](https://iassistdata.org/about/elections/2002/index.html) \|**
+**| [2017](https://iassistdata.org/about/iassist-election-2017-results)
+| [2015](https://iassistdata.org/about/iassist-election-2015-results)|
+[2013](https://iassistdata.org/about/iassist-election-2013-results)|
+[2011](https://iassistdata.org/about/iassist-election-2011-results)|
+[2009](http://www.iassistdata.org/about/iassist-election-2009-results)|
+[2007](https://iassistdata.org/about/elections/2007/index.html)|
+[2004](https://iassistdata.org/about/elections/2004/index.html)|
+[2002](https://iassistdata.org/about/elections/2002/index.html) |**
 
  

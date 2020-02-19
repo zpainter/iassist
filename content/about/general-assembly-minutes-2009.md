@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "Minutes 2009"
 oldpath = "/about/minutes-2009"
-postdate = "2010-06-18 02:43:54 -0700"
+date = "2010-06-18 02:43:54 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 28, 2009, Tampere,
@@ -29,7 +29,7 @@ fifty members above average. The new membership database is up and
 available. If you did not receive an email from Jennifer Green, go to
 http://www.iassistdata.info/. Please log in and change your password
 from the default and fill out your profile. Send any questions to
-greenjen\@gmail.com.
+greenjen@gmail.com.
 
 4. Regional Reports
 -------------------
@@ -49,8 +49,8 @@ interested in participating in the migration should contact Robin Rice.
 
 *International Outreach Committee*
 
-The committee has been renamed \"Committee for IASSIST Fellows.\" Most
-of this year\'s fellowships were funded by IFDO (5000 Euros) and member
+The committee has been renamed "Committee for IASSIST Fellows." Most
+of this year's fellowships were funded by IFDO (5000 Euros) and member
 dues. The committee list will be moved to the membership database. New
 members are welcome. Contact Paula Lackie if you are interested.
 
@@ -80,7 +80,7 @@ volunteers; contact him directly if interested.
 2009 Conference - no profit but will break even
 
 2010 Conference - will be held at Cornell in Ithaca, NY. The venue will
-be the Statler Hotel on Cornell campus, part of Cornell\'s Hospitality
+be the Statler Hotel on Cornell campus, part of Cornell's Hospitality
 Management Program
 
 2012 Conference - there has been an expression of interest from

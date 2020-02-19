@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Frequently Asked Questions"
 oldpath = "/about/faq.html"
-postdate = "2010-01-08 22:00:30 -0700"
+date = "2010-01-08 22:00:30 -0700"
 draft = "false"
 +++
 ### Membership
@@ -26,7 +26,7 @@ draft = "false"
 -   [What if I want to take on a leadership role in IASSIST?](#faq8)
 -   [How are Regional Secretaries chosen and what do they do?](#faq14)
 -   [Can I propose a new Action Group or Interest Group?](#faq19)
--   [What if I can\'t wait for the annual meeting and want to form an
+-   [What if I can't wait for the annual meeting and want to form an
     Action Group or Interest Group to deal with an important issue or
     topic of the moment?](#faq20)
 
@@ -85,15 +85,15 @@ draft = "false"
     by separate submission. A second notice is sent out later in the
     year if we have no record of your renewal. Questions about your
     membership status should be directed to the
-    [Treasurer](https://www.iassistdata.info/treasurers/).\
+    [Treasurer](https://www.iassistdata.info/treasurers/).
 
 <!-- -->
 
-**[What currencies can I use to pay my membership fees?]{#faq15}**\
+**[What currencies can I use to pay my membership fees?]{#faq15}**
 :   Membership fees paid with your conference registration are in
     whatever currency is used by the conference. The rate is provided by
     the Treasurer. Payments can be made in US dollars, Canadian dollars,
-    GB Pounds, or Euros. You can pay by credit card or check/cheque \--
+    GB Pounds, or Euros. You can pay by credit card or check/cheque --
     please contact the [currency-appropriate
     treasurer](https://www.iassistdata.info/treasurers/). You need to
     designate the currency in which you want your payment processed. If
@@ -102,11 +102,11 @@ draft = "false"
 
 <!-- -->
 
-**[How do you determine the non-US dollar membership fees?]{#faq16}**\
+**[How do you determine the non-US dollar membership fees?]{#faq16}**
 :   The Treasurer makes yearly evaluations of the Canadian, GB Pound,
     and Euro rates. We generally look at a month or more of rates (to
     account for slight fluctuations) and then take the current rate for
-    \$50 US and round to the nearest full Canadian Dollar, Pound, or
+    $50 US and round to the nearest full Canadian Dollar, Pound, or
     Euro. These rates are set in February of each year and are not
     adjusted unless there are major changes in the exchange rate.
 
@@ -132,7 +132,7 @@ draft = "false"
     purposes including advertising or other promotional efforts related
     to commercial products. IASSIST Policy does permit, however, the use
     of its discussion list for announcements of the availability of new
-    datasets from members\' institutions and conferences for other
+    datasets from members' institutions and conferences for other
     organizations. IASSIST Policy does not permit the use of this
     service by, or for, non-members.
 
@@ -161,13 +161,13 @@ draft = "false"
 **[How can I become involved in the IASSIST activities?]{#faq1}**
 :   Besides attending the annual conference, small groups of volunteers
     work together during the year on designated activities. These groups
-    can be:\
-    \--Committees (permanent groups with a mission designated in the
-    constitution),\
-    \--Action Groups (groups formed by the Administrative Committee for
-    a defined, limited-time task),\
-    \--Interest Groups (groups formed by the Administrative Committee to
-    serve as a forum for discussion on topics of interest).\
+    can be:
+    --Committees (permanent groups with a mission designated in the
+    constitution),
+    --Action Groups (groups formed by the Administrative Committee for
+    a defined, limited-time task),
+    --Interest Groups (groups formed by the Administrative Committee to
+    serve as a forum for discussion on topics of interest).
     See the [Committees page](/about/committees.html) for the names and
     charges of these groups with contact information for each Chair.
     With the exception of the Elections Committee, volunteers are
@@ -190,13 +190,13 @@ draft = "false"
 
 <!-- -->
 
-**[How are Regional Secretaries chosen and what do they do?]{#faq14}**\
+**[How are Regional Secretaries chosen and what do they do?]{#faq14}**
 :   One Regional Secretary is elected for each
     [Region](https://www.iassistdata.org/about/regions.html). They are
     elected by members of their region for a two-year term and may be
     re-elected. Regional Secretaries, the primary officers of IASSIST in
     their respective regions, provide leadership and guidance in the
-    realization of IASSIST\'s objectives in their respective regions.
+    realization of IASSIST's objectives in their respective regions.
     They represent IASSIST in its dealings with external bodies and
     agencies, particularly at the national level. Regional Secretaries
     form part of the Membership Committee and attend all meetings of the
@@ -218,7 +218,7 @@ draft = "false"
 
 <!-- -->
 
-**[What if I can\'t wait for the annual meeting and want to form an Action Group or Interest Group to deal with an important issue or topic of the moment?]{#faq20}**
+**[What if I can't wait for the annual meeting and want to form an Action Group or Interest Group to deal with an important issue or topic of the moment?]{#faq20}**
 :   If the establishment of an Action/Interest Group is made during the
     course of the fiscal year, the Administrative Committee shall
     determine the duration of the term at the time of establishment.
@@ -245,7 +245,7 @@ draft = "false"
 <!-- -->
 
 **[How do I access the IASSIST list serv?]{#faq11}**
-:   IASST-L\@columbia.edu is an email discussion list for IASSIST
+:   IASST-L@columbia.edu is an email discussion list for IASSIST
     members. To have access [join
     IASSIST](http://www.iassistdata.info/application)! Members can
     access the list by one of two methods.
@@ -260,7 +260,7 @@ draft = "false"
 
 <!-- -->
 
-**[Is the IASSIST listserv available to browse and search?]{#faq12}**\
+**[Is the IASSIST listserv available to browse and search?]{#faq12}**
 :   Thanks to the hosts of the IASSIST list at Columbia University,
     members can see previous postings to the list by using the link to
     the list archive that is on the IASSIST [Membership
@@ -272,7 +272,7 @@ draft = "false"
 
 <!-- -->
 
-**[What is the scope of the IASSIST Quarterly (IQ)?]{#faq23}**\
+**[What is the scope of the IASSIST Quarterly (IQ)?]{#faq23}**
 :   The IASSIST Quarterly is the long-running journal of our
     organisation. The Editor is appointed by the Administrative
     Committee, and is supported by the chair and members of the
@@ -281,14 +281,14 @@ draft = "false"
 
 <!-- -->
 
-**[How do I submit an article to the IQ?]{#faq24}**\
+**[How do I submit an article to the IQ?]{#faq24}**
 :   Articles are welcome throughout the year. See [instructions for
     authors](/iq/instructions-authors) in the IASSIST Quarterly section
     of this site.
 
 <!-- -->
 
-**[How is the IASSIST website and iBlog managed?]{#faq22}**\
+**[How is the IASSIST website and iBlog managed?]{#faq22}**
 :   The IASSIST Web Editor is appointed by the Administrative Committee.
     The Communications Committee supports the Web Editor by volunteering
     to be active on the [Web Team](/about/web-team).
@@ -298,10 +298,10 @@ draft = "false"
 
 <!-- -->
 
-**[How can I follow / be followed by iassistdata on Twitter or Facebook?]{#faq25}**\
+**[How can I follow / be followed by iassistdata on Twitter or Facebook?]{#faq25}**
 :   IASSIST has a Twitter account, managed by the web team. If you have
-    a twitter account, you can follow iassistdata. We\'ll follow you
-    back unless you block us (it\'s up to you!). We\'ll occasionally
+    a twitter account, you can follow iassistdata. We'll follow you
+    back unless you block us (it's up to you!). We'll occasionally
     retweet data-related tweets. A recent stream comes through the
     IASSIST home page. View an [iBlog
     post](/blog/iassist-twitter-account) announcing the IASSIST twitter

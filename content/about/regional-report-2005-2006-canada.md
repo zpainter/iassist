@@ -4,13 +4,13 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2005-2006: Canada"
 oldpath = "/about/regional-report-2005-2006-canada"
-postdate = "2011-05-14 07:23:55 -0700"
+date = "2011-05-14 07:23:55 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2005-2006\
-Canada\
-Bo Wandschneider\
-University of Guelph\
+IASSIST Regional Report 2005-2006
+Canada
+Bo Wandschneider
+University of Guelph
 May 16, 2006
 
 **CENSUS** : 2006 is a Census year and the day I am writing this is
@@ -86,7 +86,7 @@ Statistical Literacy, Census, GIS and DDI.
 **IASSIST 2007** -- McGill Library and EDRS invite everyone in the
 IASSIST community to come to wonderful city of Montreal in May 2007 when
 the IASSIST conference comes to McGill University. Mark the dates: May
-12\--18, 2007. We are interested in holding sessions en français, and
+12--18, 2007. We are interested in holding sessions en français, and
 would appreciate feedback from those interested in participating or
 attending.
 
@@ -97,7 +97,7 @@ posted on the CAPDU website [http://www.capdu.ca](http://www.capdu.ca/)
 
 **NDA** -- If you recall, the note from Chuck last year discussed the
 *National Consultation on Access to Scientific Research Data* report
-that had just been submitted. At this stage the PM\'s National Science
+that had just been submitted. At this stage the PM's National Science
 Advisor, Arthur Carty, and David Strong from the NCASRD have been in
 Ottawa trying to find a champion for the NCASRD report. Data Canada,
 which would include national data archiving services, is the entity that
@@ -140,7 +140,7 @@ analysts.
 
 A grant application to the CFI.s Leading Edge fund was prepared last
 fall and submitted over the winter. The RDC Network is asking for
-approximately \$4 million from CFI, under the \$10m proposal.. These
+approximately $4 million from CFI, under the $10m proposal.. These
 funds will be used to build a VPN and to mark up the master files in
 DDI. If the fund succeeds, it will allow the RDCs to share resources
 such as analysts, across the network. This will relieve the pressure on
@@ -166,8 +166,8 @@ base package.
 single National Federation as part of the transition needed under the
 new Carnegie Classification model for ICPSR membership.
 
-**Citation Guide for Data**: Gaëtan Drolet reports that the \"How to
-cite Statistics Canada products\" originally developed as a Data
+**Citation Guide for Data**: Gaëtan Drolet reports that the "How to
+cite Statistics Canada products" originally developed as a Data
 Liberation Initiative tool will become an official Statistics Canada
 publication this summer ([Publication number
 12-591](http://www.statcan.ca/english/freepub/12-591-XIE/12-591-XIE2006001.htm)).
@@ -176,16 +176,16 @@ data or maps.
 
 **Regional Groups** -- Data in Ontario, a sub-group of OCUL (Ontario
 Council of University Libraries) recently prepared a discussion paper
-called, \"[Common Metadata Standards and A Centralized Web-based Data
+called, "[Common Metadata Standards and A Centralized Web-based Data
 Extraction and Analysis System for
-Ontario](http://janus.ssc.uwo.ca/dino/20060510_DINO_Discussion%20Paper_Final.doc)\"
+Ontario](http://janus.ssc.uwo.ca/dino/20060510_DINO_Discussion%20Paper_Final.doc)"
 . The paper grew out of a discussion about where the needs of the
 community were in terms of providing easy access to our collections of
 electronic data. It takes stock of where the different institutions are
 now and where they want to be down the road. The paper has a strong
 focus on metadata standards and DDI, and suggested that there was an
 opportunity to develop these initiatives under the umbrella of the very
-successful Scholar\'s Portal collaboration. The initiatives would
+successful Scholar's Portal collaboration. The initiatives would
 leverage resources already out there in the community in terms of
 creating standard based metadata, such as those outlined by CANDDI. In
 addition it would follow a model that does not preclude, but encourages
@@ -204,7 +204,7 @@ Watkins is presenting a paper co-written by Chuck Humphrey at the ICOTS
 conference in Brazil in July.
 
 In addition Chuck published a chapter in a book on DLI training that
-came out in the fall of 2005.\
+came out in the fall of 2005.
 Charles Humphrey, Collaborative Training in Statistical and Data Library
 Services: Lessons from the Canadian Data Liberation Initiative, in
 William Miller and Rita Pellen, Libraries Beyond Their Institutions:

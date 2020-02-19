@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "Minutes 2011"
 oldpath = "/about/minutes-2011"
-postdate = "2012-06-17 05:07:27 -0700"
+date = "2012-06-17 05:07:27 -0700"
 draft = "false"
 +++
 Meeting of the General Assembly, Thursday, June 2, 2011 Vancouver,
@@ -20,7 +20,7 @@ MOVED to approve the minutes of the annual general meeting of June 3rd,
 2010 as submitted. Moved: W. Watkins, seconded M. Edwards. The motion
 CARRIED.
 
-3. Treasurer\'s Report - J. Green
+3. Treasurer's Report - J. Green
 ---------------------------------
 
 The treasury is healthy. Last year we made a small profit and we have
@@ -49,14 +49,14 @@ secretary for Asia-Pacific, and the other positions remain unchanged.
 R. Rice reported that the Publications Committee will become the
 Communications Committee. There will need to be a new charge as we think
 carefully about the ways IASSIST communicates. W. Piovesan has stepped
-down as chair and R. Rice will take his place. In a \"web site by the
-numbers\" report, R. Rice mentioned some of the work of the twelve
+down as chair and R. Rice will take his place. In a "web site by the
+numbers" report, R. Rice mentioned some of the work of the twelve
 members of the web team: they have held 20 Skype meetings, twelve
 featured members, eleven years of past conference presentations, all
 back issues of the IQ are scanned and will be posted soon, 301 tweets
 and a few less Facebook posts, thirty-four blog posts, and one hundred
 new resources on data management and curation. All members are able to
-post to the blog -- use the \"contact us\" for questions. K. Boye
+post to the blog -- use the "contact us" for questions. K. Boye
 Rasmussen said that there is a short report on the web site that
 everyone should check out. He also encouraged everyone to participate
 through authoring articles or editing.
@@ -107,7 +107,7 @@ from Purdue.
 7. Conference Reports and Announcements
 ---------------------------------------
 
-The conference in Ithaca made over \$6000 in profit and had much higher
+The conference in Ithaca made over $6000 in profit and had much higher
 attendance than normal. T. Mulcahy and NORC will host IASSIST 2012 in
 DC, June 4-8. From May 29 to June 3, 2013 GESIS will host the conference
 in Cologne, Germany. Expressions of interest are welcome for 2014-2015.
@@ -174,5 +174,5 @@ None.
 M. Wright wants to say goodbye and feels good about handing things over
 to B. Block.
 
-MOVED to adjourn the annual general meeting.\
+MOVED to adjourn the annual general meeting.
 Moved: E. Boyko; seconded B. Block. The motion CARRIED.

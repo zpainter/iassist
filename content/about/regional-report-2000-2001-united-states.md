@@ -4,15 +4,15 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2000-2001: United States"
 oldpath = "/about/regional-report-2000-2001-united-states"
-postdate = "2011-04-19 07:58:50 -0700"
+date = "2011-04-19 07:58:50 -0700"
 draft = "false"
 +++
-US IASSIST Regional Secretary\'s Report,\
+US IASSIST Regional Secretary's Report,
 May 17, 2001
 
-\- [Publications by US IASSISTers](#iassisters)\
-- [Other publications](#other)\
-- [Individual activities and news](#activities)\
+- [Publications by US IASSISTers](#iassisters)
+- [Other publications](#other)
+- [Individual activities and news](#activities)
 - [Appendix](#news)
 
 []{#iassisters}Publications (not including the IQ) by US IASSISTers
@@ -23,41 +23,41 @@ May 17, 2001
 represented among the contributors to this volume. Among them, with
 their respective articles:
 
--   **Albert F. Anderson and Lisa J. Neidert** on, \"Dissemination of
-    data: electronic products;\"
--   **Patricia C. Becker** on, \"Enumeration: field procedures,\"
-    \"Housing,\" \"1970 census,\" \"1980 census,\" and \"Tabulation
-    geography;\"
--   **Constance F. Citro** on, \"Advisory committees,\" \"Content,\"
-    \"Content detrmination,\" \"Coverage improvement procedures,\"
-    \"Editing and imputation,\" \"Enumeration: special populations,\"
-    \"Federal agency uses of census data,\" \"Income and poverty
-    measures,\" \"Long form,\" \"Population estimates and projections,\"
-    \"Related data sources,\" \"Sampling for content,\" and \"Sampling
-    in the census.\" Connie was also a co-editor of the volume.
--   **Pat Doyle** on, \"Federal household surveys;\"
--   **Deirdre Gaquin** on, \"Data dissemination and use,\" and \"Summary
-    Tape Files;\"
--   **Ann Gray** on, \"Dissemination of data: secondary products;\"
--   **Judith Rowe** on, \"Data products: evolution;\" and
--   **Steven Ruggles** on, \"IPUMS (Integrated Public Use Microdata
-    Series).\"
--   **Margaret O. Adams** prepared the entry on \"National Archives and
-    Records Administration (NARA),\" on the basis of contributions from
+-   **Albert F. Anderson and Lisa J. Neidert** on, "Dissemination of
+    data: electronic products;"
+-   **Patricia C. Becker** on, "Enumeration: field procedures,"
+    "Housing," "1970 census," "1980 census," and "Tabulation
+    geography;"
+-   **Constance F. Citro** on, "Advisory committees," "Content,"
+    "Content detrmination," "Coverage improvement procedures,"
+    "Editing and imputation," "Enumeration: special populations,"
+    "Federal agency uses of census data," "Income and poverty
+    measures," "Long form," "Population estimates and projections,"
+    "Related data sources," "Sampling for content," and "Sampling
+    in the census." Connie was also a co-editor of the volume.
+-   **Pat Doyle** on, "Federal household surveys;"
+-   **Deirdre Gaquin** on, "Data dissemination and use," and "Summary
+    Tape Files;"
+-   **Ann Gray** on, "Dissemination of data: secondary products;"
+-   **Judith Rowe** on, "Data products: evolution;" and
+-   **Steven Ruggles** on, "IPUMS (Integrated Public Use Microdata
+    Series)."
+-   **Margaret O. Adams** prepared the entry on "National Archives and
+    Records Administration (NARA)," on the basis of contributions from
     a number of NARA colleagues, including IASSISTer, **Thomas E.
     Brown**.
 
-*Of Significance* is a new \"topical journal\" of the Association of
+*Of Significance* is a new "topical journal" of the Association of
 Public Data Users (APDU), whose general editor is IASSISTer, **Deirdre
 Gaquin**. IASSIST members have been frequent contributors to this
 publication. For example:
 
 -   Volume 1:1 (June 1999) on *Statistical Literacy* was guest-edited by
-    **Wendy Treadwell** and included an \"Introduction to Statistical
-    Literacy\" by **Wendy Treadwell** (pp. 5-8); an article on
-    \"Archivists and Statistical Literacy,\" for which **Tom Southerly**
-    was co-author (with Linda Henry) (pp. 31-34); and \"Statistical
-    Literacy: A Selected Annotated Bibliography\" by **Jocelyn Tipton**
+    **Wendy Treadwell** and included an "Introduction to Statistical
+    Literacy" by **Wendy Treadwell** (pp. 5-8); an article on
+    "Archivists and Statistical Literacy," for which **Tom Southerly**
+    was co-author (with Linda Henry) (pp. 31-34); and "Statistical
+    Literacy: A Selected Annotated Bibliography" by **Jocelyn Tipton**
     (pp. 57-xx).
 
 <!-- -->
@@ -66,67 +66,67 @@ publication. For example:
     the proceedings from the 1999 APDU annual conference. Presenters at
     the conference (and authors represented in this issue) included
     IASSISTers **Lisa Neidert** (with Stephen Dienstfrey), program
-    chairs, on \"Introduction to APDU99: Responsible Data Use\" (pp.
+    chairs, on "Introduction to APDU99: Responsible Data Use" (pp.
     1-2); **Wendy Treadwell** (APDU president) with opening remarks on
-    \"Responsible Data Use: Protecting the Future of Public Data\" (p.
-    3); **Judith Rowe** on \"Reflecting on the Past and Looking to the
-    Future\" (pp. 10-13); **Wendy Treadwell** (with Katherine Wallman,
-    Marianne Zawitz, and Colleen Blessing) on \"Making Things Add Up for
-    the End User: Issues in Statistical Literacy\" (pp. 14-16);
+    "Responsible Data Use: Protecting the Future of Public Data" (p.
+    3); **Judith Rowe** on "Reflecting on the Past and Looking to the
+    Future" (pp. 10-13); **Wendy Treadwell** (with Katherine Wallman,
+    Marianne Zawitz, and Colleen Blessing) on "Making Things Add Up for
+    the End User: Issues in Statistical Literacy" (pp. 14-16);
     **Patrick Collins** and **Lisa Broniszewski** (with Alvan Zarate) on
-    \"Respondent Disclosure in Surveys: Issues and Solutions\" (p. 24);
-    **Albert Anderson** who led a Roundtable Session on \"Getting to
-    Know Your Data with PDQ Explore\" (p. 34); **Patricia C. Becker**
-    (with Joseph J. Salvo) on \"Post-Mortem Report: Address Review\"
+    "Respondent Disclosure in Surveys: Issues and Solutions" (p. 24);
+    **Albert Anderson** who led a Roundtable Session on "Getting to
+    Know Your Data with PDQ Explore" (p. 34); **Patricia C. Becker**
+    (with Joseph J. Salvo) on "Post-Mortem Report: Address Review"
     (pp. 38-39); **Ann Green, Wendy Treadwell,** and **Peter Joftis** on
-    \"Metadata on Steroids\" (pp. 40-41); **Ann Green** (with **Cavan
-    Capps** and Mark Wallace) on \"The Vision of Integrated Access to
-    Statistics: the Data Web\" (pp. 42-47); and **Patricia C. Becker**
-    (with Joseph J. Salvo) on \"Electronic Products for Census 2000\"
-    (p. 48).\
-    \
+    "Metadata on Steroids" (pp. 40-41); **Ann Green** (with **Cavan
+    Capps** and Mark Wallace) on "The Vision of Integrated Access to
+    Statistics: the Data Web" (pp. 42-47); and **Patricia C. Becker**
+    (with Joseph J. Salvo) on "Electronic Products for Census 2000"
+    (p. 48).
+    
 -   Volume 2:1 (June 2000) on *Confidentiality* was guest-edited by
     IASSISTer **Pat Doyle** (with Gerald Gates and Laura Zayatz) and
-    included an article by IASSISTer **Steven Ruggles**, \"Foreward---A
-    Data User's Perspective on Confidentiality\" (pp. 1-5).
+    included an article by IASSISTer **Steven Ruggles**, "Foreward---A
+    Data User's Perspective on Confidentiality" (pp. 1-5).
 
 <!-- -->
 
 -   Volume 2:2 (December 2000), on *Preservation of Public Data* and
     guest-edited by Theodore J. Hull included a number of contributions
-    by IASSISTers. Among them were **Judith Rowe**, \"Foreward---A Data
-    User's Perspective on Preservation\" (pp. 1-3); **Janet Vavra** on
-    \"Preservation: Maintaining Information for the Future\" (pp.
+    by IASSISTers. Among them were **Judith Rowe**, "Foreward---A Data
+    User's Perspective on Preservation" (pp. 1-3); **Janet Vavra** on
+    "Preservation: Maintaining Information for the Future" (pp.
     28-33); and, **Wendy L. Treadwell** (with **William C. Block**) on
-    \"Preserving and Enhancing Functional Access: The Development of a
+    "Preserving and Enhancing Functional Access: The Development of a
     Generalized Resource Extraction Tool for Aggregate Data (GRETA) at
-    the University of Minnesota\" (pp. 39-42).
+    the University of Minnesota" (pp. 39-42).
 
 <!-- -->
 
--   Volume 3:1 (June 2001) on \"Effects of Changing Data Products,\" is
+-   Volume 3:1 (June 2001) on "Effects of Changing Data Products," is
     being guest-edited by IASSISTer **Ilona Einowski** (with Amy West).
 
 *Social Science Review* , published in the US, likewise carried articles
 authored by IASSISTers. For example:
 
--   Summer 2001, v 19 n 2, includes: \"The Social Science Dream Machine:
-    Resource Recovery, Analysis,\" by **Jostein Ryssevik** and **Simon
+-   Summer 2001, v 19 n 2, includes: "The Social Science Dream Machine:
+    Resource Recovery, Analysis," by **Jostein Ryssevik** and **Simon
     Musgrave.**
 
 []{#others}Other Publications by US Members
 -------------------------------------------
 
-**Adams, Margaret O.** and **Thomas E. Brown**. 2000. \"Myths and
-Realities about the 1960 Census,\" Prologue: Quarterly of the National
+**Adams, Margaret O.** and **Thomas E. Brown**. 2000. "Myths and
+Realities about the 1960 Census," Prologue: Quarterly of the National
 Archives and Records Administration. 32:4 (Winter), pp. 266-270.
 Available online via the NARA homepage
 <http://www.nara.gov/publications/prologue/gene1960.html>. Based upon an
 earlier version that originally appeared in the Association of Public
 Data Users' APDU NEWSLETTER, 22: September 1997, pp. 8-9, 16.
 
-**Anderson, A.F.** 1997. \"Application of high-performance computing to
-the management of social science and demographic data.\" Behavior
+**Anderson, A.F.** 1997. "Application of high-performance computing to
+the management of social science and demographic data." Behavior
 Research Methods, Instruments, and Computers. 29:1 pp 86-98.
 
 **Green, Ann, JoAnn Dionne**, and Martin Dennis (1999). Preserving the
@@ -153,10 +153,10 @@ capable of supporting interactive access to large census and survey data
 sets, along with an evaluation of hardware platforms and the development
 of user support materials. New projects are directed toward resampling,
 expert systems, the manipulation of data across data sets, and
-\"living\" electronic research reports. See: <http://www.pdq.com>.
+"living" electronic research reports. See: <http://www.pdq.com>.
 
-**Lisa Neidert** and **Al Anderson** also presented a poster, \"Public
-use census data and confidentiality: Is there a problem?,\" at the 2001
+**Lisa Neidert** and **Al Anderson** also presented a poster, "Public
+use census data and confidentiality: Is there a problem?," at the 2001
 meeting of the Population Association of America (PAA). Anderson has
 participated with William Frey in workshops on the use of census data in
 the classroom. These workshops have been held in conjunction with PAA
@@ -171,7 +171,7 @@ currently available and we are getting ready for the second version
 release on May 15 (2001). One of the most interesting aspects of the
 project is that we are relying on the DDI DTD to create metadata in XML
 for the files. It has been a most interesting project in that it has
-given me a chance to truly \"road test\" the DDI and expand my XML
+given me a chance to truly "road test" the DDI and expand my XML
 skills. Ilona reported that she did a presentation on the project at the
 APDU conference last fall (2000) which was well received.
 
@@ -183,7 +183,7 @@ around acquiring, processing, preserving and enhancing 2000 Census files
 obtained from the Census Bureau.
 
 Ilona also helped create the charge for the UC Berkeley Electronic Data
-Task Force. The Task Force is charged with assessing Berkeley\'s needs
+Task Force. The Task Force is charged with assessing Berkeley's needs
 in the area of electronic data and proposing a set of principals and an
 initial set of specific actions to guide the campus. The Task Force will
 concentrate on five main issues: Acquisition, Funding, Access,
@@ -191,7 +191,7 @@ Archiving, and Support. Ilona was appointed leader of the Inventory Work
 Group, which at the time she submitted her report was in the process of
 gathering information on the holdings of the various campus departments
 and individual researchers with the intention of assessing the scope of
-the \"duplication of efforts\" factor.
+the "duplication of efforts" factor.
 
 With IASSISTers **Libbie Stephenson** and **Marty Pawlocki** at UCLA,
 Ilona presented a one and a half day workshop on data services (April
@@ -210,7 +210,7 @@ Rowe** retired at Princeton in 2000. In December 2000, Ann was awarded a
 grant from the Pew Charitable Trust to establish a topically-focussed
 data archive on public policy and the arts. The grant has the Princeton
 University Library collaborating with the Center for Arts and Cultural
-Policy Studies of Princeton\'s Woodrow Wilson School of Public and
+Policy Studies of Princeton's Woodrow Wilson School of Public and
 International Affairs, and the partners will create a fully searchable,
 digital archive containing policy-relevant information on arts and
 culture. The archive is intended for nonacademic as well as academic
@@ -234,12 +234,12 @@ and former IASSISTer Fynnette L. Eaton chaired this second historical
 overview session at the SAA 2000.
 
 **Ann Janda** reported that Northwestern University and the University
-of Chicago co-hosted the IASSIST 2000 conference on Northwestern\'s
+of Chicago co-hosted the IASSIST 2000 conference on Northwestern's
 campus in Evanston, Illinois, June 2000. Local conference organizers
 were **Fay Booker** (UC) and **Ann Janda** (NU) with **Diane Geraci**
-(SUNY- Binghamton) as Program Chair. The conference theme was \"Data in
+(SUNY- Binghamton) as Program Chair. The conference theme was "Data in
 the Digital Library: Charting the Future for Social, Spatial and
-Government Data Services.\" As the \"best conference ever\" in IASSIST
+Government Data Services." As the "best conference ever" in IASSIST
 parlance, it brought together about 160 data and library professionals
 from the U.S. and abroad, including distinguished guests such as Kenneth
 Prewitt, Director of the Bureau of Census and Daniel Greenstein,
@@ -248,14 +248,14 @@ library staff and administrators meant firsthand exposure to data issues
 and activities. Ann wrote that she felt that the goals of the conference
 theme were accomplished. She also reported that during the Fall quarter
 of academic year 2000-2001, Northwestern volunteered to be one of seven
-beta-testers for ICPSR\'s experiment in allowing people at ICPSR-member
-institutions to download data directly from ICPSR\'s website to the
-user\'s desktop. Over time, it will be interesting to see the effects of
-this new service on operations and on user needs \-- particularly on
+beta-testers for ICPSR's experiment in allowing people at ICPSR-member
+institutions to download data directly from ICPSR's website to the
+user's desktop. Over time, it will be interesting to see the effects of
+this new service on operations and on user needs -- particularly on
 local central storage, services needed by inexperienced vs seasoned
 researchers, and on maintaining records of local holdings. As noted by
 the ICPSR, the new service represents a quantum leap in data
-distribution, and writes Ann, \"it\'s a welcome one.\"
+distribution, and writes Ann, "it's a welcome one."
 
 **Robert Johnston** reported that on March 8, 2000, data experts from
 Princeton, Binghamton, Yale, Columbia, University of Toronto, University
@@ -282,7 +282,7 @@ Yale; they noted that in September 2000, Julie was appointed to the
 position of Data & Electronic Services Librarian at the Social Science
 Libraries & Information Services, Yale University. Julie, Ann, and
 Steven Citron-Pousty of the Social Science Statistical Laboratory are
-working to migrate Yale\'s Social Science Data Archive web-based catalog
+working to migrate Yale's Social Science Data Archive web-based catalog
 from a mainframe-legacy format to a DDI-compliant SQL database. The new
 catalog, to be called StatCat, will provide more direct access to
 numeric data at Yale and beyond, regardless of media. The URL for the
@@ -310,8 +310,8 @@ the Yale University Library and Elsevier Science are working together on
 a year-long planning process for the creation of a digital archive for
 the 1,100 journals published electronically by Elsevier Science. The
 project will investigate the uses a digital archive supports and the
-extent to which it is possible to differentiate between content \-- the
-long-term integrity of which must be preserved \-- and the options for
+extent to which it is possible to differentiate between content -- the
+long-term integrity of which must be preserved -- and the options for
 rendering and using that content. Various formats for encoding digital
 content will be studied to determine which are likely to remain
 relatively stable over time and to be good anchors for preservation.
@@ -329,10 +329,10 @@ the University of Notre Dame.
 **Lisa Neidert** continued to be on the Board of Directors of
 Association of Public Data Users (APDU) as Treasurer and continued to be
 on APDU's Census 2000 Product Review group. This also included
-attendance in the \"Census 2000 Users\' Conference on Public Use
-Microdata Sample (PUMS) Files.\" In both of these roles, I am providing
+attendance in the "Census 2000 Users' Conference on Public Use
+Microdata Sample (PUMS) Files." In both of these roles, I am providing
 input to the Census Bureau on the content and format of public-use data
-products. While I didn\'t necessarily like some of the P.L. 94-171
+products. While I didn't necessarily like some of the P.L. 94-171
 product release (3 parts and minimal technical documentation), note that
 one of the choices was ASCII. (See entry for Anderson, for reference to
 the PAA poster session presented jointly by Neidert and Anderson.)
@@ -350,7 +350,7 @@ respectively, head of the General Social Survey and author of the SDA
 Web site, for providing online data documentation and analysis
 capabilities. The ICPSR Web site also shared the AAPOR award. In
 September 2000 the American Political Science Association (APSA)
-presented SDA with their 2000 \"Best Instructional Software Award\" at
+presented SDA with their 2000 "Best Instructional Software Award" at
 their annual meeting in Washington D.C. The SDA Web site is at:
 <http://sda.berkeley.edu>.
 
@@ -382,9 +382,9 @@ Library Federation) Registry Planning.
 
 In November 2000, the U.S. National Archives and Records Administration
 and the University of Maryland co-sponsored a one-day conference called,
-\"Digital Strategies -- 2000.\" IASSISTer **Peggy Adams** was on the
+"Digital Strategies -- 2000." IASSISTer **Peggy Adams** was on the
 program committee for the conference and chaired a panel discussion on
-\"Digital Data\" on which IASSISTer **Cavan Capps** of the U.S. Bureau
+"Digital Data" on which IASSISTer **Cavan Capps** of the U.S. Bureau
 of the Census participated. Attendees came from throughout the eastern
 U.S. and included IASSISTer **Ann Green** of Yale University.
 
@@ -400,25 +400,25 @@ Margaret O. Adams, U.S. Regional Secretary
 []{#appendix}Appendix to US IASSIST 2001 Regional Secretary's Report
 --------------------------------------------------------------------
 
-**October 23, 2000\
+**October 23, 2000
 Arlington, Va.**
 
 ### Informal meeting of IASSIST members at APDU Annual Conference
 
-Attending:\
-- Ann Gray\
-- Albert Anderson\
-- Patty Becker\
-- Ilona Einowski\
-- Tom Brown\
-- Pat Doyle\
-- Peggy Adams\
-- Jocelyn Tipton\
-- Jack Solock\
-- Judith Rowe\
-- Steven McClaskie\
-- Cheryl Stadel-Bevins\
-- Wendy Treadwell\
+Attending:
+- Ann Gray
+- Albert Anderson
+- Patty Becker
+- Ilona Einowski
+- Tom Brown
+- Pat Doyle
+- Peggy Adams
+- Jocelyn Tipton
+- Jack Solock
+- Judith Rowe
+- Steven McClaskie
+- Cheryl Stadel-Bevins
+- Wendy Treadwell
 - Lisa Neidert
 
 Peggy Adams, US Regional Secretary, queried the group about the USA
@@ -434,9 +434,9 @@ of importance to USA members.
 
 Peggy raised a question regarding what IASSIST USA should be doing and
 how IASSIST could address issues. IASSIST operates through Action
-Groups. Should there be an \"action group\" on USA issues? Should
+Groups. Should there be an "action group" on USA issues? Should
 IASSIST USA act as a separate entity or should it share its discussions
-with the entire membership? What type of \"action\" would the group
+with the entire membership? What type of "action" would the group
 take?
 
 Here followed a very loose discussion with much back-and-forth on
@@ -445,7 +445,7 @@ issues from COPAFS, it was suggested that the action group could seek
 information from international members, but for what purpose was lost on
 this note taker - could it have been to identify international issues or
 gage the response of international members to the USA issues? Judith
-liked the idea of having an informal bibliography of US member\'s
+liked the idea of having an informal bibliography of US member's
 publications (see USA report above) and requested that when positions
 (jobs) are posted to the IASSIST List, the institution report back to us
 when it is filled and by whom. Jocelyn noted that it is important that

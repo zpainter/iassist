@@ -4,19 +4,19 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2005-2006 Asia/Pasific"
 oldpath = "/about/regional-report-2005-2006-asiapasific"
-postdate = "2013-05-17 11:24:17 -0700"
+date = "2013-05-17 11:24:17 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2005-06\
+IASSIST Regional Report 2005-06
 Asia/Pacific
 
-Sophie Holloway\
-Australian National University\
+Sophie Holloway
+Australian National University
 May 2006
 
 ### Australia
 
-**Australian Social Science Data Archives (ASSDA)**\
+**Australian Social Science Data Archives (ASSDA)**
 Since its establishment in 1981, ASSDA has been a centralised
 organisation, based at the Australian National University (ANU). In 2004
 ASSDA successfully applied for a grant allowing the establishment of a
@@ -43,7 +43,7 @@ creating a user friendly search facility, ASSDA aims to give researchers
 access to Australian census records going back to Colonial times.
 
 **Australian Consortium for Social and Political Research Incorporated
-(ACSPRI)**\
+(ACSPRI)**
 ACSPRI will host the first Australian Social Science Methodology
 Conference in December, 2006 in Sydney, Australia, in order to provide a
 national forum focusing on current issues in social science methodology.

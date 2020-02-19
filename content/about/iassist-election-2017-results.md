@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "IASSIST Election 2017 Results"
 oldpath = "/about/iassist-election-2017-results"
-postdate = "2019-05-14 10:59:12 -0700"
+date = "2019-05-14 10:59:12 -0700"
 draft = "false"
 +++
 IASSIST ELECTION 2017 - Results
@@ -37,7 +37,7 @@ IASSIST General Assembly in Lawrence in May 2017.
 | United States                     | Stephanie Tulley                  |
 +-----------------------------------+-----------------------------------+
 
-Adminstrative Committee Member-at-Large\
+Adminstrative Committee Member-at-Large
 (4 Years)
 
 Name of Incumbent

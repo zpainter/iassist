@@ -4,13 +4,13 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2007-2008: Canada"
 oldpath = "/about/regional-report-2007-2008-canada"
-postdate = "2011-05-13 08:47:29 -0700"
+date = "2011-05-13 08:47:29 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2007-2008\
-Canada\
-Bo Wandschneider\
-University of Guelph\
+IASSIST Regional Report 2007-2008
+Canada
+Bo Wandschneider
+University of Guelph
 May 16, 2008
 
 As per usual it is a challenge to try and capture what is happening from
@@ -20,11 +20,11 @@ and I apologize if I missed something. These are in no specific order.
 
 ### Research Data Network (RDC)
 
-The Canadian Research Data Centre Network\'s infrastructure project has
+The Canadian Research Data Centre Network's infrastructure project has
 begun with a test-bed implementation of an articulated private virtual
-network running on a dedicated lightpath on Canada\'s national
+network running on a dedicated lightpath on Canada's national
 high-speed research network (managed by
-[CANARIE](http://www.canarie.ca/) - Canada\'s advanced Internet
+[CANARIE](http://www.canarie.ca/) - Canada's advanced Internet
 development organization). Beginning in the fall of 2008, this intranet
 will be expanded to incorporate the rest of the RDC Network, which now
 consists of 15 RDCs and nine branches across the country. In addition,
@@ -80,7 +80,7 @@ research findings, it does require the deposit of bioinformatics,
 atomic, and molecular coordinate data with appropriate data
 repositories. In these cases, international repositories already exist.
 As trusted data repositories relevant to health data are developed in
-Canada, there will be a movement to expand the policy\'s coverage to
+Canada, there will be a movement to expand the policy's coverage to
 include the deposit of more data produced under CIHR funding.
 
 Second, Library and Archives Canada concluded at the end of 2007 a
@@ -95,7 +95,7 @@ valuable digital resources that Canadians need to preserve and to
 provide access.
 
 In a related national activity, the Canada Institute for Scientific and
-Technical Information (CISTI), which is Canada\'s national science
+Technical Information (CISTI), which is Canada's national science
 library, is sponsoring a new working group, known as Research Data
 Canada, to address issues raised in the Consultation on Access to
 Scientific Research Data, which have remained untouched for the most
@@ -103,7 +103,7 @@ part of the past two years. This new working group represents several
 Canadian organizations, including universities, federal granting
 agencies, institutes, libraries and individual researchers. They will
 focus on the necessary actions and leadership roles that researchers and
-institutions must take to ensure Canada\'s research data are accessible
+institutions must take to ensure Canada's research data are accessible
 and usable for current and future generations of researchers.
 
 ### CARL (Canadian Association of Research Libraries
@@ -125,7 +125,7 @@ Recent interest, however, has surfaced to revitalize CANDDI to address
 some of the other issues for which it was originally organized,
 including shared variable group names and control vocabulary.
 
-### PUMF\'s
+### PUMF's
 
 In Canada, there have been some positive developments in addition to
 some continuing concerns. The group working on the 2006 Census PUMFs has
@@ -163,10 +163,10 @@ acquiring and licensing geospatial data through consortium purchasing.
 
 ### DLI
 
-DLI continues to work on making Public Use Microdata File\'s (PUMF)
+DLI continues to work on making Public Use Microdata File's (PUMF)
 documentation available on the DLI site at Statistics Canada. They
 provide access to this metadata using NESSTAR. DLI is also working
-closely with Statistics Canada\'s subject-matter divisions in order to
+closely with Statistics Canada's subject-matter divisions in order to
 eventually have DDI compliant files exported directly from the Survey
 production line to tools like NESSTAR. There is also work being done in
 going from IMDB which is the standard used in Statistics Canada for
@@ -201,12 +201,12 @@ DLI workshops and eventually IASSIST.
 In the last report we mentioned the use of NESSTAR for the Canadian
 Opinion Research Archive ([CORA](http://www.queensu.ca/cora/)) at
 Queen's University. Queen's has added approximately 100 files to their
-Data Centre\'s Nesstar service, and are continuing to support the
+Data Centre's Nesstar service, and are continuing to support the
 Nesstar server for the CORA. The CORA data is available to public by
 request. In addition they have been soliciting data files from their
-researchers and are currently negotiating access to the \"International
-surveillance and privacy opinion research\" survey from their Department
-of Sociology at Queen\'s.
+researchers and are currently negotiating access to the "International
+surveillance and privacy opinion research" survey from their Department
+of Sociology at Queen's.
 
 During the year the Laurier Institute for the Study of Public Opinion
 and Policy ([LISPOP](http://www.wlu.ca/lispop/)) received a generous
@@ -239,4 +239,4 @@ In 2007, the Council of Prairie and Pacific University Libraries
 Award. Chuck was specifically recognized for all his contributions
 related to ACCOLEDS, the COPPUL data group -- congratulations Chuck.
 
-That\'s all for this year.
+That's all for this year.

@@ -4,14 +4,14 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 1997-1998: United States"
 oldpath = "/about/regional-report-1997-1998-united-states"
-postdate = "2011-04-19 08:37:53 -0700"
+date = "2011-04-19 08:37:53 -0700"
 draft = "false"
 +++
-Report of the U.S. Regional Secretary\
-by\
-Ilona Einowski\
-UC Data Archive and Technical Assistance\
-University of California, Berkeley\
+Report of the U.S. Regional Secretary
+by
+Ilona Einowski
+UC Data Archive and Technical Assistance
+University of California, Berkeley
 May 1998
 
 Members were asked to report on their activities beyond the scope of
@@ -34,14 +34,14 @@ areas.
 -   Ilona Einowski (University of California, Berkeley) has been
     involved in a project to enhance on-line access to US Census data.
     Working with The University Library and building on work done by
-    Oregon State University\'s Government Information Sharing Project
-    and the Bureau\'s LOOKUP program, they have provided on-line access
+    Oregon State University's Government Information Sharing Project
+    and the Bureau's LOOKUP program, they have provided on-line access
     to three of the Subject Summary Tape Files (SSTFs 2, 3 and 5) from
     the 1990 Census. This project can be viewed at :
     <http://sunsite.berkeley.edu/GovData/info/>.
 -   Fred Gey (University of California, Berkeley) is co-principal
-    investigator of the DARPA research contract \"Search Support for
-    Unfamiliar Metadata.\" This project aims to create mapping from
+    investigator of the DARPA research contract "Search Support for
+    Unfamiliar Metadata." This project aims to create mapping from
     ordinary language search terms to specialized classification
     schemes, including numeric classification such as Standard
     Industrial Classification (used for County Business Patterns and
@@ -82,7 +82,7 @@ areas.
     Census 2000.
 -   Susan Turkel (Bryn Mawr College), as part of the Instructional
     Technology Team, has been helping faculty make use of technology in
-    the new \"smart classrooms\" on her campus.
+    the new "smart classrooms" on her campus.
 -   Annette Watters (University of Alabama) has been the chair of the
     National State Data Center Steering Committee. The Committee has
     been addressing issues including data dissemination, training needs,

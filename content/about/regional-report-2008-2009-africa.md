@@ -4,15 +4,15 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2008-2009: Africa"
 oldpath = "/about/regional-report-2008-2009-africa"
-postdate = "2010-11-26 06:16:58 -0700"
+date = "2010-11-26 06:16:58 -0700"
 draft = "false"
 +++
 IASSIST Report of the African Regional Secretary
 
-By\
-Kitzito Kasozi\
-Director Information Technology\
-Uganda Bureau of Statistics\
+By
+Kitzito Kasozi
+Director Information Technology
+Uganda Bureau of Statistics
 2009
 
 This report is centered on the Africa Association of Statistical Data

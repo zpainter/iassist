@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Committees and Groups"
 oldpath = "/about/committees.html"
-postdate = "2010-01-08 22:00:25 -0700"
+date = "2010-01-08 22:00:25 -0700"
 draft = "false"
 +++
 -   [Committees](#committees)
@@ -17,36 +17,36 @@ Committees
 []{#administrative_committee}**[Administrative Committee](https://iassistdata.org/about/officials.html)**
 :   The Administrative Committee is the executive body of IASSIST. It
     implements policies, develops future directions, and coordinates
-    activities for the organization.\
-    **2019-2021 Chair:** *San Cannon, sandra.cannon\@rochester.edu*
+    activities for the organization.
+    **2019-2021 Chair:** *San Cannon, sandra.cannon@rochester.edu*
 
 <!-- -->
 
 []{#constitutional_review_committee}**Constitutional Review Committee**
 :   Responsible for receiving proposals for the enacting, amending, and
     repealing of the by-laws of IASSIST and for preparing revised
-    articles and by-laws for members\' approval, as well as for
+    articles and by-laws for members' approval, as well as for
     undertaking an annual review of the constitution and by-laws and
-    proposing amendments as it deems appropriate.\
-    **2019-2021 Chair:** *Ann Green, green.ann\@gmail.com*
+    proposing amendments as it deems appropriate.
+    **2019-2021 Chair:** *Ann Green, green.ann@gmail.com*
 
 <!-- -->
 
 []{#professional_development_committee}**Professional Development Committee** (replaced former [Education Committee](https://iassistdata.org/about/education.html))
 :   Responsible for promoting the development of professional skills of
     IASSIST members through education, training, information, networking
-    and mentoring.\
-    **2018-2020 Chair:** *Amy Pienta, apienta\@umich.edu*
+    and mentoring.
+    **2018-2020 Chair:** *Amy Pienta, apienta@umich.edu*
 
 <!-- -->
 
-[]{#iassist_fellows}[**IASSIST Fellows**](https://iassistdata.org/about/outreach.html)\
+[]{#iassist_fellows}[**IASSIST Fellows**](https://iassistdata.org/about/outreach.html)
 :   Provides support for data professionals from emerging economies who
     are in the position of developing information infrastructures to
     address emerging technologies and information policy decisions at
     their home institutions regarding the use and preservation of public
-    and private data.\
-    **2018-2020 Chair:** *Florio Arguillas, foa2\@cornell.edu*
+    and private data.
+    **2018-2020 Chair:** *Florio Arguillas, foa2@cornell.edu*
 
 <!-- -->
 
@@ -55,24 +55,24 @@ Committees
     and address needs of existing and future members. Also undertake
     representation and liaison activities; connect with sister
     organizations that have similar goals; and increase the visibility
-    of IASSIST. This Committee\'s membership shall include the
+    of IASSIST. This Committee's membership shall include the
     Membership Chair, Regional Secretaries, the Vice President, and
-    other IASSIST members as needed.\
-    **2019-2021 Chair:** *Jen Doty, jennifer.doty\@emory.edu*
+    other IASSIST members as needed.
+    **2019-2021 Chair:** *Jen Doty, jennifer.doty@emory.edu*
 
 <!-- -->
 
-[]{#elections_committee}**Elections Committee**\
+[]{#elections_committee}**Elections Committee**
 :   Responsible for receiving nominations for the election of the
     Administrative Committee, the Regional Secretaries, and the officers
     of IASSIST, distributing ballots and electoral information according
     to regulation, tallying the ballots, reporting on the results of the
-    tally, and for recommending alterations in procedures.\
-    **2019-2021 Chair:** *Tuomas J. Alaterä, tuomas.alatera\@tuni.fi*
+    tally, and for recommending alterations in procedures.
+    **2019-2021 Chair:** *Tuomas J. Alaterä, tuomas.alatera@tuni.fi*
 
 <!-- -->
 
-[]{#communications_committee}**Communications Committee**\
+[]{#communications_committee}**Communications Committee**
 :   Responsible for enabling productive and transparent communication
     among members and between the organisation and the broader
     community. Scope includes delivering publications such as the
@@ -82,17 +82,17 @@ Committees
     which use the IASSIST brand name. The Committee shall advise other
     committees and groups on the use of appropriate communication tools
     for online collaboration and solicit content from them for public
-    channels. This Committee\'s membership shall include the IQ Editor
-    and the Web Editor as well as reviewers and web section editors.\
-    **2019-2021 Chair:** **Tuomas J. Alaterä, tuomas.alatera\@tuni.fi**\
-    **2019-2023 IQ Editor:** *Karsten Boye Rasmussen, kbr\@sam.sdu.dk*\
-    **Web Editor:** *Zac Painter*\
+    channels. This Committee's membership shall include the IQ Editor
+    and the Web Editor as well as reviewers and web section editors.
+    **2019-2021 Chair:** **Tuomas J. Alaterä, tuomas.alatera@tuni.fi**
+    **2019-2023 IQ Editor:** *Karsten Boye Rasmussen, kbr@sam.sdu.dk*
+    **Web Editor:** *Zac Painter*
     and the **[IASSIST Web
     Team](https://iassistdata.org/about/web-team)**
 
 <!-- -->
 
-**[Program Committee](https://iassistdata.org/conferences/conference-committees-2020)\
+**[Program Committee](https://iassistdata.org/conferences/conference-committees-2020)
 **
 :   Responsible for deciding on an annual conference title as well as
     general thematic structure. The Program Chairs are responsible for
@@ -100,9 +100,9 @@ Committees
     the multi-national Program Committee, deciding how it will function,
     and assigning responsibilities to its members. The Committee works
     along with the Local Arrangements Committee to set an agenda for
-    putting together sessions, plenaries, workshops, and social events.\
+    putting together sessions, plenaries, workshops, and social events.
     **2020 Conference Co-Chairs:** *Stephanie Tulley, Stephanie Labou,
-    Louise Corti\
+    Louise Corti
     *
 
 []{#groups}
@@ -134,9 +134,9 @@ Checklist](https://iassistdata.org/about/all-about-interest-groups).**
     connected and informed group, opportunities for professional
     development through training, shared professional tools, resources
     for all IASSIST members to make use of, both members and non-members
-    of the IG, and an elevated awareness of social sciences and place.\
-    **2019-2020 Co-Chairs:** *Jennie Murack, murack\@mit.edu and Amanda
-    Tickner, atickner\@msu.edu*
+    of the IG, and an elevated awareness of social sciences and place.
+    **2019-2020 Co-Chairs:** *Jennie Murack, murack@mit.edu and Amanda
+    Tickner, atickner@msu.edu*
 
 <!-- -->
 
@@ -146,16 +146,16 @@ Checklist](https://iassistdata.org/about/all-about-interest-groups).**
     the needs of researchers who generate qualitative data, and what
     types of services librarians and other information professionals can
     develop to support these researchers in managing their data/source
-    materials throughout the research lifecycle.\
-    Expected outcomes include\
-    1) developing a connected and informed group,\
+    materials throughout the research lifecycle.
+    Expected outcomes include
+    1) developing a connected and informed group,
     2) providing opportunities for professional development through
-    training, and\
+    training, and
     3) collecting and creating tools and resources for all IASSIST
-    members to make use of (both IG members and non-members).\
+    members to make use of (both IG members and non-members).
     **2019-2020 Co-Chairs:** *Sebastian
-    Karcher, skarcher\@maxwell.syr.edu *and Alesia Montgomery,*
-    alesiam\@stanford.edu *
+    Karcher, skarcher@maxwell.syr.edu *and Alesia Montgomery,*
+    alesiam@stanford.edu *
 
 <!-- -->
 
@@ -172,43 +172,43 @@ Checklist](https://iassistdata.org/about/all-about-interest-groups).**
     practitioners and technicians who manage access to health, and
     health-linked data for research purposes, in order to share
     expertise and enable members to overcome challenges in their
-    day-to-day roles.\
+    day-to-day roles.
     **2019-2020 Chair:** *Richard Welpton,
-    richard.welpton\@health.org.uk*
+    richard.welpton@health.org.uk*
 
 <!-- -->
 
-\
-\
-*Previous interest group resources*\
-*\
-*\
+
+
+*Previous interest group resources*
+*
+*
 **[Data Visualization Interest Group](https://iassistdata.org/community/dvig) (DVIG)**
 :   This group focused on promoting a greater understanding of data
     visualization -- its creation, uses, and importance in research,
     across disciplines. Data Visualization supports a means to make
     sense of data, through visual representation, and to communicate
-    ideas and information effectively.\
-    \
+    ideas and information effectively.
+    
     Particular areas of focus and discussions included, but were not
     limited to the following:
 :   **·** Enable opportunities for IASSIST members to learn and enhance
-    their skills in this growing field\
+    their skills in this growing field
     **·** Support a culture of best practice for data visualization
-    techniques; creation, use, and curation\
+    techniques; creation, use, and curation
     **·** Discussion of the relevant tools for all kinds of data
-    visualizations\
-    **·** Provide input and feedback on data visualization tools\
-    **·** Capture examples of data visualization to emulate and avoid\
-    **·** Explore opportunities for service development in libraries\
+    visualizations
+    **·** Provide input and feedback on data visualization tools
+    **·** Capture examples of data visualization to emulate and avoid
+    **·** Explore opportunities for service development in libraries
     **·** Use of data visualization for allowing pre-analysis browsing
-    of data content in repositories\
+    of data content in repositories
     **·** Be aware of and communicate to others the needs of researchers
-    in this field\
+    in this field
     **·** Connect with communities of metadata developers and users to
     gain better understanding of how metadata can enable better
     visualization, and how in turn visualization need might drive
-    development of metadata standards\
+    development of metadata standards
 
 <!-- -->
 
@@ -221,7 +221,7 @@ Checklist](https://iassistdata.org/about/all-about-interest-groups).**
     interest group will provide a forum for IASSIST members to share
     information on how to promote the use of open source languages by
     those whose work we support as well as ways in which we might
-    contribute back to the open source community.\
+    contribute back to the open source community.
 
 **Data Management & Curation Interest Group (SIGDMC)**
 
@@ -231,26 +231,26 @@ field. Sound data management and curation strategies ensure that
 research data will be available for sharing, dissemination and reuse
 over time. These strategies are not only important for data
 preservation, but, in a growing number of countries, a necessity for
-research groups in order to receive funding.\
-\
+research groups in order to receive funding.
+
 The role and function of the data management and curation interest group
 included but was not limited to the following:
 
 **·** Maintain an [inventory of materials, resources, and
 policies](/resources/category/data-management-and-curation) related to
-sound data management and curation internationally\
+sound data management and curation internationally
 **·** Enable opportunities for IASSIST members to learn and enhance
-their skills in this field\
+their skills in this field
 **·** Foster information-sharing among IASSIST members of their work in
-this area at their institutions\
+this area at their institutions
 **·** Maintain awareness of data management and curation issues
-internationally across\
-  disciplines, including beyond the social sciences\
+internationally across
+  disciplines, including beyond the social sciences
 **·** Seek opportunities for outreach and advocacy on issues related to
-data management,\
-  including to organizations with similar missions\
+data management,
+  including to organizations with similar missions
 **·** Examine issues related to collaborative ventures with research
-groups\
+groups
 **·** Provide input and feedback on data curation tools
 
 **[Data Citation Interest Group](https://iassistdata.org/community/sigdc) (SIGDC)**

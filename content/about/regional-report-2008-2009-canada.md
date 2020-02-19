@@ -4,13 +4,13 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2008-2009: Canada"
 oldpath = "/about/regional-report-2008-2009-canada"
-postdate = "2010-11-26 06:42:23 -0700"
+date = "2010-11-26 06:42:23 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2008-2009\
-Canada\
-Bo Wandschneider\
-University of Guelph\
+IASSIST Regional Report 2008-2009
+Canada
+Bo Wandschneider
+University of Guelph
 May 16, 2009
 
 This will be my last regional report for a while. I look forward to
@@ -24,7 +24,7 @@ I missed something. These are in no specific order.
 
 **CISTI (Canadian Institute for Scientific and Technical Information)**
 
-Research Data Canada, part of CISTI, which is Canada\'s national science
+Research Data Canada, part of CISTI, which is Canada's national science
 library, has established a new working group around a [Research Data
 Strategy](http://data-donnees.gc.ca/eng/members.html). This is: *"a
 collaborative effort to address the challenges and issues surrounding
@@ -34,7 +34,7 @@ granting agencies, and individual researchers are bonded by a shared
 recognition of the pressing need to deal with Canadian data management
 issues. Together, they will focus on the necessary actions, next steps
 and leadership roles that researchers and institutions can take to
-ensure Canada\'s research data is accessible and usable for current and
+ensure Canada's research data is accessible and usable for current and
 future generations of researchers."*
 
 One of the outcomes from December 2008, is a report called [Stewardship
@@ -56,7 +56,7 @@ entitled, Data Management Awareness Toolkit, to be distributed in May,
 2009. This is a briefing document to provide directors of Canadian
 research libraries with background information about data stewardship.
 
-**PUMF\'s**
+**PUMF's**
 
 Statistics Canada has been reviewing the creation of PUMF's to gauge
 their usefulness and determine if there have been any changes in
@@ -97,7 +97,7 @@ available to all via the web. This markup is fully bilingual
 Statistics Canada is contemplating opening access to PUMFs to groups
 outside the DLI. A proposal is being prepared aiming at giving access to
 various organizations within or outside Canada based on a subscription
-fee which also needs to be determined.\
+fee which also needs to be determined.
 There is also some discussions with some colleges and universities who
 would like to join the DLI. Presently, we now have 74 members but this
 number could increase again in the next few months.
@@ -123,7 +123,7 @@ CAPDU over the next year.
 
 After several years of planning, meeting, volunteering, strategising,
 creating, and regularly revisiting and improving,
-\<[odesi](http://odesi.ca/)\> has reached maturity and is graduating to
+<[odesi](http://odesi.ca/)> has reached maturity and is graduating to
 the position of full-fledged service at [Scholar's
 Portal](http://www.scholarsportal.info/). This was accomplished through
 the Ontario University community's astonishing level of grass-roots
@@ -142,7 +142,7 @@ metadata from important and diverse collections such as CORA and ICPSR,
 allowing the user to search for multiple variables, in multiple
 collections, with a single search through 's sophisticated interface.
 Our collection of public opinion polls has also grown to include the
-likes of Leger, Ipsos Ried, Gallup\... now hosts the records for more
+likes of Leger, Ipsos Ried, Gallup... now hosts the records for more
 than 280,000 variables.
 
 Last but not least, the DDI Best Practices Document has evolved,
@@ -191,4 +191,4 @@ The project has recently received provincial funding and is currently in
 the process of establishing it's governance structure and hiring project
 staff. More to come.
 
-That\'s all for this year.
+That's all for this year.

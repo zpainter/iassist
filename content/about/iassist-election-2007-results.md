@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "IASSIST Election 2007 Results"
 oldpath = "/about/elections/2007/index.html"
-postdate = "2010-01-08 22:00:30 -0700"
+date = "2010-01-08 22:00:30 -0700"
 draft = "false"
 +++
 The following assumed their offices at the IASSIST General Assembly, in
@@ -42,7 +42,7 @@ Wendy Watkins
 
 Europe
 
-Libby Bishop\
+Libby Bishop
 Robin Rice
 
 United States

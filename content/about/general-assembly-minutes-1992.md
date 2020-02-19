@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Minutes of the IASSIST Annual General Assembly"
 oldpath = "/about/agm/1992agm.html"
-postdate = "2010-01-08 22:00:23 -0700"
+date = "2010-01-08 22:00:23 -0700"
 draft = "false"
 +++
 Friday, May 29, 1992, in the Concourse Hotel, Madison, Wisconsin
@@ -44,7 +44,7 @@ conjunction with which is also planned a tour of Suffolk villages.
 
 The Local Arrangements Committee will link with librarians,
 statisticians (Royal Statistical Society), etc. A pre- conference
-promotional workshop \"Can I Assist You\", with international
+promotional workshop "Can I Assist You", with international
 participation, will be held in conjunction with a library conference in
 Britain in September of 1992.
 
@@ -79,7 +79,7 @@ year:
     the program, and an understanding as to what will be included in the
     program. To start, the Statistics Canada electronic DSP will start
     with microdata files.
--   the CANSIM University Base has expanded to 175,000 \[sic\]
+-   the CANSIM University Base has expanded to 175,000 [sic]
     time-series. Cooperative schemes for sharing on-line access to the
     database are hatching at the University of Toronto, and between
     University of British Columbia and Simon Fraser University.
@@ -87,9 +87,9 @@ year:
     In additional to a full-day business meeting, a CESSDA-style
     workshop was held, with 13 participants, on data identification and
     data access issues.
--   a project has been started within Statistics Canada to \'liberate\'
+-   a project has been started within Statistics Canada to 'liberate'
     Statistics Canada produced microdata files, starting with the
-    \'Literacy survey\' which is being made available via ftp.
+    'Literacy survey' which is being made available via ftp.
 
 ### 4.2 European Secretariat (Peter Burnhill)
 
@@ -134,12 +134,12 @@ display of the commitment and talent of our organization with U.S.
 Members Dodd, Einowski, Fitchen, Geraci, Gerken Green, Gray, Guy, Janda,
 Jacobs, Jones, Stephenson, and Rowe, all having roles either on the
 program committee or as speakers. Judith Rowe was presented with an
-award for \"long and meritorious service to the Consortium.\" Out-going
+award for "long and meritorious service to the Consortium." Out-going
 Council member Jo Ann Dionne served on the Search Committee for a new
 Director of ICPSR which in June 1991 named Richard C. Rockwell to that
 post. Rowe was also appointed to a three year term on the Depository
 Library Council and is serving the last year of a three year appointment
-on the American Statistical Association\'s Census Advisory Committee.
+on the American Statistical Association's Census Advisory Committee.
 
 Margaret Adams of the National Archives played a major role in a two day
 workshop on Electronic Records at the Society of American Archivists
@@ -147,7 +147,7 @@ Annual Meeting which will be repeated at the National Association of
 Government Archives and Records Administration and the 1992 SAA Meeting.
 She also spoke at the Mid-Atlantic Regional Archives Conference in
 Pittsburgh and co-chaired the program committee for the Fall 1991
-Association of Public Data Users\' Conference. The Fall APDU meeting was
+Association of Public Data Users' Conference. The Fall APDU meeting was
 opened by IASSIST member and APDU Board President Pat Doyle and included
 Anne Cooper as one of the speakers. It has been noticed that many of our
 members have also provided assistance through their contributions to a
@@ -176,10 +176,10 @@ Congress and signed by President Bush last year. This legislation will
 bring us the National Research and Education Network (NREN), high
 performance computing systems, advanced software technology and basic
 research in computer science. The Office of Science and Technology
-Program identified twenty \"grand challenges for which solution is
-likely to be possible using systems developed under this initiative.\" A
-list of these challenges is provided in \_The Federal High Performance
-Computing Program\_ published by the Office of Science and Technology
+Program identified twenty "grand challenges for which solution is
+likely to be possible using systems developed under this initiative." A
+list of these challenges is provided in _The Federal High Performance
+Computing Program_ published by the Office of Science and Technology
 Policy, September 8, 1989. All involve either biological, physical
 science, or engineering problems. There is little, if any, interest in
 high performance computing for social science research. NREN, which
@@ -187,11 +187,11 @@ promises something for everyone, should include us but we should take
 care that at least one small bandwidth will be available for social
 scientists.
 
-5. Treasurer\'s report (Kay Worrell)
+5. Treasurer's report (Kay Worrell)
 ------------------------------------
 
 IASSIST is solvent. As of the beginning of May, the bank balance was
-approx. \$20,000.00.
+approx. $20,000.00.
 
 6. Reports of the Round Table lunches
 -------------------------------------
@@ -202,7 +202,7 @@ sessions at IASSIST conferences.
 ### 6.1 Copyright (Sarah Cox-Byrne)
 
 The major topic of discussion at this Round Table was a U.S. Supreme
-Court decision with respect to the telephone \'yellow pages\' directory,
+Court decision with respect to the telephone 'yellow pages' directory,
 and the copyrightability of factual information. This has implications
 for the copyright status of data files.
 
@@ -230,7 +230,7 @@ belong to, and the advantages to new members of IASSIST. New conference
 attendees feel welcome at IASSIST, and get a chance to talk about local
 problems. Are we realizing the 5-year plan, now that we are 3 years into
 it? One idea by which to capitalize on the wealth of experience in
-IASSIST was the creation of an IASSIST \'A-team\' to fix problems that
+IASSIST was the creation of an IASSIST 'A-team' to fix problems that
 individual members/institutions may have. Touched on the possibilities
 of institutionalizing the sharing of data and expertise. Also introduced
 the possibility of changing the format of the conference to 2 days of
@@ -244,7 +244,7 @@ higher priority on the acquisition and release of serial data files.
 Also, better information on release dates should be made available.
 E.g., the Current Population Survey data files are not acquired soon
 enough, and once acquired, should be released twice, once as a
-hierarchical file, and a second time in the final \'flattened\' version.
+hierarchical file, and a second time in the final 'flattened' version.
 Scanned documentation is difficult to use, and difficult to print. And
 there is no documentation of the print control characters that occur in
 scanned documentation. There are problems with bibliographic citations -
@@ -317,8 +317,8 @@ projects. Future planned activities include:
     facilities, standards,
 -   SWAT analysis (Strengths, Weaknesses, and Threats analysis).
 -   Address the problems of EC discussions of legislation prohibiting
-    data collectors from asking questions on \'significant social
-    factors\' without written consent from interviewees. Also EC
+    data collectors from asking questions on 'significant social
+    factors' without written consent from interviewees. Also EC
     decision that all personal data be destroyed upon the conclusion of
     the current project.
 
@@ -346,7 +346,7 @@ house the data.
 
 The IASSIST listserver is now 1 year old. There would be no problem with
 storing other files in addition to log files to make them available
-through the listserver. There is also the possibility of \'sub-lists\'
+through the listserver. There is also the possibility of 'sub-lists'
 for special discussions.
 
 ### 9.4 APDU (Peggy Adams)

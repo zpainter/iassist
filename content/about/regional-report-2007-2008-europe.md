@@ -4,16 +4,16 @@ uid = "22"
 author = "t.alatera"
 title = "Regional Report 2007-2008: Europe"
 oldpath = "/about/regional-report-2007-2008-europe"
-postdate = "2011-04-19 12:18:41 -0700"
+date = "2011-04-19 12:18:41 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2007-2008\
-European Region\
-Mari Kleemola\
-Finnish Social Science Data Archive\
+IASSIST Regional Report 2007-2008
+European Region
+Mari Kleemola
+Finnish Social Science Data Archive
 May 22nd, 2008 (ver 0.4)
 
-[Cross European Collaborations](#cross_european_collaborations) \|
+[Cross European Collaborations](#cross_european_collaborations) |
 [National Reports](#national_reports)
 
 This report begins with some observations on cross-national
@@ -33,7 +33,7 @@ announced; In German, ZA is now part of GESIS.
 
 ### Cross European Collaborations
 
-[CESSDA PPP](#cessda) \| [ESS](#ess)
+[CESSDA PPP](#cessda) | [ESS](#ess)
 
 []{#cessda}
 
@@ -67,7 +67,7 @@ Schürer, Director of the UKDA, who is the Co-ordinator for the project.
 
 The European Social Survey ([ESS](http://www.europeansocialsurvey.org/))
 is an academically-driven social survey designed to chart and explain
-the interaction between Europe\'s changing institutions and the
+the interaction between Europe's changing institutions and the
 attitudes, beliefs and behaviour patterns of its diverse populations.
 The survey covers over 25 European nations and employs rigorous
 methodology. Round 3 data (collected in 2006/2007; themes: Personal and
@@ -83,8 +83,8 @@ gender and work.](http://essedunet.nsd.uib.no/cms/topics/family/)
 
 ### National Reports
 
-[Finland](#finland) \| [Hungary](#hungary) \| [The
-Netherlands](#netherlands) \| [Sweden](#sweden) \| [United Kingdom](#uk)
+[Finland](#finland) | [Hungary](#hungary) | [The
+Netherlands](#netherlands) | [Sweden](#sweden) | [United Kingdom](#uk)
 
 []{#finland}
 
@@ -102,7 +102,7 @@ For the [Finnish Social Science Data
 Archive](http://www.fsd.uta.fi/english/) (FSD), the year was succesful.
 The number of data access applications is growing, and the number of
 archived studies is approaching one thousand. Students are a significant
-user group; first time ever, the Annual Prize for the Best Master\'s
+user group; first time ever, the Annual Prize for the Best Master's
 Thesis in Sociology in Finland was awarded to a thesis based on data
 archived at the FSD. The FSD Bulletin offered a glance at archiving and
 reusing qualitative material. We also produced instructions to
@@ -121,7 +121,7 @@ in full flow.
 
 *Zoltán Lux writes:*
 
-**The Institute for the History of the 1956 Hungarian Revolution**\
+**The Institute for the History of the 1956 Hungarian Revolution**
 The database and related Internet provision of publications, films,
 websites and conferences prepared for the 50th anniversary of the 1956
 Hungarian Revolution was compiled
@@ -135,7 +135,7 @@ interviews, and digital archiving of these). The research content open
 to the public can be read on the
 [www.rev.hu/photographers](http://www.rev.hu/photographers).
 
-**Historical Archives of the Hungarian State Security**\
+**Historical Archives of the Hungarian State Security**
 A public photography database (<https://www.abtl.hu/spyOne/login?R>) was
 started on the Internet for the archives that store the document of the
 state-security services in the socialist period
@@ -153,7 +153,7 @@ textual content) and entering this in a database. The large quantity of
 textual information available will provide a basis for further social
 scientific and archival researches.
 
-**Nógrád County Archives**\
+**Nógrád County Archives**
 The third phase of the Digital Library development at Nógrád County
 Library ([www.nogradarchiv.hu](http://www.nogradarchiv.hu)) has been
 completed. This has augmented the existing library system (fond
@@ -161,7 +161,7 @@ registers, medieval documents, institutional minutes, electronic
 library, web archive, chronology, list of place names) with storage of
 registry personal data.
 
-**Developments affecting several archives**\
+**Developments affecting several archives**
 Development of a common archiving system by the Hungarian National
 Library, the Budapest Capital City Library and the Pest County Library
 is intended with the archive registration and provision facility for
@@ -204,7 +204,7 @@ DANS was in the year of the report involved in the following projects:
     data, 1812 - 2000; Data infrastructure for the study of guilds and
     other forms of corporate collective action in pre-industrial times);
 -   Awarded startup grants for data projects, with technical advice and
-    support being supplied to the digital \'collaboratorium\'
+    support being supplied to the digital 'collaboratorium'
     Cultural-Heritage Dendrochronology for the Low Countries and to
     Medieval Memoria Online (MeMO): construction and dynamics of
     religious social memory; stock-taking, description and supply of
@@ -221,7 +221,7 @@ DANS was in the year of the report involved in the following projects:
     humanities;
 -   The Dutch e-science project 'Big Grid', in which DANS is working on
     grid archiving;
--   The National Coalition for Digital Preservation\', in cooperation
+-   The National Coalition for Digital Preservation', in cooperation
     with the National Library and other parties;
 -   A number of 'Small Data Projects', aimed at describing important
     data sets, feasibility studies, pilots and explorations in the area
@@ -249,13 +249,13 @@ psychology, visual culture, language & text, and geodata.
 
 Tenth anniversary of the ADP was an occasion for institutional
 presentation material redesign and promotional campaign. We concluded a
-cooperation with WISDOM on processing a \"Households, Work and
-Flexibility 2001\" international study, which is available in our
+cooperation with WISDOM on processing a "Households, Work and
+Flexibility 2001" international study, which is available in our
 holding. Transfer of metadata study descriptions from ADP catalogue to a
 Common Slovene libraries catalogue is completed. This year is new call
 for infrastructure and research long-term programmes in Slovenia now
 open and we reapplied, now waiting for results. We are applying on
-another call on \"National open data road map support study\". And we
+another call on "National open data road map support study". And we
 are active in a few WP in CESSDA PPP project.
 
 []{#sweden}
@@ -315,7 +315,7 @@ these, and linking them to the ESDS over the coming year.
 
 UKDAStore, a new research output management tool is to be launched
 mid-year. UKDAStore is a self-archiving repository capturing ESRC funded
-datasets that don\'t get accepted and enhanced by the UKDA. This links
+datasets that don't get accepted and enhanced by the UKDA. This links
 with the ESRC publications repository (Society Today) making links
 between data sources, data outputs and publications; based on the StORe
 (Source to Outputs) project. The project has been extended to
@@ -338,7 +338,7 @@ EDINA is setting up a restricted access data repository for sharing
 geospatial data (ShareGeo) so that license restrictions on Ordnance
 Survey derived datasets can be observed, by only sharing with members of
 other licensed institutions, e.g. those who have a Digimap subscription.
-Much more information about EDINA\'s activities in bibliographic and
+Much more information about EDINA's activities in bibliographic and
 multimedia services, Geo-data services, scholarly communication and
 learning & teaching can be found in its community report
 (<http://edina.ac.uk/about/annrep/communityreportMarch08.pdf>).

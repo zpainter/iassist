@@ -4,7 +4,7 @@ uid = "22"
 author = "t.alatera"
 title = "IASSIST Election 2015 Results"
 oldpath = "/about/iassist-election-2015-results"
-postdate = "2017-04-28 03:59:26 -0700"
+date = "2017-04-28 03:59:26 -0700"
 draft = "false"
 +++
  
@@ -39,7 +39,7 @@ IASSIST General Assembly in Minneapolis in June 2015.
 | United States                     | San Cannon                        |
 +-----------------------------------+-----------------------------------+
 
-Adminstrative Committee Member-at-Large\
+Adminstrative Committee Member-at-Large
 (4 Years)
 
 Name of Incumbent
