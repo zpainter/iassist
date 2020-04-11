@@ -7,6 +7,7 @@ tags = [ "Professional Development",]
 oldpath = "/blog/workshop-providing-social-science-data-services-strategies-design-and-operation"
 date = "2010-03-22 12:45:23 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Announcement of Workshop: Providing Social Science Data Services:
 Strategies for Design and Operation

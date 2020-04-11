@@ -3,10 +3,11 @@ nid = "581"
 uid = "1"
 author = "administrator"
 title = "Metadata Musings from IASSIST 2006"
-tags = [ "Community of Data Professionals", "IASSIST Conferences", "Other Topics",]
+tags = [ "Community of Data Professionals", "IASSIST Conferences", "Other Topics", "IASSIST 2006"]
 oldpath = "/blog/metadata-musings-iassist-2006"
 date = "2006-05-25 11:54:42 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I will start with a disclaimer that I am not a metadata expert nor do I
 play one on TV but I have been spending a lot of time recently
@@ -44,4 +45,4 @@ qualitative data? Are there enough metadata commonalities between German
 microcensus research data and the publication of official Ethiopian
 statistics? Does it matter?
 
-- contributed by San Cannon, metadata novice
+*Contributed by San Cannon, metadata novice*

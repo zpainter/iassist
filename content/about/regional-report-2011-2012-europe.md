@@ -13,5 +13,4 @@ Iris Alfredsson
 SND
 May 30, 2012
 
-» **[Report in PDF
-format](http://www.iassistdata.org/files/about/europe_regional_report_2011-2012.pdf).**
+» **[Report in PDF format](/file/about/europe_regional_report_2011-2012.pdf).**

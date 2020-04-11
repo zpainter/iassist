@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Deluge on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/data-deluge/</link>
+    <description>Recent content in Data Deluge on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Feb 2011 04:31:07 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/data-deluge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science Special: Dealing with Data</title>
+      <link>https://talatera.github.io/blog/2011/02/17/science-special-dealing-data/</link>
+      <pubDate>Thu, 17 Feb 2011 04:31:07 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/02/17/science-special-dealing-data/</guid>
+      <description>In the 11 February 2011 issue, Science joins with colleagues from Science Signaling, Science Translational Medicine, and Science Careers to provide a broad look at the issues surrounding the increasingly huge influx of research data. This collection of articles highlights both the challenges posed by the data deluge and the opportunities that can be realized if we can better organize and access the data. Science is making access to this entire collection FREE (simple registration is required for non-subscribers).</description>
+    </item>
+    
+    <item>
+      <title>The Chronicle: Colloquy: Data Deluge</title>
+      <link>https://talatera.github.io/blog/2006/06/19/chronicle-colloquy-data-deluge/</link>
+      <pubDate>Mon, 19 Jun 2006 15:04:06 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2006/06/19/chronicle-colloquy-data-deluge/</guid>
+      <description>The Chronicle of Higher Education is sponsoring an online discussion on Thursday, June 22 on the topic of preserving data.
+ The Chronicle: Colloquy: Data Deluge
+ Thanks to digital technology, scientists are generating vast amounts of valuable data that, months later, may be irretrievable or indecipherable. Librarians are being called in to archive that information, but financial, technical, and even cultural barriers stand in the way. Who should pay for archiving digital data?</description>
+    </item>
+    
+  </channel>
+</rss>

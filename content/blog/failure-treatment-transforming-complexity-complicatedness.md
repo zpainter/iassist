@@ -3,10 +3,11 @@ nid = "7831"
 uid = "157"
 author = "mhayslett"
 title = "Failure as the Treatment for Transforming Complexity to Complicatedness"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/failure-treatment-transforming-complexity-complicatedness"
 date = "2019-02-22 09:42:59 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the fourth issue of volume 42 of the IASSIST Quarterly (IQ
 42:4, 2018).

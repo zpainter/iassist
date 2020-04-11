@@ -7,6 +7,7 @@ tags = [ "android", "blackberry", "dotnet", "iOS", "sdk", "Tools and Apps",]
 oldpath = "/resources/us-department-labor-tools-application-development"
 date = "2011-07-18 07:39:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 From the US Department of Labor's
 [developer.dol.gov](http://developer.dol.gov) website comes an initial

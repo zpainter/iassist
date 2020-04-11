@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/data-management-curation-resources"
 date = "2011-05-06 09:51:33 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Dear IASSIST members,
 

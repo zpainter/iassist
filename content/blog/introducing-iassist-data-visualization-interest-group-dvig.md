@@ -7,6 +7,7 @@ tags = [ "Analytical Methods and Software", "Professional Development", "Statist
 oldpath = "/blog/introducing-iassist-data-visualization-interest-group-dvig"
 date = "2013-03-31 11:51:27 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Hello fellow IASSISTer's
 

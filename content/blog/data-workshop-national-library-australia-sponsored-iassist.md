@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Asia/Pacific", "External Events", "
 oldpath = "/blog/data-workshop-national-library-australia-sponsored-iassist"
 date = "2017-12-15 09:08:15 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  *Posted on behalf of Jade Koekoe*
 

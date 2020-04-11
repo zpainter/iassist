@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Sample plans", "Templates",]
 oldpath = "/resources/university-michigan-library-research-data-management-and-publishing-support"
 date = "2011-04-30 00:35:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [University of Michigan Library: Research Data Management and Publishing
 Support](http://www.lib.umich.edu/research-data-services/data-management-planning)

@@ -7,6 +7,7 @@ tags = [ "Data Citation",]
 oldpath = "/blog/data-citation-brochure-published-uks-economic-and-social-research-council"
 date = "2012-06-11 04:55:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Just to let you all know that here at the Economic and Social Data
 Service in the UK we have been working with the ESRC on a brochure to

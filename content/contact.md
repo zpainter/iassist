@@ -4,8 +4,12 @@ id = "contact"
 draft = false
 +++
 
-# We are here to help you
+# Leave us a message
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+You can leave a message using the contact form below. We will get back to you as soon as possible, but please give us a few days as our volunteers may be occipied. 
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Contact addresses for officials are on the right. Feel free to use them, if you can identify a direct contact. 
+<!--
+Test shortcut, remove
+<img alt="" src="/img/about/brochurethumb_2.jpg" srcset="/img/about/brochurethumb_2.jpg 1x, /img/about/brochurethumb_2@2x.jpg 2x, /img/about/brochurethumb_2@3x.jpg 3x" />
+-->

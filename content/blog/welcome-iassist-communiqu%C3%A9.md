@@ -7,6 +7,7 @@ tags = [ "Other Topics",]
 oldpath = "/blog/welcome-iassist-communiqu%C3%A9"
 date = "2005-06-07 17:48:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Communiqué is a place for discussions and news about all
 aspects of research data and the professionals responsible for

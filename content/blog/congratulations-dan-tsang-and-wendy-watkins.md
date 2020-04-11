@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "United States",]
 oldpath = "/blog/congratulations-dan-tsang-and-wendy-watkins"
 date = "2013-08-16 09:40:19 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 As some of you may know, Dan Tsang and Wendy Watkins have been named the
 2013 ICSPR Flanagan Award winners for distinguished service as an ICPSR

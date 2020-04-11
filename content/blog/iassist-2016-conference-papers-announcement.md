@@ -7,6 +7,7 @@ tags = [ "IASSIST 2016",]
 oldpath = "/blog/iassist-2016-conference-papers-announcement"
 date = "2016-05-25 14:46:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Hello IASSISTers,
 

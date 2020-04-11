@@ -7,6 +7,7 @@ tags = [ "Data Citation",]
 oldpath = "/blog/data-citation-principles-workshop-held"
 date = "2011-06-22 05:14:02 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 A workshop on Data Citation Principles sponsored by Harvard's Institute
 for Quantitative Social Sciences (IQSS) was held May 16-17 in Cambridge,

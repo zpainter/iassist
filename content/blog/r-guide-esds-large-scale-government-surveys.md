@@ -7,6 +7,7 @@ tags = [ "R", "resource guide", "statistical package", "Tools and Apps",]
 oldpath = "/resources/r-guide-esds-large-scale-government-surveys"
 date = "2012-06-15 03:47:07 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ESDS Government has produced a new guide, The R Guide to ESDS
 Large-Scale Government Surveys. The aim of this guide is to provide an

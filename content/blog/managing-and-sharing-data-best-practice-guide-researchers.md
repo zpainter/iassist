@@ -7,5 +7,6 @@ tags = [ "Data Management and Curation", "data management; data sharing", "Guide
 oldpath = "/resources/managing-and-sharing-data-best-practice-guide-researchers"
 date = "2013-07-31 05:33:42 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 

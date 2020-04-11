@@ -7,6 +7,7 @@ tags = [ "Tools, Apps, Technology",]
 oldpath = "/blog/islandora"
 date = "2010-06-16 07:17:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I am just attending CANHEIT and saw a presentation on 
 http://islandora.ca .  I thought this was a really neat project and I

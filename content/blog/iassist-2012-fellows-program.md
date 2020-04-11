@@ -7,6 +7,7 @@ tags = [ "Africa", "Community of Data Professionals", "Asia/Pacific", "Data-rela
 oldpath = "/blog/iassist-2012-fellows-program"
 date = "2012-01-31 13:32:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Fellows Program is now accepting applications for financial
 support to attend the IASSIST 2012 conference in Washington

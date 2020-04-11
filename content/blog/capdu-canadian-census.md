@@ -7,6 +7,7 @@ tags = [ "Data-related Advocacy", "Canada",]
 oldpath = "/blog/capdu-canadian-census"
 date = "2010-07-16 13:22:20 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 More info on what the response has been in Canada is available here:
 <http://capdu.wordpress.com/>   Very interesting to watch this unfold if

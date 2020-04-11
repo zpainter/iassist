@@ -7,6 +7,7 @@ tags = [ "Data Sources",]
 oldpath = "/resources/displaced-new-orleans-residents-pilot-study-dnorps"
 date = "2011-03-28 08:00:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Displaced New Orleans Residents Pilot Study
 (DNORPS)](http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/29523) is a

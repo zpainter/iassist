@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Archiving, Preservation, Curation", "Professional
 oldpath = "/blog/rin-consultation-paper-stewardship-research-data"
 date = "2007-05-02 12:01:54 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The RIN (Research Information Network) has recently published a draft
 consultation paper - *Stewardship of digital research data: a framework

@@ -13,5 +13,4 @@ Carol Perry
 University of Guelph
 May, 2016
 
-» **[Report in PDF
-format](http://iassistdata.org/files/about/canada_regional_report_2015-2016.pdf).**
+» **[Report in PDF format](/file/about/canada_regional_report_2015-2016.pdf).**

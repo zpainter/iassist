@@ -7,6 +7,7 @@ tags = [ "IASSIST 2016",]
 oldpath = "/blog/new-iassist-or-willing-mentor-someone-new"
 date = "2016-05-05 08:34:04 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 

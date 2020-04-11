@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data", "News and
 oldpath = "/blog/ontario-university-libraries-launch-new-data-service"
 date = "2007-06-15 05:43:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The following press release was posted to the IASSIST listserv by Bo
 Wandschneider on 11 June: Ottawa: June 11, 2007 The Ontario Council of

@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences", "Canada",]
 oldpath = "/blog/40-years-iassist-conferences-toronto-host-iassist-2014"
 date = "2013-01-18 06:33:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 IASSIST Members,
 

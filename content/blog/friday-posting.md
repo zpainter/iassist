@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/friday-posting"
 date = "2012-09-07 15:46:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 One of the highlights of the after hours hanging out during IASSIST
 conferences is getting to play some pool and make geeky data jokes you

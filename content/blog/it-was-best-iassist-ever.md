@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST 2008", "IASSIST Conferences
 oldpath = "/blog/it-was-best-iassist-ever"
 date = "2007-05-22 16:14:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Until next year of course!
 

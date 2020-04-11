@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education", "Exemplars",]
 oldpath = "/resources/icpsr-digital-preservation-management"
 date = "2011-04-27 08:03:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [ICPSR Digital Preservation
 Management](http://www.icpsr.umich.edu/dpm/) site provides a listing of

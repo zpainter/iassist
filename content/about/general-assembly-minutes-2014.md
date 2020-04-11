@@ -13,24 +13,14 @@ Ontario, Canada
 ### **Agenda**
 
 1. Welcome
-
 2. Approval of Minutes from 2013 Meeting
-
 3. Committee Reports
-
 4. Action Group Reports
-
 5. Interest Group Reports
-
 6. Treasurer's Report -- T Lindsay
-
 7. Regional Reports
-
 8. Future Conferences
-
 9. Other Business
-
 10. Adjourn
 
-» **[Minutes in PDF
-format](/files/about/agm14_minutes_approved.pdf).**
+» **[Minutes in PDF format](/file/about/agm14_minutes_approved.pdf).**

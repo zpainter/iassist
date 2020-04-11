@@ -3,10 +3,11 @@ nid = "7774"
 uid = "157"
 author = "mhayslett"
 title = "IASSIST Quarterly Volume 41 available--on a new web site!"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iassist-quarterly-volume-41-available-new-web-site"
 date = "2018-05-02 10:56:55 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the first issue of Volume 41 of the IASSIST Quarterly. It has
 taken extra time for this issue to appear. The cause of this is not that
@@ -98,8 +99,7 @@ appreciated as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
 <http://www.iassistdata.org>.  
 
-Authors are very welcome to take a look at the instructions and layout:
- <http://iassistdata.org/iq/instructions-authors>
+Authors are very welcome to take a look at the instructions and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I

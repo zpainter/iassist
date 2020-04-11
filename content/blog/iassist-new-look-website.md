@@ -7,6 +7,7 @@ tags = [ "IASSIST Strategy", "News and Announcements",]
 oldpath = "/blog/iassist-new-look-website"
 date = "2010-05-26 10:05:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Welcome to the new (May, 2010) IASSIST website, based on Drupal open
 source technology and hosted by LIS-host. The new logo and website

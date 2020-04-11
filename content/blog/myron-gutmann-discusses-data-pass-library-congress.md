@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation",]
 oldpath = "/blog/myron-gutmann-discusses-data-pass-library-congress"
 date = "2007-02-20 13:51:25 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Preserving At-Risk Digital Social Science Data: The Data-PASS
 Project](http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=4018)

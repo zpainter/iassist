@@ -3,15 +3,15 @@ nid = "7782"
 uid = "157"
 author = "mhayslett"
 title = "IASSIST Quarterly Volume 42:2 now available!"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iassist-quarterly-volume-422-now-available"
 date = "2018-07-19 06:13:26 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
-### Editor's notes:  Metadata is key - the most important data after data
+## Editor's notes:  Metadata is key - the most important data after data
 
-Welcome to the [second issue of volume 42 of the IASSIST
-Quarterly](https://iassistquarterly.com/index.php/iassist/issue/view/3 "2")
+Welcome to the [second issue of volume 42 of the IASSIST Quarterly](https://iassistquarterly.com/index.php/iassist/issue/view/3 "2")
 (IQ 42:2, 2018).
 
 The IASSIST Quarterly has had several papers on many different aspects

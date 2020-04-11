@@ -7,6 +7,7 @@ tags = [ "Open Data", "Data Sources",]
 oldpath = "/resources/canadas-open-data-pilot-project"
 date = "2011-03-17 09:18:39 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Great News Everyone! The Government of Canada has just debuted a new
 portal to their data at the [Open Data Pilot

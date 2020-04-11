@@ -3,10 +3,11 @@ nid = "584"
 uid = "11"
 author = "San"
 title = "Waxing Lyrical about IASSIST 2006"
-tags = [ "Community of Data Professionals", "IASSIST Conferences",]
+tags = [ "Community of Data Professionals", "IASSIST Conferences", "IASSIST 2006",]
 oldpath = "/blog/waxing-lyrical-about-iassist-2006"
 date = "2006-06-08 16:04:55 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Melanie Wright and her doo-wop partners, Jen Green and Joanne Juhnke,
 treated us to this year's song at the wrap up session. These fine

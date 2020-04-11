@@ -13,5 +13,4 @@ Kizito Kasozi
 Uganda Bureau of Statistics
 May 28, 2011
 
-» **[Report in PDF
-format](http://iassistdata.org/files/about/africa_regional_report_2010-2011.pdf).**
+» **[Report in PDF format](/file/about/africa_regional_report_2010-2011.pdf).**

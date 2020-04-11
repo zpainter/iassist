@@ -7,6 +7,7 @@ tags = [ "Data Archives and Service Providers", "Digital Repositories", "Researc
 oldpath = "/blog/feedback-data-storage"
 date = "2014-02-06 13:35:13 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I posted the following question to the listserv:
 

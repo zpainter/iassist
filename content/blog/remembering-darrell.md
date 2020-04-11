@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/remembering-darrell"
 date = "2019-11-21 07:38:53 -0700"
 draft = "false"
+banner = "/img/blog/darrell.png"
 +++
  
 
@@ -16,8 +17,9 @@ IASSIST organization mourns his untimely death and wishes to recognize
 the significant contributions he made to the data community over the
 course of his career.
 
-[![](/img/blog/darrell.png "Darrell Donakowski.  Photo from ICPSR."){.imagecache-inline_vertical
-width="200" height="200"}]{.image-left}Friends and family have created a
+{{< figure src="/img/blog/darrell.png" class="wrap" title="Darrell Donakowski. Photo from ICPSR." >}}
+
+Friends and family have created a
 scholarship at the University of Michigan-Dearborn in his memory.  At
 the suggestion of the several members and with the approval of the
 Administrative Committee, IASSIST has contributed $1000 to the

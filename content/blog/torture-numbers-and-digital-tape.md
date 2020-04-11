@@ -3,14 +3,15 @@ nid = "1323"
 uid = "284"
 author = "kboye"
 title = "Torture, Numbers, and Digital Tape"
-tags = [ "Africa", "Community of Data Professionals", "IASSIST Conferences", "Data-related Advocacy", "Canada", "IASSIST 2009", "Professional Development", "Data Archives and Service Providers", "Europe", "United States", "Social Science Datasets", "Statistical Literacy & Training Users",]
+tags = [ "Africa", "Community of Data Professionals", "IASSIST Conferences", "Data-related Advocacy", "Canada", "IASSIST 2009", "Professional Development", "Data Archives and Service Providers", "Europe", "United States", "Social Science Datasets", "Statistical Literacy & Training Users", "IQ",]
 oldpath = "/blog/torture-numbers-and-digital-tape"
 date = "2011-02-02 07:02:15 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 The IASSIST Quarterly (IQ) volume 33 number 3 is now on the web:
 
-[<http://iassistdata.org/iq/issue/33/3>]{.s1}
+[<http://iassistdata.org/iq/issue/33/3>]
 
 With this issue concentrating on quantitative investigations and the use
 of statistics, I came to think of the Mark Twain citation "There are
@@ -66,7 +67,7 @@ contact me. Chairing a conference session with the purpose of
 aggregating and integrating papers for a special issue IQ is much
 appreciated as the information reaches many more people than the session
 participants and will be readily available on the IASSIST website. More
-information on <http://iassistdata.org/iq/instructions-authors>. 
+information on <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Contact the editor via e-mail:
 [[kbr@sam.sdu.dk]{.s2}](mailto:kbr@sam.sdu.dk).

@@ -1,12 +1,13 @@
-+++
+	+++
 nid = "3391"
 uid = "5"
 author = "robin"
 title = "Become rich and famous: publish in the IQ!"
-tags = [ "Community of Data Professionals", "IASSIST 2012", "IASSIST 2013", "News and Announcements",]
+tags = [ "Community of Data Professionals", "IASSIST 2012", "IASSIST 2013", "News and Announcements", "IQ",]
 oldpath = "/blog/become-rich-and-famous-publish-iq"
 date = "2013-04-02 10:22:46 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 These days many IASSIST members have received acceptance for their
 papers to the upcoming conference IASSIST 2013 in Cologne. There will be
@@ -31,7 +32,7 @@ become guest editor and to aggregate and integrate papers on a common
 subject for a special issue of the IQ.
 
 Authors are very welcome to [take a look at the
-instructions](http://iassistdata.org/iq/instructions-authors) and
+instructions](https://iassistquarterly.com/index.php/iassist/about) and
 article template on the IASSIST website. Authors and guest editors can
 also contact the editor via e-mail: kbr@sam.sdu.dk.
 

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/should-americans-be-able-complete-census-online"
 date = "2008-01-31 01:16:24 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Using examples from Canada, Norway, and Australia, this report
 recommends that the U.S Census Bureau provide an online data collection

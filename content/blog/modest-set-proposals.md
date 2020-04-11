@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/modest-set-proposals"
 date = "2007-05-16 18:18:48 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The conference is on and I'm hoping to see lots of blog entries from
 the interesting sessions today. I'm expecting some details on session

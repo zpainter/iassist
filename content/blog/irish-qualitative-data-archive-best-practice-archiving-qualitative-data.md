@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Guides",]
 oldpath = "/resources/irish-qualitative-data-archive-best-practice-archiving-qualitative-data"
 date = "2011-05-11 14:32:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Irish Qualitative Data Archive: Best Practice in Archiving
 Qualitative Data

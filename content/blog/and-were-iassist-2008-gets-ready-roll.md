@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/and-were-iassist-2008-gets-ready-roll"
 date = "2007-12-20 13:01:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Now I start to fulfill my previous promise to completely and totally
 abuse my roll as managing editor of the IASSIST Communique to assist me

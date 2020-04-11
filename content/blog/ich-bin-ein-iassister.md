@@ -7,6 +7,7 @@ tags = [ "IASSIST 2013",]
 oldpath = "/blog/ich-bin-ein-iassister"
 date = "2013-06-06 08:46:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 From 28-31 May, [GESIS - Leibniz Institute for the Social
 Sciences](http://www.gesis.org/en/home/ "GESIS - Leibniz Institute for the Social Sciences")
@@ -107,4 +108,4 @@ Center ](http://www.gesis.org/en/archive-and-data-management-training-and-infor
 -   1 Banquet
 -   Lots of white asparagus served
 -   Many glasses of Kölsch drunk
--   ∞ Complaints about the venue Wi-Fi
+-   8 Complaints about the venue Wi-Fi

@@ -3,10 +3,11 @@ nid = "8035"
 uid = "157"
 author = "mhayslett"
 title = "IQ 43(1):  Standardization and certification save us from the frustrations of the Greek drama"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iq-431-standardization-and-certification-save-us-frustrations-greek-drama"
 date = "2019-05-13 05:49:55 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the first issue of volume 43 of the IASSIST Quarterly (IQ
 43:1, 2019).

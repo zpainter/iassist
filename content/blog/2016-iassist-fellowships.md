@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST 2016",]
 oldpath = "/blog/2016-iassist-fellowships"
 date = "2016-04-12 04:34:17 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Fellows Committee are pleased to announce that we will be
 awarding an IASSIST Fellowship award for the 2016 conference to the

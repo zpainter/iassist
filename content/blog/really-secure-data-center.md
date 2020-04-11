@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "News and Announcements",]
 oldpath = "/blog/really-secure-data-center"
 date = "2007-05-22 14:49:17 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [May 21 issue of Boing
 Boing](http://www.boingboing.net/2007/05/21/infobunker_nuclear_h.html)

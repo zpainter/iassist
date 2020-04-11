@@ -7,6 +7,7 @@ tags = [ "best practice", "digital preservation", "geospatial data", "policies",
 oldpath = "/resources/geospatial-data-preservation-resource-center"
 date = "2011-06-21 07:53:59 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 A new Web site, the [Geospatial Data Preservation Resource
 Center](http://geopreservation.org/%20), aims to help those responsible

@@ -7,6 +7,7 @@ tags = [ "Canada", "News and Announcements",]
 oldpath = "/blog/canadian-census-no-more-long-form"
 date = "2010-06-30 06:45:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 It appears that the Federal Government has decided to no longer have the
 mandatory long form in the upcoming census (2011).  This is the list of

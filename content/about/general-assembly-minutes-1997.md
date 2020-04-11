@@ -11,13 +11,11 @@ Chair: Libbie Stephenson
 
 Approximately 64 persons present.
 
-1. Call to order
-----------------
+### 1. Call to order
 
 The meeting was called to order at 13:40.
 
-2. 1997 Conference
-------------------
+### 2. 1997 Conference
 
 The Chair thanked all those who worked to put the 1997 conference, and
 recognized especially:
@@ -28,8 +26,7 @@ recognized especially:
 -   Workshops: Dianne Geraci
 -   Also Peggy Adams and Bridget Winstanley
 
-3. Future conferences - Libbie Stephenson
------------------------------------------
+### 3. Future conferences - Libbie Stephenson
 
 **3.1** 1998 Conference to be held at Yale University, New Haven, Conn..
 Ann Green, convenor of the 1998 conference.
@@ -40,24 +37,21 @@ Ann Green, convenor of the 1998 conference.
 2000 conference should submit a proposal to the IASSIST Administrative
 Committee. Three proposal have been received thus far.
 
-4. Regional secretariates - Libbie Stephenson
----------------------------------------------
+### 4. Regional secretariates - Libbie Stephenson
 
 The Chair explained that new data archives are being created in
 countries in which they have not traditionally existed before. A
 reorganization of the current structure of the regional secretariates is
 being evaluated.
 
-5. Publications - Libbie Stephenson
------------------------------------
+### 5. Publications - Libbie Stephenson
 
 It has been decided to conduct further testing of the WWW-based IASSIST
 Quarterly publishing initiative. The next three issues will be made
 available via the WWW as PDF files. These issues will also be produced
 in print.
 
-6. Election results - Libbie Stephenson and Peter Burnhill
-----------------------------------------------------------
+### 6. Election results - Libbie Stephenson and Peter Burnhill
 
 The Chair briefly thanked all those who have served with her during her
 presidency of IASSIST. She announced that the new president of IASSIST
@@ -87,8 +81,7 @@ P Burnhill introduced the newly elected officers:
 -   Bridget Winstanley: Regional Secretariat: Europe
 -   Laura Guy: Regional Secretariat: United States
 
-7. Future directions
---------------------
+### 7. Future directions
 
 P Burnhill announced some of the tasks facing the Administrative
 Committee in the coming year:
@@ -103,5 +96,4 @@ Committee in the coming year:
 -   a history of the Association to be written for the 25th anniversary
     (1999).
 
-8. The meeting adjourned at 14:10.
-----------------------------------
+### 8. The meeting adjourned at 14:10.

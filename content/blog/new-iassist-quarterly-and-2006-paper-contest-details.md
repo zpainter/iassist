@@ -7,9 +7,9 @@ tags = [ "Community of Data Professionals", "News and Announcements",]
 oldpath = "/blog/new-iassist-quarterly-and-2006-paper-contest-details"
 date = "2005-12-15 12:27:26 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
-The IASSIST Quarterly [(IQ Vol. 28 issue
-4)](http://www.iassistdata.org/publications/iq/iqvol28.html) is now
+The IASSIST Quarterly [(IQ Vol. 28 issue 4)](http://www.iassistdata.org/publications/iq/iqvol28.html) is now
 available on the web: The issue has articles about the following topics:
 
 -   Wikipedia. Oliver Watteler from the data archive (Zentralarchiv) in

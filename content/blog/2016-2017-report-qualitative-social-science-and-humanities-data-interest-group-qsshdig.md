@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/2016-2017-report-qualitative-social-science-and-humanities-data-interest-group-qsshdig"
 date = "2017-05-22 12:59:48 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Qualitative Social Science and Humanities Data Interest Group
 (QSSHDIG) was formed in fall 2016. We decided to focus our efforts on

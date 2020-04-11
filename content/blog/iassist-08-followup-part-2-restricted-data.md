@@ -7,6 +7,7 @@ tags = [ "IASSIST 2008", "Data Access & Open Data",]
 oldpath = "/blog/iassist-08-followup-part-2-restricted-data"
 date = "2008-07-03 13:16:04 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Regardless of the institutional setting in which we work, more and more
 of us are having to address researcher access to restricted or

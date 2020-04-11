@@ -3,10 +3,11 @@ nid = "8053"
 uid = "157"
 author = "mhayslett"
 title = "IQ 43(3) Available:  As open as possible and as closed as needed"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iq-433-available-open-possible-and-closed-needed"
 date = "2019-09-27 05:18:42 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the third issue of volume 43 of the IASSIST Quarterly (IQ
 43:3, 2019).

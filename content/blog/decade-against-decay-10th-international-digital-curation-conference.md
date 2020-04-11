@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/decade-against-decay-10th-international-digital-curation-conference"
 date = "2015-02-17 05:34:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [International Digital Curation
 Conference](http://www.dcc.ac.uk/events/international-digital-curation-conference-idcc)

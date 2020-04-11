@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Faculty", "Higher Education", "Exempla
 oldpath = "/resources/unc-data-stewardship-report"
 date = "2012-04-04 10:08:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In the spring of 2011, the UNC-Chapel Provost formed the Task Force on
 the Stewardship of Digital Research Data and charged its members with

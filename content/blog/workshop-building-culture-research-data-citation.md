@@ -7,6 +7,7 @@ tags = [ "Professional Development", "Data Citation",]
 oldpath = "/blog/workshop-building-culture-research-data-citation"
 date = "2011-10-20 11:21:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **Building a Culture of Research Data Citation**
 

@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Templates",]
 oldpath = "/resources/university-oxford-research-data-management"
 date = "2011-04-30 00:40:15 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [University of Oxford: Research Data
 Management](http://www.admin.ox.ac.uk/rdm/) contains good practice

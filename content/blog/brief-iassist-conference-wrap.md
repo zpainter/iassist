@@ -7,6 +7,7 @@ tags = [ "IASSIST 2015",]
 oldpath = "/blog/brief-iassist-conference-wrap"
 date = "2015-06-19 11:41:14 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 These are my brief notes from the sessions I was able to attend and take
 notes (a few times I was unable to stay in a session because of

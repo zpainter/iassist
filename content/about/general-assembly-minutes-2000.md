@@ -9,15 +9,13 @@ draft = "false"
 +++
 IASSIST Annual General Meeting, June 8, 2000, Evanston, Il., USA
 
-1. Call to order
-----------------
+### 1. Call to order
 
 The meeting was called to order at 12:55 with approximately with
 approximately 120 persons present. Chair: Peter Burnhill, President.
 Minutes: Laine Ruus
 
-2. Welcome and announcements (P Burnhill)
------------------------------------------
+### 2. Welcome and announcements (P Burnhill)
 
 P Burnhill welcomed the attendees to the 26th annual IASSIST conference.
 He expressed thanks to the members of the 2000 conference Local
@@ -30,22 +28,19 @@ reported that the 2000 conference had 159 registrants, of which 102 were
 from the USA, 22 from Canada, and 35 from Europe and elsewhere. The
 workshops attracted 64 participants.
 
-3. Approval of the minutes of the previous annual general meeting
------------------------------------------------------------------
+### 3. Approval of the minutes of the previous annual general meeting
 
 Moved that the minutes of the 1999 annual general meeting be approved as
 presented. Moved - Tess Trost, seconded - Wendy Watkins. The motion
 CARRIED.
 
-4. Matters arising from the minutes
------------------------------------
+### 4. Matters arising from the minutes
 
 There being none, the meeting proceeded to the next agenda item.
 
-5. Future conferences
----------------------
+### 5. Future conferences
 
-### 5.1 2001 - Amsterdam, joint conference with IFDO
+#### 5.1 2001 - Amsterdam, joint conference with IFDO
 
 E Mochmann, president of IFDO, invited IASSIST to join with IFDO in a
 joint conference in 2001. He informed the meeting that the first joint
@@ -54,17 +49,16 @@ protection. The theme of the 2001 conference is yet to be decided by the
 program committee. Cor van der Meer will chair the Local Arrangements
 Committee, and Ron Dekker will be Program Committee chair.
 
-### 5.2 2002
+#### 5.2 2002
 
 Interested institutions are invited to submit a proposal to host the
 2002 and 2003 conferences. Regulations re hosting IASSIST conferences
 are available on the IASSIST web site. One offer has been received from
 a US university to host the 2002 conference.
 
-6. Reports
-----------
+### 6. Reports
 
-### 6.1 President and vice-president's report
+#### 6.1 President and vice-president's report
 
 P Burnhill reported that the past 3 years have been spend resolving
 infrastructure issues within the association, and that there are
@@ -74,7 +68,7 @@ appointed of the Membership Committee and the Publications and
 Communications: Membership Committee chair: Suzette Giles Publications
 and Communications co-chairs: Patrick Yott and Lisa Niedert
 
-### 6.2 Regional secretariates
+#### 6.2 Regional secretariates
 
 **6.2.1 Canada**
 
@@ -96,7 +90,7 @@ report will be produced via a participatory process via e-mail.
 Representatives of these secretariates were not present. Reports to be
 made available on the WWW.
 
-### 6.3 Treasurer's report (W Treadwell)
+#### 6.3 Treasurer's report (W Treadwell)
 
 W Treadwell reported that there are 3 regional treasurers: JoAnne
 Dionne, Allison Bayley, and Gaetan Drolet. Membership fees have not
@@ -112,14 +106,14 @@ MOVED that membership be raised from US$40.00 (US$20.00 for students),
 to US$50.00 (US$25.00 for students). Moved: Wendy Treadwell; seconded:
 Laine Ruus. The motion CARRIED.
 
-### 6.4 Membership Committee report
+#### 6.4 Membership Committee report
 
 No report from this committee, as the chair is newly appointed. The
 committee will be composed of the regional secretariates, the president,
 and the chair of the committee. Responsibilities will include increasing
 membership, and member services.
 
-### 6.5 Publications and Communications Committee (M Adams)
+#### 6.5 Publications and Communications Committee (M Adams)
 
 M Adams thanked the members of the Committee for their work. The
 committee has three major areas of activity:
@@ -144,10 +138,9 @@ committee has three major areas of activity:
 
 P Burnhill thanked M Adams for her work on revitalizing the Committee.
 
-7. Reports of Action Groups
----------------------------
+### 7. Reports of Action Groups
 
-### 7.1 Outreach Action Group (Ilona Einowski)
+#### 7.1 Outreach Action Group (Ilona Einowski)
 
 I Einowski outlined the intent of the Outreach AG is to support
 professionals from emerging economies. The first activity was in 1997.
@@ -164,7 +157,7 @@ services.
 P Burnhill announced that the term of the Outreach AG will to be renewed
 for another year.
 
-### 7.2 Liaison and Representation Action Group
+#### 7.2 Liaison and Representation Action Group
 
 P Burnhill explained the intent of this Action Group, which constitutes
 IASSISTs representation to other organizations. Such representation was
@@ -172,14 +165,12 @@ once active, but it has since lost momentum. Therefore there is need to
 rethink at both national and international levels, and possibly
 coordinate with the regional secretariates.
 
-8. Elections
-------------
+### 8. Elections
 
 Approximately 50% of the Administrative Committee positions will be due
 for re-election in the fall of 2000. A Nominations and Elections
 Committee has been appointed.
 
-9. Other competent business
----------------------------
+### 9. Other competent business
 
 There being none, the meeting adjourned at 13:35.

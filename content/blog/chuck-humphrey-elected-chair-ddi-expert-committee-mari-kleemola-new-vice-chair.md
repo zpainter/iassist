@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/chuck-humphrey-elected-chair-ddi-expert-committee-mari-kleemola-new-vice-chair"
 date = "2009-12-11 14:15:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 From the[DDI Directions
 Newsletter](http://ddi.icpsr.umich.edu/files/blog/ddidirections7.pdf "DDI Directions Newsletter"):

@@ -7,6 +7,7 @@ tags = [ "Asia/Pacific",]
 oldpath = "/blog/updated-guide-data-citation-available"
 date = "2011-06-22 05:17:49 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Australian National Data Service has updated its [Guide on Data
 Citation](http://ands.org.au/guides/data-citation-awareness.html).

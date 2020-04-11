@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Staying current",]
 oldpath = "/resources/data-curation-bibliography-2012"
 date = "2012-05-29 10:15:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 "Digital Scholarship has released the Research Data Curation
 Bibliography. It includes over 100 selected English-language articles

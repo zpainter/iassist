@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Education", "Reposit
 oldpath = "/resources/university-british-columbia-library-research-data-management-rdm-website"
 date = "2014-12-19 07:33:28 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 University of British Columbia Library release their Research Data
 Management (RDM) website at <http://researchdata.library.ubc.ca/>.

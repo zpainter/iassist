@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/bonnie-iassist-edinburgh-0"
 date = "2005-06-09 16:30:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [IASSIST 2005](http://datalib.ed.ac.uk/iassist/index.shtml), hosted in
 Edinburgh from May 24-27, was a rousing success with over 200

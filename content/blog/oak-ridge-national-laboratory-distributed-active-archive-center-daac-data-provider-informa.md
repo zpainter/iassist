@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Guides",]
 oldpath = "/resources/oak-ridge-national-laboratory-distributed-active-archive-center-daac-data-provider-informa"
 date = "2011-04-25 12:13:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Oak Ridge National Laboratory DAAC: Data Provider
 Information](http://daac.ornl.gov/PI/pi_info.shtml) outlines practices

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data", "News and
 oldpath = "/blog/more-open-data"
 date = "2006-12-23 14:42:04 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Bill Hooker has written a nice article about ensuring that the data
 behind published scientific literature are made openly available.

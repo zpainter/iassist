@@ -7,6 +7,7 @@ tags = [ "Other Topics",]
 oldpath = "/blog/data-versus-conventional-wisdom-book-review"
 date = "2005-08-16 11:22:59 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **Freakonomics** by Steven Levitt and Stephen Dubner provides an
 economist's analysis of some social issues not normally associated with

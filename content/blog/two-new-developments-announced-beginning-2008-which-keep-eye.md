@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/two-new-developments-announced-beginning-2008-which-keep-eye"
 date = "2008-01-30 14:21:48 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 First, on January 18th, an announcement was made on
 [blog.wired.com](http://blog.wired.com/wiredscience/2008/01/google-to-provi.html)that

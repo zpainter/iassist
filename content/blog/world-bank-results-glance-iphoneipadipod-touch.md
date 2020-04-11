@@ -7,6 +7,7 @@ tags = [ "iOS", "mobile interfaces", "world bank", "Tools and Apps",]
 oldpath = "/resources/world-bank-results-glance-iphoneipadipod-touch"
 date = "2011-04-20 13:47:50 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The World Bank has developed an iPhone/iPad/etc application called
 "[World Bank Results at a

@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences", "News and Announcements",]
 oldpath = "/blog/papers-first-e-social-science-conference-online"
 date = "2005-08-29 11:10:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The papers from the first conference on e-social science, which was held
 in late June of 2005 in Manchester, England, are now

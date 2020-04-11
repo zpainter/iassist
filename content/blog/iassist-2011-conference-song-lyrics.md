@@ -7,6 +7,7 @@ tags = [ "IASSIST 2011",]
 oldpath = "/blog/iassist-2011-conference-song-lyrics"
 date = "2011-06-06 07:24:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Sung to the tune of [Bryan Adam's "Summer of
 '69"](http://www.youtube.com/watch?v=eFjjO_lhf9c) :

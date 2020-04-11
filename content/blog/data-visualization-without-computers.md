@@ -7,6 +7,7 @@ tags = [ "Other Topics",]
 oldpath = "/blog/data-visualization-without-computers"
 date = "2009-09-17 12:21:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Vintage Infographics From the
 1930s](http://flowingdata.com/2009/09/11/vintage-infographics-from-the-1930s/),

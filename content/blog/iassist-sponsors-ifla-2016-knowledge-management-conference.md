@@ -7,6 +7,7 @@ tags = [ "External Events", "United States", "News and Announcements",]
 oldpath = "/blog/iassist-sponsors-ifla-2016-knowledge-management-conference"
 date = "2016-10-21 08:27:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 IASSIST proudly sponsored a full-day conference about knowledge
 management (KM) on August 12, 2016 in Cincinnati, Ohio, USA at the

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences", "Data-related
 oldpath = "/blog/iassists-statement-response-president%E2%80%99s-executive-order-visas-and-immigration"
 date = "2017-02-13 12:00:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 
 February 13, 2017

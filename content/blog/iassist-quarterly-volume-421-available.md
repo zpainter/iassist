@@ -3,10 +3,11 @@ nid = "7779"
 uid = "157"
 author = "mhayslett"
 title = "IASSIST Quarterly Volume 42:1 available"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iassist-quarterly-volume-421-available"
 date = "2018-05-24 08:33:10 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 **Editor's notes:  Rebuilding, Preserving and Reproducing**
 

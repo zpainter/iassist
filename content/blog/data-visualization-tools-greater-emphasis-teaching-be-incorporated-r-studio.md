@@ -7,6 +7,7 @@ tags = [ "Analytical Methods and Software",]
 oldpath = "/blog/data-visualization-tools-greater-emphasis-teaching-be-incorporated-r-studio"
 date = "2012-08-21 08:26:26 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **Reposted from the [RStudio
 Blog](http://blog.rstudio.org/ "Return to front page"):**

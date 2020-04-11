@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Guides", "Templates"
 oldpath = "/resources/university-california-san-diego-ucsd-research-cyberinfrastructure-data-management-planning"
 date = "2011-05-04 08:06:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [UCSD Research Cyberinfrastructure: Data Management
 Planning](http://rci.ucsd.edu/data-curation/dmp.html) contains

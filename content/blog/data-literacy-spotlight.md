@@ -3,10 +3,11 @@ nid = "573"
 uid = "11"
 author = "San"
 title = "Data Literacy in the Spotlight"
-tags = [ "Professional Development",]
+tags = [ "Professional Development", "IQ"]
 oldpath = "/blog/data-literacy-spotlight"
 date = "2005-11-04 17:40:03 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 I am very pleased to announce that the special double issue of the
 IASSIST Quarterly ([IQ issues Vol. 28-2 and

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Professional Development",]
 oldpath = "/blog/bad-data-examples-appeal"
 date = "2007-06-19 16:44:54 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Back in early April, I canvassed the IASSIST list for examples of
 articles, studies, or any publication that misuses data.  My original

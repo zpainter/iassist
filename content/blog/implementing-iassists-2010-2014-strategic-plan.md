@@ -7,6 +7,7 @@ tags = [ "IASSIST Strategy",]
 oldpath = "/blog/implementing-iassists-2010-2014-strategic-plan"
 date = "2011-03-09 12:49:21 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 *"Data are larger than the social sciences" and data concerns have
 grown beyond the traditional communities comprising IASSIST."

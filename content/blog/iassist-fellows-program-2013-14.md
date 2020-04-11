@@ -7,6 +7,7 @@ tags = [ "Professional Development", "News and Announcements",]
 oldpath = "/blog/iassist-fellows-program-2013-14"
 date = "2013-11-19 10:50:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Fellows Program is pleased to announce that it is now
 accepting applications for financial support to attend the IASSIST 2014

@@ -7,6 +7,7 @@ tags = [ "Canada", "Professional Development", "United States", "Research Data M
 oldpath = "/blog/north-american-ddi-conference-april-2013"
 date = "2013-01-23 14:30:08 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Registration is now open for NADDI 2013
 (<http://www.ipsr.ku.edu/naddi/>). The North American Data Documentation

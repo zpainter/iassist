@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences", "Archiving, Preservation, Curation", "Data Acces
 oldpath = "/blog/open-data-surfaces-ala-annual-meeting"
 date = "2006-05-16 18:32:42 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 On May 11, 2006, the following announcement was made about an upcoming
 forum at the American Library Association annual meeting that will

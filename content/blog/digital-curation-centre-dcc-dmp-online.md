@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Templates",]
 oldpath = "/resources/digital-curation-centre-dcc-dmp-online"
 date = "2011-04-25 12:04:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [DCC's DMP Online](http://dmponline.dcc.ac.uk/) is a web-based data
 management planning tool that assists researchers in creating

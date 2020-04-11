@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/codata-meeting-notes"
 date = "2005-08-03 16:10:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The US National Committee for CODATA and its subgroup on Permanent
 Access to Scientific Data met on July 13 and 14 at the National

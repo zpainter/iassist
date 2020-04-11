@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies", "Archiving, Pre
 oldpath = "/blog/disc-uk-datashare-project-institutional-data-repositories"
 date = "2007-10-12 12:44:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 As part of the JISC-funded [DISC-UK DataShare
 project](http://www.disc-uk.org/datashare.html){.moz-txt-link-freetext}

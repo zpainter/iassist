@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education",]
 oldpath = "/resources/university-north-carolina-chapel-hill-unc-chapel-hill-school-information-library-science-s"
 date = "2011-04-27 08:12:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [UNC-Chapel Hill's Digital Curation Curriculum
 (DigCCurr)](http://www.ils.unc.edu/digccurr/) offers intensive training

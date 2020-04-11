@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/iassist-2014-conference-submission-deadline-extended-december-20"
 date = "2013-12-10 09:27:54 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 By popular request (and due to the tight holiday schedule this year),
 the IASSIST 2014 Conference Programme Committee has extended the

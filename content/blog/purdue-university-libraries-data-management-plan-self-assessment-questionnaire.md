@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Templates",]
 oldpath = "/resources/purdue-university-libraries-data-management-plan-self-assessment-questionnaire"
 date = "2011-05-05 13:46:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Developed by the Purdue University Libraries, the [Data Management Plan:
 Self-Assessment Questionnaire

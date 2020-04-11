@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Professional Development", "Data Ci
 oldpath = "/blog/cataloging-query-how-does-cataloging-data-differ-traditional-library-material"
 date = "2006-06-19 14:55:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In their never ending quest for information, Jen, Tiffani and Paula
 would like to know about people's experiences cataloging data. Do you

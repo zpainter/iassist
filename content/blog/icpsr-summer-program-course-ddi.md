@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Professional Development", "Data Ci
 oldpath = "/blog/icpsr-summer-program-course-ddi"
 date = "2009-06-09 11:33:54 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 As you may have heard during last week's wonderful [IASSIST meeting in
 Tampere](http://www.fsd.uta.fi/iassist2009/), there are still spaces

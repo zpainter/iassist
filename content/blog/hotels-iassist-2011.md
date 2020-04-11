@@ -7,6 +7,7 @@ tags = [ "IASSIST 2011",]
 oldpath = "/blog/hotels-iassist-2011"
 date = "2011-03-03 17:13:04 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 We have learned that there will be a very large conference in Vancouver
 at the same time as ours (5,000 people!), resulting in a real rush for

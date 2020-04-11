@@ -3,26 +3,16 @@ nid = "648"
 uid = "5"
 author = "robin"
 title = "new IQ"
-tags = [ "IASSIST Conferences", "Data Access & Open Data", "Professional Development", "News and Announcements", "Other Topics",]
+tags = [ "IASSIST Conferences", "Data Access & Open Data", "Professional Development", "News and Announcements", "Other Topics", "IQ",]
 oldpath = "/blog/new-iq-0"
 date = "2008-08-15 13:07:45 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 The IASSIST Quarterly (IQ Vol. 31 issue 1 - 2007) is now available on
 the web:
 
- 
-
 <http://iassistdata.org/publications/iq/iqvol31.html>
-
-The IASSIST Quarterly (IQ Vol. 31 issue 1 - 2007) is now available on
-the web:
-
- 
-
-<http://iassistdata.org/publications/iq/iqvol31.html>
-
- 
 
 Welcome to the first issue of the IASSIST Quarterly, vol. 31. We have
 passed the 34th IASSIST conference, also known as the Stanford IASSIST
@@ -38,8 +28,6 @@ conferences, and not only presenting at the conferences, but by changing
 their presentation into an article for the wider public. By doing so you
 get the extra bonus of having your writing reviewed and proofed and thus
 ending up with a much better product.
-
- 
 
 At the IASSIST 2007 conference in Montreal in a session named "New
 Discovery Tools: Thinking Outside the Catalogue" Taina Jääskeläinen and
@@ -58,8 +46,6 @@ is being searched. Many archives have study descriptions in English for
 exactly that purpose. If that is not available the authors recommend
 detailed contact information in order to obtain more information about
 the datasets.
-
- 
 
 The second article is from Eun-ha Hong at Wilfred Laurier University and
 Linda Lowry at Brock University. They are both employed as "business
@@ -83,8 +69,6 @@ practice" is proposed; IASSIST is seen as a natural home for this and
 also as reaching a critical mass for convincing the commercial data
 vendors. I hope the article will bring fruitful discussions at the
 coming conference.
-
- 
 
 The last article in this issue is "A Survey Data Archive Network in
 Africa - Possibilities and Practicalities" by Lynn Woolfrey from the
@@ -112,22 +96,14 @@ for the establishment of the network, and with the support from
 participants in similar networks, the development of an African survey
 data network will be interesting to follow.
 
- 
-
 Happy reading.
-
- 
 
 Articles for the IASSIST Quarterly are very welcome. Articles can be
 papers from IASSIST conferences, from other conferences, from local
 presentations, discussion input, etc. Contact the editor via e-mail:
 kbr@sam.sdu.dk.
 
- 
-
 Best regards, Karsten
-
- 
 
 Karsten Boye Rasmussen, editor of the IASSIST Quarterly,
 kbr@sam.sdu.dk, Marketing & Management, SDU, University of Southern

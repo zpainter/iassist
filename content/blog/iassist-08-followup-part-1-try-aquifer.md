@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation",]
 oldpath = "/blog/iassist-08-followup-part-1-try-aquifer"
 date = "2008-06-19 16:29:05 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Like everyone else, I've managed to catch up after being out of the
 office.  But IASSIST was worth every minute!  It was a pretty jampacked

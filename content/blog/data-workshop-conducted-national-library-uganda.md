@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/data-workshop-conducted-national-library-uganda"
 date = "2018-12-11 10:06:00 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 By Winny Nekesa Akullo, Uganda Library and Information Associations 
 

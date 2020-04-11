@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Policies",]
 oldpath = "/resources/government-canada-canadian-institutes-health-research-cihr-policy-access-research-outputs"
 date = "2011-04-27 12:16:23 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The[CIHR Policy on Access to Research
 Outputs](http://www.cihr-irsc.gc.ca/e/32005.html) demonstrates the

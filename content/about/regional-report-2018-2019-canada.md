@@ -14,4 +14,4 @@ University of Guelph
 May, 2019
 
 » **[Report in PDF
-format](/files/about/regional-report-canada-2018-2019.pdf).**
+format](/file/about/regional-report-canada-2018-2019.pdf).**

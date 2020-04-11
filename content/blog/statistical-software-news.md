@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/statistical-software-news"
 date = "2006-06-13 15:58:11 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Washington Post reports that the personal information recently
 stolen from the VA "was stored in a format that could make it difficult

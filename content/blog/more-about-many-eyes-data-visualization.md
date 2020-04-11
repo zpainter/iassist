@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data",]
 oldpath = "/blog/more-about-many-eyes-data-visualization"
 date = "2007-03-10 14:30:36 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 There is an interesting article by two of the creators of [Many
 Eyes](http://services.alphaworks.ibm.com/manyeyes/home "Many Eyes").

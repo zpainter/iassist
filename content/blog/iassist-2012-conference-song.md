@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012",]
 oldpath = "/blog/iassist-2012-conference-song"
 date = "2012-06-09 17:31:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 My thanks to Vince Gray, Lisa Neidert, and Melanie Wright for help with
 the lyrics, Melanie for the great guitar accompaniment, and Melanie,

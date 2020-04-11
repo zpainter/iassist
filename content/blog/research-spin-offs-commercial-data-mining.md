@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data",]
 oldpath = "/blog/research-spin-offs-commercial-data-mining"
 date = "2006-05-17 21:39:36 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Edmonton Journal technology columnist Steve Makris wrote about recent
 developments in data mining that could have potential implications for

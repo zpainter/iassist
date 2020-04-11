@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/now-accepting-proposals-iassist-2013"
 date = "2012-11-01 08:14:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 IASSIST 2013 will be hosted by GESIS -- Leibniz Institute for the Social
 Sciences at

@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "IASSIST 2014", "Research Data Management",]
 oldpath = "/blog/iassist-sigdmc-annual-report-2013-2014"
 date = "2014-05-30 09:57:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 By Carol Perry & Stefan Kramer, co-chairs
 Last updated: 2014-05-29 by CP

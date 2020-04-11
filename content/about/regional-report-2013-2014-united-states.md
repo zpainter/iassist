@@ -13,5 +13,4 @@ San Cannon
 Federal Reserve Board
 June 1, 2014
 
-» **[Report in PDF
-format](http://www.iassistdata.org/files/about/us_regional_report_2013-2014.pdf).**
+» **[Report in PDF format](/file/about/us_regional_report_2013-2014.pdf).**

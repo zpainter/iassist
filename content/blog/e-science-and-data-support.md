@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies", "United States"
 oldpath = "/blog/e-science-and-data-support"
 date = "2010-08-25 13:32:15 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [[[E-Science and Data Support Services: A Study of Association of
 Research Libraries Member Institutions

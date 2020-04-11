@@ -7,6 +7,7 @@ tags = [ "Research Data Management",]
 oldpath = "/blog/spring-forward-jisc-research-data-spring-programme"
 date = "2015-03-02 07:04:10 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 On 26/27 February, I attended Jisc Data Spring "[Sandpit
 1](https://drive.google.com/file/d/0B9pnqy-EhKsBbW1tMFhGQlZLTWM/view)"

@@ -7,6 +7,7 @@ tags = [ "ArcGIS", "Best practices", "data handling skills", "Data Management an
 oldpath = "/resources/research-data-management-training-online-course"
 date = "2011-10-26 03:58:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Research Data Management Training, or MANTRA project has produced an
 open, [online training course](http://datalib.edina.ac.uk/mantra) for

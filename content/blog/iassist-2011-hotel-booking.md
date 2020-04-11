@@ -7,6 +7,7 @@ tags = [ "IASSIST 2011",]
 oldpath = "/blog/iassist-2011-hotel-booking"
 date = "2011-03-01 09:11:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 We encourage everyone planning to attend **IASSIST 2011 in
 Vancouver **to book hotel rooms as soon as possible.  There are already

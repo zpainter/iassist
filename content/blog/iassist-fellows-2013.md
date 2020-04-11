@@ -7,6 +7,7 @@ tags = [ "Africa", "Community of Data Professionals", "Archiving, Preservation, 
 oldpath = "/blog/iassist-fellows-2013"
 date = "2013-05-06 19:38:07 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ** **
 
@@ -61,9 +62,9 @@ research interests are information retrieval, digital preservation and
 the management of research data.
 
 
-**Aleksandra Bradić-Martinović (Serbia) **
+**Aleksandra Bradic-Martinovic (Serbia) **
 
-Aleksandra Bradić-Martinović, PhD is the Research Fellow at the
+Aleksandra Bradic-Martinovic, PhD is the Research Fellow at the
 Institute of Economic Sciences, Belgrade, Serbia. Her field of expertize
 is research of information and communication technology implementation
 in economy, especially in banking, payment system operations and stock

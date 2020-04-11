@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences", "Data Citation",]
 oldpath = "/blog/upcoming-odaf-meetings-europe-and-us"
 date = "2008-02-22 14:30:15 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Open Data Foundation is pleased to announce that an ODaF Europe 2008
 meeting will take place at the UK Data Archive on April 14-15. This

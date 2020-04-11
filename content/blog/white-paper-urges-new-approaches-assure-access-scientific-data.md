@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/white-paper-urges-new-approaches-assure-access-scientific-data"
 date = "2013-12-23 06:15:36 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Press release posted on behalf of Mark Thompson-Kolar, ICPSR.
 

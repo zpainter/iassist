@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/another-data-sharing-advanced-visualization-site"
 date = "2007-01-26 13:43:32 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 IBM has announced [Many
 Eyes](http://services.alphaworks.ibm.com/manyeyes/app), a site for

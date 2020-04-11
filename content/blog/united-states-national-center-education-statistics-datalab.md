@@ -7,6 +7,7 @@ tags = [ "Tools and Apps",]
 oldpath = "/resources/united-states-national-center-education-statistics-datalab"
 date = "2010-08-02 09:36:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The National Center for Education Statistics'
 (NCES) [Datalab](http://nces.ed.gov/datalab/), introduced earlier this

@@ -3,10 +3,11 @@ nid = "3032"
 uid = "19"
 author = "StuartM"
 title = "IASSIST Quarterly (2011: Fall)"
-tags = [ "Data Access & Open Data", "Tools, Apps, Technology", "News and Announcements",]
+tags = [ "Data Access & Open Data", "Tools, Apps, Technology", "News and Announcements", "IQ",]
 oldpath = "/blog/iassist-quarterly-2011-fall"
 date = "2012-01-31 08:32:04 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 ### **Sharing data and building information**
 
@@ -89,7 +90,7 @@ session participants and will be readily available on the IASSIST
 website at http://www.iassistdata.org.
 
 Authors are very welcome to take a look at the instructions and layout:
-<http://iassistdata.org/iq/instructions-authors>
+<https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 
 Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be

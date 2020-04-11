@@ -7,6 +7,7 @@ tags = [ "IASSIST 2008", "IASSIST Conferences", "News and Announcements",]
 oldpath = "/blog/iassist-2008-accommodations-and-registration-reminder"
 date = "2008-04-22 14:11:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Happy Earth Day to everyone!!
 

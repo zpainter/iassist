@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Understanding researcher practices",]
 oldpath = "/resources/data-curation-profiles-toolkit"
 date = "2011-04-25 13:53:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Data Curation Profiles
 Toolkit](http://www.datacurationprofiles.org) enables librarians,

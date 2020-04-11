@@ -7,6 +7,7 @@ tags = [ "Research Data Management",]
 oldpath = "/blog/hallelujah-and-praise-lard-first-london-area-research-data-group-meeting"
 date = "2014-11-10 05:22:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 LARD is London Area Research Data and this was its inaugural meeting,
 informally bringing together various people from London based

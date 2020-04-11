@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Guides", "Sustainabi
 oldpath = "/resources/uk-data-archive-managing-and-sharing-data-best-practice-researchers"
 date = "2011-04-30 01:03:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The UK Data Archive's guide [Managing and Sharing Data: Best Practice
 for Researchers

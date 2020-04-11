@@ -3,14 +3,15 @@ nid = "7271"
 uid = "157"
 author = "mhayslett"
 title = "IASSIST 2017 Call for Proposals Now Open!"
-tags = [ "IASSIST Conferences",]
+tags = [ "IASSIST Conferences", "IASSIST 2017",]
 oldpath = "/blog/iassist-2017-call-proposals-now-open"
 date = "2016-10-17 05:40:20 -0700"
 draft = "false"
+banner = "/img/blog/cropped-iassist17tempwebheader.png"
 +++
 ### We are delighted to announce the call for proposals for the IASSIST 2017 Conference.
 
-### ![](/img/blog/cropped-iassist17tempwebheader.png "IASSIST 2017 Logo"){.imagecache-inline_horizontal width="409" height="200"}
+### ![](/img/blog/cropped-iassist17tempwebheader.png "IASSIST 2017 Logo")
 
 ### IASSIST 2017 CALL FOR PROPOSALS
 
@@ -43,8 +44,6 @@ can be accessed on the conference website here: 
 Questions can be directed to the Program Chairs, Samantha Guss and
 Michele Hayslett, at <iassist2017@gmail.com>.
 
- 
-
 ### Pre-conference Workshops
 
 We are also accepting submissions for Pre-conference Workshops under a
@@ -56,7 +55,6 @@ Questions about workshops may be sent to the Workshop Coordinators,
 Jenny Muilenburg (<jmuil@uw.edu>) and Andy Rutkowski
 (<arutkowski@library.ucla.edu>).
 
- 
 
 **Deadline for all submissions: 21 November 2016.**
 

@@ -7,6 +7,7 @@ tags = [ "New Jobs",]
 oldpath = "/blog/ddijava-developer-metadata-technology"
 date = "2011-10-03 13:26:14 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Metadata Technology North America is looking for full-time Java
 developers with strong background in XML and web service technologies.

@@ -3,10 +3,11 @@ nid = "582"
 uid = "5"
 author = "robin"
 title = "Blog the Conference!"
-tags = [ "Community of Data Professionals", "IASSIST Conferences", "Reports & Studies", "News and Announcements",]
+tags = [ "Community of Data Professionals", "IASSIST Conferences", "Reports & Studies", "News and Announcements", "IASSIST 2006",]
 oldpath = "/blog/blog-conference"
 date = "2006-05-25 16:33:49 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Welcome to the 2006 IASSIST Conference in Ann Arbor! For those who
 can't join in the fun, we (the Pubs committee and the Admin Committee)

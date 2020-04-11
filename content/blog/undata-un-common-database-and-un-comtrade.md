@@ -7,6 +7,7 @@ tags = [ "News and Announcements", "Other Topics",]
 oldpath = "/blog/undata-un-common-database-and-un-comtrade"
 date = "2008-02-28 13:32:08 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I took a long look at **[UNData](http://data.un.org/ "UNdata")** the
 other day and came away thinking "pretty; looks functional; how does it

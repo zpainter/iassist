@@ -7,6 +7,7 @@ tags = [ "Social Science Datasets",]
 oldpath = "/blog/finding-historical-economic-data-through-fraser-and-alfred"
 date = "2013-08-26 14:00:13 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The North Carolina Library Association's Government Resources Section
 had an excellent webinar yesterday on finding historical (or

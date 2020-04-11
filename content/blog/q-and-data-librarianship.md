@@ -7,6 +7,7 @@ tags = [ "Professional Development",]
 oldpath = "/blog/q-and-data-librarianship"
 date = "2006-06-22 15:19:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 During the colloquy hosted by the *Chronicle of Higher Education* today,
 there were a number of questions about the role of libraries and

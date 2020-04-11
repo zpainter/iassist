@@ -7,6 +7,7 @@ tags = [ "Data Deluge",]
 oldpath = "/blog/chronicle-colloquy-data-deluge"
 date = "2006-06-19 15:04:06 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The *Chronicle of Higher Education* is sponsoring an online discussion
 on Thursday, June 22 on the topic of preserving data.

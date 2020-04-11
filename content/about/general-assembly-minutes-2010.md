@@ -10,27 +10,23 @@ draft = "false"
 Meeting of the General Assembly, Thursday, June 3, 2010, Cornell
 University, Ithaca, New York, USA
 
-1. Welcome
-----------
+### 1. Welcome
 
 The meeting was called to order at 12:59 p.m.
 
-2. Approval of the minutes of the previous AGM (2009)
------------------------------------------------------
+### 2. Approval of the minutes of the previous AGM (2009)
 
 MOVED to approve the minutes of the annual general meeting of May 28,
 2009 subject to typographical editorial review.
 Moved: T. Lindsay, seconded W. Piovesan. The motion CARRIED.
 
-3. Treasurer's Report
-----------------------
+### 3. Treasurer's Report
 
 In the interest of brevity: the budget is holding steady. Pose any
 questions to J. Green by catching her in the hallway or by email or
 phone.
 
-4. Regional Reports
--------------------
+### 4. Regional Reports
 
 Africa - L. Woolfrey on behalf of K. Kasozi
 
@@ -70,8 +66,7 @@ participating. We are seeking members to contribute to IASSIST
 initiatives. Anyone interested is encouraged to contact P. Baxter.
 Don't be surprised if she reaches out to you.
 
-5. Committee Reports
---------------------
+### 5. Committee Reports
 
 Education - M. Edwards
 
@@ -121,8 +116,7 @@ the Fellows Program. We are currently looking for new funding models and
 sources of funding. Also, we have a new co-chair, L. Woolfrey who spoke
 for Africa earlier.
 
-6. Conferences
---------------
+### 6. Conferences
 
 2009 - T. Alaterä
 
@@ -151,8 +145,7 @@ still working on the details.
 There have been expressions of interest to host 2013 in Berlin. We will
 issue a call and other proposals are welcome, from any region.
 
-7. Action / Interest Groups
----------------------------
+### 7. Action / Interest Groups
 
 e-Community Infrastructure Action Group - B. Wandschneider
 
@@ -186,28 +179,25 @@ process, things people wanted to see the org move forward. Each Action
 Group is a one-year group. If you are interested in working on one of
 these groups, we are looking for people.
 
-8. New Action Groups - M. Wright
---------------------------------
+### 8. New Action Groups - M. Wright
 
 Description and elaboration of the six new action groups were given. See
 the accompanying hand-out
-[[1](http://iassistdata.org/files/about/action_groups_2010_handout_pg1.pdf),
-[2](http://iassistdata.org/files/about/action_groups_2010_handout_pg2-7.pdf)]
+[[1](/file/about/action_groups_2010_handout_pg1.pdf),
+[2](/file/about/action_groups_2010_handout_pg2-7.pdf)]
 for more detail. We are hoping through this process to make the
 organization more responsive to the members and to open up more avenues
 for people to participate in the organization. Action groups provide
 something concrete with a short or reasonable time frame to participate
 in IASSIST.
 
-9. Constitutional and structural reform - M. Wright
----------------------------------------------------
+### 9. Constitutional and structural reform - M. Wright
 
 A proposal for next year's AGM will refocus the standing committees.
 The organization is no longer about paper publications but about
 community and communication.
 
-10. New websites!
------------------
+### 10. New websites!
 
 Public web site: <http://iassistdata.org> - R. Rice
 
@@ -235,8 +225,7 @@ features, such as fora for discussions that are exclusively
 member-driven (private). All of this will be discussed at the session
 later today.
 
-11. AOB
--------
+### 11. AOB
 
 Local arrangements announcements - P. Baxter
 
@@ -245,8 +234,7 @@ looking for a ride, you can look there. Please drop conference
 evaluations in the conference office. They can be done in print or
 online.
 
-12. Motion to adjourn
----------------------
+### 12. Motion to adjourn
 
 MOVED: at 1:44 p.m. to adjourn the annual general meeting.
 

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/data-storage-policy-cant-be-enforced"
 date = "2007-06-27 13:39:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 There is a nice article in University Affairs about Carol Perry and her
 work. Raises some important issues about preserving research data and

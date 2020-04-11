@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides",]
 oldpath = "/resources/starting-conversation-university-wide-research-data-management-policy-featuring-iassisters"
 date = "2013-12-19 12:38:32 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Starting the Conversation: University-wide Research Data Management
 Policy](http://www.oclc.org/content/dam/research/publications/library/2013/2013-08.pdf)

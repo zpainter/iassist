@@ -7,6 +7,7 @@ tags = [ "New Jobs",]
 oldpath = "/blog/opening-collections-research-librarian-agricultural-environmental-sciences-ncsu"
 date = "2019-03-29 05:26:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 NC State University Libraries is seeking a talented individual for the
 position of **Collections & Research Librarian for Agricultural &

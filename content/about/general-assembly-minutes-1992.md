@@ -14,16 +14,14 @@ present.
 
 Chair: Chuck Humphrey, President
 
-1. The 1992 Conference Committee
---------------------------------
+### 1. The 1992 Conference Committee
 
 Laura Guy thanked all members of the Local Arrangements and Program
 Committees. She is very happy that IASSIST was finally able to come to
 Madison, Wisc. Cindy Lew officially passed on the IASSIST banner to
 Peter Burnhill representing the 1993 Local Arrangements Committee.
 
-2. The 1993 Conference Committee
---------------------------------
+### 2. The 1993 Conference Committee
 
 Peter Burnhill reported that the dates of the 1993 conference will
 likely be the 11-14th of May, 1993, and the venue will be Edinburgh, the
@@ -48,16 +46,14 @@ promotional workshop "Can I Assist You", with international
 participation, will be held in conjunction with a library conference in
 Britain in September of 1992.
 
-3. IASSIST Conferences 1994, and 1995
--------------------------------------
+### 3. IASSIST Conferences 1994, and 1995
 
 Chuck Humphrey reported that the 1994 conference will be held in
 northern California, and the 1995 in Quebec, possibly in Quebec City.
 
-4. Reports of the Regional Secretariats
----------------------------------------
+### 4. Reports of the Regional Secretariats
 
-### 4.1 Canadian Secretariat
+ **4.1** Canadian Secretariat
 
 Wendy Watkins reported the following activity in Canada over the past
 year:
@@ -91,7 +87,7 @@ year:
     Statistics Canada produced microdata files, starting with the
     'Literacy survey' which is being made available via ftp.
 
-### 4.2 European Secretariat (Peter Burnhill)
+ **4.2** European Secretariat (Peter Burnhill)
 
 The ESRC Data Archive now has a new director, Denise Lievesley.
 
@@ -100,7 +96,7 @@ National Archives.
 
 Changes at the Steinmetzarchief are as yet not official.
 
-### 4.3 U.S. Secretariat (Ann Gray)
+ **4.3** U.S. Secretariat (Ann Gray)
 
 Ann Gray presented highlights from the following report of the U.S.
 Secretariate, which is reproduced here in full:
@@ -187,32 +183,30 @@ promises something for everyone, should include us but we should take
 care that at least one small bandwidth will be available for social
 scientists.
 
-5. Treasurer's report (Kay Worrell)
-------------------------------------
+### 5. Treasurer's report (Kay Worrell)
 
 IASSIST is solvent. As of the beginning of May, the bank balance was
 approx. $20,000.00.
 
-6. Reports of the Round Table lunches
--------------------------------------
+### 6. Reports of the Round Table lunches
 
 Round table lunches have in the past generated both papers and whole
 sessions at IASSIST conferences.
 
-### 6.1 Copyright (Sarah Cox-Byrne)
+ **6.1** Copyright (Sarah Cox-Byrne)
 
 The major topic of discussion at this Round Table was a U.S. Supreme
 Court decision with respect to the telephone 'yellow pages' directory,
 and the copyrightability of factual information. This has implications
 for the copyright status of data files.
 
-### 6.2 Archiving and conversion (Karsten Boye Rasmussen)
+ **6.2** Archiving and conversion (Karsten Boye Rasmussen)
 
 The main discussion concerned archival storage media, and especially the
 pros and cons of CD-ROM as a storage medium in data archives and data
 libraries.
 
-### 6.3 Confidentiality and access (Vigdis Kvalheim)
+ **6.3** Confidentiality and access (Vigdis Kvalheim)
 
 On the issues of confidentiality and access, Europe and North America
 are two different worlds. In North America, the main responsibility for
@@ -223,7 +217,7 @@ personal records after a project is over. Americans are more concerned
 about access to business records, access to government records, and
 linkeage issues.
 
-### 6.4 IASSIST futures (Ilona Einowski)
+ **6.4** IASSIST futures (Ilona Einowski)
 
 Topics of discussion included what other associations IASSIST members
 belong to, and the advantages to new members of IASSIST. New conference
@@ -237,7 +231,7 @@ the possibility of changing the format of the conference to 2 days of
 workshops, and 2 days of conference sessions, and the possibility of
 regional meetings.
 
-### 6.5 ICPSR (Carolyn Geda)
+ **6.5** ICPSR (Carolyn Geda)
 
 Highlights of the discussion at this round table: ICPSR should place a
 higher priority on the acquisition and release of serial data files.
@@ -253,12 +247,12 @@ ICPSR staff should respond to OR-L listserv messages. There was also
 some discussion about federal government funding for specialized
 collections, such as the NSF funding for the census acquisition.
 
-### 6.6 Text files (John Price-Wilkins)
+ **6.6** Text files (John Price-Wilkins)
 
 Mr. Price-Wilkins was not present, thus no report was presented from
 this round table.
 
-### 6.7 Training data librarians (George Sharrard)
+ **6.7** Training data librarians (George Sharrard)
 
 This round table was very active - most of the participants were
 librarians. Discussion centered primarily around collection content
@@ -269,14 +263,13 @@ end-users, and knowing what university committees they are on. Also
 discussed the ICPSR Summer Institute as a good program for new Official
 Representatives, etc.
 
-### 6.8 UNIX (Jim Jacobs)
+ **6.8** UNIX (Jim Jacobs)
 
 The round table had held a lively discussion, mainly centering on
 systems administration, disk space allocation, the death of the
 mainframe, and UNIXs networking strengths.
 
-7. Nominations and Elections Committee
---------------------------------------
+### 7. Nominations and Elections Committee
 
 The members of the Nominations and Elections Committee are: Karsten Boye
 Rasmussen (chair), Tom Brown, Walter Piovesan, Wendy Treadwell, and
@@ -288,8 +281,7 @@ the United States, from which are to be selected 1 member-at-large from
 Canada, 1 from Europe, and 3 from the United States, as well as a
 president and vice- president.
 
-8. Constitutional amendment (Tom Brown)
----------------------------------------
+### 8. Constitutional amendment (Tom Brown)
 
 A constitutional amendment, the intention of which is to separate the
 functions of archivist and secretary, will be presented to the
@@ -298,10 +290,9 @@ A ballot on the constitutional amendment will be mailed with the vote
 for Administrative Committee members and officers. The revised
 constitution will then be published in the IASSIST Quarterly.
 
-9. Other business
------------------
+### 9. Other business
 
-### 9.1 CESSDA (Denise Lievesley)
+ **9.1** CESSDA (Denise Lievesley)
 
 Ms Lievesley reported on current activities in the Council of European
 Social Science Data Archives (CESSDA). CESSDA is becoming more organized
@@ -322,7 +313,7 @@ projects. Future planned activities include:
     decision that all personal data be destroyed upon the conclusion of
     the current project.
 
-### 9.2 World Fertility Surveys (Denise Lievesley)
+ **9.2** World Fertility Surveys (Denise Lievesley)
 
 The World Fertility Survey data files have been housed as the
 International Statistical Institution (ISI) in the Hague. ISI is
@@ -342,20 +333,20 @@ country capable of managing the data.
 The suggestion was raised that perhaps CELADE might be persuaded to
 house the data.
 
-### 9.3 IASSIST listserver (Judith Rowe)
+ **9.3** IASSIST listserver (Judith Rowe)
 
 The IASSIST listserver is now 1 year old. There would be no problem with
 storing other files in addition to log files to make them available
 through the listserver. There is also the possibility of 'sub-lists'
 for special discussions.
 
-### 9.4 APDU (Peggy Adams)
+ **9.4** APDU (Peggy Adams)
 
 The 1992 Association of Public Data Users annual meeting will be held
 November 2-4, 1992. It will be preceded by one-half day workshops on
 November 1st.
 
-### 9.4 Resolution (Don Harrison)
+ **9.4** Resolution (Don Harrison)
 
 Don Harrison presented a resolution urging that prompt action be taken
 by the U.S. government to salvage archival records from the Vietnam

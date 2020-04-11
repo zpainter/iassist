@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/session-d3-views-near-plug"
 date = "2007-05-18 01:54:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Your trusty blogger attended Data Access Questions:  Open and Shut
 (session D3).   She assumed that, as an august member of the blogging
@@ -36,7 +37,7 @@ for users.
 
 Looking ahead, the archive plans to acquire commercial data, especially
 of the financial and marketing variety, being both rich in information
-and expensive in €   ₤   $.   (In the case of Datastream, content is
+and expensive in €   £   $.   (In the case of Datastream, content is
 limited to historical data due to the cost.) These have represented new
 challenges in the form of negotiating rather tight and specific access
 contracts. Future sustainability remains a question.  (Read:  How

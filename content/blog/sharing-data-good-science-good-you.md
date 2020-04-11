@@ -7,6 +7,7 @@ tags = [ "Data Archives and Service Providers",]
 oldpath = "/blog/sharing-data-good-science-good-you"
 date = "2013-08-26 08:43:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 DANS has published a video to promote storing and sharing data within
 the research community. The video is available in Dutch and English, and

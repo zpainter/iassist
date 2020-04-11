@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies",]
 oldpath = "/blog/special-issue-international-journal-librarianship-data-librarianship"
 date = "2017-07-30 10:43:37 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Posted on behalf of Kristi Thompson]
 

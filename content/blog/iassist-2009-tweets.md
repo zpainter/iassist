@@ -7,6 +7,7 @@ tags = [ "IASSIST 2009",]
 oldpath = "/blog/iassist-2009-tweets"
 date = "2009-03-03 10:51:23 -0700"
 draft = "false"
+banner = "/img/blog/iassist09_banner_45pros.jpg"
 +++
 We've created a Twitter feed for conference info, updates and
 impressions. See it at http://twitter.com/IASSIST2009 or  there's a

@@ -7,6 +7,7 @@ tags = [ "Data-related Advocacy", "News and Announcements",]
 oldpath = "/blog/us-budget-cuts-threaten-statistical-abstract"
 date = "2011-04-08 07:13:36 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 When the big news broke last month that the US Census Bureau is
 [proposing budget

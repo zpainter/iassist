@@ -3,10 +3,11 @@ nid = "3719"
 uid = "19"
 author = "StuartM"
 title = "New 'Special Issue' IQ now available!"
-tags = [ "Community of Data Professionals", "News and Announcements",]
+tags = [ "Community of Data Professionals", "News and Announcements", "IQ",]
 oldpath = "/blog/new-special-issue-iq-now-available"
 date = "2014-05-26 08:16:45 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 **Editor's notes**
 
@@ -36,7 +37,7 @@ the session participants, and will be readily available on the IASSIST
 website at <http://www.iassistdata.org>.
 
 Authors are very welcome to take a look at the instructions and layout:
-http://iassistdata.org/iq/instructions-authors
+<https://www.iassistquarterly.com/index.php/iassist/about/submissions>
 
 Authors can also contact me via e-mail: <kbr@sam.sdu.dk>. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I

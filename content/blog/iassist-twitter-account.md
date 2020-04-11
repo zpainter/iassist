@@ -7,6 +7,7 @@ tags = [ "Tools, Apps, Technology", "News and Announcements",]
 oldpath = "/blog/iassist-twitter-account"
 date = "2010-09-23 12:37:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Your friendly web editors have some news about the IASSIST web presence!
 

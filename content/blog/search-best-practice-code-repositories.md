@@ -7,6 +7,7 @@ tags = [ "Analytical Methods and Software", "Digital Repositories", "Tools, Apps
 oldpath = "/blog/search-best-practice-code-repositories"
 date = "2013-03-05 12:45:39 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I was asked by a colleague about organized efforts within the economics
 community to develop or support repositories of code for research.  Her

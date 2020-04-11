@@ -3,10 +3,11 @@ nid = "7548"
 uid = "157"
 author = "mhayslett"
 title = "IQ Volume 40 Issue 3 now available"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iq-volume-40-issue-3-now-available"
 date = "2017-07-01 15:22:46 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 **Issue 40(3) is now online at
 <http://www.iassistdata.org/iq/issue/40/3>.**
@@ -101,8 +102,7 @@ appreciated as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
 http://www.iassistd ata.org.
 
-Authors are very welcome to take a look at the instructions and layout:
-http://iassistdata.org/iq/instructions-authors
+Authors are very welcome to take a look at the instructions and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I

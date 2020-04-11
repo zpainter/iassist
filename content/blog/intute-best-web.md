@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data", "News and
 oldpath = "/blog/intute-best-web"
 date = "2006-07-19 15:31:54 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Intute was launched on 13 July 2006 at an event held at the Wellcome
 Trust, London. Intute is the new face of the Resource Discovery Network

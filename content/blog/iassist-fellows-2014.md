@@ -7,6 +7,7 @@ tags = [ "Africa", "Community of Data Professionals", "Asia/Pacific", "Data-rela
 oldpath = "/blog/iassist-fellows-2014"
 date = "2014-04-10 08:05:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Fellows Committee is glad to announce through this post the
 four recipients of the 2014 IASSIST Fellowship award. We are extremely

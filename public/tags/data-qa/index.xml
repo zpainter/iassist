@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Q&amp;A on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/data-qa/</link>
+    <description>Recent content in Data Q&amp;A on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2015 14:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/data-qa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DataQ: A collaborative platform for answering research data questions in academic libraries</title>
+      <link>https://talatera.github.io/blog/2015/10/26/dataq-collaborative-platform-answering-research-data-questions-academic-libraries/</link>
+      <pubDate>Mon, 26 Oct 2015 14:00:00 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2015/10/26/dataq-collaborative-platform-answering-research-data-questions-academic-libraries/</guid>
+      <description>DataQ is a collaborative platform for the community to use to ask and answer questions related to research data support in academic libraries. Library staff from any institution may submit questions on research data topics to the DataQ website, where questions are reviewed by an Editorial Team of experts with additional support from an active pool of Project Volunteers. Answers to these questions, from both the community and the Editorial Team, are posted to the DataQ website and include links to resources and tools, best practices, and practical approaches to working with researchers to address specific research data issues.</description>
+    </item>
+    
+  </channel>
+</rss>

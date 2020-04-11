@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Archiving, Preservation, Curation", "Data Access 
 oldpath = "/blog/open-access-and-reuse-research-data-finland"
 date = "2008-10-10 14:12:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In 2006, motivated by the OECD Open Access guidelines, the Finnish
 Social Science Data Archive (FSD) carried out an online survey targeting

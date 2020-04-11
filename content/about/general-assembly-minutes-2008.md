@@ -10,14 +10,12 @@ draft = "false"
 Meeting of the General Assembly, Thursday, May 29, 2008, Stanford
 University, Palo Alto, California, USA
 
-1. Welcome -- *M Wright, President*
------------------------------------
+### 1. Welcome -- *M Wright, President*
 
 The meeting was called to order at 12:49 with about 210 (-7%) persons
 present.
 
-2. Approval of the minutes of the previous AGM (2007)
------------------------------------------------------
+### 2. Approval of the minutes of the previous AGM (2007)
 
 It was noted that the phrase 'website engineer' should be replaced by
 'web site editor'.
@@ -25,24 +23,21 @@ It was noted that the phrase 'website engineer' should be replaced by
 MOVED to approve the minutes of the annual general meeting of May 25,
 2006 as amended. Moved: E Boyko, L Timms-Ferrara. The motion CARRIED.
 
-3. New appointments -- *M Wright*
----------------------------------
+### 3. New appointments -- *M Wright*
 
 The president announced the appointment of J Herndon to replace B Block
 as member at large of the Administrative Committee, the appointment of
 an archivist -- Amy West, chairing the new 'Organizational Memory
 Action Group' and the appointment of Kristin Partlo as secretary.
 
-4. IASSIST 2009
----------------
+### 4. IASSIST 2009
 
 The program co-chairs for the 2009 conference will be B Wandschneider
 and K McNeill-Harman. T Alaterä referred to the 2009 conference web
 site. The conference will be held in the same week in May as the current
 conference.
 
-5. Reports of officers
-----------------------
+### 5. Reports of officers
 
 President & Vice-president -- M Wright & B Block
 
@@ -59,8 +54,7 @@ The membership is stable, new rates reflecting current state of US$.
 Have a surplus of $125,000 (mostly in Canadian & UK funds). The budget
 for the current year was presented.
 
-6. Reports of regional secretaries
-----------------------------------
+### 6. Reports of regional secretaries
 
 Europe -- M Kleemola
 
@@ -98,8 +92,7 @@ changes in Census Bureau leadership. DATA-PASS has funding for another
 18 months from Library of Congress. And the Roper Center is advancing
 the Latin American collection.
 
-7. Reports of committees
-------------------------
+### 7. Reports of committees
 
 Membership Committee -- L Timms-Ferrara.
 
@@ -135,8 +128,7 @@ Committee with have a slate of candidates. The election itself will be
 held in the first two weeks of February. Please think in terms of
 nominations & ideas. Self-nomination is completely fine.
 
-8. Reports of Action and Interest Groups
-----------------------------------------
+### 8. Reports of Action and Interest Groups
 
 Technology Advisory Action Group -- B Block
 
@@ -155,8 +147,7 @@ The chair invites new members to join the planning group. Need to asses
 the role IASSIST plays in libraries, archives, and information
 technology more broadly.
 
-9. New business -- *M Wright*
------------------------------
+### 9. New business -- *M Wright*
 
 There were several brief informational announcements, but no new
 business per se.
@@ -164,7 +155,6 @@ business per se.
 T Myscich thanked the IASSIST Outreach Committee for providing support
 for the trip to the conference.
 
-10. Motion to adjourn
----------------------
+### 10. Motion to adjourn
 
 Moved L Ruus; seconded K McNeill-Harman. The motion CARRIED.

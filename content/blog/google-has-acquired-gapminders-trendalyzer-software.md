@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/google-has-acquired-gapminders-trendalyzer-software"
 date = "2007-04-01 11:57:33 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [A world in
 motion](http://googleblog.blogspot.com/2007/03/world-in-motion.html),

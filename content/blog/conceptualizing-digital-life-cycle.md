@@ -3,10 +3,11 @@ nid = "583"
 uid = "12"
 author = "Ann"
 title = "Conceptualizing the Digital Life Cycle"
-tags = [ "IASSIST Conferences",]
+tags = [ "IASSIST Conferences", "IASSIST 2006"]
 oldpath = "/blog/conceptualizing-digital-life-cycle"
 date = "2006-06-01 20:49:41 -0700"
 draft = "false"
+banner = "/img/blog/ticklifecycle.jpg"
 +++
 The **Digital Life Cycle** was mentioned many times during the IASSIST
 2006 conference. Reaction toward this concept was varied. Some were
@@ -18,13 +19,11 @@ Institutional Repositories and Social Science Data: Supporting the Data
 Life Cycle (B1) provided different visual representations of the digital
 life cycle. I'm including three diagrams with different takes on the
 life cycle that together offer an overview of some of the discussion
-about this concept. *Click on the images to display a larger
-version.*[![Image of the Life Cycle of the
-Tick](http://www.iassistdata.org/files/images/ticklifecycleB.gif)](http://www.iassistdata.org/files/images/ticklifecycle.jpg)
+about this concept. 
 
- 
+*Click on the images to display a larger version.*
 
- 
+[![Image of the Life Cycle of the Tick](/img/blog/ticklifecycleB.gif)](/img/blog/ticklifecycle.jpg)
 
 The first diagram is a life cycle model from another discipline and
 represents the relationship between ticks and their hosts, where hosts
@@ -36,29 +35,23 @@ host serves as the digital object's environment. Source: EUCALB
 courtesy of Dr. Jeremy Gray and Bernard Kaye.
 <http://www.oeghmp.at/eucalb/biology_the-tick-life-cycle.html>
 
- 
+[![Image of the DDI Life Cycle](/img/blog/DDIlifecycleB.gif)](/img/blog/DDIlifecycle.jpg)
 
-[![Image of the DDI Life
-Cycle](http://www.iassistdata.org/files/images/DDIlifecycleB.gif)](http://www.iassistdata.org/files/images/DDIlifecycle.jpg)
 The second diagram provides a representation of Version 3 of the DDI.
 This version was designed to encompass the life cycle of data with each
 stage articulating part of the process through which data are generated,
 transformed, analyzed and re-used. Source: DDI Alliance. "DDI Version 3
-Conceptual Model" (draft 2004) [http
-://www.icpsr.umich.edu/DDI/committee-info/Concept-Model-WD.pdf](http://www.icpsr.umich.edu/DDI/committee-info/Concept-Model-WD.pdf).
+Conceptual Model" (draft 2004) [http://www.icpsr.umich.edu/DDI/committee-info/Concept-Model-WD.pdf](http://www.icpsr.umich.edu/DDI/committee-info/Concept-Model-WD.pdf).
 
- 
+[![Image of the E-science Research Life Cycle](/img/blog/esciencelifecycleB.gif)](/img/blog/esciencelifecycle.jpg)
 
-[![Image of the E-science Research Life
-Cycle](http://www.iassistdata.org/files/images/esciencelifecycleB.gif)](http://www.iassistdata.org/files/images/esciencelifecycle.jpg)The
+The
 third life cycle view, articulated by Chuck Humphrey, builds upon the
 DDI Version 3 model and incorporates a Knowledge Transfer Cycle as a
 distinct stage within the research cycle. The data life cycle occurs
 throughout the stages of the research cycle. Source: Humphrey, Charles.
 "e-Science and the Life Cycle of Research" (2006)
 [http://datalib.library.ualberta.ca/~humphrey/lifecycle-science060308.doc](http://datalib.library.ualberta.ca/%7Ehumphrey/lifecycle-science060308.doc)
-
- 
 
 What is a life cycle and why should we care? First, 'life cycle' is
 different from 'life span,' that is, the time from birth to death. A
@@ -78,8 +71,6 @@ output of scholarly research and teaching.
  
 
 Other diagrams have appeared in:
-
- 
 
 ICPSR Guide to Social Science Data Preparation and Archiving: Best
 Practice throughout the Data Life Cycle which offers a view
@@ -110,6 +101,5 @@ information." "eBank UK: Building the links between research data,
 scholarly communication and learning" Ariadne, July 2003.
 <http://www.ariadne.ac.uk/issue36/lyon/intro.html>
 
- 
 
-- Contributed by Ann Green
+*Contributed by Ann Green*

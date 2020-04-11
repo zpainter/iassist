@@ -7,6 +7,7 @@ tags = [ "Tools and Apps",]
 oldpath = "/resources/oecd-factbook-2010-iphone"
 date = "2010-08-02 09:24:13 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The OECD has created an [iPhone app for the OECD
 Factbook](http://appshopper.com/books/oecd-factbook-2009). 

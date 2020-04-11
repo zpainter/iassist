@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/cellphones-challenge-poll-sampling"
 date = "2007-12-11 13:30:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 A new report from the U.S. National Health Interview Survey (NHIS)
 reports preliminary results that have implications for surveys that rely

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies", "Data-related A
 oldpath = "/blog/iassisters-and-librarians-are-doin-it-themselves"
 date = "2013-04-02 11:37:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 

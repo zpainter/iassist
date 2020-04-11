@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/academic-libraries-and-data"
 date = "2006-10-13 05:17:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Shawn Nicholson pointed out on the IASSIST list:
 

@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Exemplars", "Guides"
 oldpath = "/resources/uk-data-archive-create-and-manage-data"
 date = "2011-04-30 00:50:17 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [UK Data Archive: Create and Manage
 Data](http://www.data-archive.ac.uk/create-manage) provides best

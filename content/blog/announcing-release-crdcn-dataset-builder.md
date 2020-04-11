@@ -7,9 +7,9 @@ tags = [ "Canada", "Tools, Apps, Technology", "News and Announcements",]
 oldpath = "/blog/announcing-release-crdcn-dataset-builder"
 date = "2013-10-01 11:05:11 -0700"
 draft = "false"
+banner = "/img/blog/db_splash.png"
 +++
-![](/img/blog/db_splash.png "CRDCN Database Builder Splash Screen"){width="660"
-height="400"}
+{{< figure src="/img/blog/db_splash.png" title="CRDCN Database Builder Splash Screen" >}}
 
 The Canadian Research Data Centre Network (CRDCN) is pleased to announce
 the release of the CRDCN Dataset Builder.
@@ -26,9 +26,9 @@ syntax to help read in and format the variables, and produce customized
 documentation (Layout and Codebooks) for the dataset they create using
 the app. 
 
- A one-page installation, setup and use guide can be found at this link,
+A one-page installation, setup and use guide can be found at this link,
 with a link to more descriptive documentation if
-necessary: <https://docs.google.com/document/d/135Eq2fwVRtlMdENpQjmZe5Zjm1OFGImCxtyWeV_7sdI> [[docs.google.com](http://docs.google.com/)]
+necessary: [docs.google.com](https://docs.google.com/document/d/135Eq2fwVRtlMdENpQjmZe5Zjm1OFGImCxtyWeV_7sdI)
 
 The application is open-source software, so please contact Metadata
 Technology NA if you're interested in contracting them to customize

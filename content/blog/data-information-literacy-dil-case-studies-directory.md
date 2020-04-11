@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education", "Exemplars",]
 oldpath = "/resources/data-information-literacy-dil-case-studies-directory"
 date = "2015-11-06 11:31:36 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [The Data Information Literacy (DIL) Case Studies
 Directory](http://docs.lib.purdue.edu/dilcs/) is a repository of

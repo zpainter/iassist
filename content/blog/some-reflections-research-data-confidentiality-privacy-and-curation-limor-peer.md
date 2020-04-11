@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/some-reflections-research-data-confidentiality-privacy-and-curation-limor-peer"
 date = "2013-03-07 11:43:38 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **Some reflections on research data confidentiality, privacy, and
 curation**

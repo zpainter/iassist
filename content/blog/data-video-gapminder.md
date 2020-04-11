@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "News and Announcements",]
 oldpath = "/blog/data-video-gapminder"
 date = "2007-01-21 21:02:19 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 At [Gapminder](http://www.gapminder.org/) there is a link to a
 [video](http://www.ted.com/tedtalks/tedtalksplayer.cfm?key=hans_rosling&flashEnabled=1)

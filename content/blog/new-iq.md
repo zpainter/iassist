@@ -3,50 +3,26 @@ nid = "658"
 uid = "5"
 author = "robin"
 title = "New IQ!"
-tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation", "Data Access & Open Data", "Professional Development", "Data Citation", "News and Announcements", "Other Topics",]
+tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation", "Data Access & Open Data", "Professional Development", "Data Citation", "News and Announcements", "Other Topics", "IQ",]
 oldpath = "/blog/new-iq"
 date = "2009-03-26 08:35:15 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 The IASSIST Quarterly (IQ Vol. 31 issue 2 - 2007) is now available on
 the web:
 
- 
-
 <http://iassistdata.org/publications/iq/iqvol31.html>
-
- 
 
 This issue will be printed and mailed to the membership. From next issue
 IASSIST will be saving trees and only publish the IQ on the web. We hope
 you agree with our decision. Thanks.
 
- 
 
 Some of you are now getting ready for the IASSIST conference in Tampere,
 Finland 26.-29. of May. Remember if you are giving presentations that
 you could write the presentation as an article for the IQ.
 
-The IASSIST Quarterly (IQ Vol. 31 issue 2 - 2007) is now available on
-the web:
-
- 
-
-<http://iassistdata.org/publications/iq/iqvol31.html>
-
- 
-
-This issue will be printed and mailed to the membership. From next issue
-IASSIST will be saving trees and only publish the IQ on the web. We hope
-you agree with our decision. Thanks.
-
- 
-
-Some of you are now getting ready for the IASSIST conference in Tampere,
-Finland 26.-29. of May. Remember if you are giving presentations that
-you could write the presentation as an article for the IQ.
-
- 
 
 In this issue we have three papers from people working at the US Federal
 Reserve Board. Viewed from posterity, it might look as if we at the IQ
@@ -61,7 +37,6 @@ your employer. Thirdly, these three articles are not about the financial
 crisis, but hopefully some of the initiatives that are described in them
 will help us in the current situation.
 
- 
 
 Linda F. Powell and Andrew Boettcher from the Board of Governors of the
 Federal Reserve System (Washington, D.C.) are involved in the
@@ -86,7 +61,6 @@ conference in May we have experienced a financial crisis. Let us hope
 for further refinements in this area as the XBRL is being used by
 government regulators worldwide.
 
- 
 
 At the IASSIST 2008 conference Andrew Boettcher presented from the FRB a
 metadata repository called the Data And News CataloguE (DANCE). The
@@ -103,8 +77,6 @@ unique set of security requirements dictating usage rights, how access
 is granted (request form), and publication rights. The article also
 addresses the searching of datasets and the additional feature of
 allowing user-generated content supported by wiki-pages for the dataset.
-
- 
 
 As the electronic information environment is shifting, the presentation
 of information from the Federal Reserve Board is becoming far less
@@ -128,8 +100,6 @@ international institutions are now producing RSS-CB feeds, and many are
 meeting in a Central Bank Online Communications group collaborating on a
 version 1.2.
 
- 
-
 The last article in the IQ 31-2 is authored by Lynn Woolfrey at the
 University of Cape Town. Her article outlines "The Establishment of the
 African Association of Statistical Data Archivests (AASDA)". The
@@ -148,25 +118,15 @@ countries. The focus on establishing a community of practice for sharing
 African data found realization when the AASDA held the inaugural meeting
 in April 2008.
 
- 
-
 Remember to take a look at the website <http://iassistdata.org> and the
-IASSIST blog - the IASSIST Communiqué -- at <http://iassistblog.org>
-
-.
-
- 
+IASSIST blog - the IASSIST Communiqué -- at <http://iassistblog.org>.
 
 Articles for the IASSIST Quarterly are very welcome. Articles can be
 papers from IASSIST conferences, from other conferences, from local
 presentations, discussion input, etc. Contact the editor via e-mail: kbr
 AT sam.sdu.dk.
 
- 
-
 Best regards, Karsten
-
- 
 
 Karsten Boye Rasmussen, editor of the IASSIST Quarterly, kbr AT
 sam.sdu.dk Marketing & Management, SDU, University of Southern Denmark

@@ -7,6 +7,7 @@ tags = [ "Data-related Advocacy", "Canada",]
 oldpath = "/blog/iassist-letter-canadian-government-loss-2011-census-long-form"
 date = "2010-10-05 13:44:28 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Industry Canada
 Office of the Honourable Tony Clement

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data-related Advocacy", "Profession
 oldpath = "/blog/iassist-fellows-application-now-closed"
 date = "2012-03-03 01:15:15 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The application for IASSIST Fellows is now closed. Over 40 applications
 from 23 different countries have been received with the following number

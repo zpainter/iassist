@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies", "Archiving, Pre
 oldpath = "/blog/ddi-institutional-repositories-and-numeric-data-mashups"
 date = "2008-02-01 14:23:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Announcing new deliverables from the DISC-UK DataShare project:
 

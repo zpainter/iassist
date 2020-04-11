@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/connecting-real-representational-historical-demographic-data-town-pullman-1880-1940"
 date = "2008-01-08 10:29:49 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 by Andrew H. Bullen
 

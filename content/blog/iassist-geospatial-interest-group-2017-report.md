@@ -7,6 +7,7 @@ tags = [ "Reports & Studies",]
 oldpath = "/blog/iassist-geospatial-interest-group-2017-report"
 date = "2017-05-16 08:02:27 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 

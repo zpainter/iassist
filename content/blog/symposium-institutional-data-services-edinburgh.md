@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Professional Development", "News an
 oldpath = "/blog/symposium-institutional-data-services-edinburgh"
 date = "2009-02-02 13:29:20 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Edinburgh University Data Library celebrated 25 years of support for
 staff and students in their discovery, access, use and management of

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/data-curation-institutional-repositories-and-e-research"
 date = "2008-02-22 14:35:20 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Luis Martinez-Uribe, Digital Repositories Research Co-ordinator, is
 based at the Oxford e-Research Centre and will be conducting a scoping

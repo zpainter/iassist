@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "Other Topics",]
 oldpath = "/blog/postmodern-values-threaten-national-data-archives"
 date = "2005-06-15 21:47:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Two sessions at the Edinburgh conference helped formulate in my mind
 some concerns that I have about the future of data archives. Together,

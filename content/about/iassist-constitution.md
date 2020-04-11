@@ -7,10 +7,7 @@ oldpath = "/about/iassist-constitution"
 date = "2012-01-27 13:09:55 -0700"
 draft = "false"
 +++
-*Endorsed by the Administrative Committee September 20, 2011.
-Approved by the Membership December 19, 2011*
-*Effective following the annual Business Meeting June 6, 2012,
-Washington, DC.*
+*Endorsed by the Administrative Committee September 20, 2011. Approved by the Membership December 19, 2011* *Effective following the annual Business Meeting June 6, 2012, Washington, DC.*
 
 1.  [Name](#article1)
 2.  [Headquarters](#article2)
@@ -674,6 +671,4 @@ General Assembly following the elections.
  
 
 #### Previous constitution
-
-[» as revised in
-2005](https://www.iassistdata.org/about/constitution.html)
+[» as revised in 2005](/about/constitution-2005)

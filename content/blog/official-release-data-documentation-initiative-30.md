@@ -7,6 +7,7 @@ tags = [ "DDI", "Data Citation", "News and Announcements",]
 oldpath = "/blog/official-release-data-documentation-initiative-30"
 date = "2008-05-26 18:43:32 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 May 21, 2008 -- The Alliance for the Data Documentation Initiative
 (DDI) is pleased to announce the official release of Version 3.0 of the

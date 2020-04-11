@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Policies",]
 oldpath = "/resources/government-canada-social-sciences-and-humanities-research-council-sshrc-research-data-arch"
 date = "2011-04-27 12:14:33 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The SSHRC funding council "is committed to the principle that the
 various forms of research data collected with public funds belong in the

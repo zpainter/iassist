@@ -7,11 +7,11 @@ tags = [ "rss", "socrata", "sub-national", "visualization", "widgets", "Data Sou
 oldpath = "/resources/kenya-open-data"
 date = "2011-07-21 12:43:24 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Recently Kenya launched [Kenya Open Data](http://opendata.go.ke/), a
 portal to national and sub-national data by and/or about the nation of
-Kenya. The site runs on a tool called
-[Socrata](http://www.socrata.com/) boasts a host of really nice features
+Kenya. The site runs on a tool called [Socrata](http://www.socrata.com/) boasts a host of really nice features
 including:
 
 -   [rss for catalog & new

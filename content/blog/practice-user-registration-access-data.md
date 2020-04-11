@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "Digital Repositories", "Other Topics",]
 oldpath = "/blog/practice-user-registration-access-data"
 date = "2005-09-14 22:40:37 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I am writing to address an issue that is coming up at UCLA with
 increasing frequency. More and more data distributors (agencies,

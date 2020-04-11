@@ -10,16 +10,13 @@ draft = "false"
 Meeting of the General Assembly, Thursday, May 28, 2009, Tampere,
 Finland
 
-1. Welcome -- M Wright, President
----------------------------------
+### 1. Welcome -- M Wright, President
 
-2. Approval of the minutes of the previous AGM (2008)
------------------------------------------------------
+### 2. Approval of the minutes of the previous AGM (2008)
 
 Minutes for 2008 are labeled 2007. Motion to accept as amended passes.
 
-3. Executive Officers Report
-----------------------------
+### 3. Executive Officers Report
 
 Treasurer -- J Green
 
@@ -31,11 +28,11 @@ http://www.iassistdata.info/. Please log in and change your password
 from the default and fill out your profile. Send any questions to
 greenjen@gmail.com.
 
-4. Regional Reports
--------------------
+### 4. Regional Reports
 
-5. Committee Reports
---------------------
+Will be on the website.
+
+### 5. Committee Reports
 
 *Education Committee*
 
@@ -54,8 +51,7 @@ of this year's fellowships were funded by IFDO (5000 Euros) and member
 dues. The committee list will be moved to the membership database. New
 members are welcome. Contact Paula Lackie if you are interested.
 
-6. Action/Interest Group Reports
---------------------------------
+### 6. Action/Interest Group Reports
 
 *IRB Interest Group*
 
@@ -72,8 +68,7 @@ A report was given on the survey taken this year. Details will be
 available in a session at 2:00 today. Joel Herndon is looking for
 volunteers; contact him directly if interested.
 
-7. Conferences
---------------
+### 7. Conferences
 
 2008 Conference - slight profit.
 
@@ -86,15 +81,13 @@ Management Program
 2012 Conference - there has been an expression of interest from
 Australia, but it is not formal yet
 
-8. Elections
-------------
+### 8. Elections
 
 Incoming and outgoing elected officers were recognized. It was
 emphasized that conference attendance is not compulsory for holding
 office and that there will soon be clarification on the expectations of
 IASSIST officer positions.
 
-9. Motion to adjourn
---------------------
+### 9. Motion to adjourn
 
 Moved, seconded and carried. The meeting adjourned at 1:33pm.

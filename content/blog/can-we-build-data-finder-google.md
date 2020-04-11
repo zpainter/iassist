@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data",]
 oldpath = "/blog/can-we-build-data-finder-google"
 date = "2006-10-24 12:15:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Google has announced a new service, that might make it possible for the
 data community to collaborate to build a customized data-finder. The

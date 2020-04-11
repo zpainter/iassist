@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation",]
 oldpath = "/resources/data-citation-counts"
 date = "2012-10-29 08:27:28 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Heather Piwowar of Duke & the University of British Columbia describes
 the results of her analysis of re-use of cited datasets in [Data

@@ -7,6 +7,7 @@ tags = [ "Reports & Studies",]
 oldpath = "/blog/rin-publishes-report-researchers-and-discovery-services"
 date = "2006-12-07 15:46:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The UK Research Information Network "has published a
 [report](http://www.rin.ac.uk/researchers-discovery-services) on the

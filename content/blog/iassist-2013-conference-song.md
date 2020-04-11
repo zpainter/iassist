@@ -7,6 +7,7 @@ tags = [ "IASSIST 2013",]
 oldpath = "/blog/iassist-2013-conference-song"
 date = "2013-06-02 14:39:57 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Many thanks to Kate, Dan, and especially Melanie for this year's bit of
 silliness. Thanks once again to Lynda Kellam for the video.

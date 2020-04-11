@@ -7,6 +7,7 @@ tags = [ "External Events",]
 oldpath = "/blog/dpc2018-conference-report"
 date = "2018-12-18 12:52:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 By Adetoun Oyelude, University of Ibadan
 

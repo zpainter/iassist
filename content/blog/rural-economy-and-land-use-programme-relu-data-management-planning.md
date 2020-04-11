@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Exemplars", "Policies", "Sample plans"
 oldpath = "/resources/rural-economy-and-land-use-programme-relu-data-management-planning"
 date = "2011-04-30 00:22:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Relu's Data Management
 Planning](http://relu.data-archive.ac.uk/data-sharing/planning) site has

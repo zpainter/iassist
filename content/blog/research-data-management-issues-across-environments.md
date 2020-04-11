@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/research-data-management-issues-across-environments"
 date = "2014-05-29 07:19:01 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Lots of conversations going on these days in different venues where
 people are asking many of the same questions:  how do we teach

@@ -9,8 +9,7 @@ draft = "false"
 +++
 Meeting of the General Assembly, Thursday, May 27, 2004, Madison, Wisc.
 
-1. Welcome and opening remarks (A Green)
-----------------------------------------
+### 1. Welcome and opening remarks (A Green) 
 
 The meeting was called to order 12:36, with 125 members present
 
@@ -18,30 +17,27 @@ A Green welcomed members to the conference, and to the general assembly.
 She reminded members that the constitution requires of this business
 meeting to process activities of the past year and prepare for the next.
 
-2. Approval of the minutes of the General Assembly May 29, 2003
----------------------------------------------------------------
+### 2. Approval of the minutes of the General Assembly May 29, 2003 
+
 
 The following amendments to the minutes of the 2003 General Assembly
 were noted:
 
-5. Should read "S. Holloway" rather than Holoway
-8.2 Should read "The committee is no longer active"
-9.3 Should read "The 2005 conference will be held ..." rather than
-2004.
+- 5. Should read "S. Holloway" rather than Holoway
+- 8.2 Should read "The committee is no longer active"
+- 9.3 Should read "The 2005 conference will be held ..." rather than 2004.
 
 MOVED to accept minutes as amended. Moved: T Trost; seconded: C
 Humphrey. The motion CARRIED.
 
-3. Matters arising from the minutes (A Green)
----------------------------------------------
+### 3. Matters arising from the minutes (A Green) 
 
 There being none, the president remarked on the excellent vital signs of
 the Association, and the excellence of the conference arrangements. She
 specifically thanked C Severt and J Linden, for their work on local
 arrangement and the conference program.
 
-4. Reports of Regional Secretaries
-----------------------------------
+### 4. Reports of Regional Secretaries 
 
 i. Africa - The African Secretary has resigned. Refilling this position
 will be part of nominations and elections this fall.
@@ -81,8 +77,7 @@ conference in October. Data policy issues: Census Bureau has asked for
 comments on products from the American Community Survey, although there
 is little about microdata in the proposal.
 
-5. Reports of Officers
-----------------------
+### 5. Reports of Officers 
 
 i. President and vice-president - A Green: Report was given as part of
 the plenary today.
@@ -99,8 +94,7 @@ membership database, to be unveiled this fall, and which will allow
 secretariats to better track membership and assist the activities of the
 assistant treasurers.
 
-6. Reports of Committees
-------------------------
+### 6. Reports of Committees 
 
 i. Education Committee - W Watkins: The report of the Committee will be
 made available on the IASSIST web site. Action plan for the next year
@@ -139,8 +133,7 @@ of the committee is elected in each election. Appointments not subject
 to election: treasurer, secretary, archivist, chairs of action and
 interest groups.
 
-7. Reports of Action Groups
----------------------------
+### 7. Reports of Action Groups 
 
 i. International Outreach Action Group - I Einowski: The objective of
 the action group is to assist data professionals from developing
@@ -166,8 +159,7 @@ open for discussion and debate. The document includes a brief paragraph
 on implementing this plan. Welcome to all members to participate in this
 committee.
 
-8. Reports of Interest Groups
------------------------------
+### 8. Reports of Interest Groups 
 
 i. Data Documentation Interest Group - R Nakao: the Action Group acts as
 a forum to disseminate information from the DDI Alliance to the
@@ -176,8 +168,7 @@ provide solid basis for publishing, implementation of the strategic plan
 goals re documentation. To be placed on the IGs listserv, contact R
 Nakao.
 
-9. Conference Reports
----------------------
+### 9. Conference Reports 
 
 i. 2004 - C Severt
 
@@ -201,12 +192,10 @@ in Ann Arbor, for May of 2006.
 iv. 2007 - Notification of intention to submit has been received from
 McGill University in Montreal, Canada.
 
-10. Other Business (A Green)
-----------------------------
+### 10. Other Business (A Green) 
 
 There being none.
 
-11.Move to adjourn
-------------------
+### 11.Move to adjourn 
 
 E Boyko: seconded: J Linden. The meeting adjourned at 13:30.

@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/icpsrs-myron-gutmann-head-nsf-social-behavioral-and-economic-sciences-directorate"
 date = "2009-07-28 12:11:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [U-M's Gutmann to head NSF Social, Behavioral and Economic Sciences
 Directorate,](http://www.ns.umich.edu/htdocs/releases/story.php?id=7250)

@@ -7,26 +7,24 @@ oldpath = "/about/constitution.html"
 date = "2010-01-08 22:00:25 -0700"
 draft = "false"
 +++
-**Note: **The membership ratified the proposed changes to the IASSIST
-constitution during electronic balloting in December 2011. The new
-constitution formally became effective following the Business Meeting
-during the annual conference in June 2012, in Washington, DC.
+**Note:** The membership ratified the proposed changes to the IASSIST constitution during electronic balloting in December 2011. The new constitution formally became effective following the Business Meeting during the annual conference in June 2012, in Washington, DC.
+ [Text of the current Constitution](/about/iassist-constitution)
 
-[](https://iassistdata.org/about/iassist-constitution)**[»](https://iassistdata.org/about/iassist-constitution)[»
-Text of the current
-Constitution](https://iassistdata.org/about/iassist-constitution)**
+***The previous constitution is archived below (as revised May 10, 2005).***
 
-***The previous constitution is archived below (as revised May 10,
-2005).***
 
-+-----------------------------------+-----------------------------------+
-| 1.  [Name](#article1)             | 1.  [Governance](#article7)       |
-| 2.  [Headquarters](#article2)     | 2.  [Meetings](#article8)         |
-| 3.  [Objectives](#article3)       | 3.  [Elections](#article9)        |
-| 4.  [Activities](#article4)       | 4.  [Amendments](#article10)      |
-| 5.  [Membership](#article5)       | 5.  [Termination](#article11)     |
-| 6.  [Finances](#article6)         | 6.  [By-Laws](#article12)         |
-+-----------------------------------+-----------------------------------+
+1.  [Name](#article1)             
+2.  [Headquarters](#article2)    
+3.  [Objectives](#article3)      
+4.  [Activities](#article4)      
+5.  [Membership](#article5)     
+6.  [Finances](#article6)        
+7.  [Governance](#article7) 
+8.  [Meetings](#article8) 
+9.  [Elections](#article9) 
+10.  [Amendments](#article10) 
+11.  [Termination](#article11) 
+12.  [By-Laws](#article12) 
 
 Article I NAME {#article1}
 --------------
@@ -636,4 +634,4 @@ Article XII BY-LAWS {#article12}
 > > > after the annual meeting of the General Assembly following the
 > > > elections.
 >
-> [top of document](#top)
+[top of document](#top)

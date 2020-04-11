@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Archives and Service Providers
 oldpath = "/blog/stephen-s-clark-library-maps-government-information-and-data-services-open-business"
 date = "2011-12-05 21:06:50 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ### Three cheers for Jen Green!!! 
 

@@ -3,10 +3,11 @@ nid = "7365"
 uid = "157"
 author = "mhayslett"
 title = "IASSIST Quarterly (IQ) volume 40-2 is now on the website:  Revolution in the air"
-tags = [ "Archiving, Preservation, Curation", "Data Access & Open Data", "IASSIST 2016", "Metadata & Standards", "News and Announcements",]
+tags = [ "Archiving, Preservation, Curation", "Data Access & Open Data", "IASSIST 2016", "Metadata & Standards", "News and Announcements", "IQ",]
 oldpath = "/blog/iassist-quarterly-iq-volume-40-2-now-website-revolution-air"
 date = "2017-02-27 08:50:55 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the second issue of Volume 40 of the IASSIST Quarterly (IQ
 40:2, 2016). We present three papers in this issue.
@@ -58,9 +59,7 @@ appreciated as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
 <http://www.iassistdata.org>. 
 
-Authors are very welcome to take a look at the instructions and layout:
-
-<http://iassistdata.org/iq/instructions-authors>
+Authors are very welcome to take a look at the instructions and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Authors can also contact me via e-mail: <kbr@sam.sdu.dk>. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I

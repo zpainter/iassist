@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education",]
 oldpath = "/resources/uk-data-archives-managing-and-sharing-data-training-resources"
 date = "2011-11-01 12:08:48 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Our Managing and Sharing Data: Training
 Resources](http://www.data-archive.ac.uk/create-manage/training-resources)

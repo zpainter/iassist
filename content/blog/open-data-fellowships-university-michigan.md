@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/open-data-fellowships-university-michigan"
 date = "2009-10-13 11:26:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Students with research interests in scientific data management, sharing
 and reuse have a unique opportunity to participate in the Open Data

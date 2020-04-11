@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Repositories",]
 oldpath = "/resources/meta-listings-research-data-repositories"
 date = "2013-11-13 15:11:36 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Several organizations have begun compiling lists of repositories of
 research data.  These can be useful for researchers both to consider

@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation",]
 oldpath = "/blog/ihsn-principles-and-good-practice-preserving-data"
 date = "2010-06-23 14:11:42 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [International Household Survey Network](http://www.ihsn.org) (IHSN)
 just released a new publication on "[Principles and Good Practice for

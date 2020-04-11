@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides",]
 oldpath = "/resources/university-wisconsin-research-data-services"
 date = "2011-05-04 08:04:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [University of Wisconsin's Research Data
 Services](http://researchdata.wisc.edu/) has a strong focus on National

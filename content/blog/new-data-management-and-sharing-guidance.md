@@ -7,6 +7,7 @@ tags = [ "Data Citation", "News and Announcements",]
 oldpath = "/blog/new-data-management-and-sharing-guidance"
 date = "2009-02-04 14:12:49 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The UK Data Archive would like to announce the release of its new suite
 of web pages providing guidance on data management and sharing. The

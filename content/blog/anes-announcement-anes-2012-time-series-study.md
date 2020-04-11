@@ -7,6 +7,7 @@ tags = [ "United States", "Social Science Datasets", "News and Announcements",]
 oldpath = "/blog/anes-announcement-anes-2012-time-series-study"
 date = "2011-07-15 08:05:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 On June 30, 2011, the American National Election Studies (ANES) began
 accepting proposals for questions to include on the ANES 2012 Time

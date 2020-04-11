@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/iassist-fellows-application-form-2013"
 date = "2012-12-04 04:03:25 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Fellows Program is pleased to announce that it is now
 accepting applications for financial support to attend the IASSIST 2013

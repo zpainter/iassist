@@ -3,10 +3,11 @@ nid = "1088"
 uid = "5"
 author = "robin"
 title = "Special Double Issue of IQ on Data Documentation Initiative"
-tags = [ "Metadata & Standards", "News and Announcements",]
+tags = [ "Metadata & Standards", "News and Announcements", "IQ",]
 oldpath = "/blog/iq-ddi-special"
 date = "2010-11-28 10:44:46 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 ### Guest Editors Notes - Mary Vardigan and Joachim Wackerow
 

@@ -7,6 +7,7 @@ tags = [ "data discovery", "databases", "user experience", "Tools and Apps",]
 oldpath = "/resources/informal-review-thomson-reuters-data-citation-index"
 date = "2014-04-16 10:34:55 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Thomson-Reuters Data Citation Index (DCI) has been up and running
 for just over a year. The University of Minnesota (UMN) had a trial of

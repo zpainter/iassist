@@ -3,12 +3,13 @@ nid = "7829"
 uid = "157"
 author = "mhayslett"
 title = "IASSIST Quarterly Volume 42:3 now available!"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iassist-quarterly-volume-423-now-available"
 date = "2018-12-13 11:50:46 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
-Editor's notes:  *Digital curation after digital extraction for data
+## Editor's notes:  *Digital curation after digital extraction for data
 sharing*
 
 Welcome to the third issue of volume 42 of the IASSIST Quarterly (IQ

@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "Data-related Advocacy", "Data Del
 oldpath = "/blog/science-special-dealing-data"
 date = "2011-02-17 04:31:07 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In the 11 February 2011 issue, Science joins with colleagues from
 Science Signaling, Science Translational Medicine, and Science Careers

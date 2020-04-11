@@ -7,6 +7,7 @@ tags = [ "IASSIST 2015", "News and Announcements",]
 oldpath = "/blog/winner-announced-first-iassist-paper-competition"
 date = "2015-05-29 10:04:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Dear IASSIST Members,
 

@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Guides", "Repositori
 oldpath = "/resources/distributed-data-curation-center-d2c2"
 date = "2011-04-25 13:55:57 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Distributed Data Curation Center
 (D2C2)](http://d2c2.lib.purdue.edu/) maintains projects and research for

@@ -7,6 +7,7 @@ tags = [ "IASSIST 2016",]
 oldpath = "/blog/feel-berg-iassist-2016"
 date = "2016-06-07 09:47:08 -0700"
 draft = "false"
+banner = "/img/blog/iassist2016-logo.png"
 +++
 The conference began with a reception from the Mayor of Bergen,
 beautifully performed Norwegian folk song, and dissent over the

@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012", "News and Announcements",]
 oldpath = "/blog/iassist-2012-conference-website"
 date = "2011-11-15 19:20:14 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST 2012 conference website is now live and ready to receive
 submissions: <http://www.iassist2012.org/index.html>

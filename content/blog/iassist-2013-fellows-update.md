@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data-related Advocacy", "Profession
 oldpath = "/blog/iassist-2013-fellows-update"
 date = "2013-03-20 14:40:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 This year the IASSIST Fellows Committee received a grand total of 44
 Fellows applications from a strong range of candidates from 28 countries

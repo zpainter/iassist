@@ -7,21 +7,15 @@ oldpath = "/about/index.html"
 date = "2012-03-19 17:12:52 -0700"
 draft = "false"
 +++
-Overview
---------
+IASSIST (International Association for Social Science Information Service and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST was founded already in 1974. We want to leverage our unique expertise in the social sciences to help benefit all data professionals and support open science.
 
-IASSIST (International Association for Social Science Information
-Service and Technology) is an international organization of
-professionals working with information technology and data services to
-support research and teaching in the social sciences.
+Our members work in information technology, libraries, data services, research & higher education, government, non-profit and private research sector to discover data, curate it, make it available, and keep it available. We work together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
+
+**&raquo; [Join IASSIST](/about/become-a-member "More information on becoming a member")**
 
 ### 300+  Members from a variety of settings
 
-[![](/img/about/trial2.jpg){width="466" height="233"}
-
-
-
-[Join IASSIST](membership.html "Join IASSIST"){#joinlnk}]{.image-right}
+![Pie chart of IASSIST members across the globe. Almost 50% are in the US, 25% in Europe and 15% in Canada.](/img/about/trial2.jpg "IASSIST members across the globe")
 
 -   Academia
 -   Government
@@ -38,13 +32,12 @@ support research and teaching in the social sciences.
 
 ### Networking Opportunities
 
--   Annual conference
--   Active discussion list
--   Committees & action groups
--   Topical interest groups 
+-   Annual conference &raquo; [Read more ](/conferences/conferences "Read more about our annual conference")
+-   Active discussion list &raquo; [Read more ](/about/iassist-discussion-list "Read more about our discussion list")
+-   Standing committees, topical interest groups &raquo; [Read more ](/about/committees-and-groups "Read more about our committees and groups")
+-   Professional Development webinars  &raquo; [Read more ](/about/webinars "Read more about our webinars")
 
-Goals
------
+## Goals
 
 As an organization IASSIST strives to:
 
@@ -53,13 +46,15 @@ As an organization IASSIST strives to:
 -   Provide opportunities for collegial exchange of sound professional
     practices
 
- 
+## IASSIST communities 
 
-[![](/img/about/vendiagram_final.png){width="200"
-height="194"}]{.image-left}
+![IASSIST's core communities](/img/about/vendiagram_final.png)
 
-IASSIST communities 
---------------------
+<!--
+Alternative image markdown
+
+{{< figure src="/img/about/vendiagram_final.png" title="Our core communities" >}}
+-->
 
 -   Social science researchers and scientists who are producers and
     users of micro and macro-level social data;
@@ -68,34 +63,23 @@ IASSIST communities 
 -   Methodologists and computing specialists who advance technical
     methods to manipulate and analyze social data.
 
- 
+## Strategic Directions
 
- 
+-   IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
+-   Read our most recent strategic plan: **[Democratizing Data - The IASSIST Strategic Plan 2010-2014](https://iassistdata.org/about/strategic-plan)**.
 
-Strategic Directions
---------------------
+## Media
 
--   IASSIST members are working together to advocate for responsible
-    data management and use, to build a broader community
-    surrounding research data, and encourage the development of data
-    professionals.
--   Read our most recent strategic plan: **[Democratizing Data - The
-    IASSIST Strategic Plan
-    2010-2014](https://iassistdata.org/about/strategic-plan)**.
+-   **[IASSIST Factsheet](/file/about/iassist_factsheet_2016.pdf)** (PDF)
 
-Media
------
+[![Thumbnail of the IASSIST Factsheet](/img/about/factsheet2016.jpg "IASSIST Factsheet")](/file/about/iassist_factsheet_2016.pdf)
 
--   **[IASSIST
-    Factsheet](/files/about/iassist_factsheet_2016.pdf) (PDF)**
+- **IASSIST tri-fold brochure** (PDF)
 
-[![](/img/about/brochurethumb_2.png "IASSIST tri-fold brochure"){width="200"
-height="155"}]{.image-left .image-right}
+[![Thumbnail of the IASSIST Factsheet](/img/about/brochurethumb_2.jpg "IASSIST tri-fold brochure")](/file/about/printiassistbrochure_2013.pdf)
 
-**IASSIST tri-fold brochure** (PDF):
-
--   [English](/files/about/printiassistbrochure_2013.pdf)
--   [French](/files/about/printiassistbrochurefrench_2012.pdf)
--   [German](/files/about/printiassistbrochuregerman_2013.pdf)
--   [Portuguese](/files/about/printiassistbrochureport_2012.pdf)
--   [Spanish](/files/about/printiassistbrochurespanish_2012.pdf)
+-   [English](/file/about/printiassistbrochure_2013.pdf)
+-   [French](/file/about/printiassistbrochurefrench_2012.pdf)
+-   [German](/file/about/printiassistbrochuregerman_2013.pdf)
+-   [Portuguese](/file/about/printiassistbrochureport_2012.pdf)
+-   [Spanish](/file/about/printiassistbrochurespanish_2012.pdf)

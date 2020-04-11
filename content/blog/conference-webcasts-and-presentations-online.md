@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/conference-webcasts-and-presentations-online"
 date = "2009-06-09 12:40:46 -0700"
 draft = "false"
+banner = "/img/blog/iassist09_banner_45pros.jpg"
 +++
 A week has passed since IASSIST 2009. I hope most of you have made it
 safely back home by now - and are ready to refresh the memories by
@@ -20,7 +21,6 @@ a few are still missing either because we didn't have them or we are
 waiting for an updated version. Please send in any missing presentations
 or email me if there are mistakes that should be corrected!
 
- 
 
 Tuomas J. Alaterä Information Network Specialist tuomas.alatera@uta.fi
 Finnish Social Science Data Archive (FSD) http://www.fsd.uta.fi FI-33014

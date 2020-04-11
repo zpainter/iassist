@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Professional Development",]
 oldpath = "/blog/communicate-iassist-colleagues-interest-groups"
 date = "2011-01-03 08:59:04 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 After our annual conferences, members often want to continue
 conversations with IASSIST colleagues on topics of professional

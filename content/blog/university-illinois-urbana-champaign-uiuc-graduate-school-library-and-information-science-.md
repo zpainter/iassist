@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education",]
 oldpath = "/resources/university-illinois-urbana-champaign-uiuc-graduate-school-library-and-information-science-"
 date = "2011-04-25 14:01:28 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [UIUC Graduate School of Library and Information Science's Data
 Curation Education

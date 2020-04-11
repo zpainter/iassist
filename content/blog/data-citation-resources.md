@@ -7,6 +7,7 @@ tags = [ "data citation", "Data Management and Curation",]
 oldpath = "/resources/data-citation-resources"
 date = "2012-11-27 11:29:10 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Special Interest Group on Data
 Citation](http://www.iassistdata.org/community/sigdc) (SIGDC) maintains

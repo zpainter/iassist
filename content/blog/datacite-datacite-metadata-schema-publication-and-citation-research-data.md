@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Policies",]
 oldpath = "/resources/datacite-datacite-metadata-schema-publication-and-citation-research-data"
 date = "2011-04-27 08:08:14 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [DataCite Metadata Schema for the Publication and Citation of
 Research

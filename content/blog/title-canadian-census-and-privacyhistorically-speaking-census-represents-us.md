@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/title-canadian-census-and-privacyhistorically-speaking-census-represents-us"
 date = "2007-09-18 12:16:35 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ERIC SAGER
 

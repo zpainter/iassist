@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST 2008", "IASSIST Conferences
 oldpath = "/blog/iassist-2008-call-papers"
 date = "2007-10-29 13:21:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ***Technology of Data: Collection, Communication, Access and
 Preservation*** The 34th International Association for Social Science

@@ -7,6 +7,7 @@ tags = [ "Reports & Studies",]
 oldpath = "/blog/share-your-story-case-studies-data-reuse"
 date = "2016-02-23 15:51:20 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Late last year, a colleague at [Innovations for Poverty
 Action](http://www.poverty-action.org/), Stephanie Wykstra, and I

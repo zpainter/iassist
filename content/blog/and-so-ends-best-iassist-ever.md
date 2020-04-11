@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST 2008", "Data Access & Open 
 oldpath = "/blog/and-so-ends-best-iassist-ever"
 date = "2008-06-02 08:49:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 And another conference has passed. It's so sad to think that it will be
 another year before we get together again but at least we can play

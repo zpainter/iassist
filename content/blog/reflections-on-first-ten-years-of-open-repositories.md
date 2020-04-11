@@ -7,16 +7,9 @@ tags = [ "External Events", "Data Access & Open Data", "Digital Repositories", "
 oldpath = "/blog/reflections-on-first-ten-years-of-open-repositories"
 date = "2015-07-03 01:15:01 -0700"
 draft = "false"
+banner = "/img/blog/iassistdata_please-drop-by-or-drop-us-a-line.jpg"
 +++
-Open Repositories conference celebrated its first decade by having four
-full days of exciting workshops, keynotes, sessions, 24/7 talks, and
-development track and repository interest group sessions in
-Indianapolis, USA. All the fun took place in the second week of June.
-The [OR2015 conference](http://www.or2015.net/ "Open Repositories 2015")
-was themed *"Looking Back/Moving Forward: Open Repositories at the
-Crossroads"* and it brought over 400 repository developers and
-managers, librarians and library IT professionals, service providers and
-other experts to hot and humid Indy.
+Open Repositories conference celebrated its first decade by having four full days of exciting workshops, keynotes, sessions, 24/7 talks, and development track and repository interest group sessions in Indianapolis, USA. All the fun took place in the second week of June. The [OR2015 conference](http://www.or2015.net/ "Open Repositories 2015") was themed ***"Looking Back/Moving Forward: Open Repositories at the Crossroads"*** and it brought over 400 repository developers and managers, librarians and library IT professionals, service providers and other experts to hot and humid Indy.
 
 Like with
 [IDCC](http://www.dcc.ac.uk/events/international-digital-curation-conference-idcc "International Digital Curation Conference (IDCC)")
@@ -38,8 +31,7 @@ perfect. It's quite clear that there is a lot more to be achieved when
 repository developers and users meet and address problems and
 opportunities with creativity and commitment.
 
- ![](/img/blog/iassistdata_please-drop-by-or-drop-us-a-line.jpg "IASSIST collectibles at Open Repositories 2015."){width="640"
-height="302"}
+![](/img/blog/iassistdata_please-drop-by-or-drop-us-a-line.jpg "IASSIST collectibles at Open Repositories 2015.")
 
 While IASSIST2015 had a plenary speaker from Facebook, OR had keynote
 speakers from Mozilla Science Lab and Google Scholar. Mozilla's
@@ -50,7 +42,7 @@ Distributed and collaborative approach to research, public sharing and
 transparency, new models of discovery and freedom to innovate and
 prototype, and peer-to-peer professional development were among the
 powers of web-enabled open science.
- 
+
 **Anurag Acharya** from Google gave a stimulating talk on pitfalls and
 best practices on indexing repositories. His points were primarily aimed
 at repository managers fine-tuning their repository platforms to be as

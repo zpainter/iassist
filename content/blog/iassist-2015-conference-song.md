@@ -7,6 +7,7 @@ tags = [ "IASSIST 2015",]
 oldpath = "/blog/iassist-2015-conference-song"
 date = "2015-06-17 12:53:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Here it is, at long last - the words to the 2015 IASSIST conference
 song! Thanks to: Melanie Wright for her excellent guitar work, singing,

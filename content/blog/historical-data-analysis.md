@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/historical-data-analysis"
 date = "2009-06-21 12:16:22 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Check out this week's Fifth Wave cartoon:
 

@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/new-look-past-conferences-web-pages"
 date = "2011-02-28 11:47:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 We are pleased to present the new layout for the Past Conferences
 section of the website. Follow the [presentations] links for 2009 and

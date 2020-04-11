@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Asia/Pacific",]
 oldpath = "/blog/mongolia-and-iassist-building-connections"
 date = "2018-03-18 21:23:13 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **Spring 2017**
 

@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education", "Staying current",]
 oldpath = "/resources/supporting-data-management-infrastructure-humanities-sudamih-project-outputs"
 date = "2011-04-25 13:37:54 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Sudamih Project
 Outputs](http://sudamih.oucs.ox.ac.uk/documents.xml) contains

@@ -7,6 +7,7 @@ tags = [ "statistical packages", "statistical techniques", "user guides", "Tools
 oldpath = "/resources/statistical-associates-publishing"
 date = "2014-06-16 08:43:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Statistical Associates
 Publishing](http://www.statisticalassociates.com/) is a website that

@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/new-database-business-questions"
 date = "2006-09-20 11:22:09 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The MIT [Dewey Research Advisor](http://libraries.mit.edu/dra) is a
 database of business and economic FAQs and answers. The focus is

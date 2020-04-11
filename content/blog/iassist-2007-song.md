@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/iassist-2007-song"
 date = "2007-05-25 15:47:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Here it is: music by Leonard Cohen, lyrics by Melanie Wright and
 company. Now you can sing along to the YouTube video.

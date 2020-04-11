@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/ernie-boyko-begins-first-term-incoming-president"
 date = "2005-06-13 22:59:01 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Ernie Boyko began his first term as the incoming President of IASSIST in
 Edinburgh. A little less than a year since his retirement with

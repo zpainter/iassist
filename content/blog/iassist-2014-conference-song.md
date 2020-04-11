@@ -7,6 +7,7 @@ tags = [ "IASSIST 2014",]
 oldpath = "/blog/iassist-2014-conference-song"
 date = "2014-06-08 16:03:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Sung to the tune of Gordon Lightfoot's  "If You Could Read My Mind";
 thanks to San, Paula, Bill, and Vince for their suggestions, and Vince,

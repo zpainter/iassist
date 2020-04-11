@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012",]
 oldpath = "/blog/2012-report-interest-group-human-subjects-review-committees-and-privacy-and-confidentiality-res"
 date = "2012-06-19 16:02:15 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 For those of you exploring issues of human subjects, privacy and confidentiality, this group may be of interest.  In the coming year we hope to put together some resources and guides for those working with confidential data or human subjects related work.  Please contact libbie@ucla.edu if you are "interested"!
 **

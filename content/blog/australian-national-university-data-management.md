@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Templates",]
 oldpath = "/resources/australian-national-university-data-management"
 date = "2011-04-25 12:09:19 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Australian National University: Data
 Management](http://libguides.anu.edu.au/datamanagement%20) provides an

@@ -7,6 +7,7 @@ tags = [ "Statistical Literacy & Training Users", "Tools, Apps, Technology",]
 oldpath = "/blog/data-visualization-support-roles"
 date = "2014-07-22 13:31:24 -0700"
 draft = "false"
+banner = "/img/blog/05-bb.png"
 +++
 Hello IASSISTers,
 
@@ -18,9 +19,7 @@ frameworks like R statistical packages to conduct visualization.  Many
 other non-programming tools have also been discussed and shared. The
 question of tools is not an easy one, and there are a lot out there!
 
-For a list of tools (not comprehensive) see: [DVIG Tool
-list](http://www.pearltrees.com/amberl/data-visualization-tools/id7749157%20)
-(opens in Pearl Trees)
+For a list of tools (not comprehensive) see: [DVIG Tool list](http://www.pearltrees.com/amberl/data-visualization-tools/id7749157%20) (opens in Pearl Trees)
 
 *What are we doing with visualization?*
 
@@ -42,8 +41,7 @@ and might be helpful for our discussions and understanding.
 
 Process -- Information Workflow
 
- ![](/img/blog/05-bb.png "Workflow"){width="550"
-height="456"}
+![](/img/blog/05-bb.png "Workflow")
 
 Taken from: Aisch, Gregory. Using Data Visualization to Find Insights in
 Data. Data Journalism Handbook, Open Knowledge Foundation.
@@ -144,8 +142,7 @@ Supported projects at the University of Michigan:
 
 19th Century Acts - <http://19thcenturyacts.com/>
 
-[](http://19thcenturyacts.com/)Mapping Moby Dick
-- <http://record.umich.edu/articles/technology-meets-literature-students-map-classic-novel>
+Mapping Moby Dick - <http://record.umich.edu/articles/technology-meets-literature-students-map-classic-novel>
 
  
 

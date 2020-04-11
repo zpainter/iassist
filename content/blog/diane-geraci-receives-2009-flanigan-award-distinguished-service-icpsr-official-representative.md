@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "ICPSR Flanigan Geraci",]
 oldpath = "/blog/diane-geraci-receives-2009-flanigan-award-distinguished-service-icpsr-official-representative"
 date = "2009-11-23 13:06:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The 2009 [William H. Flanigan
 Award](http://www.icpsr.umich.edu/icpsrweb/ICPSR/or/awards/geraci.jsp)for

@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Exemplars", "Sample plans",]
 oldpath = "/resources/dataone-data-management-plans"
 date = "2011-04-30 00:24:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [DataONE Data Management
 Plans](http://www.dataone.org/data-management-planning) site describes

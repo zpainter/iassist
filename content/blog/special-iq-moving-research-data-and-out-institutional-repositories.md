@@ -3,13 +3,13 @@ nid = "660"
 uid = "5"
 author = "robin"
 title = "Special IQ: Moving Research Data Into and Out of Institutional Repositories"
-tags = [ "Community of Data Professionals", "IASSIST 2008", "IASSIST Conferences", "Reports & Studies", "Archiving, Preservation, Curation", "Data Access & Open Data", "Professional Development", "Digital Repositories", "News and Announcements", "Other Topics",]
+tags = [ "Community of Data Professionals", "IASSIST 2008", "IASSIST Conferences", "Reports & Studies", "Archiving, Preservation, Curation", "Data Access & Open Data", "Professional Development", "Digital Repositories", "News and Announcements", "Other Topics", "IQ",]
 oldpath = "/blog/special-iq-moving-research-data-and-out-institutional-repositories"
 date = "2009-05-12 14:42:09 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
-**The IASSIST Quarterly IQ Vol. 31 issue 3&4 is now available on the
-web:**
+**The IASSIST Quarterly IQ Vol. 31 issue 3&4 is now available on the web:**
 
 <http://iassistdata.org/publications/iq/iqvol31.html>
 

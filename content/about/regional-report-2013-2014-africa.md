@@ -13,5 +13,4 @@ Lynn Woolfrey
 DataFirst
 May 2014
 
-» **[Report in PDF
-format](/files/about/africa_regional_report_2013-2014.pdf).**
+» **[Report in PDF format](/file/about/africa_regional_report_2013-2014.pdf).**

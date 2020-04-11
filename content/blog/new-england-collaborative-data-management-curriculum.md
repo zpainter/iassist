@@ -7,6 +7,7 @@ tags = [ "Curriculum", "Data Management and Curation", "Education",]
 oldpath = "/resources/new-england-collaborative-data-management-curriculum"
 date = "2014-05-13 08:08:02 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [The New England Collaborative Data Management Curriculum
 (NECDMC)](http://library.umassmed.edu/necdmc/index) is an instructional

@@ -7,6 +7,7 @@ tags = [ "Professional Development",]
 oldpath = "/blog/us-c2er-offering-basic-analyst-training-march-dc"
 date = "2013-01-10 07:17:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 

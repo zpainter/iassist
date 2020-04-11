@@ -7,6 +7,7 @@ tags = [ "IASSIST 2011",]
 oldpath = "/blog/delta-vancouver-suites-hotel"
 date = "2011-03-11 12:02:06 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Delta Vancouver Suites Hotel, our official conference hotel, has
 added a small number of rooms for us.

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repositories on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/repositories/</link>
+    <description>Recent content in Repositories on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Dec 2014 07:33:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/repositories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>University of British Columbia Library: Research Data Management (RDM) Website</title>
+      <link>https://talatera.github.io/blog/2014/12/19/university-british-columbia-library-research-data-management-rdm-website/</link>
+      <pubDate>Fri, 19 Dec 2014 07:33:28 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2014/12/19/university-british-columbia-library-research-data-management-rdm-website/</guid>
+      <description>University of British Columbia Library release their Research Data Management (RDM) website at http://researchdata.library.ubc.ca/.
+The website is designed to be service-oriented. Four sections, Learn; Plan; Share and Find guide users to the RDM advice and systems solutions that meet their current needs. The Learn section includes a DataGuide (CC BY 3.0) - a quick standalone guide developed to get people started on Research Data Management, which could be re-used and adapted.</description>
+    </item>
+    
+    <item>
+      <title>Meta-listings of Research Data Repositories</title>
+      <link>https://talatera.github.io/blog/2013/11/13/meta-listings-research-data-repositories/</link>
+      <pubDate>Wed, 13 Nov 2013 15:11:36 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2013/11/13/meta-listings-research-data-repositories/</guid>
+      <description>Several organizations have begun compiling lists of repositories of research data. These can be useful for researchers both to consider where to deposit their data, as well as for discovery for secondary data use.
+DataBib
+Tool to identify repositories of research data. Users can search (including field-level searching) or browse by subject or title. Each entry provides a description, standardized subjects, access, start date, and country, among other qualities. Anyone is able to suggest or edit repository listings, which then are reviewed and committed by an editorial board.</description>
+    </item>
+    
+    <item>
+      <title>Association of Research Libraries (ARL): The National Science Foundation (NSF) Data Sharing Policy: Resources for Data Management Planning</title>
+      <link>https://talatera.github.io/blog/2011/05/04/association-research-libraries-arl-national-science-foundation-nsf-data-sharing-policy-res/</link>
+      <pubDate>Wed, 04 May 2011 07:52:03 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/05/04/association-research-libraries-arl-national-science-foundation-nsf-data-sharing-policy-res/</guid>
+      <description>The ARL NSF Resources for Data Management Planning pulls together resources for research libraries to support their researchers in complying with the NSF Data Sharing Policy. This portal represents a variety of sites containing examples, data management tools, and data repositories. Professionals can participate in ARL&amp;rsquo;s Group on Data Sharing Support.</description>
+    </item>
+    
+    <item>
+      <title>UK Data Archive: Create and Manage Data</title>
+      <link>https://talatera.github.io/blog/2011/04/30/uk-data-archive-create-and-manage-data/</link>
+      <pubDate>Sat, 30 Apr 2011 00:50:17 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/30/uk-data-archive-create-and-manage-data/</guid>
+      <description>UK Data Archive: Create and Manage Data provides best practice guidance for researchers on creating and managing data. Guidance covers data management and sharing planning, consent and ethics in data sharing, data ownership and copyright, documenting data, formatting data, storing data, data security and data management strategies for large-scale research investments.</description>
+    </item>
+    
+    <item>
+      <title>UK Data Service (ESDS): Manage data</title>
+      <link>https://talatera.github.io/blog/2011/04/27/uk-data-service-esds-manage-data/</link>
+      <pubDate>Wed, 27 Apr 2011 12:10:41 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/27/uk-data-service-esds-manage-data/</guid>
+      <description>The UK Data Service&amp;rsquo;s Manage data site contains data management guidance for researchers, data creators, data managers and data curators, on best strategies and methods for creating, preparing, and storing shareable datasets. Some guidance is specifically targeted at researchers funded by the UK Economic and Social Research Council (ESRC).</description>
+    </item>
+    
+    <item>
+      <title>Distributed Data Curation Center (D2C2)</title>
+      <link>https://talatera.github.io/blog/2011/04/25/distributed-data-curation-center-d2c2/</link>
+      <pubDate>Mon, 25 Apr 2011 13:55:57 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/25/distributed-data-curation-center-d2c2/</guid>
+      <description>The Distributed Data Curation Center (D2C2) maintains projects and research for facilitating data curation. Includes an extensive list of data repositories that is searchable and browsable.</description>
+    </item>
+    
+    <item>
+      <title>ICPSR: Guidelines for Effective Data Management Plans</title>
+      <link>https://talatera.github.io/blog/2011/04/25/icpsr-guidelines-effective-data-management-plans/</link>
+      <pubDate>Mon, 25 Apr 2011 11:44:16 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/25/icpsr-guidelines-effective-data-management-plans/</guid>
+      <description>The ICPSR Guidelines for Effective Data Management Plans provide a framework for creating a plan (including recommended elements), a list of sample data management plans in a range of disciplines, a list of U.S. federal agency policies, and links to resources.</description>
+    </item>
+    
+  </channel>
+</rss>

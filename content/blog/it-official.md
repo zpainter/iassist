@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "News and Announcements", "Other Topics",]
 oldpath = "/blog/it-official"
 date = "2007-07-27 11:40:35 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ![Swivel Official
 logo](http://www.swivel.com/images/official_source_large.png "Swivel Official logo")For

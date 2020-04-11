@@ -10,29 +10,24 @@ draft = "false"
 Meeting of the General Assembly, Thursday, May 29, 2003 Ottawa, Ont.
 Canada
 
-1. Welcome
-----------
+### 1. Welcome
 
 The meeting was called to order at 12:35
 
-2. Approval of the agenda
--------------------------
+### 2. Approval of the agenda
 
 An item 8d. Membership was added. The agenda were approved as amended.
 
-3. Approval of the minutes
---------------------------
+### 3. Approval of the minutes
 
 Of the 2002 meeting of the General Assembly. Moved: Ernie Boko,
 seconded: Tess Trost -- The motion was Carried.
 
-4. Matters arising
-------------------
+### 4. Matters arising
 
 There being none.
 
-5. Report of Nominations and Elections Committee (P Burnhill)
--------------------------------------------------------------
+### 5. Report of Nominations and Elections Committee (P Burnhill)
 
 The Committee consisted of P Burnhill, D Geraci, W Watkins, and J
 Dionne.
@@ -63,10 +58,9 @@ follows:
 Thanks also to ongoing administrative committee members: L Corti, S
 Giles, F Booker, C Severt, D Tsang.
 
-5. Reports
-----------
+### 5. Reports
 
-### 5.a Regional Secretariats
+#### 5.a Regional Secretariats
 
 Africa - none, will be posted to the WWW.
 
@@ -99,7 +93,7 @@ Department of Defence. D Tsang received a Fulbright Scholarship to do an
 inventory of data resources in Vietnam. B Aldrich and J Grey passed away
 this year.
 
-### 5.b President & Vice-president (A Green)
+#### 5.b President & Vice-president (A Green)
 
 Developments in the past year have included changes to the listserv, IQ
 distribution, publication of 2 membership directories, complete revision
@@ -120,7 +114,7 @@ editor. Thanks also to Y Hackette (archivist), P Burnhill (past
 president), C Geda (Constitutional Review committee), I Einowski
 (Outreach Action Group), and B Block (Strategic Plan Action Group).
 
-### 5.c Treasury (W Thomas)
+#### 5.c Treasury (W Thomas)
 
 Last year we had US$74,500, now US$74,900. The budget for next year is
 a balanced budget. The financial health of the association is good.
@@ -128,41 +122,39 @@ Changes are anticipated among the assistant treasurers group, including
 retirements. Gift and thanks were presented to G Drolet (assistant
 treasurer for Canada). G Drolet is being replaced by R Boily.
 
-### 5.d Archives (A Green)
+#### 5.d Archives (A Green)
 
 Records are being consolidated. A new archival policy will be
 formulated.
 
-6. Action groups
-----------------
+### 6. Action groups
 
-### 6.1 Outreach Action Group (M Wright)
+#### 6.1 Outreach Action Group (M Wright)
 
 Budget for the Outreach Action Group for this conference was
 US$3491.00. 3 applicants, offered funding to 2, but one couldn't make
 it. Ms Omerzu from Slovenia has attended the conference.
 
-### 6.2 Liaison & Representation (R Dekker)
+#### 6.2 Liaison & Representation (R Dekker)
 
 This activity has been folded into the Membership committee, since the
 same people are involved. Discussion with African region to encourage
 membership.
 
-### 6.3 Strategic Plan Action Group (B Block)
+#### 6.3 Strategic Plan Action Group (B Block)
 
 The action group is researching the plans of other organizations, as
 well as trying to learn about IASSIST s past. Half of committee are
 relative newcomers.
 
-### 6.4 Web Site Action Group (R Rice)
+#### 6.4 Web Site Action Group (R Rice)
 
 A new web site was launched last year at the meeting. Now has gone into
 maintenance mode, and are stable. Putting up new content as it comes in.
 But need more content. A web survey has been launched by the committee,
 and members are encouraged to fill it out.
 
-7. Interest groups (A Green)
-----------------------------
+### 7. Interest groups (A Green)
 
 Only one interest group for the coming year: Data Documentation
 
@@ -170,10 +162,9 @@ The Interest group needs a chair, mandate, and a mode of communication.
 The executive will attempt to resolve these before the conference is
 over.
 
-8. Committees
--------------
+### 8. Committees
 
-### 8.1 Publications & communications (L Neidert)
+#### 8.1 Publications & communications (L Neidert)
 
 The IQ is a communications vehicle for the association. IQ almost into
 2003. Anyone can submit, eg presentation from this conference, or
@@ -183,12 +174,12 @@ objectives.
 Also the committee is collecting presentation notes from conference
 presentations. Some new ideas to be announced.
 
-### 8.2 Constitutional Review Committee (A Green)
+#### 8.2 Constitutional Review Committee (A Green)
 
 An election was duly conducted. Proposed changes to the constitution
 have been approved. The committee is [no] longer active.
 
-### 8.3 Education Committee (W Watkins)
+#### 8.3 Education Committee (W Watkins)
 
 Enthusiastic and committed group. Already have listserv. First need to
 clarify the charge to the committee. Will be doing an inventory of
@@ -196,7 +187,7 @@ resources. Contact [P Lackie](mailto:plackie@carleton.edu) to be added
 to the listserv. The proposed inventory will be an inventory of
 inventories.
 
-### 8.4 Membership Committee (S Giles)
+#### 8.4 Membership Committee (S Giles)
 
 The committee consists of the regional secretaries, the president,
 vice-president, treasurer and chair. Distribution of the membership is:
@@ -209,31 +200,29 @@ runs listserv. A new format is planned for the membership directory.
 Thanks to W Thomas and W Piovesan for their work on the directory. Also
 working on a flyer, format and content (C Perry).
 
-9. Conference reports
----------------------
+### 9. Conference reports
 
-### 9.1 2003 conference (A Green)
+#### 9.1 2003 conference (A Green)
 
-### 9.2 2004
+#### 9.2 2004
 
 To be held at Madison Wisconsin. C Severt not here. Planning for the
 conference is well under way, with strong committees. Contact C Severt,
 F Booker, or your regional secretary to volunteer.
 
-### 9.3 2005 - Edinburgh (A Bayley)
+#### 9.3 2005 - Edinburgh (A Bayley)
 
 The 2005 conference will be held the week of May 24th. Program committee
 to be formed. Initial contact with IFDO re a joint conference has been
 made.
 
-### 9.4 2006 (A Green)
+#### 9.4 2006 (A Green)
 
 CFP will be sent out, and an official announcement forthcoming.
 
-10. Other business - announcements
-----------------------------------
+### 10. Other business - announcements
 
-### 10.1 C Humphrey
+#### 10.1 C Humphrey
 
 Thanked the Friends of IASSIST: W Liddington, W Bradley, Thanks to W
 Watkins, S Mowers, MacLean (Sociometrics), E Boyko (STC) and DLI Team.

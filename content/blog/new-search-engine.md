@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/new-search-engine"
 date = "2006-08-24 14:41:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [GovMine](http://www.govmine.com) is a new search engine that might
 become useful in searches for data and statistics. Features that look

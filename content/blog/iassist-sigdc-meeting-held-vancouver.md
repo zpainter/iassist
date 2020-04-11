@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Citation", "IASSIST 2011", "Ne
 oldpath = "/blog/iassist-sigdc-meeting-held-vancouver"
 date = "2011-06-22 05:24:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Special Interest Group on Data Citation (SIGDC) met in
 Vancouver on Wednesday, June 1, with 15 people in attendance. The group

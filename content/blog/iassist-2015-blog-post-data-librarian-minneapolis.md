@@ -7,6 +7,7 @@ tags = [ "IASSIST 2015",]
 oldpath = "/blog/iassist-2015-blog-post-data-librarian-minneapolis"
 date = "2015-06-15 08:23:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 "Hey Charlie I'm pregnant and living on 9th Street". Wait. I don't know
 anyone called Charlie. I'm not pregnant and this isn't 9th Street. I'm

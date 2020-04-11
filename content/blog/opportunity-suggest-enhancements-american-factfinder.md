@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "News and Announcements",]
 oldpath = "/blog/opportunity-suggest-enhancements-american-factfinder"
 date = "2008-03-11 14:40:19 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [copied from a post to the IASSIST membership list by Terrence
 Bennett.] I'm sure that this announcement will show up on a lot of

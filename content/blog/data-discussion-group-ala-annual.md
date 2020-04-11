@@ -7,6 +7,7 @@ tags = [ "External Events",]
 oldpath = "/blog/data-discussion-group-ala-annual"
 date = "2012-06-29 13:47:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 A number of U.S. IASSISTers were at the recent American Library
 Association Annual Conference in Anaheim, California.  This years

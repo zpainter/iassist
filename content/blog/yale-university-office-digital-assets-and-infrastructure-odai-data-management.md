@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Sample plans",]
 oldpath = "/resources/yale-university-office-digital-assets-and-infrastructure-odai-data-management"
 date = "2011-04-30 00:37:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 
 [Yale University ODAI: Data

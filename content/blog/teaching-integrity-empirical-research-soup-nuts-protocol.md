@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Statistical Literacy & Training Users",]
 oldpath = "/blog/teaching-integrity-empirical-research-soup-nuts-protocol"
 date = "2012-08-16 16:25:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Great work by Richard Ball, an Economics professor at Haverford College
 and Norm Medeiros, a Haverford librarian. I'm already planning to

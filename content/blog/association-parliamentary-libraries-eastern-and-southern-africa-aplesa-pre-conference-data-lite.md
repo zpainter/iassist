@@ -7,11 +7,11 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/association-parliamentary-libraries-eastern-and-southern-africa-aplesa-pre-conference-data-lite"
 date = "2019-05-24 10:06:30 -0700"
 draft = "false"
+banner = "/img/blog/screenshot_2019-05-24_at_11.37.06.png"
 +++
 By, Ms. Winny Nekesa Akullo
 
-![](/files/blog/screenshot_2019-05-24_at_11.36.33.png "Some of the Participants at the Data Literacy Training Workshop held on 4 th May 2019, Kampala, Uganda"){.imagecache-inline_horizontal
-width="481" height="200"}
+{{< figure src="/img/blog/screenshot_2019-05-24_at_11.36.33.png" title="Some of the Participants at the Data Literacy Training Workshop held on 4 th May 2019, Kampala, Uganda" >}}
 
 Through its Membership Committee's event sponsorship program, IASSIST
 recently sponsored a one day pre- Conference Training Workshop on Data
@@ -31,8 +31,7 @@ Event Liaison Coordinator and Prof. Constant Obura-Okello, who is also
 the Dean of East African School of Library and Information (EASLIS). Mr.
 Simon Engitu, the Secretary of APLESA was the workshop moderator.
 
-![](/files/blog/screenshot_2019-05-24_at_11.37.06.png "Winny exhibiting at the APLESA conference"){.imagecache-inline_horizontal
-width="233" height="200"}
+{{< figure src="/img/blog/screenshot_2019-05-24_at_11.37.06.png" title="Winny exhibiting at the APLESA conference" >}}
 
 In his opening remarks, the President of APLESA, appreciated the support
 from IASSIST and the importance of the workshop, emphasizing the value
@@ -47,10 +46,8 @@ literacy and its importance, and basics of data visualization using
 RAWgraphs. During sessions, participants were assigned group work
 related to topics and discussed their group work.
 
-![](/files/blog/screenshot_2019-05-24_at_11.37.40.png "Mr. Andrew Bayunga of Uganda discussing his group's work"){.imagecache-inline_horizontal
-width="236"
-height="200"}![](/files/blog/screenshot_2019-05-24_at_11.37.30.png "Ms. Amina Sanghoro of Kenya discussing her group's work"){.imagecache-inline_horizontal
-width="217" height="200"}
+{{< figure src="/img/blog/screenshot_2019-05-24_at_11.37.40.png" title="Mr. Andrew Bayunga of Uganda discussing his group's work" >}}
+{{< figure src="/img/blog/screenshot_2019-05-24_at_11.37.30.png" title="Ms. Amina Sanghoro of Kenya discussing her group's work" >}}
 
 Ms. Nekesa informed the participants that they don't need to be
 statisticians to carry out data management, but as librarians they need
@@ -85,8 +82,5 @@ literacy in the Eastern and Southern Africa.
 
 At the end of the workshop, participants were presented with
 certificates.
-
-![](/files/blog/screenshot_2019-05-24_at_11.37.58.png "Ms. Kamau reviving her certificate"){.imagecache-inline_horizontal
-width="309"
-height="200"}![](/files/blog/screenshot_2019-05-24_at_11.38.08.png "Mr. Enguitu, secretary of APLESA, Professor Obura, and Mr. Cambiete, president of APLESA"){.imagecache-inline_horizontal
-width="308" height="200"}
+{{< figure src="/img/blog/screenshot_2019-05-24_at_11.37.58.png" title="Ms. Kamau reviving her certificate" >}}
+{{< figure src="/img/blog/screenshot_2019-05-24_at_11.38.08.png" title="Mr. Enguitu, secretary of APLESA, Professor Obura, and Mr. Cambiete, president of APLESA" >}}

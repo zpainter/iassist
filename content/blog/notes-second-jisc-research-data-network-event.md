@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/notes-second-jisc-research-data-network-event"
 date = "2016-09-30 07:34:06 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Jisc held their second Research Data Network event in Cambridge. I went
 along to take notes.

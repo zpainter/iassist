@@ -7,6 +7,7 @@ tags = [ "codebook", "datacite", "ddi", "marc", "xslt", "Tools and Apps",]
 oldpath = "/resources/ddi-xslt-transform-you-ddi-xhtml-marc-pdf"
 date = "2013-07-04 03:08:02 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 With DDI-XSLT you can tranform your DDI-lifeccle XML to other formats
 including:

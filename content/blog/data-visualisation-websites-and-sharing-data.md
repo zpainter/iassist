@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/data-visualisation-websites-and-sharing-data"
 date = "2007-12-09 02:14:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Jim sent me a message earlier today about a new data visualisation
 website that he had discovered:

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Archiving, Preservation, Curation",
 oldpath = "/blog/happy-40th-birthday-uk-data-archive"
 date = "2007-07-12 07:50:46 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The UKDA celebrated its anniversary in style, with a reception at the
 Houses of Parliament in London on Wednesday, 10th July (2007), a

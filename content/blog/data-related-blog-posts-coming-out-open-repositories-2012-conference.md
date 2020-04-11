@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "External Events", "Professional Dev
 oldpath = "/blog/data-related-blog-posts-coming-out-open-repositories-2012-conference"
 date = "2012-09-19 11:02:17 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 []{.image-right}I 'd been meaning to write an IASSIST blog post about
 OR 2012, hosted by the University of Edinburgh's Host Organising

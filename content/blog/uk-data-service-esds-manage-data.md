@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education", "Guides", "Repositories",]
 oldpath = "/resources/uk-data-service-esds-manage-data"
 date = "2011-04-27 12:10:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [UK Data Service's Manage
 data](http://ukdataservice.ac.uk/manage-data.aspx "UK Data Service Manage Data") site

@@ -7,6 +7,7 @@ tags = [ "Reports & Studies",]
 oldpath = "/blog/qualitative-social-science-and-humanities-data-interest-group-qsshdig"
 date = "2018-05-31 06:40:57 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [The Qualitative Social Science and Humanities Data Interest Group
 (QSSHDIG)](//sites.google.com/uncg.edu/iassistqsshdig/home”) had another

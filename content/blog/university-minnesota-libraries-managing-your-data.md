@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Policies", "Sample plans", "
 oldpath = "/resources/university-minnesota-libraries-managing-your-data"
 date = "2011-04-25 13:52:27 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [University of Minnesota Libraries: Managing Your
 Data](http://www.lib.umn.edu/datamanagement) site examines the research

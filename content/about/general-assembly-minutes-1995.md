@@ -10,11 +10,12 @@ draft = "false"
 The President, Chuck Humphrey called the meeting to order at 13:00, with
 approximately 85 persons present.
 
-1. Chuck Humphrey thanked the membership for the support extended him
+### 1.
+
+Chuck Humphrey thanked the membership for the support extended him
 during his term as president of the Association.
 
-2. Passing of IASSIST banner
-----------------------------
+### 2. Passing of IASSIST banner
 
 Gaetan Drolet passed the IASSIST banner to Wendy Treadwell, Chair of the
 1996 annual conference. He thanked everyone for attending the
@@ -24,8 +25,7 @@ The next IASSIST annual conference will take place May 15-17 1996, in
 Minneapolis, in conjunction with Social Science Computing Association
 conference.
 
-3. Newly elected Administrative Committee of IASSIST
-----------------------------------------------------
+### 3. Newly elected Administrative Committee of IASSIST
 
 Chuck Humphrey acknowledged and thanked outgoing members of the
 Administrative Committee, especially: Sue Dodd, Dianne Geraci, Ann
@@ -58,7 +58,7 @@ Libbie Stephenson introduced the new Administrative Committee:
 
 Libbie Stephenson outlined as major issues for her as president:
 
--   a. Improved communication, through a four-pronged approach to
+-   A. Improved communication, through a four-pronged approach to
     communication policy:
     -   continuing with IASSIST Quarterly, twice per year
     -   fasttrack versions of papers from conferences on Web site
@@ -101,7 +101,6 @@ Next annual conferences:
 
 Reports of regional secretariats to be posted on the IASSIST Web site.
 
-3. New business - none.
------------------------
+### 3. New business - none
 
 The meeting was adjourned at 13:30.

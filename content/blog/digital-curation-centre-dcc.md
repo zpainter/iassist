@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Policies", "Staying 
 oldpath = "/resources/digital-curation-centre-dcc"
 date = "2011-04-25 12:01:53 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Digital Curation Centre](http://www.dcc.ac.uk/) is a hub of
 expertise in curating digital research data. It sponsors events,

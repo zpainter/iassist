@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education",]
 oldpath = "/resources/essentials-4-data-support"
 date = "2012-03-01 10:59:25 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 An introductory course for those people who (want to) support
 researchers in storing, managing, archiving and sharing their research

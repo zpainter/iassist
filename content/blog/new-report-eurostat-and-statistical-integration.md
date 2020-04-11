@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Archiving, Preservation, Curation", "Professional
 oldpath = "/blog/new-report-eurostat-and-statistical-integration"
 date = "2006-02-15 11:39:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Title: Administering information: Eurostat and statistical integration
 

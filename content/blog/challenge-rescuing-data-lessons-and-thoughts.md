@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data",]
 oldpath = "/blog/challenge-rescuing-data-lessons-and-thoughts"
 date = "2017-05-15 12:51:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 *A version of this post originally appeared on the [NYU Data Dispatch
 blog](https://data-services.hosting.nyu.edu/the-challenge-of-rescuing-federal-data-thoughts-and-lessons/).*

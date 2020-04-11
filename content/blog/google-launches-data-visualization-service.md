@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/google-launches-data-visualization-service"
 date = "2009-05-05 14:41:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Several weeks ago, Google contacted me at BLS to let us know they were
 using some of our data in a launch of a new service in data

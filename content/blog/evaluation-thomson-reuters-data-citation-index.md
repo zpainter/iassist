@@ -7,6 +7,7 @@ tags = [ "Data Sources",]
 oldpath = "/resources/evaluation-thomson-reuters-data-citation-index"
 date = "2012-12-20 16:29:32 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 About a month ago I put some initial reactions to the Thomson Reuters
 Data Citation Index into a [public

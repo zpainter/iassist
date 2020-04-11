@@ -7,6 +7,7 @@ tags = [ "Tools and Apps",]
 oldpath = "/resources/podcast-about-numeric-data-services-and-sources-general-reference-librarian-lynda-kellam-k"
 date = "2011-10-06 09:35:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Lynda Kellam & Katharin Peter, two IASSIST members, recently published
 their book on how to be a data librarian:

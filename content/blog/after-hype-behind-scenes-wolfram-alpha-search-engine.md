@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/after-hype-behind-scenes-wolfram-alpha-search-engine"
 date = "2009-07-27 15:02:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 There was a lot of
 [hype](http://news.google.com/archivesearch?um=1&ned=us&hl=en&q=%22wolfram+alpha%22&cf=all&sugg=d&sa=N&lnav=d0&as_ldate=2009&as_hdate=2009)

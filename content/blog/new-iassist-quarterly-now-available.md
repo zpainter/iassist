@@ -3,15 +3,15 @@ nid = "3404"
 uid = "19"
 author = "StuartM"
 title = "New IASSIST Quarterly now available!"
-tags = [ "Asia/Pacific", "Canada", "Data Access & Open Data", "Data Archives and Service Providers", "Europe", "News and Announcements",]
+tags = [ "Asia/Pacific", "Canada", "Data Access & Open Data", "Data Archives and Service Providers", "Europe", "News and Announcements", "IQ",]
 oldpath = "/blog/new-iassist-quarterly-now-available"
 date = "2013-05-16 05:56:15 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Editor notes: 
 
-**Data bring maps, archive brings data, and accreditation brings
-research**
+**Data bring maps, archive brings data, and accreditation brings research**
 
 [This issue (volume 36-1, 2012)](/iq/issue/36/1) of the IASSIST
 Quarterly (IQ) is the first of the 2012 issues. This editorial is
@@ -95,8 +95,8 @@ as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
 <http://www.iassistdata.org>.
 
-Authors are very welcome to take a look at the instructions and layout:
-<http://iassistdata.org/iq/instructions-authors>.
+Authors are very welcome to take a look at the instructions and layout: 
+<https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Authors can also contact me via e-mail: <kbr@sam.sdu.dk>. Should you be
 interested in compiling a special issue for the IQ as guest editor(s) I

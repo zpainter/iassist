@@ -3,20 +3,15 @@ nid = "3021"
 uid = "5"
 author = "robin"
 title = "IQ Special Quadruple Issue: The Book of the Bremen Workshop"
-tags = [ "Archiving, Preservation, Curation", "Europe", "News and Announcements",]
+tags = [ "Archiving, Preservation, Curation", "Europe", "News and Announcements", "IQ",]
 oldpath = "/blog/iq-special-quadruple-issue-book-bremen-workshop"
 date = "2011-12-14 11:36:55 -0700"
 draft = "false"
+banner = "/img/blog/town_musicians_of_bremen-by-mitko-denev-on-flickr.jpg"
 +++
-[![](/img/blog/town_musicians_of_bremen-by-mitko-denev-on-flickr.jpg "Town Musicians of Bremen"){width="180"
-height="240"}]{.image-left} Welcome to this [very special IASSIST
-Quarterly issue](/iq/issue/34/3). We now present volume 34 (3 & 4) of
-2010 and volume 35 (1 & 2) of 2011. Normally we have about three papers
-in a single issue. In this super-mega-special issue we have fourteen
-papers from the countries: Finland, Ireland, United Kingdom, Austria,
-Czech Republic, Denmark, Germany, Norway, Slovenia, Belarus, Hungary,
-Lithuania, Poland and Switzerland. This will be known in IASSIST as the
-"The book of the Bremen Workshop".
+Welcome to this [very special IASSIST Quarterly issue](/iq/issue/34/3). We now present volume 34 (3 & 4) of 2010 and volume 35 (1 & 2) of 2011. Normally we have about three papers in a single issue. In this super-mega-special issue we have fourteen papers from the countries: Finland, Ireland, United Kingdom, Austria, Czech Republic, Denmark, Germany, Norway, Slovenia, Belarus, Hungary, Lithuania, Poland and Switzerland. This will be known in IASSIST as the "The book of the Bremen Workshop".
+
+{{< figure src="/img/blog/town_musicians_of_bremen-by-mitko-denev-on-flickr.jpg" title="Town musicians of bremen by Mitko Denev on flickr." >}}
 
 The workshop took place in April 2009 at the University of Bremen. The
 workshop was hosted by the Archive for Life Course Research at Bremen
@@ -70,14 +65,8 @@ information in the form of an IQ issue reaches many more people than the
 session participants and will be readily available on the IASSIST
 website at http://www.iassistdata.org.
 
-Authors are very welcome to take a look at the description for layout
-and sending papers to the IQ:
-http://iassistdata.org/iq/instructions-authors
-Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be
-interested in compiling a special issue for the IQ as guest editor
-(editors) I will also delighted to hear from you.
+Authors are very welcome to take a look at the description for layout and sending papers to the IQ: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>. Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be interested in compiling a special issue for the IQ as guest editor (editors) I will also delighted to hear from you.
 
 Karsten Boye Rasmussen
 Editor August 2011
 
-*Image Credit:* by mitko-denev on flickr

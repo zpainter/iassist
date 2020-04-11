@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>databases on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/databases/</link>
+    <description>Recent content in databases on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Apr 2014 10:34:55 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Informal Review of Thomson-Reuters Data Citation Index</title>
+      <link>https://talatera.github.io/blog/2014/04/16/informal-review-thomson-reuters-data-citation-index/</link>
+      <pubDate>Wed, 16 Apr 2014 10:34:55 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2014/04/16/informal-review-thomson-reuters-data-citation-index/</guid>
+      <description>The Thomson-Reuters Data Citation Index (DCI) has been up and running for just over a year. The University of Minnesota (UMN) had a trial of the database when the DCI first launched, but because so little of the database was populated at that time, it was hard to assess it completely. We felt that after a year, it would be worthwhile to revisit it. The initial annual subscrption prices were significant.</description>
+    </item>
+    
+  </channel>
+</rss>

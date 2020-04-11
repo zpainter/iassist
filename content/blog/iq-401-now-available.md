@@ -3,10 +3,11 @@ nid = "7258"
 uid = "157"
 author = "mhayslett"
 title = "IQ 40:1 Now Available!"
-tags = [ "Community of Data Professionals", "Data Access & Open Data", "Professional Development", "Digital Repositories", "Research Data Management", "IASSIST 2016", "News and Announcements",]
+tags = [ "Community of Data Professionals", "Data Access & Open Data", "Professional Development", "Digital Repositories", "Research Data Management", "IASSIST 2016", "News and Announcements", "IQ",]
 oldpath = "/blog/iq-401-now-available"
 date = "2016-09-20 05:18:11 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 **Our World and all the Local Worlds**
 Welcome to the first issue of Volume 40 of the IASSIST
@@ -159,7 +160,7 @@ http://www.iassistdata.org.
 
 
 Authors are very welcome to take a look at the instructions
-and layout: http://iassistdata.org/iq/instructions-authors.
+and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Authors can also contact me via e-mail: kbr@sam.sdu.dk.
 Should you be interested in compiling a special issue for

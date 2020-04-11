@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Archiving, Preservation, Curation", "Tools, Apps,
 oldpath = "/blog/sensitive-data-and-us-patriot-act"
 date = "2011-06-30 09:06:11 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The series of articles below might be of interest to some of you
 planning or working with sensitive data in the cloud.

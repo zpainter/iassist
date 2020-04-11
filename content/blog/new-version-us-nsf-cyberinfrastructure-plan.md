@@ -7,6 +7,7 @@ tags = [ "Reports & Studies",]
 oldpath = "/blog/new-version-us-nsf-cyberinfrastructure-plan"
 date = "2006-02-04 11:41:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 NSF'S CYBERINFRASTRUCTURE VISION FOR 21ST CENTURY DISCOVERY See:
 
@@ -28,7 +29,7 @@ will take advantage of the emerging communities associated with CI that
 provide unique and special opportunities for broadening participation in
 the science and engineering enterprise.
 
-• Support state-of-the-art innovation in data management and
+â€¢ Support state-of-the-art innovation in data management and
 distribution systems, including digital libraries and educational
 environments that are expected to contribute to many of the scientific
 breakthroughs of the 21st century. NSF will foster communication between
@@ -42,15 +43,15 @@ critical role in decisions that NSF makes about long-lived data.
 p.17 B. Data Collections This document adopts the definition of data
 collection types provided in the NSB report on Long-Lived Digital Data
 Collections, where data collections are characterized as being one of
-three functional types: • Research Collections. Authors are individual
+three functional types: â€¢ Research Collections. Authors are individual
 investigators and investigator teams. Research collections are usually
 maintained to serve immediate group participants only for the life of a
 project, and are typically subjected to limited processing or curation.
-Data may not conform to any data standards. • Resource Collections.
+Data may not conform to any data standards. â€¢ Resource Collections.
 Resource Collections are authored by a community of investigators, often
 within a domain of science or engineering, and are often developed with
 community-level standards. Budgets are often intermediate in size.
-Lifetime is between the mid- and long-term. • Reference Collections.
+Lifetime is between the mid- and long-term. â€¢ Reference Collections.
 Reference collections are authored by and serve large segments of the
 science and engineering community, and conform to robust,
 well-established, comprehensive standards, which often lead to a

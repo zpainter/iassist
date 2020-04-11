@@ -7,6 +7,7 @@ tags = [ "New Jobs",]
 oldpath = "/blog/digital-scholarship-librarian-opening-kansas-city-fed"
 date = "2016-03-11 15:32:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Please see the announcement below for a new position created here in the
 Center for the Advancement of Data and Research in Economics at the

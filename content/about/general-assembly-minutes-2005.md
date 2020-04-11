@@ -10,8 +10,7 @@ draft = "false"
 Meeting of the General Assembly, Thursday, May 26, 2005, Edinburgh,
 Scotland, UK
 
-1. Welcome and remarks (A Green)
---------------------------------
+### 1. Welcome and remarks (A Green)
 
 The meeting was called to order at 13:00 with circa 100 persons present.
 A Green welcomed all to the meeting, with an especial welcome to all new
@@ -28,18 +27,15 @@ the bulletin board at the registration desk); (c) via submitting papers
 for publication in the IASSIST Quarterly (IQ). Five past presidents of
 IASSIST are at this conference.
 
-2. Approval of the minutes of the 2004 Annual General Meeting
--------------------------------------------------------------
+### 2. Approval of the minutes of the 2004 Annual General Meeting
 
 Motion to accept the minutes: moved: T Trost; seconded E Boyko. CARRIED.
 
-3. Matters arising, additions to agenda
----------------------------------------
+### 3. Matters arising, additions to agenda
 
 There being none.
 
-4. IASSIST Strategic Plan Publications Award *(K.B. Rasmussen)*
----------------------------------------------------------------
+### 4. IASSIST Strategic Plan Publications Award *(K.B. Rasmussen)* 
 
 The IASSIST Strategic Plan Publications Award committee was chaired by L
 Neidert. All papers submitted will be published in the IQ. The winner of
@@ -51,17 +47,15 @@ of a one-year membership in IASSIST, as well as a cash award.
 the 2005/2006  year; the deadline for submission will likely be in
 January of 2006.
 
-5. Reports of Regional Secretaries
-----------------------------------
+#### 5. Reports of Regional Secretaries
 
 Reports of the Regional Secretaries will be posted on the IASSIST web
 site within a week of the conference. A Green thanked the Regional
 secretaries for their work for the Association.
 
-6. Reports of Officers
-----------------------
+### 6. Reports of Officers
 
-6.1 President - Ann Green
+#### 6.1 President - Ann Green
 
 Thanks to outgoing members of the Administrative Committee: P Adams, R
 Dekker, S Giles (continuing as chair of the Membership Committee), L
@@ -95,7 +89,7 @@ resigning. Members are encouraged to participate in committees and
 conferences, fiscal planning, keep posting interesting information and
 questions on the listserv, and keep the IQ strong.
 
-6.2 Treasurer - W Thomas
+#### 6.2 Treasurer - W Thomas
 
 The Association is in good fiscal condition, with a balance sheet up
 about $30k. There has been a modest increase in membership. There have
@@ -105,10 +99,9 @@ via credit card has proven to be a very popular option.
 
 A Green thanked W Thomas for all her work on behalf of the Association.
 
-7. Reports of Committees
-------------------------
+### 7. Reports of Committees
 
-7.1 Education Committee - E Boyko: Members were admonished to keep an
+**7.1** Education Committee - E Boyko: Members were admonished to keep an
 eye open for the next issue of the IQ which will be on statistical
 literacy. Seven IASSIST members collaborated on the content, and the
 issue has been edited by W Watkins and L Corti. IASSIST needs to adopt
@@ -117,7 +110,7 @@ themes and write about them.
 The Education Committee has had an active year, and is putting together
 plans for the next.
 
-7.2 Membership Committee - B. Wandschneider for S Giles: Membership is
+**7.2** Membership Committee - B. Wandschneider for S Giles: Membership is
 up, with 63 new members in the Association. The regional distribution of
 memberships is similar to that in the past. One of strengths of the
 Association consists in that 115 members have been members for 3 years
@@ -125,20 +118,20 @@ or longer. The membership database is now up and running. The committee
 wants to add additional contextual information, however, such as how
 long you have been an IASSIST member, etc.
 
-7.3 Publications and Communications Committee - KB Rasmussen & R Rice:
+**7.3** Publications and Communications Committee - KB Rasmussen & R Rice:
 Rasmussen reemphasized the upcoming special double issue (issues 2-3) on
 a theme. He acknowledged the many people who work on IQ, including
 proof-readers, and volunteers for proof-reading are solicited.  R Rice
 added that the IASSIST web site can also use more help. Thanks
 especially to P Baxter for work on web site.
 
-7.4 Outreach Committee - I Einowskil: Einowski expressed delight that
+**7.4** Outreach Committee - I Einowski: Einowski expressed delight that
 this is now an on-going committee, which represents a more permanent
 commitment by IASSIST. Outreach has enabled 42 people to attend IASSIST
 over the past 9 years. This year four attendees received funding by
 Outreach.
 
-7.5 Nominations & Elections Committee - P Burnhill: Burnhill thanked D
+**7.5** Nominations & Elections Committee - P Burnhill: Burnhill thanked D
 Geraci for helping with the elections process. The Association has a
 full leadership: E Boyko is the incoming president; M Wright is the
 incoming vice-president. Election results are posted on the IASSIST web
@@ -148,20 +141,18 @@ terms. A special thanks to A Green, who now becomes immediate past
 president. A lot has been achieved in the past 4 years, she provided the
 infrastructure for that scope for those accomplishments.
 
-8. Reports of Action Groups
----------------------------
+### 8. Reports of Action Groups
 
-8.1 Stetegic Plan Implementation Action Group - K McNeil-Harman: The AG
+**8.1** Stetegic Plan Implementation Action Group - K McNeil-Harman: The AG
 is taking a step back to assess what has been done so far. The AG
 welcomes new ideas.
 
-8.2. Data Documentation & citation Interest Group - R Nakao: Nakao has
+**8.2** Data Documentation & Citation Interest Group - R Nakao: Nakao has
 just been renamed co-chair w G Drolet and two interest groups merge.
 There is a role to play in DDI and in the promotion of citation
 standards and guidelines. Interested volunteers are actively sought.
 
-9. Conference Reports
----------------------
+### 9. Conference Reports
 
 9.1. 2004 Conference- A Green
 
@@ -180,18 +171,16 @@ collaboration among 4 universities, 2 French and 2 English. Montréal is
 a safe city, very European in flavour. All are very welcome to Montréal
 in 2007.
 
-10. Other Business
-------------------
+### 10. Other Business
 
-10.1 Turkey Action Group Report - L Ruus: The Turkey Action Group is the
+**10.1** Turkey Action Group Report - L Ruus: The Turkey Action Group is the
 longest standing action group in IASSIST history, with the largest
 volunteer/membership base. All are encouraged to attend the TAG meeting
 at Jury's Inn 11:30 tonight.
 
-10.2 R Rice: Turn in evaluation form, get a raffle ticket.
+**10.2** R Rice: Turn in evaluation form, get a raffle ticket.
 
-11.Moved to adjourn
--------------------
+### 11.Moved to adjourn
 
 Moved C Humphrey; seconded C van der Meer. The meeting adjourned at
 13:45.

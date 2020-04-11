@@ -7,6 +7,7 @@ tags = [ "Research Data Management",]
 oldpath = "/blog/anything-else-preparation-key-success-notes-rdmf13-preparing-data-deposit"
 date = "2015-05-01 08:59:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Digital Curation Centre's most recent Research Data Management Forum
 took place last week in London.

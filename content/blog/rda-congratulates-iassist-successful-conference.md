@@ -7,6 +7,7 @@ tags = [ "IASSIST 2015",]
 oldpath = "/blog/rda-congratulates-iassist-successful-conference"
 date = "2015-06-25 12:41:46 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 RDA Congratulates IASSIST on Successful Conference
 

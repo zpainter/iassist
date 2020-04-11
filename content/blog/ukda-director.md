@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "News and Announcements",]
 oldpath = "/blog/ukda-director"
 date = "2010-02-19 14:42:46 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Congratulations to IASSIST members Kevin Schürer and Matthew Woollard!
 

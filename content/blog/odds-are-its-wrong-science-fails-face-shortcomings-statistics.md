@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/odds-are-its-wrong-science-fails-face-shortcomings-statistics"
 date = "2010-03-18 10:31:22 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In the [March 27, 2010 issue of Science
 News](http://www.sciencenews.org/view/feature/id/57091/title/Odds_Are,_Its_Wrong),

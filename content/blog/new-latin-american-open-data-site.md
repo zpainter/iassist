@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "Data Archives and Service Providers",]
 oldpath = "/blog/new-latin-american-open-data-site"
 date = "2013-05-27 06:17:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Miguel
 Paz [writes](http://ijnet.org/blog/opendata-latinoamerica-will-bring-together-data-across-region):

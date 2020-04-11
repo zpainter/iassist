@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences",]
 oldpath = "/blog/technology-befuddles-session-c3"
 date = "2007-05-16 23:07:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 So now that I remember my blog password, I have **lots** to say. I want
 to extend my congratulations and kudos to my fellow session participants

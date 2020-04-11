@@ -3,10 +3,11 @@ nid = "7591"
 uid = "157"
 author = "mhayslett"
 title = "Winter 2016 IASSIST Quarterly Posted"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/winter-2016-iassist-quarterly-posted"
 date = "2017-10-04 09:12:09 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 **Editor's Notes**
 **When things get digital and huge. Doing the things right and doing the
@@ -106,7 +107,7 @@ http://www.iassistdata.org.
 
 
 Authors are very welcome to take a look at the instructions and layout:
-http://iassistdata.org/iq/instructions-authors
+<https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 
 Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be

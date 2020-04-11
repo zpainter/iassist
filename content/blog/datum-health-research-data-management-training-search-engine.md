@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education", "Staying current",]
 oldpath = "/resources/datum-health-research-data-management-training-search-engine"
 date = "2011-04-25 13:19:32 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [DATUM for Health's Research Data Management Training Search
 Engine](http://www.google.com/cse/home?cx=000734657432312665985:qb4jguvqyia)

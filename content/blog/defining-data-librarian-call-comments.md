@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Professional Development", "Other T
 oldpath = "/blog/defining-data-librarian-call-comments"
 date = "2006-06-12 09:19:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Tiffani Conner, Paula Lackie and Jen Darragh are working on the handouts
 for an ALA poster session and have found that defining "data" and

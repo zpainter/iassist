@@ -7,6 +7,7 @@ tags = [ "Open Data", "world bank", "Data Sources",]
 oldpath = "/resources/world-bank-launches-new-data-website-rich-features-and-newly-free-data"
 date = "2010-05-02 16:11:34 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The World Bank has just launched a
 new [Data](http://data.worldbank.org/) website that is densely packed

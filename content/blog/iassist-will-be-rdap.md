@@ -7,6 +7,7 @@ tags = [ "External Events", "United States", "News and Announcements", "IASSIST 
 oldpath = "/blog/iassist-will-be-rdap"
 date = "2016-04-27 12:59:30 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 For those of you attending the [RDAP Summit](http://www.asis.org/rdap/)
 next week in Atlanta, GA, USA, be sure to keep an eye out for IASSIST.

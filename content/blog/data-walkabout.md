@@ -7,6 +7,7 @@ tags = [ "Professional Development",]
 oldpath = "/blog/data-walkabout"
 date = "2009-02-23 09:04:47 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 A [series of
 posts](http://jisc-datashare.blogspot.com/2009/01/data-walkabout.html)

@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Sample plans",]
 oldpath = "/resources/australian-national-data-service-ands-guide-data-management-planning"
 date = "2011-04-30 00:14:46 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [ANDS: Guide to Data Management
 Planning](http://ands.org.au/guides/data-management-planning-awareness.html)

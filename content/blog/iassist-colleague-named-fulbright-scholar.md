@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "News and Announcements",]
 oldpath = "/blog/iassist-colleague-named-fulbright-scholar"
 date = "2010-07-02 11:09:33 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Michael Witt, assistant professor of library science and
 interdisciplinary research librarian at Purdue University, has been

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Other Topics",]
 oldpath = "/blog/wikipedia-entry-data-library-please-help"
 date = "2006-10-05 12:14:19 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Luis Martinez, IASSIST member and Data Librarian at the London School of
 Economics, has begun an entry on Wikipedia on the topic "Data

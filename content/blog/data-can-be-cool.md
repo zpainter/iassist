@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data-related Advocacy", "Canada", "
 oldpath = "/blog/data-can-be-cool"
 date = "2011-10-06 09:46:59 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 As I prepare to leave Guelph there are lots of things I will miss - but
 what I will maybe miss most is the [Data Resource

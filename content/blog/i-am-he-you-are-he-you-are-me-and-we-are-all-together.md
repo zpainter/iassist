@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/i-am-he-you-are-he-you-are-me-and-we-are-all-together"
 date = "2013-09-17 08:38:13 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I'm just in the process of updating who we follow from our
 [@iassistdata](https://twitter.com/iassistdata "IASSIST twitter")

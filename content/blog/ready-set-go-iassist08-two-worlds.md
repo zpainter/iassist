@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST 2008",]
 oldpath = "/blog/ready-set-go-iassist08-two-worlds"
 date = "2008-05-29 17:43:02 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 So I had the best intentions to blog the conference but alas I was
 distracted - creating my SecondLife avatar to be able to participate

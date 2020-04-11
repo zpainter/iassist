@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Data Q&A", "Guides",
 oldpath = "/resources/dataq-collaborative-platform-answering-research-data-questions-academic-libraries"
 date = "2015-10-26 14:00:00 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [DataQ](http://researchdataq.org/) is a collaborative platform for the
 community to use to ask and answer questions related to research data

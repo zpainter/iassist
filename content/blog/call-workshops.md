@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012",]
 oldpath = "/blog/call-workshops"
 date = "2012-01-04 10:03:19 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Don't forget to propose that extra special workshop for IASSIST 2012.
 Deadline is Jan 16. You can also propose Pecha Kuchas, posters, and
@@ -88,7 +89,7 @@ with information technology and data services to support research and
 teaching in the social sciences.  Typical workplaces include data
 archives/libraries, statistical agencies, research
 centers, libraries, academic departments, government departments, and
-non‐profit organizations.  Visit
+non-profit organizations.  Visit
 [iassistdata.org](http://www.iassistdata.org/ "iassistdata.org")  for
 further information.
 

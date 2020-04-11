@@ -7,6 +7,7 @@ tags = [ "data vizualisation", "Tools and Apps",]
 oldpath = "/resources/visualize-it-imf-data-mapper"
 date = "2010-05-02 14:58:00 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [The IMF Data
 Mapper](http://www.imf.org/external/datamapper/index.php) lets you

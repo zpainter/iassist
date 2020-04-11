@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "News and Announcements",]
 oldpath = "/blog/european-data-portal-cessda"
 date = "2007-03-22 10:09:12 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Council of European Social Science Data Archives (CESSDA) redesigned
 web site is now online at

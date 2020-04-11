@@ -7,6 +7,7 @@ tags = [ "Tools, Apps, Technology",]
 oldpath = "/blog/wrangle-refine-and-represent-data-visualization-tools-car-conference"
 date = "2011-03-16 08:54:10 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I wanted to share a blog post from our local Data and GIS blog that may
 be of interest to the IASSIST community.  Each of the tools varies in

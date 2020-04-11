@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "DMP Tool", "Template
 oldpath = "/resources/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps"
 date = "2015-10-26 14:18:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [DMP Assistant](https://portagenetwork.ca/) is a bilingual tool for
 preparing data management plans (DMPs). The tool follows best practices

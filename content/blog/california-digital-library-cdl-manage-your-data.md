@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Policies",]
 oldpath = "/resources/california-digital-library-cdl-manage-your-data"
 date = "2011-04-30 00:32:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [CDL: Manage Your
 Data](http://www.cdlib.org/services/uc3/datamanagement/index.html)

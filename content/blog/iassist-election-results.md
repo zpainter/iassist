@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "News and Announcements", "IASSIST R
 oldpath = "/blog/iassist-election-results"
 date = "2011-04-05 10:00:22 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Posted on behalf of Ernie Boyko]
 

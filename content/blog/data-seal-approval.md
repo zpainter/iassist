@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Sustainability",]
 oldpath = "/resources/data-seal-approval"
 date = "2011-04-25 12:07:21 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Data Seal of Approval](http://www.datasealofapproval.org/) is a
 certification for data repositories who have demonstrated that they can

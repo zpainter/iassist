@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Templates",]
 oldpath = "/resources/university-virginia-uva-library-scientific-data-consulting"
 date = "2011-05-04 08:08:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [UVA Scientific Data
 Consulting](http://www2.lib.virginia.edu/brown/data/ "UVA Scientific Data Consulting")

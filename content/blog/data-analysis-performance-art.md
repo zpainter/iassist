@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data", "Professi
 oldpath = "/blog/data-analysis-performance-art"
 date = "2007-09-04 22:08:07 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [Data analysis as performance
 art](http://blog.jonudell.net/2007/07/09/data-analysis-as-performance-art/)

@@ -7,6 +7,7 @@ tags = [ "Professional Development",]
 oldpath = "/blog/data-related-webinars-available"
 date = "2015-07-27 11:08:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [North Carolina Library Association's Government Resources
 Section](http://www.nclaonline.org/government-resources) runs a webinar

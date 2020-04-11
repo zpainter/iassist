@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "News and Announcements",]
 oldpath = "/blog/oecd-will-make-its-2007-oecd-factbook-available-swivel"
 date = "2007-04-17 23:10:35 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 #### [OECD and Swivel Invite Curious People to Explore, Discuss and Debate the OECD Factbook](http://www.marketwire.com/mw/release_html_b1?release_id=238613 "OECD and Swivel Invite Curious People to Explore, Discuss and Debate the OECD Factbook")
 

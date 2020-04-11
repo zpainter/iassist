@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data", "News and
 oldpath = "/blog/iassist-members-participate-social-science-week"
 date = "2005-06-27 09:04:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The ESRC Social Science Week was celebrated from June 20-24, 2005 in the
 UK. As part of the event, several specialists were invited to write

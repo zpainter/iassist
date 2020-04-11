@@ -7,6 +7,7 @@ tags = [ "External Events",]
 oldpath = "/blog/report-workshop-data-literacy-researchers-social-sciences-administrators-and-policy-makers-chan"
 date = "2019-12-16 09:34:43 -0700"
 draft = "false"
+banner = "/img/blog/img_7855.jpg"
 +++
 Data Literacy is a skill needed for researchers and social scientists in
 the digital age to get the most out of massive data available to us in
@@ -17,8 +18,7 @@ Social Sciences, Administrators and Policy-Makers' held at MG State
 Institute of Public Administration, Punjab (MGSIPA) at Chandigarh
 (India).
 
- ![](/img/blog/img_7855.jpg){.imagecache-inline_horizontal
-width="300" height="200"}
+{{< figure src="/img/blog/img_7855.jpg" class="wrap" >}}
 
 This two-day workshop was sponsored by IASSIST and organized jointly by
 the Department of Library and Information Science (DLIS), Punjabi
@@ -46,8 +46,7 @@ USA gave a video message for the participants highlighting the need for
 research data and their communication in social sciences; and the role
 IASSIST is playing in this regard.
 
- ![](/img/blog/img_7862.jpg){.imagecache-inline_horizontal
-width="300" height="200"}
+{{< figure src="/img/blog/img_7862.jpg" class="wrap" >}}
 
 Earlier, Dr. P. Venkata Rao, Fellow (Knowledge Management) MGSIPA
 welcomed the participants and resource persons and gave a brief overview
@@ -74,8 +73,7 @@ In the next session, Professor  Kalra talked about Data Citation &
 Documentation and Sources for Authoritative Data and the role of data
 literacy in finding authoritative data.
 
-![](/img/blog/img_7876.jpg){.imagecache-inline_horizontal
-width="300" height="200"}
+{{< figure src="/img/blog/img_7876.jpg" class="wrap" >}}
 
 Next session was jointly conducted by Professors Jagtar Singh and Kalra
 and Dr. Rao where five groups of participants were formed. While forming
@@ -108,5 +106,4 @@ At the end, feedback about the workshop given by three participants
 which was followed by Valedictory Session in which certificates of
 participation were given to participants by Col. Dalbir Singh.
 
-![](/img/blog/img_7919.jpg){.imagecache-inline_horizontal
-width="300" height="200"}
+{{< figure src="/img/blog/img_7919.jpg" class="wrap" >}}

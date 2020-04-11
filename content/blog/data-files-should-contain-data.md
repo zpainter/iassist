@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/data-files-should-contain-data"
 date = "2008-01-29 17:22:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 For those tech-types who do their own data munging, here's a [rant from
 Mark

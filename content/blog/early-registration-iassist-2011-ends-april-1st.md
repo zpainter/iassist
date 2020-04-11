@@ -7,6 +7,7 @@ tags = [ "IASSIST 2011",]
 oldpath = "/blog/early-registration-iassist-2011-ends-april-1st"
 date = "2011-03-17 16:38:22 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Early registration for IASSIST 2011 ends a week from today, Thursday
 March 31.  Fees will increase on April 1 so take advantage of the

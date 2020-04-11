@@ -14,13 +14,11 @@ Chair: Peter Burnhill
 
 Approximately 45 persons present.
 
-0. Call to order
-----------------
+### 0. Call to order
 
 the meeting was called to order at 13:08.
 
-1. Welcome
-----------
+### 1. Welcome
 
 The president welcomed those present at the annual general meeting. He
 noted that IASSIST depends on volunteers, and mentioned a number of
@@ -28,23 +26,21 @@ initiatives, such as the WWW site, standards building, listservs. He
 also noted that this is the second time IASSIST is meeting together with
 CSS, and welcomes thoughts on collaboration with other associations.
 
-2. Approval of minutes
-----------------------
+### 2. Approval of minutes
 
 Of the annual general meeting of May 9, 1997 in Odense. Approved.
 
-3. Introduction of the Admin Committee
---------------------------------------
+### 3. Introduction of the Admin Committee
 
 P. Burnhill introduced the members of the Administrative Committee.
 
-### 3.1 Outgoing
+#### 3.1 Outgoing
 
 P Burnhill introduced the outgoing members of the Administrative
 Committee, Marty Pawlocki, Linda Langschied, and Laura Guy, and thanked
 them for their contribution.
 
-### 3.2 Treasury Group - Wendy Treadwell
+#### 3.2 Treasury Group - Wendy Treadwell
 
 W Treadwell reported that the function of Treasurer has now been
 reformed into a group consisting of a treasurer and three assistant
@@ -61,7 +57,7 @@ consolidated account, and a business statement identifying incomes and
 expenditures. This will allow the association to assess the adequacy of
 the membership fees, et al.
 
-### 3.3 Publications Committee - Margaret Adams
+#### 3.3 Publications Committee - Margaret Adams
 
 M Adams acknowledged the members of the publications committee: Diane
 Geraci, Chuck Humphrey, Greg Haley, Repke de Vries, Karsten B Rasmussen,
@@ -79,7 +75,7 @@ simultaneously in print and on the WWW site.
 There was brief discussion of a project to scan back issues of the
 IASSIST Quarterly.
 
-### 3.4 International Outreach Committee - B Winstanley
+#### 3.4 International Outreach Committee - B Winstanley
 
 B Winstanley outlined the purpose of the International Outreach
 Committee, to sponsor attendance from outside the countries from which
@@ -96,7 +92,7 @@ doubling of the number of students in the social sciences in the future.
 
 P Burnhill reminded the committee that IASSIST is not a foundation.
 
-### 3.5 Regional secretariates - P Burnhill
+#### 3.5 Regional secretariates - P Burnhill
 
 P Burnhill noted the need to explore how we can use the regional
 structure to reach out in the Pacific Rim, to South America, and to
@@ -144,12 +140,12 @@ will be posted on the WWW
 
 will be posted on the WWW
 
-### 3.6 New regions - P Burnhill
+#### 3.6 New regions - P Burnhill
 
 P Burnhill advised that the newest region, Africa, will have have the
 opportunity to host an IASSIST conference in time.
 
-### 3.7 By-elections - P Burnhill
+#### 3.7 By-elections - P Burnhill
 
 P Burnhill advised that it will be necessary to conduct by-elections for
 regional secretariates in Africa, Europe, and the United States. He
@@ -171,8 +167,7 @@ nominations for the Secretariates.
 A request for nomination will be sent out, but if anyone has a nominee
 in mind now, please communicate this to one of the committee members.
 
-4. 1998 Conference
-------------------
+### 4. 1998 Conference
 
 P Burnhill expressed IASSISTs thanks to Ann Green and Jocelyn Tipton.
 Ann Green thanked all who came and presented, who chaired sessions, the
@@ -181,10 +176,9 @@ Winstanley, Vigdis Kvalheim, Manfred Kuchler from CSS, Suzette Giles,
 and the webmaster, as well as local staff, Jocelyn, Lu Stavris, and
 Gloria Hardman.
 
-5. Future IASSIST conferences
------------------------------
+### 5. Future IASSIST conferences
 
-### 5.1 1999 conference
+#### 5.1 1999 conference
 
 will be in Toronto, Canada, with CAPDU (Canadian Association of Public
 Data Users).
@@ -192,7 +186,7 @@ Data Users).
 -   Program chair: Chuck Humphrey.
 -   Local arrangements: Suzette Giles and Laine Ruus
 
-### 5.2 2000 conference
+#### 5.2 2000 conference
 
 A number of suggestions have been received for the year 2000 conference.
 P Burnhill will be asking each for a proposal by the end of June.

@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012",]
 oldpath = "/blog/reminder-submit-your-paper-and-panel-proposals-iassist-2012"
 date = "2011-12-06 13:03:53 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Just a reminder that the deadline to submit an individual paper or a
 panel session to IASSIST 2012 is Friday December 9th.  The Submission

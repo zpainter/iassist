@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences", "News and Announcements",]
 oldpath = "/blog/iassist-2014-call-papers"
 date = "2013-11-14 11:12:10 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ### ALIGNING DATA AND RESEARCH INFRASTRUCTURE IASSIST 2014 Annual Conference Call for Paper and Session Proposals
 

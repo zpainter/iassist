@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/session-a1-views-floor"
 date = "2007-05-16 22:39:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 An overriding theme of the A1 session, Self-Archiving or Self Storage,
 was empowering data producers to participate in creating and providing

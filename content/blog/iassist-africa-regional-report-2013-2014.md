@@ -7,6 +7,7 @@ tags = [ "Africa", "Community of Data Professionals", "Reports & Studies", "Data
 oldpath = "/blog/iassist-africa-regional-report-2013-2014"
 date = "2014-05-16 06:26:57 -0700"
 draft = "false"
+banner = "/img/blog/20140221_121_training-460.jpg"
 +++
 ### Freeing African Data
 
@@ -39,8 +40,7 @@ in Malawi, Mozambique, and Zambia, and ADP trainers teamed up with staff
 from the University of Cape Town's Data Service to conduct data curation
 training workshops in Botswana, Lesotho, and Rwanda.
 
-![](/img/blog/20140221_121_training-460.jpg "Training"){width="460"
-height="259"}
+![](/img/blog/20140221_121_training-460.jpg "Training")
 
 Another move towards Openness is the establishment of a Research Data
 Centre at the University of the Cape Coast in Ghana.  This will make
@@ -50,9 +50,7 @@ the government data producer, which may keep out researchers from
 poorly-resourced institutions. The University of Cape Town in South
 Africa and the University of Michigan in the US are working with
 University of Cape Coast staff to support data curation best practice at
-the new centre, with funding from [University of Michigan's African
-Social Research
-Initiative](http://www.ii.umich.edu/asc/initiatives/africansocialresearchinitiativeasri).
+the new centre, with funding from [University of Michigan's African Social Research Initiative](http://www.ii.umich.edu/asc/initiatives/africansocialresearchinitiativeasri).
 
 ### African Universities Managing their Data Assets
 
@@ -80,8 +78,7 @@ practice at a post-conference workshop organised by South Africa's
 [Network of Data and Information Curation
 Communities](http://nedicc.com/2012/08/23/nedicc/) (NeDiCC).
 
-![](/img/blog/20130625-acdsc5-participants.jpg "Delegates at the 5th African Conference for Digital Scholarship and Curation"){width="448"
-height="227"}
+{{< figure src="/img/blog/20130625-acdsc5-participants.jpg" title="Delegates at the 5th African Conference for Digital Scholarship and Curation" >}}
 
 The [first Isibalo data users'
 conference](http://www.statssa.gov.za/isibalo_conference/welcome.asp)

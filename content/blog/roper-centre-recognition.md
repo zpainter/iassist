@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "United States",]
 oldpath = "/blog/roper-centre-recognition"
 date = "2011-04-07 09:15:10 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 To iassist:
 

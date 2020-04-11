@@ -7,6 +7,7 @@ tags = [ "Social Science Datasets",]
 oldpath = "/blog/anes-announcement-deadlines-anes-2010-2012-egss-online-commons-proposals"
 date = "2011-07-15 08:07:59 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The American National Election Studies are continuing to accept
 proposals for the ANES 2010-2012 Evaluations of Government and Society

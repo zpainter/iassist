@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Sustainability", "Templates",]
 oldpath = "/resources/uk-data-archive-research-data-management-costing-tool"
 date = "2011-04-30 00:42:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 
 [UK Data Archive's Research Data Management Costing Tool

@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/petabyte-age"
 date = "2008-06-30 22:31:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The June 23, 2008 issue of WIRED MAGAZINE (issue 16.07) has several
 stories about large datasets.

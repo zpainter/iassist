@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/newly-elected-iassist-officials"
 date = "2013-04-18 10:00:00 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Dear IASSISTers,
 

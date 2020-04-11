@@ -7,6 +7,7 @@ tags = [ "Research Data Management",]
 oldpath = "/blog/denton-declaration-open-data-manifesto"
 date = "2013-01-02 08:46:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 On May 22, 2012 at the University of North Texas (UNT), a group of
 technologists, librarians, scholars, researchers, university

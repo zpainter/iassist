@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Staying current",]
 oldpath = "/resources/e-science-portal-new-england-librarians-research-data-management-links"
 date = "2014-05-13 08:37:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [e-Science Portal for New England
 Librarians](http://esciencelibrary.umassmed.edu/index) has been

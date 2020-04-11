@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012",]
 oldpath = "/blog/iassist-2012-call-papers"
 date = "2011-10-13 11:52:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Call for Papers for IASSIST 2012 is below.  The conference website
 is still under development, but we thought it important to disseminate

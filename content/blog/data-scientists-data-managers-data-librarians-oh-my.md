@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Other Topics",]
 oldpath = "/blog/data-scientists-data-managers-data-librarians-oh-my"
 date = "2008-09-23 09:17:27 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [The Skills, Role and Career Structure of Data Scientists: An Assessment
 of Current Practice and Future

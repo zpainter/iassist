@@ -7,6 +7,7 @@ tags = [ "IASSIST 2012",]
 oldpath = "/blog/iassist-2012-call-workshops"
 date = "2011-12-13 19:51:56 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 
@@ -93,7 +94,7 @@ with information technology and data services to support research and
 teaching in the social sciences.  Typical workplaces include data
 archives/libraries, statistical agencies, research
 centers, libraries, academic departments, government departments, and
-non‐profit organizations.  Visit
+non-profit organizations.  Visit
 [iassistdata.org](http://www.iassistdata.org "iassistdata.org")  for
 further information. 
 

@@ -7,6 +7,7 @@ tags = [ "Asia/Pacific", "Data-related Advocacy", "External Events", "Canada", "
 oldpath = "/blog/sparc-digital-repositories-meeting-includes-session-open-data"
 date = "2010-11-10 06:41:49 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Kathleen Shearer of the Canadian Association of Research Libraries
 organized and chaired a panel on Open Data was held at the SPARC Digital

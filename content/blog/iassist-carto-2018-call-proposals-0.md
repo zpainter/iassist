@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/iassist-carto-2018-call-proposals-0"
 date = "2017-10-23 08:33:46 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Conference website: <http://www.library.mcgill.ca/iassistcarto2018/>
 

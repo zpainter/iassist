@@ -7,6 +7,7 @@ tags = [ "External Events", "Data Citation",]
 oldpath = "/blog/workshop-persistent-identifiers-social-science-data"
 date = "2011-02-11 05:54:27 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IDSC of IZA in Bonn, Germany, along with GESIS and the RatSWD,
 sponsored a workshop on Persistent Identifiers in the Social Sciences

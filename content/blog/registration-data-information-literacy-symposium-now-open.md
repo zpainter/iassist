@@ -7,6 +7,7 @@ tags = [ "External Events", "Professional Development", "Research Data Managemen
 oldpath = "/blog/registration-data-information-literacy-symposium-now-open"
 date = "2013-05-22 04:46:58 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Please join us for the Data Information Literacy Symposium at Purdue
 University in West Lafayette, IN, on September 23rd, and 24th 2013. 

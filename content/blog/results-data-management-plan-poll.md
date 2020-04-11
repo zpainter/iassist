@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Data Archives and Service Providers",]
 oldpath = "/blog/results-data-management-plan-poll"
 date = "2012-03-20 13:00:05 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Those members who follow IASST-L may recall that about a month ago I
 launched an informal poll to find out whether or not your data

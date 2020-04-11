@@ -7,6 +7,7 @@ tags = [ "External Events", "News and Announcements",]
 oldpath = "/blog/icpsr-webinar-working-irbs"
 date = "2012-11-26 15:23:52 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 For those of you who follow the IASSIST Interest Group on Human Subjects
 Review Committees and Privacy and Confidentiality in Research, you might

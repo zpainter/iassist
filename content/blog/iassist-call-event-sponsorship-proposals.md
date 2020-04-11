@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "External Events", "News and Announc
 oldpath = "/blog/iassist-call-event-sponsorship-proposals"
 date = "2017-01-03 09:20:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The IASSIST Liaison and Organizational Sponsorship Task Force is seeking
 proposals for sponsorships of regional or local events during calendar

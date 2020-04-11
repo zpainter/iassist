@@ -3,10 +3,11 @@ nid = "8052"
 uid = "157"
 author = "mhayslett"
 title = "Editor's notes:  The interest group on qualitative data sums up and continues"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/editors-notes-interest-group-qualitative-data-sums-and-continues"
 date = "2019-06-28 08:04:02 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the second issue of volume 43 of the IASSIST Quarterly (IQ
 43:2, 2019).

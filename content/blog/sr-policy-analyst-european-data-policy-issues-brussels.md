@@ -7,6 +7,7 @@ tags = [ "New Jobs",]
 oldpath = "/blog/sr-policy-analyst-european-data-policy-issues-brussels"
 date = "2016-06-06 06:25:17 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [**Senior Policy
 Analyst**](http://datainnovation.us7.list-manage.com/track/click?u=28248b30fcf4530636ad320fc&id=71dfc1b16d&e=443b7fc996)

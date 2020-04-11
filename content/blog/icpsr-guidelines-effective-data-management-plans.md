@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Exemplars", "Policies", "Repositories"
 oldpath = "/resources/icpsr-guidelines-effective-data-management-plans"
 date = "2011-04-25 11:44:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [ICPSR Guidelines for Effective Data Management
 Plans](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/index.html)

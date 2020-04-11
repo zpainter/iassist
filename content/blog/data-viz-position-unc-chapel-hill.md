@@ -7,6 +7,7 @@ tags = [ "New Jobs",]
 oldpath = "/blog/data-viz-position-unc-chapel-hill"
 date = "2016-01-13 10:49:55 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Please see the announcement below for a new position created here in the
 Libraries at UNC at Chapel Hill.  It will be based in our Digital

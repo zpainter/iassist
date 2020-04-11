@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/iassistdcn-data-curation-workshop"
 date = "2018-02-22 12:33:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 

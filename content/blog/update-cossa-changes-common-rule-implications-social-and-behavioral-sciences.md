@@ -7,6 +7,7 @@ tags = [ "Data-related Advocacy", "Data Access & Open Data", "United States", "R
 oldpath = "/blog/update-cossa-changes-common-rule-implications-social-and-behavioral-sciences"
 date = "2013-03-25 14:34:57 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 This is from the **COSSA** Newsletter ([*Consortium of Social Science
 Associations).*]{.st} March 25, 2013 Volume 32, Issue 6 Regarding a

@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/data-crl-news"
 date = "2010-11-02 11:20:25 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 One of our own IASSISTers, Hailey Mooney, has an article on data
 services in this month's College & Research Libraries News

@@ -13,5 +13,4 @@ Brigitte Hausstein
 GESIS
 May 25, 2011
 
-» **[Report in PDF
-format](http://www.iassistdata.org/files/about/europe_regional_report_2010-2011.pdf).**
+» **[Report in PDF format](http://www.iassistdata.org/files/about/europe_regional_report_2010-2011.pdf).**

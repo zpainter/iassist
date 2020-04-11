@@ -7,6 +7,7 @@ tags = [ "IASSIST 2011",]
 oldpath = "/blog/registration-open-iassist-2011-conference"
 date = "2011-02-09 13:48:14 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **We are pleased to announce that registration is now open for the
 IASSIST 2011 Conference!**

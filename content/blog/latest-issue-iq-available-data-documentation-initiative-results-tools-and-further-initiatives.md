@@ -3,10 +3,11 @@ nid = "6987"
 uid = "157"
 author = "mhayslett"
 title = "Latest Issue of IQ Available!  Data Documentation Initiative - Results, Tools, and  Further Initiatives "
-tags = [ "Data Access & Open Data", "Research Data Management", "Tools, Apps, Technology", "Metadata & Standards", "News and Announcements",]
+tags = [ "Data Access & Open Data", "Research Data Management", "Tools, Apps, Technology", "Metadata & Standards", "News and Announcements", "IQ",]
 oldpath = "/blog/latest-issue-iq-available-data-documentation-initiative-results-tools-and-further-initiatives"
 date = "2016-03-24 07:09:42 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 Welcome to the[third issue of Volume 39 of the IASSIST
 Quarterly](http://iassistdata.org/iq/issue/39/3 "3") (IQ 39:3, 2015).
@@ -81,8 +82,7 @@ appreciated as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
 http://www.iassistdata.org.
 
-Authors are very welcome to take a look at the instructions and layout:
-http://iassistdata.org/iq/instructions-authors. Authors can also contact
+Authors are very welcome to take a look at the instructions and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>. Authors can also contact
 me via e-mail: kbr@sam.sdu.dk.
 
 Should you be interested in compiling a special issue for the IQ as
@@ -94,29 +94,7 @@ Editor
 
 #### New Perspectives on DDI
 
-This issue features four papers that look at leveraging the structured
-metadata provided by DDI in
-different ways. The first, "Design Considerations for DDI-Based Data
-Systems," aims to help decisionmakers
-by highlighting the approach of using relational databases for data
-storage in contrast to
-representing DDI in its native XML format. The second paper, "DDI as a
-Common Format for Export
-and Import for Statistical Packages," describes an experiment using the
-program Stat/Transfer to
-move datasets among five popular packages with DDI Lifecycle as an
-intermediary format. The paper
-"Protocol Development for Large-Scale Metadata Archiving Using DDI
-Lifecycle" discusses the use
-of a DDI profile to document CLOSER (Cohorts and Longitudinal Studies
-Enhancement Resources,
-www.closer.ac.uk), which brings together nine of the UK's longitudinal
-cohort studies by producing a
-metadata discovery platform (MDP). And finally, "DDI and Enhanced Data
-Citation" reports on efforts in
-extend data citation information in DDI to include a larger set of
-elements and a taxonomy for the role
-of research contributors.
+This issue features four papers that look at leveraging the structured metadata provided by DDI in different ways. The first, "Design Considerations for DDI-Based Data Systems," aims to help decisionmakers by highlighting the approach of using relational databases for data storage in contrast to representing DDI in its native XML format. The second paper, "DDI as a Common Format for Export and Import for Statistical Packages," describes an experiment using the program Stat/Transfer to move datasets among five popular packages with DDI Lifecycle as an intermediary format. The paper "Protocol Development for Large-Scale Metadata Archiving Using DDI Lifecycle" discusses the use of a DDI profile to document CLOSER (Cohorts and Longitudinal Studies Enhancement Resources, www.closer.ac.uk), which brings together nine of the UK's longitudinal cohort studies by producing a metadata discovery platform (MDP). And finally, "DDI and Enhanced Data Citation" reports on efforts in extend data citation information in DDI to include a larger set of elements and a taxonomy for the role of research contributors.
 
 Mary Vardigan - vardigan@umich.edu
 Joachim Wackerow - Joachim.Wackerow@gesis.org

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistical packages on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/statistical-packages/</link>
+    <description>Recent content in statistical packages on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2014 08:43:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/statistical-packages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Associates Publishing</title>
+      <link>https://talatera.github.io/blog/2014/06/16/statistical-associates-publishing/</link>
+      <pubDate>Mon, 16 Jun 2014 08:43:56 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2014/06/16/statistical-associates-publishing/</guid>
+      <description>Statistical Associates Publishing is a website that offers guides focused primarily on correctly executing various statistical techniques. The guides are short and provide screenshots and step-by-step instructions for for some of the major commercial statistical packages. One can buy the books - each at very low prices $5USD or less per book from Amazon - or request a free copy from the publisher with some reasonable restrictions on use.
+I should note that since I don&amp;rsquo;t spend much time doing statistics myself, I feel a bit unqualified to attest to the quality of the materials.</description>
+    </item>
+    
+  </channel>
+</rss>

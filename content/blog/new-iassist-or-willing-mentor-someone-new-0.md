@@ -7,6 +7,7 @@ tags = [ "IASSIST Conferences",]
 oldpath = "/blog/new-iassist-or-willing-mentor-someone-new-0"
 date = "2018-05-15 07:24:51 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  **New to IASSIST or Willing to Mentor Someone New?**
 

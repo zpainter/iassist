@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies", "Data-related A
 oldpath = "/blog/sbe-2020-white-papers-available"
 date = "2011-02-04 00:14:24 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Directorate for the Social, Behavioral, and Economic Sciences of the
 National Science Foundation (NSF/SBE) has released today a collection of

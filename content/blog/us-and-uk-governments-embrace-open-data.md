@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "News and Announcements", "Other Topics",]
 oldpath = "/blog/us-and-uk-governments-embrace-open-data"
 date = "2009-12-23 13:17:08 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The US [Open Government Directive](http://www.whitehouse.gov/open),
 released on December 8, 2009, instructs all federal agencies to provide

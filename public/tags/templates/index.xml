@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Templates on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/templates/</link>
+    <description>Recent content in Templates on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2015 14:18:03 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DMP Assistant: bilingual tool for preparing data management plans (DMPs)</title>
+      <link>https://talatera.github.io/blog/2015/10/26/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps/</link>
+      <pubDate>Mon, 26 Oct 2015 14:18:03 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2015/10/26/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps/</guid>
+      <description>DMP Assistant is a bilingual tool for preparing data management plans (DMPs). The tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management.
+DMP Assistant was adapted from the (UK) Digital Curation Centre&amp;rsquo;s DMPOnline tool and is hosted at the University of Alberta. The French user interface was produced with support from the Université de Montréal Library. It is freely available to all researchers in Canada and provides specialized guidance to help researchers utilize the tool to develop their plan.</description>
+    </item>
+    
+    <item>
+      <title>MRC guidance on data management plans</title>
+      <link>https://talatera.github.io/blog/2013/05/27/mrc-guidance-data-management-plans/</link>
+      <pubDate>Mon, 27 May 2013 06:13:10 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2013/05/27/mrc-guidance-data-management-plans/</guid>
+      <description>The Medical Research Council (MRC) guidance on data management plans provides guidance for research applicants and for reviewers, and a template, on how to develop a data management plan for a grant application submitted to the UK Medical Research Council.</description>
+    </item>
+    
+    <item>
+      <title>Purdue University Libraries: Data Management Plan: Self-Assessment Questionnaire</title>
+      <link>https://talatera.github.io/blog/2011/05/05/purdue-university-libraries-data-management-plan-self-assessment-questionnaire/</link>
+      <pubDate>Thu, 05 May 2011 13:46:29 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/05/05/purdue-university-libraries-data-management-plan-self-assessment-questionnaire/</guid>
+      <description>Developed by the Purdue University Libraries, the Data Management Plan: Self-Assessment Questionnaire (PDF) is designed to assist researchers in constructing a data management plan for their National Science Foundation (NSF) proposals.</description>
+    </item>
+    
+    <item>
+      <title>University of Virginia (UVA) Library: Scientific Data Consulting</title>
+      <link>https://talatera.github.io/blog/2011/05/04/university-virginia-uva-library-scientific-data-consulting/</link>
+      <pubDate>Wed, 04 May 2011 08:08:51 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/05/04/university-virginia-uva-library-scientific-data-consulting/</guid>
+      <description>UVA Scientific Data Consulting provides guidance on the concepts behind data planning and a general template for writing National Science Foundation (NSF) data management plans. In addition to planning, the guide includes a section on data citation.</description>
+    </item>
+    
+    <item>
+      <title>University of California, San Diego (UCSD) Research Cyberinfrastructure: Data Management Planning</title>
+      <link>https://talatera.github.io/blog/2011/05/04/university-california-san-diego-ucsd-research-cyberinfrastructure-data-management-planning/</link>
+      <pubDate>Wed, 04 May 2011 08:06:30 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/05/04/university-california-san-diego-ucsd-research-cyberinfrastructure-data-management-planning/</guid>
+      <description>UCSD Research Cyberinfrastructure: Data Management Planning contains resources, examples, and links to guides on writing a data management plan. Strong National Science Foundation (NSF) focus.</description>
+    </item>
+    
+    <item>
+      <title>Association of Research Libraries (ARL): The National Science Foundation (NSF) Data Sharing Policy: Resources for Data Management Planning</title>
+      <link>https://talatera.github.io/blog/2011/05/04/association-research-libraries-arl-national-science-foundation-nsf-data-sharing-policy-res/</link>
+      <pubDate>Wed, 04 May 2011 07:52:03 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/05/04/association-research-libraries-arl-national-science-foundation-nsf-data-sharing-policy-res/</guid>
+      <description>The ARL NSF Resources for Data Management Planning pulls together resources for research libraries to support their researchers in complying with the NSF Data Sharing Policy. This portal represents a variety of sites containing examples, data management tools, and data repositories. Professionals can participate in ARL&amp;rsquo;s Group on Data Sharing Support.</description>
+    </item>
+    
+    <item>
+      <title>UK Data Archive: Research Data Management Costing Tool</title>
+      <link>https://talatera.github.io/blog/2011/04/30/uk-data-archive-research-data-management-costing-tool/</link>
+      <pubDate>Sat, 30 Apr 2011 00:42:40 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/30/uk-data-archive-research-data-management-costing-tool/</guid>
+      <description>UK Data Archive&amp;rsquo;s Research Data Management Costing Tool (PDF) is an activity-based data management costing tool for researchers in the social sciences developed by the UK Data Archive. This tool can be used when preparing research applications or data management plans to estimate the additional costs above standard research procedures and practices that are needed to make research data shareable beyond the primary research team. Background information on how the costing tool was developed is available.</description>
+    </item>
+    
+    <item>
+      <title>University of Oxford: Research Data Management</title>
+      <link>https://talatera.github.io/blog/2011/04/30/university-oxford-research-data-management/</link>
+      <pubDate>Sat, 30 Apr 2011 00:40:15 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/30/university-oxford-research-data-management/</guid>
+      <description>University of Oxford: Research Data Management contains good practice research data management guidance for researchers, including a data management planning checklist with topic-specific guidance and common components of a data management plan.</description>
+    </item>
+    
+    <item>
+      <title>University of Michigan Library: Research Data Management and Publishing Support</title>
+      <link>https://talatera.github.io/blog/2011/04/30/university-michigan-library-research-data-management-and-publishing-support/</link>
+      <pubDate>Sat, 30 Apr 2011 00:35:44 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/30/university-michigan-library-research-data-management-and-publishing-support/</guid>
+      <description>University of Michigan Library: Research Data Management and Publishing Support contains resources for writing a data management plan, understanding and managing data, and using data in research. Its page on National Science Foundation (NSF) Data Management Plans provides guidance for preparing data management plans in compliance with NSF requirements for researchers, grant administrators and support staff. Contains real-case examples from various U.S. universities of actual submitted plans, as well as links to templates and tutorials.</description>
+    </item>
+    
+    <item>
+      <title>Data Conservancy: Data Management Plan Template</title>
+      <link>https://talatera.github.io/blog/2011/04/30/data-conservancy-data-management-plan-template/</link>
+      <pubDate>Sat, 30 Apr 2011 00:26:11 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/30/data-conservancy-data-management-plan-template/</guid>
+      <description>The Data Conservancy&amp;rsquo;s Data Management Plan Template is a template that addresses the elements of the National Science Foundation&amp;rsquo;s (NSF) guidelines for data management plans, focusing on cross-cutting or common elements across NSF directorates.</description>
+    </item>
+    
+    <item>
+      <title>Rural Economy and Land Use Programme (Relu): Data Management Planning</title>
+      <link>https://talatera.github.io/blog/2011/04/30/rural-economy-and-land-use-programme-relu-data-management-planning/</link>
+      <pubDate>Sat, 30 Apr 2011 00:22:45 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/30/rural-economy-and-land-use-programme-relu-data-management-planning/</guid>
+      <description>Relu&amp;rsquo;s Data Management Planning site has data management planning guidance, template and real-case examples of data management plans from the UK-based cross-disciplinary Rural Economy and Land Use Programme (social, environmental and biological sciences). Relu has its own data management and sharing policy and all funded projects are required to prepare a data management plan when they begin.</description>
+    </item>
+    
+    <item>
+      <title>University of Minnesota Libraries: Managing Your Data</title>
+      <link>https://talatera.github.io/blog/2011/04/25/university-minnesota-libraries-managing-your-data/</link>
+      <pubDate>Mon, 25 Apr 2011 13:52:27 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/25/university-minnesota-libraries-managing-your-data/</guid>
+      <description>The University of Minnesota Libraries: Managing Your Data site examines the research data lifecycle and offers tools and solutions for creation, storage, analysis, dissemination, and preservation of data. Includes an extensive list of funding agency guidelines and links to example data management plans.</description>
+    </item>
+    
+    <item>
+      <title>Australian National University: Data Management</title>
+      <link>https://talatera.github.io/blog/2011/04/25/australian-national-university-data-management/</link>
+      <pubDate>Mon, 25 Apr 2011 12:09:19 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/25/australian-national-university-data-management/</guid>
+      <description>Australian National University: Data Management provides an introduction to the topic, including information from local training courses, a manual on data management, and a data management plan template.</description>
+    </item>
+    
+    <item>
+      <title>Digital Curation Centre (DCC): DMP Online</title>
+      <link>https://talatera.github.io/blog/2011/04/25/digital-curation-centre-dcc-dmp-online/</link>
+      <pubDate>Mon, 25 Apr 2011 12:04:31 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/25/digital-curation-centre-dcc-dmp-online/</guid>
+      <description>DCC&amp;rsquo;s DMP Online is a web-based data management planning tool that assists researchers in creating personalized data management plans according to the requirements of major research funders. Researchers can create, store and update multiple versions of a data management plan at the grant application stage and during the research cycle. Covers UK Research Councils, Wellcome Trust, National Science Foundation (NSF) (partial), and GenInst.</description>
+    </item>
+    
+    <item>
+      <title>ICPSR: Guidelines for Effective Data Management Plans</title>
+      <link>https://talatera.github.io/blog/2011/04/25/icpsr-guidelines-effective-data-management-plans/</link>
+      <pubDate>Mon, 25 Apr 2011 11:44:16 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2011/04/25/icpsr-guidelines-effective-data-management-plans/</guid>
+      <description>The ICPSR Guidelines for Effective Data Management Plans provide a framework for creating a plan (including recommended elements), a list of sample data management plans in a range of disciplines, a list of U.S. federal agency policies, and links to resources.</description>
+    </item>
+    
+  </channel>
+</rss>

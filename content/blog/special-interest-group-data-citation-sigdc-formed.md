@@ -7,6 +7,7 @@ tags = [ "Data Citation", "News and Announcements",]
 oldpath = "/blog/special-interest-group-data-citation-sigdc-formed"
 date = "2010-11-22 11:33:05 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 We are pleased to announce the creation of a new Special Interest Group
 on Data Citation (SIGDC) to promote awareness of data-related research

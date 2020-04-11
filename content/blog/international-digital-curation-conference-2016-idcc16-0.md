@@ -7,6 +7,7 @@ tags = [ "External Events",]
 oldpath = "/blog/international-digital-curation-conference-2016-idcc16-0"
 date = "2016-03-07 04:05:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [International Digital Curation Conference
 2016](http://www.dcc.ac.uk/events/idcc16) was in Amsterdam between 23-24

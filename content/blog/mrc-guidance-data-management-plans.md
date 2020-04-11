@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Templates",]
 oldpath = "/resources/mrc-guidance-data-management-plans"
 date = "2013-05-27 06:13:10 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Medical Research Council (MRC) guidance on data management
 plans](http://www.mrc.ac.uk/Ourresearch/Ethicsresearchguidance/datasharing/DMPs/index.htm "MRC guidance on data management planning") provides

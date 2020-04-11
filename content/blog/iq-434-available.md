@@ -3,13 +3,13 @@ nid = "8105"
 uid = "157"
 author = "mhayslett"
 title = "IQ 43(4) available!"
-tags = [ "News and Announcements",]
+tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/iq-434-available"
 date = "2020-01-08 13:37:33 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
-Welcome to the fourth issue of volume 43 of the IASSIST Quarterly (IQ
-43:4, 2019).
+Welcome to the fourth issue of volume 43 of the IASSIST Quarterly (IQ 43:4, 2019).
 
 The first article is authored by Jessica Mozersky, Heidi Walsh, Meredith
 Parsons, Tristan McIntosh, Kari Baldwin, and James M. DuBois -- all
@@ -65,8 +65,7 @@ data service," the author Janez Štebe takes us to Europe. Janez Štebe is
 head of the social science data archives (Arhiv Družboslovnih Podatkov)
 at the University of Ljubljana, Slovenia. The Consortium of European
 Social Science Data Archives (CESSDA) is a distributed European social
-science data infrastructure for access to research data. CESSDA has many
-- but not all - European countries as members. The focus is on the
+science data infrastructure for access to research data. CESSDA has many - but not all - European countries as members. The focus is on the
 situation in 20 non-CESSDA member European countries, with emerging and
 immature data archive services being developed through such projects as
 the CESSDA Strengthening and Widening (SaW 2016 and 2017) and CESSDA

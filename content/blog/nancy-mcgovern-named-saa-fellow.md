@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/nancy-mcgovern-named-saa-fellow"
 date = "2009-11-11 13:31:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 IASSIST member Nancy McGovern was recently inducted as a Fellow by the
 Society of American Archivists at its [August meeting in Austin,

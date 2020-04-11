@@ -7,6 +7,7 @@ tags = [ "policies", "preservation", "resources", "standards", "Data Sources",]
 oldpath = "/resources/geospatial-data-preservation-resource-center-0"
 date = "2011-11-23 10:19:32 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Geospatial Data Preservation Resource
 Center](http://geopreservation.org/) gathers freely available web-based

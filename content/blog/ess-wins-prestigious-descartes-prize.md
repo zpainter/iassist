@@ -7,6 +7,7 @@ tags = [ "News and Announcements", "Other Topics",]
 oldpath = "/blog/ess-wins-prestigious-descartes-prize"
 date = "2006-01-17 13:28:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The European Social Survey (ESS) has won the prestigious Descartes
 prize, awarded by the European Commission for "excellence in scientific

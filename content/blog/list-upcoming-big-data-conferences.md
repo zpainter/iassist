@@ -7,6 +7,7 @@ tags = [ "Analytical Methods and Software", "Community of Data Professionals", "
 oldpath = "/blog/list-upcoming-big-data-conferences"
 date = "2012-08-25 10:38:55 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ### check out [AnalyticBridge (a social network for analytic professionals](http://www.analyticbridge.com/ "Analytic Bridge group"))
 

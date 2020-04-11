@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data vizualisation on IASSIST - International Association for Social Science Information Service and Technology </title>
+    <link>https://talatera.github.io/tags/data-vizualisation/</link>
+    <description>Recent content in data vizualisation on IASSIST - International Association for Social Science Information Service and Technology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2010 14:58:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://talatera.github.io/tags/data-vizualisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualize It! with IMF Data Mapper</title>
+      <link>https://talatera.github.io/blog/2010/05/02/visualize-it-imf-data-mapper/</link>
+      <pubDate>Sun, 02 May 2010 14:58:00 -0700</pubDate>
+      
+      <guid>https://talatera.github.io/blog/2010/05/02/visualize-it-imf-data-mapper/</guid>
+      <description>The IMF Data Mapper lets you visualize data from some of the IMF&amp;rsquo;s major sources, includingWorld Economic Outlook, Balance of Payment Statistics, Government Finance Statistics, AFR Regional Economic Outlook, and Joint IMF-OECD Statistics. You can choose from around 80 different indicators, such as GDP, inflation rate or unemployment rate. You can display data for specific countries, regions, or analytical groups, such as the Euro area or emerging and developing economies.</description>
+    </item>
+    
+  </channel>
+</rss>

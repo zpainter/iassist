@@ -3,10 +3,11 @@ nid = "2967"
 uid = "377"
 author = "jkitlas"
 title = "86 helpful tools for the data professional PLUS 45 bonus tools"
-tags = [ "Data-related Advocacy", "Data Access & Open Data", "Tools, Apps, Technology", "Metadata & Standards",]
+tags = [ "Data-related Advocacy", "Data Access & Open Data", "Tools, Apps, Technology", "Metadata & Standards", "IQ",]
 oldpath = "/blog/86-helpful-tools-data-professional-plus-45-bonus-tools"
 date = "2011-10-29 17:04:17 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 I have been working on this (mostly) annotated collection of tools and
 articles that I believe would be of help to both the data dabbler and

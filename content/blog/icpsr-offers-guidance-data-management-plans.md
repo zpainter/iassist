@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation",]
 oldpath = "/blog/icpsr-offers-guidance-data-management-plans"
 date = "2010-11-03 10:28:29 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In response to NSF's new requirement for data management plans in grant
 applications, ICPSR recently rolled out new Web pages providing guidance

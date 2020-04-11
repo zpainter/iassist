@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "Other Topics",]
 oldpath = "/blog/what-do-about-data-old-formats"
 date = "2006-06-19 14:41:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Recently I posted a message to the IASSIST mailing list about a study in
 in the ICPSR Publication Related Archive that had a data file in an old

@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "News and Announcements", "Other T
 oldpath = "/blog/canadian-research-data-strategy-working-group-established"
 date = "2008-08-26 09:37:46 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Research Data Strategy Working Group Established [http
 ://cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html](//cisti-icist.nrc-cnrc.gc.ca/media/press/rds_group_e.html),

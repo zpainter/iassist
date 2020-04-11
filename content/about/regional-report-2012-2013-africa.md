@@ -13,5 +13,4 @@ Lynn Woolfrey
 DataFirst
 May 2013
 
-» **[Report in PDF
-format](http://iassistdata.org/files/about/africa_regional_report_2012-2013.pdf).**
+» **[Report in PDF format](/file/about/africa_regional_report_2012-2013.pdf).**

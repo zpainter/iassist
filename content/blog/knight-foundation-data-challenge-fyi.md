@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Data-related Advocacy",]
 oldpath = "/blog/knight-foundation-data-challenge-fyi"
 date = "2012-07-11 16:33:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 [The Knight Foundation announced a data-related grant
 opportunity](http://newschallenge.tumblr.com/post/24130238607/knight-news-challenge-data-is-now-open "Knight News Challenge")

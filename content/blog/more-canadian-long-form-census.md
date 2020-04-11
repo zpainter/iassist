@@ -7,6 +7,7 @@ tags = [ "Canada", "News and Announcements",]
 oldpath = "/blog/more-canadian-long-form-census"
 date = "2010-10-06 12:51:50 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 This is a truly fascinating set of events unfurling in Canada.   I
 thought I would add a bit (in too many words) for those of you who

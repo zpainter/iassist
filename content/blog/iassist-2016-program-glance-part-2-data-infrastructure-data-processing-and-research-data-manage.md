@@ -7,6 +7,7 @@ tags = [ "Analytical Methods and Software", "Community of Data Professionals", "
 oldpath = "/blog/iassist-2016-program-glance-part-2-data-infrastructure-data-processing-and-research-data-manage"
 date = "2016-05-06 07:13:42 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
  
 
@@ -170,8 +171,8 @@ dive into the Conversation with these IASSIST offerings:
 
 -   Opening up open data (1 June), with presentations from [UK Data
     Archive](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=42),
-    [OpenAIRE / Uni Goettingen; OpenAIRE / Institut Ruđer
-    Bošković](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=51)
+    [OpenAIRE / Uni Goettingen; OpenAIRE / Institut Ruder
+    Boškovic](https://www.openconf.org/IASSIST16/modules/request.php?module=oc_program&action=summary.php&id=51)
 
 <!-- -->
 

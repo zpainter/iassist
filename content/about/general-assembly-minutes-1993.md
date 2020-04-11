@@ -14,13 +14,11 @@ approximately 90 persons present.
 
 Chair: Chuck Humphrey, President
 
-1. Agenda
----------
+### 1. Agenda
 
 Humphrey presented the agenda. There were no amendments.
 
-2. Report of the Election Committee - Karsten Boye Rasmussen
-------------------------------------------------------------
+### 2. Report of the Election Committee - Karsten Boye Rasmussen
 
 Vote on the constitutional amendment to separate the offices of
 Secretary and Archivist - all votes in favour of the amendment, none
@@ -52,10 +50,9 @@ Vote for president: Chuck Humphrey
 Humphrey announced the appointment of Don Harrison to the position of
 archivist, and Laine Ruus to the position of secretary.
 
-3. Reports of annual conferences
---------------------------------
+### 3. Reports of annual conferences
 
-### 3.1 1993 conference - Peter Burnhill
+**3.1** 1993 conference - Peter Burnhill
 
 Burnhill extended thanks to all participants; also thanks from the Local
 Arrangements Committee to local assistants, and to the LAC of the
@@ -68,7 +65,7 @@ Jackie ???, and Margaret Tubby.
 
 The IASSIST banner was formally passed on to Ilona Einowski.
 
-### 3.2 1994 conference, San Francisco - Ilona Einowski.
+**3.2** 1994 conference, San Francisco - Ilona Einowski.
 
 The dates of the 1994 conference are May 3 through 6, 1994. On the
 Tuesday, workshops will be held at University of California, Berkeley.
@@ -77,19 +74,18 @@ Fisherman's Wharf. A meeting to plan the 1994 conference will be held
 June 18, 1993, at University of California, Los Angeles. All are
 welcome.
 
-### 3.3 Future conferences:
+**3.3** Future conferences:
 
 -   1995 Quebec City, Quebec
 -   1996 ?
 -   1997 Danish Data Archives, Odense, Denmark
 
-4. Report of the Treasurer - Kay Worrell
-----------------------------------------
+### 4. Report of the Treasurer - Kay Worrell
 
 Kay Worrell reported as outgoing Treasurer. The Treasury has now been
 turned over to Martin Pawlocki.
 
-### 4.1 Treasurer's report as of January 1, 1993
+**4.1** Treasurer's report as of January 1, 1993
 
 Balance forward (1991) $16,217.48 1992 Revenues Dues paid during 1992
 $ 9,005.00 Income from Edmonton conference 6,722.68 Income from Madison
@@ -106,17 +102,16 @@ Advance for IASSIST 93 expenses 4,500.00 Bank charges (Canadian cheques)
 
 Submitted by Kay Worrell, 5/11/93
 
-### 4.2 Report to date from Martin Pawlocki May 12, 1993
+**4.2** Report to date from Martin Pawlocki May 12, 1993
 
 Total revenues $ 32,475.04 Total expenses, 1993 3,057.12 Balance to
 date 29,418.92 Memberships: Paid individual members, 1993 131 Paid
 institutional subscriptions, 1993 32 Subtotal 163 Individual members
 paid '92 57 Institutional subscriptions paid '92 6 Total 226
 
-5. Reports of the Regional Secretariats
----------------------------------------
+### 5. Reports of the Regional Secretariats
 
-### 5.1 Australia - Roger Jones
+**5.1** Australia - Roger Jones
 
 Roger Jones is the longest running IASSIST regional secretariat.
 Membership in Australia has increased by 50% in the past year, and 50%
@@ -128,7 +123,7 @@ outreach to other parts of the region. With the creation of the
 Australian Association of Social Researchers created in the past year,
 Jones predicts more interest developing in associations such as IASSIST.
 
-### 5.2 Canada - Wendy Watkins
+**5.2** Canada - Wendy Watkins
 
 Given tight budgets, 1992-93 has been a very creative year for Canadian
 IASSISTers! Several universities have banded together for group
@@ -217,7 +212,7 @@ your area. Perhaps we could make it into a session next year.
 Thus the theme for the year is sharing our wealth of experience, forming
 alliances and stretching scarce resources in altogether new ways.
 
-### 5.3 Europe - Peter Burnhill
+**5.3** Europe - Peter Burnhill
 
 Burnhill and Karsten Boye Rasmussen have been concentrating on growth of
 IASSIST in Europe, through efforts such as this conference, and a 3-day
@@ -233,7 +228,7 @@ location to be determined.
 Rasmussen, Vigdis Kvalheim, and Burnhill will also be working to promote
 IASSIST membership among staff of IFDO institutions.
 
-### 5.4 United States - Anne Gray
+**5.4** United States - Anne Gray
 
 Reported on the current status of the Don Harrison resolution re the
 fate of archival materials relating to Vietnam war veterans, which has
@@ -247,10 +242,9 @@ associations, teaching, and other outreach activities, such as the
 workshops on archiving of electronic records being conducted by Peggy
 Adams and Mark Conrad.
 
-6. Reports of the Round Tables
-------------------------------
+### 6. Reports of the Round Tables
 
-### 6.1 Round table on the virtual data library - Judith Rowe
+**6.1** Round table on the virtual data library - Judith Rowe
 
 Participants were unable to agree on the meaning of 'virtual archive'.
 A number of concerns were discussed, including access versus ownership,
@@ -261,7 +255,7 @@ ranged over centralized data catalogues, relationships with ICPSR,
 putting data on-line for wider access, and access to information about
 data.
 
-### 6.2 Round table on documentation at the variable level (i.e. codebooks) - Karsten Rasmussen
+**6.2** Round table on documentation at the variable level (i.e. codebooks) - Karsten Rasmussen
 
 Although the table was a square one, there was consensus, partly based
 on all the papers during the conference, on software and dreams, that we
@@ -270,7 +264,7 @@ working group be set up to identify features that should be available in
 social science codebooks...the keyword in the new codebook vision is
 flexibility.
 
-### 6.3 Round table on 'liberating the data' - Ernie Boyko
+**6.3** Round table on 'liberating the data' - Ernie Boyko
 
 The participants discussed whether or not data are as free as they might
 be. It was decided that the Norwegian policy towards data was the most
@@ -308,7 +302,7 @@ into account. The U.S. situation of having all federal government
 information in the public domain is a very important distinction. Boyko
 replied that no Americans had participated in the round table.
 
-### 6.4 Round table on creating documentation guidelines for data producers - Bridget Winstanley
+**6.4** Round table on creating documentation guidelines for data producers - Bridget Winstanley
 
 This round table had a very wide international representation, with the
 exception of Australia. It was felt that new guidelines are needed which
@@ -327,7 +321,7 @@ importance of cross-national research. Discussions also covered such
 facets as vocabulary, e.g. metadata, technical reports, user guides -
 definitions that can be internationally accepted.
 
-### 6.5 The nameless round table - Peter Burnhill
+**6.5** The nameless round table - Peter Burnhill
 
 This was a 'real' round table. Discussion concentrated on the
 Internet. From this round table comes a recommendation that there should
@@ -335,12 +329,11 @@ be a 'flotsam & jetsam' round table with no assigned discussion topic
 for those who do not wish to participate in other round tables.
 Alternately, perhaps there should be a permanent IFDO round table.
 
-7. Proposed working groups
---------------------------
+### 7. Proposed working groups
 
 The following proposals for working groups were presented:
 
-### 7.1 Conference planning manual
+**7.1** Conference planning manual
 
 Proposal to form a Working Group on a conference planning manual for
 IASSIST
@@ -359,7 +352,7 @@ co-chairs.
 Time span: to report with a final draft of the manual to the 1994
 meeting of the Administrative Committee.
 
-### 7.2 Codebook Documentation of Social Science Data Working Group Chair - Karsten Boye Rasmussen
+**7.2** Codebook Documentation of Social Science Data Working Group Chair - Karsten Boye Rasmussen
 
 The last years there has been some confusion concerning who are making
 what changes to the OSIRIS-codebook. The OSIRIS codebook format has for
@@ -400,7 +393,7 @@ to use the same software for making the conversion to the new format.
 Submitted by: Karsten Boye Rasmussen, Dansk Data Arkiv IASSIST '93
 conference in Edinburgh. May 13, 1993.
 
-### 7.3 Creating documentation guidelines for data producers Chairs - Sue Dodd, Bridget Winstanley
+**7.3** Creating documentation guidelines for data producers Chairs - Sue Dodd, Bridget Winstanley
 
 Objectives: The primary goal is to draft an IASSIST Manual for
 Documenting Social Science Data which would include a set of descriptive
@@ -418,7 +411,7 @@ would lie with the principal investigator(s). The manual would outline
 minimal and optimal elements -- giving the principal investigators a
 choice.
 
-### 7.4 Bibliographic standards: Chair - Patricia Vanderberg
+**7.4** Bibliographic standards: Chair - Patricia Vanderberg
 
 I propose that IASSIST establish a cataloguing working group to review
 cataloguing rules and documents that have relevance for cataloguing
@@ -453,8 +446,7 @@ Patricia S. Vanderberg 212 Library University of California Berkeley, CA
 Moved by Craig McKie, seconded by Roger Jones that these working groups
 be approved as presented. CARRIED.
 
-8. Harold Naugler Memorial Fund - Margaret O. Adams and Tom Brown (in absentia)
--------------------------------------------------------------------------------
+### 8. Harold Naugler Memorial Fund - Margaret O. Adams and Tom Brown (in absentia)
 
 The following was presented to the membership:
 
@@ -485,8 +477,7 @@ Please make checks [sic] payable to: "Harold Naugler Memorial Fund"
 Margaret O. Adams moved, Diane Geraci seconded, a motion that IASSIST
 donate $200.00 to this memorial fund. CARRIED.
 
-9. New business
----------------
+### 9. New business
 
 No new business was brought forward.
 

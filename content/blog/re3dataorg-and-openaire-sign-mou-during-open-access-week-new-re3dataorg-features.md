@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "Digital Repositories", "Research Data Manag
 oldpath = "/blog/re3dataorg-and-openaire-sign-mou-during-open-access-week-new-re3dataorg-features"
 date = "2013-11-13 15:06:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Last month, [OpenAIRE](http://www.openaire.eu) (Open Access
 Infrastructure for Research in Europe) and

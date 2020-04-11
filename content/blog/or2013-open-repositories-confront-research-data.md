@@ -7,9 +7,8 @@ tags = [ "Community of Data Professionals", "Data Access & Open Data", "Digital 
 oldpath = "/blog/or2013-open-repositories-confront-research-data"
 date = "2013-07-19 14:38:23 -0700"
 draft = "false"
+banner = "/img/blog/iassist5presidents-400x300.jpg"
 +++
-[[![](/img/blog/iassist5presidents-400x300.jpg "IASSIST Five Presidents by Limor Peer"){width="400"
-height="300"}](/img/blog/iassist5presidents.jpg "IASSIST Five Presidents by Limor Peer")]{.image-left}
 
 Open Repositories 2013 was hosted by the University of Prince Edward
 Island from July 8-12. A strong research data stream ran throughout this
@@ -17,6 +16,8 @@ conference, which was attended by over 300 participants from around the
 globe.  To my delight, many IASSISTers were in attendance, including the
 current IASSIST President and four Past-Presidents!  Rarely do such
 sightings happen outside an IASSIST conference.
+
+{{< figure src="/img/blog/iassist5presidents.jpg" title="IASSIST Five Presidents by Limor Peer" >}}
 
 This was my first Open Repositories conference and after the cool
 reception that research data received at the SPARC IR meetings in
@@ -28,9 +29,6 @@ beyond that of just our community.  This conference truly found an
 appropriate intersection between the communities of social science data
 and open repositories. 
 
-[[![](/img/blog/dealingwdata-266x360.jpg "Dealing with Data speakers by Robin Rice"){width="266"
-height="360"}](/img/blog/dealingwdata.jpg "Dealing with Data speakers by Robin Rice")]{.image-right}
-
 Thanks go to Robin Rice (IASSIST), Angus Whyte (DCC), and Kathleen
 Shearer (COAR) for organizing a workshop entitled, "Institutional
 Repositories Dealing with Data: What a difference a 'D' makes!"  Michael
@@ -41,6 +39,8 @@ because of our desire to host six discussion tables of approximately
 seven participants each.  The workshop was fully subscribed and Kathleen
 counted over 50 participants prior to the coffee break.  The number
 clearly expresses the wider interest in research data at OR2013.
+
+{{< figure src="/img/blog/dealingwdata.jpg" title="Dealing with Data speakers by Robin Rice" >}}
 
 Our workshop helped set the stage for other sessions during the week. 
 For example, we talked about environmental drivers popularizing interest

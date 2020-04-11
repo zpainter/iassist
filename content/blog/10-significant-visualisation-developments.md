@@ -7,6 +7,7 @@ tags = [ "Tools, Apps, Technology",]
 oldpath = "/blog/10-significant-visualisation-developments"
 date = "2011-07-07 08:49:43 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Interesting collection of visualization developments:
 

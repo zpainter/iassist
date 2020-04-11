@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Education", "Guides",]
 oldpath = "/resources/penn-state-university-libraries-research-data-management-toolkit"
 date = "2011-05-06 10:22:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [Penn State University Libraries Data Management
 Toolkit](http://www.libraries.psu.edu/psul/researchguides/pubcur/datatoolkit.html)

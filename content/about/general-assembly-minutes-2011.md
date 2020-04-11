@@ -10,39 +10,33 @@ draft = "false"
 Meeting of the General Assembly, Thursday, June 2, 2011 Vancouver,
 British Columbia, Canada
 
-1. Welcome
-----------
+### 1. Welcome
 
-2. Approval of Minutes from 2010 Meeting
-----------------------------------------
+### 2. Approval of Minutes from 2010 Meeting
 
 MOVED to approve the minutes of the annual general meeting of June 3rd,
 2010 as submitted. Moved: W. Watkins, seconded M. Edwards. The motion
 CARRIED.
 
-3. Treasurer's Report - J. Green
----------------------------------
+### 3. Treasurer's Report - J. Green
 
 The treasury is healthy. Last year we made a small profit and we have
 sufficient reserves. The committees will be discussing details of making
 an investment in the areas of administrative structure and the Fellows
 program.
 
-4. Regional Reports - distributed on the table
-----------------------------------------------
+### 4. Regional Reports - distributed on the table
 
 Regional reports were distributed on the tables. They can also be found
 on the public and membership web sites.
 
-5. Introduction of newly elected Regional Secretaries
------------------------------------------------------
+### 5. Introduction of newly elected Regional Secretaries
 
 Two new regional secretaries take office this year. L. Woolfrey is the
 new regional secretary for Africa, S. Spencer is the new regional
 secretary for Asia-Pacific, and the other positions remain unchanged.
 
-6. Committee Reports
---------------------
+### 6. Committee Reports
 
 *Communication -- R. Rice and K. Boye Rasmussen*
 
@@ -104,16 +98,14 @@ to come. There will be a great team working on the program next year: P.
 Heus from the World Bank, W. Zenk-Moeltgen from GESIS, and J. Carlson
 from Purdue.
 
-7. Conference Reports and Announcements
----------------------------------------
+### 7. Conference Reports and Announcements
 
 The conference in Ithaca made over $6000 in profit and had much higher
 attendance than normal. T. Mulcahy and NORC will host IASSIST 2012 in
 DC, June 4-8. From May 29 to June 3, 2013 GESIS will host the conference
 in Cologne, Germany. Expressions of interest are welcome for 2014-2015.
 
-8. Action Groups
-----------------
+### 8. Action Groups
 
 *Membership Survey Action Group -- S. Mowers*
 
@@ -149,8 +141,7 @@ thoughts on how this resource is serving you.
 We will be starting with a focus on Spain, then moving to Portugal and
 South America. We will have more to report at the next conference.
 
-9. Interest Groups
-------------------
+### 9. Interest Groups
 
 *Interest Group on Human Subjects Review Committee and Privacy and
 Confidentiality in Research -- L Bishop*
@@ -163,13 +154,11 @@ M. Vardigan reported on this group that she is co-chairing with M. Witt.
 They are communicating over Google Groups -- 16 people met yesterday.
 Please consider joining.
 
-10. Other Business
-------------------
+### 10. Other Business
 
 None.
 
-11. Adjourn
------------
+### 11. Adjourn
 
 M. Wright wants to say goodbye and feels good about handing things over
 to B. Block.

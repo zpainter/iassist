@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Infrastructure", "Research Data Servic
 oldpath = "/resources/liber-research-data-management-case-studies"
 date = "2015-10-26 13:17:16 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 In June 2014, the Scholarly Communication and Research Infrastructures
 Steering Committee of Association of European Rsearch Libraries
@@ -27,7 +28,7 @@ challenges and lessons learned are described, and ways-forward outlined.
     Support](http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-Essential-4-Data-Support.pdf) (Eindhoven
     University of Technology, Delft University of Technology, University
     of Twente)
--   [Humboldt-Universität zu Berlin
+-   [Humboldt-Universität zu Berlin
     (HU)](http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-HUB1.pdf)
 -   [MIDAS](http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-MIDAS.pdf) (Lithuanian
     National Open Access Research Data Archive)

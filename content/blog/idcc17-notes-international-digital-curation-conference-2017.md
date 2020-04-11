@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/idcc17-notes-international-digital-curation-conference-2017"
 date = "2017-04-03 08:45:55 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 For the third time IASSIST sponsored the International Digital Curation
 Conference. This time allowing three students, one each from

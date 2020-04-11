@@ -7,6 +7,7 @@ tags = [ "Reports & Studies", "Archiving, Preservation, Curation", "Digital Repo
 oldpath = "/blog/assessment-ukda-and-national-archive-uk-compliance-oais-and-mets-standards"
 date = "2005-09-28 09:10:41 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Interesting report applying the Open Archival Information System (OAIS)
 model and the Metadata Encoding and Transmission Standard (METS) to the

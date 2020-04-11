@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Policies",]
 oldpath = "/resources/oecd-principles-and-guidelines-access-research-data-public-funding"
 date = "2011-04-25 13:59:31 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [OECD Principles and Guidelines for Access to Research Data from
 Public Funding (PDF)](http://www.oecd.org/dataoecd/9/61/38500813.pdf)

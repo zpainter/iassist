@@ -2,15 +2,14 @@
 nid = "8106"
 uid = "765"
 author = "LHorton 2"
-title = "Integrating Data Literacy into Library and Information Science (LIS) Curriculum, "
+title = "Integrating Data Literacy into Library and Information Science (LIS) Curriculum"
 tags = [ "Africa", "Community of Data Professionals", "Data-related Advocacy", "External Events", "Professional Development", "Statistical Literacy & Training Users",]
 oldpath = "/blog/integrating-data-literacy-library-and-information-science-lis-curriculum"
 date = "2020-01-16 11:28:17 -0700"
 draft = "false"
+banner = "/img/blog/picture1.png"
 +++
-*IASSIST's Africa Regional Secretary Ms. Winny Nekesa Akullo and Prof.
-Constant Obura-Okello report on a data workshop at Makerere University,
-Kampala.*
+*IASSIST's Africa Regional Secretary Ms. Winny Nekesa Akullo and Prof. Constant Obura-Okello report on a data workshop at Makerere University, Kampala.*
 
 *If you're looking to orginise a similar regional or national data
 event, the IASSIST 2020 [Event Sponsorship Proposals
@@ -25,8 +24,7 @@ how data literacy can be integrated in the LIS curriculum so as to have
 trained library professionals who are able to provide data literacy
 skills to their patrons.
 
-![](/img/blog/picture1.png "Attendees at the Integrating Data Literacy into Library and Information Science (LIS) Curriculum"){.imagecache-inline_horizontal
-width="367" height="200"}
+{{< figure src="/img/blog/picture1.png" title="Attendees at the Integrating Data Literacy into Library and Information Science (LIS) Curriculum." >}}
 
 The workshop was hosted by the East African School of Library and
 Information Science (EASLIS), Makerere University. The workshop
@@ -55,8 +53,7 @@ infrastructure, data security, data science among others. During
 sessions, participants were also assigned group work focusing on how
 their institutions can integrate data literacy in their LIS Curriculum.
 
-![](/img/blog/picture2.png "One of the groups in a group discussion session"){.imagecache-inline_horizontal
-width="417" height="200"}
+{{< figure src="/img/blog/picture2.png" title="One of the groups in a group discussion session." >}}
 
 Two groups were formed each made a presentation about the views
 discussed in their groups. One group shared that the institution has a
@@ -75,8 +72,7 @@ data analysis and presentation skills using MS Excel.
 Lecturers also need to gain training in data literacy in addition to
 partnering/collaborating with institutions already offering it.
 
-![](/img/blog/picture3.png "Prof. Obura-Okello, Dean of East African School of Library and Information, Makerere University giving opening remarks."){.imagecache-inline_vertical
-width="200" height="223"}
+{{< figure src="/img/blog/picture3.png" title="Prof. Obura-Okello, Dean of East African School of Library and Information, Makerere University giving opening remarks." >}}
 
 At the end of the workshop, participants were presented with
 certificates by Dr.George. W.Kiyingi, the former Dean of EASLIS.
@@ -88,5 +84,4 @@ professionals. The participants were encouraged to work together and
 champion the inclusion of data literacy in the LIS curriculum in their
 institutions.
 
-![](/img/blog/picture4.png "Right to Left – Dr. Joyce Bukirwa, Prof. Obura-Okello and Dr. George W. Kiyingi"){.imagecache-inline_vertical
-width="200" height="243"}
+{{< figure src="/img/blog/picture4.png" title="Right to Left – Dr. Joyce Bukirwa, Prof. Obura-Okello and Dr. George W. Kiyingi." >}}

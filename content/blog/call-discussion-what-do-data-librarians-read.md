@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/call-discussion-what-do-data-librarians-read"
 date = "2006-07-18 08:45:01 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Joe Doll would like to start a discussion: "I am in receipt of the
 IASSIST Quarterly journal but am wondering what other means/media data

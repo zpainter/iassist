@@ -13,5 +13,4 @@ Michelle Edwards
 University of Guelph
 June, 2014
 
-» **[Report in PDF
-format](http://iassistdata.org/files/about/canada_regional_report_2013-2014.pdf).**
+» **[Report in PDF format](/file/about/canada_regional_report_2013-2014.pdf).**

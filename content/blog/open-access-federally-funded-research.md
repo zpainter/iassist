@@ -7,6 +7,7 @@ tags = [ "Data Access & Open Data", "United States",]
 oldpath = "/blog/open-access-federally-funded-research"
 date = "2011-11-04 11:22:18 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Got something to say about "ensuring long-term stewardship and
 encouraging broad public access to unclassified digital data that result

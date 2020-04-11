@@ -7,6 +7,7 @@ tags = [ "Archiving, Preservation, Curation", "Digital Repositories", "Other Top
 oldpath = "/blog/icpsr-participate-project-certify-digital-archives"
 date = "2005-09-15 06:50:06 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 ICPSR will be taking part in the RLG-NARA Digital Repository
 Certification project to identify the criteria repositories must meet

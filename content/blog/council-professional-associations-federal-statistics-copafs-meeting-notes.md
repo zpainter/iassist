@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "United States",]
 oldpath = "/blog/council-professional-associations-federal-statistics-copafs-meeting-notes"
 date = "2011-12-08 14:07:27 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 I was lucky enough to be able to sit in on the most recent COPAFS
 meeting in place of our regular liaison Judith Rowe.  While the topics

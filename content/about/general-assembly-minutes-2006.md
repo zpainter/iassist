@@ -10,8 +10,7 @@ draft = "false"
 Meeting of the General Assembly, Thursday, May 25, 2006, Ann Arbor,
 Michigan, USA
 
-1. Welcome and remarks (E Boyko)
---------------------------------
+### 1. Welcome and remarks (E Boyko)
 
 The meeting was called to order at 12:53, with circa 180 members
 present. E Boyko presented a brief overview of the structure and
@@ -23,21 +22,18 @@ attendees at this conference.
 
 A review of the Agenda: add the 2008 Conference.
 
-2. Approval of the minutes of the 2005 Annual General Meeting
--------------------------------------------------------------
+### 2. Approval of the minutes of the 2005 Annual General Meeting
 
 Moved that the minutes of the Annual General Meeting of  May 26, 2005 be
 approved as circulated. Moved: L Ruus; seconded M Wright. CARRIED..
 
-3. Business arising from the minutes
-------------------------------------
+### 3. Business arising from the minutes
 
 There being none.
 
-4. Reports of Officers
-----------------------
+### 4. Reports of Officers
 
-4.1 President & Vice-president - E Boyko & M Wright
+#### 4.1 President & Vice-president - E Boyko & M Wright
 
 E Boyko thanked the immediate past president, A Green. In this new role
 he was invited to Moscow in Dec 2005, for a conference on secondary
@@ -55,23 +51,22 @@ of the past treasurer over a period of 9.5 years.
 A gift of appreciation was presented to W Thomas. W Thomas thanked
 regional treasurers.
 
-4.2 Treasurer - J Green
+#### 4.2 Treasurer - J Green
 
 The Association has healthy balances in all accounts. She intends to
 continue the hard work the outgoing treasurer put in place. Thanks are
 due to the current assistant treasurers: R Boily, S Macdonald and S
 Mackay.
 
-5. Reports of Regional Secretaries
-----------------------------------
+### 5. Reports of Regional Secretaries
 
-5.1 Asia/Pacific: for S Holloway by M Wright
+#### 5.1 Asia/Pacific: for S Holloway by M Wright
 
 The Australian Social Science Data Archive (ASSDA) is establishing a
 distributed data service based on Nesstar. A fuller report will be
 available on the Association web site.
 
-5.2 Canada -- for B Wandschneider by S Giles
+#### 5.2 Canada -- for B Wandschneider by S Giles
 
 A fuller report will be available on the Association web site. Canada
 has just conducted its quinquennial population census, for the first
@@ -80,7 +75,7 @@ included a question as to whether one gave permission for one's
 nominative information to be released in 92 years time. Canadians are
 currently working on a proposal to form one ICPSR federation.
 
-5.3 Europe - M Kleemola
+#### 5.3 Europe - M Kleemola
 
 A fuller report will be available on the Association web site. The
 European region now has a number of new members, and there a lots of
@@ -93,7 +88,7 @@ page.  There is a new data archive in Macedonia. National reports were
 received from 15 countries -- thanks to those who contributed. The
 future will see lots of organizational changes in Europe.
 
-5.4 US -- P Baxter
+#### 5.4 US -- P Baxter
 
 US institutions can still submit information for the regional report,
 and late submissions will be included in the final report which will be
@@ -103,17 +98,16 @@ Thomson Gale Award for Excellence in Business Librarianship, and J
 Linden the 2006 recipient of the NewsBank/Readex/GODORT/ALA Catharine J.
 Reynolds Award. She hopes to deliver next year's report en français.
 
-6. Reports of Committees
-------------------------
+### 6. Reports of Committees
 
-6.1 Education Committee -- W Watkins
+#### 6.1 Education Committee -- W Watkins
 
 Report of the Education Committee will be available on the web. The
 latest IASSIST Quarterly issue is on statistical literacy. A workshop on
 the same topic is being held at this conference. The committee intends
 to test use of a wiki as a communication tool between conferences.
 
-6.2 International Outreach Committee -- P Lackie
+#### 6.2 International Outreach Committee -- P Lackie
 
 Ms Lackie introduced the participants who received International
 Outreach funding, as well as a number of other first-time IASSIST
@@ -126,7 +120,7 @@ Vietnam. Thanks to L Detterman, B Gunter & M Vardigan, who helped
 extensively in the work of the committee; these three have agreed to
 serve on Outreach next year as well.
 
-6.3 Membership Committee -- S Giles
+#### 6.3 Membership Committee -- S Giles
 
 IASISST has the largest membership in its history, with 88 new members
 at this conference. The Membership Committee is turning its attention to
@@ -138,7 +132,7 @@ to address questions regarding membership. She thanked the assistant
 treasurers, the regional secretaries, and especially J Weintrop for work
 on the listserv.
 
-6.4 Nominations & Elections Committee -- A Green
+#### 6.4 Nominations & Elections Committee -- A Green
 
 The upcoming year is an election year. A call for nominations will be
 issued in January, with the election to follow in February of 2007. Up
@@ -148,7 +142,7 @@ members at large: 1 in Canada, 2 in Europe, and 3 for the United States.
 The IASSIST election is an opportunity to get more involved in the
 Association.
 
-6.5 Publications Committee -- L Neidert
+#### 6.5 Publications Committee -- L Neidert
 
 The Publications Committee is very large - Association communications is
 the brief of the Committee. It is actually an umbrella for a number of
@@ -160,22 +154,20 @@ blog [http://www.iassistblog.org](http://www.iassistblog.org/); postings
 can be sent postings to her, or individuals can become editors. No
 special permissions are needed in order to comment on existing postings.
 
-7. Reports of Action Groups
----------------------------
+### 7. Reports of Action Groups
 
-7.1 Data Documentation & Citation Interest Group -- G Drolet & R Nakao.
+#### 7.1 Data Documentation & Citation Interest Group -- G Drolet & R Nakao.
 
 One of the goals of the Interest Group is to promote citation standards.
 The meeting the previous evening focused on tools for DDI 3.0.
 
-7.2 Strategic Plan - W Block
+#### 7.2 Strategic Plan - W Block
 
 The Strategic Plan includes three strategic goals which drive Education,
 Outreach, and the IASSIST Quarterly. He urged those assembled to read
 the Strategic Plan and to get involved in its implementation.
 
-8. Conferences (E Boyko)
-------------------------
+### 8. Conferences (E Boyko)
 
 8.1 2006 -- E Boyko thanked the Local Arrangements Committee and the
 Program Committee for putting together a superb conference.
@@ -187,12 +179,10 @@ Program Committee for the 2007 Conference in Montréal, Canada
 the 2008 conference at Stanford University, California.
 
 8.4 2009 & 20010 -- The Association is seeking proposals for conference
-venues..
+venues.
 
-9. New Business - *none*
-------------------------
+### 9. New Business - *none*
 
-10. Adjournment
----------------
+### 10. Adjournment
 
 The meeting was adjourned at 13:41.

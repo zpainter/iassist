@@ -13,5 +13,4 @@ Marilyn Andrews
 University of Regina
 May 2011
 
-» **[Report in PDF
-format](http://iassistdata.org/files/about/canada_regional_report_2010-2011.pdf).**
+» **[Report in PDF format](/file/about/canada_regional_report_2010-2011.pdf).**

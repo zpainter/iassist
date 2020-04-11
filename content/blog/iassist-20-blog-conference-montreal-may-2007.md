@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/iassist-20-blog-conference-montreal-may-2007"
 date = "2007-05-17 15:48:45 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 This is a starter blog entry for people to share their thoughts and
 reflections about the conference as we go along and afterwards. Just Add

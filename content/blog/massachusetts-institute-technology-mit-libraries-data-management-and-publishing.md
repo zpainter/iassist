@@ -7,6 +7,7 @@ tags = [ "Best practices", "Data Management and Curation", "Guides",]
 oldpath = "/resources/massachusetts-institute-technology-mit-libraries-data-management-and-publishing"
 date = "2011-04-30 00:29:40 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [MIT Libraries Data Management and
 Publishing](http://libraries.mit.edu/data-management/) guide is aimed to

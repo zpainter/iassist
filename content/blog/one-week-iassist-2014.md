@@ -7,6 +7,7 @@ tags = [ "IASSIST 2014",]
 oldpath = "/blog/one-week-iassist-2014"
 date = "2014-05-26 08:29:44 -0700"
 draft = "false"
+banner = "/img/blog/iassist2014.png"
 +++
 It's a week to go until IASSIST 2014 begins! (If you haven't registered
 yet, better get to it!) Here are a few things you might like to know

@@ -3,20 +3,23 @@ nid = "672"
 uid = "11"
 author = "San"
 title = "IASSIST Quarterly 32 available on-line"
-tags = [ "Community of Data Professionals",]
+tags = [ "Community of Data Professionals", "IQ",]
 oldpath = "/blog/iassist-quarterly-32-available-line"
 date = "2010-01-15 15:55:31 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 The [IASSIST Quarterly (IQ) volume 32
 2008](http://www.iassistdata.org/publications/iq/iqvol32.html) contains
 a collection of the 1, 2, 3, and 4 issues into a single issue for 2008.
+
 Nikos Askitas is the head of the International Data Service Center of
 the Institute for the Study of Labor in Germany (IZA). At the 2008
 IASSIST conference he presented what is here an article on the ["Data
 Documentation and Remote Computing at the International Data Service
 Center of
 IZA."](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4askitas.pdf)
+
 The data documentation of the IDSC that started with translation of
 German metadata into English has developed into a detailed, in depth,
 searchable and standardized information service, especially helpful for
@@ -29,7 +32,9 @@ computing" is described. Germany uses the concept of "factual
 anonymization" and the production of "scientific use files". However,
 such files are not allowed for export. Instead IDSC supplies interfaces
 to scientists with both local and remote support for which IDSC has
-developed special software (JoSuA). The article ["A Documentation Model
+developed special software (JoSuA). 
+
+The article ["A Documentation Model
 for Comparative Research Based on Harmonization
 Strategies"](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4kallas.pdf),
 by John Kallas from University of the Aegean at Mytilene on Lesvos,
@@ -47,7 +52,9 @@ different types of harmonization strategies: ex ante input, ex ante
 output, and ex post. Most documentation processes at data archives are
 ex post harmonization. The authors are aware that the proposed study
 documentation procedure is laborious for the researchers; however, the
-positive side is the benefits in searching and locating the data. At the
+positive side is the benefits in searching and locating the data. 
+
+At the
 2009 IASSIST conference in the session "Protecting Privacy While
 Preserving Access: Restricted Use Data and Disclosure Considerations",
 Sharon Bolton and Matthew Woollard gave a presentation that is now an
@@ -69,7 +76,9 @@ relevant for the archival society. The UKDA had an audit of its
 "in-house data handling" which resulted in existing good practice being
 identified and additional methods developed. These were collated into a
 comprehensive set of data security procedures with effect for both UKDA
-staff and the users. At the same IASSIST conference in the session
+staff and the users. 
+
+At the same IASSIST conference in the session
 "Sharing Data: High Rewards, Formidable Barriers" Carina Carlhed and
 Iris Alfredsson from respectively Mälardalen University, Sweden and the
 Swedish National Data Service (SND) presented a report from an

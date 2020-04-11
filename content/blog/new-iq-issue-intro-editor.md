@@ -3,10 +3,11 @@ nid = "618"
 uid = "5"
 author = "robin"
 title = "New IQ issue - intro from the editor"
-tags = [ "Community of Data Professionals", "Data Access & Open Data", "Data Citation", "News and Announcements",]
+tags = [ "Community of Data Professionals", "Data Access & Open Data", "Data Citation", "News and Announcements", "IQ",]
 oldpath = "/blog/new-iq-issue-intro-editor"
 date = "2007-06-15 05:51:45 -0700"
 draft = "false"
+banner = "/img/blog/iq-2.jpg"
 +++
 The IASSIST Quarterly (IQ Vol. 30 issue 2 - 2006) is now available on
 the web:
@@ -83,11 +84,8 @@ Fingerprint. This should guarantee that the data set has not been
 changed even though the data set might exist in different software. This
 should probably apply to the documentation as well.
 
-The IASSIST is always open at the website
-[http://iassistdata.org](http://iassistdata.org/){.moz-txt-link-freetext}
-and you can look at conference information and visit the IASSIST blog -
-the IASSIST Communique - at
-[http://iassistblog.org](http://iassistblog.org//){.moz-txt-link-freetext}.
+The IASSIST is always open at the website [http://iassistdata.org](http://iassistdata.org/) and you can look at conference information and visit the IASSIST blog -
+the IASSIST Communique - at [http://iassistblog.org](http://iassistblog.org//).
 
 Articles for the IASSIST Quarterly are most welcome. Articles can be
 papers from IASSIST conferences, from other conferences, from local

@@ -7,6 +7,7 @@ tags = [ "guides", "Data Sources",]
 oldpath = "/resources/united-states-department-housing-urban-development-data-set-reference-guides"
 date = "2011-07-08 09:51:07 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Thanks to Lynda Kellam at the
 [Dataland](http://uncgdataland.blogspot.com/) Blog for highlighting

@@ -3,10 +3,11 @@ nid = "7594"
 uid = "22"
 author = "t.alatera"
 title = "The International Workshop on Social Science Data Archives, held in Taiwan, sponsored by IASSIST"
-tags = [ "Archiving, Preservation, Curation", "Asia/Pacific", "Professional Development", "Digital Repositories", "News and Announcements",]
+tags = [ "Archiving, Preservation, Curation", "Asia/Pacific", "Professional Development", "IASSIST Sponsored Events", "Digital Repositories", "News and Announcements",]
 oldpath = "/blog/international-social-science-data-archives-workshop-taiwan"
 date = "2017-11-01 13:42:54 -0700"
 draft = "false"
+banner = "/img/blog/banner_reception.jpg"
 +++
 The International Workshop on Social Science Data Archives, sponsored by
 IASSIST, was held on September 15 in Conference Room II, Research Center
@@ -17,45 +18,36 @@ and **Dr. Kaoru Sato** from Social Science Japan Data Archive (SSJDA),
 University of Tokyo, and **Dr. Won-ho Park**, **Dr. Seokho Kim** from
 Korea Social Science Data Archive (KOSSDA), Seoul National University.
 
-![](https://raw.githubusercontent.com/talatera/misc/master/banner_reception.jpg)
+{{< figure src="/img/blog/banner_reception.jpg" title="Workhhop and reception banners" >}}
 
 The finalized workshop agenda is listed in the following. We also had
 **Dr. Ruoh-rong Yu** introduce the Survey Research Data Archive of
 Taiwan. The topics of the presentations covered data curation,
 preservation, and dissemination services provided by each data archive. 
 
-09:00~09:30
+09:00~09:30 Registration
 
-Registration
+09:30~09:40 Opening Remarks
 
-09:30~09:40
-
-Opening Remarks
-
-Dr. Ching-Ching Chang
+: Dr. Ching-Ching Chang
 Chair Professor
 Department of Advertising
 National Cheng-Chi University, Taiwan
 
 Morning Session
 
-Session Chair: Dr. Ching-ching Chang
+: Session Chair: Dr. Ching-ching Chang
 
-09:40~10:20
+09:40~10:20 Curating, Preserving, and Disseminating Social Science Micro Data at Social Science Japan Data Archive
 
-Curating, Preserving, and Disseminating Social Science Micro Data at
-Social Science Japan Data Archive
-
-Dr. Yukio Maeda
+: Dr. Yukio Maeda
 Professor
 Institute of Social Science
 University of Tokyo, JAPAN
 
-10:20~11:00
+10:20~11:00 Introduction to Korea Social Science Data Archive
 
-Introduction to Korea Social Science Data Archive
-
-Dr. Won-ho Park
+: Dr. Won-ho Park
 Associate Professor
 Department of Political Science and International Relations
 Seoul National University, KOREA
@@ -65,52 +57,35 @@ Associate Professor
 Department of Sociology
 Seoul National University, KOREA
 
-Dr. In Chol Shin
-[](http://web.skku.edu/~socioadmin/?page_id=457&lang=en)Senior
-Researcher
+Dr. In Chol Shin (http://web.skku.edu/~socioadmin/?page_id=457&lang=en)
+Senior Researcher
 Korea Social Science Data Archive
 Seoul National University Asia Center, KOREA
 
-11:00~11:20
+11:00~11:20 Tea Break
 
-Tea Break
+11:20~12:00 Introduction to Survey Research Data Archive of Taiwan
 
- 
-
-11:20~12:00
-
-Introduction to Survey Research Data Archive of Taiwan
-
-Dr. Ruoh-Rong Yu
+: Dr. Ruoh-Rong Yu
 Research Fellow and Executive Director
 Center for Survey Research
 Research Center for Humanities and Social Sciences, Academia Sinica,
 TAIWAN
 
-12:00~14:00
-
-Lunch
-
- 
+12:00~14:00 Lunch
 
 Afternoon Session
 
-Session Chair: Dr. Chyi-In Wu. (Research Fellow, Institute of Sociology,
+: Session Chair: Dr. Chyi-In Wu. (Research Fellow, Institute of Sociology,
 Academia Sinica)
 
-14:00~15:00
+14:00~15:00 Services for Survey Data: The GESIS Perspective
 
-Services for Survey Data: The GESIS Perspective
-
-Dr. Christof Wolf
+: Dr. Christof Wolf
 President
 GESIS -- Leibniz Institute for the Social Sciences, GERMANY
 
-15:00~15:20
-
-Closing Remarks
-
- 
+15:00~15:20 Closing Remarks
 
 The registration of the workshop started May 1, 2017. The registration
 fee was NT$200, which included conference printed materials, lunch and
@@ -248,17 +223,12 @@ Besides the guests from GESIS, KOSSDA and SSJDA, participants of the
 meeting included researchers at the Center for Survey Research, and all
 the staff of SRDA. The agenda was as below.
 
-+-----------------------------------+-----------------------------------+
-| Development of Consortium of      | Christof Wolf (GESIS)             |
-| European Social Science Data      |                                   |
-| Archives (CESSDA)                 |                                   |
-+-----------------------------------+-----------------------------------+
-| Connections among SSJDA, KOSSDA   | Ruoh-rong Yu (SRDA)               |
-| and SRDA in Recent Years          |                                   |
-+-----------------------------------+-----------------------------------+
-| Possible Future Collaboration     | All Participants                  |
-| among Data Archives               |                                   |
-+-----------------------------------+-----------------------------------+
+|  |  |
+|---|---|
+| Development of Consortium of European Social Science Data Archives (CESSDA)  | Christof Wolf (GESIS)   |
+| Connections among SSJDA, KOSSDA and SRDA in Recent Years  | Ruoh-rong Yu (SRDA)  |
+| Possible Future Collaboration among Data Archives     |  All Participants |
+&nbsp;
 
 There have been frequent connections among KOSSDA, SSJDA and SRDA in
 recent years. Conferences and/or workshops were hosted in rotation in
@@ -283,4 +253,4 @@ brief conclusions are listed in the following:
 NASSDA members will hold annual workshop or conferences on a rotating
 basis. Further collaboration will be discussed in the near future. 
 
-![](https://raw.githubusercontent.com/talatera/misc/master/attendees2017.jpg)
+{{< figure src="/img/blog/attendees2017.jpg" title="Group photo of the workshop attendees" >}}

@@ -10,8 +10,7 @@ draft = "false"
 Meeting of the General Assembly, Thursday, May 17, 2007, Montréal,
 Québec, Canada
 
-1. Welcome E Boyko, President
------------------------------
+### 1. Welcome E Boyko, President
 
 The meeting was called to order at 12:59 with about 190 persons present.
 
@@ -23,19 +22,16 @@ He explained that in addition to its constitutional functions, the
 annual general meeting provides an overview of what the association
 does, and encouraged newcomers to get involved in its activities.
 
-2. Approval of the minutes of the 2006 Annual General Meeting
--------------------------------------------------------------
+### 2. Approval of the minutes of the 2006 Annual General Meeting
 
 MOVED to approve the minutes of the annual general meeting of May 24,
 2006. Moved: T Trost; seconded, W. Watkins. CARRIED.
 
-3. Business arising from the minutes
-------------------------------------
+### 3. Business arising from the minutes
 
 There being none.
 
-4. Reports of Officers
-----------------------
+### 4. Reports of Officers
 
 President & Vice-president - E Boyko & M Wright
 
@@ -59,8 +55,7 @@ fees are returned to the membership in the form of for example the
 IASSIST Quarterly and the listserv. The budget for the coming year is
 balanced.
 
-5. Reports of Regional Secretaries
-----------------------------------
+### 5. Reports of Regional Secretaries
 
 Asia/Pacific - S Holloway
 
@@ -111,8 +106,7 @@ Statistics, as the new African secretariate, drawing on the help of Y
 Seid. The association is looking forward to increased activity in
 Africa.
 
-6. Reports of Committees
-------------------------
+### 6. Reports of Committees
 
 Education Committee -- W Watkins
 
@@ -177,8 +171,7 @@ provide site use statistics.
 
 E Boyko expressed thanks also to J Weintrop for her work.
 
-7. Reports of Action and Interest Groups
-----------------------------------------
+### 7. Reports of Action and Interest Groups
 
 Technology Advisory Action Group - B Block
 
@@ -189,8 +182,7 @@ their servers, etc.
 
 Thanks to J Green for her work.
 
-8. Conferences
---------------
+### 8. Conferences
 
 2008 Palo Alto, Calif - R Nakao
 
@@ -204,8 +196,7 @@ Committee. Several local volunteers have been recruited.
 M Kleemola and T Alaterä chair the Local Arrangements Commiteee. They
 promise that the sun will be present at all times!
 
-9. Nominations and elections - *C Humphrey*
--------------------------------------------
+### 9. Nominations and elections - *C Humphrey*
 
 Past year had an election, conducted on-line for the second time.
 One-hundred sixty-two ballots were cast, which represented a 60%
@@ -215,13 +206,11 @@ vice-president: B Block.
 Next time, the election should emphasize self-nomination, and clarify
 the scope of responsibilities for each of the positions.
 
-10. New Business - *M Wright*
------------------------------
+### 10. New Business - *M Wright*
 
 Ms Wright thanked Ernie Boyko for his service as president over the past
 years.
 
-11. Motion to adjourn
----------------------
+### 11. Motion to adjourn
 
 CARRIED

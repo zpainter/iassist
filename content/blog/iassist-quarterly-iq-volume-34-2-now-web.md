@@ -3,10 +3,11 @@ nid = "1916"
 uid = "5"
 author = "robin"
 title = "IASSIST Quarterly (IQ) volume 34-2 now on the web"
-tags = [ "Analytical Methods and Software", "Archiving, Preservation, Curation", "Data Archives and Service Providers", "Europe", "Social Science Datasets", "Tools, Apps, Technology",]
+tags = [ "Analytical Methods and Software", "Archiving, Preservation, Curation", "Data Archives and Service Providers", "Europe", "Social Science Datasets", "Tools, Apps, Technology", "IQ",]
 oldpath = "/blog/iassist-quarterly-iq-volume-34-2-now-web"
 date = "2011-05-17 09:02:31 -0700"
 draft = "false"
+banner = "/img/blog/iq-3.png"
 +++
 The new issue of the IASSIST Quarterly is now available on the web. This
 is the volume 34 (number 2, 2010).
@@ -66,9 +67,7 @@ appreciated as the information reaches many more people than the session
 participants and will be readily available on the IASSIST website.
 
 Authors are very welcome to take a look at the description for layout
-and sending papers to the IQ:
-
-<http://iassistdata.org/iq/instructions-authors>
+and sending papers to the IQ: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 
 Authors can also contact me via e-mail: kbr @ sam.sdu.dk. Should you be
 interested in compiling a special issue for the IQ as guest editor or

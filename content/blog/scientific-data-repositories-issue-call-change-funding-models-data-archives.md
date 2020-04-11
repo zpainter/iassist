@@ -7,6 +7,7 @@ tags = [ "Data-related Advocacy", "Data Archives and Service Providers", "United
 oldpath = "/blog/scientific-data-repositories-issue-call-change-funding-models-data-archives"
 date = "2013-09-27 10:22:17 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **For Immediate Release**
 September 16, 2013

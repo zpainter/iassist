@@ -7,6 +7,7 @@ tags = [ "New Jobs", "United States",]
 oldpath = "/blog/social-sciences-librarian"
 date = "2012-09-25 12:41:12 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 **Position**: Social Sciences Librarian
 **Available**: January 1, 2013

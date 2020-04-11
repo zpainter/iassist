@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals", "Reports & Studies", "Archiving, Pre
 oldpath = "/blog/version-4-research-data-curation-bibliography-iq"
 date = "2014-09-02 10:34:02 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 Another reason to write for the IQ: you might get yourself into Charles
 Bailey's prestigious bibliography, at

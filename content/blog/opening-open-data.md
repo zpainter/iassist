@@ -7,6 +7,7 @@ tags = [ "Community of Data Professionals",]
 oldpath = "/blog/opening-open-data"
 date = "2006-11-02 19:13:20 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The conference theme for IASSIST 2007, **Building Global Knowledge
 Communities with Open Data**, is very timely given new interest in

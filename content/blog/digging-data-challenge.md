@@ -7,6 +7,7 @@ tags = [ "News and Announcements",]
 oldpath = "/blog/digging-data-challenge"
 date = "2009-02-02 10:49:06 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Digging into Data Challenge is an international grant competition
 sponsored by four leading research agencies, the Joint Information

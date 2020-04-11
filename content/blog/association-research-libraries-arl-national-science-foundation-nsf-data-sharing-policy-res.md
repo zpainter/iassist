@@ -7,6 +7,7 @@ tags = [ "Data Management and Curation", "Guides", "Policies", "Repositories", "
 oldpath = "/resources/association-research-libraries-arl-national-science-foundation-nsf-data-sharing-policy-res"
 date = "2011-05-04 07:52:03 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The [ARL NSF Resources for Data Management
 Planning](http://www.arl.org/focus-areas/e-research/data-access-management-and-sharing/nsf-data-sharing-policy%20 "ARL NSF Resources for Data Management Planning")

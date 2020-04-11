@@ -7,6 +7,7 @@ tags = [ "Curriculum", "Data Management and Curation", "Education",]
 oldpath = "/resources/data-information-literacy-dil-project-website"
 date = "2014-05-13 08:01:44 -0700"
 draft = "false"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Purdue University Libraries, partnered with the libraries of the
 University of Minnesota, the University of Oregon and Cornell
