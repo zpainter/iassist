@@ -1,0 +1,6 @@
+{{ $slug := .Get 0 }}
+{{ $path := printf "/data/conferences/archive/%s" $slug }}
+{{ $data := (getJSON $path) }}
+<h3> {{ $data.title }} </h3>
+<h4> Host city: {{ $data.city }}</h4>
+<h4> Dates: {{ $data.dateText }}</h4>
