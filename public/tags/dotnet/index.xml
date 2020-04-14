@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dotnet on IASSIST - International Association for Social Science Information Service and Technology </title>
-    <link>https://talatera.github.io/tags/dotnet/</link>
+    <link>https://gracious-poitras-c5d8b0.netlify.com/tags/dotnet/</link>
     <description>Recent content in dotnet on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jul 2011 07:39:58 -0700</lastBuildDate>
     
-	<atom:link href="https://talatera.github.io/tags/dotnet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/tags/dotnet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>US Department of Labor Tools for Application Development</title>
-      <link>https://talatera.github.io/blog/2011/07/18/us-department-labor-tools-application-development/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/07/18/us-department-labor-tools-application-development/</link>
       <pubDate>Mon, 18 Jul 2011 07:39:58 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2011/07/18/us-department-labor-tools-application-development/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/07/18/us-department-labor-tools-application-development/</guid>
       <description>From the US Department of Labor&amp;rsquo;s developer.dol.gov website comes an initial set of datasets and mobile SDKs to support the creation of 3rd party interfaces for Department of Labor data.
 To use the data, you need to go to https://webapps.dol.gov/developer to register and get keys for the data. In the initial offering are  DOL FORM Dataset DOL FAQ Dataset DOL MSPA Dataset  DOL Safety &amp;amp; Health Dataset (Chemical Exposure Health Data)  BLS 2010 Occupation Employment Statistics Dataset  DOL Compliance-OSHA Dataset  DOL Compliance-WHD Dataset  DOL Agency Dataset  Geography Dataset   The Department of Labor has also released SDKs for all of the major mobile platforms:</description>
     </item>

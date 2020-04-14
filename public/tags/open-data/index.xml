@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Data on IASSIST - International Association for Social Science Information Service and Technology </title>
-    <link>https://talatera.github.io/tags/open-data/</link>
+    <link>https://gracious-poitras-c5d8b0.netlify.com/tags/open-data/</link>
     <description>Recent content in Open Data on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Mar 2011 09:18:39 -0700</lastBuildDate>
     
-	<atom:link href="https://talatera.github.io/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Canada&#39;s Open Data Pilot Project</title>
-      <link>https://talatera.github.io/blog/2011/03/17/canadas-open-data-pilot-project/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/03/17/canadas-open-data-pilot-project/</link>
       <pubDate>Thu, 17 Mar 2011 09:18:39 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2011/03/17/canadas-open-data-pilot-project/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/03/17/canadas-open-data-pilot-project/</guid>
       <description>Great News Everyone! The Government of Canada has just debuted a new portal to their data at the Open Data Pilot Project. The pilot has launched with 782 general datasets (e.g. not geospatial) and over 260,000 geospatial datasets. The three agencies contributing the largest number of datasets as of launch are Department of Finance Canada (258), Agriculture and Agri-Food Canada (226), and Statistics Canada (120). The data gathered here is freely available to all users and comes with an apparently very broad user license.</description>
     </item>
     
     <item>
       <title>World Bank Launches New Data Website Rich with Features and Newly Free Data</title>
-      <link>https://talatera.github.io/blog/2010/05/02/world-bank-launches-new-data-website-rich-features-and-newly-free-data/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2010/05/02/world-bank-launches-new-data-website-rich-features-and-newly-free-data/</link>
       <pubDate>Sun, 02 May 2010 16:11:34 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2010/05/02/world-bank-launches-new-data-website-rich-features-and-newly-free-data/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2010/05/02/world-bank-launches-new-data-website-rich-features-and-newly-free-data/</guid>
       <description>The World Bank has just launched a new Data website that is densely packed with newly free data and features for using the data which are appropriate to all levels of users.
 Users may browse by country, topic, indicator or listing in the data catalog. The World Bank says that access is now freely available for over 2000 indicators from 1960-present. In comparison, the most recent version of World Development Indicators, a licensed version of their data sold to academic libraries, contained just over 900 indicators.</description>
     </item>

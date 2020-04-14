@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>visualization on IASSIST - International Association for Social Science Information Service and Technology </title>
-    <link>https://talatera.github.io/tags/visualization/</link>
+    <link>https://gracious-poitras-c5d8b0.netlify.com/tags/visualization/</link>
     <description>Recent content in visualization on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jul 2011 12:43:24 -0700</lastBuildDate>
     
-	<atom:link href="https://talatera.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kenya Open Data</title>
-      <link>https://talatera.github.io/blog/2011/07/21/kenya-open-data/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/07/21/kenya-open-data/</link>
       <pubDate>Thu, 21 Jul 2011 12:43:24 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2011/07/21/kenya-open-data/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/07/21/kenya-open-data/</guid>
       <description>Recently Kenya launched Kenya Open Data, a portal to national and sub-national data by and/or about the nation of Kenya. The site runs on a tool called Socrata boasts a host of really nice features including:
  rss for catalog &amp;amp; new visualizations rss for specific datasets row-by-row links to the source data in visualization screens (link applies to items below was well) widgets for embedding on websites sort/hide columns; aggregation/disaggregation on data views sharing of specific views via social media &amp;amp; email a sign in option for data uploads  The site also contains links to other data platforms such as Google Public Data Explorer.</description>
     </item>

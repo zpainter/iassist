@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DMP Tool on IASSIST - International Association for Social Science Information Service and Technology </title>
-    <link>https://talatera.github.io/tags/dmp-tool/</link>
+    <link>https://gracious-poitras-c5d8b0.netlify.com/tags/dmp-tool/</link>
     <description>Recent content in DMP Tool on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Oct 2015 14:18:03 -0700</lastBuildDate>
     
-	<atom:link href="https://talatera.github.io/tags/dmp-tool/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/tags/dmp-tool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DMP Assistant: bilingual tool for preparing data management plans (DMPs)</title>
-      <link>https://talatera.github.io/blog/2015/10/26/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2015/10/26/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps/</link>
       <pubDate>Mon, 26 Oct 2015 14:18:03 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2015/10/26/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2015/10/26/dmp-assistant-bilingual-tool-preparing-data-management-plans-dmps/</guid>
       <description>DMP Assistant is a bilingual tool for preparing data management plans (DMPs). The tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management.
 DMP Assistant was adapted from the (UK) Digital Curation Centre&amp;rsquo;s DMPOnline tool and is hosted at the University of Alberta. The French user interface was produced with support from the Université de Montréal Library. It is freely available to all researchers in Canada and provides specialized guidance to help researchers utilize the tool to develop their plan.</description>
     </item>

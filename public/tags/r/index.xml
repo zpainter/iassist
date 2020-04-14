@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on IASSIST - International Association for Social Science Information Service and Technology </title>
-    <link>https://talatera.github.io/tags/r/</link>
+    <link>https://gracious-poitras-c5d8b0.netlify.com/tags/r/</link>
     <description>Recent content in R on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 May 2018 06:40:57 -0700</lastBuildDate>
     
-	<atom:link href="https://talatera.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The R Guide to ESDS Large-Scale Government Surveys</title>
-      <link>https://talatera.github.io/blog/2012/06/15/r-guide-esds-large-scale-government-surveys/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2012/06/15/r-guide-esds-large-scale-government-surveys/</link>
       <pubDate>Fri, 15 Jun 2012 03:47:07 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2012/06/15/r-guide-esds-large-scale-government-surveys/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2012/06/15/r-guide-esds-large-scale-government-surveys/</guid>
       <description>ESDS Government has produced a new guide, The R Guide to ESDS Large-Scale Government Surveys. The aim of this guide is to provide an introduction to analysing large scale government surveys with the help of the R statistical software package. The guide focuses on providing step-by-step examples of common operations most users carry out in the course of their research: how to open data sets, do basic data manipulation operations, produce simple descriptive statistics or weighted contingency tables.</description>
     </item>
     
     <item>
       <title>Research Data Management Training online course</title>
-      <link>https://talatera.github.io/blog/2011/10/26/research-data-management-training-online-course/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/10/26/research-data-management-training-online-course/</link>
       <pubDate>Wed, 26 Oct 2011 03:58:29 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2011/10/26/research-data-management-training-online-course/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2011/10/26/research-data-management-training-online-course/</guid>
       <description>The Research Data Management Training, or MANTRA project has produced an open, online training course for PhD and early career researchers to learn best practices in data management.
 In addition to the interactive, online module which covers data management topics such as Organising Your Data, there are downloadable software modules covering data handling skills in SPSS, R, NVivo and ArcGIS.
 The resource was created by EDINA and Data Library, University of Edinburgh, and was funded by the JISC Managing Research Data programme.</description>

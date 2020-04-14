@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ddi on IASSIST - International Association for Social Science Information Service and Technology </title>
-    <link>https://talatera.github.io/tags/ddi/</link>
+    <link>https://gracious-poitras-c5d8b0.netlify.com/tags/ddi/</link>
     <description>Recent content in ddi on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jul 2013 03:08:02 -0700</lastBuildDate>
     
-	<atom:link href="https://talatera.github.io/tags/ddi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/tags/ddi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DDI-XSLT -transform you DDI to XHTML, MARC, PDF</title>
-      <link>https://talatera.github.io/blog/2013/07/04/ddi-xslt-transform-you-ddi-xhtml-marc-pdf/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2013/07/04/ddi-xslt-transform-you-ddi-xhtml-marc-pdf/</link>
       <pubDate>Thu, 04 Jul 2013 03:08:02 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2013/07/04/ddi-xslt-transform-you-ddi-xhtml-marc-pdf/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2013/07/04/ddi-xslt-transform-you-ddi-xhtml-marc-pdf/</guid>
       <description>With DDI-XSLT you can tranform your DDI-lifeccle XML to other formats including:
  DDI 1.2.2 (nesstar) XHTML MARC-XML Datacite metadata PDF codebooks  Demo site for transformations Google code page</description>
     </item>
     
     <item>
       <title>Official Release of the Data Documentation Initiative 3.0 </title>
-      <link>https://talatera.github.io/blog/2008/05/26/official-release-data-documentation-initiative-30/</link>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/blog/2008/05/26/official-release-data-documentation-initiative-30/</link>
       <pubDate>Mon, 26 May 2008 18:43:32 -0700</pubDate>
       
-      <guid>https://talatera.github.io/blog/2008/05/26/official-release-data-documentation-initiative-30/</guid>
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/blog/2008/05/26/official-release-data-documentation-initiative-30/</guid>
       <description>May 21, 2008 &amp;ndash; The Alliance for the Data Documentation Initiative (DDI) is pleased to announce the official release of Version 3.0 of the DDI XML specification for documenting social science data. This long awaited version of the DDI represents a major advance by fully incorporating XML Schemas and moving to a data life cycle approach. We thank all the members of the DDI working groups as well as DDI users who have volunteered their time and efforts over the past years to make this specification a reality.</description>
     </item>
     
