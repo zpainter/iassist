@@ -26,7 +26,7 @@
                     <!-- /.col-md-9 -->
                        <ul>
                          {{.Content}}
-                         {{ range .Pages.ByParam "postdate" }}
+                         {{ range (.Pages.ByParam "title").Reverse }}
                           <li class="alternate"><a href="{{ .Permalink }}" target="_blank">{{ .Title }}</a></li>
                          {{ end }}
                        </ul>
