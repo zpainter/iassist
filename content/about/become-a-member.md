@@ -14,9 +14,10 @@ Memberships are based on a July-to-June year.
 IASSIST welcomes new members and offers an array of benefits:
 
 -   peer to peer support within an international network of data professionals
--	participation in [IASSIST Discussion List](/about/#), the organization's email discussion list
+-	participation in [IASSIST Discussion List]({{< ref "iassist-discussion-list.md">}}), the organization's email discussion list
 - 	reduced registration rates for the Annual Conference
 -   opportunity to contribute to [iBlog](/blog)
+-	priority registration to IASSIST webinars
 -   involvement in a network of professionals with similar interests
 -   opportunity to serve on IASSIST committees and action groups
 -   access to the IASSIST Membership Directory and Intranet
