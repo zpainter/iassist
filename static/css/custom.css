@@ -57,6 +57,16 @@ li.alternate {
 	padding-bottom: .25em;
 }
 
+/* Lets make icons a bit bigger */
+.fa, .fas {
+    font-size: xx-large;
+}
+
+.fa, .fab, .fad, .fal, .far, .fas {
+    line-height: inherit;
+}
+
+/* Styles for an optional link button */
 .linkButton {
 	box-shadow:inset 0px 1px 0px 0px #efdcfb;
 	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
