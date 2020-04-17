@@ -1,0 +1,5 @@
+weight: 6
+name: "Membership"
+icon: "fas fa-users-cog"
+url: "/about/become-a-member/"
+description: "Join or manage your membership."
