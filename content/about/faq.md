@@ -69,15 +69,7 @@ draft = "false"
     membership ends June 30 2010.
 
 ### How do I renew my membership?{#faq6}
->   A general e-mail announcement with a form will be sent out in April
-    for the next membership year. Payment for the upcoming membership
-    year can be made using that form or in conjunction with your
-    conference registration.An e-mail renewal form is also sent in July
-    to those who have not renewed with their conference registration or
-    by separate submission. A second notice is sent out later in the
-    year if we have no record of your renewal. Questions about your
-    membership status should be directed to the
-    [Treasurer](https://www.iassistdata.info/treasurers/).
+>   If you haven't renewed for the next membership year, an e-mail announcement with instructions will be sent out in June, and a reminder in early July when the new membership year begins. Payment for the upcoming membership year can be made online, or in conjunction with your conference registration. A third notice is sent out later in the year if we have no record of your renewal. Questions about your membership status should be directed to the [Treasurer](https://www.iassistdata.info/treasurers/).
 
 ### What currencies can I use to pay my membership fees?{#faq15}
 >   Membership fees paid with your conference registration are in
