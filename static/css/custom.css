@@ -57,8 +57,8 @@ li.alternate {
 	padding-bottom: .25em;
 }
 
-/* Lets make icons a bit bigger */
-.fa, .fas {
+/* Lets make front page icons a bit bigger (all fas) */
+.icon .fas {
     font-size: xx-large;
 }
 
