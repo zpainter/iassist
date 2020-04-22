@@ -8,10 +8,10 @@ date = "2010-11-26 04:52:42 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2007-2008
-United States
-Pam Baxter
-Cornell University
-May 2008
+: United States
+: Pam Baxter
+: Cornell University
+: May 2008
 
 ### National Statistical Agencies
 

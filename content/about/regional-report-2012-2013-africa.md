@@ -7,10 +7,10 @@ oldpath = "/about/regional-report-2012-2013-africa"
 date = "2013-05-22 10:04:56 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2012-2013
-Africa
-Lynn Woolfrey
-DataFirst
+IASSIST Regional Report 2012-2013<br />
+Africa<br />
+Lynn Woolfrey<br />
+DataFirst<br />
 May 2013
 
 » **[Report in PDF format](/file/about/africa_regional_report_2012-2013.pdf).**

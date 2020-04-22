@@ -8,16 +8,14 @@ date = "2010-11-26 05:47:58 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2006-2007
-United States
-Pam Baxter
-Cornell University
-May 2007
+: United States
+: Pam Baxter
+: Cornell University
+: May 2007
 
 [français](#fr)
 
-[]{#en}
-
-### National Statistical Agencies
+### National Statistical Agencies {#en}
 
 Events at the U.S. Census Bureau generated quite a stir, the most
 important one being the resignation of Director Charles Kincannon and
@@ -159,9 +157,9 @@ Historical Geographic Information System](http://www.nhgis.org/)
 
 [English](#en)
 
-[]{#fr}français:
+#### français:
 
-### Les agences nationales de statistique
+### Les agences nationales de statistique {#fr}
 
 Une certaine agitation a fait suite aux événements qui se sont produits
 au *U.S. Census Bureau* (Bureau de recensement des USA). Le plus

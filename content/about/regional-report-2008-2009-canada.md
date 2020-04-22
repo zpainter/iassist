@@ -8,10 +8,10 @@ date = "2010-11-26 06:42:23 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2008-2009
-Canada
-Bo Wandschneider
-University of Guelph
-May 16, 2009
+Canada<br />
+Bo Wandschneider<br />
+University of Guelph<br />
+May 16, 2009<br />
 
 This will be my last regional report for a while. I look forward to
 passing this on to the capable hands of Marilyn Andrews. As stated last

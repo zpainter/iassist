@@ -8,11 +8,11 @@ date = "2011-04-19 08:37:53 -0700"
 draft = "false"
 +++
 Report of the U.S. Regional Secretary
-by
-Ilona Einowski
-UC Data Archive and Technical Assistance
-University of California, Berkeley
-May 1998
+: by
+: Ilona Einowski
+: UC Data Archive and Technical Assistance
+: University of California, Berkeley
+: May 1998
 
 Members were asked to report on their activities beyond the scope of
 IASSIST itself including local, national and international activities.

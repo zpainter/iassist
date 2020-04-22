@@ -10,10 +10,10 @@ draft = "false"
 Report of the U.S. Regional Secretary
 
 by
-Laura Guy
-Data and Program Library Service
-University of Wisconsin, Madison
-May 1996
+: Laura Guy
+: Data and Program Library Service
+: University of Wisconsin, Madison
+: May 1996
 
 The purpose of this report is to share members' activites beyond the
 scope of IASSIST itself, including local, national and international
@@ -231,6 +231,9 @@ activities.
             Association) Joint Chapters Meeting in Lanham, Maryland. Her
             talk focused on the holdings and preservation activities at
             the Center for Electronic Records.
+	
+&nbsp;
+		
 -   Issues (Ethnocentric and Others):
     -   Attempt by Princeton administration to save operating expenses
         by eliminating Data and Statistical Services which had been
@@ -264,6 +267,9 @@ activities.
     -   Decreasing Budgets at all Levels.
     -   Technological changes; Impact of the increased use of the
         Internet for provision of Services.
+
+&nbsp;
+		
 -   Selected Member Web Bookmarks:
     -   [Columbia University, Electronic Data
         Services](http://www.cc.columbia.edu/acis/eds/)
@@ -297,6 +303,9 @@ activities.
         Center.](http://ssdc.ucsd.edu/)
     -   [Yale University, Social Science Data
         Archive](http://statlab.stat.yale.edu/SSDA/ssda.html)
+
+&nbsp;
+
 -   U.S. Data on the Web: *Note: Most Federal agencies now have a WWW or
     Gopher. The list below is limited to those which provide access to
     statistical data.*

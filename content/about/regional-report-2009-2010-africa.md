@@ -9,10 +9,10 @@ draft = "false"
 +++
 IASSIST Report of the African Regional Secretary
 
-By
-Kizito Kasozi
-Director Information Technology
-Uganda Bureau of Statistics
+By<br />
+Kizito Kasozi<br />
+Director Information Technology<br />
+Uganda Bureau of Statistics<br />
 2010
 
 This report is centered on the recent developments in the African
@@ -95,8 +95,7 @@ curation in Africa. The workshop strongly recommended open access to
 national data and collegial networking among the many recommendations.
 
 A similar training workshop on innovative tools and techniques for
-statistical data management is to be held in Rabat, Morocco from June 1
--4 2010 for selected Francophone African countries.
+statistical data management is to be held in Rabat, Morocco from June 1-4 2010 for selected Francophone African countries.
 
 **African Association of Statistical Data Archivists (AASDA)**
 

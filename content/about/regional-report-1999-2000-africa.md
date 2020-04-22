@@ -9,12 +9,12 @@ draft = "false"
 +++
 Report of the African Regional Secretary
 
-By
-Julia Paris
-Senior Research Administrator
-Research Development Unit
-Technikon Witwatersrand
-Johannesburg, South Africa
+By<br />
+Julia Paris<br />
+Senior Research Administrator<br />
+Research Development Unit<br />
+Technikon Witwatersrand<br />
+Johannesburg, South Africa<br />
 2000-05-15
 
 A warm greeting from South Africa. Thank you very much for the
