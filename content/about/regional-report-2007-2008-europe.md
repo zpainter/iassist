@@ -9,12 +9,13 @@ draft = "false"
 +++
 IASSIST Regional Report 2007-2008
 European Region
-Mari Kleemola
-Finnish Social Science Data Archive
+
+Mari Kleemola<br />
+Finnish Social Science Data Archive<br />
 May 22nd, 2008 (ver 0.4)
 
-[Cross European Collaborations](#cross_european_collaborations) |
-[National Reports](#national_reports)
+[Cross European Collaborations](#cross-european-collaborations) |
+[National Reports](#national-reports)
 
 This report begins with some observations on cross-national
 collaborations, after which will be country-by-country reports of
@@ -29,15 +30,11 @@ for Research in Social Sciences) as of January 1, 2008; in Sweden, the
 position as director of the Swedish National Data Services was
 announced; In German, ZA is now part of GESIS.
 
-[]{#cross_european_collaborations}
+## Cross European Collaborations
 
-### Cross European Collaborations
+[CESSDA PPP](#cessda-ppp) | [ESS](#european-social-survey-ess)
 
-[CESSDA PPP](#cessda) | [ESS](#ess)
-
-[]{#cessda}
-
-**CESSDA PPP**
+### CESSDA PPP
 
 The CESSDA PPP, [Preparatory Phase Project for a Major Upgrade of the
 Council of European Social Science Data Archives (CESSDA) Research
@@ -61,9 +58,7 @@ irrespective of the location of either researcher or data within the
 European Research Area (ERA). The research is be led by Professor
 Schürer, Director of the UKDA, who is the Co-ordinator for the project.
 
-[]{#ess}
-
-**European Social Survey (ESS)**
+### European Social Survey (ESS)
 
 The European Social Survey ([ESS](http://www.europeansocialsurvey.org/))
 is an academically-driven social survey designed to chart and explain
@@ -79,16 +74,12 @@ In April 2008, ESS Edunet, a training resource mainly developed for use
 in higher education, launched a new [module on the subject of family,
 gender and work.](http://essedunet.nsd.uib.no/cms/topics/family/)
 
-[]{#national_reports}
-
-### National Reports
+## National Reports
 
 [Finland](#finland) | [Hungary](#hungary) | [The
-Netherlands](#netherlands) | [Sweden](#sweden) | [United Kingdom](#uk)
+Netherlands](#the-netherlands) | [Sweden](#sweden) | [United Kingdom](#united-kingdom)
 
-[]{#finland}
-
-**Finland**
+### Finland
 
 The Finnish universities are going through a major structural
 transformation. The extensive higher education reform is being
@@ -115,9 +106,7 @@ Information Centre for Register Research). FSD is also a partner in the
 CESSDA PPP, and preparations for hosting the IASSIST 2009 conference are
 in full flow.
 
-[]{#hungary}
-
-**Hungary**
+### Hungary
 
 *Zoltán Lux writes:*
 
@@ -167,9 +156,8 @@ Library, the Budapest Capital City Library and the Pest County Library
 is intended with the archive registration and provision facility for
 electronically generated documents.
 
-[]{#netherlands}
 
-**The Netherlands**
+### The Netherlands
 
 *Laurents Sesink writes:*
 
@@ -241,9 +229,7 @@ the most recent Dutch National Survey of Voters, were made available. In
 addition, stock-taking of data was started or continued in the areas of
 psychology, visual culture, language & text, and geodata.
 
-[]{#slovenia}
-
-**Slovenia**
+### Slovenia
 
 *Janez Stebe writes:*
 
@@ -258,9 +244,7 @@ open and we reapplied, now waiting for results. We are applying on
 another call on "National open data road map support study". And we
 are active in a few WP in CESSDA PPP project.
 
-[]{#sweden}
-
-**Sweden**
+### Sweden
 
 *Iris Alfredsson writes:*
 
@@ -277,9 +261,7 @@ national representatives for the above sciences, some of which are
 appointed by the Swedish Research Council, and some by the national
 reference group.
 
-[]{#uk}
-
-**United Kingdom**
+### United Kingdom
 
 *Melanie Wright writes:*
 
@@ -347,8 +329,7 @@ The University of Edinburgh, along with 4 other funded institutions, are
 piloting implementations of a new Data Audit Framework being developed
 in partnership with the Digital Curation Centre to assist institutions
 in providing services for data storage, management and curation to their
-researchers.
-(<http://www.jisc.ac.uk/whatwedo/programmes/digitalrepositories2007/dataauditframework.aspx>)
+researchers. (<http://www.jisc.ac.uk/whatwedo/programmes/digitalrepositories2007/dataauditframework.aspx>)
 
 The Edinburgh University Data Library is celebrating its 25th
 anniversary this year.

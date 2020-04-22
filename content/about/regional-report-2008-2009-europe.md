@@ -9,26 +9,23 @@ draft = "false"
 +++
 IASSIST Regional Report 2008-2009
 European Region
-Mari Kleemola
-Finnish Social Science Data Archive
+
+Mari Kleemola<br />
+Finnish Social Science Data Archive<br />
 June 12, 2009
 
-[Cross European Collaborations](#cross_european_collaborations) |
-[National Reports](#national_reports)
+[Cross European Collaborations](#cross-european-collaborations) |
+[National Reports](#national-reports)
 
 This report begins with some observations on cross-national
 collaborations, after which will be country-by-country reports of
 national/institutional/individual activities.
-
-[]{#cross_european_collaborations}
 
 ### Cross European Collaborations
 
 [CESSDA and CESSDA PPP](#cessda) | [ESS](#ess) | [EDAN](#edan) |
 [Bremen Workshop](#bremen) | [DDI Training at Dagstuhl](#ddi) |
 [Other](#other)
-
-[]{#cessda}
 
 **CESSDA and CESSDA PPP**
 
@@ -52,8 +49,6 @@ statistical purposes. Details of the event, including workshop
 presentations, are available from the [EUROSTAT
 website](http://epp.eurostat.ec.europa.eu/portal/page/portal/research_methodology/worshop_december_2008).
 
-[]{#ess}
-
 **European Social Survey (ESS)**
 
 The European Social Survey ([ESS](http://www.europeansocialsurvey.org/))
@@ -67,7 +62,6 @@ data file for the first three rounds of the ESS was released in October
 2008 and is freely available from the [NSD/ESS
 website](http://ess.nsd.uib.no/index.jsp).
 
-[]{#edan}
 
 **East European Data Archive Network
 ([EDAN](http://www.gesis.org/en/cooperation/data_service/eastern_europe/index.htm))**
@@ -88,8 +82,6 @@ organised. Additionally, onsite visits in the countries were carried out
 to meet with national stakeholders of social science research and
 funding organisations. The collected information will contribute to the
 strategic and operational plan to widen the existing CESSDA ERI.
-
-[]{#bremen}
 
 **Bremen Workshop, April 2009**
 
@@ -116,8 +108,6 @@ of qualitative longitudinal resources. There is also agreement to
 collaborate in seeking funding for subsequent meetings, exchange
 programmes, workshops on setting up an archive, and other activities.
 
-[]{#ddi}
-
 **DDI Training at Schloss Dagstuhl**
 
 DDI 3.0 training, sponsored by German Social Science Infrastructure
@@ -133,8 +123,6 @@ DDI training will be offered again at Dagstuhl in October 2009, and the
 first European DDI User Group meeting (EDDI 09) will take place in
 December in Bonn.
 
-[]{#other}
-
 **Other Networks**
 
 During the last years, several professional networks that engage in
@@ -142,23 +130,16 @@ collaborative projects on issues such as data sharing and metadata, have
 emerged. European projects and networks in this field are, for example;
 the following:
 
--   [Alliance for Permanent
-    Access](http://www.alliancepermanentaccess.eu/)
+-   [Alliance for Permanent Access](http://www.alliancepermanentaccess.eu/)
 -   [DSA, Data Seal of Approval](http://www.datasealofapproval.org/)
--   [INSPIRE, Infrastructure for Spatial Information in
-    Europe](http://inspire.jrc.ec.europa.eu/)
--   [Digital Preservation Europe
-    (DPE)](http://www.digitalpreservationeurope.eu/)
-
-[]{#national_reports}
+-   [INSPIRE, Infrastructure for Spatial Information in Europe](http://inspire.jrc.ec.europa.eu/)
+-   [Digital Preservation Europe (DPE)](http://www.digitalpreservationeurope.eu/)
 
 ### National Reports
 
 [Denmark](#denmark) | [Finland](#finland) | [France](#france) |
 [Norway](#norway) [Slovenia](#slovenia) | [Sweden](#sweden) | [United
-Kingdom](#uk)
-
-[]{#denmark}
+Kingdom](#united-kingdom)
 
 **Denmark**
 
@@ -200,8 +181,6 @@ end is capable of handling other storage types such as relational
 databases or XML querying APIs. The front end and the back end are both
 pluggable through the Eclipse RCP. The development work is carried out
 as a contribution to the DDI Tools Project.
-
-[]{#finland}
 
 **Finland**
 
@@ -245,8 +224,6 @@ Statistics Finland, National Advisory Board on Ethics, and Finnish
 Information Centre for Register Research). FSD is also a partner in the
 CESSDA PPP.
 
-[]{#france}
-
 **France**
 
 (Reported by Benoit Tudoux)
@@ -284,8 +261,6 @@ A second University Platform of Data have been created in Lyon. It is
 designed to help in data processing researchers, and PhD or Master
 students from universities and research units of Lyon.
 
-[]{#norway}
-
 **Norway**
 
 (Reported by Atle Alvheim)
@@ -310,8 +285,6 @@ launched the MacroDataGuide. The service provides overviews, quality
 evaluations, useful links, metadata, descriptions of functionality, etc.
 NSD updates the guide regularly.
 
-[]{#slovenia}
-
 **Slovenia**
 
 (Reported by Janez Stebe)
@@ -322,8 +295,6 @@ registered users 200. Funding for ADP was secured for period 2009-2014
 on a research infrastructure call, and new series of seminars for users
 on data and statistical literacy topics introduced in 2008. ADP is also
 active in CESSDA PPP project.
-
-[]{#sweden}
 
 **Sweden**
 
@@ -369,8 +340,6 @@ its own environment.
 At the end of 2008 it was decided that SMHI, the Swedish Meteorological
 and Hydrological Institute would host a new organisation focused on
 climate and environmental data, SND climate/environment.
-
-[]{#uk}
 
 **United Kingdom**
 
