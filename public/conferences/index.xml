@@ -6,9 +6,19 @@
     <description>Recent content in Conferences on IASSIST - International Association for Social Science Information Service and Technology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gracious-poitras-c5d8b0.netlify.com/conferences/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IASSIST Annual Conference Program Planning Manual</title>
+      <link>https://gracious-poitras-c5d8b0.netlify.com/conferences/program-planning-manual/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gracious-poitras-c5d8b0.netlify.com/conferences/program-planning-manual/</guid>
+      <description>Program Planning Manual The purpose of this Handbook is to assist those who will be responsible for developing the program of future IASSIST Annual Conferences. The information contained within has been put together by several individuals who have had experience running past conferences. While many things necessarily change from year to year, there is a surprising amount of continuity involving the decisions made and the deadlines set. It is hoped this manual can be continued as a living document, dynamically maintained by succeeding generations of conference program planners.</description>
+    </item>
     
     <item>
       <title>Conference Code of Conduct</title>
@@ -26,10 +36,8 @@ To provide all participants – members and other attendees, speakers, exhibitor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gracious-poitras-c5d8b0.netlify.com/conferences/conferences/</guid>
-      <description>Annual IASSIST Conference 46th Annual Conference IASSIST 2020 / 2021 Data By Design Gothenburg, Sweden, April 7–9, 2021 (was to be May 19–22, 2020)
-Host institution: Swedish National Data Service (SND).
- More information  (March 20, 2020)
-It is with heavy hearts that the IASSIST Executive, Local Arrangements, and Program committees announce that IASSIST 2020 will not happen. Given these unsettled times, the health and safety of our community is paramount.</description>
+      <description>Each spring the annual conference provides data professionals a variety of opportunities to participate in discussions about data sharing and management, data access and repository tools, metadata for research data, best practices for preserving data, global resources for information, new technologies professional development and much more.
+The conference consists of workshops focused on the profession, stimulating plenaries, individual presentations, panels, and posters. Networking opportunities with peers from around the world take place in breakout groups, interest group or birds of a feather sessions, and perhaps most importantly, during the breaks.</description>
     </item>
     
     <item>
