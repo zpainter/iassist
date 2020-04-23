@@ -8,11 +8,11 @@ date = "2011-04-19 09:10:50 -0700"
 draft = "false"
 +++
 Report of the U.S. Regional Secretary
-by
-Laura Guy
-Data and Program Library Service
-University of Wisconsin, Madison
-May 1997
+: by
+: Laura Guy
+: Data and Program Library Service
+: University of Wisconsin, Madison
+: May 1997
 
 Please note: this page contains responses received directly from the
 IASSIST 1997 U.S. Members Activity Form! Aren't we an interesting group

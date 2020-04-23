@@ -9,10 +9,10 @@ draft = "false"
 +++
 Report of the African Regional Secretary
 
-By
-Kitzito Kasozi
-Director Information Technology
-Uganda Bureau of Statistics
+By<br />
+Kitzito Kasozi<br />
+Director Information Technology<br />
+Uganda Bureau of Statistics<br />
 2008
 
 I convey warm greetings from Africa. I am humbled for this opportunity
@@ -112,13 +112,14 @@ Also in attendance were representatives from:
 An interim Executive Committee for 2008-2009 was selected. The committee
 members include:
 
-  --------------------- -----------------------------------------------------
-  **President:**        Kizito Kasozi, Uganda Bureau of Statistics
-  **Vice-President:**   Yakob Mudesir, Ethiopian Central Statistical Agency
-  **Secretary:**        Julienne Aitchediji, Niger Institute of Statistics
-  **Treasurer:**        Lolley Kah Jallow, Gambia Bureau of Statistics
-  **Member:**           Martin Mba, Cameroon Institute of Statistics
-  --------------------- -----------------------------------------------------
+|||
+|---|---|
+|  **President:**        |Kizito Kasozi, Uganda Bureau of Statistics|
+|  **Vice-President:**   |Yakob Mudesir, Ethiopian Central Statistical Agency|
+|  **Secretary:**        |Julienne Aitchediji, Niger Institute of Statistics|
+|  **Treasurer:**        |Lolley Kah Jallow, Gambia Bureau of Statistics|
+|  **Member:**           |Martin Mba, Cameroon Institute of Statistics|
+&nbsp;
 
 A roadmap for the interim period was drawn. AASDA is currently in the
 process of building a strong forum through active participation in the

@@ -2,18 +2,18 @@
 nid = "3406"
 uid = "22"
 author = "t.alatera"
-title = "Regional Report 1996-1997 Asia/Pasific"
+title = "Regional Report 1996-1997 Asia/Pacific"
 oldpath = "/about/regional-report-1996-1997-asiapasific"
 date = "2013-05-17 11:01:41 -0700"
 draft = "false"
 +++
-Report of the Australian Regional Secretary
+**Report of the Australian Regional Secretary**
 
 by
-Vance Merrill
-Social Science Data Archives
-Australian National University
-Canberra ACT
+Vance Merrill<br />
+Social Science Data Archives<br />
+Australian National University<br />
+Canberra ACT<br />
 May 1997
 
 During the past year, IASSIST gained an additional Australian member

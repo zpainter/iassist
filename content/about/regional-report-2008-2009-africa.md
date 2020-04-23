@@ -9,10 +9,10 @@ draft = "false"
 +++
 IASSIST Report of the African Regional Secretary
 
-By
-Kitzito Kasozi
-Director Information Technology
-Uganda Bureau of Statistics
+By<br />
+Kitzito Kasozi<br />
+Director Information Technology<br />
+Uganda Bureau of Statistics<br />
 2009
 
 This report is centered on the Africa Association of Statistical Data

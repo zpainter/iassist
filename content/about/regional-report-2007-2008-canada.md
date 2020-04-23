@@ -8,9 +8,9 @@ date = "2011-05-13 08:47:29 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2007-2008
-Canada
-Bo Wandschneider
-University of Guelph
+Canada<br />
+Bo Wandschneider<br />
+University of Guelph<br />
 May 16, 2008
 
 As per usual it is a challenge to try and capture what is happening from
@@ -50,7 +50,7 @@ Ministry of Finance
 then, much has been accomplished: Paula Hurtibise, the project manager
 was hired, co-op students have marked-up over 400 datasets including
 demographic data from Statistics Canada and polling data from Gallup and
-on May 4, 2008 [](http://odesi.ca/) was launched on the highly
+on May 4, 2008 [odesi.ca](http://odesi.ca/) was launched on the highly
 successful [Scholars Portal website](http://scholarsportal.info/).
 
 Key to the success of is the DDI, Best Practices Document (BPD) created

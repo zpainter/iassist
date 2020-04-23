@@ -8,10 +8,10 @@ date = "2011-04-19 06:35:57 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2005-2006
-United States
-Pam Baxter
-Cornell University
-May 2006
+: United States
+: Pam Baxter
+: Cornell University
+: May 2006
 
 ### Transitions, Recognitions, and Professional Activities
 

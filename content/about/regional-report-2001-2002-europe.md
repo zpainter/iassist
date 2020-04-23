@@ -10,8 +10,8 @@ draft = "false"
 IASSIST Regional Report 2001-2002
 European Region
 
-Melanie Wright
-UK Data Archive
+Melanie Wright<br />
+UK Data Archive<br />
 June 2002
 
 Introduction
@@ -42,15 +42,14 @@ has been the increased involvement of members from Eastern Europe,
 largely due to the effectiveness of IASSIST Outreach Committee
 activities. This is a success story that we hope continues.
 
-![](/img/about/image002.gif "Geographic breakdown by sub-region"){width="476"
-height="290"}
+![](/img/about/image002.gif "Geographic breakdown by sub-region")
 
 Cross European Collaborations
 =============================
 
-### [Council of European Social Science Data Archives (CESSDA)]{style="text-transform:uppercase"}
+### Council of European Social Science Data Archives (CESSDA){style="text-transform:uppercase"}
 
-[]{#OLE_LINK2}This year, the annual CESSDA Business Meeting, at which
+This year, the annual CESSDA Business Meeting, at which
 the Directors of the respective European data archives meet to discuss
 inter-working relationships, was held in Ljubljana, Slovenia, in March,
 hosted by the *Arhiv Družboslovnih Podatkov*. The meeting voted to admit
@@ -71,7 +70,7 @@ have a full representative in ICPSR's Council, and UKDA Director Kevin
 Schürer was nominated to represent CESSDA for an initial two-year
 period.
 
-### [The East European Data Archive Network (EDAN)]{style="text-transform:uppercase"}
+### The East European Data Archive Network (EDAN){style="text-transform:uppercase"}
 
 The workshop "Social Science Data Archives in Eastern Europe --
 Results, Potentials and Prospects of the Archival Development"
@@ -105,7 +104,7 @@ the framework of EDAN.
 [From the website
 http://www.gesis.org/en/cooperation/data_service/eastern_europe/index.htm]
 
-### [CDG and MMG]{style="text-transform:uppercase"}
+### CDG and MMG{style="text-transform:uppercase"}
 
 European IASSIST members have been very active in a number of
 cross-European collaborative developments. Notable among these are the
@@ -124,7 +123,7 @@ funding under the EU Fifth Framework programme have been made by
 CESSDA-based consortia, and as of this writing have reached the budget
 negotiation stage: MetaDater and MADIERA.
 
-### [MetaDater]{style="text-transform:uppercase"}
+### MetaDater{style="text-transform:uppercase"}
 
 The MetaDater project, coordinated by ZA, is aimed at integrating needs
 and experiences from all participating archives into a general metadata
@@ -137,7 +136,7 @@ management and production instruments but also structured metadata from
 the start: the application for the data producer should give them the
 facilities to capture metadata in the first place.
 
-### [Madiera]{style="text-transform:uppercase"}
+### Madiera{style="text-transform:uppercase"}
 
 Project MADIERA (Multi-lingual Access to Data in the European Research
 Area) coordinated by NSD and including UKDA, DDA, FSD, Nesstar Ltd.,
@@ -160,7 +159,7 @@ Breaking this vision down into more specific objectives, these are:
 -   the gradual integration of the emerging national infrastructures of
     the candidate countries into the European Research Area.
 
-### [Faster]{style="text-transform:uppercase"}
+### Faster{style="text-transform:uppercase"}
 
 Another Fifth Framework funded project which has come to an end in this
 period is FASTER (Flexible Access to Statistics, Tables, and Electronic
@@ -191,7 +190,7 @@ initiatives for statistical structures and metadata. Overall, the
 reviewers are impressed with the performance and quality of work from
 the project -- it can stand as a model for many projects in this area."
 
-### [Limber]{style="text-transform:uppercase"}
+### Limber{style="text-transform:uppercase"}
 
 (Language Independent Metadata Browsing of European Resources
 <http://www.data-archive.ac.uk/home/limber.asp>). The EU-funded LIMBER
@@ -199,7 +198,7 @@ project came to a successful end in December 2001 after a three-month
 extension, and continuation of the goals of the project has been taken
 up by the MADIERA project (see above).
 
-### [Nessie]{style="text-transform:uppercase"}
+### Nessie{style="text-transform:uppercase"}
 
 The Network of European Social Science Infrastructures (NESSIE) is a
 programme of joint activities of the four existing EU-designated Large
@@ -210,7 +209,7 @@ including regional data, economic databases such as national accounts,
 household panel surveys, time-use data as well as other issues of
 harmonisation and data transfer and management.
 
-### [Mission]{style="text-transform:uppercase"}
+### Mission{style="text-transform:uppercase"}
 
 An EU 5th Framework project, MISSION (Multi-Agent Integration of Shared
 Statistical Information Over the [inter]Net), is developing software
@@ -226,7 +225,7 @@ Health Organisation and include data from Ireland, UK, Netherlands,
 Greece and Finland. Data from other countries in the series may be added
 at a later date.
 
-### [MetaNet]{style="text-transform:uppercase"}
+### MetaNet{style="text-transform:uppercase"}
 
 (<http://www.epros.ed.ac.uk/metanet/>) The EU funded MetaNet group is
 described as 'a network of excellence for harmonising and synthesising
@@ -240,9 +239,9 @@ coordinated by the University of Edinburgh.
 National Reports
 ================
 
-### [Finland]{style="text-transform:uppercase"}
+### Finland{style="text-transform:uppercase"}
 
-[FSD]{.underline}
+__FSD__
 
 Sami Borg writes, "Since 2001 FSD has been responsible for the yearly
 funding of Finnish participation in the Luxembourg Income Study and in
@@ -252,9 +251,9 @@ first time during next fall. At the moment, setting up the national web
 resource portal for social science quantitative methods is the most
 important development project."
 
-### [The Netherlands]{style="text-transform:uppercase"}
+### The Netherlands{style="text-transform:uppercase"}
 
-[NIWI]{.underline}
+__NIWI__
 
 Cor van der Meer and Heiko Tjalsma write "Since last year, NIWI has
 reorganised its structure into discipline-oriented departments. The
@@ -279,25 +278,25 @@ March 2002 Peter van den Besselaar has been head of the Social Science
 department, whilst Peter Doorn is head of the historical department of
 NIWI."
 
-[Scientific Statistical Agency (WSA)]{.underline}
+__Scientific Statistical Agency (WSA)__
 
 Ron Dekker writes "At the Scientific Statistical Agency (WSA) we are
 working on an English website and we have translated documentation of
 the Dutch Socio-Economic Panel into English."
 
-### [Romania]{style="text-transform:uppercase"}
+### Romania{style="text-transform:uppercase"}
 
-[Romanian Social Data Archive (RODA)]{.underline}
+__Romanian Social Data Archive (RODA)__
 
 Adrian Dusa writes: "Last Friday [31 May 2002], we officially
 launched our data archive; after a year or so of work and a couple of
 delays, we finally did it. The English version of the web site is ready
-([http://www.roda.ro/site-en/e1_1.htm]{#OLE_LINK1}), and we're
+(http://www.roda.ro/site-en/e1_1.htm]), and we're
 currently translating all our datasets in English."
 
-### [Russia]{style="text-transform:uppercase"}
+### Russia{style="text-transform:uppercase"}
 
-[Joint Sociological Data Archive]{.underline}
+__Joint Sociological Data Archive__
 
 Larisa Kosova writes, "18 months ago Russian Centre for Public Opinion
 and Market Research (VCIOM) with the Ford Foundation financial support
@@ -317,9 +316,9 @@ is available on the site <http://www.socialpolicy.ru>. We highly
 encourage all interested researchers to try the opened opportunity.
 Welcome to the new archive!"
 
-### [Switzerland]{style="text-transform:uppercase"}
+### Switzerland{style="text-transform:uppercase"}
 
-[SIDOS]{.underline}
+__SIDOS__
 
 Reto Hadorn writes: "From the point of view of SIDOS, I see
 especially the interest of mentioning the European collaborations:
@@ -331,9 +330,9 @@ especially the interest of mentioning the European collaborations:
     informal level of information exchange what the MetaDater project
     will develop in a more formal setting"
 
-### [United Kingdom]{style="text-transform:uppercase"}
+### United Kingdom{style="text-transform:uppercase"}
 
-[UK Data Archive]{.underline}
+__UK Data Archive__
 
 It has been an extraordinarily busy year for the UK Data Archive. In
 July 2001 we welcomed the arrival of long-time IASSISTer Diane Geraci
@@ -349,7 +348,7 @@ Registration service for all UK census materials. February 2002 saw the
 approval of phase two funding for the geo-data browser and geo-crosswalk
 projects, in collaboration with the University of Edinburgh. In March
 2002 the UK Data Archive and the Royal Statistical Society jointly
-published [Preserving and Sharing Statistical Material]{.underline}, an
+published [Preserving and Sharing Statistical Material], an
 important guide for producers of statistical information. In April 2002,
 the UKDA was formally contracted to assist the Medical Research Council
 (MRC) in its investigation of data archiving and dissemination needs for
@@ -378,10 +377,10 @@ Isabella, daughter of Sue Cadogan of UKDA on 6 October 2001; Jildou Anne
 van der Meer, daughter of Cor van der Meer of Steinmetz Archive, on 12
 December 2001; a son to Vigdis Kvalheim of NSD on 26 December 2001; in
 February 2002, Ron Dekker IASSIST vice president had a son, Rutger;
-Tiziano son of Lene Wul formerly of DDA and project Nesstar on 1^st^ May
+Tiziano son of Lene Wul formerly of DDA and project Nesstar on 1st May
 2002; and most recently Fraser, son of Alasdair Crockett of UKDA on
 11^th^ May 2002. The contagion may have spread further, but these are
 the cases of which I am aware ;-).
 
 Melanie Wright
-Colchester, June 2002
+: Colchester, June 2002

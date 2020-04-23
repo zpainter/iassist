@@ -9,11 +9,11 @@ draft = "false"
 +++
 Report of the European Regional Secretary
 
-by
-Bridget Winstanley
-The Data Archive
-University of Essex, UK
-May 1998
+: by
+: Bridget Winstanley
+: The Data Archive
+: University of Essex, UK
+: May 1998
 
 **INTERNATIONAL PROJECTS**
 
@@ -202,7 +202,7 @@ See **International projects** for news of EU funded work at the CES.
 Joan Fairgrieve, who was the Data Librarian for Edinburgh University has
 recently (re)joined CES, and her insights as a data supplier have been
 very beneficial to the projects. Further information can be found at the
-CES home page: [](http://www.ed.ac.uk/~ces)<http://www.ed.ac.uk/~ces>
+CES home page: <http://www.ed.ac.uk/~ces>
 
 **AHDS/The Data Archive**
 
@@ -252,12 +252,11 @@ in making plans for archiving data; and an additional data processing
 officer working half-time.
 
 For more details please contact:
-
-Louise Corti, Manager, QUALIDATA Tel: (+44) 01206 873058
-Department of Sociology Fax: (+44) 01206 873410
-University of Essex email <cortl@essex.ac.uk>
-Colchester CO4 3SQ
-England
+: Louise Corti, Manager, QUALIDATA Tel: (+44) 01206 873058
+: Department of Sociology Fax: (+44) 01206 873410
+: University of Essex email <cortl@essex.ac.uk>
+: Colchester CO4 3SQ
+: England
 
 **MIDAS**
 

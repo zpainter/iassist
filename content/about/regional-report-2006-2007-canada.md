@@ -8,10 +8,10 @@ date = "2011-05-14 06:49:56 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2006-2007
-Canada
-Bo Wandschneider
-University of Guelph
-May 13, 2007
+Canada<br />
+Bo Wandschneider<br />
+University of Guelph<br />
+May 13, 2007<br />
 *Somewhere on the train between Guelph and Montreal*
 
 I am going to keep this years report short and focus on a few
@@ -103,7 +103,7 @@ to advance, guide and validate the development of a strategy and
 consists of representation across Canada from the cultural, scientific
 and government.
 
-**RDC'**s -- The RDC National Coordinating Committee met in London,
+**RDC's** -- The RDC National Coordinating Committee met in London,
 Ontario in April 2007. The proposal mentioned above was one of the
 discussion points. There was also an interesting presentation on open
 source initiatives.

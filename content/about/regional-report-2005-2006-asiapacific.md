@@ -2,17 +2,17 @@
 nid = "3408"
 uid = "22"
 author = "t.alatera"
-title = "Regional Report 2005-2006 Asia/Pasific"
+title = "Regional Report 2005-2006 Asia/Pacific"
 oldpath = "/about/regional-report-2005-2006-asiapasific"
 date = "2013-05-17 11:24:17 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2005-06
-Asia/Pacific
+**IASSIST Regional Report 2005-06
+Asia/Pacific**
 
-Sophie Holloway
+Sophie Holloway<br />
 Australian National University
-May 2006
+May 2006<br />
 
 ### Australia
 

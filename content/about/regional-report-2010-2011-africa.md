@@ -7,10 +7,10 @@ oldpath = "/about/regional-report-2010-2011-africa-0"
 date = "2013-05-16 14:34:12 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2010-2011
-Africa
-Kizito Kasozi
-Uganda Bureau of Statistics
+IASSIST Regional Report 2010-2011<br />
+Africa<br />
+Kizito Kasozi<br />
+Uganda Bureau of Statistics<br />
 May 28, 2011
 
 » **[Report in PDF format](/file/about/africa_regional_report_2010-2011.pdf).**

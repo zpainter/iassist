@@ -8,15 +8,15 @@ date = "2011-04-19 07:58:50 -0700"
 draft = "false"
 +++
 US IASSIST Regional Secretary's Report,
-May 17, 2001
+: May 17, 2001
 
 - [Publications by US IASSISTers](#iassisters)
-- [Other publications](#other)
+- [Other publications](#others)
 - [Individual activities and news](#activities)
 - [Appendix](#news)
 
-[]{#iassisters}Publications (not including the IQ) by US IASSISTers
--------------------------------------------------------------------
+## Publications (not including the IQ) by US IASSISTers {#iassisters}
+
 
 *Encyclopedia of the U.S. Census*, Margo J. Anderson, Editor in Chief
 (Washington, D.C.: CQ Press, 2000). IASSIST (past and present) was well
@@ -114,8 +114,7 @@ authored by IASSISTers. For example:
     Resource Recovery, Analysis," by **Jostein Ryssevik** and **Simon
     Musgrave.**
 
-[]{#others}Other Publications by US Members
--------------------------------------------
+## Other Publications by US Members {#others}
 
 **Adams, Margaret O.** and **Thomas E. Brown**. 2000. "Myths and
 Realities about the 1960 Census," Prologue: Quarterly of the National
@@ -134,8 +133,8 @@ Whole: A Two-Track Approach to Rescuing Social Science Data and
 Metadata. Washington, DC: Council on Library and Information Resources
 (June).
 
-[]{#activities}US Members' Individual Outreach or Related Professional Activities, and Institutional/Organizational News
-------------------------------------------------------------------------------------------------------------------------
+## US Members' Individual Outreach or Related Professional Activities, and Institutional/Organizational News {#activities}
+
 
 **Albert Anderson** retired from the Population Studies Center at the
 University of Michigan in 1996 and continues to work with Public Data
@@ -397,11 +396,9 @@ Respectfully,
 
 Margaret O. Adams, U.S. Regional Secretary
 
-[]{#appendix}Appendix to US IASSIST 2001 Regional Secretary's Report
---------------------------------------------------------------------
+## Appendix to US IASSIST 2001 Regional Secretary's Report {#news}
 
-**October 23, 2000
-Arlington, Va.**
+**October 23, 2000 Arlington, Va.**
 
 ### Informal meeting of IASSIST members at APDU Annual Conference
 

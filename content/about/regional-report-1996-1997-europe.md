@@ -9,13 +9,11 @@ draft = "false"
 +++
 Report of the European Regional Secretary
 
-by
-Bridget Winstanley
-The Data Archive
-University of Essex, UK
+by<br />
+Bridget Winstanley<br />
+The Data Archive<br />
+University of Essex, UK<br />
 May 1997
-
-::: {style="font-size:12px;"}
 
 **Per Nielsen**
 :   The European Region and IASSIST as a whole are the poorer for the
@@ -160,15 +158,15 @@ May 1997
     department of Economics of the Free Univer-sity, Amster-dam. He is
     one of the authors of the aforementioned feasibility study by EIT.
 :   **SWIDOC/Steinmetz Archive**
-    EconData
-    Project Manager Albert Bots
-    Herengracht 410-412
-    1017 BX AMSTERDAM - THE NETHERLANDS
-
-    Tel.: +31 20 6225061
-    Fax: +31 20 6238374
-    E-mail: <A.Bots@swidoc.nl>
-    Internet: <http://www.swidoc.nl>
+:    EconData
+:    Project Manager Albert Bots
+:    Herengracht 410-412
+:    1017 BX AMSTERDAM - THE NETHERLANDS
+:
+:    Tel.: +31 20 6225061
+:    Fax: +31 20 6238374
+:    E-mail: <A.Bots@swidoc.nl>
+:    Internet: <http://www.swidoc.nl>
 
 <!-- -->
 
@@ -232,12 +230,14 @@ May 1997
 :   For more information, see the [ECASS Home
     Page](http://www.irc.essex.ac.uk/ecass/) at:
 :   http://www.irc.essex.ac.uk/ecass
+: 
+: or contact ECASS on
+: (44 (0)1206 873087
+: Fax: 44 (0)1206 872403
+: Email:ecass@essex.ac.uk
 
-or contact ECASS on
+<!-- -->
 
-(44 (0)1206 873087
-Fax: 44 (0)1206 872403
-Email:ecass@essex.ac.uk
 
 **SCORUS Conference, Northern Ireland, 1998** 
 :   Derek Bond is organising the 21st International Conference on
@@ -284,14 +284,13 @@ Email:ecass@essex.ac.uk
     external data providers.
 :   His contact details are:
 :   Simon Brackenbury,
-    Data Librarian,
-    British Library of Political and Economic Science,
-    London School of Economics and Political Science,
-    10 Portugal Street,
-    London.
-    WC2A 2HD.
+:   Data Librarian,
+:   British Library of Political and Economic Science,
+:   London School of Economics and Political Science,
+:   10 Portugal Street,
+:   London.
+:    WC2A 2HD.
 :   Telephone: 0171 955 6130
-    Fax: 0171 405 7686
-    E-mail: <s.brackenbury@lse.ac.uk>
-    Web: <http://www.lse.ac.uk/blpes>
-:::
+:    Fax: 0171 405 7686
+:    E-mail: <s.brackenbury@lse.ac.uk>
+:    Web: <http://www.lse.ac.uk/blpes>

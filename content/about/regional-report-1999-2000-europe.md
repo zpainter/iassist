@@ -9,9 +9,9 @@ draft = "false"
 +++
 Report of the European Regional Secretary
 
-by
-Vigdis Kvalheim
-Norwegian Social Science Data Services (NSD)
+by<br />
+Vigdis Kvalheim<br />
+Norwegian Social Science Data Services (NSD)<br />
 May 2000
 
 This report includes information on some of the activities in the
@@ -26,8 +26,6 @@ Europe, the Finnish Social Science Data Archive (FSD) and the Greek
 National Centre for Social Research (EKKE). Both have been accepted as
 members of the Council of European Social Science Data Archives
 (CESSDA).
-
- 
 
 ### International projects
 
@@ -140,8 +138,6 @@ Group is hoping for funding under the Fifth Framework for the full ERGO
 project. The database is available on Internet:
 <http://www.cordis.lu/ergo/>.
 
-[]{#_Toc394570335}[]{#_Toc395017306}[]{#_Toc395084452}[]{#_Toc402080390}
-
 **Health Behaviour Among School-Aged Children (HBSC)**
 
 NSD reports on HBSC, a project funded by the World Health organisation
@@ -175,9 +171,7 @@ data harmonisation, agent technology, and the availability of standards
 for exchanging metadata and the power of Internet information retrieval,
 tools, to build a modular software suite.
 
-Further details can be found on { HYPERLINK
-<http://www.epros.ed.ac.uk/mission>
-}[www.epros.ed.ac.uk/mission](http://www.epros.ed.ac.uk/mission) Project
+Further details can be found on [www.epros.ed.ac.uk/mission](http://www.epros.ed.ac.uk/mission). Project
 number: IST-1999-10655
 
 IQML (A Software Suite and Extended Mark-Up Language [XML] Standard
@@ -185,8 +179,6 @@ for Intelligent Questionnaires) is a project, which aims to use current
 and emerging information technologies to implement a solution for
 intelligent questionnaires, and to influence international standards for
 metadata interchange and database access standards.
-
- 
 
 ### News from individual countries
 

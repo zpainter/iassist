@@ -9,13 +9,12 @@ draft = "false"
 +++
 Report of the European Regional Secretary
 
-by
-Bridget Winstanley
-The Data Archive
-University of Essex, UK
+by<br />
+Bridget Winstanley<br />
+The Data Archive<br />
+University of Essex, UK<br />
 May 1996
 
-::: {style="font-size:12px;"}
 
 **Introduction**
 :   The year has been a very busy and prosperous one for European data
@@ -31,15 +30,18 @@ May 1996
 <!-- -->
 
 **Country reports**
-:   **Cross-national**
-:   The Danish Data Archive, the Norwegian Social Science Data Service
+
+**Cross-national**
+
+The Danish Data Archive, the Norwegian Social Science Data Service
     and the Data Archive at the University of Essex, UK, have benefitted
     from funding from the Commission of the European Communities under
     the Information Engineering Section of the Telematics Programme to
     develop internet services of value to the European data archives and
     their users. This project will be known as the NESSTAR (Networked
     Social Science Tools and Resources) project.
-:   The CESSDA (Council for European Social Science Data Archives) held
+	
+The CESSDA (Council for European Social Science Data Archives) held
     a successful Expert Seminar at the University of Essex in November.
     As a result of this and earlier meetings great progress has been
     made in the integration of European data archives' catalogues and

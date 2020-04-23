@@ -10,11 +10,11 @@ draft = "false"
 IASSIST Regional Report 2002-2003
 European Region
 
-Melanie Wright
-UK Data Archive
+Melanie Wright<br />
+UK Data Archive<br />
 May 2003
 
-### ***Introduction***
+## Introduction
 
 The past year has been a very busy time for those interested in digital
 resources for the social sciences in Europe. Aside from individual and
@@ -29,7 +29,7 @@ activities. I have only included reports for those
 people/organisations/countries/projects from whom I have received
 information.
 
-### ***European membership***
+## European membership
 
 There are currently 53 IASSIST members from 21 countries "on the
 books" for the European region. The decrease in European membership
@@ -46,12 +46,10 @@ the 2000 and 2001 conferences. The social science data services movement
 is gaining momentum in Eastern Europe, and the activities of IASSIST
 have played a not insignificant role.
 
-![](/img/about/eu03_1.gif "IASSIST European Members 2001"){width="477"
-height="291"}
-![](/img/about/eu03_2.gif "IASSIST European Members 2002"){width="477"
-height="291"}
+![](/img/about/eu03_1.gif "IASSIST European Members 2001")
+![](/img/about/eu03_2.gif "IASSIST European Members 2002")
 
-### ***Cross European Collaborations***
+## Cross European Collaborations
 
 **MADIERA**
 
@@ -151,7 +149,7 @@ data transfer agreements was also productive.
 
 Brigitte Haustein writes:
 
-[First EDAN Training Seminar]{style="text-decoration: underline;"}
+__First EDAN Training Seminar__
 
 In September 2002 the first EDAN training seminar was organized in
 Bucharest. It was supported by the Romania Data Archive (RODA) and GESIS
@@ -193,8 +191,8 @@ simple to complex social science surveys.
 
 Presentations and pictures at: <http://www.roda.ro/en/workshop.htm>
 
-[UNESCO Workshop on Social Science Data Archives in Eastern Europe
-2002]{style="text-decoration: underline;"}
+__UNESCO Workshop on Social Science Data Archives in Eastern Europe
+2002__
 
 The workshop "Social Science Data Archives in Eastern Europe - Results,
 Potentials and Prospects of the Archival Development" supported by
@@ -207,8 +205,7 @@ archiving initiatives in Lithuania, Poland, Bulgaria, Ukraine and
 Yugoslavia. Additionally, representatives from the Swedish, Finish,
 Australian and German Data Archive shared their experience.
 
-[East European Data Archives Mailing List:
-EDAN-News]{style="text-decoration: underline;"}
+__East European Data Archives Mailing List: EDAN-News__
 
 This mailing list is offered to foster the dissemination of news
 concerning data archives and archive initiatives in Eastern Europe and
@@ -223,11 +220,11 @@ event info, etc. The language is English.
 To subscribe to the list, send an email to: <EDAN-News@berlin.iz-soz.de>
 with just "Subscribe" (no quotes) in the subject field.
 
-### ***National Reports***
+## National Reports
 
 **CZECH REPUBLIC**
 
-[SDA]{style="text-decoration: underline;"}
+__SDA__
 
 Jindrich Krejci writes
 
@@ -296,7 +293,7 @@ three weeks.
 
 **DENMARK**
 
-[DDA]{style="text-decoration: underline;"}
+__DDA__
 
 Hans Jørgen Marker writes
 
@@ -313,7 +310,7 @@ It is by no means certain that DDA has seen the end of its troubles yet.
 
 **FINLAND**
 
-[FSD]{style="text-decoration: underline;"}
+__FSD__
 
 Sami Borg writes
 
@@ -348,7 +345,7 @@ moment, the portal is available in Finnish only.
 
 **THE NETHERLANDS**
 
-[NIWI]{style="text-decoration: underline;"}
+__NIWI__
 
 Cor van der Meer and Heiko Tjalsma write:
 
@@ -420,8 +417,8 @@ of people born in the period 1863-1922.
 
 **ROMANIA**
 
-[Romanian Social Data Archive
-(RODA)]{style="text-decoration: underline;"}
+__Romanian Social Data Archive
+(RODA)__
 
 Adrian Dusa writes:
 
@@ -473,8 +470,8 @@ The year 2002 was a very active one:
 
 **SPAIN**
 
-[Centre for Advanced Studies in the Social
-Sciences]{style="text-decoration: underline;"}
+__Centre for Advanced Studies in the Social
+Sciences__
 
 Martha Peach writes
 
@@ -536,7 +533,7 @@ treatment of similar archives of other regime transitions.
 
 **SWEDEN**
 
-[SSD]{style="text-decoration: underline;"}
+__SSD__
 
 Lennart Brantgarde writes
 
@@ -574,7 +571,7 @@ fresh air.
 
 **SWITZERLAND**
 
-[SIDOS]{style="text-decoration: underline;"}
+__SIDOS__
 
 In many ways, the year 2002 was not exceptional for SIDOS. We were busy
 with the distribution of datasets and the acquisition of new surveys,
@@ -603,7 +600,7 @@ landscape.
 
 **UNITED KINGDOM**
 
-[EDINA]{style="text-decoration: underline;"}
+__EDINA__
 
 Robin Rice and Peter Burnhill write:
 
@@ -650,7 +647,7 @@ in the Sixth Framework is being worked out, as is collaboration with
 Internet2, not least in projects to do with authentication,
 authorisation and profiling.
 
-[MIMAS]{style="text-decoration: underline;"}
+__MIMAS__
 
 **New web interface to OECD data**
 
@@ -742,7 +739,7 @@ Development Team at the University of Liverpool. The service is overseen
 by CURL (the Consortium of University Research Libraries) and delivered
 by MIMAS.
 
-[UK Data Archive]{style="text-decoration: underline;"}
+__UK Data Archive__
 
 The most important news from the UKDA in this period is that it was
 engaged in a prolonged bidding process to continue the range of services
@@ -804,4 +801,4 @@ community. Highlights include:
     the Medical Research Council
 
 Melanie Wright
-Colchester, May 2003
+: Colchester, May 2003

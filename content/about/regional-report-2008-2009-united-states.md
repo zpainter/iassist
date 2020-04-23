@@ -8,10 +8,10 @@ date = "2010-11-26 06:06:23 -0700"
 draft = "false"
 +++
 IASSIST Regional Report 2008-2009
-United States
-Pam Baxter
-Cornell University
-May 2009
+: United States
+: Pam Baxter
+: Cornell University
+: May 2009
 
 Inauguration of a new administration brings substantial changes in the
 executive branch. As preparation for the decennial Census intensifies,
@@ -93,8 +93,6 @@ libraries, and preservation of data in persistent archives. For more
 information, see the [August 26, 2008 UNC press
 release](http://uncnews.unc.edu/news/campus-and-community/carolina-attracts-world-renowned-large-scale-data-research-team-dice.html).
 [Submitted by Michele Hayslett]
-
-
 
 
 **ICPSR** launched its new [Online Learning

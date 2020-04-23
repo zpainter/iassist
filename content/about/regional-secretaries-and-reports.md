@@ -18,7 +18,7 @@ Africa
 
 *Reports:*
 
--   2016-2017
+-   [2015-2017](/about/regional-report-2015-2017-africa)
 -   [2013-2014](/about/regional-report-2013-2014-africa)
 -   [2012-2013](/about/regional-report-2012-2013-africa)
 -   [2011-2012](/about/regional-report-2011-2012-africa)
@@ -35,11 +35,11 @@ Asia/Pacific
 
 *Reports:*
 
--   [2007-2008](/about/regional-report-2007-2008-asiapasific)
--   [2006-2007](/iassistdev/about/iassistwork/regional/au07.html)
--   [2005-2006](/about/regional-report-2005-2006-asiapasific)
--   [2003-2004](/about/regional-report-2003-2004-asiapasific)
--   [1996-1997](/about/regional-report-1996-1997-asiapasific)
+-   [2007-2008](/about/regional-report-2007-2008-asiapacific)
+-   [2006-2007](/about/regional-report-2006-2007-asiapacific)
+-   [2005-2006](/about/regional-report-2005-2006-asiapacific)
+-   [2003-2004](/about/regional-report-2003-2004-asiapacific)
+-   [1996-1997](/about/regional-report-1996-1997-asiapacific)
 
 Canada
 ------
@@ -48,8 +48,9 @@ Canada
 
 *Reports:*
 
--   [2018-2019](/about/regional-report-canada-2018-2019)
--   2016-2017
+-   [2018-2019](/about/regional-report-2018-2019-canada)
+-   [2017-2018](/about/regional-report-2017-2018-canada)
+-   [2016-2017](/about/regional-report-2016-2017-canada)
 -   [2015-2016](/about/regional-report-2015-2016-canada)
 -   [2013-2014](/about/regional-report-2013-2014-canada)
 -   [2012-2013](/about/regional-report-2012-2013-canada)
@@ -60,12 +61,12 @@ Canada
 -   [2007-2008](/about/regional-report-2007-2008-canada)
 -   [2006-2007](/about/regional-report-2006-2007-canada)
 -   [2005-2006](/about/regional-report-2005-2006-canada)
--   [2004-2005](/iassistdev/about/iassistwork/regional/ca05.html)
--   [2003-2004](/iassistdev/about/iassistwork/regional/ca04.html)
--   [2000-2001](/iassistdev/about/iassistwork/regional/ca01.html)
--   [1996-1997](/iassistdev/about/iassistwork/regional/ca97.html)
--   [1994-1995](/iassistdev/about/iassistwork/regional/ca95.html)
--   [1992-1993](/iassistdev/about/iassistwork/regional/ca93.html)
+-   [2004-2005](/about/regional-report-2004-2005-canada)
+-   [2003-2004](/about/regional-report-2003-2004-canada)
+-   [2000-2001](/about/regional-report-2000-2001-canada)
+-   [1996-1997](/about/regional-report-1996-1997-canada)
+-   [1994-1995](/about/regional-report-1994-1995-canada)
+-   [1992-1993](/about/regional-report-1992-1993-canada)
 
 Europe
 ------
@@ -79,8 +80,8 @@ Europe
 -   [2009-2010](/about/regional-report-2009-2010-europe)
 -   [2008-2009](/about/regional-report-2008-2009-europe)
 -   [2007-2008](/about/regional-report-2007-2008-europe)
--   [2006-2007](/iassistdev/about/iassistwork/regional/eu07.html)
--   [2005-2006](/iassistdev/about/iassistwork/regional/eu06.html)
+-   [2006-2007](/about/regional-report-2006-2007-europe)
+-   [2005-2006](/about/regional-report-2005-2006-europe)
 -   [2003-2004](/about/regional-report-2003-2004-europe)
 -   [2002-2003](/about/regional-report-2002-2003-europe)
 -   [2001-2002](/about/regional-report-2001-2002-europe)
@@ -96,7 +97,7 @@ United States
 
 *Reports:*
 
--   [2013-2014](/about/regional-report-2013-2014)
+-   [2013-2014](/about/regional-report-2013-2014-united-states)
 -   [2008-2009](/about/regional-report-2008-2009-united-states)
 -   [2007-2008](/about/regional-report-2007-2008-united-states)
 -   [2006-2007](/about/regional-report-2006-2007-united-states)

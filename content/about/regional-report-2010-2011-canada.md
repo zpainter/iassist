@@ -7,10 +7,10 @@ oldpath = "/about/regional-report-2010-2011-canada"
 date = "2011-06-08 12:54:24 -0700"
 draft = "false"
 +++
-IASSIST Regional Report 2010-2011
-Canada
-Marilyn Andrews
-University of Regina
+IASSIST Regional Report 2010-2011<br />
+Canada<br />
+Marilyn Andrews<br />
+University of Regina<br />
 May 2011
 
 » **[Report in PDF format](/file/about/canada_regional_report_2010-2011.pdf).**
