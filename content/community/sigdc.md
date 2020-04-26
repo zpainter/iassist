@@ -2,6 +2,8 @@
 title = "Special Interest Group on Data Citation"
 draft = "false"
 +++
+**This is a description of a former Interest Group**
+
 The **IASSIST Special Interest Group on Data Citation (SIGDC)** was created to promote awareness of data-related research and scholarship through data citation. Citing data supports the discovery and reuse of data, leading to better science through the validation of results. It also recognizes data as an essential part of the scientific record.
 
 **SIGDC co-chairs**: Hailey Mooney &amp; Elizabeth Moss

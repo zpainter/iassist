@@ -2,6 +2,8 @@
 title = "IASSIST Special Interest Group on Data Citation (SIGDC) Charter"
 draft = "false"
 +++
+**This is a description of a former Interest Group**
+
 The Special Interest Group on Data Citation (SIGDC) of the International Association of Social Science Information Services and Technology (IASSIST) was created to promote awareness of data-related research and scholarship through data citation. Citing data supports the discovery and reuse of data, leading to better science through the validation of results. It also recognizes data as an essential part of the scientific record.
 
 The SIGDC acknowledges the variety of audiences and stakeholders for whom data citation is important, including:

@@ -7,6 +7,8 @@ oldpath = "/about/human-subjects-interest-group"
 date = "2010-07-13 13:33:10 -0700"
 draft = "false"
 +++
+**This is a description of a former Interest Group**
+
 ### Interest Group on Human Subjects Review Committees and Privacy and Confidentiality in Research
 
 This group will focus on issues related to conducting research using

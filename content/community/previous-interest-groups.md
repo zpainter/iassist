@@ -52,4 +52,4 @@ We seeked out and take advantage of opportunities for education, outreach and ad
 
 ---
 
-#### See also the **[Interest Group Checklist](https://iassistdata.org/about/all-about-interest-groups).**
+#### See also the [Interest Group Checklist](/about/all-about-interest-groups).
