@@ -7,6 +7,18 @@ author = "PPMAG"
 ## Program Planning Manual
 The purpose of this Handbook is to assist those who will be responsible for developing the program of future IASSIST Annual Conferences. The information contained within has been put together by several individuals who have had experience running past conferences. While many things necessarily change from year to year, there is a surprising amount of continuity involving the decisions made and the deadlines set. It is hoped this manual can be continued as a living document, dynamically maintained by succeeding generations of conference program planners.  The Local Arrangments Committee (or LAC) has a separate set of responsibilities, and will have their own manual.  There will be occasions where information may be cross-referenced between both the Program Planning and Local Arrangements Manuals.
 
+- [Provenance of the Manual]({{< ref "program-planning-manual.md#provenance-of-the-manual" >}})
+- [Purposes of the IASSIST Conference]({{< ref "program-planning-manual.md#purposes-of-the-iassist-conference" >}})
+- [Structure, Content and Responsibility of and for the Manual]({{< ref "program-planning-manual.md#structure-content-and-responsibility-of-and-for-the-manual" >}})
+- [Program Planning Committee Leadership and Structure]({{< ref "program-planning-manual.md#program-planning-committee-leadership-and-structure" >}})
+- [Planning Timeline]({{< ref "program-planning-manual.md#planning-timeline" >}})
+- [Choosing a Conference Title]({{< ref "program-planning-manual.md#choosing-a-conference-title" >}})
+- [Finances Related to Plenary Speakers, Workshop Presenters, Honored Members, etc.]({{< ref "program-planning-manual.md#finances-related-to-plenary-speakers-workshop-presenters-honored-members-etc" >}})
+- [Announcing the Call for Proposals (CFP) Including Papers, Sessions, Posters, Lightning Talks]({{< ref "program-planning-manual.md#announcing-the-call-for-proposals-cfp-including-papers-sessions-posters-lightning-talks" >}})
+- [Conference Schedule Format and Organization of the Program]({{< ref "program-planning-manual.md#conference-schedule-format-and-organization-of-the-program" >}})
+- [Collection and Archiving of Conference Presentations]({{< ref "program-planning-manual.md#collection-and-archiving-of-conference-presentations" >}})
+
+
 ## Provenance of the Manual
 Submitted by jend on Fri, 2015-07-24 08:46
 
@@ -63,18 +75,18 @@ The PC Co-chairs may charge an individual to coordinate different conference com
 It is essential that the PC work along with the Local Arrangements Committee (LAC) to ensure proper venue size for sessions, plenaries, workshops, posters and social events.
 
 - [PC Co-Chair Duties]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}})
-- [Workshop Coordinator Duties]({{< ref "program-planning-manual.md#workshop coordinator duties" >}})
-- [Plenary Session Coordinator Duties]({{< ref "program-planning-manual.md#plenary session coordinator duties" >}})
-- [Submission Review and Sorting Coordinator Duties]({{< ref "program-planning-manual.md#submission review and sorting coordinator duties" >}})
-- [Concurrent Sessions Coordinator Duties]({{< ref "program-planning-manual.md#concurrent sessions coordinator duties" >}})
-- [Birds of a Feather Coordinator Duties]({{< ref "program-planning-manual.md#birds of a feather coordinator duties" >}})
-- [Mentoring Committee Coordinator]({{< ref "program-planning-manual.md#mentoring committee coordinator" >}})
-- [Paper Competition Coordinator Duties]({{< ref "program-planning-manual.md#paper competition coordinator duties" >}})
-- [Pecha Kucha Coordinator Duties]({{< ref "program-planning-manual.md#pecha kucha coordinator duties" >}})
+- [Workshop Coordinator Duties]({{< ref "program-planning-manual.md#workshop-coordinator-duties" >}})
+- [Plenary Session Coordinator Duties]({{< ref "program-planning-manual.md#plenary-session-coordinator-duties" >}})
+- [Submission Review and Sorting Coordinator Duties]({{< ref "program-planning-manual.md#submission-review-and-sorting-coordinator-duties" >}})
+- [Concurrent Sessions Coordinator Duties]({{< ref "program-planning-manual.md#concurrent-sessions-coordinator-duties" >}})
+- [Birds of a Feather Coordinator Duties]({{< ref "program-planning-manual.md#birds-of-a-feather-coordinator-duties" >}})
+- [Mentoring Committee Coordinator]({{< ref "program-planning-manual.md#mentoring-committee-coordinator" >}})
+- [Paper Competition Coordinator Duties]({{< ref "program-planning-manual.md#paper-competition-coordinator-duties" >}})
+- [Lightning Talks Coordinator Duties]({{< ref "program-planning-manual.md#lightning-talks-coordinator-duties" >}})
 
 ### PC Co-Chair Duties
 
-The Conference Program Committee (PC) typically has up to three co-chairs.  The attempt has been made to have the co-chairs be 1 from the US, 1 from Canada, and 1 from Europe, but this isn't required.  The co-chairs responsbility is to come up with the theme and title of the conference, ensure all coordinator roles are filled (workshops, posters, Pecha Kucha, Birds of a Feather, etc.), to regularly have open discussions with the local arrangements committee to ensure that everything is on schedule and inform one another of potential issues.
+The Conference Program Committee (PC) typically has up to three co-chairs.  The attempt has been made to have the co-chairs be 1 from the US, 1 from Canada, and 1 from Europe, but this isn't required.  The co-chairs responsbility is to come up with the theme and title of the conference, ensure all coordinator roles are filled (workshops, posters, lightning  talks, Birds of a Feather, etc.), to regularly have open discussions with the local arrangements committee to ensure that everything is on schedule and inform one another of potential issues.
 
 Refer to the [Timeline section]({{< ref "program-planning-manual.md#planning-timeline" >}}) for a higher level list of all activities and proposed deadlines.
 
@@ -97,7 +109,7 @@ Set up the OpenConf software, following the example of the previous year.  The p
 - Modify all content to reflect this year’s info.
 
 - Build submission form in OpenConf. This requires coordination with LAC/website team because the OpenConf form will have links to the website. Test the form before launching. 
-     
+
 - Add note to OpenConf submission form in large font or all CAPS, IF YOU DON’T GET A CONFIRMATION EMAIL FOR YOUR SUBMISSION, PLEASE CONTACT THE CO-CHAIRS.
 
 #### Meet Regularly with the LAC
@@ -229,7 +241,7 @@ The online submission form should clearly state that people should limit the num
 
 #### Review proposals:
 
- The Program Chairs will contact reviewers and set a timeline for the review of all individual proposals, papers, and session proposals.  Pecha Kucha review, Poster review, and Workshop review are done by others. However, the Reviewers will make comments about placing a proposal into another type of presentation (poster, pecha kucha, Birds of Feather, or possibly a plenary panel or presentation)
+ The Program Chairs will contact reviewers and set a timeline for the review of all individual proposals, papers, and session proposals.  Lightning talks review, Poster review, and Workshop review are done by others. However, the Reviewers will make comments about placing a proposal into another type of presentation (poster, lightning talk, Birds of Feather, or possibly a plenary panel or presentation)
 
 Once the online review system is in place, each reviewer will read and rank proposals (Likert scale is used, may be up to 7 for scording if that granularity is needed), adding comments and additional topics that will help with sorting.  When the review has been completed, the Program Chairs will review the proposals with low rankings and make a preliminary elimination of proposals that do not meet program criteria.
 
@@ -243,7 +255,7 @@ After review has been completed, the PC Co-Chairs will provide the Sorting team 
 
 The Sorting team will put proposals into topic driven sessions and send (1) a spreadsheet of sessions and (2) a list of session titles, number of presenters, and notes to the PC Co-Chairs.  This usually takes 3-4 working weeks.  It is a demanding process and needs to be done by people who can set aside time to fully read all proposals, interact with the team and resolve sorting problems all during this time period.  The team usually has 2-3 Skype sessions a week.
 
-The Sorting team will recommend proposals that are to be moved into Poster, Pecha Kucha, or Birds of Feather slots.
+The Sorting team will recommend proposals that are to be moved into Poster, Lightning Talk, or Birds of Feather slots.
 
 The PC Co-Chairs will place the sessions into the schedule, maintaining pre-defined “tracks” (e.g., Data Management, Technical Development, Public Services etc.) and avoid scheduling somebody for two sessions at once.  The Sorting team may make recommendations about the timing of sessions.
 
@@ -336,9 +348,9 @@ The Mentoring Committee Coordinator has the following duties:
 	
 [Forthcoming]
 	
-### Pecha Kucha Coordinator Duties
+### Lightning Talks Coordinator Duties
 
-The Pecha Kucha Coordinator has the following duties:
+The Lightning Talks Coordinator has the following duties:
 
 - Decide which PK proposals to accept and reject. Criteria used are: appropriateness of the proposed content, fit with conference theme, and length of session (8 is the maximum number of PKs that a one hour session can handle). Most proposals are accepted, but should still be ranked since there are usually 1-2 submissions from other types that are given the option to switch to a PK.
 
@@ -357,7 +369,7 @@ The Pecha Kucha Coordinator has the following duties:
 
 **Assuming that the conference is held at the end of May/early June.**
 
-Regular session, paper, posters and Pecha Kucha submissions - Late Nov/Early Dec.
+Regular session, paper, posters and lightning talk submissions - Late Nov/Early Dec.
 
 Workshop submissions (may be timed with regular submissions) - Late Nov/Early Dec.
 
@@ -385,7 +397,7 @@ Paper Submission (Competitive) - by end of March
 
 #### August
 
-- Co-chairs draft and share for comment Call for Proposals (Papers, Sessions, Posters, Pecha Kuchas). Workshop Coordinator will draft Call for Workshops.
+- Co-chairs draft and share for comment Call for Proposals (Papers, Sessions, Posters, Lightning Talks). Workshop Coordinator will draft Call for Workshops.
 
 - Ensure you are set-up to use the OpenConf set-up.  Contact executive board to arrange payment.
 
@@ -512,7 +524,7 @@ The local arrangements committee (LAC) may use the sponsorship funds they have n
 
 The Admin Committee voted in May 2014 to discontinue previous IASSIST policy that the Workshop Presenters are offered one free conference registration per workshop. Starting from the 2015 conference there will not be any registration compensation for the workshop instructors.
 
-## Announcing the Call for Proposals (CFP) Including Papers, Sessions, Posters, Pecha Kuchas
+## Announcing the Call for Proposals (CFP) Including Papers, Sessions, Posters, Lightning Talks
 
 The [Program Commitee Co-Chairs]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}}) are responsible for the coordinated distribution of the CFP. They will invite members of the larger conference planning committee to claim various lists to which to post.These same list assignments will be used to post notices at various strategic moments, e.g., when the program is posted, when registration opens and when the early bird registration deadline approaches. The Call for Workshops is drafted by the [Workshops Coordinator]({{< ref "program-planning-manual.md#workshop-coordinator-duties" >}}) but may be sent at the same time.
 
