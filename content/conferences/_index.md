@@ -4,11 +4,15 @@ draft = "false"
 +++
 # Annual IASSIST Conference
 
-![IASSIST 2019 logo](/img/conferences/iassist2020logo-theme-1.png "")
+<!-- *** not production ready as is -->
 
-### 46th Annual Conference IASSIST 2020-2021
+<!--
+
+![IASSIST 2020/2021 logo](/img/conferences/iassist2020logo-theme-1-510.png "")
+
+### 46th Annual Conference IASSIST 2020 / 2021
 ## Data By Design
-**Gothenburg, Sweden, April 7–9, 2021 (was to be May 19–22, 2020)**
+**Gothenburg, Sweden, April 7–9, 2021 (was to be May 19–22, 2020)** 
 
 Host institution: Swedish National Data Service (SND).
 
@@ -22,9 +26,9 @@ We are pleased to announce that the conference will take place in Gothenburg, Sw
 
 In the meantime, we encourage participants to take whatever steps are available to you to cancel or change your travel plans if you have not already done so. We'll be in touch with those who have already registered about how we will handle the registration fees.
 
-## Previous Conferences
+# Previous Conferences
 
-![IASSIST 2019 logo](https://iassistdata.org/sites/default/files/inline/iassist2019logo.png "")
+![IASSIST 2019 logo](/img/conferences/iassist2019logo.png "")
 
 
 ### 45th Annual Conference IASSIST 2019
@@ -39,3 +43,4 @@ Host institutions: Australian Data Archive, the University of New South Wales, A
 **Conference archive and additional information about the past conferences will be updated on the website shortly!**
 
 ---
+-->
