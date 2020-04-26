@@ -1,7 +1,7 @@
 {{ if isset .Site.Params "recent_posts" }}
 {{ if .Site.Params.recent_posts.enable }}
 
-<!--** not is use for now **-->
+<!-- No changes in palce for IASSIST theme -->
 
 <section class="bar background-white no-mb">
     <div class="container">
@@ -25,7 +25,7 @@
                         <div class="top">
                             <div class="image" style="overflow:hidden">
                                 {{ if isset .Params "banner" }}
-                                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
+                                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="">
                                 {{ else }}
                                 <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
                                 {{ end }}
