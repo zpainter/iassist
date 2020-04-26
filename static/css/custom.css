@@ -27,7 +27,7 @@ figcaption h4 {
   padding-bottom: 10px; /* or relative em */
 }
 
-/* Very basic breathing room for the table and cells */
+/* Very basic breathing room for tables, table headers and cells */
 table {
 	/*border:1px solid #f2f3ee;*/
 	border-collapse:collapse;
@@ -44,7 +44,7 @@ td {
 	padding:0 1em 0 0;
 }
 
-/*For images that we want wrap the text around */
+/*For images that need to have text wrapped around them */
 figure.wrap {
 	float: left;
 	padding: .5em 1em 0 0;
@@ -64,6 +64,61 @@ li.alternate {
 
 .fa, .fab, .fad, .fal, .far, .fas {
     line-height: inherit;
+}
+
+/* Various accessibility fixes added to Pink theme. */
+
+.btn-template-main {
+  color: #af588e;
+}
+
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active {
+  background: #af588e; /*c27baa*/
+  border-color: #af588e; /*c27baa*/
+}
+
+.box-simple p {
+  color: #767676; /*#999999*/
+}
+
+.panel.sidebar-menu ul.tag-cloud li a {
+  color: #af588e; /*c27baa*/
+}
+
+.box-image-text .content p {
+  color: #767676; /*#999999*/
+}
+
+#footer {
+  background-image: url("/img/banners/footer-background.jpg");	
+  /* This is let as default -- background-color: #555555; */
+  /*height: 500px; /* Must set a specified height? */
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; /* Resizing the background image to cover the entire container */  
+  /* This is let as default --   padding: 50px 0; */
+  color: #cccccc; /*#999999*/
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color: #af588e; /*c27baa*/
+}
+
+a {
+  color: #af588e; /*c27baa*/
+}
+
+.footerLinks a {
+    color: #e1c1d6; /* pale pink to give enough contrast */
+}
+
+div.home-carousel {
+	background-color:#af588e; /* alternative fallback colour for accessibility */
 }
 
 /* Styles for an optional link button */
