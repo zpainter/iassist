@@ -24,7 +24,20 @@ IASSIST welcomes new members and offers an array of benefits:
 
 **To join**, please complete the [online application](https://www.iassistdata.info/application). Credit card transactions will be conducted via PayPal, and may be subject to currency fluctuation. Depending on your country of residence you may or may not need to create a PayPal account. Annual membership fee is $50 (USD).
 
-**If you are a member** and want to manage or renew your membership: You can manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to PayPal. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the the login button.  
+**If you are a member** and want to manage or renew your membership:  Manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to PayPal. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the the login button.  
+
+### Membership administration site (iassistdata.info)
+
+You can join, renew and manage your membership at **[iassistdata.info](iassistdata.info)**.
+
+Your login is the email you used to register your membership.
+
+- **Membership directory** - View the membership directory and edit your profile.
+- **Membership renewals** - Renew your membership by viewing your profile and following the link in the Membership Details section. This is the most convenient way to renew if there isn't a bundled conference registration and renewal payment available.
+- **Administrative documents** - All members can view the Annual Meeting documents and reports. Central location for links to other internal IASSIST business for Committee members; access to some internal documents is mediated by the Secretary.
+- **IASSIST mail list and the list archive** - Manage your subscription status. Information on how to access the mail list archives including your username and password.
+
+Login is not needed for the public website iassistdata.org. 
 
 ### Questions? {#questions}
 
