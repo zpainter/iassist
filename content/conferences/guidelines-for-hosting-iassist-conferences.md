@@ -17,34 +17,34 @@ In the past, the country of location has followed a four-year cycle: USA, Europe
 
 The IASSIST Administrative Committee intends that expressions of interest (EoI) to host the annual IASSIST Conference should be made to the current IASSIST President in time to be considered by the Administrative Meeting approximately two years before the conference for which the application is being made. The detailed bids to host the the conference are accepted by a vote by the Administrative Committee 14-16 months before the conference.
 
-**[See the Guidance on Bids to Host IASSIST Conferences](#) (PDF)**
+**[See the Guidance on Bids to Host IASSIST Conferences](/file/conferences/guidance_on_bids_to_host_iassist-conference_16.pdf) (PDF)**
 
-## A proposal to host should cover each of the following elements:
+### A proposal to host should cover each of the following elements:
 
-### Infrastructure available to support local arrangements for the conference:
+#### Infrastructure available to support local arrangements for the conference:
 
-#### Technical (physical)
+##### Technical (physical)
 
 1. to support various formats of workshops/presentations
 2. to support conference planning/participation by organisation
 3. to support online registration and payments
 
-#### Accommodation
+##### Accommodation
 
 1. Beds
 2. Conference rooms
 
-#### Human resources available
+##### Human resources available
 
 1. Organisational / administrative
 2. Financial
 3. Technical support / conference website maintenance
 
-#### Financial factors
+##### Financial factors
 
 The proposal must include **a preliminary budget summary** with categories for local arrangements (conference site fees, food and events, technical support fees, etc.)
 
-### The proposal might also address issues such as:
+#### The proposal might also address issues such as:
 
 **Likelihood of attendance** and conference programme participation
 
@@ -53,26 +53,26 @@ The proposal must include **a preliminary budget summary** with categories for l
 
 **Financial support** from local, regional or international organisations.
 
-## Factors taken into consideration in evaluating conference proposals
+### Factors taken into consideration in evaluating conference proposals
 
 - The cost of travel and accommodation for delegates, length of travel, attractiveness as a travel destination, exchange rates, etc.
 - The balance of planning budget and estimated fees, need for support by IASSIST (financial and organisational)
 - Likelihood of expansion of membership following a conference
 - Strategic (IASSIST Regional development, relevant local connections, organisational goals) and organisational values
 
-## Conference Manual
+## Conference Manuals
 
 An updated version of the Annual Conference Program Planning Manual is available to assist those who will be responsible for developing the program of future IASSIST Conferences.
 
 The Local Arrangments Committee will have their own manual, but for the time being should consult the older Conference Manual below. There are also occasions where information may be cross-referenced between both the Program Planning and Local Arrangements Manuals.
 
-- <https://iassistdata.org/conferences/planning-manual>Annual Conference Program Planning Manual
+- [Annual Conference Program Planning Manual]({{< ref "program-planning-manual.md" >}})
 
 Note: Conference organisers use and should update IASSIST conference manual on an annual basis.
 
-- IASSIST Conference Manual (pdf)
-- Editable version in Word (docx)
+- [IASSIST Conference Manual (pdf)](/file/conferences/conferencemanual2009rev2014.pdf)
+- [Editable version in Word (docx)](/file/conferences/conferencemanual2009rev2014.docx)
 
 The editable version should be passed along by the previous year's organisers to the current year's organisers.
 
-Conference Planning Handbook includes answers for most common questions, and guidelines or tips that can be adapted to annual conference setting.
+**Conference Planning Handbook includes answers for most common questions, and guidelines or tips that can be adapted to annual conference setting.**
