@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-9" id="blog-post">
+
+                        {{ if .Params.datalink }}
+                          {{ $path := printf "%s" .Params.datalink }}
+                          {{ $data := (getJSON $path) }}
+                          <h3> {{ $data.title }} </h3>
+                          <h4> Host city: {{ $data.city }}</h4>
+                          <h4> Dates: {{ $data.dateText }}</h4>
+                          <h5> Program </h5>
+                          {{ range $s := $data.sessions }}
+                            <div class="conference-session"> {{$s.day }}:{{ $s.title }}: </div>
+                            {{ range $p := $s.presentations }}
+                              <div class="conference-presentation">{{ $p.title }}</div>
+                              {{ range $pr := $p.presenters }}
+                                <div class="conference-presenters">{{ $pr.name }} ({{ $pr.institution }}) </div>
+                              {{ end }}
+                              {{ range $f := $p.files}}
+                                <div class="conference-file"><a href="{{ $f.url }}">{{ $f.name }}</a></div>
+                              {{ end }}
+                              <p/>
+                            {{ end }}
+                          {{ end }}
+                        {{ end }}
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar-conferences.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

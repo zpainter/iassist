@@ -1,0 +1,2647 @@
+{
+    "conferenceYear": "2009",
+    "title": "Mobile Data and the Life Cycle",
+    "city": "Tampere, Finland",
+    "dateText": "May 26-29, 2009",
+    "startDate": "2009-05-26",
+    "endDate": "2009-05-29",
+    "conferenceNum": "35",
+    "conferenceUrl": "http://www.fsd.uta.fi/iassist2009/",
+    "oldPath": "/conference/2009/description/1173",
+    "nid": "1173",
+    "postDate": "2011-01-20 16:17:21 -0700",
+    "sessions": [
+        {
+            "year": "2009",
+            "day": "2009-05-26",
+            "title": "Workshops",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "sessionType": "Workshop",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1174",
+            "nid": "1174",
+            "postDate": "2011-01-20 16:26:51 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Nesstar 4.0",
+                    "abstract": "A new version of Nesstar, Nesstar 4.0, with a lot of exciting new functionality will be released during spring 2009. This version includes, among other things, support for multilingual metadata, improved search functionality, subscription, and the ability to add cell notes and to embed live data into regular web pages. The workshop will introduce this new functionality and demonstrate how to publish data onto the Web, and how end-users can find, browse, visualize and analyse data online. The main focus will be on using Nesstar to:1) Publish survey data and multilingual documentation onto the Web2) Publish aggregate data/cubesDifferent combination of micro- and aggregate data",
+                    "presenters": [
+                        {
+                            "name": "Ornulf Risnes",
+                            "institution": "Norwegian Social Science Data Services"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/2009_ws1_risnes.pdf",
+                            "name": "2009_ws1_risnes.pdf"
+                        }
+                    ],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1340",
+                    "nid": "1340",
+                    "postDate": "2011-02-04 10:03:02 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Assessment and Review of the Quality of Operations for Research Data Repositories",
+                    "abstract": "Data Archiving  Networked Services (DANS) is active in the area of data infrastructure, with two main themes, namely (digital) archiving and making research data available. The field of activity of DANS covers both the social sciences and the humanities. DANS also manages its own data repository of research data. In 2005, the founders of DANS, the Royal Netherlands Academy of Arts and Sciences (KNAW) and the Netherlands Organization for Scientific Research (NWO), gave DANS the formulation of a data seal of approval as one of its assignments. In February 2008, 17 guidelines were presented under the name data seal of approval, nationally at a KNAW symposium and internationally at the first African Digital Curation Conference. In this workshop more about the backgrounds of the Seal will be explained: what it is and what it isn't, which international seals of approval exist, how this seal of approval matches them, what its unique selling point is, what the plans for the future are, and, most important how does the assessment work? After a 45 minutes of introduction we will first look at a use case and after that work on filling in the assessment.",
+                    "presenters": [
+                        {
+                            "name": "Laurents Sesink",
+                            "institution": "Data Archiving  Networked Services, DANS"
+                        },
+                        {
+                            "name": "Maarten Hoogerwerf",
+                            "institution": "Data Archiving  Networked Services, DANS"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1341",
+                    "nid": "1341",
+                    "postDate": "2011-02-04 10:07:53 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Exporting DDI 3.0 from Computer Assisted Interviewing Systems",
+                    "abstract": "Computer Assisted Interviewing systems are rich sources of metadata, but current practice in creating data and documentation from CAI systems does not generally capture this richness, nor does it structure the documentation content optimally for archiving. This session will focus on innovations in data production that permit the export of comprehensive DDI 3.0 documentation that provides not only an enhanced codebook with integrated question text and full labeling but also documentation of the survey instrument itself, including the universe for each question and the instrument flow logic. Data producers and archivists will learn from each other about how to produce output that is most useful. The workshop will cover mapping an instrument to DDI, using a database to store metadata, exporting to DDI, metadata reuse for surveys with multiple waves, and archival ingest of DDI-compliant metadata.",
+                    "presenters": [
+                        {
+                            "name": "Jeremy Iverson",
+                            "institution": "Algenta"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/2009_ws3_iverson.pdf",
+                            "name": "2009_ws3_iverson.pdf"
+                        }
+                    ],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1342",
+                    "nid": "1342",
+                    "postDate": "2011-02-04 10:12:04 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Digital Curation 101 Lite",
+                    "abstract": "To assist researchers in developing and implementing sound data curation practices, the Digital Curation Centre (DCC) has developed the Digital Curation 101 course to provide an introduction to digital curation and the range of activities that should be considered when dealing with digital data. Using the Digital Curation Lifecycle Model as a reference point, this course employs a mix of lectures and practical exercises to equip students with both a theoretical underpinning of core digital curation issues as well as hands-on experience in applying the lessons learned. In this workshop, we will provide a 'lite' version of the DC 101 which normally runs over four days. During the workshop, participants will be introduced to the lifecycle model, provided with an overview of the various roles and responsibilities associated with the lifecycle stages, an idea of tools available, and given tips on key points to be considered at each stage.",
+                    "presenters": [
+                        {
+                            "name": "Joy Davidson",
+                            "institution": "Digital Curation Centre"
+                        },
+                        {
+                            "name": "Sarah Higgins",
+                            "institution": "Digital Curation Centre"
+                        },
+                        {
+                            "name": "Daisy Abbot",
+                            "institution": "Digital Curation Centre"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1343",
+                    "nid": "1343",
+                    "postDate": "2011-02-04 10:18:52 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Moving to DDI 3.0: Translating Current Collections of Structured Metadata",
+                    "abstract": "In anticipation of new tools for creating and exploiting DDI 3.0 content, many current DDI users would like to get started converting their collections to DDI 3.0. This workshop can help you identify the issues involved in upgrading to DDI 3.0 and organizing the process of converting your current collection. We will focus on moving metadata from earlier DDI versions and other common structures such a relational database systems, SAS or SPSS files. Mapping of metadata from DDI 2.1 to DDI 3.0 will be reviewed, identifying elements that require additional decision making before transferring or elements that may be problematic due to local usage. The hands-on portion of the workshop will focus on metadata in DDI 1.0 - 2.1 and statistical file formats. We will walk through the decision points needed for a clean transfer of metadata content, the current tools for transferring from standard formats to DDI 3.0, and the clean up steps needed to take full advantage of the reuse of metadata. Attendees may bring in a sample of earlier DDI metadata to work with or use the samples provided. The presentation will also cover the process of grouping a set of study units and identifying the common metadata that can be \"moved up\" to the group level for inheritance by members of the group.",
+                    "presenters": [
+                        {
+                            "name": "Wendy Thomas",
+                            "institution": "Minnesota Population Center"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1344",
+                    "nid": "1344",
+                    "postDate": "2011-02-04 10:25:15 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Data requirements and Digital Repositories",
+                    "abstract": "This workshop will be based upon the DISC-UK DataShare project's \"Guide to Data Requirements for Digital Repositories\" (in development and to be released at the IASSIST workshop). The guide is intended to be used as a decision making and planning tool for institutions with digital repositories in existence or in development that are considering adding research datasets to their digital collections. It also can help articulate the benefits of sound data management practices as well as the goals of data sharing and long term access. The guide is largely based upon the online OpenDOAR Policy Tool, the OAIS Information model, and the TRAC checklist. It compiles information from and refers to multiple resources and to examples of how some of the requirements have been implemented. The workshop will focus upon each section of the guide covering repository content policies, metadata, file formats, access and reuse of data, submission and administration of data, preservation issues and more. Workshop participants will break up into groups, review a particular section of the guide, choose parameters for a fictional digital repository, and report back on their findings and recommendations. Although the focus is upon social science data, other data types could be considered within the range of requirements covered in the workshop. The workshop will be an opportunity for data librarians and data archivists, repository managers and developers to discuss the implementation of best practices, standards, and strategies as research data make their way into a wide range of digital repositories.",
+                    "presenters": [
+                        {
+                            "name": "Ann Green",
+                            "institution": "Yale University"
+                        },
+                        {
+                            "name": "Robin Rice",
+                            "institution": "University of Edinburgh"
+                        },
+                        {
+                            "name": "Stuart MacDonald",
+                            "institution": "University of Edinburgh"
+                        },
+                        {
+                            "name": "Luis Martinez Uribe",
+                            "institution": "Oxford University, Oxford e-Research Centre"
+                        },
+                        {
+                            "name": "Tanvi Desai",
+                            "institution": "London School of Economics"
+                        },
+                        {
+                            "name": "Jane Roberts",
+                            "institution": "Oxford University, Social Science Data Service)"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/2009_ws6_green_et_al.pdf",
+                            "name": "2009_ws6_green_et_al.pdf"
+                        }
+                    ],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1345",
+                    "nid": "1345",
+                    "postDate": "2011-02-04 10:30:50 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Data Librarians Represent! Integrating Data Services into the Social Science Research Process",
+                    "abstract": "This workshop will present a range of models for incorporating data services into the social science research process and practices for reaching new populations through data services. We will provide a framework for teaching students (and other librarians) how to incorporate data searches into the literature review process and present examples of ways to include data in shorter assignments (e.g., \"fast facts\" or polling statistics). We will discuss approaches for undergraduate and graduate students (including first-year students and non-data populations) as well as approaches for collaborating with teaching faculty and subject librarians. Discussion will incorporate a range of data tools, such as the ICPSR learning modules, table generators and various numeric databases. Using these tools along with hands-on activities and concrete examples, this workshop aims to help participants develop approaches suitable for their own clientele and institutions.",
+                    "presenters": [
+                        {
+                            "name": "Lynda Kellam",
+                            "institution": "University of North Carolina at Greensboro"
+                        },
+                        {
+                            "name": "Katharin Peter",
+                            "institution": "University of Southern California"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/2009_ws7_kellam_peter.pdf",
+                            "name": "2009_ws7_kellam_peter.pdf"
+                        }
+                    ],
+                    "sessNid": "1174",
+                    "oldPath": "/conference/2009/presentation/1346",
+                    "nid": "1346",
+                    "postDate": "2011-02-04 10:34:09 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "Plenary I",
+            "abstract": "",
+            "chair": "Sami Borg",
+            "moderator": "",
+            "sessionType": "Plenary",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1175",
+            "nid": "1175",
+            "postDate": "2011-01-20 16:29:39 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Digital Challenges: Bridging the Gap between Publication and Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Adam Farquhar",
+                            "institution": "The British Library"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/p1_farquhar.pdf",
+                            "name": "p1_farquhar.pdf"
+                        }
+                    ],
+                    "sessNid": "1175",
+                    "oldPath": "/conference/2009/presentation/1338",
+                    "nid": "1338",
+                    "postDate": "2011-02-04 08:59:22 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "A1: Tools and Implementations of DDI 3.0",
+            "abstract": "<p>This session is an overview of new tools developments since the initial set of DDI 3.0 tools was demonstrated at IASSIST 2008. The goal is to show people how DDI 3.0 is being implemented in new tools, to provide ideas for implementation, and contacts for each of the various tools. This panel will provide a brief (5 minute) overview of the entire tools picture (including references to new tools which have their own sessions at IASSIST), and will then provide short (10-15 minute) demos of:</p><ul><li>CentERdata's tool for documenting/disseminating longitudinal online panel surveys (LISS panel)</li><li>The DDI Foundation Tools Editing Suite, an open-source implementation developed by a group of organizations from the DDI community</li><li>Exanda, a tool built by GESIS for tabulating data and making visualizations, with outputs in several formats</li><li>MISSY 2: another GESIS tool for documenting and viewing the German microcensus</li><li>Editing and database tools developed at the IAB.</li></ul><p>&nbsp;</p><p>This panel is very much a follow-up from last years', to show how aggressively DDI 3.0 is being adopted, and to show the various tools and approaches available to those who are looking at DDI 3.0 implementation themselves.</p>",
+            "chair": "Wendy Thomas (Minnesota Population Center)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "2",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1176",
+            "nid": "1176",
+            "postDate": "2011-01-20 16:52:33 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Panelist 1",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Arofan Gregory",
+                            "institution": "Open Data Foundation"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1347",
+                    "nid": "1347",
+                    "postDate": "2011-02-04 10:38:28 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 2: DDI Editing Suite",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Jannik V. Jensen",
+                            "institution": "DDA"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a1_jensen.pdf",
+                            "name": "a1_jensen.pdf"
+                        }
+                    ],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1348",
+                    "nid": "1348",
+                    "postDate": "2011-02-04 10:41:20 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 3: Colectica",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Jeremy Iverson",
+                            "institution": "Algenta"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a1_iverson.pdf",
+                            "name": "a1_iverson.pdf"
+                        }
+                    ],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1349",
+                    "nid": "1349",
+                    "postDate": "2011-02-08 09:13:56 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 4: MISSY2",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Oliver Hopt",
+                            "institution": "GESIS"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1350",
+                    "nid": "1350",
+                    "postDate": "2011-02-08 09:22:26 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 5: Exanda",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Joachim Wackerow",
+                            "institution": "GESIS"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a1_wackerow.pdf",
+                            "name": "a1_wackerow.pdf"
+                        }
+                    ],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1351",
+                    "nid": "1351",
+                    "postDate": "2011-02-08 09:25:00 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 6: IAB FDZ Research Data Center",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Dana Mueller",
+                            "institution": "IAB"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a1_mueller.pdf",
+                            "name": "a1_mueller.pdf"
+                        }
+                    ],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1352",
+                    "nid": "1352",
+                    "postDate": "2011-02-08 09:28:28 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 7: Canadian RDC",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Chuck Humphrey",
+                            "institution": "University of Alberta"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a1_humphrey.pdf",
+                            "name": "a1_humphrey.pdf"
+                        }
+                    ],
+                    "sessNid": "1176",
+                    "oldPath": "/conference/2009/presentation/1353",
+                    "nid": "1353",
+                    "postDate": "2011-02-08 09:30:37 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "CentERdata's LISS System",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Alerk Amin",
+                            "institution": "Tilburg University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1176",
+                    "oldPath": "/conferences/2009/presentation/1398",
+                    "nid": "1398",
+                    "postDate": "2011-02-21 12:06:15 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "A2: Semi-Permeable Boundaries Among Institutions",
+            "abstract": "<p>Data Services have evolved in very different institutions in different places: in some places, data have traditionally been lodged in centralized national data archives, in others they evolved in the libraries, and in others they began their life in local data archives. None of these settings is static - and they are certainly in transition - but each has different strengths and weaknesses. Increasingly, these institutional settings must confront the ways in which they complement, supplement, compete with, and coordinate with one another. In this session, the presenters will discuss both formal and informal initiatives which have attempted to redefine institutional boundaries with respect to kinds of services provided (e.g. statistical consulting, data discovery, file manipulation, preservation), the kinds of data dealt with (e.g. restricted vs. public, aggregate vs. microdata), and the kinds of expertise needed. The results at times blur or remove boundaries, and at times preserve institutional boundaries through formal or informal agreements to divide complementary services or activities. Whether strengthened, weakened, or simply shifted along different lines, the intent in each case is to increase the mobility of data and support services between the most appropriate providers and the data users.</p>",
+            "chair": "Jon Stiles (UC Berkeley, UCDATA Archive)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "3",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1177",
+            "nid": "1177",
+            "postDate": "2011-01-20 17:01:37 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Panelist 1: The Canadian Scene(s)",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Laine Ruus",
+                            "institution": "University of Toronto"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a2_ruus.pdf",
+                            "name": "a2_ruus.pdf"
+                        }
+                    ],
+                    "sessNid": "1177",
+                    "oldPath": "/conference/2009/presentation/1355",
+                    "nid": "1355",
+                    "postDate": "2011-02-09 18:07:02 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 2: Facilitating the Flow of Between Service Settings",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Libbie Stephenson",
+                            "institution": "University of California, Los Angeles"
+                        },
+                        {
+                            "name": "J. Stiles",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a2_stephenson.pdf",
+                            "name": "a2_stephenson.pdf"
+                        }
+                    ],
+                    "sessNid": "1177",
+                    "oldPath": "/conference/2009/presentation/1356",
+                    "nid": "1356",
+                    "postDate": "2011-02-09 18:10:36 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 3: Data Services Cross Training for Librarians",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Harrison Dekker",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a2_dekker.pdf",
+                            "name": "a2_dekker.pdf"
+                        }
+                    ],
+                    "sessNid": "1177",
+                    "oldPath": "/conference/2009/presentation/1357",
+                    "nid": "1357",
+                    "postDate": "2011-02-09 18:14:17 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 4: Non-Public Data and the Census RDC at Berkeley",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Jon Stiles",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a2_stiles.pdf",
+                            "name": "a2_stiles.pdf"
+                        }
+                    ],
+                    "sessNid": "1177",
+                    "oldPath": "/conference/2009/presentation/1358",
+                    "nid": "1358",
+                    "postDate": "2011-02-09 18:18:49 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "A3: Practicing What We Provide: Surveying Users of Surveys",
+            "abstract": "",
+            "chair": "Pam Baxter (Cornell University)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "4",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1178",
+            "nid": "1178",
+            "postDate": "2011-01-20 17:06:28 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "The Data That Did Not Arrive For The Date: Talking The Non-Response Blues",
+                    "abstract": "We have the exact formulas for computing sample errors when  performing surveys with probability sampling. Most social scientists can  recite some practical heuristics to the tune of if you have about 1000  questionnaires your error rate will be close to +/- 3 per cent. The  precision of the actual calculations have vanished from memory, but some  parts of the sampling theory are sufficiently sticky. However, the true  and sad story is that the precision delivered by statisticians is  unnecessary as the plausible error of nonresponse is momentous compared  to the sample error even in surveys considered to have high response  rates. Argumentation to diminish the effect of nonresponse is sought in  methods like comparison with known values for the population and  extrapolation in time for the nonresponse. The focus will be on the  lightweight and insufficiency of the argumentation obtained by these  methods. The presentation will demonstrate nonresponse through  preliminary results from a data collection of companies using mailed out  business survey, repeated phone reminding procedures with note taking,  information obtained from valid registers, and special information  evaluating the presence of the company. I'll be in your survey if you'll  be in mine.",
+                    "presenters": [
+                        {
+                            "name": "Karsten Boye Rasmussen",
+                            "institution": "University of Southern Denmark"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a3_kbr.pdf",
+                            "name": "a3_kbr.pdf"
+                        }
+                    ],
+                    "sessNid": "1178",
+                    "oldPath": "/conference/2009/presentation/1083",
+                    "nid": "1083",
+                    "postDate": "2010-11-26 09:19:57 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Data Services Awareness and Use Survey 2008: Five-year Follow-up at the University of Tennessee",
+                    "abstract": "In fall 2003, the University of Tennessee Libraries conducted a  survey to assess awareness of its data services among faculty and  graduate students in selected departments. The information collected has  been helpful in understanding how data users learn about and use Data  Services, how successful various promotional and outreach methods have  been, and what types of data are of interest, among other things. In  fall 2008, we conducted a similar survey to assess the current state of  needs for and use of secondary data, and whether there has been an  increase in awareness of Data Services following several years of  increased promotion and outreach activities. This session will discuss  the survey process, some of the key results, and how the recent survey  results compare to the 2003 survey.",
+                    "presenters": [
+                        {
+                            "name": "Eleanor Read",
+                            "institution": "University of Tennessee"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a3_read.pdf",
+                            "name": "a3_read.pdf"
+                        }
+                    ],
+                    "sessNid": "1178",
+                    "oldPath": "/2009/data-services-awareness-and-use-survey-2008-five-year-follow-university-tennessee",
+                    "nid": "1084",
+                    "postDate": "2010-11-26 09:27:16 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Taking the Pulse of our Members: Creating a Healthy Data Environment",
+                    "abstract": "Staying in touch with users is an important part of being able to  provide them with the right kind of service. After 12 years in  existence, Canada's Data Liberation Initiative (DLI) has recently  completed a comprehensive survey of contacts-those folk who are  responsible for the day-to-day delivery of data services at their  institutions. With an over 90% response rate there are many lessons to  be learned. Some of the topics covered were a needs-assessment, as well  as satisfaction with the collection, services and local support for  data. A major component was the self-assessed competencies in  data-related tasks. This session will concentrate on some surprising  results regarding these data competencies and the implications for  future training of both the contacts and their audiences.",
+                    "presenters": [
+                        {
+                            "name": "Wendy Watkins",
+                            "institution": "Carleton University"
+                        },
+                        {
+                            "name": "Michel Seguin",
+                            "institution": "Statistics Canada"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a3_watkins.pdf",
+                            "name": "a3_watkins.pdf"
+                        }
+                    ],
+                    "sessNid": "1178",
+                    "oldPath": "/2009/taking-pulse-our-members-creating-healthy-data-environment",
+                    "nid": "1085",
+                    "postDate": "2010-11-26 09:30:53 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "A4: Public Opinion Data: Over Time and Across the Globe",
+            "abstract": "",
+            "chair": "Brigitte Hausstein (GESIS)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "5",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1179",
+            "nid": "1179",
+            "postDate": "2011-01-21 14:54:40 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Question Bank: New and Comparative Research at a Glance",
+                    "abstract": "This paper will demonstrate and discuss how the Danish question bank is  of great value for both the social science research community but also  for the data archives. The question database holds information on every  question from the questionnaires deposited in the archive. The database  is searchable from the Web via a dedicated search interface on two  levels: simple and advanced. The paper will present the new advantages  and possibilities where the most important feature is no doubt the  direct access to compare the question wordings at a glance and the  immediate access to the original questionnaires. All relevant  information regarding a question is presented for the user like e.g.  response categories. Other advantages for the users are e.g.:an additional method for identifying more precisely relevant surveys links to all the surveys using the given question the possibility of making comparative research of the surveys using a given question support in the construction of new questions and questionnaires new research projects as the question wordings themselves reflect the time and circumstances in which they were designedmore open access and insight in the surveys and the data via the question database.",
+                    "presenters": [
+                        {
+                            "name": "Nanna Floor Clausen",
+                            "institution": "Dansk Data Arkiv"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a4_clausen.pdf",
+                            "name": "a4_clausen.pdf"
+                        }
+                    ],
+                    "sessNid": "1179",
+                    "oldPath": "/2009/question-bank-new-and-comparative-research-glance",
+                    "nid": "1086",
+                    "postDate": "2010-11-26 09:42:52 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Sources of Historical International U.S. Data",
+                    "abstract": "As a result of the DataPASS initiative in the U.S., and especially  the partnership that it supported between the custodial electronic  records program of the U.S. National Archives and the Roper Center for  Public Opinion at the University of Connecticut, there is now greater  awareness of and expanded opportunities for using the rich collection of  international public opinion data collected from 1952-1999, by the  United States Information Agency (USIA). The National Archives also  preserves and makes available online the public portion of the  electronic telegrams, 1973-1975, from the U.S. Department of State's  Central Foreign Policy Files. This presentation will focus on the  complementary nature of these two types of data for research on U.S.  foreign relations, and the manner in which the public opinion data and  the electronic telegrams offer unique perspectives on a selection of  mid-1970s topics.",
+                    "presenters": [
+                        {
+                            "name": "Margaret Adams",
+                            "institution": "U.S. National Archives and Records Administration"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a4_adams.pdf",
+                            "name": "a4_adams.pdf"
+                        }
+                    ],
+                    "sessNid": "1179",
+                    "oldPath": "/conference/2009/presentation/1087",
+                    "nid": "1087",
+                    "postDate": "2010-11-26 09:47:21 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Unlocking Public Opinion Poll Data in Canada",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "A. Michelle Edwards",
+                            "institution": "University of Guelph"
+                        },
+                        {
+                            "name": "Jane Fry",
+                            "institution": "Carleton University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1179",
+                    "oldPath": "/conferences/2009/presentation/1399",
+                    "nid": "1399",
+                    "postDate": "2011-02-21 12:09:22 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "The Data Consultant as Archaeologist: Digging for Meaning in World War II Era U.S. Public Opinion Polls",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Dan Edelstein",
+                            "institution": "University of Windsor"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/a4_edelstein_0.pdf",
+                            "name": "a4_edelstein_0.pdf"
+                        }
+                    ],
+                    "sessNid": "1179",
+                    "oldPath": "/conferences/2009/presentation/1540",
+                    "nid": "1540",
+                    "postDate": "2011-02-28 11:05:29 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "B1: Forging Links: Context and Content in Cultural and Educational Data",
+            "abstract": "",
+            "chair": "Bobray Bordelon (Princeton University)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "6",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1180",
+            "nid": "1180",
+            "postDate": "2011-01-21 15:03:07 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Combining Statistics and Documents for a Contextual View of Irish History and Culture",
+                    "abstract": "This paper will discuss quantitative aspects of an ongoing research  project Context and Relationships: Ireland and Irish Studies. For  biographies and other cultural materials, context and relationships are  central to humanities scholarship -- Who were the people and  institutions mentioned? How were they related? What else did they do?  What other materials relate this topic? Where and when did this happen?  What else was going on around that time and place? One important feature  of context is the quantitative statistics gathered for the time and  place. We relate a historical dataset of Irish census data from the 19th  and early 20th century to approximately 1/2 million pages of newly  digitized Irish scholarly materials (publications in history, culture,  architecture, etc) by connections in time and place. The project is a  partnership between the University of California at Berkeley and the  Centre for Digitisation at the Queen's University, Belfast, which is  creating A digital library of core e-resources on Ireland, including  back files of 100 journals on Irish culture and history. Berkeley  funding is from the USA National Endowment for the Humanities and the  Institute of Museum and Library Services",
+                    "presenters": [
+                        {
+                            "name": "Fredric Gey",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b1_gey.pdf",
+                            "name": "b1_gey.pdf"
+                        }
+                    ],
+                    "sessNid": "1180",
+                    "oldPath": "/conference/2009/presentation/1099",
+                    "nid": "1099",
+                    "postDate": "2010-12-20 09:40:09 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "National Digital Library of Finland: How to Enable Access to Digital Cultural Material to Users of Today and to Future Generations",
+                    "abstract": "Ministry of Education has started a project called \"National Digital  Library\" (2008 - 2011), which encompasses digitization of prioritized  cultural heritage material of museums, archives and libraries, and  online accessibility and long term preservation of both digitized and  born-digital cultural material. The aim of this project is to establish  one national access point, through which the most essential cultural  heritage collections are searchable on the item level. The service will  allow access also to databases of immovable heritage and various  services of museums, archives and both research and public libraries. In  addition, the Finnish National Digital Library aims at creating the  lasting mechanisms for long-term preservation of digital cultural  material and scientific information (common architecture and guidelines,  common information system, legal and contractual responsibilities,  processes etc.). National Digital Library of Finland encompasses:     digitisation of cultural heritage collections of museums, libraries, archives, and audiovisual archivesaccess to digital cultural resources, andlong-term preservation of digital cultural heritage.     The aims     to make the most essential Finnish collections both digitised and searchable through a common user interface (in operation 2011)to create sustainable solution for long-term preservation of digital cultural material (finalised plan in 2010)",
+                    "presenters": [
+                        {
+                            "name": "Minna Karvonen",
+                            "institution": "Ministry of Education, Finland"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b1_karvinen.pdf",
+                            "name": "b1_karvinen.pdf"
+                        }
+                    ],
+                    "sessNid": "1180",
+                    "oldPath": "/conference/2009/presentation/1100",
+                    "nid": "1100",
+                    "postDate": "2010-12-20 09:42:59 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Research Data Center at the German Institute for Educational Progress (IQB)",
+                    "abstract": "After decades of abstinence Germany resumed to participate in  international empirical educational large scale assessment studies like  TIMSS, PISA and PIRLS in the 1990s. Because of the political  explosiveness of the topic and lacking experience in data dissemination  in Germany the generated data was regularly not accessible for  researchers outside the national research groups. The recent development  of research data centers (RDC) and the growing interest for educational  research in Germany led 2007 to the foundation of the RDC at the  Institute for Educational Progress in Berlin (German: IQB) to facilitate  the data access to the available German educational assessment data.  The aim of the presentation is to introduce the RDC at IQB. We provide  cross-sectional and longitudinal educational assessment and survey data  on students, schools and classes. Data on individual students include  comprehensive information on actual competencies and personal and family  background. School and class data is linkable to the student data. We  offer different access methods which depend on the degree of data  confidentiality: Anonymous made scientific use files are sent to the  researcher. Confidential data can be analyzed via on-site use or remote  execution. Access is free of charge and not restricted to German  researchers.",
+                    "presenters": [
+                        {
+                            "name": "Michel Knigge",
+                            "institution": "Institute for Educational Progress (IQB)"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b1_knigge.pdf",
+                            "name": "b1_knigge.pdf"
+                        }
+                    ],
+                    "sessNid": "1180",
+                    "oldPath": "/conference/2009/presentation/1101",
+                    "nid": "1101",
+                    "postDate": "2010-12-20 09:45:07 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "B2: Enhancing Data Sharing: Practices, Tools and Constraints",
+            "abstract": "",
+            "chair": "Daniel M. Edelstein (Leddy Library)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "7",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1184",
+            "nid": "1184",
+            "postDate": "2011-01-21 15:29:33 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Making Sense of the Census: One Year On with the Census Aggregate Information Resource Demonstrator (CAIRD)",
+                    "abstract": "As previewed at IASSIST08, the CAIRD project is utilising  developments in structured XML (SDMX and DDI) to create an online  service combining, advertising and providing data and metadata generated  from UK 2001 Census aggregate outputs in open-standards,  machine-readable ways to increase their usability, and facilitate  advances in application development. The primary aim of CAIRD is to  encourage adoption of a similar approach by UK census agencies for the  UK 2011 Census by demonstrating the potentials of this approach. As of  November 2008, CAIRD is beginning to produce some exciting outputs, with  more in the pipeline by IASSIST09! A prototype web service is already  delivering previously impossible search and exploration capabilities  based directly on dataset information content; a major improvement on  browsing traditional census tables. We are pleased to report substantial  interest from, and collaboration with UK census agencies. CAIRD has  strong relevance to the IASSIST09 theme of Mobile Data and the Life  Cycle through demonstration of the benefits that this approach can bring  to data sharing, flexibility and overall usability; prerequisites for a  mobile, Web 2.0 world. It also identifies a need for the approach to be  incorporated and considered prospectively at all stages of the data  life cycle in order to fully realise its benefits.",
+                    "presenters": [
+                        {
+                            "name": "Justin Hayes",
+                            "institution": "MIMAS, University of Manchester"
+                        },
+                        {
+                            "name": "Rob Dymond",
+                            "institution": "MIMAS, University of Manchester"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b2_dymond.pdf",
+                            "name": "b2_dymond.pdf"
+                        }
+                    ],
+                    "sessNid": "1184",
+                    "oldPath": "/conference/2009/presentation/1102",
+                    "nid": "1102",
+                    "postDate": "2010-12-20 09:55:20 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Identifying and Removing Barriers for Sharing Sciencfic Data",
+                    "abstract": "The area of depositing and making research data available is not a  new or uncultivated one. Scientific data archives have been active in  this field since the early sixties. Since a couple of years nearly all  scientific organizations in the Netherlands aim for a policy in which  public funded research will be made accessible as much as possible.  Funders and commissioners of research attach more and more value to the  permanent accessibility of research data financed by them. Governmental  organizations, funders of research, universities, publishers, scientific  data archives and researchers are implementing in different ways the  policy of access to research data. However, sharing of research data is  not a common practice for most scientists. In practice it appears that  the depositing of research data is not imbedded in the scholarly  workflow and 'mental' system of researches, institutions, funders and  policy makers. Therefore it is important to identify which stakeholders  benefit by making research data available. What kind of policies have  they already developed? Which instruments play an important role in  these policies and which restraints do they encounter in practice? In  2008 DANS organized a workshop with different stakeholders where  recommendations have been made to remove obstacles for sharing data.  During this presentation these recommendations will be addressed.",
+                    "presenters": [
+                        {
+                            "name": "Laurents Sesink",
+                            "institution": "Data Archiving & Networked Services, DANS"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b2_sesink.pdf",
+                            "name": "b2_sesink.pdf"
+                        }
+                    ],
+                    "sessNid": "1184",
+                    "oldPath": "/conference/2009/presentation/1103",
+                    "nid": "1103",
+                    "postDate": "2010-12-20 09:58:52 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Access to Governmental Microdata for Research: Recent Developments and New Challenges in Europe",
+                    "abstract": "Official microdata constitute a major source for research in the  social and economic sciences and for public policy evaluation. The paper  provides an overview of similarities and differences in conditions of  access to governmental microdata for researchers in European countries,  placing emphasis on recent changes and trying to identify directions for  future development. Regarding anonymized datasets, focus is on limits  that often remain despite a generalized improvement in availability, and  on unevenness of access conditions across Europe. On confidential data,  the paper examines challenges arising from the recent upsurge in  researchers' data demand, and discusses some possible solutions,  including safe data centres on the premises of statistical institutes,  secure virtual data laboratories accessible through the Internet, and an  enhanced role for data archives at the national and European levels.  These solutions are diverse in terms of easiness, cost-effectiveness,  and extensiveness of access. Dealing with these problems, and  experimenting with innovative solutions, requires an appropriate legal  framework. In this light, the paper draws attention to recent changes in  the law of European countries and examines whether and how they have  opened new possibilities for microdata dissemination. Special emphasis  is placed on the cases of France and the United Kingdom.",
+                    "presenters": [
+                        {
+                            "name": "Paola Tubaro",
+                            "institution": "Reseau Quetelet, France"
+                        },
+                        {
+                            "name": "Roxane Silberman",
+                            "institution": "Reseau Quetelet, France"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b2_tubaro.pdf",
+                            "name": "b2_tubaro.pdf"
+                        }
+                    ],
+                    "sessNid": "1184",
+                    "oldPath": "/conference/2009/presentation/1104",
+                    "nid": "1104",
+                    "postDate": "2010-12-20 10:10:29 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "B3: Life Cycle Considerations for Research, Users and Archives",
+            "abstract": "",
+            "chair": "Amy Pienta (ICPSR)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "8",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1185",
+            "nid": "1185",
+            "postDate": "2011-01-21 15:32:34 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Applying the DCC Curation Lifecycle Model",
+                    "abstract": "The documentary heritage and the scientific record are increasingly  born digital. The UK based Digital Curation Centre supports institutions  who store, manage and preserve such data to help ensure its enhancement  and continuing long-term use. The DCC (Digital Curation Centre)  Curation Lifecycle Model provides a generic graphical high-level  overview of the stages required for successful curation and preservation  of digital material from initial conceptualisation. The model can be  used to plan curation and preservation activities, to ensure  sustainability of digital material, within an organisation or  consortium. It's application can help ensure that all necessary stages  are undertaken, each in the correct sequence. The model is used by the  DCC: as a curation training tool; an internal planning tool to ensure  that information, services and advisory material cover all areas of the  lifecycle; to contextualise standards within the DCC DIFFUSE Standards  Project; and to structure advisory case-study work. Externally it has  been adopted by a number of organisations as the framework for curation  activities and to date has been used to conceptualise processes by the  UK Research Data Service and some JISC initiatives. This paper will  present the DCC Curation Lifecycle Model and highlight some of the  current applications of it.",
+                    "presenters": [
+                        {
+                            "name": "Sarah Higgins",
+                            "institution": "Digital Curation Centre"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b3_higgins.pdf",
+                            "name": "b3_higgins.pdf"
+                        }
+                    ],
+                    "sessNid": "1185",
+                    "oldPath": "/2009/applying-dcc-curation-lifecycle-model",
+                    "nid": "1105",
+                    "postDate": "2010-12-20 10:13:02 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Is Mobility of Data a Special Problem for Qualitative Research Collections?",
+                    "abstract": "This paper builds upon the experience of archiving qualitative data  to look at issues of data mobility. It will look at the interplay of  such mobility with the wider concerns of data acquisition, preservation  and delivery. At different times within the life cycle of data the  potential for data mobility may be strong and beneficial. At other times  it may be seen as problematic or as occupying a place of tension within  the demands of a digital archive. This will be examined through  examples of audio and textual data. The need for archives to promote  data and metadata standards as part of their key objectives will also be  considered. Such activity can be used to promote mobility but it is  arguably important to recognise where it may present problems for an  archive and as such be discouraged. The effect of restricting access or  dealing with confidentiality will therefore be considered. Particular  reference will be made to the role of users of data and there will be a  consideration of user demands and expectations. The argument that such  expectations are new and novel and that they have developed alongside  digital media - in ignorance of traditional archival values - will be  examined.",
+                    "presenters": [
+                        {
+                            "name": "John Southall",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b3_southall.pdf",
+                            "name": "b3_southall.pdf"
+                        }
+                    ],
+                    "sessNid": "1185",
+                    "oldPath": "/2009/mobility-data-special-problem-qualitative-research-collections",
+                    "nid": "1106",
+                    "postDate": "2010-12-20 10:14:53 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "From Life Cycle to Continuum: Assuring Research Use of Records and Archives",
+                    "abstract": "Life cycle thinking has spread to every field in society; products,  services and healthcare have life cycle. In the digital working  environment the life cycle of data, information, documents, records and  archives have to carefully design in advance. To be able to use them as  long as needed in operational tasks and later on in research needs  holistic multidisciplinary approaches. In the meaning \"from the cradle  to grave\" the life cycle concept misrepresents the case. Records as  evidences of social realities and building blocks of social memory are  preserved long time or permanently. This means continuous attending of  accessibility, usability and availability of digital records and  archives. Specialised scholarly and professional knowledge is needed in  appraising, managing, selection and preservation of digital records and  archives - all this even before \"the cradle stage\", and with future  visions reaching over hundred years. Standardised recordkeeping in  organisational context supports current and future research with  creating researcher satisfied metadata. Question is not about a linear  and ending life cycle but a continuum, a kind of \"information processing  rhythm\", which assures that information can not die.",
+                    "presenters": [
+                        {
+                            "name": "Marjo Rita Valtonen",
+                            "institution": "University of Tampere, Department of Information Studies"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b3_valtonen.pdf",
+                            "name": "b3_valtonen.pdf"
+                        }
+                    ],
+                    "sessNid": "1185",
+                    "oldPath": "/2009/life-cycle-continuum-assuring-research-use-records-and-archives",
+                    "nid": "1107",
+                    "postDate": "2010-12-20 10:17:12 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "B4: Crossing Traditional Boundaries: Mobile Data-Based Resources",
+            "abstract": "",
+            "chair": "Ron Nakao (Stanford University)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "9",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1187",
+            "nid": "1187",
+            "postDate": "2011-01-21 15:33:36 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Networking Outside the Networks",
+                    "abstract": "Due to the recent unfortunate events, for example, the ability to  monitor and control the messages and data transferred in the Internet  has gained attention. However, there also exist methods for networking  beyond any control. Smart, hand-held mobile devices with support for  communication technologies such as the WLAN allow spontaneous, ad-hoc  networks being created (and discontinued) without notice. Such networks  may remain completely invisible and hence allow the delivery of illegal  or inappropriate contents with very low risk of being detected. And even  if the network traffic can be detected, it is virtually impossible to  point out the originator of the data from a large crowd, for example, if  he manages to shut down the equipment fast enough. The author has  participated in research on short-range wireless mobile networks, where  the concept Mobile Encounter Network has emerged. Based on this concept,  the so-called ''Dark Side'' of mobile networking has been predicted. It  is suggested that much more research effort, both in computer science  and in human sciences, should be directed to this area. Getting mobile  can integrate, but it may also disintegrate. We must know what we can't  let loose, before it is too late.",
+                    "presenters": [
+                        {
+                            "name": "Vesa Korhonen",
+                            "institution": "University of Jyvaskyla, Finland"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b4_korhonen.pdf",
+                            "name": "b4_korhonen.pdf"
+                        }
+                    ],
+                    "sessNid": "1187",
+                    "oldPath": "/2009/networking-outside-networks",
+                    "nid": "1108",
+                    "postDate": "2010-12-20 10:42:56 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Mobile Today: Records Management Issues",
+                    "abstract": "Mobile information and communication technology challenges the theory  and practice of organization science, business processes, information  systems, and especially records management. Electronic records cannot be  managed without changes in the methods developed for traditional  records mainly in paper form. Electronic records can be found in every  area of government and business activities. These records are part of  mobile business processes more and more often. With the growing number  of people using mobile tools new kind of problems are also encountered.  It has been estimated, that about 12 percent of organizational knowledge  is in structured knowledge base and the majority lies scattered about  organizations in the form of paper and electronic documents. Since  mobile workers have less control over the working environment, records  may not be captured into records management systems and neither into the  organizational memory. There is no regulation for producing, editing  and storing records in the mobile working environment. Another important  topic is the idea of accessed: what problems do mobile professionals  have accessing information sources of their organizations? Using mobile  devices and electronic records, we also need to be convinced of the  integrity of data.",
+                    "presenters": [
+                        {
+                            "name": "Sari Makinen",
+                            "institution": "University of Tampere, Department of Information Studies"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b4_makinen.pdf",
+                            "name": "b4_makinen.pdf"
+                        }
+                    ],
+                    "sessNid": "1187",
+                    "oldPath": "/2009/mobile-today-records-management-issues",
+                    "nid": "1109",
+                    "postDate": "2010-12-20 10:46:09 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Doing Data on YouTube: Outreach and Education Using Web 2.0",
+                    "abstract": "In the YouTube era, data centers need new outreach mechanisms to  raise awareness of their services and instruct their clientele in the  use of data resources. At Rutgers University Libraries, the Data  Librarian is creating a series of video tutorials, titled \"Data  Snapshots\", on major data resources for posting on YouTube, blogs, and  university web sites. These are integrated into research guides and the  newly created RutgersData blog (rutgersdata.wordpress.com), which is a  news resource for the Rutgers data community. Issues in scripting,  capturing, editing and manipulating the videos using various software  will be discussed. The expansion of a virtual presence for data services  through chat consultations and design of the blog is driven by the  dispersed environment at Rutgers University, where only one dedicated  data librarian serves a student population of 50,000 spread across  multiple campuses. Feedback from users is also being gathered to improve  design of services and guide future efforts.",
+                    "presenters": [
+                        {
+                            "name": "Ryan Womack",
+                            "institution": "Rutgers University Libraries"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b4_womack.pdf",
+                            "name": "b4_womack.pdf"
+                        }
+                    ],
+                    "sessNid": "1187",
+                    "oldPath": "/2009/doing-data-youtube-outreach-and-education-using-web-20",
+                    "nid": "1110",
+                    "postDate": "2010-12-20 10:48:07 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "C1: Developing Best Practices for the DDI",
+            "abstract": "<p>In November 2008, a group of 25 members of the DDI community gathered in\n Germany for a week-long working meeting to draft an initial set of Best\n Practice documents addressing technical and business matters related to\n the application and implementation of Data Documentation Initiative \n(DDI) metadata. This panel will discuss the benefits of creating best \npractices; how the specific best practice topics were chosen and \nprioritized; how the workgroup collaborated to produce the best \npractices; and further developments with DDI best practices since \nNovember.</p>",
+            "chair": "Stefan Kramer (Yale University)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "10",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1195",
+            "nid": "1195",
+            "postDate": "2011-01-21 16:57:39 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Panelist 1:The Business Best Practices",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Michelle Edwards",
+                            "institution": "University of Guelph"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c1_edwards.pdf",
+                            "name": "c1_edwards.pdf"
+                        }
+                    ],
+                    "sessNid": "1195",
+                    "oldPath": "/conference/2009/presentation/1359",
+                    "nid": "1359",
+                    "postDate": "2011-02-09 19:17:58 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 2: Why Best Practices?",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Arofan Gregory",
+                            "institution": "Open Data Foundation"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1195",
+                    "oldPath": "/conference/2009/presentation/1366",
+                    "nid": "1366",
+                    "postDate": "2011-02-11 17:43:32 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 3: Technical Best Practices",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Jeremy Iverson",
+                            "institution": "Algenta Technologies"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1195",
+                    "oldPath": "/conference/2009/presentation/1367",
+                    "nid": "1367",
+                    "postDate": "2011-02-11 17:48:06 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelist 4: Future Plans",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Mary Vardigan",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1195",
+                    "oldPath": "/conference/2009/presentation/1368",
+                    "nid": "1368",
+                    "postDate": "2011-02-11 17:49:32 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Introduction: Why Best Practices?",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Arofan Gregory",
+                            "institution": "Open Data Foundation"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1195",
+                    "oldPath": "/conferences/2009/presentation/1400",
+                    "nid": "1400",
+                    "postDate": "2011-02-21 12:20:01 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "DDI Best Practices: Technical Best Practices",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Jeremy Iverson",
+                            "institution": "Algenta Technologies"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c1_iverson.pdf",
+                            "name": "c1_iverson.pdf"
+                        }
+                    ],
+                    "sessNid": "1195",
+                    "oldPath": "/conferences/2009/presentation/1402",
+                    "nid": "1402",
+                    "postDate": "2011-02-21 12:34:55 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "DDI Best Practices: Future Plans",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Mary Vardigan",
+                            "institution": "ICPSR/ DDI Alliance"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1195",
+                    "oldPath": "/conferences/2009/presentation/1403",
+                    "nid": "1403",
+                    "postDate": "2011-02-21 13:00:03 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "C2: Sharing Data: High Rewards, Formidable Barriers",
+            "abstract": "",
+            "chair": "Jon Stiles (UC Berkeley, UCDATA Archive)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "11",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1196",
+            "nid": "1196",
+            "postDate": "2011-01-21 16:59:06 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Swedish National Data Service's Strategy for Sharing and Mediating Data",
+                    "abstract": "The main purposes for SND are to mediate information on data bases  and other digital material collections for research, to facilitate  access to research databases and to serve as a knowledge node for  documenting and managing research data and adherent methodologies in  several knowledge fields. Thus, a very important task for SND is to  strengthen the altruistic reception of the importance of data sharing  and open access among researchers. We have identified two key areas  which serve as barriers for reaching our goals; legal barriers and  possessive barriers. The legal barriers are hinders in Swedish current  laws and statues. The possessive barriers are thresholds connected to  unconsciousness among researchers. We will present our strategy which is  a combination of \"top-down\" and \"bottom-up\" activities and some  preliminary results from a survey. An example of a \"top-down\" activity  is to influence research financiers to put higher demands on future open  access data when completion of studies. Another example is to provide  means and support researchers through the whole research process, e.g.  with interpretations of different legal aspects of open access. Examples  of \"bottom-up\" activities is to be present in different research  contexts and \"missionize\" the benefits of sharing data.",
+                    "presenters": [
+                        {
+                            "name": "Iris Alfredsson",
+                            "institution": "Swedish National Data Service"
+                        },
+                        {
+                            "name": "Carina Carlhed",
+                            "institution": "Malardalen University"
+                        },
+                        {
+                            "name": "Veronika Marosi",
+                            "institution": "Swedish National Data Service"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c2_alfredsson.pdf",
+                            "name": "c2_alfredsson.pdf"
+                        }
+                    ],
+                    "sessNid": "1196",
+                    "oldPath": "/2009/swedish-national-data-services-strategy-sharing-and-mediating-data",
+                    "nid": "1111",
+                    "postDate": "2010-12-20 11:20:10 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Changing Laws in the UK: The New Statistics and Registration Services Act",
+                    "abstract": "This paper will outline the new UK Statistics and Registration  Services Act, giving details of the new legislative framework, and  examining how the Act affects the status of research data users. The Act  is the first of its kind in the UK and has led to the creation of the  independent UK Statistics Authority, and has made researcher access to  data a statutory function of the Office for National Statistics. The  paper will also look at the opportunities this might present for  improving researcher access to data.",
+                    "presenters": [
+                        {
+                            "name": "Tanvi Desai",
+                            "institution": "London School of Economics"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c2_desai.pdf",
+                            "name": "c2_desai.pdf"
+                        }
+                    ],
+                    "sessNid": "1196",
+                    "oldPath": "/2009/changing-laws-uk-new-statistics-and-registration-services-act",
+                    "nid": "1112",
+                    "postDate": "2010-12-20 11:22:03 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Mind the Gap: Global Data Sharing",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Richard Wiseman",
+                            "institution": "ESDS International; Mimas, University of Manchester"
+                        },
+                        {
+                            "name": "Celia Russell",
+                            "institution": "ESDS International; Mimas, University of Manchester"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1196",
+                    "oldPath": "/conferences/2009/presentation/1404",
+                    "nid": "1404",
+                    "postDate": "2011-02-21 13:05:49 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "C3: Mobilizing Data in the Learning Environment",
+            "abstract": "",
+            "chair": "Chiu-Chuang (Lu) Chou (University of Wisconsin)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "12",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1197",
+            "nid": "1197",
+            "postDate": "2011-01-21 16:59:52 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Infrastructure for Statistics Education in Russia",
+                    "abstract": "Statistical knowledge is considered one of the main competences of  next generation administrators, managers, specialists in all fields of  economic and social progress of a country, its concurrent position in  future decades and successful personal career of a citizen. One by one  states declare statistical education as a national priority and launch  programs to promote teaching and training in data understanding and  analysis. Following other countries Russian university community has set  forth the initiative to develop statistical culture in society, as a  first step to compose modern information infrastructure. International  experience proves that education may start and go up all school years  and to be continued at a college - university and then at  post-university training centers. When started at school statistical  education may bring important social benefit if a pupil may access and  exploit an information base that maintains real economic, social,  demographic data and portraits the place a school child lives. The  University Information System RUSSIA (http://uisrussia.msu.ru)  is supposed to serve as one of a statistical infrastructure components -  it provides for data bases that update indicators at regional and local  levels. Analytical instruments and tutorials are implemented. Graphics-  and map-based data representation is accomplished. Modified  modules-based teaching program in statistics is being work out to serve  all levels of education - schools, graduate and post graduate university  courses and training for government agencies' and public institutions'  specialists.",
+                    "presenters": [
+                        {
+                            "name": "Anna Bogomolova",
+                            "institution": "Moscow State University"
+                        },
+                        {
+                            "name": "Tatyana Yudina",
+                            "institution": "Moscow State University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c3_bogomolova.pdf",
+                            "name": "c3_bogomolova.pdf"
+                        }
+                    ],
+                    "sessNid": "1197",
+                    "oldPath": "/2009/infrastructure-statistics-education-russia",
+                    "nid": "1113",
+                    "postDate": "2010-12-20 11:30:07 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Bringing Data to Undergraduate Classrooms: The Social Science Data Analysis Network (SSDAN) and ICPSR's Online Learning Center (OLC)",
+                    "abstract": "Quantitative literacy/reasoning have become buzzwords on many  campuses, and few disciplines are as well-suited to building students'  skills in these areas as are social sciences. Introducing students to  data in their early courses when the focus is mainly on substantive  topics also gives them a more realistic picture of how social scientists  work, preventing some of the disconnect often felt as students move  from substantive courses into research methods and statistics.  Instructors face many challenges in using real data in these early  classes, however. Difficulty in identifying relevant data, the need to  simplify data for analyses, and the desire to avoid teaching statistical  packages at these early stages are common obstacles instructors  describe. This presentation will describe the SSDAN and OLC tools which  aim to assist faculty by making it easier for instructors to bring data  into lower-division social science courses. SSDAN makes available new  data from the Census Bureau's American Community Survey and the OLC  pairs substantive concepts with relevant data, both using a Web-based  interface and teaching modules that are ready to use with little  additional instructor preparation. These tools and support quantitative  literacy skills by exposing students to the world of data.",
+                    "presenters": [
+                        {
+                            "name": "Lynette Hoelter",
+                            "institution": "University of Michigan"
+                        },
+                        {
+                            "name": "John P. DeWitt",
+                            "institution": "University of Michigan"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c3_hoelter.pdf",
+                            "name": "c3_hoelter.pdf"
+                        }
+                    ],
+                    "sessNid": "1197",
+                    "oldPath": "/2009/bringing-data-undergraduate-classrooms-social-science-data-analysis-network-ssdan-and-icpsrs-on",
+                    "nid": "1114",
+                    "postDate": "2010-12-20 11:36:54 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-27",
+            "title": "C4: Data Sharing Across the Disciplines",
+            "abstract": "<p>This three-part session will explore differences in data sharing among \ndisciplines, with a specific focus on how the nascent open data movement\n in the sciences portends the emergence of a data sharing culture much \ndifferent from that found in the social sciences. The role of data \nspecialists in promoting unfettered sharing of research data is \nexplored. Part One will examine the theoretical underpinnings of data \nsharing within several disciplines and provide empirical evidence - from\n an examination of dissertations (with particular focus on access to raw\n data that is supplemental to published dissertations) - to test our \nhypothesis that a culture of data sharing is less evident in life \nsciences and physical sciences than it is in social sciences. Part Two \noffers insights from two data librarians who - as front-line \ndata-sharing intermediaries (largely in the social sciences) - will draw\n upon experiences and observations to offer practical tips for promoting\n and advancing a data-sharing culture. This will include suggestions for\n guiding emergent data developers in the sciences towards an ideal model\n of data sharing. Part Three will engage the audience in a lively \ndiscussion about advancing the role of data specialists as full \nparticipants in support of the growing data-sharing culture across \ndisciplines.</p>",
+            "chair": "Shawn W. Nicholson (Michigan State University)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "13",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1198",
+            "nid": "1198",
+            "postDate": "2011-01-21 17:01:10 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Panelists 1 and 2",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Shawn W.  Nicholson",
+                            "institution": "Michigan State University"
+                        },
+                        {
+                            "name": "Terrence Bennett",
+                            "institution": "The College of New Jersey"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c4_nicholson_bennett.pdf",
+                            "name": "c4_nicholson_bennett.pdf"
+                        }
+                    ],
+                    "sessNid": "1198",
+                    "oldPath": "/conferences/2009/presentation/1405",
+                    "nid": "1405",
+                    "postDate": "2011-02-21 13:14:29 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Panelists 3 and 4",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Joel Herndon",
+                            "institution": "Duke University"
+                        },
+                        {
+                            "name": "Robert O'Reilly",
+                            "institution": "Emory University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c4_herndon_oreilly.pdf",
+                            "name": "c4_herndon_oreilly.pdf"
+                        },
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/c4_herndon_oreilly_sources_0.pdf",
+                            "name": "c4_herndon_oreilly_sources_0.pdf"
+                        }
+                    ],
+                    "sessNid": "1198",
+                    "oldPath": "/conferences/2009/presentation/1406",
+                    "nid": "1406",
+                    "postDate": "2011-02-21 13:16:44 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "D1: Tag - You're it! DDI Applications and Experiences",
+            "abstract": "",
+            "chair": "Jeremy Iverson (Algenta Technologies)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "http://www.fsd.uta.fi/iassist2009/presentations/videos/iassist2009_d1.html",
+            "weight": "2",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1200",
+            "nid": "1200",
+            "postDate": "2011-01-21 17:08:23 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Finding the Right Tags in DDI 3.0: A Beginner's Experience",
+                    "abstract": "The Institute for Employment Research (IAB) is associated with the  Federal Employment Agency in Germany. We decided to establish a new  database organized according to the DDI 3.0 standard for our  documentation. One initial task was to build the DDI 3.0 structure for  our most complex data example, to make sure that all needed metadata  would be supported. For this purpose the Integrated Employment  Biographies (IEB) were selected. The IEB is a merged dataset, containing  data on employment, benefit receipt, participation in measures of  active labour market policy, and jobseeker status. These data come from  many different sources, which produce many difficulties. For example,  harmonization of some variables is not possible, because the values are  dependent on the sources, and are collected in different ways. Capturing  such things in DDI 3.0 is not obvious, and some difficulties were  encountered. This presentation focuses on how these types of challenges  were resolved, to allow for the DDI 3.0 model to be used with our  documentation systems.",
+                    "presenters": [
+                        {
+                            "name": "Claudia Lehnert",
+                            "institution": "Institute for Employment Research of the Federal Employment Agency, IAB"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d1_lehnert.pdf",
+                            "name": "d1_lehnert.pdf"
+                        }
+                    ],
+                    "sessNid": "1200",
+                    "oldPath": "/2009/finding-right-tags-ddi-30-beginners-experience",
+                    "nid": "1115",
+                    "postDate": "2010-12-20 11:41:28 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "EduDDI: An application of DDI 3.0 for Large-scale Assessments in Education",
+                    "abstract": "For the monitoring of educational systems, large-scale assessments of  student's archievements are conducted. The institutions involved in  these studies need IT systems for the following steps: development of  hierarchical structured questions, generation of booklets and codebooks,  coding/rating, data processing, analyses, dissemination of datasets and  reporting. In order to improve the efficiency of these systems, the  reuse of questions and the analysis of one question throughout the whole  set of studies is an crucial demand of the researchers. Therefore, any  system used in that context must offer an easy link between data sets  and the question bank(s). At the German Institute for Educational Progress (IQB), a proprietary  IT system for the generation of booklets has been developed and used  for 4 years. This system will be expanded to the management of datasets  as described above. But the internal datastructures and the tools will  implement DDI 3.0 to ensure a sustainable and nationwide utilisation.  The presentation covers the following issues: institutional arrangement  to ensure a broad-based support, first sections of the DDI-model  developed, architecture and first software tools.",
+                    "presenters": [
+                        {
+                            "name": "Martin Mechtel",
+                            "institution": "German Institute of Educational Progress (IQB)"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d1_mechtel.pdf",
+                            "name": "d1_mechtel.pdf"
+                        }
+                    ],
+                    "sessNid": "1200",
+                    "oldPath": "/2009/eduddi-application-ddi-30-large-scale-assessments-education",
+                    "nid": "1116",
+                    "postDate": "2010-12-20 11:43:28 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Slovak Archive of Social Data (SASD) and Its Experiences with Implementing DDI 3.0",
+                    "abstract": "Slovak Archive of Social Data was established in year 2004 with aim  of collecting, preserving and disseminating data and metadata from  sociological research for non-commercial purposes like research and  teaching. Archive is open to all kind of data, but in present initial  stage, is actively gathering data mainly from international research  programmes (eg. ISSP, EVS, ESS). Main tool for disseminating is our  website, where access to (meta)data is provided by two means. User can  browse catalogue of archived surveys or search data using keywords, as  well as Advanced search. Presently SASD is using DDI 1/2 for archiving  metadata. From now on, migration to DDI 3.0 is taking place. Part of the  presentation is about experiences with using this new schema. Schema is  suitable for exchange of metadata between archives, therefore  discussion may arise about this topic concerning efficiency of  documentation labour. For example information about survey and core  parts of variables can be shared among national archives (eg. basic  documentation of ISSP modules). So when one archive will document this  core part, other archives may use this documentation.",
+                    "presenters": [
+                        {
+                            "name": "Juraj Svec",
+                            "institution": "Slovak Archive of Social Data, Department of Sociology (CU)"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d1_svec.pdf",
+                            "name": "d1_svec.pdf"
+                        }
+                    ],
+                    "sessNid": "1200",
+                    "oldPath": "/2009/slovak-archive-social-data-sasd-and-its-experiences-implementing-ddi-30",
+                    "nid": "1117",
+                    "postDate": "2010-12-20 11:45:52 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Managing the Metadata Life Cycle: The Future of DDI at GESIS and ICPSRD1",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Peter Granda",
+                            "institution": "ICPSR, University of Michigan"
+                        },
+                        {
+                            "name": "Joachim Wacherow",
+                            "institution": "GESIS"
+                        },
+                        {
+                            "name": "Meinhard Moschner",
+                            "institution": "GESIS"
+                        },
+                        {
+                            "name": "Wolfgang Zenk-Moeltgen",
+                            "institution": "GESIS"
+                        },
+                        {
+                            "name": "Mary Vardigan",
+                            "institution": "ICPSR, University of Michigan"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d1_granda.pdf",
+                            "name": "d1_granda.pdf"
+                        }
+                    ],
+                    "sessNid": "1200",
+                    "oldPath": "/conference/2009/presentation/1334",
+                    "nid": "1334",
+                    "postDate": "2011-02-04 07:46:04 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Tag - You're It! DDI Applications and Experiences",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Jeremy Iverson",
+                            "institution": "Algenta Technologies"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1200",
+                    "oldPath": "/conferences/2009/presentation/1533",
+                    "nid": "1533",
+                    "postDate": "2011-02-28 09:28:36 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "D2: Future of IASSIST",
+            "abstract": "",
+            "chair": "Paula Lackie and Lynn Woolfrey",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "3",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1201",
+            "nid": "1201",
+            "postDate": "2011-01-21 17:09:44 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Continuation/update/report from the robust future of IASSIST-Outreach session from Stanford",
+                    "abstract": "This session will serve as a platform to report on the ongoing discussions for IASSIST Outreach and provide a venue to continue the conversation among interested attendees - especially those from outside of north America and Europe.",
+                    "presenters": [
+                        {
+                            "name": "Paula Lackie",
+                            "institution": "Carleton College"
+                        },
+                        {
+                            "name": "Lynn Woolfrey",
+                            "institution": "Data First, University of Capetown"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1201",
+                    "oldPath": "/conference/2009/presentation/1339",
+                    "nid": "1339",
+                    "postDate": "2011-02-04 09:21:16 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "D3: Ideal IRB",
+            "abstract": "",
+            "chair": "Thomas Lindsay (University of Minnesota)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "4",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1202",
+            "nid": "1202",
+            "postDate": "2011-01-21 17:11:35 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Ethics Review and Data Archiving",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Arja Kuula",
+                            "institution": "Finnish Social Science Data Archive, FSD"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d3_kuula.pdf",
+                            "name": "d3_kuula.pdf"
+                        }
+                    ],
+                    "sessNid": "1202",
+                    "oldPath": "/conferences/2009/presentation/1408",
+                    "nid": "1408",
+                    "postDate": "2011-02-21 13:27:59 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "IRBs and Data Sharing",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Kristine Witkowski",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "George Alter",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d3_witkowski.pdf",
+                            "name": "d3_witkowski.pdf"
+                        }
+                    ],
+                    "sessNid": "1202",
+                    "oldPath": "/conferences/2009/presentation/1534",
+                    "nid": "1534",
+                    "postDate": "2011-02-28 09:31:33 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "IRB Accreditation and Local IRB Operations",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Elizabeth Stephenson",
+                            "institution": "UCLA, ISSR Data Archives"
+                        },
+                        {
+                            "name": "Jacob Carlson",
+                            "institution": "Purdue University"
+                        },
+                        {
+                            "name": "Thomas Lindsay",
+                            "institution": "University of Minnesota"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d3_stephenson.pdf",
+                            "name": "d3_stephenson.pdf"
+                        }
+                    ],
+                    "sessNid": "1202",
+                    "oldPath": "/conferences/2009/presentation/1535",
+                    "nid": "1535",
+                    "postDate": "2011-02-28 09:34:10 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Ethics Review and Data Archiving",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Arja Kuula",
+                            "institution": "Finnish Social Science Data Archive, FSD"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d3_kuula_0.pdf",
+                            "name": "d3_kuula_0.pdf"
+                        }
+                    ],
+                    "sessNid": "1202",
+                    "oldPath": "/conferences/2009/presentation/1536",
+                    "nid": "1536",
+                    "postDate": "2011-02-28 09:47:00 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "D4: Just the Same, but Different: Comparison Across National Contexts",
+            "abstract": "",
+            "chair": "Felicia LeClere (ICPSR)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "5",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1203",
+            "nid": "1203",
+            "postDate": "2011-01-21 17:12:37 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Marching to the Same Drummer: An Overview of a Proposed IHSN (International Household Survey Network) Open Source Question Bank",
+                    "abstract": "Survey takers must ask the similar and culturally-appropriate  questions in order to ensure that they measure the same phenomena. In  most countries, sample surveys, censuses and administrative reporting  systems measure the same variables (e.g., demographics, income, labour  activities, health characteristics, etc), but often with slight  differences which result in non-comparability of data across sources. In  this presentation, the IHSN will provide an overview of a question bank  which aims to address issues of metadata accessibility and quality by  using a standard and comprehensive XML template to hold information on  questions, classifications, concepts and indicators from a range of  official sources. The Question Bank will serve as a central resource for  data producers and other stakeholders to share information in a  consistent way. It is hoped that this question bank which, using an open  source software will support improvements in data comparability within  country as users have easy access to recommended approaches and can  consider modifications to new and existing instruments.",
+                    "presenters": [
+                        {
+                            "name": "Mark McConaghy",
+                            "institution": "Department for International Development, UK"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d4_mcconaghy.pdf",
+                            "name": "d4_mcconaghy.pdf"
+                        }
+                    ],
+                    "sessNid": "1203",
+                    "oldPath": "/2009/marching-same-drummer-overview-proposed-ihsn-international-household-survey-network-open-source",
+                    "nid": "1118",
+                    "postDate": "2010-12-20 11:49:29 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Original Language Documentation for the European Values Study",
+                    "abstract": "For repeated comparative surveys like the European Values Study (EVS)  conducted in 1980, 1990, 1999, and 2008 metadata management becomes  more and more challenging. The EVS is a longitudinal survey research  program, carried out in now 46 countries under the responsibility of the  European Values Study Foundation. The original language documentation  was started in cooperation with the EVS-countries, CEPS Luxembourg, and  EVS at Tilburg University with the aims to assist the primary  investigators with the development and translation of the questionnaire  for the 2008 wave and to support user friendly comparisons of the  wording of questions and answers used in the different languages for  comparative analyses. For this purpose a procedure was developed to  document the original languages. The documentation process has been  supported by two programs developed by GESIS: the Dataset Documentation  Manager (DSDM), which allows the language specific documentation on  variable level and the export into a DDI 2 compatible format, and the  CodebookExplorer (CBE), a special tool to manage complex data and  metadata. The translation process was done by a web-based translation  system (WebTrans) provided by Gallup Europe. The original language  documentation will be published in the GESIS Online Study Catalogue  ZACAT (a Nesstar server).",
+                    "presenters": [
+                        {
+                            "name": "Wolfgang Zenk-Moltgen",
+                            "institution": "GESIS - Leibniz-Institut fur Sozialwissenschaften"
+                        },
+                        {
+                            "name": "Evelyn Brislinger ",
+                            "institution": "GESIS - Leibniz-Institut fur Sozialwissenschaften"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d4_brislinger.pdf",
+                            "name": "d4_brislinger.pdf"
+                        }
+                    ],
+                    "sessNid": "1203",
+                    "oldPath": "/2009/original-language-documentation-european-values-study",
+                    "nid": "1119",
+                    "postDate": "2010-12-20 11:52:39 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "E1: IASSIST Futures (Strategic Plan)",
+            "abstract": "<p>This panel seeks input from the IASSIST general membership about the 2010-2015 Strategic Plan. Since IASSIST 2008, the Strategic Planning Action group has conducted a series of surveys trying to understand members' impressions of the current state of the organization as well as future opportunities for IASSIST. This session will present information about the Strategic Planning Process, share results from a survey of the IASSIST membership, and engage the membership in a discussion about next steps in creating IASSIST's new strategic plan.</p>",
+            "chair": "Joel Herndon (Duke University / IASSIST Administrative Committee)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "<div class=\"filefield-file\"><img class=\"filefield-icon field-icon-application-pdf\"  alt=\"application/pdf icon\" src=\"https://iassistdata.org/sites/all/modules/filefield/icons/application-pdf.png\" /><a href=\"https://iassistdata.org/sites/default/files/2009_e1_herndon_etal.pdf\" type=\"application/pdf; length=153487\">2009_e1_herndon_etal.pdf</a></div>",
+            "webcastLink": "",
+            "weight": "6",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1204",
+            "nid": "1204",
+            "postDate": "2011-01-21 17:13:51 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "IASSIST Futures: A Discussion Panel on IASSIST Strategic Planning and Organization",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Joel Herndon",
+                            "institution": "Duke University/IASSIST Administrative Committee"
+                        },
+                        {
+                            "name": "Thomas Lindsay",
+                            "institution": "University of Minnesota"
+                        },
+                        {
+                            "name": "Bill Block",
+                            "institution": "CEISER, Cornell University"
+                        },
+                        {
+                            "name": "Melanie Wright",
+                            "institution": "UKDA"
+                        },
+                        {
+                            "name": "San Cannon",
+                            "institution": "Federal Reserve Board"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1204",
+                    "oldPath": "/conferences/2009/presentation/1537",
+                    "nid": "1537",
+                    "postDate": "2011-02-28 09:53:30 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "E2: United States Information Agency's Historical International Data (withdrawn)",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "7",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1205",
+            "nid": "1205",
+            "postDate": "2011-01-21 17:15:08 -0700",
+            "presentations": []
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "E3: Qualitative Data: Understandings, Tools and Strategies for Sharing",
+            "abstract": "",
+            "chair": "Kristi Thompson (University of Windsor)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "9",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1206",
+            "nid": "1206",
+            "postDate": "2011-01-21 17:15:49 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "It's about Relationships, It's about Ethics, It's about Respect: Qualitative Researchers' Understandings of Their Practice and the Implications for Data Archivng and Sharing",
+                    "abstract": "With qualitative data archiving emerging as a distinct possibility in  Australia, the practices and 'use' of qualitative research are coming  under increased scrutiny and reflection. The recent development of a  qualitative data archive (AQuA) by the Australian Social Science Data  Archive (ASSDA) provides an opportunity for qualitative researchers to  reflect, not only upon the feasibility of qualitative data archiving,  but on the core assumptions of their work and the extent to which  qualitative data lend themselves to sharing and secondary analysis.  Drawing on a series of focus groups with qualitative researchers, we  critically explore the meanings ascribed to qualitative research  practice and the perceived challenges posed by contemporary  technological innovations in data management, access, and analysis. As  well as raising concerns over the ethical and intellectual property  implications of data sharing, focus group participants frequently  referred to the uniqueness of qualitative research as an artistic  endeavour that is both personal and solitary, yet at the same time  involves special relationships with participants, data and research  partners. The accounts presented provide insight into key debates (and  divergences) within the qualitative community regarding the values and  meanings of qualitative practice, but also how data archiving may come  to challenge these core values.",
+                    "presenters": [
+                        {
+                            "name": "Lynda Cheshire",
+                            "institution": "University of Queensland"
+                        },
+                        {
+                            "name": "Alex Broom",
+                            "institution": "University of Sydney"
+                        },
+                        {
+                            "name": "Michael Emmison",
+                            "institution": "University of Queensland"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/e3_cheshire.pdf",
+                            "name": "e3_cheshire.pdf"
+                        }
+                    ],
+                    "sessNid": "1206",
+                    "oldPath": "/2009/its-about-relationships-its-about-ethics-its-about-respect-qualitative-researchers-understandin",
+                    "nid": "1120",
+                    "postDate": "2010-12-20 12:17:00 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Reusing Qualitative Data for Teaching Purposes",
+                    "abstract": "Qualidata at the UK Data Archive has recently completed two on-line  teaching resources, specifically designed to assist qualitative methods  teaching. The first resource distinguishes different types of  interviewing, whilst highlighting and promoting some of the most  important collections held in the archive. It offers summaries of seven  distinct interview types: structured, unstructured, semi-structured,  feminist, psycho-social, oral history and life story interviews. Each  typology begins with a summary of what characterises that particular  type of interview and is illustrated by selected extracts from some of  the most interesting studies held in the UKDA. The second resource looks  at five non-interview qualitative methods, including focus groups, the  written word, ethnography, visual methods and the Internet, once again  using examples from archived collections. This paper provides an introduction to Qualidata's teaching resources  and demonstrates their potential uses for researchers and methods  teachers. It highlights the challenges to reusing qualitative  collections for teaching purposes, such as issues of distinguishing  research styles, the dissemination of the collections and resources,  gaining permissions from depositors, and addressing issues of  confidentiality and anonymisation. It further discusses the complex  interplay between qualitative methods and data collection.",
+                    "presenters": [
+                        {
+                            "name": "Bethany Morgan",
+                            "institution": "UK Data Archive, ESDS Qualidata"
+                        },
+                        {
+                            "name": "Dimitris Vonofakos",
+                            "institution": "UK Data Archive, ESDS Qualidata"
+                        },
+                        {
+                            "name": "Richard Deswarte (presenter)",
+                            "institution": "UK Data Archive, ESDS Qualidata"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/e3_morgan_vonofakos.pdf",
+                            "name": "e3_morgan_vonofakos.pdf"
+                        }
+                    ],
+                    "sessNid": "1206",
+                    "oldPath": "/2009/reusing-qualitative-data-teaching-purposes",
+                    "nid": "1121",
+                    "postDate": "2010-12-20 12:20:39 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "E4: CESSDA PPP",
+            "abstract": "",
+            "chair": "Hans J\u00f8rgen Marker(DDA)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "10",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1207",
+            "nid": "1207",
+            "postDate": "2011-01-21 17:17:02 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Life-Cycle & Comparative Study Types: Metadata Needs of the Future CESSDA RI",
+                    "abstract": "Particular attention is given to researcher's expectations and  demands on metadata from specific study types and to discuss options and  barriers in providing substantive context information. Both appear  relevant to find available and relevant data as a base for use them in  comparative research. On the background of a study life-cycle  perspective within the CESSDA research infrastructure (RI) the  presentation will focus related metadata needs for different complex  study types. Uses cases e.g. on EB trends; ISSP, ESS, BHPS will focus  the metadata specifics of these study types. Along with best practice in  documenting respective studies and their data the use of the new DDI3  standard is of specific interest for a developing research  infrastructure along the study life-cycle from survey design to the  publishing, dissemination and reuse of the data.",
+                    "presenters": [
+                        {
+                            "name": "Uwe Jensen",
+                            "institution": "GESIS - Leibniz-Institut for the Social Science"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/e4_jensen.pdf",
+                            "name": "e4_jensen.pdf"
+                        }
+                    ],
+                    "sessNid": "1207",
+                    "oldPath": "/2009/life-cycle-comparative-study-types-metadata-needs-future-cessda-ri",
+                    "nid": "1122",
+                    "postDate": "2010-12-20 12:27:40 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Changing the Data Sharing Culture in Eastern European Countries",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Brigitte Hausstein",
+                            "institution": "GESIS, Leibniz-Institut fur Sozialwissenschaften"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/e4_hausstein.pdf",
+                            "name": "e4_hausstein.pdf"
+                        }
+                    ],
+                    "sessNid": "1207",
+                    "oldPath": "/conference/2009/presentation/1335",
+                    "nid": "1335",
+                    "postDate": "2011-02-04 08:18:30 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-28",
+            "title": "Plenary II",
+            "abstract": "",
+            "chair": "Chuck Humphrey (University of Alberta)",
+            "moderator": "",
+            "sessionType": "Plenary",
+            "sessionFile": "",
+            "webcastLink": "http://www.fsd.uta.fi/iassist2009/presentations/videos/iassist2009_p2.html",
+            "weight": "14",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1199",
+            "nid": "1199",
+            "postDate": "2011-01-21 17:06:23 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Data Archives in the 21st Century: Evolving, Adapting or Endangered?",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Deborah Mitchell",
+                            "institution": "Australian Social Science Data Archive"
+                        },
+                        {
+                            "name": "Ben Evans",
+                            "institution": "ANU Supercomputer Facility"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1199",
+                    "oldPath": "/conferences/2009/presentation/1407",
+                    "nid": "1407",
+                    "postDate": "2011-02-21 13:21:06 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "F1: Foundations First: Laying the Groundwork for Building Partnerships First",
+            "abstract": "",
+            "chair": "Margaret Adams (NARA)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1208",
+            "nid": "1208",
+            "postDate": "2011-01-22 15:13:49 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Cozying up to the CODATA Elephant: Some Ideas for IASSIST Outreach",
+                    "abstract": "One of the thrusts of the IASSIST strategic plan (2004-2009) was to  encourage \"collaborations and strategic alliances with related  organizations\". CODATA is one of the organizations with which IASSIST  has started to collaborate. The mission of CODATA is to strengthen  international science for the benefit of society by promoting improved  scientific and technical data management and use. Sounds a lot like  IASSIST! Thus far, collaboration has consisted mainly of having IASSIST  members attend the annual CODATA conference and having CODATA members  attend IASSIST conferences. The question is... what else can we do to  strengthen this relationship? Wendy Watkins and Ernie Boyko from Canada  have been officially invited to be observers on the Canadian National  Committee for CODATA. This presentation will outline a possible strategy  for IASSIST members to use in the context of their National and  Regional CODATA committees. By working individually, IASSIST members may  be able to strengthen IASSIST's overall connection with CODATA.",
+                    "presenters": [
+                        {
+                            "name": "Ernie Boyko",
+                            "institution": "Carelton University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f1_boyko.pdf",
+                            "name": "f1_boyko.pdf"
+                        }
+                    ],
+                    "sessNid": "1208",
+                    "oldPath": "/2009/cozying-codata-elephant-some-ideas-iassist-outreach",
+                    "nid": "1148",
+                    "postDate": "2011-01-13 12:04:14 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "The Data Archive Technologies Alliance: Looking towards a Common Future",
+                    "abstract": "For more than a decade social science data archives and other  providers of social science data have used the new technologies of the  World Wide Web and advanced programming systems to integrate their  internal workflows and systems for delivering data and other content to  their users. In this environment two trends emerged: individual,  proprietary systems custom-developed for individual archives (such as  that at ICPSR, the IPUMS project, and many others), and general-purpose  systems that were designed to be installed and used in many archives  (such as Nesstar and the DataVerse Network). The proliferation of such  systems, and the increasing cost of developing and maintaining them, has  led to proposals for increased open source and community development  approaches that would allow archives to share a common architecture and  common tools, while allowing extensive customization of workflows and  data delivery systems. In October, 2008, a group met to discuss the  creation of a Data Archive Technologies Alliance. This group will report  on its activities at IASSIST, focusing on a survey of technology needs  among data archives and a list of priority activities for the Alliance  as it moves forward.",
+                    "presenters": [
+                        {
+                            "name": "Myron Gutmann",
+                            "institution": "ICPSR, University of Michigan"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f1_gutmann.pdf",
+                            "name": "f1_gutmann.pdf"
+                        }
+                    ],
+                    "sessNid": "1208",
+                    "oldPath": "/2009/data-archive-technologies-alliance-looking-towards-common-future",
+                    "nid": "1149",
+                    "postDate": "2011-01-13 12:06:37 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Scoping and Developing Institutional Data Services: The Data Libraries of 2020",
+                    "abstract": "Research methods are experiencing a revolution due to the emergence  of infrastructure and tools that empower scholars to conduct research in  novel ways. This brings an increase production of digital research data  that has triggered the alarms from research funders and academic  institutions. Many research funders in the UK require data produced as  part of the research process to be made available on request and expect  data management plans to be included with funding applications. Although  the UK is rich in domain specific national data services, many  disciplines do not have the support and infrastructure required for data  collection, access and preservation. Therefore, academic institutions  need to help their researchers comply with funding requirements as well  as to provide them with the means to allow them to participate in a new  data centric research world. Data libraries are great examples of  institutional data support and now their services need to evolve to  serve the future needs of scholars. This presentation will explore these  issues in addition to describe the work carried out in Oxford to scope  the requirements for services to manage and curate research data as well  as to develop some of these services.",
+                    "presenters": [
+                        {
+                            "name": "Luis Martinez-Uribe",
+                            "institution": "University of Oxford, Oxford e-Research Centre"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f1_martinez.pdf",
+                            "name": "f1_martinez.pdf"
+                        }
+                    ],
+                    "sessNid": "1208",
+                    "oldPath": "/2009/scoping-and-developing-institutional-data-services-data-libraries-2020",
+                    "nid": "1150",
+                    "postDate": "2011-01-13 12:08:31 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Establishing Trust in Data Curation: OAIS and TRAC applied to a Data Staging Repository (DataStaR)",
+                    "abstract": "DataStaR (http://datastar.mannlib.cornell.edu/),  a Data Staging Repository developed and maintained by Cornell  University's Mann Library, was designed as a platform and related  services to support data sharing among collaborators, as well as the  eventual publication of data to permanent, domain-specific repositories  and institutional repositories. As a staging repository, providing  temporary storage for data (whether preliminary or final), DataStaR  assumes no long-term responsibility for preservation of content.  However, because one of the goals of DataStaR is to facilitate the  publication of data to permanent, external repositories, it is critical  that DataStaR's operations are consistent with digital preservation best  practices. Toward that end, we consider how DataStaR's design and  function map to the OAIS reference model, and use the Trustworthy  Repositories Audit & Certification (TRAC): Criteria and Checklist as  a framework for specifying system, policy, and documentation  requirements to ensure that DataStaR is a responsible partner in the  entire chain of preservation activities. We present a description of  this process and a summary of the types of elements that are most  important in a staging environment.",
+                    "presenters": [
+                        {
+                            "name": "Gail Steinhart",
+                            "institution": "Albert R. Mann Library, Cornell University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f1_steinhart.pdf",
+                            "name": "f1_steinhart.pdf"
+                        }
+                    ],
+                    "sessNid": "1208",
+                    "oldPath": "/2009/establishing-trust-data-curation-oais-and-trac-applied-data-staging-repository-datastar",
+                    "nid": "1151",
+                    "postDate": "2011-01-13 12:10:40 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "F2: Protecting Privacy While Preserving Access: Restricted Use Data and Disclosure Considerations",
+            "abstract": "",
+            "chair": "Kristine Witkowski (ICPSR)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "http://www.fsd.uta.fi/iassist2009/presentations/videos/iassist2009_f2.html",
+            "weight": "2",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1209",
+            "nid": "1209",
+            "postDate": "2011-01-22 15:14:51 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Strengthening the Production of Public Use Microdata Files: Better Tools for Anonymizing Census and Survey Data",
+                    "abstract": "Public use microdata files (PUMFs, PUFs or many other acronyms) are  the bread and butter of many data centres and are essential tools for  research and teaching. To date, the production of such files has been a  challenging and time-consuming task for data producers. This makes it an  expensive step which is often not undertaken by data producers.  Intuitively, the anonymization of data files should lend itself to the  use of computer based tools to facilitate this process. The  International Household Survey Network (IHSN) has established a task  force which is investigating the development of a series of tools to aid  data producers in measuring the disclosure risk associated with a file,  identifying ways of reducing this risk and assessing the information  loss as a result of implementing the disclosure limitation procedures.  Rather than an integrated software tool, the task force is working  towards a modular, coherent set of tools to achieve the above goals. By  building on work by others, they may even be able to develop an  \"intelligent\" system. This presentation provides an overview the work of  this task force.",
+                    "presenters": [
+                        {
+                            "name": "Olivier Dupriez",
+                            "institution": "World Bank - IHSN"
+                        },
+                        {
+                            "name": "Geoffrey Greenwell",
+                            "institution": "PARIS21 Secretariat, OECD"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f2_dupriez.pdf",
+                            "name": "f2_dupriez.pdf"
+                        }
+                    ],
+                    "sessNid": "1209",
+                    "oldPath": "/2009/strengthening-production-public-use-microdata-files-better-tools-anonymizing-census-and-survey-",
+                    "nid": "1152",
+                    "postDate": "2011-01-13 12:13:34 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "An Integrated System for Handling Restricted Use Data",
+                    "abstract": "The volume of restricted use data files distributed by data archives  and data producers has increased dramatically in the last 10 years. As  data files become more complicated with the addition of georeferencing,  biomarkers, and linked administrative records, and other information,  disclosure risk has increased dramatically. The most popular solution  for distributing highly confidential data is to issue legal restricted  use contracts to users. The handling of confidential data and the  distribution of restricted use contracts, however, have not kept pace  with other developments in data distribution. In this paper, we will  explore several linked initiatives at ICPSR designed to streamline the  handling, processing, and distribution of restricted use data. This  paper will report on our progress in redesigning the entire system of  handling, processing, and distributing confidential data. Our internal  data processing steps will include segregating and streamlining data  handling for confidential data through a CITRIX system. We are also  creating an automated contracting system to handle the distribution of  all of our restricted use files through a secured download system.",
+                    "presenters": [
+                        {
+                            "name": "Felicia LeClere",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f2_leclere.pdf",
+                            "name": "f2_leclere.pdf"
+                        }
+                    ],
+                    "sessNid": "1209",
+                    "oldPath": "/2009/integrated-system-handling-restricted-use-data",
+                    "nid": "1153",
+                    "postDate": "2011-01-13 12:14:56 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Strengthening Data Security",
+                    "abstract": "In the light of heightened concern around data security, this paper will  highlight some of the measures that can be used to develop and  strengthen security in data archiving. We will discuss the different  approaches which can be taken towards the construction of firm and  resilient data and information security policies within the social  science data archiving communities. While international standards can  provide theoretical guidelines for the construction of such a policy,  procedures need to be informed by more practical considerations. We will  draw attention to the necessity of following a holistic approach to  data security, which includes the education of data creators in the  reduction of disclosure risk, the integration of robust and appropriate  data processing, handling and management procedures, the value of  emerging technological solutions, the training of data users in data  security, the importance of management control as well as being informed  by emerging government security and digital preservation standards.",
+                    "presenters": [
+                        {
+                            "name": "Sharon Bolton",
+                            "institution": "UK Data Archive"
+                        },
+                        {
+                            "name": "Matthew Woollard",
+                            "institution": "UK Data Archive"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f2_bolton.pdf",
+                            "name": "f2_bolton.pdf"
+                        }
+                    ],
+                    "sessNid": "1209",
+                    "oldPath": "/conference/2009/presentation/1165",
+                    "nid": "1165",
+                    "postDate": "2011-01-13 12:53:29 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "F3: Beyond and Behind the Numbers: Metadata, Codebooks and Publications",
+            "abstract": "",
+            "chair": "Harrison Dekker (UC Berkeley Library)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "3",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1210",
+            "nid": "1210",
+            "postDate": "2011-01-22 15:16:23 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Uncovering the Pitfalls of Enhanced Publications",
+                    "abstract": "Researchers are discovering the enormous potential of the Internet  and want to use it to enhance their publications with additional  resources such as research data or visualizations. There are currently  many ways to construct such 'enhanced publications', but there remain  many difficulties that need to be solved before these enhanced  publications can be safely implemented on a large scale. DANS, in  cooperation with partners from the SURFshare programme, has built a  demonstrator of enhanced publications. The demonstrator gives examples  of enhanced publications from different scientific disciplines and shows  how OAI-ORE can aggregate the different resources of an enhanced  publication and how these aggregations can be transformed into user  friendly web pages that allow researchers to view- and navigate between  them. The goal of this demonstrator is twofold: triggering the  researcher to think about their actual needs by showing them what is  possible and making repository managers aware of the difficulties that  have to be dealt with before enhanced publications can become a common  way of publishing. This paper will give an overview of these  difficulties.",
+                    "presenters": [
+                        {
+                            "name": "Maarten Hoogerwerf",
+                            "institution": "Data Archiving and Networked Services, DANS"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f3_hoogerwerf.pdf",
+                            "name": "f3_hoogerwerf.pdf"
+                        }
+                    ],
+                    "sessNid": "1210",
+                    "oldPath": "/2009/uncovering-pitfalls-enhanced-publications",
+                    "nid": "1154",
+                    "postDate": "2011-01-13 12:16:55 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Adding to the Toolbox: Creating and Maintaining a Searchable Database of Events",
+                    "abstract": "Economists at the Federal Reserve Board are tasked every day with  explaining the underlying causes of shifts in data, yet they do not have  at their disposal all the tools necessary to efficiently perform these  tasks. A glaring omission in their stable of available resources is a  system which allows for researching events in a fast, organized, and  succinct manner. We plan to solve that problem by creating a database of  events categorized by date, type (financial, political, economic, etc),  sector (labor, energy, prices, etc) and sub-sector (unemployment, crude  oil, CPI, etc). Using established guidelines for event inclusion while  also having strong metadata requirements we can open up a wealth of  information for, and greatly reduce the search costs paid by, the user.  An open-source application is being developed which will allow for the  visualization of a timeline of events which can then be plotted against  the time-series data in question. This paper will describe the efforts  currently under way at the Federal Reserve Board to create and maintain a  searchable database of events aimed primarily at assisting the work of  research and forecast economists.",
+                    "presenters": [
+                        {
+                            "name": "Timothy Mullen",
+                            "institution": "Federal Reserve Board"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f3_mullen.pdf",
+                            "name": "f3_mullen.pdf"
+                        }
+                    ],
+                    "sessNid": "1210",
+                    "oldPath": "/2009/adding-toolbox-creating-and-maintaining-searchable-database-events",
+                    "nid": "1155",
+                    "postDate": "2011-01-13 12:18:19 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Back to Basics with Dublin Core",
+                    "abstract": "When the Board of Governors of the Federal Reserve System needed to  create a new metadata system they decided to start with a time tested  foundation; Dublin Core. The U.S. Central Bank consumes a variety of  metadata including metadata that defines collections of data and  metadata that describes variable level data. This paper discusses the  challenges and advantages of using an international standard. It follows  the processes used to create collection level metadata, variable level  metadata, and retrofitting existing metadata to make it all usable by  economists and financial analysts.",
+                    "presenters": [
+                        {
+                            "name": "Linda Powell",
+                            "institution": "Board of Governors of the Federal Reserve System"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f3_powell.pdf",
+                            "name": "f3_powell.pdf"
+                        }
+                    ],
+                    "sessNid": "1210",
+                    "oldPath": "/2009/back-basics-dublin-core",
+                    "nid": "1156",
+                    "postDate": "2011-01-13 12:19:41 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "CoSSI - Codebook for Statistical Information or Something More?",
+                    "abstract": "The starting point of the presentation is to examine the character of  statistical information, the way in which data and metadata are  interconnected in statistical information and how the entity formed by  them can be modelled. The focus of interest is statistical information  itself - what we actually mean when we talk about statistical  information. CoSSI (Common Structure of Statistical Information) is a  model created for statistical information. Within its framework  different parts of statistical information are combined conceptually as  one complete entity. The CoSSI model defines the structures of  statistical data (matrices and tables), statistical metadata, quality  declarations and publications. XML DTDs have been selected as the  technical means for implementing these structures. The CoSSI model also  contain the language versioning necessary for statistics in  international use. After the short introduction to the CoSSI model its  usability is examined in the statistics production and dissemination of  statistics, as well as in the scientific research use of statistical  data. Finally the relation and compatibility of CoSSI and DDI are  examined.",
+                    "presenters": [
+                        {
+                            "name": "Heikki Rouhuvirta",
+                            "institution": "Statistics Finland"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f3_rouhuvirta.pdf",
+                            "name": "f3_rouhuvirta.pdf"
+                        }
+                    ],
+                    "sessNid": "1210",
+                    "oldPath": "/2009/cossi-codebook-statistical-information-or-something-more",
+                    "nid": "1157",
+                    "postDate": "2011-01-13 12:21:28 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "F4: Building on Data: Resources, Tools and Applications",
+            "abstract": "",
+            "chair": "Jen Green (University of Michigan)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "4",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1211",
+            "nid": "1211",
+            "postDate": "2011-01-22 15:17:01 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "The Good, the Bad and the Ugly of Playing a Data Custodian",
+                    "abstract": "The National Survey of Families and Households (NSFH) is a prominent  longitudinal study on family life. NSFH was funded by the National  Institute of Child Health and Human Development (NICHD) and National  Institute on Aging (NIA). The total amount of federal grant for NSFH was  14.5 million dollars. Three waves of surveys were conducted in  1987-1988, 1992-1994 and 2001-2003. According to ICPSR Related  Literature database, there are 1,053 publications based on NSFH data.  Researchers continue to use NSFH to study family living arrangement,  marriage, cohabitation, fertility, parenting relations, kin contact and  economic and psychological well-being. The Center for Demography of  Health and Aging (CDHA) took over user support for NSFH, after this  project ended in summer of 2006. Without the expertise of the original  NSFH project team, how does CDHA staff help NSFH researchers? In this  paper I will share the challenges and rewards we have in providing user  support for the complex NSFH studies. Our enhancement on disseminating  NSFH data using an online analysis tool will be discussed. A plan of  data repurposing for NSFH in the future will be presented also.",
+                    "presenters": [
+                        {
+                            "name": "Chiu-Chuang (Lu) Chou",
+                            "institution": "Data and Information Service, University of Wisconsin, Madison"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f4_chou.pdf",
+                            "name": "f4_chou.pdf"
+                        }
+                    ],
+                    "sessNid": "1211",
+                    "oldPath": "/conference/2009/presentation/1158",
+                    "nid": "1158",
+                    "postDate": "2011-01-13 12:23:30 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Hidden in Plain Sight: Creating County-Based Data with Public Use Mircrodata Areas",
+                    "abstract": "Researchers are requesting geographically-referenced data,  particularly at the sub-state level. There is a array of resources to  fulfill these requests. This paper describes a 'hidden' source of county  level data; presents a tool that allows users to extract user-defined  characteristics; and illustrates a reverse use of this tool to create  reliable characteristics for sparsely populated counties. The American  Community Survey has generated county-based data since 2005. However,  the only counties included in the data release are counties with  populations of 65,000 or more. While this population cut-off includes  over 80 percent of the US population, it only incorporates 783 of 3,141  counties. Data from the census has typically included all counties but  access problems remain. Sometimes a researcher needs a measure not  included in the summary files. In addition, there are some sparsely  populated counties. Users would benefit from more reliable statistics  for these counties. The lowest unit of geography in Census/ACS microdata  is the public use microdata area (PUMA). Using the mapping between  PUMAs and counties, we translate PUMA-based statistics into county-based  statistics. Likewise, when counties are too small to generate reliable  statistics, we combine data for these counties based on their PUMA  boundaries to create pseudo county-based measures.",
+                    "presenters": [
+                        {
+                            "name": "Lisa Neidert",
+                            "institution": "Population Studies Center, University of Michigan"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f4_neidert.pdf",
+                            "name": "f4_neidert.pdf"
+                        }
+                    ],
+                    "sessNid": "1211",
+                    "oldPath": "/conference/2009/presentation/1159",
+                    "nid": "1159",
+                    "postDate": "2011-01-13 12:25:03 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "NEEO's Data Curation",
+                    "abstract": "Nereus is a consortium of prestigious European libraries in the world  of academic economics. At present the consortium concentrates its  efforts on a EU funded project called NEEO (Network of European  Economists Online) which will address the lack of integration of  academic output by creating a powerful new research tool called  Economists Online. With this tool it will give access to 50,000 journal  articles, working papers, book chapters, conference proceedings and  primary datasets of leading European Economists. One of the work  packages of the project is entirely devoted to datasets. The three main  objectives of this work packages are: To disclose and link the research  data of publications of leading economists in Europe on the Internet To  make these datasets openly accessible and freely available To make an  inventory of the problems involved in the disclosure of primary research  data To do so NEEO partners will store datasets in their Institutional  Repositories, describe the datasets to the DDI standard and harvest the  metadata for the Economists Online portal. The NEEO data workgroup will  use the results of the enriched publications project \"Together in  Sharing\" which was presented at last year IASSIST conference at  Stanford.",
+                    "presenters": [
+                        {
+                            "name": "Paul Plaatsman",
+                            "institution": "Erasmus University, Rotterdam"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f4_plaatsman.pdf",
+                            "name": "f4_plaatsman.pdf"
+                        }
+                    ],
+                    "sessNid": "1211",
+                    "oldPath": "/conference/2009/presentation/1160",
+                    "nid": "1160",
+                    "postDate": "2011-01-13 12:26:15 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "The Value of Public Sector Data and Information to Civil Society Organizations in South Africa: Evidence from the Fight to Alleviate Poverty",
+                    "abstract": "Public sector data and information (PSDI) are considered by many to  be a strategic resource, potentially needed at all levels of society, by  different communities. This presentation reports on the preliminary  findings of an investigation of the ways in which these resources are  utilized by the South African Civil Society Organizations (CSOs) to  increase their effectiveness and add value to their efforts to alleviate  poverty. The study draws upon literature from organizational studies  and information policy. The concepts of value of information (Parker  & Houghton, 1994), management of external information (Sammons,  2005), absorptive capacity (Cohen & Levinthal, 1990), organizational  learning (Argyris & Sch\u00f6n, 1978), and organizational innovation  (March & Simons, 1958) are used to guide my inquiry to demonstrate  the value of PSDI to South African CSOs through describing and  explaining the processes to identify, acquire (including factors that  facilitate or hinder access and acquisition), assimilate, and exploit  this strategic resource. It is expected that the discussions and  findings of this study will have theoretical and policy contributions,  and will be of special importance to the government of South Africa (and  hopefully governments in other developing countries), the CSOs fighting  against poverty, and subsequently to the people of South Africa.",
+                    "presenters": [
+                        {
+                            "name": "Raed Sharif",
+                            "institution": "School of Information Studies, Syracuse University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/f4_sharif.pdf",
+                            "name": "f4_sharif.pdf"
+                        }
+                    ],
+                    "sessNid": "1211",
+                    "oldPath": "/conference/2009/presentation/1161",
+                    "nid": "1161",
+                    "postDate": "2011-01-13 12:28:24 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "G1: DDI Across the Lifecycle",
+            "abstract": "",
+            "chair": "Mary Vardigan (ICPSR)",
+            "moderator": "",
+            "sessionType": "Panel",
+            "sessionFile": "",
+            "webcastLink": "http://www.fsd.uta.fi/iassist2009/presentations/videos/iassist2009_g1.html",
+            "weight": "5",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1212",
+            "nid": "1212",
+            "postDate": "2011-01-22 15:18:12 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "DDI Across the Life Cycle: One Data Model, Many Products",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Mary Vardigan",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "Sue Ellen Hansen",
+                            "institution": "Survey Research Operations,  ISR, University of Michigan"
+                        },
+                        {
+                            "name": "Peter Granda",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "Sanda Ionescu",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "Felicia LeClere",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/g1_lifecycle_vardigan.pdf",
+                            "name": "g1_lifecycle_vardigan.pdf"
+                        }
+                    ],
+                    "sessNid": "1212",
+                    "oldPath": "/conference/2009/presentation/1336",
+                    "nid": "1336",
+                    "postDate": "2011-02-04 08:28:31 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "G2: Making Space: Issues in Linking Data and Geographies",
+            "abstract": "",
+            "chair": "San Cannon (Federal Reserve Board)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "6",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1213",
+            "nid": "1213",
+            "postDate": "2011-01-22 15:19:24 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "GeoConvert: Creating that Spatial Relationship",
+                    "abstract": "GeoConvert is a web based service allowing the matching and  conversion of geocoded data to other geographic area types, including  those from different years. Geography area types abound - Counties,  Postcodes, Output Areas, NUTS areas... and on and on and is ever  changing, so every few years the boundaries get redrawn or someone  creates a new type of geographical area. What is the social science  researcher to do, at what level does he collect his data or do his  analysis? Most people know their Postcode, but very few know what Census  Output Area they live in. GeoConvert enables the user to convert their  data to numerous other geocoded datasets, no matter what geographic  level it has been collected at. UK Census geographies can be connected  to European Union Eurostat data at NUTS level or Postcodes can be  matched to Primary Care Trust health data. GeoConvert opens up social  science dataset usage to new users such as Widening Participation and  Further Education by making it easy to link datasets to Postcodes, a  common easy to use geographical identifier. By reducing the technical  barriers to geocoded data and allowing the ability to connect to  historical geographies the re-use of pre-existing datasets is  encouraged.",
+                    "presenters": [
+                        {
+                            "name": "David Rawnsley",
+                            "institution": "Mimas, University of Manchester"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/g2_rawnsley.pdf",
+                            "name": "g2_rawnsley.pdf"
+                        }
+                    ],
+                    "sessNid": "1213",
+                    "oldPath": "/conference/2009/presentation/1162",
+                    "nid": "1162",
+                    "postDate": "2011-01-13 12:31:50 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Standards Based Services for Dissemination and Processing of Geospatial Data: An Example Using the UK Census",
+                    "abstract": "This paper will report the findings of the Data Integration and  Dissemination (DIaD) project , which is investigating the potential of  using international open standards based techniques (Open Geospatial  Consortia) to perform data linkage between two of the most heavily used  UK academic census outputs - the aggregate statistical data and the  output geographies. The primary objective of this work is to develop a  data dissemination model which demonstrates a more generic capability -  that of 'geo-linking'. This provides the ability to separate census  statistical data (for example, but other geospatially-linked data are  equally capable of utilising this approach) and the boundary (geometry)  data to which it relates. Geo-linking allows for distributed,  multi-source datasets to be seamlessly linked in a fashion that  facilitates data separation for management and administration purposes.  In essence, the approach proposed will provide an extensible  infrastructure applicable not only to the immediate needs of the UK  Census Programme but also more widely to a broader range of use cases.  Additionally, using the same standards based approach, the project will  aim to demonstrate how further value added processing can be invoked by  transforming the geo-linked outputs through a series of ancillary web  processing services.",
+                    "presenters": [
+                        {
+                            "name": "James Reid",
+                            "institution": "University of Edinburgh"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/g2_reid.pdf",
+                            "name": "g2_reid.pdf"
+                        }
+                    ],
+                    "sessNid": "1213",
+                    "oldPath": "/2009/standards-based-services-dissemination-and-processing-geospatial-data-example-using-uk-census",
+                    "nid": "1163",
+                    "postDate": "2011-01-13 12:33:25 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "Screening Data for Disclosure Risk and the Research Behind One Possible Took",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Kristine Witkowski",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/g2_2009_witkowski.pdf",
+                            "name": "g2_2009_witkowski.pdf"
+                        }
+                    ],
+                    "sessNid": "1213",
+                    "oldPath": "/conferences/2009/presentation/1538",
+                    "nid": "1538",
+                    "postDate": "2011-02-28 10:48:19 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "G3: Building Data Archives and User Communities: Greece, Estonia and Ethiopia",
+            "abstract": "",
+            "chair": "Jane Roberts (University of Oxford Social Science Data Service)",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "7",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1214",
+            "nid": "1214",
+            "postDate": "2011-01-22 15:40:45 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Developing of Data Archiving and Dissemination System at the CSA",
+                    "abstract": "The Central Statistical Agency of Ethiopia is responsible for providing  accurate and timely statistical information for development planning and  monitoring purposes. To achieve its responsibility CSA has been engaged  in utilizing Information Communication Technology to facilitate its  data processing, archiving and dissemination system so that the required  statistical information can be generated and reach the users. CSA is  considered as one of the leading institutions in Ethiopia in utilizing  ICT to accomplish its basic tasks. The CSA started its computerized  statistical data production by utilizing the IBM System/3 with 12k CPU.  This time, the agency is handling its statistical data archiving and  dissemination system through high capacity servers and a reliable  network infrastructure. The paper based dissemination and restricted  access to the CSA data has undergone very significant improvements. The  DDI application has tremendously improved the metadata documentation and  enables the CSA metadata to be archived and disseminated in an  internationally accepted standard. Utilization of GIS in providing easy  access of data to decision makers has shown a very significant  improvement as well.",
+                    "presenters": [
+                        {
+                            "name": "Yakob Seid",
+                            "institution": "Central Statistical Agency, CSA"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/g3_seid.pdf",
+                            "name": "g3_seid.pdf"
+                        }
+                    ],
+                    "sessNid": "1214",
+                    "oldPath": "/conference/2009/presentation/1164",
+                    "nid": "1164",
+                    "postDate": "2011-01-13 12:36:52 -0700"
+                },
+                {
+                    "year": "2009",
+                    "title": "What Do Researchers Look for in Archives? Data and Metadata on User Requests, and After Service Tracking in the Case of an Emerging Data Sharing Culture",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Chryssa Kappi",
+                            "institution": "Greek Social Data Bank, National Centre for Social Research"
+                        },
+                        {
+                            "name": "Dimitra Kondyli",
+                            "institution": "GSDB-EKKE"
+                        },
+                        {
+                            "name": "Christina Frentzou",
+                            "institution": "GSDB-EKKE"
+                        },
+                        {
+                            "name": "Tolis Linardis",
+                            "institution": "GSDB-EKKE"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/g3_kappi.pdf",
+                            "name": "g3_kappi.pdf"
+                        }
+                    ],
+                    "sessNid": "1214",
+                    "oldPath": "/conference/2009/presentation/1337",
+                    "nid": "1337",
+                    "postDate": "2011-02-04 08:37:55 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2009-05-29",
+            "title": "Plenary III",
+            "abstract": "",
+            "chair": "Melanie Wright (UKDA)",
+            "moderator": "",
+            "sessionType": "Plenary",
+            "sessionFile": "",
+            "webcastLink": "http://www.fsd.uta.fi/iassist2009/presentations/videos/iassist2009_p3.html",
+            "weight": "8",
+            "hostNid": "1173",
+            "oldPath": "/conference/2009/session/1215",
+            "nid": "1215",
+            "postDate": "2011-01-22 15:41:18 -0700",
+            "presentations": [
+                {
+                    "year": "2009",
+                    "title": "Collecting, Visualizing, Communicating, and Modeling Spatial Data in the Social Sciences",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Dr. Michael Batty",
+                            "institution": "Centre for Advanced Spatial Anaysis, University College London"
+                        },
+                        {
+                            "name": "Andrew Hudson-Smith",
+                            "institution": "Centre for Advanced Spatial Anaysis, University College London"
+                        },
+                        {
+                            "name": "Andrew Crooks",
+                            "institution": "Centre for Advanced Spatial Anaysis, University College London"
+                        },
+                        {
+                            "name": "Richard Milton",
+                            "institution": "Centre for Advanced Spatial Anaysis, University College London"
+                        },
+                        {
+                            "name": "Duncan Smith",
+                            "institution": "Centre for Advanced Spatial Anaysis, University College London"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1215",
+                    "oldPath": "/conferences/2009/presentation/1539",
+                    "nid": "1539",
+                    "postDate": "2011-02-28 10:51:28 -0700"
+                }
+            ]
+        }
+    ]
+}

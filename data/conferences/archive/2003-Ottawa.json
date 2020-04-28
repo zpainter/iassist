@@ -1,0 +1,1931 @@
+{
+    "conferenceYear": "2003",
+    "title": "Strength in Numbers",
+    "city": "Ottawa, Canada",
+    "dateText": "May 27-30, 2003",
+    "startDate": "2003-05-27",
+    "endDate": "2003-05-30",
+    "conferenceNum": "29",
+    "conferenceUrl": "http://equinox.uwo.ca/capdu/iassist2003/",
+    "oldPath": "/conference/2003/description/1329",
+    "nid": "1329",
+    "postDate": "2011-02-02 09:54:16 -0700",
+    "sessions": [
+        {
+            "year": "2003",
+            "day": "2003-05-27",
+            "title": "Workshops",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "sessionType": "Workshop",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2419",
+            "nid": "2419",
+            "postDate": "2011-07-07 10:48:07 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Implementing DDI: It ain't rocket science. . .",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Wendy L. Thomas",
+                            "institution": "Minnesota Population Center"
+                        },
+                        {
+                            "name": "William C. Block",
+                            "institution": "Minnesota Population Center"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2447",
+                    "nid": "2447",
+                    "postDate": "2011-07-08 12:18:59 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Making Your Website Usable",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Marianne Zawitz",
+                            "institution": "U.S. Department of Justice, Bureau of Justice Statistics"
+                        },
+                        {
+                            "name": "Colleen Blessing",
+                            "institution": "U.S. Department of Energy, Energy Information System"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2448",
+                    "nid": "2448",
+                    "postDate": "2011-07-08 12:19:57 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Making Your Website Usable",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Marianne Zawitz",
+                            "institution": "U.S. Department of Justice, Bureau of Justice Statistics"
+                        },
+                        {
+                            "name": "Colleen Blessing",
+                            "institution": "U.S. Department of Energy, Energy Information System"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/w1_web.pdf",
+                            "name": "w1_web.pdf"
+                        }
+                    ],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2449",
+                    "nid": "2449",
+                    "postDate": "2011-07-08 12:20:44 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Everything you ever wanted to know about preparing qualitative data. . . but were afraid to ask",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Louise Corti",
+                            "institution": "UK Data Archive, University of Essex"
+                        },
+                        {
+                            "name": "John Southall",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/w1_quali.pdf",
+                            "name": "w1_quali.pdf"
+                        }
+                    ],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2450",
+                    "nid": "2450",
+                    "postDate": "2011-07-08 12:21:39 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Data Publishing",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Prem Khosla",
+                            "institution": ""
+                        },
+                        {
+                            "name": "Margaret Ward",
+                            "institution": ""
+                        },
+                        {
+                            "name": "Erin Sawatzky",
+                            "institution": ""
+                        },
+                        {
+                            "name": "Sigbjorn Revheim",
+                            "institution": ""
+                        },
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": ""
+                        },
+                        {
+                            "name": "Bill Bradley",
+                            "institution": ""
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2451",
+                    "nid": "2451",
+                    "postDate": "2011-07-08 12:28:05 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Conducting a GIS Reference Interview ",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Steve Morris",
+                            "institution": "North Carolina State University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2452",
+                    "nid": "2452",
+                    "postDate": "2011-07-08 12:28:29 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Using DataFerrett for descriptive analysis and publishing data to the DataWeb",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Cavan Capps",
+                            "institution": "U.S. Census Bureau"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2419",
+                    "oldPath": "/conferences/2003/presentation/2453",
+                    "nid": "2453",
+                    "postDate": "2011-07-08 12:29:03 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "Plenary I",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "sessionType": "Plenary",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2420",
+            "nid": "2420",
+            "postDate": "2011-07-07 10:48:55 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Something Old, Something New: Historical Census Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Chad Gaffield",
+                            "institution": "Professor of History, Director of the Institute of Canadian Studies, University of Ottawa"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2420",
+                    "oldPath": "/conferences/2003/presentation/2454",
+                    "nid": "2454",
+                    "postDate": "2011-07-08 12:30:00 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "A1: The Roots of Historical Censuses: A National Archives Perspective",
+            "abstract": "",
+            "chair": "Ernie Boyko, Statistics Canada",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "2",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2421",
+            "nid": "2421",
+            "postDate": "2011-07-07 10:50:21 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "The U.S. Decennial Census of Population and Housing from an Archival Perspective",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Thomas Brown",
+                            "institution": "National Archives and Records"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/a1_brown.pdf",
+                            "name": "a1_brown.pdf"
+                        }
+                    ],
+                    "sessNid": "2421",
+                    "oldPath": "/conferences/2003/presentation/2455",
+                    "nid": "2455",
+                    "postDate": "2011-07-08 12:30:52 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "From Destruction to Digitisation: A Short Histroy of Census Records in Ireland",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Catriona Crowe",
+                            "institution": "National Archives of Ireland"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2421",
+                    "oldPath": "/conferences/2003/presentation/2456",
+                    "nid": "2456",
+                    "postDate": "2011-07-08 12:31:16 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The Census of Canada from an Archival Perspective",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Cara Downey",
+                            "institution": "Library and Archives of Canada"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2421",
+                    "oldPath": "/conferences/2003/presentation/2457",
+                    "nid": "2457",
+                    "postDate": "2011-07-08 12:31:40 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "A2: Empowered by Metadata: Building Systems of Access",
+            "abstract": "",
+            "chair": "Maxine Tedesco, University of Lethbridge",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "3",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2422",
+            "nid": "2422",
+            "postDate": "2011-07-07 10:51:14 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Easy Access to Secondary Data for Scientific Research",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Marleen Becht",
+                            "institution": "Netherlands Organization for Scientific Research"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/a2_becht.pdf",
+                            "name": "a2_becht.pdf"
+                        }
+                    ],
+                    "sessNid": "2422",
+                    "oldPath": "/conferences/2003/presentation/2458",
+                    "nid": "2458",
+                    "postDate": "2011-07-08 12:32:22 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Clearninghouse for Transport Data and Transport Models - Concepts and Implementations",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Angelika Schulz",
+                            "institution": "German Aerospace Center"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/a2_schulz.pdf",
+                            "name": "a2_schulz.pdf"
+                        }
+                    ],
+                    "sessNid": "2422",
+                    "oldPath": "/conferences/2003/presentation/2459",
+                    "nid": "2459",
+                    "postDate": "2011-07-08 12:32:54 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "MADIERA: A European Infrastructure for Web-Based Data Dissemination",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Bjarne Oymyr",
+                            "institution": "Norwegian Social Science Data Services"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2422",
+                    "oldPath": "/conferences/2003/presentation/2460",
+                    "nid": "2460",
+                    "postDate": "2011-07-08 12:34:09 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "A3: Strengthening Numbers: Measurement, Aggregation and Policy",
+            "abstract": "",
+            "chair": "Richard Boily, Universite du Quebec a Rimouski",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "4",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2423",
+            "nid": "2423",
+            "postDate": "2011-07-07 10:52:19 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "e-Europe and e-Europe+ Projects",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Dusan Soltes",
+                            "institution": "Comenius University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2423",
+                    "oldPath": "/conferences/2003/presentation/2461",
+                    "nid": "2461",
+                    "postDate": "2011-07-08 13:44:43 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Integrating Public Domain Data to Construct Community Profiles",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Betsy Blunsdon",
+                            "institution": "Deakin University"
+                        },
+                        {
+                            "name": "Ken Reed",
+                            "institution": "Deakin University"
+                        },
+                        {
+                            "name": "Steven McEarchern",
+                            "institution": "Deakin University"
+                        },
+                        {
+                            "name": "Nicole McNeil",
+                            "institution": "Deakin University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/a3_reedetal.pdf",
+                            "name": "a3_reedetal.pdf"
+                        }
+                    ],
+                    "sessNid": "2423",
+                    "oldPath": "/conferences/2003/presentation/2462",
+                    "nid": "2462",
+                    "postDate": "2011-07-08 13:45:34 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "B1: Historical Censuses: Numbers from the Past",
+            "abstract": "",
+            "chair": "Wendy Watkins, Carleton University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "5",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2424",
+            "nid": "2424",
+            "postDate": "2011-07-07 10:54:47 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "The Future of the Integrated Public Use Microdata Series: IPUMS International and IPUMS Redesign",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "William Block",
+                            "institution": "University of Minnesota"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2424",
+                    "oldPath": "/conferences/2003/presentation/2463",
+                    "nid": "2463",
+                    "postDate": "2011-07-08 13:46:13 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Rescuing Historical Censuses at UC Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Fred Gey",
+                            "institution": "UC Berkeley"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/b1_gey.pdf",
+                            "name": "b1_gey.pdf"
+                        }
+                    ],
+                    "sessNid": "2424",
+                    "oldPath": "/conferences/2003/presentation/2464",
+                    "nid": "2464",
+                    "postDate": "2011-07-08 13:46:48 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Providing Access to the Dutch Population Census of 1971",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Luuk Schreven",
+                            "institution": "Dutch Institute of Scientific Information Services"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/b1_schreven.pdf",
+                            "name": "b1_schreven.pdf"
+                        }
+                    ],
+                    "sessNid": "2424",
+                    "oldPath": "/conferences/2003/presentation/2465",
+                    "nid": "2465",
+                    "postDate": "2011-07-08 13:47:18 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "B2: DDI, Nesstar and ISO: Pushing the Boundaries",
+            "abstract": "",
+            "chair": "Fay Booker, University of Chicago",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "6",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2425",
+            "nid": "2425",
+            "postDate": "2011-07-07 10:55:28 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "DAIS|nesstar - An Update",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Bill Bradley",
+                            "institution": "Health Canada"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2425",
+                    "oldPath": "/conferences/2003/presentation/2466",
+                    "nid": "2466",
+                    "postDate": "2011-07-08 13:47:48 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Is Your Data Facility ISO Compliant? Progress Towards Harmonizing the DDI and ISO 11179",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Daniel Gillman",
+                            "institution": "U.S. Bureau of Labor Statistics"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/b2_gillman.pdf",
+                            "name": "b2_gillman.pdf"
+                        }
+                    ],
+                    "sessNid": "2425",
+                    "oldPath": "/conferences/2003/presentation/2467",
+                    "nid": "2467",
+                    "postDate": "2011-07-08 13:48:20 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "B3: Changes in the way Data Archives Process Data",
+            "abstract": "",
+            "chair": "Katherine McNeill-Harman, MIT",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "7",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2426",
+            "nid": "2426",
+            "postDate": "2011-07-07 10:56:39 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Data Processing in FSD: Challenges in a New Archive",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Hannele Keckman-Koivuniemi",
+                            "institution": "Finnish Social Science Data Archive"
+                        },
+                        {
+                            "name": "Mari Kleemola",
+                            "institution": "Finnish Social Science Data Archive"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/b3_fsd.pdf",
+                            "name": "b3_fsd.pdf"
+                        }
+                    ],
+                    "sessNid": "2426",
+                    "oldPath": "/conferences/2003/presentation/2468",
+                    "nid": "2468",
+                    "postDate": "2011-07-08 13:49:06 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Data Processing in Danish Data Archives",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Anne Sofie Fink",
+                            "institution": "Danish Data Archives"
+                        },
+                        {
+                            "name": "Soren Priisholm",
+                            "institution": "Danish Data Archives"
+                        },
+                        {
+                            "name": "Birgitte Jensen",
+                            "institution": "Danish Data Archives"
+                        },
+                        {
+                            "name": "Bernhard Hansen",
+                            "institution": "Danish Data Archives"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2426",
+                    "oldPath": "/conferences/2003/presentation/2469",
+                    "nid": "2469",
+                    "postDate": "2011-07-08 13:50:37 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Data Processing in the UK Data Archive",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Alasdair Crockett",
+                            "institution": "UK Data Archive"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2426",
+                    "oldPath": "/conferences/2003/presentation/2470",
+                    "nid": "2470",
+                    "postDate": "2011-07-08 13:51:05 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Data Processing at ICPSR",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Darrell Donakowski",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/b3_donakowski.pdf",
+                            "name": "b3_donakowski.pdf"
+                        }
+                    ],
+                    "sessNid": "2426",
+                    "oldPath": "/conferences/2003/presentation/2471",
+                    "nid": "2471",
+                    "postDate": "2011-07-08 13:51:33 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "C1: Historical Spatial Data: Enriching GIS",
+            "abstract": "",
+            "chair": "Walter Piovesan, Simon Fraser University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "8",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2427",
+            "nid": "2427",
+            "postDate": "2011-07-07 10:57:18 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Topic - Time - Geography: Navigating the Triangle of Social Science Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Wendy Thomas",
+                            "institution": "University of Minnesota"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2427",
+                    "oldPath": "/conferences/2003/presentation/2472",
+                    "nid": "2472",
+                    "postDate": "2011-07-08 13:52:06 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The National Historical Geographic Information System: An Update",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "William Block",
+                            "institution": "University of Minnesota"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2427",
+                    "oldPath": "/conferences/2003/presentation/2473",
+                    "nid": "2473",
+                    "postDate": "2011-07-08 13:52:27 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Great Britain Historical GIS: A New Architecture for Web Dissemination",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Humphrey Southall",
+                            "institution": "University of Portsmouth"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2427",
+                    "oldPath": "/conferences/2003/presentation/2474",
+                    "nid": "2474",
+                    "postDate": "2011-07-08 13:52:49 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "C2: Constraints on Data Access: Licenses and Confidentiality",
+            "abstract": "",
+            "chair": "Dan Tsang, University of California, Irvine",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "9",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2428",
+            "nid": "2428",
+            "postDate": "2011-07-07 10:58:17 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Access to Microdata in the UK: The Case of the Samples of Anonymized Records from the 1991 Census",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Angela Dale",
+                            "institution": "University of Manchester"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/c2_dale.pdf",
+                            "name": "c2_dale.pdf"
+                        }
+                    ],
+                    "sessNid": "2428",
+                    "oldPath": "/conferences/2003/presentation/2475",
+                    "nid": "2475",
+                    "postDate": "2011-07-08 13:57:39 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Licensed to Bill: Single Fare vs Bus Pass",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Cindy Severt",
+                            "institution": "University of Wisconsin, Madison"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2428",
+                    "oldPath": "/conferences/2003/presentation/2476",
+                    "nid": "2476",
+                    "postDate": "2011-07-08 13:58:04 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Meeting the Challenge: The National Population Health Survey and Data Access",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Elizabeth Hamilton",
+                            "institution": "University of New Brunswick"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/c2_hamilton.pdf",
+                            "name": "c2_hamilton.pdf"
+                        }
+                    ],
+                    "sessNid": "2428",
+                    "oldPath": "/conferences/2003/presentation/2477",
+                    "nid": "2477",
+                    "postDate": "2011-07-08 13:58:36 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-28",
+            "title": "C3: Data, Digitization, Electronic Archives and the Web: At a Crossroads",
+            "abstract": "",
+            "chair": "Jeff Moon, Queen's University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "10",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2429",
+            "nid": "2429",
+            "postDate": "2011-07-07 10:58:59 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Digital Library Collections: Fostering Collaboration",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Juri Stratford",
+                            "institution": "University of California, Davis"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2429",
+                    "oldPath": "/conferences/2003/presentation/2478",
+                    "nid": "2478",
+                    "postDate": "2011-07-08 13:59:36 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The Development of the Electronic Records Archives Program at the U.S. National Archives",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Fynette Eaton",
+                            "institution": "National Archives"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2429",
+                    "oldPath": "/conferences/2003/presentation/2479",
+                    "nid": "2479",
+                    "postDate": "2011-07-08 14:00:01 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The Emerging Data Web",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Seth Grimes",
+                            "institution": "Alta Plana Corporation"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2429",
+                    "oldPath": "/conferences/2003/presentation/2480",
+                    "nid": "2480",
+                    "postDate": "2011-07-08 14:00:27 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Constituent Mail Analysis Project (CMAP)",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Joel Herndon",
+                            "institution": "Emory University"
+                        },
+                        {
+                            "name": "Naomi Nelson",
+                            "institution": "Emory University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/c3_emory.pdf",
+                            "name": "c3_emory.pdf"
+                        }
+                    ],
+                    "sessNid": "2429",
+                    "oldPath": "/conferences/2003/presentation/2481",
+                    "nid": "2481",
+                    "postDate": "2011-07-08 14:01:10 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-29",
+            "title": "Plenary II",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "sessionType": "Plenary",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2430",
+            "nid": "2430",
+            "postDate": "2011-07-07 10:59:50 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Literacy and Numeracy: How Does it Add Up?",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Scott Murray",
+                            "institution": "Statistics Canada"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/p2_murray.pdf",
+                            "name": "p2_murray.pdf"
+                        }
+                    ],
+                    "sessNid": "2430",
+                    "oldPath": "/conferences/2003/presentation/2482",
+                    "nid": "2482",
+                    "postDate": "2011-07-08 14:01:48 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-29",
+            "title": "D1: Understanding the Strength in Numbers: Statistical Literacy",
+            "abstract": "",
+            "chair": "Sharon Neary, University of Notre Dame",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "2",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2431",
+            "nid": "2431",
+            "postDate": "2011-07-07 11:03:12 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Data  Statistical Literacy for Librarians",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Ann Gray",
+                            "institution": "Princeton University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2431",
+                    "oldPath": "/conferences/2003/presentation/2483",
+                    "nid": "2483",
+                    "postDate": "2011-07-08 14:02:20 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Public Opinion Matters: A New Roper Center Program Designed to Promote Classroom Use of Public Opinion Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Lois Timms-Ferrara",
+                            "institution": "Roper Center"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/d1_timmferr.pdf",
+                            "name": "d1_timmferr.pdf"
+                        }
+                    ],
+                    "sessNid": "2431",
+                    "oldPath": "/conferences/2003/presentation/2484",
+                    "nid": "2484",
+                    "postDate": "2011-07-08 14:02:50 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Statistical Literacy Survey: Reading Tables and Graphs",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Milo Schield",
+                            "institution": "Augsburg College"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2431",
+                    "oldPath": "/conferences/2003/presentation/2485",
+                    "nid": "2485",
+                    "postDate": "2011-07-08 14:03:14 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-29",
+            "title": "D2: Metadata Conversions: Migration Experiences",
+            "abstract": "",
+            "chair": "Joel Herndon, Emory University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "3",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2432",
+            "nid": "2432",
+            "postDate": "2011-07-07 11:03:54 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Implementation of the DDI at the Roper Center",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Marc Maynard",
+                            "institution": "University of Connecticut"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/d2_maynard.pdf",
+                            "name": "d2_maynard.pdf"
+                        }
+                    ],
+                    "sessNid": "2432",
+                    "oldPath": "/conferences/2003/presentation/2486",
+                    "nid": "2486",
+                    "postDate": "2011-07-08 14:36:41 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "From Metatdata Converstion to MetaDater Management",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Meinhard Moschner",
+                            "institution": "Central Archive for Empirical Social Research"
+                        },
+                        {
+                            "name": "Oliver Watteler",
+                            "institution": "Central Archive for Empirical Social Research"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/d2_mosch-watt.pdf",
+                            "name": "d2_mosch-watt.pdf"
+                        }
+                    ],
+                    "sessNid": "2432",
+                    "oldPath": "/conferences/2003/presentation/2487",
+                    "nid": "2487",
+                    "postDate": "2011-07-08 14:37:27 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "1-2-3, Than's How Elementary It's Gotta Be - Managing DDI",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Ken Miller",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/d2_miller.pdf",
+                            "name": "d2_miller.pdf"
+                        }
+                    ],
+                    "sessNid": "2432",
+                    "oldPath": "/conferences/2003/presentation/2488",
+                    "nid": "2488",
+                    "postDate": "2011-07-08 14:38:08 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-29",
+            "title": "D3: Spatial Data Access Issues: Enabling GIS",
+            "abstract": "",
+            "chair": "Paula Lackie, Carleton College",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "4",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2433",
+            "nid": "2433",
+            "postDate": "2011-07-07 11:04:31 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "FGDC, Meet the DDI: Adding Geospatial Metadata to a Numeric Data Catalog",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Julie Linden",
+                            "institution": "Yale University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/d3_linden.pdf",
+                            "name": "d3_linden.pdf"
+                        }
+                    ],
+                    "sessNid": "2433",
+                    "oldPath": "/conferences/2003/presentation/2489",
+                    "nid": "2489",
+                    "postDate": "2011-07-08 14:39:18 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Privacy and Confidentiality Issues with Spatial Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Deborah Balk",
+                            "institution": "CIESIN - Columbia University"
+                        },
+                        {
+                            "name": "Robert Downs",
+                            "institution": "CIESIN - Columbia University"
+                        },
+                        {
+                            "name": "W. Christopher Lenhardt",
+                            "institution": "CIESIN - Columbia University"
+                        },
+                        {
+                            "name": "Francesca Pozzi",
+                            "institution": "CIESIN - Columbia University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/d3_ciesin.pdf",
+                            "name": "d3_ciesin.pdf"
+                        }
+                    ],
+                    "sessNid": "2433",
+                    "oldPath": "/conferences/2003/presentation/2490",
+                    "nid": "2490",
+                    "postDate": "2011-07-08 14:40:14 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Taking Down Barriers around GIS-data for Dutch Universities",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "David van der Steen",
+                            "institution": "Netherlands Organization for Scientific Research"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2433",
+                    "oldPath": "/conferences/2003/presentation/2491",
+                    "nid": "2491",
+                    "postDate": "2011-07-08 14:40:59 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "Plenary III",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "sessionType": "Plenary",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "1",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2434",
+            "nid": "2434",
+            "postDate": "2011-07-07 11:08:51 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "New Frontiers: GIS, Life, the Universe and Everything",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Dr. Fraser Taylor",
+                            "institution": "Carleton University"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/p3_taylor.pdf",
+                            "name": "p3_taylor.pdf"
+                        }
+                    ],
+                    "sessNid": "2434",
+                    "oldPath": "/conferences/2003/presentation/2492",
+                    "nid": "2492",
+                    "postDate": "2011-07-08 14:41:51 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "E1: Advancing Research and Data Literacy: Empowering Users",
+            "abstract": "",
+            "chair": "Robin Rice, Edinburgh University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "2",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2435",
+            "nid": "2435",
+            "postDate": "2011-07-07 11:09:40 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Exploiting UK Survey Data Sources for Teaching Political Science: Experiences from the Classroom",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Louis Corti",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/e1_corti_1.pdf",
+                            "name": "e1_corti_1.pdf"
+                        }
+                    ],
+                    "sessNid": "2435",
+                    "oldPath": "/conferences/2003/presentation/2493",
+                    "nid": "2493",
+                    "postDate": "2011-07-08 14:48:02 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Focusing in on Student Learning Outcomes: How SDA Helped us Build a Learning Community for Data Users",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Aaron Shrimplin",
+                            "institution": "Miami University, Ohio"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2435",
+                    "oldPath": "/conferences/2003/presentation/2494",
+                    "nid": "2494",
+                    "postDate": "2011-07-08 14:48:26 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "E2: Metadata Power Tools: Persistent Identifiers, Intelligent Agents, and Metadata Modeling",
+            "abstract": "",
+            "chair": "Laine Ruus, University of Toronto",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "3",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2436",
+            "nid": "2436",
+            "postDate": "2011-07-07 11:12:59 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Persistent Identifiers for Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Micah Altman",
+                            "institution": "Harvard University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2436",
+                    "oldPath": "/conferences/2003/presentation/2495",
+                    "nid": "2495",
+                    "postDate": "2011-07-08 14:48:56 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The Role of Metadata for Integrating Data and Documentation: The OSA Labour Supply Panel - A Case Study",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Rob Grim",
+                            "institution": "Institute for Labour Studies"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2436",
+                    "oldPath": "/conferences/2003/presentation/2496",
+                    "nid": "2496",
+                    "postDate": "2011-07-08 14:49:19 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "From Question to Query: An Intelligent Strategy for Making Complex Data Accessible to Novice Users",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Albert Anderson",
+                            "institution": "Public Data Queries, Inc."
+                        },
+                        {
+                            "name": "Heather Branton",
+                            "institution": "Public Data Queries, Inc."
+                        },
+                        {
+                            "name": "Ed Brent",
+                            "institution": "Idea Works"
+                        },
+                        {
+                            "name": "Pawel Slusarz",
+                            "institution": "Idea Works"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2436",
+                    "oldPath": "/conferences/2003/presentation/2497",
+                    "nid": "2497",
+                    "postDate": "2011-07-08 14:50:18 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "From Question to Query: An Intelligent Strategy for Making Complex Data Accessible to Novice Users",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Albert Anderson",
+                            "institution": "Public Data Queries, Inc."
+                        },
+                        {
+                            "name": "Heather Branton",
+                            "institution": "Public Data Queries, Inc."
+                        },
+                        {
+                            "name": "Ed Brent",
+                            "institution": "Idea Works"
+                        },
+                        {
+                            "name": "Pawel Slusarz",
+                            "institution": "Idea Works"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/e2_pdq.pdf",
+                            "name": "e2_pdq.pdf"
+                        }
+                    ],
+                    "sessNid": "2436",
+                    "oldPath": "/conferences/2003/presentation/2498",
+                    "nid": "2498",
+                    "postDate": "2011-07-08 14:50:33 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "E3: A Leadership Role for Data Archives in the Social Sciences",
+            "abstract": "",
+            "chair": "Jerry Bull, Universite de Montreal",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "4",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2437",
+            "nid": "2437",
+            "postDate": "2011-07-07 11:13:43 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Relationships among Archives and the Social Science Research Community - The Case of a Successful Relationship",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Mojca Omerzu",
+                            "institution": "Social Science Data Archives - ADP"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2437",
+                    "oldPath": "/conferences/2003/presentation/2499",
+                    "nid": "2499",
+                    "postDate": "2011-07-08 14:53:46 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The Dutch Question Bank",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Helga van Gelder",
+                            "institution": "NIWI Steinmetz Archive"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/e3_gelderwitt.pdf",
+                            "name": "e3_gelderwitt.pdf"
+                        }
+                    ],
+                    "sessNid": "2437",
+                    "oldPath": "/conferences/2003/presentation/2500",
+                    "nid": "2500",
+                    "postDate": "2011-07-08 14:54:17 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "F1: Balancing Strength of Numbers with Confidentiality",
+            "abstract": "",
+            "chair": "Aspi Balsara, Memorial University of Newfoundland",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "5",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2438",
+            "nid": "2438",
+            "postDate": "2011-07-07 11:14:21 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Research Data and Issues of Confidentiality",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Olusegun Moses Temilola",
+                            "institution": "Nigeria"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2438",
+                    "oldPath": "/conferences/2003/presentation/2501",
+                    "nid": "2501",
+                    "postDate": "2011-07-08 14:56:00 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Public Data and a Thriving Democracy: Threats and Opportunities",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Lisa Neidert",
+                            "institution": "University of Michigan"
+                        },
+                        {
+                            "name": "Janet Eisenhauer",
+                            "institution": "University of Wisconsin"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f1_eisenhauer.pdf",
+                            "name": "f1_eisenhauer.pdf"
+                        },
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f1_neidert_0.pdf",
+                            "name": "f1_neidert_0.pdf"
+                        }
+                    ],
+                    "sessNid": "2438",
+                    "oldPath": "/conferences/2003/presentation/2502",
+                    "nid": "2502",
+                    "postDate": "2011-07-08 14:57:43 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "F2: Transforming Social Science Data Archives",
+            "abstract": "",
+            "chair": "Suzette Giles, Ryerson University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "6",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2439",
+            "nid": "2439",
+            "postDate": "2011-07-07 11:15:09 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "New Directions fo the UK Qualitative Data Service - 2003 and Beyond",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Louise Corti",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f2_corti.pdf",
+                            "name": "f2_corti.pdf"
+                        }
+                    ],
+                    "sessNid": "2439",
+                    "oldPath": "/conferences/2003/presentation/2503",
+                    "nid": "2503",
+                    "postDate": "2011-07-08 14:58:23 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "To be or not to be. That Shouldn't be the Question!",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Ron Dekker",
+                            "institution": "NWO - NL Research Council"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f2_dekker.pdf",
+                            "name": "f2_dekker.pdf"
+                        }
+                    ],
+                    "sessNid": "2439",
+                    "oldPath": "/conferences/2003/presentation/2504",
+                    "nid": "2504",
+                    "postDate": "2011-07-08 14:58:54 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Advances in Data Preservation: The Roper Center Archive Approach",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Cindy Teixeira",
+                            "institution": "University of Connecticut"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f2_teixeira.pdf",
+                            "name": "f2_teixeira.pdf"
+                        }
+                    ],
+                    "sessNid": "2439",
+                    "oldPath": "/conferences/2003/presentation/2505",
+                    "nid": "2505",
+                    "postDate": "2011-07-08 14:59:25 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "From Manuscripts to Metadata: Collaborating Working in the Archives Hub",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Amanda Hill",
+                            "institution": "University of Manchester"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f2_hill.pdf",
+                            "name": "f2_hill.pdf"
+                        }
+                    ],
+                    "sessNid": "2439",
+                    "oldPath": "/conferences/2003/presentation/2506",
+                    "nid": "2506",
+                    "postDate": "2011-07-08 14:59:57 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "F3: The Invisible Force: Supporting Users of Online Services",
+            "abstract": "",
+            "chair": "Chuck Humprhey",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "7",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2440",
+            "nid": "2440",
+            "postDate": "2011-07-07 11:15:54 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Online Services for Electronic Records: U.S. National Archives and Records Administration (NARA)",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Margaret Adams",
+                            "institution": "National Archives and Records Administration"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f3_adams.pdf",
+                            "name": "f3_adams.pdf"
+                        }
+                    ],
+                    "sessNid": "2440",
+                    "oldPath": "/conferences/2003/presentation/2507",
+                    "nid": "2507",
+                    "postDate": "2011-07-08 15:00:39 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Backstage at ICPSR: Supporing Users of ICPSR On-line Services",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Janet Vavra",
+                            "institution": "ICPSR, University of Michigan"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f3_vavra.pdf",
+                            "name": "f3_vavra.pdf"
+                        }
+                    ],
+                    "sessNid": "2440",
+                    "oldPath": "/conferences/2003/presentation/2508",
+                    "nid": "2508",
+                    "postDate": "2011-07-08 15:01:17 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The Case of the UK Data Archive",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Melanie Wright",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/f3_wright.pdf",
+                            "name": "f3_wright.pdf"
+                        }
+                    ],
+                    "sessNid": "2440",
+                    "oldPath": "/conferences/2003/presentation/2509",
+                    "nid": "2509",
+                    "postDate": "2011-07-08 15:01:58 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "G1: Data Archive Models and Infrastructure: International Comparisons",
+            "abstract": "",
+            "chair": "Sue Bryant",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "8",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2441",
+            "nid": "2441",
+            "postDate": "2011-07-07 11:16:41 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Data Services Models: The Results of an International Survey",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Chuck Humphrey",
+                            "institution": "University of Alberta"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/g1_humphrey.pdf",
+                            "name": "g1_humphrey.pdf"
+                        }
+                    ],
+                    "sessNid": "2441",
+                    "oldPath": "/conferences/2003/presentation/2510",
+                    "nid": "2510",
+                    "postDate": "2011-07-08 15:04:22 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Medical Research Data and Models for Sharing and Preserving Data: The Case of the UK Medical Research Council",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Melanie Wright",
+                            "institution": "UK Data Archive, University of Essex"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2441",
+                    "oldPath": "/conferences/2003/presentation/2511",
+                    "nid": "2511",
+                    "postDate": "2011-07-08 15:04:54 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "G2: Data Services: A Mix of the New and the Old",
+            "abstract": "",
+            "chair": "Tess Trost, Texas Tech University",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "9",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2442",
+            "nid": "2442",
+            "postDate": "2011-07-07 11:17:16 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Davidson Data Center and Network (DDCN) - Serving the Need for Data on Transition and Emerging Market Economies",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Cristina Negrut",
+                            "institution": "University of Michigan"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2442",
+                    "oldPath": "/conferences/2003/presentation/2512",
+                    "nid": "2512",
+                    "postDate": "2011-07-08 15:06:31 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Recovering and Preserving Data from a Large Long-term Data Collection Project",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Joseph Olson",
+                            "institution": "Brigham Young University"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2442",
+                    "oldPath": "/conferences/2003/presentation/2513",
+                    "nid": "2513",
+                    "postDate": "2011-07-08 15:07:03 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Getting to Know the Score: Using the First 20 Years to Plan the Next",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Peter Burnhill",
+                            "institution": "University of Edinburgh"
+                        },
+                        {
+                            "name": "Alison Bayley",
+                            "institution": "University of Edinburgh"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/g2_burnbay.pdf",
+                            "name": "g2_burnbay.pdf"
+                        }
+                    ],
+                    "sessNid": "2442",
+                    "oldPath": "/conferences/2003/presentation/2514",
+                    "nid": "2514",
+                    "postDate": "2011-07-08 15:07:48 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Getting to Know the Score: Using the First 20 Years to Plan the Next",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Peter Burnhill",
+                            "institution": "University of Edinburgh"
+                        },
+                        {
+                            "name": "Alison Bayley",
+                            "institution": "University of Edinburgh"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/g2_burnbay_0.pdf",
+                            "name": "g2_burnbay_0.pdf"
+                        }
+                    ],
+                    "sessNid": "2442",
+                    "oldPath": "/conferences/2003/presentation/2515",
+                    "nid": "2515",
+                    "postDate": "2011-07-08 15:08:21 -0700"
+                }
+            ]
+        },
+        {
+            "year": "2003",
+            "day": "2003-05-30",
+            "title": "G3: International Statistics: Strength Through Collaboration",
+            "abstract": "",
+            "chair": "Elizabeth Hamilton, University of New Brunswick",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "10",
+            "hostNid": "1329",
+            "oldPath": "/conferences/2003/session/2443",
+            "nid": "2443",
+            "postDate": "2011-07-07 11:17:53 -0700",
+            "presentations": [
+                {
+                    "year": "2003",
+                    "title": "Comparability of Cross-National Data: How does the UNESCO Institute for Statistics approach the issue?",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Yanhong Zhang",
+                            "institution": "UNESCO Institute for Statistics"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2443",
+                    "oldPath": "/conferences/2003/presentation/2516",
+                    "nid": "2516",
+                    "postDate": "2011-07-08 15:08:55 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "The UNESCO Institute for Statistics: How we decide what data to collect",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Diane Stukel",
+                            "institution": "UNESCO Institute for Statistics"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/g3_stukel.pdf",
+                            "name": "g3_stukel.pdf"
+                        }
+                    ],
+                    "sessNid": "2443",
+                    "oldPath": "/conferences/2003/presentation/2517",
+                    "nid": "2517",
+                    "postDate": "2011-07-08 15:09:35 -0700"
+                },
+                {
+                    "year": "2003",
+                    "title": "Serving up Statistics to an International Community",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Brian Buffett",
+                            "institution": "UNESCO Institute for Statistics"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2003/g3_buffett.pdf",
+                            "name": "g3_buffett.pdf"
+                        }
+                    ],
+                    "sessNid": "2443",
+                    "oldPath": "/conferences/2003/presentation/2518",
+                    "nid": "2518",
+                    "postDate": "2011-07-08 15:10:20 -0700"
+                }
+            ]
+        }
+    ]
+}
