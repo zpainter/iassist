@@ -13,16 +13,19 @@ Our members work in information technology, libraries, data services, research &
 
 **&raquo; [Join IASSIST](/about/become-a-member "More information on becoming a member")**
 
-### 300+  Members from a variety of settings
+### 350+ Members from a variety of settings
 
-![Pie chart of IASSIST members across the globe. Almost 50% are in the US, 25% in Europe and 15% in Canada.](/img/about/trial2.jpg "IASSIST members across the globe")
+Our members represent a variety of organizational sectors but a vast majority are within acedemia, working in data services, libraries, archives or research positions.
 
--   Academia
--   Government
--   Non-profit sector
--   Private sector
+{{< figure src="/img/about/by-organisational-sector.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="400" >}}
+
+*Numbers represent averages in early 2019.* 
 
 ### Expertise and Colleagues
+
+{{< figure src="/img/about/by-organisational-type.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="450" >}}
+
+Many members identify themselves as 
 
 -   Information specialists
 -   Data librarians
