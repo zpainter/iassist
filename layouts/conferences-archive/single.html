@@ -37,8 +37,8 @@
                               {{ range $pr := $p.presenters }}
                                 <div class="conference-presenters">{{ $pr.name }} ({{ $pr.institution }}) </div>
                               {{ end }}
-                              {{ range $f := $p.files}}
-                                <div class="conference-file"><a href="{{ $f.url }}">{{ $f.name }}</a></div>
+                              {{ if $p.doi }}
+                                <div class="conference-doi"><a href="https://doi.org/{{ $p.doi }}">https://doi.org/{{ $p.doi }}</a></div>
                               {{ end }}
                               <p/>
                             {{ end }}
