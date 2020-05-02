@@ -30,7 +30,7 @@
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="Banner image">
+                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="Banner image"> <!-- ** Fro accessibility we provide images with a default alt -->
                                           {{ else }}
                                           <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="Banner image">
                                           {{ end }}
@@ -42,7 +42,8 @@
                                     <div class="clearfix">
                                         <p class="author-category">
                                           {{ if isset .Params "author" }}
-                                          {{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>
+                                          {{ i18n "authorBy" }} {{ .Params.author }}
+                                          <!-- ** {{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> ** Let's not make authors into links at all-->										  
                                           {{ end }}
                                           {{ if isset .Params "categories" }}
                                           {{ if gt (len .Params.categories) 0 }}
