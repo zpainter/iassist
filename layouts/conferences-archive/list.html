@@ -20,12 +20,17 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-listing-medium">
+					
+					{{ .Content }}
 
                     <!-- /.col-md-9 -->
-					
-                          {{ .Content }}
+                       <ul>
+                         {{ range (.Pages.ByParam "title").Reverse }}
+                          <li class="alternate"><a href="{{ .Permalink }}" target="_blank">{{ .Title }} {{ .Params.location }}</a></li>
+                         {{ end }}
+                       </ul>
 					   
-                    </div>
+                    </div>		
 					
                     <!-- *** LEFT COLUMN END *** -->
 
@@ -36,7 +41,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-						{{ partial "sidebar-conferences.html" . }}
+						{{ partial "sidebar-conferences.html" . }} 
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
