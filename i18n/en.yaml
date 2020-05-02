@@ -78,3 +78,9 @@
 
 - id: 404NavHome
   translation: "Go to homepage"
+
+- id: openPresentation
+  translation: "Open presentation"
+  
+- id: onZenodo
+  translation: "on Zenodo"
