@@ -35,7 +35,7 @@ Many members identify themselves as
 
 ### Networking Opportunities
 
--   Annual conference &raquo; [Read more ](/conferences/conferences "Read more about our annual conference")
+-   Annual conference &raquo; [Read more ](/conferences "Read more about our annual conference")
 -   Active discussion list &raquo; [Read more ](/about/iassist-discussion-list "Read more about our discussion list")
 -   Standing committees, topical interest groups &raquo; [Read more ](/about/committees-and-groups "Read more about our committees and groups")
 -   Professional Development webinars  &raquo; [Read more ](/about/webinars "Read more about our webinars")
