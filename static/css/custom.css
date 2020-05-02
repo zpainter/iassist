@@ -53,7 +53,7 @@ figure.wrap {
 
 /* For longer lists needing a little space around the items */
 li.alternate { 
-	margin-left: 2em;
+	margin-left: 1em;
 	padding-bottom: .25em;
 }
 
@@ -66,7 +66,15 @@ li.alternate {
     line-height: inherit;
 }
 
-/* Various accessibility fixes added to Pink theme. */
+dl dt {
+	padding-top: .5em;
+}
+
+dl dt:first-of-type {
+	padding-top: 0em;	
+}
+
+/* --- Various accessibility fixes added to Pink theme. --- */
 
 .btn-template-main {
   color: #af588e;
@@ -121,7 +129,10 @@ div.home-carousel {
 	background-color:#af588e; /* alternative fallback colour for accessibility */
 }
 
-/* Styles for an optional link button */
+/* -- Accessibility section ends -- */
+
+
+/* Styles for an optional link button. Not in use. */
 .linkButton {
 	box-shadow:inset 0px 1px 0px 0px #efdcfb;
 	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
