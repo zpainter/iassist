@@ -7,8 +7,9 @@ oldpath = "/about/membership/elections/index.html"
 date = "2010-01-08 22:00:26 -0700"
 draft = "false"
 +++
-Questions about the Election? Please contact Elections
-Committee Chair Bill Block (block@cornell.edu).
+Every two years IASSIST conducts an election of officers in each active geographic region. Terms are for two or four years depending on the position.
+
+Questions about the Election? Please contact Elections Committee Chair Tuomas J. Alaterä, tuomas.alatera (at) tuni.fi.
 
 IASSIST Election 2019 - Results
 -------------------------------
@@ -43,6 +44,6 @@ Newly elected officials are listed below. Congratulations to all.
 
 ### Results of the previous Elections
 
-**| [2017](/about/iassist-election-2017-results) | [2015](/about/iassist-election-2015-results) | [2013](/about/iassist-election-2013-results) | [2011](/about/iassist-election-2011-results) | [2009](http://www.iassistdata.org/about/iassist-election-2009-results) | [2007](/about/elections/2007/index.html) | [2004](/about/elections/2004/index.html) | [2002](/about/elections/2002/index.html) |**
+**| [2017](/about/iassist-election-2017-results) | [2015](/about/iassist-election-2015-results) | [2013](/about/iassist-election-2013-results) | [2011](/about/iassist-election-2011-results) | [2009](/about/iassist-election-2009-results) | [2007](/about/iassist-election-2007-results) | [2004](/about/iassist-election-2004-results) | [2002](/about/iassist-election-2002-results) |**
 
  

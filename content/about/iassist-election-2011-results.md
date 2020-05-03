@@ -22,7 +22,7 @@ IASSIST General Assembly in Vancouver in June 2011.
 | Europe                            | Iris Alfredsson                   |
 | United States                     | San Cannon                        |
 |&nbsp;|&nbsp;| 
-| Adminstrative Committee (4 Years)| | 
+| **Adminstrative Committee** (4 Years)| | 
 | Canada| Walter Giesbrecht
 | Europe| Jane Roberts
 | | Oliver Watteler
