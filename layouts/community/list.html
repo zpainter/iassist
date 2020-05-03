@@ -21,7 +21,9 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-listing-medium">
-
+					
+                        {{ .Content }}					
+<!--
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "community") }}
                         {{ range $paginator.Pages }}
                         <section class="post">
@@ -78,6 +80,7 @@
                             <li class="next disabled"><a href="#">{{ i18n "older" }} &rarr;</a></li>
                             {{ end }}
                         </ul>
+						-->
                     </div>
 				
                     <!-- /.col-md-9 -->
