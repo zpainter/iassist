@@ -9,6 +9,8 @@ draft = "false"
 +++
 In 2010, a two year long effort to produce an updated five-year Strategic Plan for IASSIST was completed by the organization's Strategic Plan Action Group. At the 2010 Annual Conference of IASSIST, the Administrative Committee approved the strategic plan and set its implementation into motion.
 
+Though the plan has not been updated since 2014, we still follow the strategic directions set in the plan. 
+
 The focus of the plan is on the following strategic directions:
 
 1.  **Advocacy**: For policies that increase access to data and promote
@@ -26,4 +28,5 @@ Read the full plan:
 
 ### Previous plans
 
--   [Strategic Plan 2004--2009](/file/about/strategic_plan_june2004.pdf) 
+- [Strategic Plan 2004--2009](/file/about/strategic_plan_june2004.pdf) 
+- Strategic Plan 1995 will be digitized in the future.
