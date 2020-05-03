@@ -74,6 +74,12 @@ dl dt:first-of-type {
 	padding-top: 0em;	
 }
 
+/* Simple to change top banner background:
+#heading-breadcrumbs {
+    background: url('/img/banners/binary-pink.png') center center repeat;
+}
+*/
+
 /* --- Various accessibility fixes added to Pink theme. --- */
 
 .btn-template-main {
