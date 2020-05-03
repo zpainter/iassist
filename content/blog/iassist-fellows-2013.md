@@ -7,10 +7,8 @@ tags = [ "Africa", "Community of Data Professionals", "Archiving, Preservation, 
 oldpath = "/blog/iassist-fellows-2013"
 date = "2013-05-06 19:38:07 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2013_logo_header.png"
 +++
-** **
-
 The IASSIST Fellows Committee is glad to announce through this post the
 six recipients of the 2013 IASSIST Fellowship award. We are extremely
 excited to have such a diverse and interesting group with different

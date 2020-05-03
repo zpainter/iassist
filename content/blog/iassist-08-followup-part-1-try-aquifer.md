@@ -3,11 +3,11 @@ nid = "645"
 uid = "15"
 author = "PamB"
 title = "IASSIST '08 Followup, Part 1:  Try Aquifer!"
-tags = [ "Archiving, Preservation, Curation",]
+tags = [ "Archiving, Preservation, Curation", "IASSIST 2008",]
 oldpath = "/blog/iassist-08-followup-part-1-try-aquifer"
 date = "2008-06-19 16:29:05 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2008logo-theme.png"
 +++
 Like everyone else, I've managed to catch up after being out of the
 office.  But IASSIST was worth every minute!  It was a pretty jampacked
@@ -26,4 +26,4 @@ caricatures look pretty tame.
 
 **Do** check out Aquifer:  <http://www.dlfaquifer.org/>
 
-Pam Baxter IASSIST U.S. Region Secretary
+Pam Baxter<br />IASSIST U.S. Region Secretary

@@ -7,7 +7,7 @@ tags = [ "IASSIST 2008", "Data Access & Open Data",]
 oldpath = "/blog/iassist-08-followup-part-2-restricted-data"
 date = "2008-07-03 13:16:04 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2008logo-theme.png"
 +++
 Regardless of the institutional setting in which we work, more and more
 of us are having to address researcher access to restricted or
@@ -62,4 +62,16 @@ staff, and others), she's compiled an excellent resource, Guidelines
 for Data Sharing and Access.  See the link from here: 
 <http://www.sscnet.ucla.edu/issr/da/resource.htm>
 
-Pam Baxter IASSIST U.S. Region Secretary
+Pam Baxter<br />IASSIST U.S. Region Secretary
+
+<!-- HAS COMMENTS
+One Response to “IASSIST ‘08 Followup, Part 2: Restricted Data”
+
+    Robin Rice Says:
+    August 15th, 2008 at 1:00 pm
+
+    Great notes, Pam, thanks. Too bad more of us didn’t do this for the conference and blog. The link to Libbie’s site at the end looks very useful for us.
+    I just wanted to say that Oliver Watteler’s workshop on Confidentiality for Beginners was quite useful too, https://www.stanford.edu/group/ADS/cgi-bin/drupal/confidentiality-beginners .
+
+-->
+

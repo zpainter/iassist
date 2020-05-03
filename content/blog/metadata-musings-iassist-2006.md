@@ -7,7 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST Conferences", "Other Topics
 oldpath = "/blog/metadata-musings-iassist-2006"
 date = "2006-05-25 11:54:42 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2006-header.png"
 +++
 I will start with a disclaimer that I am not a metadata expert nor do I
 play one on TV but I have been spending a lot of time recently

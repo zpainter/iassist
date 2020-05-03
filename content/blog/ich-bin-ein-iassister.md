@@ -7,7 +7,7 @@ tags = [ "IASSIST 2013",]
 oldpath = "/blog/ich-bin-ein-iassister"
 date = "2013-06-06 08:46:58 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2013_logo_header.png"
 +++
 From 28-31 May, [GESIS - Leibniz Institute for the Social
 Sciences](http://www.gesis.org/en/home/ "GESIS - Leibniz Institute for the Social Sciences")

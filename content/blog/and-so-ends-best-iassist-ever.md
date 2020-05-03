@@ -7,7 +7,7 @@ tags = [ "Community of Data Professionals", "IASSIST 2008", "Data Access & Open 
 oldpath = "/blog/and-so-ends-best-iassist-ever"
 date = "2008-06-02 08:49:44 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2008logo-theme.png"
 +++
 And another conference has passed. It's so sad to think that it will be
 another year before we get together again but at least we can play
@@ -25,51 +25,65 @@ closing tune!
 
 /san/
 
-Pulled into Frisco, was feeling 'bout half past dead Metadata schemas
-circling round my head Version 3 will fix that, the DDI man said Come to
-IASSIST with me, and at least you'll be well fed!
+Pulled into Frisco, was feeling ’bout half past dead<br />
+Metadata schemas circling round my head<br />
+Version 3 will fix that, the DDI man said<br />
+Come to IASSIST with me, and at least you’ll be well fed!
 
-Chorus
-Oh the Tech of Data Will set the data freeeee It's the tech of Data And
-(and and and) IASSIST (IASSIST) is the place to be
+Chorus<br />
+Oh the Tech of Data<br />
+Will set the data freeeee<br />
+It’s the tech of Data<br />
+And (and and and)<br />
+IASSIST (IASSIST) is the place to be<br />
 
-At the AC meeting, we talked of strategy And the workshops, 8 in all,
-took over the library Are you now or have ever been a cheese-eating
-monkey? It's just amazing what you can do with version 3
-
-Chorus
-
-Plenary speaker, was she Catherine or was she Jo? All we know for
-certain is Steve's her baby bro Lizza only talked to Tom: fellow data
-geeks, you know And in New Zealand it's the sheep that run the show.
-
-Mash-ups are mashtastic, may the data be with you Who's the guy with
-the mohawk? oh it's Walter and he's blue! Ann Snoodle's got a
-t-shirt, and look, there's SusieQue Welcome SecondLifers to the crazy
-data crew
+At the AC meeting, we talked of strategy<br />
+And the workshops, 8 in all, took over the library<br />
+Are you now or have ever been a cheese-eating monkey?<br />
+It’s just amazing what you can do with version 3
 
 Chorus
 
-Keep it simple stupid, whatcha need a BMW for? Arofan pushed SDMX and
-was greeted with a snore And the Finns asked will you need me, when I'm
-64? Tried to make the 8-ball fall, and they almost broke the floor!
+Plenary speaker, was she Catherine or was she Jo?<br />
+All we know for certain is Steve’s her baby bro<br />
+Lizza only talked to Tom: fellow data geeks, you know<br />
+And in New Zealand it’s the sheep that run the show.
 
-Torturing nurses with data can really be a blast And the Business
-Meeting has never gone so fast Don't let Marilyn near it, if you want
-your machine to last Does that make Ekke Scrooge, Bo, if you're the
-ghost of Christmas past?
+Mash-ups are mashtastic, may the data be with you<br />
+Who’s the guy with the mohawk? oh it’s Walter and he’s blue!<br />
+Ann Snoodle’s got a t-shirt, and look, there’s SusieQue<br />
+Welcome SecondLifers to the crazy data crew
 
 Chorus
 
-Banquet drumming wowed us, baby Taiko high five dude Potato-tinis and
-lots of other crazy food [is that port or pork?] From Johnny Cash to
-Brick House, the band got us in the mood Dual Turkey sessions meant we
-got our dose of crude
+Keep it simple stupid, whatcha need a BMW for?<br />
+Arofan pushed SDMX and was greeted with a snore<br />
+And the Finns asked will you need me, when I’m 64?<br />
+Tried to make the 8-ball fall, and they almost broke the floor!
+<br />
+Torturing nurses with data can really be a blast<br />
+And the Business Meeting has never gone so fast<br />
+Don’t let Marilyn near it, if you want your machine to last<br />
+Does that make Ekke Scrooge, Bo, if you’re the ghost of Christmas past?
 
-Now it's nearly over, nearly time to say goodbye Ron, you've been so
-special, the standard you set is high San and Ellie can't be beat,
-though Bo and Kate will try And we'll see you all next year, when to
-Finland we will fly!
+Chorus
 
-Oh the tech of data Will set the data freeeee It's the tech of data and
-(and and and) IASSIST (IASSIST) is the place to be
+Banquet drumming wowed us, baby Taiko high five dude<br />
+Potato-tinis and lots of other crazy food [is that port or pork?]<br />
+From Johnny Cash to Brick House, the band got us in the mood<br />
+Dual Turkey sessions meant we got our dose of crude
+
+Now it’s nearly over, nearly time to say goodbye<br />
+Ron, you’ve been so special, the standard you set is high<br />
+San and Ellie can’t be beat, though Bo and Kate will try<br />
+And we’ll see you all next year, when to Finland we will fly!
+
+Oh the tech of data<br />
+Will set the data freeeee<br />
+It’s the tech of data<br />
+and (and and and)<br />
+IASSIST (IASSIST) is the place to be
+
+
+
+

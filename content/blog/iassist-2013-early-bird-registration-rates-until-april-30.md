@@ -7,7 +7,7 @@ tags = [ "IASSIST Conferences", "IASSIST 2013", "News and Announcements",]
 oldpath = "/blog/iassist-2013-early-bird-registration-rates-until-april-30"
 date = "2013-04-18 13:38:58 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2013_logo_header.png"
 +++
 GESIS -- Leibniz Institute for the Social Sciences is proud to host the
 IASSIST 2013 Conference

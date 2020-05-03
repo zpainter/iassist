@@ -3,11 +3,11 @@ nid = "629"
 uid = "11"
 author = "San"
 title = "And we're off.... IASSIST 2008 gets ready to roll!"
-tags = [ "Community of Data Professionals",]
+tags = [ "Community of Data Professionals", "IASSIST 2008",]
 oldpath = "/blog/and-were-iassist-2008-gets-ready-roll"
 date = "2007-12-20 13:01:29 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2008logo-theme.png"
 +++
 Now I start to fulfill my previous promise to completely and totally
 abuse my roll as managing editor of the IASSIST Communique to assist me

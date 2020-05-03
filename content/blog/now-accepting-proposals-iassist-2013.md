@@ -3,11 +3,11 @@ nid = "3358"
 uid = "8"
 author = "jend"
 title = "Now Accepting Proposals for IASSIST 2013"
-tags = [ "Community of Data Professionals", "IASSIST Conferences",]
+tags = [ "Community of Data Professionals", "IASSIST Conferences", "IASSIST 2013",]
 oldpath = "/blog/now-accepting-proposals-iassist-2013"
 date = "2012-11-01 08:14:09 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/iassist2013_logo_header.png"
 +++
 IASSIST 2013 will be hosted by GESIS -- Leibniz Institute for the Social
 Sciences at
