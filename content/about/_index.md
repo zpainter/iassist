@@ -1,23 +1,34 @@
----
-title: "About"
-description: "This is IASSIST"
----
++++
+nid = "3067"
+uid = "1"
+author = "administrator"
+title = "About IASSIST"
+description = "This is IASSIST"
+oldpath = "/about/index.html"
+date = "2012-03-19 17:12:52 -0700"
+draft = "false"
++++
 IASSIST (International Association for Social Science Information Service and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST was founded already in 1974. We want to leverage our unique expertise in the social sciences to help benefit all data professionals and support open science.
 
 Our members work in information technology, libraries, data services, research & higher education, government, non-profit and private research sector to discover data, curate it, make it available, and keep it available. We work together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 
-&raquo; [Join IASSIST](/about/become-a-member "More information on becoming a member")
+**&raquo; [Join IASSIST](/about/become-a-member "More information on becoming a member")**
 
-### 300+  Members from a variety of settings
+### 350+ Members from a variety of settings
 
-![Pie chart of IASSIST members across the globe. Almost 50% are in the US, 25% in Europe and 15% in Canada.](/img/about/trial2.jpg "IASSIST members across the globe")
+Our members represent a variety of organizational sectors across the globe, but a vast majority are within acedemia, working in data services, libraries, archives or research positions.
 
--   Academia
--   Government
--   Non-profit sector
--   Private sector
+{{< figure src="/img/about/by-region.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}
+<br />
+{{< figure src="/img/about/by-organisational-sector.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}
+
+*Numbers represent averages in early 2019.* 
 
 ### Expertise and Colleagues
+
+{{< figure src="/img/about/by-organisational-type.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}<br />
+
+Many members identify themselves as 
 
 -   Information specialists
 -   Data librarians
@@ -27,10 +38,10 @@ Our members work in information technology, libraries, data services, research &
 
 ### Networking Opportunities
 
--   Annual conference &raquo; [Read more ](/conference "Read more about our annual conference")
--   Active discussion list &raquo; [Read more ](/membership/discussion-list "Read more about our discussion list")
+-   Annual conference &raquo; [Read more ](/conferences "Read more about our annual conference")
+-   Active discussion list &raquo; [Read more ](/about/iassist-discussion-list "Read more about our discussion list")
 -   Standing committees, topical interest groups &raquo; [Read more ](/about/committees-and-groups "Read more about our committees and groups")
--   Webinars  &raquo; [Read more ](/membership/webinars "Read more about our webinars")
+-   Professional Development webinars  &raquo; [Read more ](/about/webinars "Read more about our webinars")
 
 ## Goals
 
@@ -43,36 +54,14 @@ As an organization IASSIST strives to:
 
 ## IASSIST communities 
 
-![](/img/about/vendiagram_final.png)
+{{< figure src="/img/about/membership-venn.png" alt="Venn diagram of IASSIST core communities: These three are social scientists and researchers, data and information specialists, and data scientists, methodologists and computing specialists." title="" width="450" >}}<br />
 
-Alternative image markdown
-
-{{< figure src="/img/about/vendiagram_final.png" title="Our core communities" >}}
-
--   Social science researchers and scientists who are producers and
-    users of micro and macro-level social data;
--   Information specialists, who preserve social data, manage facilities
-    and provide services that promote the secondary use of social data;
--   Methodologists and computing specialists who advance technical
-    methods to manipulate and analyze social data.
+-   Social science researchers and scientists who are producers and users of micro and macro-level social data;
+-   Information/data specialists, who curate and preserve social data, manage facilities and provide services that promote the secondary use of social data;
+-   Methodologists, computing specialists and data scientists who advance technical methods to manipulate and analyze social data.
 
 ## Strategic Directions
 
 -   IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
--   Read our most recent strategic plan: **[Democratizing Data - The IASSIST Strategic Plan 2010-2014](https://iassistdata.org/about/strategic-plan)**.
+-   Read our most recent strategic plan: **[Democratizing Data - The IASSIST Strategic Plan 2010-2014](/about/strategic-plans)**.
 
-## Media
-
--   **[IASSIST Factsheet](/files/about/iassist_factsheet_2016.pdf)** (PDF)
-
-![alt-text](/img/about/factsheet2016.png "IASSIST Factsheet")
-
-**IASSIST tri-fold brochure** (PDF)
-
-![alt-text](/img/about/brochurethumb_2.png "IASSIST tri-fold brochure")
-
--   [English](/file/about/printiassistbrochure_2013.pdf)
--   [French](/file/about/printiassistbrochurefrench_2012.pdf)
--   [German](/file/about/printiassistbrochuregerman_2013.pdf)
--   [Portuguese](/file/about/printiassistbrochureport_2012.pdf)
--   [Spanish](/file/about/printiassistbrochurespanish_2012.pdf)
