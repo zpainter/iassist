@@ -310,27 +310,6 @@
             "postDate": "2011-07-22 14:28:12 -0700",
             "presentations": [
                 {
-                    "year": "2009",
-                    "title": "Using DDI3 in a Technology Based Assessment environment - opportunities and problems",
-                    "abstract": "The Technology Based Assessment (TBA) group at the German Institute for International Educational Research (DIPF) uses DDI3 in several settings to record metadata for paper  pencil environments. Nevertheless, as the original aim of the group is to transit studies from paper  pencil to computer based assessment it is planned to evolve electronic questionnaires (e.g. CAPI and CATI instruments) like they are used in studies like PISA or PIAAC to a common standard. At the moment TBA uses an own propriety XML structure to describe the items within the questionnaire, but is considering moving towards DDI3 also in the rendering engine which means the metadata and item development tool programmed for the pp instruments can be used as item editor for computer based questionnaires. This presentation will show the opportunities and also challenges for this process as well as introducing a workflow from the metadata editor to the rendering engine. Furthermore the newest version of Metadata Editor as well as a first prototype of the rendering engine will be shown. All tools in this presentation are open source software and can be requested for an own usage. ",
-                    "presenters": [
-                        {
-                            "name": "Ingo Barkow",
-                            "institution": "DIPF - German Institute for International Educational Research"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/2011_a1_barkow.pdf",
-                            "name": "2011_a1_barkow.pdf"
-                        }
-                    ],
-                    "sessNid": "2807",
-                    "oldPath": "/conferences/2009/presentation/2879",
-                    "nid": "2879",
-                    "postDate": "2011-09-23 12:42:33 -0700"
-                },
-                {
                     "year": "2011",
                     "title": "Can DDI eXist?",
                     "abstract": "This paper is about how the xml-database eXist can store and index DDI-instances. Some of the technical advantages of the implementation is very fast full-text search in documents, fast and flexible indexing with the built-in indexing engine Lucene and fast development of xml-webservices directly within eXist. We will look at the implementation of Swedish National Data Service's DDI3 based question bank in eXist and show examples of indexing and accessing DDI using eXist. ",

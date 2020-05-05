@@ -728,7 +728,7 @@
                     "files": [
                         {
                             "url": "https://iassistdata.org/sites/default/files/../../../downloads/2009/b1_gey.pdf",
-                            "name": "b1_gey.pdf"
+                            "name": "2009_b1_gey.pdf"
                         }
                     ],
                     "sessNid": "1180",
@@ -1049,6 +1049,22 @@
             "presentations": [
                 {
                     "year": "2009",
+                    "title": "Panelist 2: Why Best Practices?",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Arofan Gregory",
+                            "institution": "Open Data Foundation"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "1195",
+                    "oldPath": "/conference/2009/presentation/1366",
+                    "nid": "1366",
+                    "postDate": "2011-02-11 17:43:32 -0700"
+                },
+                {
+                    "year": "2009",
                     "title": "Panelist 1:The Business Best Practices",
                     "abstract": "",
                     "presenters": [
@@ -1067,22 +1083,6 @@
                     "oldPath": "/conference/2009/presentation/1359",
                     "nid": "1359",
                     "postDate": "2011-02-09 19:17:58 -0700"
-                },
-                {
-                    "year": "2009",
-                    "title": "Panelist 2: Why Best Practices?",
-                    "abstract": "",
-                    "presenters": [
-                        {
-                            "name": "Arofan Gregory",
-                            "institution": "Open Data Foundation"
-                        }
-                    ],
-                    "files": [],
-                    "sessNid": "1195",
-                    "oldPath": "/conference/2009/presentation/1366",
-                    "nid": "1366",
-                    "postDate": "2011-02-11 17:43:32 -0700"
                 },
                 {
                     "year": "2009",

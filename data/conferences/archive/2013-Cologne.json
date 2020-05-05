@@ -2573,6 +2573,60 @@
             "presentations": [
                 {
                     "year": "2013",
+                    "title": "How to Make the Most of Your IASSIST Membership between Conferences",
+                    "abstract": "What does it mean to be a member of IASSIST these days? Does IASSIST do anything other than host annual conferences? Come talk with members of the Communications Committee, the Membership Chair and other IASSIST officials to discuss these and other burning questions you may have. This interactive poster session will reveal ways to get more deeply involved in IASSIST in between conferences by joining committees or interest groups. Perhaps you want to give something back to the organization you love so much. Perhaps you have an idea how the organization can do things better (and even better, the time to help us put it into practice). Perhaps you want to know if others share an important professional interest and how to take that forward. Or, perhaps you are a new member and are just curious to know what makes IASSIST tick. The poster will explain how the committee structure of IASSIST works, how you can contribute your time or expertise to benefit the organization, and will present results of the recent members\u2019 survey. More importantly, IASSIST committee members will be at the poster session ready to talk to you about YOUR needs and interests regarding any aspect of the organization. A suggestion box will be available for anyone wishing to provide anonymous feedback. IASSIST is currently 100 percent volunteer run. We know we\u2019re not perfect. Help us improve through your active participation and feedback.",
+                    "presenters": [
+                        {
+                            "name": "Robin Rice",
+                            "institution": "University of Edinburgh, EDINA  Data Library"
+                        },
+                        {
+                            "name": "Tuomas Alatera",
+                            "institution": "Finnish Social Science Data Archive (FSD)"
+                        },
+                        {
+                            "name": "Thomas Lindsay",
+                            "institution": "University of Minnesota"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2013/2013_poster_rice_etal.pdf",
+                            "name": "2013_poster_rice_etal.pdf"
+                        }
+                    ],
+                    "sessNid": "3534",
+                    "oldPath": "/conferences/2013/presentation/3634",
+                    "nid": "3634",
+                    "postDate": "2014-02-11 13:07:21 -0700"
+                },
+                {
+                    "year": "2013",
+                    "title": "A Good Practice of Cooperation Between Social Science Data Archives and a National Statistics Office: The Slovenian Example",
+                    "abstract": "The Statistical Office (SORS) and the Social Science Data Archives (ADP) are both partners of the DwB project. The start of the cooperation between the organizations dates back to the nineties. Since then ADP has been distributing PUF micro- and metadata of surveys such as LFS. The cooperation was increased in 2012 to achieve the main goals of the DwB project in the national level easier. As the projects main objective is to assist European researchers in the access to the official statistics micro-data, meta- and micro-data, including the list of available micro-data, have been prepared. ADP will soon distribute metadata and PUF micro-data for the most important SORS micro-data. In the poster presentation I will expose the problems and challenges we've come across while improving the research environment. We will comment on how the cooperation between archives and NSO's could be improved and also discuss what those organizations could offer to each other. Both Slovene organizations believe that the cooperation should be extended beyond the requirements of the project and become a part of a long term commitment to assist researchers. So it is an example of a good practice which should be implemented in other countries across Europe as well.",
+                    "presenters": [
+                        {
+                            "name": "Sebastian Ko\u010dar",
+                            "institution": "Slovene Social Science Data Archives (ADP)"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2013/2013_poster_kocar_1of2.pdf",
+                            "name": "2013_poster_kocar_1of2.pdf"
+                        },
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2013/2013_poster_kocar_2of2.pdf",
+                            "name": "2013_poster_kocar_2of2.pdf"
+                        }
+                    ],
+                    "sessNid": "3534",
+                    "oldPath": "/conferences/2013/presentation/3633",
+                    "nid": "3633",
+                    "postDate": "2014-02-11 12:59:36 -0700"
+                },
+                {
+                    "year": "2013",
                     "title": "Collaborative Research: Metadata Portal for the Social Sciences",
                     "abstract": "ICPSR, ANES/ISR, and NORC are currently engaged in a new collaborative effort to create a common metadata portal for two of the most important data collections in the U.S. - the American National Election Studies (ANES) and General Social Survey (GSS). Technical support is provided by Metadata Technology. This pilot project, funded by the National Science Foundation, proposes to build a combined library of machine-actionable DDI metadata for these collections, and demonstrate DDI-based tools for advanced searching, dynamic metadata presentation, and other functions meant to facilitate discovery and analysis of these data. The project will also lay a foundation for developing new metadata-driven workflows for both ANES and GSS. This poster will present our plan of action and the roles of the partners involved in different phases of the project. The progress made in the first stages will be discussed both in terms of accomplishments and any difficulties that had to be overcome.",
                     "presenters": [
@@ -3084,60 +3138,6 @@
                     "oldPath": "/conferences/2013/presentation/3632",
                     "nid": "3632",
                     "postDate": "2014-02-11 10:55:40 -0700"
-                },
-                {
-                    "year": "2013",
-                    "title": "A Good Practice of Cooperation Between Social Science Data Archives and a National Statistics Office: The Slovenian Example",
-                    "abstract": "The Statistical Office (SORS) and the Social Science Data Archives (ADP) are both partners of the DwB project. The start of the cooperation between the organizations dates back to the nineties. Since then ADP has been distributing PUF micro- and metadata of surveys such as LFS. The cooperation was increased in 2012 to achieve the main goals of the DwB project in the national level easier. As the projects main objective is to assist European researchers in the access to the official statistics micro-data, meta- and micro-data, including the list of available micro-data, have been prepared. ADP will soon distribute metadata and PUF micro-data for the most important SORS micro-data. In the poster presentation I will expose the problems and challenges we've come across while improving the research environment. We will comment on how the cooperation between archives and NSO's could be improved and also discuss what those organizations could offer to each other. Both Slovene organizations believe that the cooperation should be extended beyond the requirements of the project and become a part of a long term commitment to assist researchers. So it is an example of a good practice which should be implemented in other countries across Europe as well.",
-                    "presenters": [
-                        {
-                            "name": "Sebastian Ko\u010dar",
-                            "institution": "Slovene Social Science Data Archives (ADP)"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2013/2013_poster_kocar_1of2.pdf",
-                            "name": "2013_poster_kocar_1of2.pdf"
-                        },
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2013/2013_poster_kocar_2of2.pdf",
-                            "name": "2013_poster_kocar_2of2.pdf"
-                        }
-                    ],
-                    "sessNid": "3534",
-                    "oldPath": "/conferences/2013/presentation/3633",
-                    "nid": "3633",
-                    "postDate": "2014-02-11 12:59:36 -0700"
-                },
-                {
-                    "year": "2013",
-                    "title": "How to Make the Most of Your IASSIST Membership between Conferences",
-                    "abstract": "What does it mean to be a member of IASSIST these days? Does IASSIST do anything other than host annual conferences? Come talk with members of the Communications Committee, the Membership Chair and other IASSIST officials to discuss these and other burning questions you may have. This interactive poster session will reveal ways to get more deeply involved in IASSIST in between conferences by joining committees or interest groups. Perhaps you want to give something back to the organization you love so much. Perhaps you have an idea how the organization can do things better (and even better, the time to help us put it into practice). Perhaps you want to know if others share an important professional interest and how to take that forward. Or, perhaps you are a new member and are just curious to know what makes IASSIST tick. The poster will explain how the committee structure of IASSIST works, how you can contribute your time or expertise to benefit the organization, and will present results of the recent members\u2019 survey. More importantly, IASSIST committee members will be at the poster session ready to talk to you about YOUR needs and interests regarding any aspect of the organization. A suggestion box will be available for anyone wishing to provide anonymous feedback. IASSIST is currently 100 percent volunteer run. We know we\u2019re not perfect. Help us improve through your active participation and feedback.",
-                    "presenters": [
-                        {
-                            "name": "Robin Rice",
-                            "institution": "University of Edinburgh, EDINA  Data Library"
-                        },
-                        {
-                            "name": "Tuomas Alatera",
-                            "institution": "Finnish Social Science Data Archive (FSD)"
-                        },
-                        {
-                            "name": "Thomas Lindsay",
-                            "institution": "University of Minnesota"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2013/2013_poster_rice_etal.pdf",
-                            "name": "2013_poster_rice_etal.pdf"
-                        }
-                    ],
-                    "sessNid": "3534",
-                    "oldPath": "/conferences/2013/presentation/3634",
-                    "nid": "3634",
-                    "postDate": "2014-02-11 13:07:21 -0700"
                 },
                 {
                     "year": "2013",

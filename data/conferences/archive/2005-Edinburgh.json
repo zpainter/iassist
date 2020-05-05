@@ -1588,6 +1588,26 @@
             "presentations": [
                 {
                     "year": "2005",
+                    "title": "Industrial classification and the depiction of open source\u2013based production data",
+                    "abstract": "The implementation of the  North American Industry Classification System (NAICS) in 1997 signalled a  dramatic and influential break with the past by replacing the Standard  Industrial Classification (SIC) scheme in use until then to collect  information about the American economy. NAICS aims at nothing less than  capturing and measuring the information economy. While the change  represents an important improvement over the previous system, it also  illustrates the difficulty of organizing and aggregating data intended  to describe a dynamic economy. To illustrate this issue we look at the  ways in which an increasingly significant element of the economy, open  source-based software production, is not really depicted or even  depictable in NAICS. We argue that the underlying values embedded in  NAICS leave no room for novel features of the new economy, such as  production practices that interact with traditional forms of economic  exchange but are not subject to its rules.",
+                    "presenters": [
+                        {
+                            "name": "Fernando Elichirigoity",
+                            "institution": "University of Illinois"
+                        },
+                        {
+                            "name": "Cheryl Knott Malone",
+                            "institution": "University of Arizona"
+                        }
+                    ],
+                    "files": [],
+                    "sessNid": "2041",
+                    "oldPath": "/conferences/2005/presentation/2578",
+                    "nid": "2578",
+                    "postDate": "2011-07-15 15:34:03 -0700"
+                },
+                {
+                    "year": "2005",
                     "title": "The history of the social survey \u2013 the social survey in history",
                     "abstract": "The social survey as we know  it today has roots far back in modern history. It dates back to the idea  of the Enlightenment that careful description of natural species,  formations of clouds, the population etc. could give an insight that was  worth getting.   The paper will outline the history of the social survey starting from  the studies of the poor in the UK carried out by philanthropists up till  the social surveys carried out continuously in the modern welfare  state. One aspect of this history is the formation of data archives in a  wide range of nation states around the world since the 1960s. The data  archives were given the obligation of storing and distributing social  survey data sets, as governments acknowledged the great scientific value  of social survey data sets.   In many respects, to tell the history of the social survey is to tell  the history of the development of the modern welfare state. The argument  of the paper will be that the two have walked hand in hand. As we  debate the challenges, limitations, and responsibilities of the welfare  state so we as data archivists must be aware of the challenges,  limitations, and responsibilities of the social survey as a tool for  public administration and social science.                        ",
                     "presenters": [
@@ -1631,26 +1651,6 @@
                     "oldPath": "/conferences/2005/presentation/2577",
                     "nid": "2577",
                     "postDate": "2011-07-15 15:32:43 -0700"
-                },
-                {
-                    "year": "2005",
-                    "title": "Industrial classification and the depiction of open source\u2013based production data",
-                    "abstract": "The implementation of the  North American Industry Classification System (NAICS) in 1997 signalled a  dramatic and influential break with the past by replacing the Standard  Industrial Classification (SIC) scheme in use until then to collect  information about the American economy. NAICS aims at nothing less than  capturing and measuring the information economy. While the change  represents an important improvement over the previous system, it also  illustrates the difficulty of organizing and aggregating data intended  to describe a dynamic economy. To illustrate this issue we look at the  ways in which an increasingly significant element of the economy, open  source-based software production, is not really depicted or even  depictable in NAICS. We argue that the underlying values embedded in  NAICS leave no room for novel features of the new economy, such as  production practices that interact with traditional forms of economic  exchange but are not subject to its rules.",
-                    "presenters": [
-                        {
-                            "name": "Fernando Elichirigoity",
-                            "institution": "University of Illinois"
-                        },
-                        {
-                            "name": "Cheryl Knott Malone",
-                            "institution": "University of Arizona"
-                        }
-                    ],
-                    "files": [],
-                    "sessNid": "2041",
-                    "oldPath": "/conferences/2005/presentation/2578",
-                    "nid": "2578",
-                    "postDate": "2011-07-15 15:34:03 -0700"
                 }
             ]
         },
