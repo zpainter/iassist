@@ -1,0 +1,1449 @@
+{
+  "conferenceYear": "2019",
+  "title": "IASSIST 2019: Data down under: Exploring \"data firsts\"",
+  "city": "Sydney",
+  "dateText": "May 27-31, 2019",
+  "startDate": "2019-05-27",
+  "endDate": "2018-05-31",
+  "conferenceNum": "45",
+  "sessions": [
+    {
+      "title": "A1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Open Source Solutions for Curation and Dissemination: Introducing New Multi-Data and Multi-Standard World Bank Tools and Schemas",
+          "doi": "10.5281/zenodo.3600562",
+          "presenters": [
+            {
+              "name": "Welch, Matthew",
+              "institution": "World Bank"
+            },
+            {
+              "name": "Dupriez, Oliver",
+              "institution": "World Bank"
+            },
+            {
+              "name": "Asghar, Mahmood",
+              "institution": "World Bank"
+            },
+            {
+              "name": "Sharp, Michael",
+              "institution": "The Pacific Community (SPC)"
+            },
+            {
+              "name": "Pontifex, Scott",
+              "institution": "The Pacific Community (SPC)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Improving Outreach Services to Data Users in Uganda: A Case of Uganda Bureau of Statistics",
+          "doi": "10.5281/zenodo.3605409",
+          "presenters": [
+            {
+              "name": "Akullo, Winny Nekesa",
+              "institution": "Public Procurement and Disposal of Public Assets Authority"
+            },
+            {
+              "name": "Akello, Cissy",
+              "institution": "YMCA Comprehensive Institute"
+            },
+            {
+              "name": "Oyelude, Adetoun",
+              "institution": "Kenneth Dike Library, University of Ibadan"
+            }
+          ]
+        },
+        {
+          "title": "Statistical Open Data: Comparing Mongolia with Other National Open Data Systems",
+          "doi": "10.5281/zenodo.3605403",
+          "presenters": [
+            {
+              "name": "Lkhagva, Myagmarsuren",
+              "institution": "National Statistical Office of Mongolia"
+            }
+          ]
+        },
+        {
+          "title": "Putting Data Policies \"First\" in Nigeria: Challenges and Prospects",
+          "doi": "10.5281/zenodo.3605384",
+          "presenters": [
+            {
+              "name": "Abioye, Abiola",
+              "institution": "Department of Library, Archival and Information Studies, University of Ibadan"
+            },
+            {
+              "name": "Oyelude, Adetoun",
+              "institution": "Kenneth Dike Library, University of Ibadan"
+            }
+          ]
+        },
+        {
+          "title": "Examining Barriers for Establishing a National Data Service",
+          "doi": "10.5281/zenodo.3605184",
+          "presenters": [
+            {
+              "name": "\u0160tebe, Janez",
+              "institution": "University of Ljubljana, Social Sciences Data Archives (ADP)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A3",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "How to deal with Persistent Identifiers? A Survey on PID usage within CESSDA ERIC",
+          "doi": "10.5281/zenodo.3620845",
+          "presenters": [
+            {
+              "name": "Borschewski, Kerrin",
+              "institution": "GESIS"
+            },
+            {
+              "name": "Hausstein, Brigitte",
+              "institution": "GESIS"
+            }
+          ]
+        },
+        {
+          "title": "Informal Data Citation: The Impact on Tracking Shared Data Reuse",
+          "doi": "10.5281/zenodo.3605607",
+          "presenters": [
+            {
+              "name": "Moss, Elizabeth",
+              "institution": "ICPSR, University of Michigan"
+            },
+            {
+              "name": "Lyle, Jared",
+              "institution": "ICPSR, University of Michigan"
+            }
+          ]
+        },
+        {
+          "title": "Toward Connected Scholarly Works Using Graph Technology",
+          "doi": "10.5281/zenodo.3605591",
+          "presenters": [
+            {
+              "name": "Zwagerman, Michelle",
+              "institution": "Analysis & Policy Observatory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Teaching Contextual Evaluation to Professional Students for Data (Re)Use",
+          "doi": "10.5281/zenodo.3612395",
+          "presenters": [
+            {
+              "name": "Sheley, Christina",
+              "institution": "Indiana University Bloomington"
+            },
+            {
+              "name": "Arave, Gary",
+              "institution": "Indiana University Bloomington"
+            }
+          ]
+        },
+        {
+          "title": "Data Virtually",
+          "doi": "10.5281/zenodo.3612397",
+          "presenters": [
+            {
+              "name": "Amen-Ra, Ambyr",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Monzon, Bianca",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Jekielek, Susan",
+              "institution": "ICPSR"
+            }
+          ]
+        },
+        {
+          "title": "First Datathon: Learning about Data via an After-School Data Club",
+          "doi": "10.5281/zenodo.3612393",
+          "presenters": [
+            {
+              "name": "Brodsky, Meryl",
+              "institution": "Eastern Michigan University"
+            },
+            {
+              "name": "Getz, Kelly",
+              "institution": "Eastern Michigan University"
+            }
+          ]
+        },
+        {
+          "title": "How Many Ways Can We Teach Data Literacy",
+          "doi": "10.5281/zenodo.3605609",
+          "presenters": [
+            {
+              "name": "Dai, Yun",
+              "institution": "Library, New York University Shanghai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "B1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "A Data Curation Framework for Humanities, Arts and Social Science Research in Australia",
+          "doi": "10.5281/zenodo.3612405",
+          "presenters": [
+            {
+              "name": "Mason, Ingrid",
+              "institution": "AARNet"
+            }
+          ]
+        },
+        {
+          "title": "The Data Curation Network: Leveraging Expertise to Curate Data at Scale",
+          "doi": "10.5281/zenodo.3612401",
+          "presenters": [
+            {
+              "name": "Blake, Mara",
+              "institution": "Johns Hopkins University"
+            },
+            {
+              "name": "Herndon, Joel",
+              "institution": "Duke University"
+            }
+          ]
+        },
+        {
+          "title": "Community Built Research Data Infrastructure: The Dataverse Project",
+          "doi": "10.5281/zenodo.3612399",
+          "presenters": [
+            {
+              "name": "Brooke, Danny",
+              "institution": "Harvard University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "B2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Building Trust in Scientific Data: CoreTrustSeal Certification & the World Data System",
+          "doi": "10.5281/zenodo.3612437",
+          "presenters": [
+            {
+              "name": "Edmunds, Rorie",
+              "institution": "World Data System"
+            },
+            {
+              "name": "Leasor, Heather",
+              "institution": "Australian Data Archive"
+            }
+          ]
+        },
+        {
+          "title": "ICPSR and CoreTrustSeal: Repository Certification Experiences and Opportunities",
+          "doi": "10.5281/zenodo.3612435",
+          "presenters": [
+            {
+              "name": "Lyle, Jared",
+              "institution": "ICPSR, University of Michigan"
+            }
+          ]
+        },
+        {
+          "title": "It's Not Quite Wakanda: Preserving Indigenous Cultural Heritage Augmented and Virtual Reality Environments",
+          "doi": "10.5281/zenodo.3612423",
+          "presenters": [
+            {
+              "name": "Kirby, Jasmine",
+              "institution": "Iowa State University of Science and Technology"
+            },
+            {
+              "name": "Riopelle, Cameron",
+              "institution": "University of Miami"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "B3",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Canada at a Crossroad: RDM and the Broader Digital Research Landscape",
+          "doi": "10.5281/zenodo.3612444",
+          "presenters": [
+            {
+              "name": "Moon, Jeffrey",
+              "institution": "CARL Portage"
+            }
+          ]
+        },
+        {
+          "title": "Sustainable European Multilingual Vocabularies: A Model for Cooperation in Metadata Management among European Data Archives",
+          "doi": "10.5281/zenodo.3612442",
+          "presenters": [
+            {
+              "name": "Barbalet, Suzanne",
+              "institution": "UK Data Service"
+            },
+            {
+              "name": "Bolton, Sharon",
+              "institution": "UK Data Service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "B4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Transforming the Australian Research Sector through a Coordinated National Skills Program",
+          "doi": "10.5281/zenodo.3612451",
+          "presenters": [
+            {
+              "name": "Simons, Natasha",
+              "institution": "Australian Research Data Commons"
+            }
+          ]
+        },
+        {
+          "title": "Skilling Up Even More to Do Data for Reproducibility",
+          "doi": "10.5281/zenodo.3612449",
+          "presenters": [
+            {
+              "name": "Christian, Thu-Mai",
+              "institution": "Odum Institute, University of North Carolina at Chapel Hill"
+            },
+            {
+              "name": "Peer, Limor",
+              "institution": "Institution for Social and Policy Studies"
+            },
+            {
+              "name": "Arguillas, Florio",
+              "institution": "Cornell Institute for Social and Economic Research"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "DDI 4 - The Potential as a Metadata Standard for Cross-Domain Research Data",
+          "doi": "10.5281/zenodo.3612499",
+          "presenters": [
+            {
+              "name": "Wackerow, Joachim",
+              "institution": "GESIS - Leibniz Institute for the Social Sciences"
+            },
+            {
+              "name": "McEachern, Steven",
+              "institution": "Australian Data Archive"
+            }
+          ]
+        },
+        {
+          "title": "Automated Techniques for Measuring Metadata Quality",
+          "doi": "10.5281/zenodo.3612497",
+          "presenters": [
+            {
+              "name": "Spencer, Samuel",
+              "institution": "Aristotle Cloud Services Australia"
+            },
+            {
+              "name": "White, Harry",
+              "institution": "Aristotle Cloud Services Australia"
+            }
+          ]
+        },
+        {
+          "title": "QAMyData: An Open Source Tool for Checking (and Teaching) Data Quality",
+          "doi": "10.5281/zenodo.3612495",
+          "presenters": [
+            {
+              "name": "Corti, Louise",
+              "institution": "UK Data Archive"
+            }
+          ]
+        },
+        {
+          "title": "Standards and Scoring to Increase Transparency for Archived Public Opinion Data",
+          "doi": "10.5281/zenodo.3612493",
+          "presenters": [
+            {
+              "name": "Weldon, Kathleen",
+              "institution": "Roper Center for Public Opinion Research"
+            },
+            {
+              "name": "Kellam, Lynda",
+              "institution": "University of North Carolina - Greensboro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Transnational Access to Controlled Microdata for Research - Overcoming Barriers",
+          "doi": "10.5281/zenodo.3612501",
+          "presenters": [
+            {
+              "name": "Silberman, Roxane",
+              "institution": "CASD (Secure Data Access Centre) & CNRS (National Centre for Scientific Research"
+            },
+            {
+              "name": "Gadouche, Kamel",
+              "institution": "CASD (Secure Data Access Centre)"
+            },
+            {
+              "name": "Lichtwardt, Beate",
+              "institution": "UK Data Service, University of Essex"
+            },
+            {
+              "name": "Mueller, Dana",
+              "institution": "IAB-FDZ (Research Data Centre of the German Federal Employment Agency"
+            },
+            {
+              "name": "Bender, Stefan",
+              "institution": "Deutsche Bundesbank"
+            },
+            {
+              "name": "Hirsch, Christian",
+              "institution": "Deutsche Bundesbank"
+            },
+            {
+              "name": "Doll, Hendrik",
+              "institution": "Deutsche Bundesbank"
+            },
+            {
+              "name": "Hjelm, Claus-G\u00f6ran",
+              "institution": "Statistics Sweden"
+            },
+            {
+              "name": "B\u00f8egh Nielsen, Peter",
+              "institution": "Statistics Denmark"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C3",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Trust, Efficiency, and Equity in Data Market Design",
+          "doi": "10.5281/zenodo.3612569",
+          "presenters": [
+            {
+              "name": "Reeson, Andrew",
+              "institution": "Data 61, CSIRO"
+            },
+            {
+              "name": "Sanderson, Todd",
+              "institution": "Data 61, CSIRO"
+            },
+            {
+              "name": "Box, Paul",
+              "institution": "Land & Water, CSIRO"
+            }
+          ]
+        },
+        {
+          "title": "Understanding the Value of Data",
+          "doi": "10.5281/zenodo.3612565",
+          "presenters": [
+            {
+              "name": "Sanderson, Todd",
+              "institution": "CSIRO"
+            },
+            {
+              "name": "Reeson, Andrew",
+              "institution": "CSIRO"
+            },
+            {
+              "name": "Box, Paul",
+              "institution": "CSIRO"
+            }
+          ]
+        },
+        {
+          "title": "The role of subjective norm in the prediction of researchers' intentions to share data \u2013 Explanations by the Theory of Planned Behavior",
+          "doi": "10.5281/zenodo.3612563",
+          "presenters": [
+            {
+              "name": "Akdeniz, Esra",
+              "institution": "GESIS - Leibniz Insitute for the Social Sciences"
+            },
+            {
+              "name": "Perry, Anja",
+              "institution": "GESIS - Leibniz Insitute for the Social Sciences"
+            }
+          ]
+        },
+        {
+          "title": "Democratization of Data in an Emerging Economy",
+          "doi": "10.5281/zenodo.3612556",
+          "presenters": [
+            {
+              "name": "Obileye, Olatunbosun",
+              "institution": "International Institute of Tropical Agriculture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Building Champions for the Community: a Train the Trainer Model for Digital Research in Humanities, Arts and Social Sciences",
+          "doi": "10.5281/zenodo.3612602",
+          "presenters": [
+            {
+              "name": "Sumner, Tyne",
+              "institution": "University of Melbourne"
+            },
+            {
+              "name": "Tindall, Alexis",
+              "institution": "eRSA"
+            }
+          ]
+        },
+        {
+          "title": "Capturing their \"First\" dataset: A graduate course to walk PhD students through the curation of their dissertation data",
+          "doi": "10.5281/zenodo.3612597",
+          "presenters": [
+            {
+              "name": "Sapp Nelson, Megan",
+              "institution": "Purdue University West Lafayette"
+            },
+            {
+              "name": "Kong, Ningning (Nicole)",
+              "institution": "Purdue University West Lafayette"
+            }
+          ]
+        },
+        {
+          "title": "Getting in Touch with Metadata: A DDI Subset for FAIR Metadata Production by Researchers",
+          "doi": "10.5281/zenodo.3612589",
+          "presenters": [
+            {
+              "name": "Aguiar Castro, Jo\u00e3o",
+              "institution": "INESC TEC"
+            },
+            {
+              "name": "Ribeiro, Cristina",
+              "institution": "INESC TEC"
+            },
+            {
+              "name": "Rodrigues, Joana",
+              "institution": "INESC TEC"
+            }
+          ]
+        },
+        {
+          "title": "Skilling Up: Using Canvas to Teach Research Data Management",
+          "doi": "10.5281/zenodo.3612573",
+          "presenters": [
+            {
+              "name": "Muilenburg, Jennifer",
+              "institution": "University of Washington Libraries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Concurrent B4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Countless \"Firsts\": The Inaugural Year of a Data Science Librarian",
+          "doi": "10.5281/zenodo.3600571",
+          "presenters": [
+            {
+              "name": "Labou, Stephanie",
+              "institution": "University of California San Diego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "D1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Reproducibility Fast Track: Sprint, Leap of Faith, Hurdles, and Long Distance",
+          "doi": "10.5281/zenodo.3612604",
+          "presenters": [
+            {
+              "name": "Heslop, Janet",
+              "institution": "CISER - Cornell University"
+            },
+            {
+              "name": "Arguillas, Florio",
+              "institution": "CISER - Cornell University"
+            },
+            {
+              "name": "Alexander, Daniel",
+              "institution": "CISER - Cornell University"
+            },
+            {
+              "name": "Block, William",
+              "institution": "CISER - Cornell University"
+            },
+            {
+              "name": "Christian, Thu-Mai",
+              "institution": "University of North Carolina"
+            },
+            {
+              "name": "Peer, Limor",
+              "institution": "Yale University"
+            },
+            {
+              "name": "Vilhuber, Lars",
+              "institution": "Cornell University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "D2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Statistical Disclosure Control: A Graphic Interface for sdcMicro",
+          "doi": "10.5281/zenodo.3612653",
+          "presenters": [
+            {
+              "name": "Welch, Matthew",
+              "institution": "World Bank"
+            }
+          ]
+        },
+        {
+          "title": "Anonymization of Online Panel Survey Data: A Case Study",
+          "doi": "10.5281/zenodo.3612662",
+          "presenters": [
+            {
+              "name": "Kocar, Sebastian",
+              "institution": "Australian Data Archive, CSRM, ANU"
+            },
+            {
+              "name": "Biddle, Nicholas",
+              "institution": "ANU Centre for Social Research and Methods, ANU"
+            },
+            {
+              "name": "McEachern, Steven",
+              "institution": "Australian Data Archive, CSRM, ANU"
+            }
+          ]
+        },
+        {
+          "title": "ImPACT (Infrastructure for Privacy-Assured CompuTations) Integrates Dataverse Trusted Remote Storage Agents",
+          "doi": "10.5281/zenodo.3612630",
+          "presenters": [
+            {
+              "name": "Crabtree, Jonathan",
+              "institution": "UNC Chapel Hill Odum Institute"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "D3",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "From a Data Archive to Data Science: Supporting Current Research",
+          "doi": "10.5281/zenodo.3620884",
+          "presenters": [
+            {
+              "name": "Dennis, Tim",
+              "institution": "UCLA, Data Science Center"
+            },
+            {
+              "name": "Grappone, Todd",
+              "institution": "UCLA"
+            }
+          ]
+        },
+        {
+          "title": "Making Data a Priority: Stories from the Trenches of the Library Data Wars",
+          "doi": "10.5281/zenodo.3612669",
+          "presenters": [
+            {
+              "name": "Jester, Ashley",
+              "institution": "Stanford Libraries"
+            }
+          ]
+        },
+        {
+          "title": "Introducing Data Governance in Higher Education: Tales of a First Chief Data Officer",
+          "doi": "10.5281/zenodo.3612666",
+          "presenters": [
+            {
+              "name": "Cannon, San",
+              "institution": "University of Rochester"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "D4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Librarian and Information Specialist Supported Evidence Synthesis",
+          "doi": "10.5281/zenodo.3612671",
+          "presenters": [
+            {
+              "name": "Riegelman, Amy",
+              "institution": "University of Minnesota"
+            },
+            {
+              "name": "Young, Sarah",
+              "institution": "Carnegie Mellon University"
+            },
+            {
+              "name": "McDonald, Steve",
+              "institution": "Cochrane Australia & Monash University"
+            },
+            {
+              "name": "Marsalis, Scott",
+              "institution": "University of Minnesota"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "E1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Archiving Qualitative Online Source: Obstacles, Strategies, and Lessons",
+          "doi": "10.5281/zenodo.3612679",
+          "presenters": [
+            {
+              "name": "Karcher, Sebastian",
+              "institution": "Qualitative Data Repository"
+            }
+          ]
+        },
+        {
+          "title": "Updates on ICPSR's Social Media Archive (SOMAR)",
+          "doi": "10.5281/zenodo.3612677",
+          "presenters": [
+            {
+              "name": "Hemphill, Libby",
+              "institution": "ICPSR, University of Michigan"
+            }
+          ]
+        },
+        {
+          "title": "Video Game Data - The Untouched Potential of the Gamer as a Data-Generator",
+          "doi": "10.5281/zenodo.3612675",
+          "presenters": [
+            {
+              "name": "Fleet, Robert",
+              "institution": "Intersect Australia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "E2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "What the U.S. Digital Analytics Program (DAP) Data Can & Cannot Tell Us: Investigating U.S. Government Website Usage Over Time",
+          "doi": "10.5281/zenodo.3612689",
+          "presenters": [
+            {
+              "name": "Marshall, Amy",
+              "institution": "Purdue University Fort Wayne"
+            },
+            {
+              "name": "Dianat, Oldooz",
+              "institution": "Revenue NSW"
+            }
+          ]
+        },
+        {
+          "title": "Data Use Trajectories over Time in the Social Sciences",
+          "doi": "10.5281/zenodo.3612687",
+          "presenters": [
+            {
+              "name": "Pienta, Amy",
+              "institution": "University of Michigan"
+            },
+            {
+              "name": "Hemphill, Libby",
+              "institution": "University of Michigan"
+            },
+            {
+              "name": "Akmon, Dharma",
+              "institution": "University of Michigan"
+            }
+          ]
+        },
+        {
+          "title": "If You Build It, Will They Come?: Sustaining Open Data Portals",
+          "doi": "10.5281/zenodo.3612681",
+          "presenters": [
+            {
+              "name": "Paige, Bonnie",
+              "institution": "Colby College"
+            },
+            {
+              "name": "Kellam, Lynda",
+              "institution": "UNC Greensboro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "E4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Tinkering with the Past - Spatializing Historical Census Data in Australia",
+          "doi": "10.5281/zenodo.3612697",
+          "presenters": [
+            {
+              "name": "McEachern, Steven",
+              "institution": "Australian Data Archive"
+            },
+            {
+              "name": "Rigby, Michael",
+              "institution": "Australian Urban Research Infrastructure Network"
+            },
+            {
+              "name": "McDougall, Janet",
+              "institution": "Australian Data Archive"
+            },
+            {
+              "name": "Clough, Josh",
+              "institution": "Australian Urban Research Infrastructure Network"
+            }
+          ]
+        },
+        {
+          "title": "Acquired Data Services: Challenges and Opportunities for Libraries",
+          "doi": "10.5281/zenodo.3612695",
+          "presenters": [
+            {
+              "name": "Kulp, Christina",
+              "institution": "Federal Reserve Bank of Kansas City"
+            }
+          ]
+        },
+        {
+          "title": "Historical Data Conversion and Archiving: Development of Metadata, Conversion and Archiving of Time Series Data of the Completed Censuses and Surveys of the BBS",
+          "doi": "10.5281/zenodo.3612691",
+          "presenters": [
+            {
+              "name": "Roy, Chandra Shekhar",
+              "institution": "Bangladesh Bureau of Statistics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "F1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Working with Sensitive Research Data: The Qualitative Data Repository's WSRD Project",
+          "doi": "10.5281/zenodo.3612722",
+          "presenters": [
+            {
+              "name": "Kapiszewski, Diana",
+              "institution": "Georgetown University / Qualitative Data Repository"
+            },
+            {
+              "name": "Elman, Colin",
+              "institution": "Syracuse University"
+            },
+            {
+              "name": "Kirilova, Dessislava",
+              "institution": "Syracuse University"
+            },
+            {
+              "name": "Karcher, Sebastian",
+              "institution": "Syracuse University"
+            }
+          ]
+        },
+        {
+          "title": "Researcher Passports and Open Badges: The Latest in ICPSR's Efforts to Provide Secure, Trustworthy Access to Restricted Data",
+          "doi": "10.5281/zenodo.3612720",
+          "presenters": [
+            {
+              "name": "Davidson Bleckman, Johanna",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Hemphill, Libby",
+              "institution": "ICPSR/U-M School of Information"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "F2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "GDPR Compliance and Data Management Planning \u2013 An Integrated Approach",
+          "doi": "10.5281/zenodo.3612728",
+          "presenters": [
+            {
+              "name": "Segadal, Katrine",
+              "institution": "NSD - Norwegian Centre for Research Data"
+            },
+            {
+              "name": "Myhren, Marianne",
+              "institution": "NSD - Norwegian Centre for Research Data"
+            },
+            {
+              "name": "Kvamme, Trond",
+              "institution": "NSD - Norwegian Centre for Research Data"
+            },
+            {
+              "name": "Jondahl, Ida",
+              "institution": "NSD - Norwegian Centre for Research Data"
+            }
+          ]
+        },
+        {
+          "title": "Changes in Australian National Ethics Policy for Managing and Sharing Human Research Data",
+          "doi": "10.5281/zenodo.3612726",
+          "presenters": [
+            {
+              "name": "Wong, Paul",
+              "institution": "Australian Research Data Commons"
+            },
+            {
+              "name": "Russell, Keith",
+              "institution": "Australian Research Data Commons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "F3",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "The Social Architecture Approach \u2013 Using Data Practice Archetypes to Explore the Socio-Technical Nature of Information Infrastructure",
+          "doi": "10.5281/zenodo.3620840",
+          "presenters": [
+            {
+              "name": "Box, Paul",
+              "institution": "CSIRO"
+            },
+            {
+              "name": "Lee, Ashlin",
+              "institution": "CSIRO"
+            },
+            {
+              "name": "Kotanski, Laura",
+              "institution": "ThinkPlace"
+            },
+            {
+              "name": "Mason, Clair",
+              "institution": "CSIRO"
+            }
+          ]
+        },
+        {
+          "title": "Reproducibility, Preservation, and Access to Research with ReproZip and ReproServer",
+          "doi": "10.5281/zenodo.3612732",
+          "presenters": [
+            {
+              "name": "Rampin, R\u00e9mi",
+              "institution": "New York University"
+            },
+            {
+              "name": "Steeves, Vicky",
+              "institution": "New York University"
+            },
+            {
+              "name": "Chirigati, Fernando",
+              "institution": "New York University"
+            }
+          ]
+        },
+        {
+          "title": "How Can Research Projects Benefit from Standardized Metadata like DDI?",
+          "doi": "10.5281/zenodo.3612730",
+          "presenters": [
+            {
+              "name": "Perry, Anja",
+              "institution": "GESIS - Leibniz Institute for the Social Sciences"
+            },
+            {
+              "name": "Watteler, Oliver",
+              "institution": "GESIS - Leibniz Institute for the Social Sciences"
+            },
+            {
+              "name": "Zenk-M\u00f6ltgen, Wolfgang",
+              "institution": "GESIS - Leibniz Institute for the Social Sciences"
+            },
+            {
+              "name": "Gregory, Arofan",
+              "institution": "Open Data Foundation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "F4",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Accessible Data Visualization and Digital Mapping: Beyond Color Blindness",
+          "doi": "10.5281/zenodo.3620906",
+          "presenters": [
+            {
+              "name": "Tickner, Amanda",
+              "institution": "Michigan State University Library"
+            }
+          ]
+        },
+        {
+          "title": "Reactions vs Reality: Using Sentiment Analysis to Measure University Students' Confidence of Concepts While Learning ArcGIS",
+          "doi": "10.5281/zenodo.3612734",
+          "presenters": [
+            {
+              "name": "Hixson, Taylor",
+              "institution": "New York University Abu Dhabi"
+            }
+          ]
+        },
+        {
+          "title": "Extracting Geospatial Data from Maps",
+          "doi": "10.5281/zenodo.3612737",
+          "presenters": [
+            {
+              "name": "Shawa, Tsering",
+              "institution": "Princeton University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "G1",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Freedom's Loom: Weaving together Digital Collections on North American Slavery",
+          "doi": "10.5281/zenodo.3620810",
+          "presenters": [
+            {
+              "name": "Kowalski, Brandon",
+              "institution": "Cornell University"
+            }
+          ]
+        },
+        {
+          "title": "Wedding Social Science Data to Geography: Couples Counseling",
+          "doi": "10.5281/zenodo.3620807",
+          "presenters": [
+            {
+              "name": "Thomas, Wendy",
+              "institution": "Minnesota Population Center"
+            }
+          ]
+        },
+        {
+          "title": "Unleashing the Power of Data to Change Lives",
+          "doi": "10.5281/zenodo.3620804",
+          "presenters": [
+            {
+              "name": "Stent, Claire",
+              "institution": "Stats NZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "G2",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Anticipating the Unanticipated: Establishing a Research Data Management Service",
+          "doi": "10.5281/zenodo.3620822",
+          "presenters": [
+            {
+              "name": "Graebner, Carla",
+              "institution": "Simon Fraser University"
+            },
+            {
+              "name": "Vejvoda, Berenica",
+              "institution": "Simon Fraser University"
+            },
+            {
+              "name": "Garnett, Alex",
+              "institution": "Simon Fraser University"
+            },
+            {
+              "name": "Mukunda, Keshav",
+              "institution": "Simon Fraser University"
+            }
+          ]
+        },
+        {
+          "title": "Responding to Data Support Challenges with a Student \"DataSquad\"",
+          "doi": "10.5281/zenodo.3620820",
+          "presenters": [
+            {
+              "name": "Lackie, Paula",
+              "institution": "Carleton College"
+            }
+          ]
+        },
+        {
+          "title": "The First Five Years of the Barnard ERC: A Model for Developing Comprehensive Undergraduate-focused Data Analysis Services",
+          "doi": "10.5281/zenodo.3620814",
+          "presenters": [
+            {
+              "name": "Rod, Alisa",
+              "institution": "Barnard College"
+            },
+            {
+              "name": "Carlson, Anna",
+              "institution": "Barnard College"
+            },
+            {
+              "name": "Koli, Fatima",
+              "institution": "Barnard College"
+            },
+            {
+              "name": "Silverman, Carolyn",
+              "institution": "University of Chicago NYC Crime Lab"
+            },
+            {
+              "name": "Weiman, David",
+              "institution": "Barnard College"
+            },
+            {
+              "name": "Wels Hirschorn, Alena",
+              "institution": "Barnard College"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "G3",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Using Open Data for Education: A Case Study in the Environmental Sciences",
+          "doi": "10.5281/zenodo.3620830",
+          "presenters": [
+            {
+              "name": "Nicholson, Andrew",
+              "institution": "University of Toronto Mississauga"
+            }
+          ]
+        },
+        {
+          "title": "Wading Deep into Canal Spatial Data: The \"Geo\" in RDM",
+          "doi": "10.5281/zenodo.3620824",
+          "presenters": [
+            {
+              "name": "Beard, Colleen",
+              "institution": "Brock University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lightning Talks",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "What to Do When Their Data Are Multimedia Objects",
+          "doi": "10.5281/zenodo.3620836",
+          "presenters": [
+            {
+              "name": "Lackie, Paula",
+              "institution": "Carleton College"
+            }
+          ]
+        },
+        {
+          "title": "Openstat Madagascar: An Example of Open Data Advocacy by Civil Society",
+          "doi": "10.5281/zenodo.3620832",
+          "presenters": [
+            {
+              "name": "Rafidiharinirina, Fabienne Mananarivoarisoa",
+              "institution": "Madagascar Initiatives for Digital Innovation"
+            }
+          ]
+        },
+        {
+          "title": "Gently Introducing The Command-Line Interface To Your Community",
+          "doi": "10.5281/zenodo.3600474",
+          "presenters": [
+            {
+              "name": "Painter, Zachary",
+              "institution": "Stanford University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Posters",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "Static but not Boring \u2013 Making Data Services Visible on the Web",
+          "doi": "10.5281/zenodo.3612463",
+          "presenters": [
+            {
+              "name": "Alater\u00e4, Tuomas J.",
+              "institution": "Finnish Social Science Data Archive"
+            }
+          ]
+        },
+        {
+          "title": "Collaborative Data Services: The Case of Annotation for Transparent Inquiry (ATI)",
+          "doi": "10.5281/zenodo.3612469",
+          "presenters": [
+            {
+              "name": "Karcher, Sebastian",
+              "institution": "Qualitative Data Repository"
+            }
+          ]
+        },
+        {
+          "title": "If We Build It, Will They Use It? Demonstrating the Impact of Data-Sharing",
+          "doi": "10.5281/zenodo.3612465",
+          "presenters": [
+            {
+              "name": "Jekielek, Susan",
+              "institution": "ICPSR"
+            }
+          ]
+        },
+        {
+          "title": "Evaluating Translation Quality in the ELSST Multilingual Thesaurus",
+          "doi": "10.5281/zenodo.3612459",
+          "presenters": [
+            {
+              "name": "Balkan, Lorna",
+              "institution": "UK Data Archive"
+            }
+          ]
+        },
+        {
+          "title": "Promoting Data Deposit in SSJDA: Introducing the Improvements in Our New Data Management System",
+          "doi": "10.5281/zenodo.3612457",
+          "presenters": [
+            {
+              "name": "Wang, Shuai",
+              "institution": "The University of Tokyo"
+            },
+            {
+              "name": "Nake, Shuhei",
+              "institution": "The University of Tokyo"
+            },
+            {
+              "name": "Iriyama, Koichi",
+              "institution": "The University of Tokyo"
+            },
+            {
+              "name": "Miwa, Satoshi",
+              "institution": "The University of Tokyo"
+            }
+          ]
+        },
+        {
+          "title": "Integrating Lifecycle Metadata into the R workflow - Implementing DDI4 in R",
+          "doi": "10.5281/zenodo.3612453",
+          "presenters": [
+            {
+              "name": "Wackerow, Joachim",
+              "institution": "GESIS - Leibniz Institute for the Social Sciences"
+            },
+            {
+              "name": "Hoyle, Larry",
+              "institution": "KU Institute for Policy & Social Research"
+            }
+          ]
+        },
+        {
+          "title": "Data from Start to Finish: The People, Processes, and Timespans Associated with Disseminating Data for Secondary Use",
+          "doi": "10.5281/zenodo.3600584",
+          "presenters": [
+            {
+              "name": "Akmon, Dharma",
+              "institution": "ICPSR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Workshops",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "DMPs: Hmmmmmm, I Think I Know What They Are But",
+          "doi": "10.5281/zenodo.3612739",
+          "presenters": [
+            {
+              "name": "Fry, Jane",
+              "institution": "MacOdrum Library, Carleton University, Ottawa ON"
+            },
+            {
+              "name": "Graebner, Carla",
+              "institution": "W.A.C. Bennett Library, Simon Fraser University, Burnaby, B.C."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
