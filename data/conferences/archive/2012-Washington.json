@@ -1310,35 +1310,6 @@
             "presentations": [
                 {
                     "year": "2012",
-                    "title": "Collaborative Data Management: Best Practices throughout the Data Life Cycle",
-                    "abstract": "While there is increased recognition of the value of rigorous data  management, budgets and resources for this kind of activity are stagnant  or decreasing. Perhaps because of this, there has been a growing  interest in pursuing collaborative efforts to implement best practices  throughout the research data life cycle. Effective collaborations can be  local, involving individual researchers or research teams, or  large-scale initiatives involving multiple institutions in either  informal relationships or formal partnerships such as consortia. When  data is collected, processed, archived, or disseminated as part of a  collaborative process, the potential for problems is heightened - but so  are the rewards. This session will look at examples of effective  collaborative data management at all stages of the data life cycle, and  consider some of the challenges and potential successes at play when we  work together to improve data collection, preservation, and access.  Examples will range from landmark projects to emerging initiatives, and  include case studies from the Ontario Council of University Libraries  (OCUL), an academic library consortium",
-                    "presenters": [
-                        {
-                            "name": "Amber Leahey",
-                            "institution": "Scholar Portal, Ontario Council of University Libraries"
-                        },
-                        {
-                            "name": "Jacqueline Whyte Appleby",
-                            "institution": "Scholar Portal, Ontario Council of University Libraries"
-                        },
-                        {
-                            "name": "Steve Marks",
-                            "institution": "Scholar Portal, Ontario Council of University Libraries"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c1_leahey_etal.pdf",
-                            "name": "2012_c1_leahey_etal.pdf"
-                        }
-                    ],
-                    "sessNid": "3194",
-                    "oldPath": "/conferences/2012/presentation/3217",
-                    "nid": "3217",
-                    "postDate": "2012-09-04 13:28:37 -0700"
-                },
-                {
-                    "year": "2012",
                     "title": "Johns Hopkins University Data Management Services: Reviewing Our First Year",
                     "abstract": "Of the growing number of academic libraries helping researchers with  data management, Johns Hopkins University has one of the first \u201cfull  service\u201d infrastructures providing data planning consultation and a  repository, JHU Data Archive, built specifically for research data.  Although drawing upon the expertise of our partner, the Data  Conservancy, we are continually evolving our service model, and testing  by trial its sustainability and accommodation of diverse practices among  disciplines. We will report on the first year of our Data Management  Services program, focusing on planning support for NSF's data management  plan requirements, and the particular needs of social science. We have  developed tools, such as a questionnaire and in-person meetings, for  helping researchers with NSF's 2-page plan, and project management  workflows for depositing data into the JHU Data Archive. We will discuss  outreach strategies for publicizing our services, and incentives for  researchers to invest in data preservation and sharing. Case examples  from working with a range of social sciences illustrate data management  issues distinct from \u201cbig data\u201d sciences, such as sharing data with  personal identifiers, managing qualitative research, and  multi-disciplinary collaborations. With data management requirements  expanding among funders, innovations by academic libraries are of broad  interest to data curation professionals.",
                     "presenters": [
@@ -1361,6 +1332,27 @@
                     "oldPath": "/conferences/2012/presentation/3277",
                     "nid": "3277",
                     "postDate": "2012-10-11 11:51:14 -0700"
+                },
+                {
+                    "year": "2012",
+                    "title": "Integrating Numeric, Statistical, and Geospatial Data Services for Graduate Students",
+                    "abstract": "This paper argues for collaboration among faculty, academic subject  specialists, data librarians, GIS specialists, and data curators in  order to respond to growing graduate student demand for digital  statistical information and data. It presets weaknesses and strengths of  a model operating at the Charles E. Young Research Library at the  University of California, Los Angles. The article outlines a process in  which graduate students benefit from having access to multiple points of  service. The diversity of service points fosters relationships among  all participants and improves communication between instructors and  library staff, ultimately strengthening services offered to graduate  students. Major challenges to the ongoing successful partnership include  the availability of needed resources and sustainability of the model,  which fulfills graduate students' needs for numeric, statistical, and  geospatial data.",
+                    "presenters": [
+                        {
+                            "name": "Maria A Jankowska",
+                            "institution": "Charles E. Young Research Library, UCLA"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c1_jankowska.pdf",
+                            "name": "2012_c1_jankowska.pdf"
+                        }
+                    ],
+                    "sessNid": "3194",
+                    "oldPath": "/conferences/2012/presentation/3285",
+                    "nid": "3285",
+                    "postDate": "2012-10-16 09:22:56 -0700"
                 },
                 {
                     "year": "2012",
@@ -1389,24 +1381,32 @@
                 },
                 {
                     "year": "2012",
-                    "title": "Integrating Numeric, Statistical, and Geospatial Data Services for Graduate Students",
-                    "abstract": "This paper argues for collaboration among faculty, academic subject  specialists, data librarians, GIS specialists, and data curators in  order to respond to growing graduate student demand for digital  statistical information and data. It presets weaknesses and strengths of  a model operating at the Charles E. Young Research Library at the  University of California, Los Angles. The article outlines a process in  which graduate students benefit from having access to multiple points of  service. The diversity of service points fosters relationships among  all participants and improves communication between instructors and  library staff, ultimately strengthening services offered to graduate  students. Major challenges to the ongoing successful partnership include  the availability of needed resources and sustainability of the model,  which fulfills graduate students' needs for numeric, statistical, and  geospatial data.",
+                    "title": "Collaborative Data Management: Best Practices throughout the Data Life Cycle",
+                    "abstract": "While there is increased recognition of the value of rigorous data  management, budgets and resources for this kind of activity are stagnant  or decreasing. Perhaps because of this, there has been a growing  interest in pursuing collaborative efforts to implement best practices  throughout the research data life cycle. Effective collaborations can be  local, involving individual researchers or research teams, or  large-scale initiatives involving multiple institutions in either  informal relationships or formal partnerships such as consortia. When  data is collected, processed, archived, or disseminated as part of a  collaborative process, the potential for problems is heightened - but so  are the rewards. This session will look at examples of effective  collaborative data management at all stages of the data life cycle, and  consider some of the challenges and potential successes at play when we  work together to improve data collection, preservation, and access.  Examples will range from landmark projects to emerging initiatives, and  include case studies from the Ontario Council of University Libraries  (OCUL), an academic library consortium",
                     "presenters": [
                         {
-                            "name": "Maria A Jankowska",
-                            "institution": "Charles E. Young Research Library, UCLA"
+                            "name": "Amber Leahey",
+                            "institution": "Scholar Portal, Ontario Council of University Libraries"
+                        },
+                        {
+                            "name": "Jacqueline Whyte Appleby",
+                            "institution": "Scholar Portal, Ontario Council of University Libraries"
+                        },
+                        {
+                            "name": "Steve Marks",
+                            "institution": "Scholar Portal, Ontario Council of University Libraries"
                         }
                     ],
                     "files": [
                         {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c1_jankowska.pdf",
-                            "name": "2012_c1_jankowska.pdf"
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c1_leahey_etal.pdf",
+                            "name": "2012_c1_leahey_etal.pdf"
                         }
                     ],
                     "sessNid": "3194",
-                    "oldPath": "/conferences/2012/presentation/3285",
-                    "nid": "3285",
-                    "postDate": "2012-10-16 09:22:56 -0700"
+                    "oldPath": "/conferences/2012/presentation/3217",
+                    "nid": "3217",
+                    "postDate": "2012-09-04 13:28:37 -0700"
                 }
             ]
         },
@@ -1428,49 +1428,24 @@
             "presentations": [
                 {
                     "year": "2012",
-                    "title": "Metadata-driven Survey Design at the Australian Bureau of Statistics",
-                    "abstract": "DDI provides survey methodologists with ample metadata to describe  statistical survey design. However it is widely recognise that  description of processes is not enough, we must be able to use metadata  to drive statistical workflows. One particular goal is the ability to  automatically generate personalised and dynamic electronic forms from  structured metadata. The Australian Bureau of Statistics has conducted  research examining how this can be achieved through the novel use of XML  technologies to enhance standard DDI 3.1 XML. By examining the use of  XSL transforms, and XPath specifications embedded with DDI Lifecycle  metadata, we can provide metadata-driven 'industrialisation' to  statistical processes. To demonstrate this capability, this talk  presents a case study from the Australian Bureau of Statistics,  featuring a late-stage prototype of an XSLT system that automatically  creates dynamic web forms featuring complex question sequencing and  word-substitution in questions using DDI Lifecycle XML. This is  demonstrated using DDI3.1 that describes the complex series of ABS  instruments - Monthly Population Survey, which includes the Australian  Labour Force Survey as well as supplementary questionnaires.",
+                    "title": "Migrating a Large Collection to DDI-Lifecycle",
+                    "abstract": "The GESIS Data Archive holds about 5000 studies, mainly social science  surveys. The documentation of these studies consists of study  descriptions, variable descriptions with questions and answers, and  other material like methodological information. The datasets are  documented by tools that use the DDI-Codebook metadata standard  (formerly known as DDI 2). Since 2008, the DDI Alliance has published  the DDI-Lifecycle standard (DDI 3/DDI-L), that focuses on re-usable  documentation and the support of the full research data lifecycle. To  use some of the many advantages that DDI-L provides, a migration of the  available documentation should be conducted. The talk will focus on the  benefits and challenges of such a migration project, and will show  possible options during that process. The use of the recently published  DDI version 2.5 will be considered because it aims at making the  migration to DDI-L easier. The support of software for the format  conversion and for the necessary re-arrangement of documentation parts  will be investigated. The consequences of such a migration project for  the future maintenance of the data and documentation will be shown.",
                     "presenters": [
                         {
-                            "name": "Samuel C Spencer",
-                            "institution": "Australian Bureau of Statistics"
+                            "name": "Wolfgang Zenk-M\u00f6ltgen ",
+                            "institution": "GESIS, Leibniz Institute for the Social Sciences"
                         }
                     ],
                     "files": [
                         {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c2_spencer.pdf",
-                            "name": "2012_c2_spencer.pdf"
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c2_zenk-moltgen.pdf",
+                            "name": "2012_c2_zenk-moltgen.pdf"
                         }
                     ],
                     "sessNid": "3195",
-                    "oldPath": "/conferences/2012/presentation/3278",
-                    "nid": "3278",
-                    "postDate": "2012-10-11 12:58:45 -0700"
-                },
-                {
-                    "year": "2012",
-                    "title": "Integrating DDI 3-based Tools with Web Services: Connecting Colectica and eXist-db",
-                    "abstract": "The Swedish National Data Service (SND) maintains metadata about its  holdings in the Data Documentation Initiative's DDI-Lifecycle format.  The total amount studies in the holdings amounts to over one thousand,  both quantitative and qualitative. SND stores and indexes this metadata  using eXist-db, an open source XML database. Colectica is another DDI  3-based tool, but by default it uses a different repository structure  for storing metadata. In order to allow Colectica tools to interact with  SND metadata, we implemented a set of Web Services on top of eXist-db  that allow Colectica to store and load information using eXist-db. We  will demonstrate functionality provided by the eXist-db system, discuss  the steps we took to integrate with Colectica, and demonstrate the  resulting functionality with the two systems working together. We will  also present recommendations on how to interact between DDI repositories  in general and DDI tools. Implementations on our approach could be done  from other DDI repositories.",
-                    "presenters": [
-                        {
-                            "name": "Johan Fihn ",
-                            "institution": "Swedish National Data Service"
-                        },
-                        {
-                            "name": "Jeremy Iverson",
-                            "institution": "Colectica"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c2_fihn_etal.pdf",
-                            "name": "2012_c2_fihn_etal.pdf"
-                        }
-                    ],
-                    "sessNid": "3195",
-                    "oldPath": "/conferences/2012/presentation/3279",
-                    "nid": "3279",
-                    "postDate": "2012-10-11 13:17:08 -0700"
+                    "oldPath": "/conferences/2012/presentation/3287",
+                    "nid": "3287",
+                    "postDate": "2012-10-16 12:26:13 -0700"
                 },
                 {
                     "year": "2012",
@@ -1503,24 +1478,49 @@
                 },
                 {
                     "year": "2012",
-                    "title": "Migrating a Large Collection to DDI-Lifecycle",
-                    "abstract": "The GESIS Data Archive holds about 5000 studies, mainly social science  surveys. The documentation of these studies consists of study  descriptions, variable descriptions with questions and answers, and  other material like methodological information. The datasets are  documented by tools that use the DDI-Codebook metadata standard  (formerly known as DDI 2). Since 2008, the DDI Alliance has published  the DDI-Lifecycle standard (DDI 3/DDI-L), that focuses on re-usable  documentation and the support of the full research data lifecycle. To  use some of the many advantages that DDI-L provides, a migration of the  available documentation should be conducted. The talk will focus on the  benefits and challenges of such a migration project, and will show  possible options during that process. The use of the recently published  DDI version 2.5 will be considered because it aims at making the  migration to DDI-L easier. The support of software for the format  conversion and for the necessary re-arrangement of documentation parts  will be investigated. The consequences of such a migration project for  the future maintenance of the data and documentation will be shown.",
+                    "title": "Integrating DDI 3-based Tools with Web Services: Connecting Colectica and eXist-db",
+                    "abstract": "The Swedish National Data Service (SND) maintains metadata about its  holdings in the Data Documentation Initiative's DDI-Lifecycle format.  The total amount studies in the holdings amounts to over one thousand,  both quantitative and qualitative. SND stores and indexes this metadata  using eXist-db, an open source XML database. Colectica is another DDI  3-based tool, but by default it uses a different repository structure  for storing metadata. In order to allow Colectica tools to interact with  SND metadata, we implemented a set of Web Services on top of eXist-db  that allow Colectica to store and load information using eXist-db. We  will demonstrate functionality provided by the eXist-db system, discuss  the steps we took to integrate with Colectica, and demonstrate the  resulting functionality with the two systems working together. We will  also present recommendations on how to interact between DDI repositories  in general and DDI tools. Implementations on our approach could be done  from other DDI repositories.",
                     "presenters": [
                         {
-                            "name": "Wolfgang Zenk-M\u00f6ltgen ",
-                            "institution": "GESIS, Leibniz Institute for the Social Sciences"
+                            "name": "Johan Fihn ",
+                            "institution": "Swedish National Data Service"
+                        },
+                        {
+                            "name": "Jeremy Iverson",
+                            "institution": "Colectica"
                         }
                     ],
                     "files": [
                         {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c2_zenk-moltgen.pdf",
-                            "name": "2012_c2_zenk-moltgen.pdf"
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c2_fihn_etal.pdf",
+                            "name": "2012_c2_fihn_etal.pdf"
                         }
                     ],
                     "sessNid": "3195",
-                    "oldPath": "/conferences/2012/presentation/3287",
-                    "nid": "3287",
-                    "postDate": "2012-10-16 12:26:13 -0700"
+                    "oldPath": "/conferences/2012/presentation/3279",
+                    "nid": "3279",
+                    "postDate": "2012-10-11 13:17:08 -0700"
+                },
+                {
+                    "year": "2012",
+                    "title": "Metadata-driven Survey Design at the Australian Bureau of Statistics",
+                    "abstract": "DDI provides survey methodologists with ample metadata to describe  statistical survey design. However it is widely recognise that  description of processes is not enough, we must be able to use metadata  to drive statistical workflows. One particular goal is the ability to  automatically generate personalised and dynamic electronic forms from  structured metadata. The Australian Bureau of Statistics has conducted  research examining how this can be achieved through the novel use of XML  technologies to enhance standard DDI 3.1 XML. By examining the use of  XSL transforms, and XPath specifications embedded with DDI Lifecycle  metadata, we can provide metadata-driven 'industrialisation' to  statistical processes. To demonstrate this capability, this talk  presents a case study from the Australian Bureau of Statistics,  featuring a late-stage prototype of an XSLT system that automatically  creates dynamic web forms featuring complex question sequencing and  word-substitution in questions using DDI Lifecycle XML. This is  demonstrated using DDI3.1 that describes the complex series of ABS  instruments - Monthly Population Survey, which includes the Australian  Labour Force Survey as well as supplementary questionnaires.",
+                    "presenters": [
+                        {
+                            "name": "Samuel C Spencer",
+                            "institution": "Australian Bureau of Statistics"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c2_spencer.pdf",
+                            "name": "2012_c2_spencer.pdf"
+                        }
+                    ],
+                    "sessNid": "3195",
+                    "oldPath": "/conferences/2012/presentation/3278",
+                    "nid": "3278",
+                    "postDate": "2012-10-11 12:58:45 -0700"
                 }
             ]
         },
@@ -1540,6 +1540,48 @@
             "nid": "3196",
             "postDate": "2012-08-07 13:50:18 -0700",
             "presentations": [
+                {
+                    "year": "2012",
+                    "title": "Supporting the Sharing of Longitudinal Health Data",
+                    "abstract": "The Data Support Service project of the UK Medical Research Council (MRC  DSS) developed a Research Data Gateway to enable the deep discovery of  MRC-funded population and patient studies and their datasets and  variables. The Gateway enables researchers to find and explore variables  across longitudinal cohort studies, to support data linkage for new  research. A federated approach is used, whereby studies are responsible  for storing, preserving, curating and disseminating data; publishing  standardised metadata into the gateway. The system uses a Drupal content  management system and Apache solr search and browse functionality, with  metadata organised into modular units representing studies, time  periods, collection events and variables. Users can search and discover  variables across studies and export baskets of variables to request  access to data. The directory holds over 45,000 variables for four case  studies: Avon Longitudinal Study of Parents and Children (ALSPAC),  National Survey for Health and Development (NSHD), Southampton Women's  Study (SWS), Whitehall II. Variables for a further ten cohort studies  are being incorporated. Development towards a DDI3.1 metadata exchange  standard is ongoing, enabling metadata from diverse formats and  structures to be ingested into the gateway. MRC DSS also works closely  with research units towards integrated data management planning.",
+                    "presenters": [
+                        {
+                            "name": "Veerle Van den Eynden",
+                            "institution": "UK Medical Research Council"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c3_vandeneynden.pdf",
+                            "name": "2012_c3_vandeneynden.pdf"
+                        }
+                    ],
+                    "sessNid": "3196",
+                    "oldPath": "/conferences/2012/presentation/3283",
+                    "nid": "3283",
+                    "postDate": "2012-10-11 13:47:22 -0700"
+                },
+                {
+                    "year": "2012",
+                    "title": "Data without Boundaries: A DDI-Based Metadata Model for Supporting Cross-National Data Discovery",
+                    "abstract": "This presentation discusses the work of Data without Boundaries Work  Package 8, exploring the requirements for a joint European-wide portal  for the discovery of microdata held by statistical agencies and social  science data archives across Europe. In support of this work, a survey  of the various organization's metadata holdings has been explored, and  work undertaken to produce a metadata model for implementation in Work  Package 12. This metadata model will span both the Data Documentation  Initiative for documentaing microdata and the Statistical Data and  Metadata Exchange (SDMX) model for aggregate data holdings in the  statistical offices. while European researchers may be familiar with the  data holdings in their own national archives and statistical offices,  they may not have as great a familiarity with holdings in other European  countries.Aggregate data will be indexed and linked to microdata  holdings to provide for improved discovery capabilities for European  researchers. Similarities to the ongoing work on RDF expressions of SDMX  and DDI are also explored.",
+                    "presenters": [
+                        {
+                            "name": "Arofan T Gregory",
+                            "institution": "Metadata Technology North America"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c3_gregory.pdf",
+                            "name": "2012_c3_gregory.pdf"
+                        }
+                    ],
+                    "sessNid": "3196",
+                    "oldPath": "/conferences/2012/presentation/3282",
+                    "nid": "3282",
+                    "postDate": "2012-10-11 13:43:21 -0700"
+                },
                 {
                     "year": "2012",
                     "title": "Going Local with a World Class Data Infrastrucure: Enabling SDMX for Research Support",
@@ -1585,48 +1627,6 @@
                     "oldPath": "/conferences/2012/presentation/3281",
                     "nid": "3281",
                     "postDate": "2012-10-11 13:39:31 -0700"
-                },
-                {
-                    "year": "2012",
-                    "title": "Data without Boundaries: A DDI-Based Metadata Model for Supporting Cross-National Data Discovery",
-                    "abstract": "This presentation discusses the work of Data without Boundaries Work  Package 8, exploring the requirements for a joint European-wide portal  for the discovery of microdata held by statistical agencies and social  science data archives across Europe. In support of this work, a survey  of the various organization's metadata holdings has been explored, and  work undertaken to produce a metadata model for implementation in Work  Package 12. This metadata model will span both the Data Documentation  Initiative for documentaing microdata and the Statistical Data and  Metadata Exchange (SDMX) model for aggregate data holdings in the  statistical offices. while European researchers may be familiar with the  data holdings in their own national archives and statistical offices,  they may not have as great a familiarity with holdings in other European  countries.Aggregate data will be indexed and linked to microdata  holdings to provide for improved discovery capabilities for European  researchers. Similarities to the ongoing work on RDF expressions of SDMX  and DDI are also explored.",
-                    "presenters": [
-                        {
-                            "name": "Arofan T Gregory",
-                            "institution": "Metadata Technology North America"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c3_gregory.pdf",
-                            "name": "2012_c3_gregory.pdf"
-                        }
-                    ],
-                    "sessNid": "3196",
-                    "oldPath": "/conferences/2012/presentation/3282",
-                    "nid": "3282",
-                    "postDate": "2012-10-11 13:43:21 -0700"
-                },
-                {
-                    "year": "2012",
-                    "title": "Supporting the Sharing of Longitudinal Health Data",
-                    "abstract": "The Data Support Service project of the UK Medical Research Council (MRC  DSS) developed a Research Data Gateway to enable the deep discovery of  MRC-funded population and patient studies and their datasets and  variables. The Gateway enables researchers to find and explore variables  across longitudinal cohort studies, to support data linkage for new  research. A federated approach is used, whereby studies are responsible  for storing, preserving, curating and disseminating data; publishing  standardised metadata into the gateway. The system uses a Drupal content  management system and Apache solr search and browse functionality, with  metadata organised into modular units representing studies, time  periods, collection events and variables. Users can search and discover  variables across studies and export baskets of variables to request  access to data. The directory holds over 45,000 variables for four case  studies: Avon Longitudinal Study of Parents and Children (ALSPAC),  National Survey for Health and Development (NSHD), Southampton Women's  Study (SWS), Whitehall II. Variables for a further ten cohort studies  are being incorporated. Development towards a DDI3.1 metadata exchange  standard is ongoing, enabling metadata from diverse formats and  structures to be ingested into the gateway. MRC DSS also works closely  with research units towards integrated data management planning.",
-                    "presenters": [
-                        {
-                            "name": "Veerle Van den Eynden",
-                            "institution": "UK Medical Research Council"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_c3_vandeneynden.pdf",
-                            "name": "2012_c3_vandeneynden.pdf"
-                        }
-                    ],
-                    "sessNid": "3196",
-                    "oldPath": "/conferences/2012/presentation/3283",
-                    "nid": "3283",
-                    "postDate": "2012-10-11 13:47:22 -0700"
                 }
             ]
         },
@@ -1800,6 +1800,27 @@
             "presentations": [
                 {
                     "year": "2012",
+                    "title": "Data Service Infrastructure for the Social Sciences and Humanities, DASISH",
+                    "abstract": "DASISH - Data Service Infrastructure for the Social Sciences and  Humanities, brings together 5 ESFRI infrastructures within social  science and humanities, namely CLARIN, SHARE, ESS, CESSDA, DARIAH with  the focus on common activities across the disciplines and  infrastructures and the aim of providing solutions to common problems,  solutions that will strengthen international collaboration. Among the  participants there are six CESSDA members: DANS, FSD, GESIS, NSD, SND  and UKDA. DASISH is an EC 7th Framework project with a budget of \u20ac 6  million and is coordinated by SND. This presentation will elaborate on  four main areas of the DASISH collaboration. 1. The digital research  environment, which deals with data quality assurance in the production  of primary data in the social sciences, 2. Tools and services, which  deal with continuous data enrichment, metadata quality assurance,  persistent identifiers and research discipline specific workflows, 3.  Common Data Services which concerns digital preservation techniques,  quality assessment of data centres and access to and availability of  data through networks of community-based solutions and how this will be  accomplished and 4. Legal and Ethics which deals with legal and ethics  issues involved in preserving data and making them available.",
+                    "presenters": [
+                        {
+                            "name": "Michelle L Coldrey",
+                            "institution": "Swedish National Data Service"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_d2_coldrey.pdf",
+                            "name": "2012_d2_coldrey.pdf"
+                        }
+                    ],
+                    "sessNid": "3199",
+                    "oldPath": "/conferences/2012/presentation/3293",
+                    "nid": "3293",
+                    "postDate": "2012-10-16 13:08:05 -0700"
+                },
+                {
+                    "year": "2012",
                     "title": "Managing and Sharing Data within the Collaborative Research Center SFB882: Concepts and Requirements of a VRE for the Social Sciences",
                     "abstract": "The recently founded Collaborative Research Center (SFB) 882 \"From  Heterogeneities to Social Inequalities\" at the University Bielefeld  represents a framework for 17 sub-projects on social inequalities. With  the promotion of a Virtual Research Environment (VRE) by the INF project  (integral part of the SFB) advisory and developmental services in the  domain of information infrastructure will be provided. The VRE combines  both a work and a project-specific research platform. The work platform  bundles IT resources by bringing together various tools for  administration, project management, and time- and location-independent  collaboration work in a single environment adapted to researcher's  specific working processes. The research component combines data  management with further developments of social science methodologies. It  provides services for archiving and re-use of datasets and is  responsible for the infrastructural and methodological coordination of  the data documentation. Almost entire data life-cycle is documented by  implementing and applying DDI3 across all projects. In this talk, we  present the challenges and barriers in designing and building-up a VRE  for the social sciences. We mainly focus on documentation aspects,  especially on the unification of varying documentation requirements  which came up. Additionally, various key issues of research  collaboration, as an outcome of the user requirement analysis, will be  discussed.",
                     "presenters": [
@@ -1843,27 +1864,6 @@
                     "oldPath": "/conferences/2012/presentation/3292",
                     "nid": "3292",
                     "postDate": "2012-10-16 13:06:13 -0700"
-                },
-                {
-                    "year": "2012",
-                    "title": "Data Service Infrastructure for the Social Sciences and Humanities, DASISH",
-                    "abstract": "DASISH - Data Service Infrastructure for the Social Sciences and  Humanities, brings together 5 ESFRI infrastructures within social  science and humanities, namely CLARIN, SHARE, ESS, CESSDA, DARIAH with  the focus on common activities across the disciplines and  infrastructures and the aim of providing solutions to common problems,  solutions that will strengthen international collaboration. Among the  participants there are six CESSDA members: DANS, FSD, GESIS, NSD, SND  and UKDA. DASISH is an EC 7th Framework project with a budget of \u20ac 6  million and is coordinated by SND. This presentation will elaborate on  four main areas of the DASISH collaboration. 1. The digital research  environment, which deals with data quality assurance in the production  of primary data in the social sciences, 2. Tools and services, which  deal with continuous data enrichment, metadata quality assurance,  persistent identifiers and research discipline specific workflows, 3.  Common Data Services which concerns digital preservation techniques,  quality assessment of data centres and access to and availability of  data through networks of community-based solutions and how this will be  accomplished and 4. Legal and Ethics which deals with legal and ethics  issues involved in preserving data and making them available.",
-                    "presenters": [
-                        {
-                            "name": "Michelle L Coldrey",
-                            "institution": "Swedish National Data Service"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_d2_coldrey.pdf",
-                            "name": "2012_d2_coldrey.pdf"
-                        }
-                    ],
-                    "sessNid": "3199",
-                    "oldPath": "/conferences/2012/presentation/3293",
-                    "nid": "3293",
-                    "postDate": "2012-10-16 13:08:05 -0700"
                 }
             ]
         },
@@ -1883,6 +1883,35 @@
             "nid": "3200",
             "postDate": "2012-08-07 13:53:51 -0700",
             "presentations": [
+                {
+                    "year": "2012",
+                    "title": "Panel: Towards an Integrated Model for Access to Official Microdata in Europe: First Findings from the FP7 DwB Project",
+                    "abstract": "The session will present for discussions some preliminary outputs from  the FP7 Data without Boundaries project about standards and  harmonization issues for discovery, metadata, accreditation and access  to official microdata within the European context. M. Wittenberg,  M.Priddy, J.Sherpherdson (\"Desired portal functionality for effective  resource discovery on OS data across Europe\") present the work  undertaken about desired portal functionality for effective resource  discovery: researchers expectations, constraints due to diversity in  content and technical level of the various resources, metadata issues  and identify the next steps for a possible architecture for the portal.  C.Jayet, R.Fleureux, A. Mack, Ch. Wolf \"(Servicing researchers in the  use of European OS microdata\") set forth the tools employed to cope with  the difficulties encountered in using the existing metadata standards  (DDI2 and 3) in the specific European case when documenting study  programmes, studies and datasets from numerous institutions and  countries and the metadata scheme proposed for documenting European  official microdata both at national and European level with the aim of  building a Service Centre for OS microdata in Europe. R. Silberman, P.  Tubaro, M. Cros, B. Kleiner (\"Access to official microdata and  researcher accreditation: State of the art and future perspectives in  Europe\") map similarities and differences in national access and  accreditation arrangements while pointing at commonalities for  inter-operability and, ideally, adoption of common standards. D.  Schiller (\"A pilot for an European Remote Access Network - first results  and upcoming challenges\") presents preliminary outputs about the  concept and architecture of a European distributed remote access for  confidential official microdata coping with current legal constraints  within Europe, security and standard issues, technical feasibility and  researchers needs.",
+                    "presenters": [
+                        {
+                            "name": "Paola Tubaro",
+                            "institution": "National de la Recherche Scientifique (CNRS)-R\u00e9seau Quetelet "
+                        },
+                        {
+                            "name": "David Schiller",
+                            "institution": "Und Berufsforschung Der Bundesagentur F\u00fcr Arbeit (IAB) "
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_d3_tubaro_etal.pdf",
+                            "name": "2012_d3_tubaro_etal.pdf"
+                        },
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_d3_schiller.pdf",
+                            "name": "2012_d3_schiller.pdf"
+                        }
+                    ],
+                    "sessNid": "3200",
+                    "oldPath": "/conferences/2012/presentation/3295",
+                    "nid": "3295",
+                    "postDate": "2012-10-16 13:29:09 -0700"
+                },
                 {
                     "year": "2012",
                     "title": "Panel: Towards an Integrated Model for Access to Official Microdata in Europe: First Findings from the FP7 DwB Project",
@@ -1919,35 +1948,6 @@
                     "oldPath": "/conferences/2012/presentation/3294",
                     "nid": "3294",
                     "postDate": "2012-10-16 13:21:29 -0700"
-                },
-                {
-                    "year": "2012",
-                    "title": "Panel: Towards an Integrated Model for Access to Official Microdata in Europe: First Findings from the FP7 DwB Project",
-                    "abstract": "The session will present for discussions some preliminary outputs from  the FP7 Data without Boundaries project about standards and  harmonization issues for discovery, metadata, accreditation and access  to official microdata within the European context. M. Wittenberg,  M.Priddy, J.Sherpherdson (\"Desired portal functionality for effective  resource discovery on OS data across Europe\") present the work  undertaken about desired portal functionality for effective resource  discovery: researchers expectations, constraints due to diversity in  content and technical level of the various resources, metadata issues  and identify the next steps for a possible architecture for the portal.  C.Jayet, R.Fleureux, A. Mack, Ch. Wolf \"(Servicing researchers in the  use of European OS microdata\") set forth the tools employed to cope with  the difficulties encountered in using the existing metadata standards  (DDI2 and 3) in the specific European case when documenting study  programmes, studies and datasets from numerous institutions and  countries and the metadata scheme proposed for documenting European  official microdata both at national and European level with the aim of  building a Service Centre for OS microdata in Europe. R. Silberman, P.  Tubaro, M. Cros, B. Kleiner (\"Access to official microdata and  researcher accreditation: State of the art and future perspectives in  Europe\") map similarities and differences in national access and  accreditation arrangements while pointing at commonalities for  inter-operability and, ideally, adoption of common standards. D.  Schiller (\"A pilot for an European Remote Access Network - first results  and upcoming challenges\") presents preliminary outputs about the  concept and architecture of a European distributed remote access for  confidential official microdata coping with current legal constraints  within Europe, security and standard issues, technical feasibility and  researchers needs.",
-                    "presenters": [
-                        {
-                            "name": "Paola Tubaro",
-                            "institution": "National de la Recherche Scientifique (CNRS)-R\u00e9seau Quetelet "
-                        },
-                        {
-                            "name": "David Schiller",
-                            "institution": "Und Berufsforschung Der Bundesagentur F\u00fcr Arbeit (IAB) "
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_d3_tubaro_etal.pdf",
-                            "name": "2012_d3_tubaro_etal.pdf"
-                        },
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_d3_schiller.pdf",
-                            "name": "2012_d3_schiller.pdf"
-                        }
-                    ],
-                    "sessNid": "3200",
-                    "oldPath": "/conferences/2012/presentation/3295",
-                    "nid": "3295",
-                    "postDate": "2012-10-16 13:29:09 -0700"
                 }
             ]
         },
@@ -2029,6 +2029,27 @@
                 },
                 {
                     "year": "2012",
+                    "title": "Strategies of Promoting the Use of Survey Research Data Archive",
+                    "abstract": "The Survey Research Data Archive (SRDA) at Academia Sinica in Taiwan has large collections of data from both the government and the academia. In a recent survey on the more than 3,000 active researchers in humanities and social sciences, however, 52% did not hear of SRDA. Among those who ever tried SRDA but gave up (N=257), 17% complained that information provided about data sets was insufficient for an effective search, and another 17% said similarly that they could not find what they needed. Basically, the improvements that SRDA must make are sketched in the above survey results, i.e., the promotion of SRDA and better and more metadata for the archived datasets. For these goals, we devise several strategies. First, produce demonstrations of uses of survey data sets on the website. Second, make power point files of SRDA introductions and send them to college professors for use in class or for research reference. Third, revise abstracts and keywords of datasets. Fourth, construct metadata on Nesstar. Fifth, add a search function that bridges the gap between the restricted and non-restricted data collections.",
+                    "presenters": [
+                        {
+                            "name": "Meng-Li Yang",
+                            "institution": "Center For Survey Research RCHSS, Academia Sinica"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_e1_yang.pdf",
+                            "name": "2012_e1_yang.pdf"
+                        }
+                    ],
+                    "sessNid": "3202",
+                    "oldPath": "/conferences/2012/presentation/3300",
+                    "nid": "3300",
+                    "postDate": "2012-10-18 14:11:19 -0700"
+                },
+                {
+                    "year": "2012",
                     "title": "Infrastructure for Evidence-based Resaerch and Statistical Education in Russia",
                     "abstract": "Statistical knowledge is one of the main competences of next generation specialists. One by one country declared statistical education as a national priority and launched programs to improve teaching and training in data understanding and analysis. Universities play a leading role. Following other countries Russian university community is working to enhance statistical education. First step is to compose modern statistical information infrastructure. The core is databases designed and maintained under the Moscow State University-based Information System RUSSIA The databases keep social and economic indicators at regional and local levels with annual and monthly update and are complimented by graphics- and map-based data visualization. System and comparative analysis tools are accomplished. Tutorials are implemented to train users. The first one is available to assist in evidence-based investigations in public administration. Work underway is on public administration domain ontology to integrate statistical indicators and analytical publications. The databases are available for free to all RF universities, colleges, think tanks, academic institutes, NGO, public libraries, specialists and citizens and serve for statistical culture dissemination in Russian society. The resource is of special value for local level powers - Russian national statistical agency Rosstat has only 3 years ago started to publish local level data. The UIS RUSSIA databases provide for more developed analytical services.",
                     "presenters": [
@@ -2055,27 +2076,6 @@
                     "oldPath": "/conferences/2012/presentation/3299",
                     "nid": "3299",
                     "postDate": "2012-10-18 14:09:49 -0700"
-                },
-                {
-                    "year": "2012",
-                    "title": "Strategies of Promoting the Use of Survey Research Data Archive",
-                    "abstract": "The Survey Research Data Archive (SRDA) at Academia Sinica in Taiwan has large collections of data from both the government and the academia. In a recent survey on the more than 3,000 active researchers in humanities and social sciences, however, 52% did not hear of SRDA. Among those who ever tried SRDA but gave up (N=257), 17% complained that information provided about data sets was insufficient for an effective search, and another 17% said similarly that they could not find what they needed. Basically, the improvements that SRDA must make are sketched in the above survey results, i.e., the promotion of SRDA and better and more metadata for the archived datasets. For these goals, we devise several strategies. First, produce demonstrations of uses of survey data sets on the website. Second, make power point files of SRDA introductions and send them to college professors for use in class or for research reference. Third, revise abstracts and keywords of datasets. Fourth, construct metadata on Nesstar. Fifth, add a search function that bridges the gap between the restricted and non-restricted data collections.",
-                    "presenters": [
-                        {
-                            "name": "Meng-Li Yang",
-                            "institution": "Center For Survey Research RCHSS, Academia Sinica"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2012/2012_e1_yang.pdf",
-                            "name": "2012_e1_yang.pdf"
-                        }
-                    ],
-                    "sessNid": "3202",
-                    "oldPath": "/conferences/2012/presentation/3300",
-                    "nid": "3300",
-                    "postDate": "2012-10-18 14:11:19 -0700"
                 },
                 {
                     "year": "2012",
