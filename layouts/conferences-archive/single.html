@@ -31,7 +31,7 @@
                           <h3> Dates: {{ $data.dateText }}</h3>
                           <h4> Program </h4>
                           {{ range $s := $data.sessions }}
-                            <div class="conference-session"> <h5>{{$s.day }}:{{ $s.title }}</h5></div>
+                            <div class="conference-session"> <h5>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h5></div>
                             {{ range $p := $s.presentations }}
                               <div class="conference-presentation">{{ $p.title }}</div>
                               {{ range $pr := $p.presenters }}
