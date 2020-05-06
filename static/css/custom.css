@@ -80,6 +80,26 @@ dl dt:first-of-type {
 }
 */
 
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 0;
+  position: relative;
+  background: url('/img/iassist-photogrid.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.home-carousel {
+  position: relative;
+  background: url('/img/iassist-photogrid.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
 /* --- Various accessibility fixes added to Pink theme. --- */
 
 .btn-template-main {
