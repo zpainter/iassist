@@ -2,6 +2,8 @@
 title = "Conferences"
 draft = "false"
 +++
+
+<!--
 ## Annual IASSIST Conference
 
 Each spring the annual conference provides data professionals a variety of opportunities to participate in discussions about data sharing and management, data access and repository tools, metadata for research data, best practices for preserving data, global resources for information, new technologies professional development and much more. 
@@ -63,4 +65,4 @@ Host institutions: IASSIST in collaboration with the East Africa School of Libra
 
 <a class="btn btn-template-main" href="http://iassistafrica.org/" target="_blank">Workshop website</a>
 
-
+-->

@@ -7,6 +7,8 @@ oldpath = "/about/index.html"
 date = "2012-03-19 17:12:52 -0700"
 draft = "false"
 +++
+
+<!--
 IASSIST (International Association for Social Science Information Service and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST was founded already in 1974. We want to leverage our unique expertise in the social sciences to help benefit all data professionals and support open science.
 
 Our members work in information technology, libraries, data services, research & higher education, government, non-profit and private research sector to discover data, curate it, make it available, and keep it available. We work together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
@@ -64,3 +66,4 @@ As an organization IASSIST strives to:
 -   IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 -   Read our most recent strategic plan: **[Democratizing Data - The IASSIST Strategic Plan 2010-2014](/about/strategic-plans)**.
 
+-->
