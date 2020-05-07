@@ -51,11 +51,14 @@ Host institutions: Australian Data Archive, the University of New South Wales, A
 
 ## Other Events
 
-In addition annual conference IASSIST may organise regional workshops or IASSIST branded events. IASSIST may also provide modest sponsorhip to regional or local events under its [Event Sponsorship](/conferences/event-sponsorship) program.
+In addition annual conference IASSIST may organise regional workshops or IASSIST branded events. IASSIST may also provide modest sponsorhip to regional or local events under its [Event Sponsorship](/conferences/event-sponsorship) program.<br />
 
+### Coming up
 
+{{< figure src="/img/conferences/africaworkshop2020.jpg" alt="IASSIST Africa Regional Workshop 2020 logo" title="" width="500" >}}
 
 #### 1st IASSIST Africa Regional Workshop
+
 ### Data Literacy as a catalyst for achieving Sustainable Development Goals
 **Kampala, Uganda, October 21-23, 2020**
 
