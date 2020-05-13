@@ -1,0 +1,922 @@
+{
+    "city": "Storrs, Connecticut, USA",
+    "conferenceNum": "38",
+    "conferenceYear": "2002",
+    "dateText": " June 10-14, 2002",
+    "startDate": "2002-06-11",
+    "endDate": "2002-06-14",
+    "conferenceUrl": "http://web.archive.org/web/20020604000828/http://www.ropercenter.uconn.edu/iassist2002/index.html",
+    "title": "IASSIST 2002-Accelerating access, collaboration and dissemination",
+    "sessions": [
+        {
+            "day": "2012-06-11",
+            "title": "Workshops",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "presentations": [
+                {
+                    "title": "Developing a GIS Data Services Program",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/W02gis.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Steve Morris",
+                            "institution": "North Carolina State University"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819032"
+                },
+                {
+                    "title": "Finding, Evaluating and Using Numeric Data",
+                    "presenters": [
+                        {
+                            "name": "Julie Linden",
+                            "institution": "Yale University"
+                        }
+                    ]
+                },
+                {
+                    "title": "An Introduction to Arcview",
+                    "presenters": [
+                        {
+                            "name": "Steven Citron-Pousty",
+                            "institution": "Yale University"
+                        }
+                    ]
+                },
+                {
+                    "title": "DDI in Action: the Innovative Data Library using Nesstar Knowledge Products",
+                    "presenters": [
+                        {
+                            "name": "Simon Musgrave",
+                            "institution": "UKDA"
+                        },
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": "(NSD), Nesstar Ltd."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2012-06-12",
+            "title": "Plenary Session",
+            "abstract": "",
+            "chair": "",
+            "moderator": "",
+            "presentations": [
+                {
+                    "title": "The Data Archive in the Twenty-First Century - The View from ICPSR",
+                    "presenters": [
+                        {
+                            "name": "Myron Gutmann",
+                            "institution": "Inter-University Consortium for Political and Social Research"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2012-06-12",
+            "title": "Session A: eXtreme Intelligence: Pushing Expert Systems to Their Limits",
+            "abstract": "",
+            "chair": "Jostein Ryssevik, Norwegian Social Science Data Services",
+            "moserator": "",
+            "presentations": [
+                {
+                    "title": "The Prospects for \"Intelligent Research\"",
+                    "presenters": [
+                        {
+                            "name": "Ken Reed",
+                            "institution": "Deakin University"
+                        },
+                        {
+                            "name": "Steven McEachern",
+                            "institution": "University Of Ballarat"
+                        }
+                    ]
+                },
+                {
+                    "title": "Emerging from the Quagmire: Building Expert Systems Technologies for the Social Sciences",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/A02wozniak.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Robert P. Wozniak",
+                            "institution": "Minnesota Population Center"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819034"
+                },
+                {
+                    "title": "Clearing the Metadata Hurdle for Inexperienced Users: A Case-Based Reasoning Approach",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/A02brentetal.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Edward Brent",
+                            "institution": "Idea Works, Inc."
+                        },
+                        {
+                            "name": "Albert F. Anderson",
+                            "institution": "Public Data Queries, Inc."
+                        },
+                        {
+                            "name": "Lisa Neidert",
+                            "institution": "University of Michigan"
+                        },
+                        {
+                            "name": "Pawel Slusarz",
+                            "institution": "Idea Works"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819036"
+                }
+            ]
+        },
+        {
+            "day": "2012-06-12",
+            "title": "Session B: The New Frontier for Archives",
+            "abstract": "",
+            "chair": "JoAnn Dionne, University of Michigan",
+            "presentations": [
+                {
+                    "title": "Public Opinion Data in the National Archives of the United States",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/B02brown.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Thomas E. Brown",
+                            "institution": "NARA"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819038"
+                },
+                {
+                    "title": "Enhancing Access to Qualitative Data Resources: Edwardians Online Project",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/B02corti.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Louise Corti",
+                            "institution": "UK Data Archive"
+                        },
+                        {
+                            "name": "Kevin Sch\u00fcrer",
+                            "institution": "UK Data Archive"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819040"
+                },
+                {
+                    "title": "In Praise of Data Archives: Finding and recovering the 1963 Kennedy Assassination Study",
+                    "presenters": [
+                        {
+                            "name": "Tom W. Smith",
+                            "institution": "NORC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2012-06-12",
+            "title": "Session C: Research Portals, or the Truth is Out There",
+            "chair": "Fay Booker, University of Chicago",
+            "presentations": [
+                {
+                    "title": "An Internet Portal for Danish Research",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/C02fink.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Anne Sophie Fink",
+                            "institution": "Danish Data Archives"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819042"
+                },
+                {
+                    "title": "Scientific Information Infrastructure for Social Research in Russia",
+                    "presenters": [
+                        {
+                            "name": "Tatyana Yudina",
+                            "institution": "Moscow State University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Reaching Your End-user with MIMAS",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/C02eustace.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Jessica Eustace",
+                            "institution": "University of Manchester"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819044"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Plenary Session",
+            "moderator": "Margaret Adams, NARA",
+            "presentations": [
+                {
+                    "title": "An International Perspective on Confidentiality and Access to Governmentally Produced Social Science Data",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/P202doyle.pdf"
+                        },
+                        {
+                            "path": "https://iassistdata.org/downloads/P202abowd.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Pat Doyle",
+                            "institution": "US Bureau of the Census"
+                        },
+                        {
+                            "name": "Doug Norris",
+                            "institution": "Statistics Canada"
+                        },
+                        {
+                            "name": "Professor John M. Abowd",
+                            "institution": "Cornell Institute for Social and Economic Research"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819046"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Session D: Working Together to Accelerate Access:Data on the Fast Track",
+            "chair": "Robin Rice, Edinburgh University",
+            "presentations": [
+                {
+                    "title": "Building Collaborative Data Services Upon Dispersed Resources: A Collaboration Model for Accelerating Data Access at Indiana University",
+                    "presenters": [
+                        {
+                            "name": "Jason (Xiao) Yu",
+                            "institution": "Indiana University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Entering a New Era -- The European Research Area",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/D02miller.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Ken Miller",
+                            "institution": "(UK Data Archive)"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819048"
+                },
+                {
+                    "title": "StatCat: Building a Statistical Data Finder",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/D02lindenetal.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Julie Linden",
+                            "institution": "(Yale University), Steven Citron-Pousty, Ann Green"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819050"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Session E: GIS Mobilized: One if by Land; Two if by Sea; Three if by Fiber Optics",
+            "chair": "Patrick McGlamery, University of Connecticut",
+            "presentations": [
+                {
+                    "title": "Geographic Information Retrieval: Searching Text and Data via Common Geography",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/E02gey.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Fredric Gey",
+                            "institution": "UC Berkeley"
+                        },
+                        {
+                            "name": "Michael Buckland",
+                            "institution": "UC Berkeley"
+                        },
+                        {
+                            "name": "Aitao Chen",
+                            "institution": "UC Berkeley"
+                        },
+                        {
+                            "name": "Ray Larson",
+                            "institution": "UC Berkeley"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819052"
+                },
+                {
+                    "title": "The USGS National Map: Delaware Framework DataMIL Pilot Project",
+                    "presenters": [
+                        {
+                            "name": "Richard Sacher",
+                            "institution": "University of Delaware"
+                        }
+                    ]
+                },
+                {
+                    "title": "Integrating Data Resources with the Library Catalog",
+                    "presenters": [
+                        {
+                            "name": "Steven Morris",
+                            "institution": "North Carolina State University"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Session F: Poll Data: Enabling Greater Access and Re-use",
+            "chair": "Richard Rockwell, The Roper Center",
+            "presentations": [
+                {
+                    "title": "Enhancing Access: Roper Center Efforts Towards Data Integration",
+                    "presenters": [
+                        {
+                            "name": "Marc Maynard",
+                            "institution": "Roper Center"
+                        }
+                    ]
+                },
+                {
+                    "title": "Encouraging Secondary Analysis of Public Opinion Poll Data",
+                    "presenters": [
+                        {
+                            "name": "Shawn Marie Pelak",
+                            "institution": "ICPSR"
+                        }
+                    ]
+                },
+                {
+                    "title": "Enriching Access to Opinion Poll Data: The Experience of the UK Data Archive",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/F02schurer.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Kevin Sch\u00fcrer",
+                            "institution": "UK Data Archive"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819054"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Session G: Tuning Up Your Web Site: Increasing Its Usability",
+            "chair": "Ron Nakao, Stanford University",
+            "presentations": [
+                {
+                    "title": "Electronic Collaboration with Distant Partners: The (Success) Story of the IASSIST Web Action Group",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/G02rice.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Robin Rice",
+                            "institution": "Edinburgh University"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819056"
+                },
+                {
+                    "title": "Creating Accessible Style and Content for MIMAS Social Sciences Web Pages",
+                    "presenters": [
+                        {
+                            "name": "Stuart Smith",
+                            "institution": "University of Manchester"
+                        }
+                    ]
+                },
+                {
+                    "title": "Web Usability: The Key to Success on the Web",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/G02blessingzawitz.pdf"
+                        },
+                        {
+                            "path": "https://iassistdata.org/downloads/G02blessingzawitz_extra.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Colleen Blessing",
+                            "institution": "US Dept of Energy"
+                        },
+                        {
+                            "name": "Marianne Zawitz",
+                            "institution": "US Dept of Justice"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819058"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Session H: M-Squared: Metadata Matters",
+            "chair": "Ann Green, Yale University",
+            "presentations": [
+                {
+                    "title": "MetaNet: Standardising Statistical Metadata Methodology",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/H02brannen.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Karen Brannen",
+                            "institution": "University of Edinburgh"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819060"
+                },
+                {
+                    "title": "Harmonization and Integration of Metadata: An Urgent Task for the Future Efficient Use of the Web",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/H02soltes.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Dusan Soltes",
+                            "institution": "Comenius University"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819062"
+                },
+                {
+                    "title": "XML: Schemas, Names and Confusion",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/H02gillman.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Daniel Gillman",
+                            "institution": "US Bureau of Labor Statistics"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819064"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-13",
+            "title": "Session I: Make It Faster, Make It Bigger: Developments in Data Delivery System's",
+            "chair": "Bo Wandschneider, University of Guelph",
+            "presentations": [
+                {
+                    "title": "New Developments in Open Source Digital Library Tools",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/I02altman.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Micah Altman",
+                            "institution": "Harvard University"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819066"
+                },
+                {
+                    "title": "The Internet Data Library System, Version 2: A Canadian Data Delivery Experience",
+                    "presenters": [
+                        {
+                            "name": "Vince Gray",
+                            "institution": "(University of Western Ontario)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Web-based Access to Complex UK Census Data-Sets",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/I02williamsstillwell.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "O.W. Duke-Williams",
+                            "institution": "University of Leeds"
+                        },
+                        {
+                            "name": "J.C.H. Stillwell",
+                            "institution": "University of Leeds"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819068"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Plenary Session",
+            "moderator": "Karsten Boye Rasmussen, University of Southern Denmark",
+            "presentations": [
+                {
+                    "title": "Recent Developments in Data Access and Implications for DataArchives",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/P302darragh.pdf"
+                        },
+                        {
+                            "path": "https://iassistdata.org/downloads/P302neidert.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Jen Darragh",
+                            "institution": "Pennsylvania State University"
+                        },
+                        {
+                            "name": "Lisa Neidert",
+                            "institution": "University of Michigan"
+                        },
+                        {
+                            "name": "Mary Vardigan",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "Kevin Sch\u00fcrer",
+                            "institution": "UK Data Archive"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819070"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Session J: A New Topical Data Archive: Building a Research Infrastructure for Arts and Cultural Policy Studies in the U.S.",
+            "chair": "Ann Gray, Princeton University",
+            "presentations": [
+                {
+                    "title": "Academics, Journalists, Policy Makers and Artists: Mapping One Road for All",
+                    "presenters": [
+                        {
+                            "name": "Elizabeth Bennett",
+                            "institution": "Princeton University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cultural Policy and the Arts: Overview of the Field",
+                    "presenters": [
+                        {
+                            "name": "Ann Gray",
+                            "institution": "Princeton University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Developing a new Data Archive in a Time of Developing Standards",
+                    "presenters": [
+                        {
+                            "name": "Vernon Leighton",
+                            "institution": "Princeton University"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Session K: Putting DDI on the Road: What's in the Metadata Toolbox?",
+            "chair": "Bill Block, University of Minnesota",
+            "presentations": [
+                {
+                    "title": "DDI Tools: The MN perspective",
+                    "presenters": [
+                        {
+                            "name": "Mike Haarman",
+                            "institution": "University of Minnesota"
+                        }
+                    ]
+                },
+                {
+                    "title": "DDI Files from New Data Collections",
+                    "presenters": [
+                        {
+                            "name": "Tom Piazza",
+                            "institution": "UC Berkeley"
+                        }
+                    ]
+                },
+                {
+                    "title": "The Metadata Toolbox: A User's Perspective on DDI",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/K02smith.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Janet Eisenhauer Smith",
+                            "institution": "University of Wisconsin"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819072"
+                },
+                {
+                    "title": "ICPSR's Use of DDI",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/K02vardigan.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Mary Vardigan",
+                            "institution": "(ICPSR)"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819074"
+                },
+                {
+                    "title": "DDI-Publishing Made Easy-the Nesstar Way",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/K02ryssevik2.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": "(NSD), Nesstar Ltd."
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819076"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Session L: Accelerated Learning Environments: A Discussion on Collaboration & Dissemination of Teaching Materials",
+            "chair": "Paula Lackie, Carleton College",
+            "presentations": [
+                {
+                    "title": "Preparing a New Generation of Researchers: Introductory Sociology & Research Methods",
+                    "presenters": [
+                        {
+                            "name": "Grant Blank",
+                            "institution": "American University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Sharing Instructional Materials Through the Web",
+                    "presenters": [
+                        {
+                            "name": "John Korey",
+                            "institution": "California State Polytechnic University"
+                        }
+                    ]
+                },
+                {
+                    "title": "MOTV: Research Methods and Data Resources for Social Sciences? A Case of Finland",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/L02alateraborg.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Tuomas J. Alater\u00e4",
+                            "institution": "Finnish Social Science Data Archive"
+                        },
+                        {
+                            "name": "Sami Borg",
+                            "institution": "Finnish Social Science Data Archive"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819078"
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Session M: Delivering the U.K. Census: Web-Based Access",
+            "chair": "Melanie Wright, UK Data Archive",
+            "presentations": [
+                {
+                    "title": "Let us Bring You to Your Census: Recent Developments in UK Census Data Provision",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/M02bell.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Lucy Bell",
+                            "institution": "(UK Data Archive)"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3819080115248"
+                },
+                {
+                    "title": "Learning and teaching with the UK Census",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/M02carterchappell.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Jackie Carter",
+                            "institution": "University of Manchester"
+                        },
+                        {
+                            "name": "Cressida Chappell",
+                            "institution": "UK Data Archive"
+                        }
+                    ]
+                },
+                {
+                    "title": "Web-based Access to the 2001 Sample of Anonymised Records (SAR's) from the UK Census: Opportunities for Learning and Teaching",
+                    "presenters": [
+                        {
+                            "name": "Mark Brown",
+                            "institution": "University of Manchester"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stuck on the Census: UK Historical Censuses Online",
+                    "presenters": [
+                        {
+                            "name": "Hamish James",
+                            "institution": "(UK Data Archive), Cressida Chappell, Mark Merry, Gustavo de Souza"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Session N: Watching DDI In Action: Implementation of a Standard",
+            "chair": "Fred Gey, UCDATA and UC Berkeley",
+            "presentations": [
+                {
+                    "title": "Developing a DDI Back-Office",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/N02dekker.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Ron Dekker",
+                            "institution": "NWO"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trials and Tribulations of Developing DDI-Compliant Codebooks at the University of Guelph",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/N02edwards.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Michelle Edwards",
+                            "institution": "University of Guelph"
+                        },
+                        {
+                            "name": "Carol Perry",
+                            "institution": "University of Guelph"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3822629"
+                },
+                {
+                    "title": "WebDAIS/DDMS - A new version of NESSTAR",
+                    "presenters": [
+                        {
+                            "name": "Bill Bradley",
+                            "institution": "Health Canada"
+                        },
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": "Health Canada"
+                        },
+                        {
+                            "name": "Simon Musgrave",
+                            "institution": "Health Canada"
+                        },
+                        {
+                            "name": "Prem Khosla",
+                            "institution": "Health Canada"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2002-06-14",
+            "title": "Session O: The Faster it Moves, The Harder it is to Preserve",
+            "chair": "Diane Geraci, UK Data Archive",
+            "presentations": [
+                {
+                    "title": "NARA's High Capacity Magnetic Media Study",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/O02carlson.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Michael Carlson",
+                            "institution": "NARA"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3822633"
+                },
+                {
+                    "title": "Digital Preservation: Maintaining History's Rear-View Mirror",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/O02vavra.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Janet Vavra",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3822635"
+                },
+                {
+                    "title": "Designing an e-journal archive: report of a planning project at Harvard University",
+                    "presenters": [
+                        {
+                            "name": "Diane Garner",
+                            "institution": "Harvard College Library"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
