@@ -38,35 +38,20 @@ detailed session reports to post. 
 
 /san/
 
-<!-- HAS COMMENTS
+### Comments
 
-Comments
-Maybe next time we could also
-Submitted by Walter Giesbrecht (not verified) on Fri, 2008-05-30 12:14.
+*Submitted by Walter Giesbrecht (not verified) on Fri, 2008-05-30 12:14.*
 Maybe next time we could also have a Turkey Action Group meeting in SL, eh?
 
-    Login to post comments 
-
-Just want to echo Ann's
-Submitted by Walter Giesbrecht (not verified) on Fri, 2008-05-30 11:56.
+*Submitted by Walter Giesbrecht (not verified) on Fri, 2008-05-30 11:56.*
 Just want to echo Ann's sentiments -- it has been tremendous fun here in SL, and I look forward to being able to do this at future conferences I am unable to attend (hope that won't be very many!) -- Waldron Rhino
 
-    Login to post comments 
-
-Alas.. I too have been
-Submitted by Kathleen Matthews (not verified) on Fri, 2008-05-30 03:24.
+*Submitted by Kathleen Matthews (not verified) on Fri, 2008-05-30 03:24.*
 Alas.. I too have been distracted (today) by creating and getting acquainted with my new avatar and exploring the Stanford Libraries in SecondLife. It is beautiful here, and interesting, in both worlds.
 
-    Login to post comments 
-
-Ann - SusieQue loves dancing
-Submitted by San (not verified) on Thu, 2008-05-29 18:16.
+*Submitted by San (not verified) on Thu, 2008-05-29 18:16.*
 Ann - SusieQue loves dancing with Ann Snoodle!
 
-    Login to post comments 
-
-Just want to say how grateful
-Submitted by Ann Green (not verified) on Thu, 2008-05-29 18:14.
+*Submitted by Ann Green (not verified) on Thu, 2008-05-29 18:14.*
 Just want to say how grateful I am that those of us who are unable to be in Stanford can watch the plenaries and sessions taking place in the McCaw room, thanks to the support of the Stanford Second Life team. The sushi, tapas, cappuccino, IASSIST t-shirts, and camaraderie are great given the virtual state of things. We'll send snapshots so you all can see what we're experiencing there -- better yet, log in and join us. And the conference sounds -- and looks -- like the Best Ever. -- Ann Snoodle aka Green 
 
--->
