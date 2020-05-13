@@ -1,177 +1,104 @@
 {
-    "conferenceYear": "2001",
-    "title": "A data odyssey: collaborative working in the social science cyber space",
     "city": "Amsterdam, Netherlands",
+    "host": "University of Amsterdam",
+    "conferenceNum": "37",
+    "conferenceYear": "2001",
     "dateText": "May 15-18, 2001",
     "startDate": "2001-05-15",
     "endDate": "2001-05-18",
-    "conferenceNum": "27",
-    "conferenceUrl": "http://iassist.dans.knaw.nl/us/ia2001/home.htm",
-    "oldPath": "/conference/2001/description/1331",
-    "nid": "1331",
-    "postDate": "2011-02-02 10:00:17 -0700",
+    "conferenceUrl": null,
+    "title": "IASSIST 2001-A data odyssey: collaborative working in the social science cyber space",
     "sessions": [
         {
-            "year": "2001",
             "day": "2001-05-15",
-            "title": "Workshop",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Workshop",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2748",
-            "nid": "2748",
-            "postDate": "2011-07-21 10:19:06 -0700",
+            "title": "Workshops",
             "presentations": [
                 {
-                    "year": "2001",
-                    "title": "Creating DDI Compliant Codebooks",
-                    "abstract": "",
+                    "title": "Creating DDI compliant codebooks",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/maddiewshop.pdf"
+                        },
+                        {
+                            "path": "https://iassistdata.org/downloads/ddi_workshop.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Wendy Thomas",
                             "institution": "University of Minnesota"
-                        }
-                    ],
-                    "files": [
+                        },
                         {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/maddiewshop.pdf",
-                            "name": "maddiewshop.pdf"
-                        }
-                    ],
-                    "sessNid": "2748",
-                    "oldPath": "/conferences/2001/presentation/2749",
-                    "nid": "2749",
-                    "postDate": "2011-07-21 10:19:48 -0700"
-                },
-                {
-                    "year": "2001",
-                    "title": "Creating DDI Compliant Codebooks",
-                    "abstract": "",
-                    "presenters": [
-                        {
-                            "name": "Bill Block",
+                            "name": "Bill Block, University of Minnesota",
                             "institution": "University of Minnesota"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/ddi_workshop.pdf",
-                            "name": "ddi_workshop.pdf"
-                        }
-                    ],
-                    "sessNid": "2748",
-                    "oldPath": "/conferences/2001/presentation/2750",
-                    "nid": "2750",
-                    "postDate": "2011-07-21 10:20:23 -0700"
+                    "doi": "10.5281/zenodo.3823051"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-16",
-            "title": "Plenary I",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Plenary",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2751",
-            "nid": "2751",
-            "postDate": "2011-07-21 10:21:22 -0700",
+            "title": "Plenary A0: Inter- and Intra- National Archives in the New Millenium: Issues, Strategies and Models",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Data Disclosure",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Shurer.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Kevin Schurer",
                             "institution": "University of Essex, UK Data Archive"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/shurer.pdf",
-                            "name": "shurer.pdf"
-                        }
-                    ],
-                    "sessNid": "2751",
-                    "oldPath": "/conferences/2001/presentation/2752",
-                    "nid": "2752",
-                    "postDate": "2011-07-21 10:21:52 -0700"
+                    "doi": "10.5281/zenodo.3823053"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-16",
-            "title": "B2: Implementing the DDI 1",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "2",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2753",
-            "nid": "2753",
-            "postDate": "2011-07-21 10:22:30 -0700",
+            "title": "Session B2: Implementing the DDI 1",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Learning NESSTAR",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Kleemola.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Mari Kleemola",
                             "institution": "University Tampere, Finnish Social Science Data Archive"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/kleemola.pdf",
-                            "name": "kleemola.pdf"
-                        }
-                    ],
-                    "sessNid": "2753",
-                    "oldPath": "/conferences/2001/presentation/2754",
-                    "nid": "2754",
-                    "postDate": "2011-07-21 10:23:16 -0700"
+                    "doi": "10.5281/zenodo.3823055"
                 },
                 {
-                    "year": "2001",
                     "title": "NESSTAR - the data archive perspective",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Ward.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Margaret Ward",
                             "institution": "University of Essex, UK Data Archive"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/ward.pdf",
-                            "name": "ward.pdf"
-                        }
-                    ],
-                    "sessNid": "2753",
-                    "oldPath": "/conferences/2001/presentation/2755",
-                    "nid": "2755",
-                    "postDate": "2011-07-21 10:24:02 -0700"
+                    "doi": "10.5281/zenodo.3823057"
                 },
                 {
-                    "year": "2001",
                     "title": "Leveraging Gains in Metadata-based Knowledge Management and Data Access Systems: The DAIS NESSTAR Project",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Bradley.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Bill Bradley",
@@ -186,39 +113,21 @@
                             "institution": "Norwegian Social Science Data Services"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/bradley.pdf",
-                            "name": "bradley.pdf"
-                        }
-                    ],
-                    "sessNid": "2753",
-                    "oldPath": "/conferences/2001/presentation/2756",
-                    "nid": "2756",
-                    "postDate": "2011-07-21 10:25:03 -0700"
+                    "doi": "10.5281/zenodo.3823059"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-16",
-            "title": "C2: Implementing the DDI 2",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "3",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2757",
-            "nid": "2757",
-            "postDate": "2011-07-21 10:26:10 -0700",
+            "title": "Session C2: Implementing the DDI 2",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Applications in the Real World - the Counting California experience with the DDI",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Einowski.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Juri Stratford",
@@ -229,99 +138,60 @@
                             "institution": "UC Berkeley"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/einowski.pdf",
-                            "name": "einowski.pdf"
-                        }
-                    ],
-                    "sessNid": "2757",
-                    "oldPath": "/conferences/2001/presentation/2758",
-                    "nid": "2758",
-                    "postDate": "2011-07-21 10:27:35 -0700"
+                    "doi": "10.5281/zenodo.3823061"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-16",
-            "title": "C3: Digital Archiving",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "4",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2759",
-            "nid": "2759",
-            "postDate": "2011-07-21 10:28:12 -0700",
+            "title": "Session C3: Digital Archiving",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Archiving Digital Academic heritage (ADA)",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Tjalsma.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Heiko Tjalsma",
-                            "institution": "NIWI, Netherlands Historical Data Archive "
+                            "institution": "NIWI, Netherlands Historical Data Archive"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/tjalsma.pdf",
-                            "name": "tjalsma.pdf"
-                        }
-                    ],
-                    "sessNid": "2759",
-                    "oldPath": "/conferences/2001/presentation/2760",
-                    "nid": "2760",
-                    "postDate": "2011-07-21 10:28:45 -0700"
+                    "doi": "10.5281/zenodo.3823063"
                 },
                 {
-                    "year": "2001",
                     "title": "EU initiatives in the digital document management and archiving area",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Puente.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Concha Fernandez de la Puente",
                             "institution": "European Commission, DG Information Society, Cultural Heritage Applications"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/puente.pdf",
-                            "name": "puente.pdf"
-                        }
-                    ],
-                    "sessNid": "2759",
-                    "oldPath": "/conferences/2001/presentation/2761",
-                    "nid": "2761",
-                    "postDate": "2011-07-21 10:29:31 -0700"
+                    "doi": "10.5281/zenodo.3823065"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-16",
-            "title": "D1: Networking and Infrastructure",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "5",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2762",
-            "nid": "2762",
-            "postDate": "2011-07-21 10:30:16 -0700",
+            "title": "Session D1: Networking and Infrastructure",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "From data graveyeards to knowledge greenhouses",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Ryssevik.ppt"
+                        },
+                        {
+                            "path": "https://iassistdata.org/conferences/page/MetaDataBlues_Bruce_Abbott.mp3"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Jostein Ryssevik",
@@ -331,287 +201,193 @@
                             "name": "Simon Musgrave",
                             "institution": "UK Data Archive, University of Essex"
                         }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/ryssevik.pdf",
-                            "name": "ryssevik.pdf"
-                        }
-                    ],
-                    "sessNid": "2762",
-                    "oldPath": "/conferences/2001/presentation/2763",
-                    "nid": "2763",
-                    "postDate": "2011-07-21 10:31:39 -0700"
+                    ]
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-16",
-            "title": "D2: Metadata Systems",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "6",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2764",
-            "nid": "2764",
-            "postDate": "2011-07-21 10:32:21 -0700",
-            "presentations": []
-        },
-        {
-            "year": "2001",
-            "day": "2001-05-16",
-            "title": "D3: Tools for Data Services",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "7",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2767",
-            "nid": "2767",
-            "postDate": "2011-07-21 10:35:02 -0700",
+            "title": "Session D2: Metadata Systems",
             "presentations": [
                 {
-                    "year": "2001",
-                    "title": "Se busca: the perfect language. Limber as a 'metaboundary' tool ",
-                    "abstract": "",
+                    "title": "The Meta Information System of the Social and Cultural Planning Office (MISS)",
+                    "presenters": [
+                        {
+                            "name": "Patty Adelaar",
+                            "institution": "Dutch Social and Cultural Planning Office"
+                        }
+                    ]
+                },
+                {
+                    "title": "ISSP DataWizard - Computer Assisted Merging and Archiving of Distributed International Comparative Data",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Uher.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Rolf Uher",
+                            "institution": "Zentralarchiv f\u00fcr Empirische Sozialforschung"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3823067"
+                }
+            ]
+        },
+        {
+            "day": "2001-05-16",
+            "title": "Session D3: Tools for Data Services",
+            "presentations": [
+                {
+                    "title": "Se busca: the perfect language. Limber as a 'metaboundary' tool",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Bernabe.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Myriam Garcia Bernabe",
                             "institution": "UK Data Archive, University of Essex"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/bernabe.pdf",
-                            "name": "bernabe.pdf"
-                        }
-                    ],
-                    "sessNid": "2767",
-                    "oldPath": "/conferences/2001/presentation/2768",
-                    "nid": "2768",
-                    "postDate": "2011-07-21 10:35:48 -0700"
+                    "doi": "10.5281/zenodo.3823069"
                 },
                 {
-                    "year": "2001",
                     "title": "MISSION (Multi-Agent Integration of Shared Statistical Information Over the [inter]Net)",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Lamb.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Joanne Lamb",
                             "institution": "CES, University of Edinburgh"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/lamb.pdf",
-                            "name": "lamb.pdf"
-                        }
-                    ],
-                    "sessNid": "2767",
-                    "oldPath": "/conferences/2001/presentation/2769",
-                    "nid": "2769",
-                    "postDate": "2011-07-21 10:36:23 -0700"
+                    "doi": "10.5281/zenodo.3823071"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-17",
-            "title": "F1: DDI-needs",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2770",
-            "nid": "2770",
-            "postDate": "2011-07-21 10:36:55 -0700",
+            "title": "Session F1: DDI-needs",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "The DDI: Striking a balance to meet the needs of the data community",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/sess-1.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Wendy L. Thomas",
                             "institution": "Minnesota Population Center, University of Minnesota"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/sess-1.pdf",
-                            "name": "sess-1.pdf"
-                        }
-                    ],
-                    "sessNid": "2770",
-                    "oldPath": "/conferences/2001/presentation/2771",
-                    "nid": "2771",
-                    "postDate": "2011-07-21 10:37:27 -0700"
+                    "doi": "10.5281/zenodo.3823073"
                 },
                 {
-                    "year": "2001",
                     "title": "Tabular Data in DDI 1.1",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Kaper-tab.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Emiel Kaper",
                             "institution": "Statistics Netherlands"
                         }
-                    ],
-                    "files": [],
-                    "sessNid": "2770",
-                    "oldPath": "/conferences/2001/presentation/2772",
-                    "nid": "2772",
-                    "postDate": "2011-07-21 10:38:09 -0700"
+                    ]
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-17",
-            "title": "F2: Data Disclosure",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "2",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2773",
-            "nid": "2773",
-            "postDate": "2011-07-21 10:38:41 -0700",
+            "title": "Session F2: Data Disclosure",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Statistical Disclosure Control of Microdata at Statistics Netherlands",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Hout.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Ardo van den Hout",
                             "institution": "Statistics Netherlands"
                         }
-                    ],
-                    "files": [],
-                    "sessNid": "2773",
-                    "oldPath": "/conferences/2001/presentation/2774",
-                    "nid": "2774",
-                    "postDate": "2011-07-21 10:39:21 -0700"
+                    ]
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-17",
-            "title": "F3: Qualitative Data",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "3",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2775",
-            "nid": "2775",
-            "postDate": "2011-07-21 10:41:25 -0700",
+            "title": "Session F3: Qualitative Data",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "A Discussion of Validity in Qualitative Research",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Fink.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Anne Sofie Fink",
                             "institution": "Danish Data Archive"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/fink.pdf",
-                            "name": "fink.pdf"
-                        }
-                    ],
-                    "sessNid": "2775",
-                    "oldPath": "/conferences/2001/presentation/2776",
-                    "nid": "2776",
-                    "postDate": "2011-07-21 10:42:06 -0700"
+                    "doi": "10.5281/zenodo.3823075"
                 },
                 {
-                    "year": "2001",
                     "title": "From the Field to the Net: Cataloguing and Digitising Cultural Research Material",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Mahlam.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Tiina Mahlam\u00e4ki",
                             "institution": "University of Turku"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/mahlam.pdf",
-                            "name": "mahlam.pdf"
-                        }
-                    ],
-                    "sessNid": "2775",
-                    "oldPath": "/conferences/2001/presentation/2777",
-                    "nid": "2777",
-                    "postDate": "2011-07-21 10:42:38 -0700"
+                    "doi": "10.5281/zenodo.3823077"
                 },
                 {
-                    "year": "2001",
                     "title": "The DDI and qualitative data",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Kuula.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Arja Kuula",
                             "institution": "University Tampere, Finnish Social Science Data Archive"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/kuula.pdf",
-                            "name": "kuula.pdf"
-                        }
-                    ],
-                    "sessNid": "2775",
-                    "oldPath": "/conferences/2001/presentation/2778",
-                    "nid": "2778",
-                    "postDate": "2011-07-21 10:43:27 -0700"
+                    "doi": "10.5281/zenodo.3823079"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-17",
-            "title": "G1: New Archives (Forum)",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Panel",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "4",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2779",
-            "nid": "2779",
-            "postDate": "2011-07-21 10:43:55 -0700",
+            "title": "Session G1: New Archives (Forum)",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "How to take advantage of existing information about studies when populating a new data archive: the ADP's experience",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Stebe.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Janez \u0160tebe",
@@ -622,39 +398,21 @@
                             "institution": "ADP Social Science Data Archive, University of Ljubljana"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/stebe.pdf",
-                            "name": "stebe.pdf"
-                        }
-                    ],
-                    "sessNid": "2779",
-                    "oldPath": "/conferences/2001/presentation/2780",
-                    "nid": "2780",
-                    "postDate": "2011-07-21 10:44:39 -0700"
+                    "doi": "10.5281/zenodo.3823081"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-17",
-            "title": "H0: Poster Sessions",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "5",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2781",
-            "nid": "2781",
-            "postDate": "2011-07-21 10:45:14 -0700",
+            "title": "Session H0: Poster Sessions",
             "presentations": [
                 {
-                    "year": "2001",
-                    "title": "The Africa Household Survey Databank: experiences in data collection, archiving and dissemination in developing countries",
-                    "abstract": "",
+                    "title": "The Africa Household Survey Databank: experiences in data collection, archiving and dissemination in developing countries ",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Heus.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Antoine Simonpietri",
@@ -665,81 +423,51 @@
                             "institution": "World Bank"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/heus.pdf",
-                            "name": "heus.pdf"
-                        }
-                    ],
-                    "sessNid": "2781",
-                    "oldPath": "/conferences/2001/presentation/2782",
-                    "nid": "2782",
-                    "postDate": "2011-07-21 10:46:00 -0700"
+                    "doi": "10.5281/zenodo.3823083"
                 },
                 {
-                    "year": "2001",
                     "title": "New developments at the EDINA UK datacentre",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Morris.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Barbara Morris",
-                            "institution": "Data Library, University of Edinburgh "
+                            "institution": "Data Library, University of Edinburgh"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/morris.pdf",
-                            "name": "morris.pdf"
-                        }
-                    ],
-                    "sessNid": "2781",
-                    "oldPath": "/conferences/2001/presentation/2783",
-                    "nid": "2783",
-                    "postDate": "2011-07-21 10:46:33 -0700"
+                    "doi": "10.5281/zenodo.3823085"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-18",
-            "title": "J1: Leaning &: Teaching",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2784",
-            "nid": "2784",
-            "postDate": "2011-07-21 10:47:04 -0700",
+            "title": "Session J1: Learning & Teaching",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Data Support for Learning and Teaching: the Final Frontier?",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Rice.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Robin Rice",
                             "institution": "Edinburgh University, Data Library"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/rice.pdf",
-                            "name": "rice.pdf"
-                        }
-                    ],
-                    "sessNid": "2784",
-                    "oldPath": "/conferences/2001/presentation/2785",
-                    "nid": "2785",
-                    "postDate": "2011-07-21 10:47:40 -0700"
+                    "doi": "10.5281/zenodo.3823087"
                 },
                 {
-                    "year": "2001",
                     "title": "Collaborative working in UK learning and teaching/development projects",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Massey.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Moira Massey",
@@ -750,42 +478,30 @@
                             "institution": "University of Edinburgh, Data Library"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/massey.pdf",
-                            "name": "massey.pdf"
-                        }
-                    ],
-                    "sessNid": "2784",
-                    "oldPath": "/conferences/2001/presentation/2786",
-                    "nid": "2786",
-                    "postDate": "2011-07-21 10:48:30 -0700"
+                    "doi": "10.5281/zenodo.3823089"
                 },
                 {
-                    "year": "2001",
                     "title": "The Virtual Training Suite: Internet Skills for Learning and Teaching",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Dawson.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Heather Dawson",
-                            "institution": "BLPES/SOSIG "
+                            "institution": "BLPES/SOSIG"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/dawson.pdf",
-                            "name": "dawson.pdf"
-                        }
-                    ],
-                    "sessNid": "2784",
-                    "oldPath": "/conferences/2001/presentation/2787",
-                    "nid": "2787",
-                    "postDate": "2011-07-21 10:49:38 -0700"
+                    "doi": "10.5281/zenodo.3823091"
                 },
                 {
-                    "year": "2001",
                     "title": "Promoting effective learning through a data partnership",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Beharrell.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Andrew J. Beharrell",
@@ -796,261 +512,159 @@
                             "institution": "Institute for Learning and Research Technology, University of Bristol"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/beharrell.pdf",
-                            "name": "beharrell.pdf"
-                        }
-                    ],
-                    "sessNid": "2784",
-                    "oldPath": "/conferences/2001/presentation/2788",
-                    "nid": "2788",
-                    "postDate": "2011-07-21 10:50:20 -0700"
+                    "doi": "10.5281/zenodo.3823093"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-18",
-            "title": "J2: Geo-Data",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "2",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2789",
-            "nid": "2789",
-            "postDate": "2011-07-21 10:51:16 -0700",
+            "title": "Session J2: Geo-Data",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Dealing with Macrodata - The Case of Regional Statistics",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/peleg.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Michal Peleg",
                             "institution": "Israel Social Science Data Center, The Hebrew University of Jerusalem"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/peleg.pdf",
-                            "name": "peleg.pdf"
-                        }
-                    ],
-                    "sessNid": "2789",
-                    "oldPath": "/conferences/2001/presentation/2790",
-                    "nid": "2790",
-                    "postDate": "2011-07-21 10:51:52 -0700"
+                    "doi": "10.5281/zenodo.3823097"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-18",
-            "title": "J3: Aggregate Data & Internet (Data)",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "3",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2791",
-            "nid": "2791",
-            "postDate": "2011-07-21 10:52:36 -0700",
+            "title": "Session J3: Aggregate Data & Internet (Data)",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "Accessing OECD publications has never been easier",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Kitchen.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "James Kitchen",
                             "institution": "Marketing Consultant, OECD"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/kitchen.pdf",
-                            "name": "kitchen.pdf"
-                        }
-                    ],
-                    "sessNid": "2791",
-                    "oldPath": "/conferences/2001/presentation/2792",
-                    "nid": "2792",
-                    "postDate": "2011-07-21 10:53:14 -0700"
+                    "doi": "10.5281/zenodo.3823099"
                 },
                 {
-                    "year": "2001",
                     "title": "Delivering Unique Numeric Data on the Web: Projects, Platforms and Preservation",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Jantz.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Ronald C. Jantz",
                             "institution": "Rutgers University"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/jantz.pdf",
-                            "name": "jantz.pdf"
-                        }
-                    ],
-                    "sessNid": "2791",
-                    "oldPath": "/conferences/2001/presentation/2793",
-                    "nid": "2793",
-                    "postDate": "2011-07-21 10:53:55 -0700"
+                    "doi": "10.5281/zenodo.3823101"
                 },
                 {
-                    "year": "2001",
                     "title": "Globalization of information highways and the need for new forms of webdata and metadata",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Soltes.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Dusan Soltes",
                             "institution": "Faculty of Management, Comenius University"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/soltes.pdf",
-                            "name": "soltes.pdf"
-                        }
-                    ],
-                    "sessNid": "2791",
-                    "oldPath": "/conferences/2001/presentation/2794",
-                    "nid": "2794",
-                    "postDate": "2011-07-21 10:54:32 -0700"
+                    "doi": "10.5281/zenodo.3823103"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-18",
-            "title": "K2: IASSIST",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "4",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2795",
-            "nid": "2795",
-            "postDate": "2011-07-21 10:54:58 -0700",
+            "title": "Session K2: IASSIST",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "IASSIST COLLABORATION EFFORTS IN AFRICA: Finding solutions to the challenges of international collaborative initiatives in the African Region",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Paris.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Julia Paris",
                             "institution": "Technikon Witwatersrand"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/paris.pdf",
-                            "name": "paris.pdf"
-                        }
-                    ],
-                    "sessNid": "2795",
-                    "oldPath": "/conferences/2001/presentation/2796",
-                    "nid": "2796",
-                    "postDate": "2011-07-21 10:55:36 -0700"
+                    "doi": "10.5281/zenodo.3823105"
                 },
                 {
-                    "year": "2001",
-                    "title": " Professional associations in transition to virutal communties for collaboration: the case of IASSIST (Part 1)",
-                    "abstract": "",
+                    "title": "Professional associations in transition to virutal communties for collaboration: the case of IASSIST (Part 1)",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/deVries.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Repke de Vries",
                             "institution": "NIWI"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/devries.pdf",
-                            "name": "devries.pdf"
-                        }
-                    ],
-                    "sessNid": "2795",
-                    "oldPath": "/conferences/2001/presentation/2797",
-                    "nid": "2797",
-                    "postDate": "2011-07-21 10:56:22 -0700"
+                    "doi": "10.5281/zenodo.3823107"
                 },
                 {
-                    "year": "2001",
                     "title": "Professional associations in transition to virutal communties for collaboration: the case of IASSIST (Part 2)",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Rasmussen.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Karsten Boye Rasmussen",
                             "institution": "University of Southern Denmark"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/rasmussen.pdf",
-                            "name": "rasmussen.pdf"
-                        }
-                    ],
-                    "sessNid": "2795",
-                    "oldPath": "/conferences/2001/presentation/2798",
-                    "nid": "2798",
-                    "postDate": "2011-07-21 10:57:04 -0700"
+                    "doi": "10.5281/zenodo.3823109"
                 }
             ]
         },
         {
-            "year": "2001",
             "day": "2001-05-18",
-            "title": "K3: DDI-Tables",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "5",
-            "hostNid": "1331",
-            "oldPath": "/conferences/2001/session/2799",
-            "nid": "2799",
-            "postDate": "2011-07-21 10:57:30 -0700",
+            "title": "Session K3: DDI-Tables",
             "presentations": [
                 {
-                    "year": "2001",
                     "title": "CRISTAL Data Objects. An Object Model For Cubic, Raw, or Intermediate STatisticAL data",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Kaper-obj.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Emiel Kaper",
                             "institution": "Statistics Netherlands"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/kaper-obj.pdf",
-                            "name": "kaper-obj.pdf"
-                        }
-                    ],
-                    "sessNid": "2799",
-                    "oldPath": "/conferences/2001/presentation/2800",
-                    "nid": "2800",
-                    "postDate": "2011-07-21 10:58:08 -0700"
+                    "doi": "10.5281/zenodo.3823111"
                 },
                 {
-                    "year": "2001",
                     "title": "Using DDI Extensions as Intermediary for Data Storage and Data Display",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/Low.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Patricia Cruse",
@@ -1069,37 +683,22 @@
                             "institution": "California Digital Library, University of California"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/low.pdf",
-                            "name": "low.pdf"
-                        }
-                    ],
-                    "sessNid": "2799",
-                    "oldPath": "/conferences/2001/presentation/2801",
-                    "nid": "2801",
-                    "postDate": "2011-07-21 10:59:14 -0700"
+                    "doi": "10.5281/zenodo.3823113"
                 },
                 {
-                    "year": "2001",
                     "title": "Describing Aggregate Data: The Enigma Variations",
-                    "abstract": "",
+                    "files": [
+                        {
+                            "path": "https://iassistdata.org/downloads/enigma.pdf"
+                        }
+                    ],
                     "presenters": [
                         {
                             "name": "Wendy L. Thomas",
                             "institution": "Minnesota Population Center, University of Minnesota"
                         }
                     ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2001/enigma.pdf",
-                            "name": "enigma.pdf"
-                        }
-                    ],
-                    "sessNid": "2799",
-                    "oldPath": "/conferences/2001/presentation/2802",
-                    "nid": "2802",
-                    "postDate": "2011-07-21 11:00:18 -0700"
+                    "doi": "10.5281/zenodo.3823115"
                 }
             ]
         }
