@@ -21,15 +21,15 @@
 
                     <div class="col-md-9" id="blog-listing-medium">
 
-
-                    </div>
                     <!-- /.col-md-9 -->
                        <ul>
                          {{.Content}}
-                         {{ range .Pages.ByParam "postdate" }}
+                         {{ range (.Pages.ByParam "postdate").Reverse }}						 
                           <li class="alternate"><a href="{{ .Permalink }}" target="_blank">{{ .Params.postdate }},  {{ .Title }}, {{ .Params.employer }}</a></li>
                          {{ end }}
                        </ul>
+                    </div>					   
+					   
                     <!-- *** LEFT COLUMN END *** -->
 
                     <!-- *** RIGHT COLUMN ***
@@ -39,9 +39,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 						
-				<!-- *** Temporarily disabled because does not scale properly *** -->
-
-						<!-- {{ partial "sidebar-resources.html" . }} -->
+						{{ partial "sidebar-resources.html" . }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
