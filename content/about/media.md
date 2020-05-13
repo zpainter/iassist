@@ -31,4 +31,4 @@ The following logo types are recommended for use on websites where IASSIST logo 
 
 ## Website History
 
-
+[See a relevant blog post]({{< ref "introducing-the-new-iassist-website.md" >}}).
