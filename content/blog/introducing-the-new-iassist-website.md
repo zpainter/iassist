@@ -24,7 +24,7 @@ The third interpretation of the Association's web presence was presented in 2010
 
 This time, the logo didn't change, although it has been very lightly enhanced for certain website uses and new grayscale and single colour versions have been introduced. We have moved away from Drupal and are using state-of-the-art static website generator technologies. We believe that this approach should give us security, speed, simplicity, and precise control over the look and feel of the site. The new site is suitable to mobile use and meets basic accessibility requirements. 
 
-{{< figure src="/img/blog/iassist_logo_wordmark-without-s-final1002.png" class="no-class-defined" alt="IASSIST enhanced logo" title="" width="" >}}
+{{< figure src="/img/blog/iassist_logo_wordmark-blog-use-only-2.png" class="no-class-defined" alt="IASSIST enhanced logo" title="" width="" >}}
 
 {{< figure src="/img/blog/gs1sc.png" class="wrap" alt="IASSIST's grayscale and singe colour logos." title="" width="102" >}}
 
