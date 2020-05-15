@@ -4,7 +4,7 @@ title = "Introducing the New IASSIST Website"
 tags = [ "Community of Data Professionals", "IASSIST 2020", "Websites",]
 date = "2020-05-13 00:00:01 -0700"
 draft = "false"
-banner = "/img/blog/blog-placeholder.png"
+banner = "/img/blog/4logoicons.png"
 +++
 It's alive! As you have probably noticed by now - IASSIST's new website has been launched. This is the fourth IASSIST website if one does not count the separate membership site *iassistdata.info*. Before taking a closer look at the new site, let's take a quick look back at IASSIST's website history.
 
