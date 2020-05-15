@@ -15,5 +15,5 @@ The list has also become an important source of support for members to query oth
 
 As a non-profit organization, the resources of IASSIST, including its discussion list, are not to be used for commercial purposes including advertizing or other promotional efforts related to commercial products. IASSIST Policy does permit, however, the use of its discussion list for announcements of the availability of new datasets from members' institutions and conferences for other organizations. IASSIST Policy does not permit the use of this service by, or for, non-members.
 
-- Please contact the [List Moderator](/about/web-team) if you have any questions, or would like to have a separate discussion list for your IASSIST interest group or similar. 
-- Instructions regarding the [older list](https://lists.columbia.edu/mailman/listinfo/iasst-l) and information on accessing the list archives is available at our membership site.
+Please contact the [List Moderator](/about/web-team) if you have any questions, or would like to have a separate discussion list for your IASSIST interest group or similar. 
+
