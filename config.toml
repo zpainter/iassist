@@ -1,4 +1,4 @@
-baseurl = "https://gracious-poitras-c5d8b0.netlify.com/"
+baseurl = "https://iassistdata.org/"
 title = "IASSIST - International Association for Social Science Information Service and Technology "
 theme = "hugo-universal-theme"
 #themesDir = "../.."
