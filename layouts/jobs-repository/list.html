@@ -25,7 +25,7 @@
                        <ul>
                          {{.Content}}
                          {{ range (.Pages.ByParam "postdate").Reverse }}						 
-                          <li class="alternate"><a href="{{ .Permalink }}" target="_blank">{{ .Params.postdate }},  {{ .Title }}, {{ .Params.employer }}</a></li>
+                          <li class="alternate"><a href="{{ .Permalink }}" target="_blank">{{ .Params.postdate }}:  {{ .Title }} ({{ .Params.employer }})</a></li>
                          {{ end }}
                        </ul>
                     </div>					   

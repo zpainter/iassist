@@ -22,8 +22,9 @@
 
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-post">
+                    <div class="col-md-9" id="jobs-posting">
 
+<!--
                         {{ if or .Params.author .Params.date }}
                           <p class="text-muted text-uppercase mb-small text-right">
                             {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>{{ end }}
@@ -31,13 +32,16 @@
                             {{ if .Params.date }}{{ .Date.Format .Site.Params.date_format }}{{ end }}
                           </p>
                         {{ end }}
+-->
 
                         <div id="post-content">
                           {{ if .Params.postdate }}<p class=""><strong>Posted to IASSIST on:</strong> {{ .Params.postdate }}</p>{{ end }}
                           {{ if .Params.employer }}<p class=""><strong>Employer:</strong>  {{ .Params.employer }}</p>{{ end }}
                           {{ if .Params.employerurl }}<p class=""><strong>Employer URL:</strong> <a href="{{ .Params.employerurl }}">{{ .Params.employerurl }}</a></p>{{ end }}
-                          <p class=""><strong>Description:</strong></p>
+                          <h2>Description</h2>
                           {{ .Content }}
+                          {{ if .Params.moreinfourl }}<p class=""><strong>More info/apply URL:</strong> <a href="{{ .Params.moreinfourl }}">{{ .Params.moreinfourl }}</a></p>{{ end }}						  
+                          {{ if .Params.archivedate }}<p class=""><strong>Archived on:</strong>  {{ .Params.archivedate }}</p><br />{{ end }}								  
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
