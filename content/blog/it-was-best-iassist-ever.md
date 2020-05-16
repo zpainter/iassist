@@ -19,9 +19,9 @@ More will likely be reviewed over coming weeks preceded by the usual
 
 If you were one of those fine presenters, please don't forget to submit
 a paper to the IQ
-([instructions](http://www.iassistdata.org/publications/iq/ "IQ submission instructions")
+([instructions](https://www.iassistdata.org/publications/iq/ "IQ submission instructions")
 for doing so are on the [IASSIST
-website](http://www.iassistdata.org "IASSIST web site")). Also, we want
+website](https://www.iassistdata.org "IASSIST web site")). Also, we want
 to make sure that your presentation itself is captured for prosperity so
 please check with Lisa Neidert (lisan at umich.edu) to make sure we have
 a copy.
@@ -30,7 +30,7 @@ Hopefully, we'll have more wrap up materials being posted soon.... if
 I can convince Bo to cough up some photos and coerce Melanie to share
 the song lyrics. Of course, Harrison Decker has really captured the Web
 2.0 spirit and posted a [video of the
-performance](http://www.youtube.com/watch?v=XjX2ePg_3FY "IASSIST07 closing song")
+performance](https://www.youtube.com/watch?v=XjX2ePg_3FY "IASSIST07 closing song")
 on YouTube!
 
 For the rest, you'll have to rely on fond memories and the promises
@@ -41,7 +41,7 @@ want to be part of the planning committee. Otherwise, think about the
 possibilities for:
 
 [![IASSIST2008
-logo](http://iassistblog.org/wp-content/uploads/2007/05/iassist2008_rect_v2.thumbnail.gif){#image65
+logo](https://iassistblog.org/wp-content/uploads/2007/05/iassist2008_rect_v2.thumbnail.gif){#image65
 width="128"
 height="72"}](http://iassistblog.org/?attachment_id=65 "IASSIST2008 logo"){#p65
 .imagelink}

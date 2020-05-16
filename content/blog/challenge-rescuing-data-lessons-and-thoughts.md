@@ -26,7 +26,7 @@ and providing access to it. The efforts, while important, call attention
 to a problem of organization that is very large in scope and likely
 cannot be solved in full by libraries.
 
-[![](http://data-services.hosting.nyu.edu/wp-content/uploads/2017/04/starfish_story.png){.wp-image-996 .size-full width="632" height="350"}](http://data-services.hosting.nyu.edu/wp-content/uploads/2017/04/starfish_story.png)
+[![](https://data-services.hosting.nyu.edu/wp-content/uploads/2017/04/starfish_story.png){.wp-image-996 .size-full width="632" height="350"}](http://data-services.hosting.nyu.edu/wp-content/uploads/2017/04/starfish_story.png)
 :   *Also a metaphor for preserving federal data*
 
 Thus far, the divide-and-conquer model has postulated that individual
@@ -64,7 +64,7 @@ Spring 2017 semester, Stanford downloaded all of HUD's spatial data,
 created metadata records for them, and loaded them into their spatial
 discovery environment ([EarthWorks](https://earthworks.stanford.edu/)).
 
-![](http://data-services.hosting.nyu.edu/wp-content/uploads/2017/05/Public-Housing-Authorities-2016-in-EarthWorks-1024x1015.png){.wp-image-1008 .size-large width="840" height="833"}
+![](https://data-services.hosting.nyu.edu/wp-content/uploads/2017/05/Public-Housing-Authorities-2016-in-EarthWorks-1024x1015.png){.wp-image-1008 .size-large width="840" height="833"}
 :   *A HUD dataset preserved in Stanford's Spatial Data Repository and
     digital collections*
 
@@ -127,7 +127,7 @@ preserve federal data. Our goal is to preserve a small subset of data in
 a way that benefits our users and also meets the standards of the Data
 Refuge movement.
 
-![](http://data-services.hosting.nyu.edu/wp-content/uploads/2017/04/FS_green-273x300.png){.wp-image-1000
+![](https://data-services.hosting.nyu.edu/wp-content/uploads/2017/04/FS_green-273x300.png){.wp-image-1000
 .size-medium .alignleft width="273" height="300"}
 
 We began by collecting the entirety of publicly accessible metadata

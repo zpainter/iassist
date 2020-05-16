@@ -10,7 +10,7 @@ draft = "false"
 banner = "/img/blog/blog-placeholder.png"
 +++
 ![Swivel Official
-logo](http://www.swivel.com/images/official_source_large.png "Swivel Official logo")For
+logo](https://www.swivel.com/images/official_source_large.png "Swivel Official logo")For
 those not familiar with the Web 2.0 numeric data utility Swivel - their
 mission "is to liberate the world's data and make it useful so new
 insights can be discovered and shared". However, it looks like Swivel

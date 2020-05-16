@@ -29,4 +29,4 @@ some value from following @iassistdata.
 *Obviously a subjective assessment when Justin Beiber has 44,625,042.
 
  [![ @iassistdata twitter follower
-bios](http://www.wordle.net/thumb/wrdl/7063808/%40iassistdata_twitter_follower_bios)](http://www.wordle.net/show/wrdl/7063808/%40iassistdata_twitter_follower_bios " @iassistdata twitter follower bios")
+bios](https://www.wordle.net/thumb/wrdl/7063808/%40iassistdata_twitter_follower_bios)](http://www.wordle.net/show/wrdl/7063808/%40iassistdata_twitter_follower_bios " @iassistdata twitter follower bios")
