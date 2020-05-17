@@ -60,7 +60,7 @@ In addition annual conference IASSIST may organise regional workshops or IASSIST
 #### 1st IASSIST Africa Regional Workshop
 
 ### Data Literacy as a catalyst for achieving Sustainable Development Goals
-**Kampala, Uganda, October 21-23, 2020**
+**Kampala, Uganda, January 11-13, 2021**
 
 Host institutions: IASSIST in collaboration with the East Africa School of Library and Information Science (EASLIS) and Association of Parliamentary Libraries of Eastern and Southern Africa (APLESA)
 
