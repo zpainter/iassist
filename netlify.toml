@@ -23,3 +23,7 @@ HUGO_VERSION = "v0.70.0"
 from = "https://iassistdata.org/conferences/archive/2018/*"
 to = "https://iassistdata.org/conferences/archive/2018-montreal/"
 status = 301
+
+from = https://iassistdata.org/conferences/archive/2018/*"
+to = "https://iassistdata.org/conferences/archive/2019-sydney/"
+status = 301
