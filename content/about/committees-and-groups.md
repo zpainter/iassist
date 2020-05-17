@@ -29,7 +29,7 @@ Responsible for promoting the development of professional skills of
     and mentoring.    
 - **2018-2020 Chair:** *Amy Pienta, apienta@umich.edu*
 
-#### [IASSIST Fellows](/about/iassist-fellows) {#iassist-fellows}
+#### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.	
 - **2018-2020 Chair:** *Florio Arguillas, foa2@cornell.edu*
 
@@ -50,7 +50,7 @@ Responsible for enabling productive and transparent communication     among memb
 - **2019-2023 Web Editor:** *Zac Painter. zwp@stanford.edu* 	
 - The [IASSIST Web Team](/about/web-team)
 
-#### [Programme Committee](/conference/conference-committees-2020) {#program-committee}
+#### [Programme Committee](/conferences/conference-committees) {#program-committee}
 Responsible for deciding on an annual conference title as well as     general thematic structure. The Program Chairs are responsible for     the intellectual content of the conference, and choosing members of     the multi-national Program Committee, deciding how it will function,     and assigning responsibilities to its members. The Committee works     along with the Local Arrangements Committee to set an agenda for     putting together sessions, plenaries, workshops, and social events.     
 
 **2020 Conference Co-Chairs:** *Stephanie Tulley, Stephanie Labou, Louise Corti*
@@ -73,17 +73,20 @@ during annual meetings.
 
 Read more about IASSIST Interest Groups and see the [Interest Group Checklist](/about/all-about-interest-groups).
 
-#### [Geospatial Interest Group](/community/geoig) {#geospatial-interest-group}
+#### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a     network for members focused on issues of geospatial data as related     to the social sciences. Expected outcomes include developing a     connected and informed group, opportunities for professional     development through training, shared professional tools, resources     for all IASSIST members to make use of, both members and non-members     of the IG, and an elevated awareness of social sciences and place.     
 
 - **2019-2020 Co-Chairs:** *Jennie Murack, murack@mit.edu and Amanda     Tickner, atickner@msu.edu*
 
 #### [Qualitative Social Science and Humanities Data Interest Group](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#program-committee} 
-The central purpose of the IASSIST Qualitative Social Science and     Humanities Data Interest Group is to foster conversations regarding     the needs of researchers who generate qualitative data, and what     types of services librarians and other information professionals can     develop to support these researchers in managing their data/source     materials throughout the research lifecycle.     Expected outcomes include 	     1. developing a connected and informed group,     2. providing opportunities for professional development through training, and     3. collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members). 	     
+The central purpose of the IASSIST Qualitative Social Science and     Humanities Data Interest Group is to foster conversations regarding     the needs of researchers who generate qualitative data, and what     types of services librarians and other information professionals can     develop to support these researchers in managing their data/source     materials throughout the research lifecycle.     Expected outcomes include 	     
+1. developing a connected and informed group,     
+2. providing opportunities for professional development through training, and     
+3. collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members). 	     
 
 - **2019-2020 Co-Chairs:** *Sebastian Karcher, skarcher@maxwell.syr.edu* and *Alesia Montgomery, alesiam@stanford.edu*
 
-#### [Health Data Interest Group](/community/hdig) (HDIG) {#health-data-interest-group}
+#### [Health Data Interest Group](/community/health-data-interest-group) (HDIG) {#health-data-interest-group}
 The availability of health data about individuals, gathered from     surveys or health care systems, are an invaluable resource for     researchers who wish to examine interactions between individuals and     the healthcare they receive. In addition, there is now much more     demand for research and analysis of linked health and social data     (for example, health records linked with education or social     security records). Particular challenges face data professionals who     seek to acquire health, and linked health data. The IASSIST Health     Data Interest Group has been established to bring together data     practitioners and technicians who manage access to health, and     health-linked data for research purposes, in order to share     expertise and enable members to overcome challenges in their     day-to-day roles.  
    
 - **2019-2020 Chair:** *Richard Welpton, richard.welpton@health.org.uk*
