@@ -24,6 +24,7 @@ from = "https://iassistdata.org/conferences/archive/2018/*"
 to = "https://iassistdata.org/conferences/archive/2018-montreal/"
 status = 301
 
-from = https://iassistdata.org/conferences/archive/2018/*"
+[[redirects]]
+from = https://iassistdata.org/conferences/archive/2019/*"
 to = "https://iassistdata.org/conferences/archive/2019-sydney/"
 status = 301
