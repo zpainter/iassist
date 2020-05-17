@@ -7,4 +7,10 @@ draft = "false"
 
 IASSIST Professional Developement Committee organizes and hosts IASSIST Community Webinars. Webinars are free to attend, but a registration is required. IASSIST members will be the first ones to get the information on future webinars. Webinars usually last about 45-60 minutes. Some of the topics have for example been data visualization, qualitative analysis tools, and data curation. 
 
-Webinars will be recorded and made available on the IASSIST YouTube Channel. 
+Webinars will be recorded and made available on the IASSIST YouTube Channel.
+
+### Newest webinars
+
+{{< youtube nw_Tk62-6mc >}}
+
+<br />Open [IASSIST YouTube Channel](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g) for more<br /><br />
