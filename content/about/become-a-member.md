@@ -28,7 +28,7 @@ IASSIST welcomes new members and offers an array of benefits:
 
 ### Membership administration site (iassistdata.info)
 
-You can join, renew and manage your membership at **[iassistdata.info](iassistdata.info)**.
+You can join, renew and manage your membership at **[iassistdata.info](https://iassistdata.info)**.
 
 Your login is the email you used to register your membership.
 
