@@ -22,8 +22,8 @@
 
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-post">
-
+                    <div class="col-md-9" id="community-post">
+<!--
                         {{ if or .Params.author .Params.date }}
                           <p class="text-muted text-uppercase mb-small text-right">
                             {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>{{ end }}
@@ -31,6 +31,7 @@
                             {{ if .Params.date }}{{ .Date.Format .Site.Params.date_format }}{{ end }}
                           </p>
                         {{ end }}
+						-->
 
                         <div id="post-content">
                           {{ .Content }}
