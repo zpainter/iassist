@@ -98,5 +98,5 @@ Previous Interest Groups have produced resources that may be of use for the memb
 
 **Explore [interest group topics and resources](/community/previous-interest-groups)**
 
-&nbsp;
+
 

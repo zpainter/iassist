@@ -22,7 +22,7 @@ draft = "false"
 11. [Termination](#article11)
 12. [By-Laws](#article12)
 
-**Article i Name** {#article1}
+**Article I Name** {#article1}
 ------------------
 
 The name of this organization shall be the International Association for
@@ -30,12 +30,12 @@ Social Science Information Services and Technology / Association
 Internationale pour les Services et Techniques d'Information en
 Sciences Sociales, hereafter referred to as "IASSIST".
 
-**Article ii Headquarters** {#article1}
+**Article II Headquarters** {#article1}
 ---------------------------
 
 The official headquarters of IASSIST will be located with the Treasurer.
 
-**Article iii Objectives** {#article3}
+**Article III Objectives** {#article3}
 --------------------------
 
 The activities of IASSIST will be based upon the following objectives:
@@ -57,7 +57,7 @@ digital data.
 **3.5** to encourage educational experiences for personnel engaged in
 work related to these objectives.
 
-**Article iv Activities** {#article4}
+**Article IV Activities** {#article4}
 -------------------------
 
 To accomplish the objectives of IASSIST, the following activities may be
@@ -90,7 +90,7 @@ projects and activities consistent with IASSIST objectives.
 **4.5** Other activities that advance the objectives of IASSIST may be
 undertaken from time to time.
 
-**Article v Membership** {#article5}
+**Article V Membership** {#article5}
 ------------------------
 
 **5.1** The membership shall consist of regular and student members, and
@@ -107,7 +107,7 @@ such as reduced conference rates.
 Treasurer, and will take immediate effect. Resignation shall entail
 forfeiture of any annual membership fees paid to IASSIST.
 
-**Article vi Finances** {#article6}
+**Article VI Finances** {#article6}
 -----------------------
 
 **6.1** The fiscal year of IASSIST shall begin January 1 and end on
@@ -123,7 +123,7 @@ vote.
 
 **6.4** IASSIST may extend awards that include membership fees.
 
-**Article vii Governance** {#article7}
+**Article VII Governance** {#article7}
 --------------------------
 
 **7.1 General Assembly**
@@ -208,7 +208,7 @@ in-person Administrative Committee meetings as required. The Executive
 Committee will monitor the fulfillment of duties and reporting by
 officers, committees, and groups.
 
-**Article viii Meetings** {#article8}
+**Article VIII Meetings** {#article8}
 -------------------------
 
 **8.1** The annual Business Meeting of the General Assembly shall be
@@ -231,7 +231,7 @@ hands at the request of the Secretary, or his or her designee.
 decisions, of the annual and special meetings of the General Assembly
 will be made available on the IASSIST website.
 
-**Article ix Elections** {#article9}
+**Article IX Elections** {#article9}
 ------------------------
 
 **9.1** An Elections Committee will be appointed by the Administrative
@@ -249,7 +249,7 @@ in their home region. However, all members will be entitled to nominate
 and vote for the President and Vice-President, the Secretary, the
 Treasurer, and the Members at Large of the Administrative Committee.
 
-**Article x Amendments** {#article10}
+**Article X Amendments** {#article10}
 ------------------------
 
 The Constitution of IASSIST may be amended by two-thirds of the members
@@ -266,7 +266,7 @@ writing to all members of the Association prior to the conduct of the
 electronic ballot or during the Business Meeting of the General
 Assembly.
 
-**Article xi Termination** {#article11}
+**Article XI Termination** {#article11}
 --------------------------
 
 IASSIST may be dissolved by two thirds of the members voting, a quorum
@@ -274,7 +274,7 @@ being present, via in-person or electronic ballot. All property and
 funds of IASSIST will be transferred to a branch of UNESCO to be
 determined by the Administrative Committee.
 
-**Article xii By-laws** {#article12}
+**Article XII By-laws** {#article12}
 -----------------------
 
 These by-laws may be amended by two-thirds of the members voting, a

@@ -25,10 +25,12 @@ Available in these languages:
 
 ## Logo
 
-The following logo types are recommended for use on websites where IASSIST logo is needed. Please do not restructure the logo or remove any contents, including whitespace. The minimum height for the logo on a website is 60px. Please contact the webteam if you need alternative versions of our logo or a logo which is suitable for printing purposes. 
+The following logo types are recommended for use on websites where IASSIST logo is needed. Please do not restructure the logo in any way or remove any contents, including whitespace. The minimum height for the logo on a website is 60px. Please contact the webteam if you need alternative versions of our logo or a logo which is suitable for printing purposes. We are happy to provide you with one. 
 ﻿
+#### Logo Variants
+
 [Forthcoming]
 
 ## Website History
 
-[See a relevant blog post]({{< ref "introducing-the-new-iassist-website.md" >}}).
+[See this relevant blog post]({{< ref "introducing-the-new-iassist-website.md" >}}).
