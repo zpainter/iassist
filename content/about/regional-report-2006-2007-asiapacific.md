@@ -24,9 +24,9 @@ Managed by the Australian Bureau of Statistics, the National Data Network contin
 
 ### NEW ZEALAND
 
-The Social Statistics Research Group (SSRG), The University of Auckland, New Zealand, recently established (in November 2004) the New Zealand Social Statistics Network (NZSSN; [http://www.nzssn.org.nz/](www.nzssn.org.nz)) to assist in the development of quantitative social science research in the academic, government and private research sectors. The intent of the network is to provide a focus for both sharing research development resources and improving the accessibility of quantitative research data. These entities successfully secured funding to establish a New Zealand Social Science Data Service.
+The Social Statistics Research Group (SSRG), The University of Auckland, New Zealand, recently established (in November 2004) the New Zealand Social Statistics Network (NZSSN; [http://www.nzssn.org.nz/](http://www.nzssn.org.nz)) to assist in the development of quantitative social science research in the academic, government and private research sectors. The intent of the network is to provide a focus for both sharing research development resources and improving the accessibility of quantitative research data. These entities successfully secured funding to establish a New Zealand Social Science Data Service.
 
-The primary aim of the project is to develop New Zealand's research infrastructure in line with global best practice in social science data access and analysis. It will use recent IT-based developments in data archiving, data linking and networked data processing in order to create a distributed data archive with state-of-the-art cataloguing and access (as seen for example in Australia, the UK and Canada). This is complemented greatly by our close collaboration with BeSTGRID ([http://www.bestgrid.org/](www.bestgrid.org)) and KAREN ([http://www.karen.net.nz/](www.karen.net.nz)).
+The primary aim of the project is to develop New Zealand's research infrastructure in line with global best practice in social science data access and analysis. It will use recent IT-based developments in data archiving, data linking and networked data processing in order to create a distributed data archive with state-of-the-art cataloguing and access (as seen for example in Australia, the UK and Canada). This is complemented greatly by our close collaboration with BeSTGRID ([http://www.bestgrid.org/](http://www.bestgrid.org)) and KAREN ([http://www.karen.net.nz/](http://www.karen.net.nz)).
 
 A second set of aims is to enable the social science community to gain improved access to current and past data series/collections in their specialist areas; to improve the speed and capacity for data cleaning, compilation and dissemination of new surveys to students, researchers and policy makers; and to provide access to relevant data from comparable international studies.
 
@@ -41,7 +41,7 @@ Manager, New Zealand Social Statistics Network
 ph  + 64 9 373 7599 ext 89563<br>
 mobile + 64 21 899 456<br>
 fax + 64 9 373 7986<br>
-emails <mailto:d.patrick@auckland.ac.nz>d.patrick@auckland.ac.nz or <mailto:nzssn@nzssn.org.nz>nzssn@nzssn.org.nz
+emails d.patrick@auckland.ac.nz or nzssn@nzssn.org.nz
 
 Private Bag 92019<br>
 Auckland<br>

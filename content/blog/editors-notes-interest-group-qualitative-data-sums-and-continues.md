@@ -2,21 +2,20 @@
 nid = "8052"
 uid = "157"
 author = "mhayslett"
-title = "Editor's notes:  The interest group on qualitative data sums up and continues"
+title = "Editor's notes: The interest group on qualitative data sums up and continues"
 tags = [ "News and Announcements", "IQ",]
 oldpath = "/blog/editors-notes-interest-group-qualitative-data-sums-and-continues"
 date = "2019-06-28 08:04:02 -0700"
 draft = "false"
 banner = "/img/blog/iq-3.png"
 +++
-Welcome to the second issue of volume 43 of the IASSIST Quarterly (IQ
-43:2, 2019).
+**Welcome to the second issue of volume 43 of the IASSIST Quarterly (IQ 43:2, 2019).**
 
 With joy and pride the many people behind each issue of the IQ are here
 presenting a special issue. IASSIST has several interest groups of
 members committed to selected important areas under the umbrella of
 IASSIST. Be aware that you could become a member of an interest group
-(see: <https://iassistdata.org/about/committees.html#interest>). If an
+(see: [Committees and groups]({{< ref "committees-and-groups.md" >}})). If an
 interest area that you find important is not presently on this list, you
 are invited to start campaigning for the formation of a new interest
 group. The interest groups discuss and document their area and often

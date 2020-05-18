@@ -27,7 +27,7 @@ post of Deputy Director.
 
 Despite turmoil at the top, planning for Census 2010 continues with the
 release of [a report to
-Congress](www.census.gov/Press-Release/www/2007/subjects_notebook.pdf)
+Congress](http://www.census.gov/Press-Release/www/2007/subjects_notebook.pdf)
 describing questions that will be included in the Census and the
 American Community Survey. Census has also proposed [revised
 criteria](http://www.census.gov/geo/www/psap2010/psapcriteria.html) for

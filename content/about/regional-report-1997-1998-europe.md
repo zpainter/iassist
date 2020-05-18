@@ -55,7 +55,7 @@ articles and the role of identifiers applied to datasets.
     suitable for immediate use. The Project Coordinator, is Simon
     Musgrave, now Acting Director of the Data Archive.
 
-<!-- -->
+
 
 **ILSES project** 
 :   Since ILSES (Integrated Library and Survey Data Extraction Service)
@@ -96,7 +96,7 @@ Vries, e-mail .
     The Centre is coordinated by Marcia Freed Taylor, email:
     <ecass@essex.ac.uk>
     
-    [http://www.irc.essex.ac.uk/ecass](/web/20070714180432/http://www.irc.essex.ac.uk/ecass)
+    [http://www.irc.essex.ac.uk/ecass](https://web.archive.org/web/20070609172449/http://www.irc.essex.ac.uk/ecass/)
     
 
 **NEWS FROM INDIVIDUAL COUNTRIES**
@@ -276,4 +276,7 @@ Head of the National Services Group at MIDAS and is one of several
 IASSIST members there.
 
 For more details see
-[http://midas.ac.uk](/web/20070714180432/http://midas.ac.uk/)
+[http://midas.ac.uk](https://web.archive.org/web/20070714180432/http://midas.ac.uk/)
+
+
+ /

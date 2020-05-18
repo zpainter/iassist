@@ -7,9 +7,7 @@ oldpath = "/about/committees.html"
 date = "2010-01-08 22:00:25 -0700"
 draft = "false"
 +++
--   [Committees](#committees)
--   [Action Groups](#action-groups)
--   [Interest Groups](#interest-groups)
+[Committees](#committees) **|** [Action Groups](#action-groups) **|** [Interest Groups](#interest-groups)
 
 ## Committees
 

@@ -95,7 +95,7 @@ management of those metadata by researchers (MD-COLL) and data services
 
 *Progress against workpackages since January 2003:*
 [WP2 - Analysis of Requirements & User
-Needs]{style="text-decoration: underline;"}
+Needs]
 
 The User analysis (WP2) refereed to the requirements and expectation to
 a MetaDater system and covered two potential user groups: Data
@@ -122,7 +122,7 @@ design and the fieldwork. The project will consider to what extend these
 expectations can be covered developing the MD-COLL tool designed to this
 group of potential user.
 
-[WP 3 - Modelling the Database]{style="text-decoration: underline;"}
+[WP 3 - Modelling the Database]
 One central part of the project work in 2003 was to develop in WP3 a
 substantial data model for metadata of the domain as the first product
 of the project. As some of the most important entities (dataset, study
@@ -177,13 +177,13 @@ The results will be the base of the programming phase for MD-PRO (WP5)
 and MD-COLL (WP6) as the major work in the second half of 2004.
 
 **Council of European Social Science Data Archives (CESSDA)**
-[Transborder Data Exchange]{style="text-decoration: underline;"}
+[Transborder Data Exchange]
 
 CESSDA is currently working on revising its transborder data exchange
 agreement, and has set up a working group to propose a new model. The
 group's work will be reported on at this year's IASSIST conference.
 
-[Expert Seminar]{style="text-decoration: underline;"}
+[Expert Seminar]
 The CESSDA expert seminar took place in Vienna hosted by WISDOM on 21-22
 September 2003 and focused on "Data Service Cost Structures and User
 Needs: From Economic Aspects to Authentication Practices at CESSDA
@@ -197,7 +197,7 @@ hosted by SIDOS, and will concern Dataset Processing and Publishing.
 **The East European Data Archive Network (EDAN)**
 
 Brigitte Haustein writes:
-[EDAN Training Seminar]{style="text-decoration: underline;"}
+[EDAN Training Seminar]
 The second training seminar of the East European Data Archive Network
 (EDAN) will be held at the University of Ljubljana (Slovenia) on 4-6
 June 2004. It is intended for DDI Beginners and covers the basics of
@@ -212,7 +212,7 @@ meta data production.
 
 **ERPANET / CODATA Workshop**
 [The Selection, Appraisal and Retention of Digital Scientific
-Data]{style="text-decoration: underline;"}
+Data]
 Excerpt from the final report Executive Summary :
 The international EPRANET/CODATA seminar examined the current state of
 practice of the selection, appraisal and retention among diverse
@@ -247,7 +247,7 @@ please contact Yantsislav Yanakiev (project director)
 
 **FINLAND**
 
-[FSD]{style="text-decoration: underline;"}
+[FSD]
 
 Sami Borg writes:
 In terms of user statistics and the progress of the major projects, the
@@ -307,7 +307,7 @@ data (although it is not the researcher but the university that has to
 order the data).
 
 [The Netherlands; the Steinmetz Archive and the Netherlands Historical
-Data Archive (NHDA)]{style="text-decoration: underline;"}
+Data Archive (NHDA)]
 
 Helga van Gelder writes:
 In 2003 and 2004, both data archives are part of NIWI, the Netherlands
@@ -332,7 +332,7 @@ Academy until the end of 2004.
 
 **NORWAY**
 
-[NSD]{style="text-decoration: underline;"}
+[NSD]
 
 Bjørn Henrichsen writes:
 From its start in 1971 NSD was a part of the Research Council of Norway.
@@ -353,7 +353,7 @@ It is business as usual.
 
 **ROMANIA**
 
-[RODA]{style="text-decoration: underline;"}
+[RODA]
 
 Adrian Dusa writes:
 In the last 6 months, RODA has been working on a Visual Access Control
@@ -405,7 +405,7 @@ Research and Education". For more details please visit
 
 **SWITZERLAND**
 
-[SIDOS]{style="text-decoration: underline;"}
+[SIDOS]
 
 Dominique Joye writes:
 2003 at the SIDOS
@@ -464,7 +464,7 @@ continue in the course of its existence.
 
 **UNITED KINGDOM**
 
-[EDINA]{style="text-decoration: underline;"}
+[EDINA]
 
 Robin Rice writes:
 The EDINA National Datacentre and Edinburgh University Data Library
@@ -486,7 +486,7 @@ preservation, prompting collaboration between the Universities and the
 Research Councils to ensure that there is continuing access to data of
 scholarly interest. The initial focus is on research data, but the
 policy intention is to also address the preservation needs of e-learning
-and scholarly communication. ([www.dcc.ac.uk](www.dcc.ac.uk))
+and scholarly communication. ([www.dcc.ac.uk](http://www.dcc.ac.uk))
 
 A group of university-based data librarians and data managers have come
 together to form a support group - DISC-UK, or Data Information
@@ -501,7 +501,7 @@ An initial website for the group has been set up, with links to member
 sites and a description of the group's aims at,
 http://datalib.ed.ac.uk/disc-uk/
 
-[ESDS]{style="text-decoration: underline;"}
+[ESDS]
 
 Kevin Schürer writes:
 The initial period of the new Economic and Social Data Service (ESDS -
