@@ -19,9 +19,9 @@ More will likely be reviewed over coming weeks preceded by the usual
 
 If you were one of those fine presenters, please don't forget to submit
 a paper to the IQ
-([instructions](https://www.iassistdata.org/publications/iq/ "IQ submission instructions")
+([instructions](https://iassistquarterly.com/index.php/iassist/about/submissions "IQ submission instructions")
 for doing so are on the [IASSIST
-website](https://www.iassistdata.org "IASSIST web site")). Also, we want
+website](/ "IASSIST web site")). Also, we want
 to make sure that your presentation itself is captured for prosperity so
 please check with Lisa Neidert (lisan at umich.edu) to make sure we have
 a copy.

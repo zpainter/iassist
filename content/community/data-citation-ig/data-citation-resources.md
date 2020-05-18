@@ -32,26 +32,26 @@ Kelly, M. C., & National Information Standards Institute. (2008). NISO Research 
 
 ## Best Practices
 
-Best Practice Recommendations of da|ra -- Registration Agency for Social and Economic Data, GESIS
+Best Practice Recommendations of da|ra -- Registration Agency for Social and Economic Data, GESIS<br />
 http://www.da-ra.de/fileadmin/media/da-ra.de/PDFs/Best_Practice_data_citation.pdf
 
 DataCite Metadata Working Group. (2011, July). DataCite Metadata Schema for the Publication and Citation of Research Data. Version 2.2. doi:10.5438/0005
 
-Ball, A. & Duke, M. (2012). ‘How to Cite Datasets and Link to Publications’. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: http://www.dcc.ac.uk/resources/how-guides
+Ball, A. & Duke, M. (2012). ‘How to Cite Datasets and Link to Publications’. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: <br />http://www.dcc.ac.uk/resources/how-guides
 
  
 ## Blogs and Wikis
 
-Research Remix blog posting - Resources on Data Citation Principles
+Research Remix blog posting - Resources on Data Citation Principles<br />
 http://researchremix.wordpress.com/2011/05/17/resources-on-data-citation-principles
 
-DataCite Blog - Tracking Data Citation entry
+DataCite Blog - Tracking Data Citation entry<br />
 http://datacite.wordpress.com/2011/01/15/tracking-data-citation/
 
-Dryad Data Citation Guidelines wiki
+Dryad Data Citation Guidelines wiki<br />
 https://www.datadryad.org/wiki/Citing_Data
 
-Earth Science Information Partner Federation Data Stewardship/Citations wiki.
+Earth Science Information Partner Federation Data Stewardship/Citations wiki.<br />
 http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines
 
 ## Papers
@@ -113,50 +113,50 @@ Corti, L., & Bolton, S. (2012). Webinar: Data Identifiers--How to Ensure Your Da
 
 Piwowar, H. & Australian National Data Service (Producer). (2012). Data Citation Counts!  [YouTube video]. Retrieved from http://youtu.be/oivka4JnjhA
 
-Piwowar, Heather. (2011). 7 data citations challenges illustrated with examples (includes elephants). JISC Managing Research data.
+Piwowar, Heather. (2011). 7 data citations challenges illustrated with examples (includes elephants). JISC Managing Research data.<br />
 http://www.slideshare.net/hpiwowar/7-data-citation-challenges-illustrated-with-data-includes-elephants
 
-Citing Data from ESDS International. YouTube video.
+Citing Data from ESDS International. YouTube video.<br />
 http://youtu.be/NDrNHRjtd4g
 
-IASSIST 2011
-Session B2: The IASSIST SIGDC Presents: Perspectives on Data Citation (Wed, 2011-06-01)
-Session C2: DataCite - Making Data Citable (Wed, 2011-06-01)
-http://www.iassistdata.org/conferences/archive/2011
+IASSIST 2011<br />
+Session B2: The IASSIST SIGDC Presents: Perspectives on Data Citation (Wed, 2011-06-01)<br />
+Session C2: DataCite - Making Data Citable (Wed, 2011-06-01)<br />
+[www.iassistdata.org/conferences/archive/2011-vancouver](/conferences/archive/2011-vancouver)
 
 ## Websites
 
-Data Citation Awareness - ANDS (Australian National Data service)
+Data Citation Awareness - ANDS (Australian National Data service)<br />
 http://ands.org.au/guides/data-citation-awareness.html
 
 
-Dataverse Network Citation Standard
+Dataverse Network Citation Standard<br />
 http://thedata.org/citation
 
-ICPSR - Data Citations
+ICPSR - Data Citations<br />
 http://www.icpsr.umich.edu/icpsrweb/ICPSR/curation/citations.jsp
 
 ## Organizations, Committees
 
-BRDI_DataCitations (Zotero Group)
+BRDI_DataCitations (Zotero Group)<br />
 https://www.zotero.org/groups/brdi_datacitations
 
-DataCite
+DataCite<br />
 http://datacite.org
 
-CODATA, Task Force on Data Citation
+CODATA, Task Force on Data Citation<br />
 http://www.codata.org/taskgroups/TGdatacitation/
 
 ## Citation software
 
-EndNote
+EndNote<br />
 http://www.endnote.com
 
-RefWorks
+RefWorks<br />
 http://www.refworks.com
 
-Zotero
+Zotero<br />
 http://www.zotero.org
 
-Mendeley
+Mendeley<br />
 http://www.mendeley.com

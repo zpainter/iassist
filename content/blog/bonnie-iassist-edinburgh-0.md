@@ -17,8 +17,8 @@ an earth-shattering reception at *Our Dynamic Earth*, a joyful
 conference banquet and ceilidh at the Roxburghe Hotel, a maze of
 outstanding posters and demonstrations, two thought-provoking plenary
 sessions and a new conference wrap-up song by Melanie. Watch the
-[IASSIST conferences](http://www.iassistdata.org/conferences/) page for
+[IASSIST conferences](/conferences/) page for
 the posting of the [multimedia
-presentations](http://www.iassistdata.org/conferences/2005/presentations/)
+presentations](/conferences/archive/2005-edinburgh/)
 from the twenty-five sessions. Plans are also under way to make photos
 available from the conference. We will keep you posted.

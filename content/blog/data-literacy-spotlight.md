@@ -11,7 +11,7 @@ banner = "/img/blog/iq-2.jpg"
 +++
 I am very pleased to announce that the special double issue of the
 IASSIST Quarterly ([IQ issues Vol. 28-2 and
-28-3](http://www.iassistdata.org/publications/iq/iqvol28.html)) on
+28-3](https://iassistquarterly.com/index.php/iassist/issue/view/107) on
 "data literacy" is now available on the web.
 
 Thanks to the special guest editors and the authors there are

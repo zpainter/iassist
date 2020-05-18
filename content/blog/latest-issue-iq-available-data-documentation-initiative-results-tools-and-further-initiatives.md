@@ -10,7 +10,7 @@ draft = "false"
 banner = "/img/blog/iq-3.png"
 +++
 Welcome to the[third issue of Volume 39 of the IASSIST
-Quarterly](http://iassistdata.org/iq/issue/39/3 "3") (IQ 39:3, 2015).
+Quarterly](https://iassistquarterly.com/index.php/iassist/issue/view/28 "3") (IQ 39:3, 2015).
 This special issue is guest edited by Joachim Wackerow of GESIS --
 Leibniz Institute for the Social Sciences in Germany and Mary Vardigan
 of ICPSR at the University of Michigan, USA. That sentence is a direct
@@ -80,7 +80,7 @@ published in the IQ. Chairing a conference session with the purpose of
 aggregating and integrating papers for a special issue IQ is also much
 appreciated as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
-http://www.iassistdata.org.
+https://www.iassistdata.org.
 
 Authors are very welcome to take a look at the instructions and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>. Authors can also contact
 me via e-mail: kbr@sam.sdu.dk.

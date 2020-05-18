@@ -63,7 +63,7 @@ there. Chairing a conference session with the purpose of aggregating and
 integrating papers for a special issue IQ is much appreciated as the
 information in the form of an IQ issue reaches many more people than the
 session participants and will be readily available on the IASSIST
-website at http://www.iassistdata.org.
+website at https://www.iassistdata.org.
 
 Authors are very welcome to take a look at the description for layout and sending papers to the IQ: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>. Authors can also contact me via e-mail: kbr@sam.sdu.dk. Should you be interested in compiling a special issue for the IQ as guest editor (editors) I will also delighted to hear from you.
 

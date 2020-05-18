@@ -9,7 +9,7 @@ date = "2005-12-15 12:27:26 -0700"
 draft = "false"
 banner = "/img/blog/iq-2.jpg"
 +++
-The IASSIST Quarterly [(IQ Vol. 28 issue 4)](http://www.iassistdata.org/publications/iq/iqvol28.html) is now
+The IASSIST Quarterly [(IQ Vol. 28 issue 4)](https://iassistquarterly.com/index.php/iassist/issue/view/127) is now
 available on the web: The issue has articles about the following topics:
 
 -   Wikipedia. Oliver Watteler from the data archive (Zentralarchiv) in
@@ -40,7 +40,7 @@ The printed version will shortly be mailed out in paper form to the
 IASSIST membership. Articles for the IQ are sent to the
 [editor](mailto:kbr@sam.sdu.dk). But please observe that there is a
 paper contest running. The IASSIST has announced a [publication award
-for 2006](http://www.iassistdata.org/publications/pubaward.html). Papers
+for 2006](https://web.archive.org/web/20051231005426/http://www.iassistdata.org/publications/pubaward.html). Papers
 that participate for the award should be sent to [David
 Sheaves](mailto:sheaves@vance.irss.unc.edu) Contributed by Karsten Boye
 Rasmussen Editor of IASSIST Quarterly

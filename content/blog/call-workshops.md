@@ -90,7 +90,7 @@ teaching in the social sciences.  Typical workplaces include data
 archives/libraries, statistical agencies, research
 centers, libraries, academic departments, government departments, and
 non-profit organizations.  Visit
-[iassistdata.org](http://www.iassistdata.org/ "iassistdata.org")  for
+[iassistdata.org](/ "iassistdata.org")  for
 further information.
 
 **IASSIST 2012

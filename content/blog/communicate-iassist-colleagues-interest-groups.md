@@ -20,14 +20,14 @@ mutual interest, learn more about it, and share that knowledge with the
 larger IASSIST membership. Interest groups also help you stay connected
 to other members if you can't attend the annual conferences very often. 
 There are currently [interest
-groups](http://www.iassistdata.org/about/committees.html#interest)
+groups](/about/committees-and-groups#interest)
 devoted to data citation to support research discovery and data reuse,
 and issues related to human subject protections. We know there's a range
 of potential interest group topics that reflect the broad professional
 interests of IASSIST members.
 
 The [Interest Group Development Action
-Group](http://www.iassistdata.org/about/all-about-interest-groups) has
+Group](/about/all-about-interest-groups) has
 developed a web page with more information about the role of interest
 groups and a checklist to help members form them.  The action group is
 chaired by [Libbie Stephenson](mailto:libbie@ucla.edu) (UCLA), and its

@@ -45,7 +45,7 @@ based on [figshare](http://figshare.com/) and
 depositing data as easy as possible for researchers by taking care of as
 much of back end stuff as possible. But at what cost, in both finances
 and quality? At the last IASSIST we learnt RDM [takes a
-village](http://www.iassistdata.org/downloads/2014/2014_2h_hofelichmohr_etal.pdf),
+village](http://doi.org/10.5281/zenodo.3780813),
 but Loughborough acknowledged the contribution of 61 people in setting
 up their service, so maybe it really takes a small metropolitan
 statistical area.

@@ -9,7 +9,7 @@ date = "2006-05-03 12:02:20 -0700"
 draft = "false"
 banner = "/img/blog/iq-2.jpg"
 +++
-A new issue of the [IASSIST Quarterly (IQ Vol. 29 issue 2)](http://www.iassistdata.org/publications/iq/iqvol29.html)is now
+A new issue of the [IASSIST Quarterly (IQ Vol. 29 issue 2)](https://iassistquarterly.com/index.php/iassist/issue/view/98)is now
 available on the web:
 
 We are pleased to present this second issue of the IASSIST Quarterly
@@ -18,7 +18,7 @@ in Edinburgh in May 2005. This is a second posting of this information
 as the original posting got lost in cyberspace.
 
 At the session called "Using National Data" the paper on "[Economic
-data as snapshots in time](http://iassistdata.org/publications/iq/iq29/iqvol292stierholz.pdf)"
+data as snapshots in time](https://iassistquarterly.com/index.php/iassist/article/view/751)"
 was presented by Katrina Stierholz from the Federal Reserve Bank of St.
 Louis. The paper informs about several systems storing economic
 statistics and the systems have important historical dimensions:
@@ -29,7 +29,7 @@ Another session called "Discovering a Profession: the Accidental Data
 Librarian" a presentation "Looking for data directions? - ask a data
 librarian" was given by Stuart Macdonald (Edinburgh University Data
 Library) and Luis Martinez (London School of Economics Data Library).
-The article presents "[The Local Data Support Landscape in the UK](http://iassistdata.org/publications/iq/iq29/iqvol292macdonald.pdf)"
+The article presents "[The Local Data Support Landscape in the UK](https://iassistquarterly.com/index.php/iassist/article/view/752)"
 and focuses on specialized national data centers starting a tax
 assessment from 7th century, mentioning the Domesday Book from 1086, and
 then moves quickly to the establishment of the start of UK Data Archive
@@ -40,7 +40,7 @@ several more.
 contained the presentation "Providing context for understanding: the
 data life cycle" given by Elizabeth Hamilton from the University of New
 Brunswick, Canada. The presentation is turned into the paper
-"[Providing Context for Understanding: Insight from Research on Two Canadian Health Surveys](http://iassistdata.org/publications/iq/iq29/iqvol292hamilton.pdf)".
+"[Providing Context for Understanding: Insight from Research on Two Canadian Health Surveys](https://iassistquarterly.com/index.php/iassist/article/view/753)".
 The conclusion is that there is a need for placing the survey data in
 context including metadata from the earliest part of the data life-cycle
 to give "a complete record of evolution of that question, from concept

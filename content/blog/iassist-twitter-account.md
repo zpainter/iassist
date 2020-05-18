@@ -19,7 +19,7 @@ IASSIST members. 
 
 Ways to view this Twitter account:
 
--   [https://www.iassistdata.org/](http://www.iassistdata.org) - Does not require Twitter account
+-   [https://www.iassistdata.org/](/) - Does not require Twitter account
 -   follow <https://twitter.com/iassistdata> (and we'll follow you in return)
 -   subscribe to the RSS feed of <https://twitter.com/iassistdata> at <https://twitter.com/statuses/user_timeline/156331061.rss> - Does not require Twitter account
 
@@ -34,7 +34,7 @@ can include 
 
 If you want to direct a post of your own to 
 
--   viewers of [https://www.iassistdata.org](http://www.iassistdata.org/),
+-   viewers of [https://www.iassistdata.org](/),
 -   followers of the [https://twitter.com/iassistdata](http://twitter.com/iassistdata)
     account, and/or
 -   subscribers to the [https://twitter.com/iassistdata](http://twitter.com/iassistdata)

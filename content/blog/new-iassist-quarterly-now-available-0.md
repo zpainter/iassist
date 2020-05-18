@@ -15,7 +15,7 @@ Special issue: The organizational dimension of  digital preservation
 
 Welcome to the special double issue 3 & 4 of the IASSIST Quarterly (IQ)
 [volume 36
-(2012)](http://www.iassistdata.org/downloads/vol36_3v4full.pdf). This
+(2012)](https://iassistquarterly.com/index.php/iassist/issue/view/39). This
 special issue addresses the organizational dimension of digital
 preservation as it was presented and discussed at the IASSIST conference
 in May 2013 in Cologne, Germany.
@@ -41,7 +41,7 @@ in the IQ. Chairing a conference session with the purpose of aggregating
 and integrating papers for a special issue IQ is also much appreciated
 as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
-<http://www.iassistdata.org>.
+<https://www.iassistdata.org>.
 
 Authors are very welcome to take a look at the instructions and
 layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.

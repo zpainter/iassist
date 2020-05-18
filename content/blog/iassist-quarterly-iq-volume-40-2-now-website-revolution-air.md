@@ -12,7 +12,7 @@ banner = "/img/blog/iq-3.png"
 Welcome to the second issue of Volume 40 of the IASSIST Quarterly (IQ
 40:2, 2016). We present three papers in this issue.
 
-<http://iassistdata.org/iq/issue/40/2>
+<https://iassistquarterly.com/index.php/iassist/issue/view/105>
 
 First, there are two papers on the Data Documentation Initiative that
 have their own special introduction. I want to express my respect and
@@ -57,7 +57,7 @@ repository. Chairing a conference session with the purpose of
 aggregating and integrating papers for a special issue IQ is also much
 appreciated as the information reaches many more people than the session
 participants, and will be readily available on the IASSIST website at
-<http://www.iassistdata.org>. 
+<https://www.iassistdata.org>. 
 
 Authors are very welcome to take a look at the instructions and layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.
 

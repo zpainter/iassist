@@ -3,7 +3,7 @@ nid = "3369"
 uid = "5"
 author = "robin"
 title = "40 years of IASSIST Conferences: Toronto to host IASSIST 2014"
-tags = [ "IASSIST Conferences", "Canada",]
+tags = [ "IASSIST Conferences", "Canada", "IASSIST 2014",]
 oldpath = "/blog/40-years-iassist-conferences-toronto-host-iassist-2014"
 date = "2013-01-18 06:33:52 -0700"
 draft = "false"
@@ -30,7 +30,7 @@ for conference acceptances notices; they will be delivered by February
 Finally, I'm currently accepting proposals for IASSIST 2015 and beyond.
  If your organization is interested in hosting a future IASSIST
 conference, please drop me a note; you will find more information about
-hosting at <http://www.iassistdata.org/conferences/hosting.html>.
+hosting at <https://www.iassistdata.org/conferences/guidelines-for-hosting-iassist-conferences>.
 
 Bis Köln,
 

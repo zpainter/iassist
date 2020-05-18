@@ -98,7 +98,7 @@ paper published in the IQ. Chairing a conference session with the
 purpose of aggregating and integrating papers for a special issue IQ is
 also much appreciated as the information reaches many more people than
 the session participants, and will be readily available on the IASSIST
-website at <http://www.iassistdata.org>.
+website at <https://www.iassistdata.org>.
 
 Authors are very welcome to take a look at the instructions and
 layout: <https://www.iassistquarterly.com/index.php/iassist/about/submissions>.

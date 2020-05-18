@@ -14,7 +14,7 @@ banner = "/img/blog/iq-3.png"
 **Special issue: A pioneer data librarian**
 
 Welcome to the special volume of the IASSIST Quarterly[(IQ (37):1-4,
-2013)](http://www.iassistdata.org/iq/issue/37/1 " Spring)"). This
+2013)](https://iassistquarterly.com/index.php/iassist/issue/view/42 "Spring"). This
 special issue started as exchange of ideas between Libbie Stephenson and
 Margaret Adams to collect papers relating to the work of Sue A. Dodd.
 Margaret Adams (Peggy) acted as the guest editor and the background and
@@ -34,7 +34,7 @@ paper published in the IQ. Chairing a conference session with the
 purpose of aggregating and integrating papers for a special issue IQ is
 also much appreciated as the information reaches many more people than
 the session participants, and will be readily available on the IASSIST
-website at <http://www.iassistdata.org>.
+website at <https://www.iassistdata.org>.
 
 Authors are very welcome to take a look at the instructions and layout:
 <https://www.iassistquarterly.com/index.php/iassist/about/submissions>

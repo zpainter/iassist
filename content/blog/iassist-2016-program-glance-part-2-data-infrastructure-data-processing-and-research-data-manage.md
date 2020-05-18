@@ -13,7 +13,7 @@ banner = "/img/blog/blog-placeholder.png"
 
 Here's another list of highlights from IASSIST2016 which is focusing on
 the data revolution. For previous highlights, see
-[here](http://www.iassistdata.org/blog/interested-“data-revolution”-and-what-it-means-research-here’s-why-you-should-attend-iassist201).
+[here]({{< ref "interested-in-the-data-revolution-and-what-it-means-for-research-heres-why-you-should-attend-iassist2016.md" >}}).
 
 ### Infrastructure
 

@@ -10,9 +10,9 @@ draft = "false"
 banner = "/img/blog/blog-placeholder.png"
 +++
 The [Special Interest Group on Data
-Citation](http://www.iassistdata.org/community/sigdc) (SIGDC) maintains
+Citation](/community/sigdc) (SIGDC) maintains
 a page of [Data Citation
-Resources](http://www.iassistdata.org/community/data-citation-ig/data-citation-resources)
+Resources](/community/data-citation-ig/data-citation-resources)
 with lists of relevant workshops, blogs, papers, presentations,
 websites, and organizations.  All IASSIST members are welcome to join
 SIGDC and can submit ideas for resources to add to the list via our

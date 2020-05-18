@@ -10,7 +10,7 @@ draft = "false"
 banner = "/img/blog/iq-2.jpg"
 +++
 The [IASSIST Quarterly (IQ) volume 32
-2008](http://www.iassistdata.org/publications/iq/iqvol32.html) contains
+2008](https://iassistquarterly.com/index.php/iassist/issue/view/75) contains
 a collection of the 1, 2, 3, and 4 issues into a single issue for 2008.
 
 Nikos Askitas is the head of the International Data Service Center of
@@ -18,7 +18,7 @@ the Institute for the Study of Labor in Germany (IZA). At the 2008
 IASSIST conference he presented what is here an article on the ["Data
 Documentation and Remote Computing at the International Data Service
 Center of
-IZA."](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4askitas.pdf)
+IZA."](https://iassistquarterly.com/index.php/iassist/article/view/651)
 
 The data documentation of the IDSC that started with translation of
 German metadata into English has developed into a detailed, in depth,
@@ -36,7 +36,7 @@ developed special software (JoSuA).
 
 The article ["A Documentation Model
 for Comparative Research Based on Harmonization
-Strategies"](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4kallas.pdf),
+Strategies"](https://iassistquarterly.com/index.php/iassist/article/view/652),
 by John Kallas from University of the Aegean at Mytilene on Lesvos,
 Greece and Apostolos Linardis from the National Centre for Social
 Research in Athens, is proposing a documentation model for both
@@ -59,7 +59,7 @@ At the
 Preserving Access: Restricted Use Data and Disclosure Considerations",
 Sharon Bolton and Matthew Woollard gave a presentation that is now an
 article titled "[Strengthening Data Security: an Holistic
-Approach](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4bolton.pdf)"
+Approach](https://iassistquarterly.com/index.php/iassist/article/view/653)"
 and they are advocating exactly that. The authors both work at UK Data
 Archive (UKDA) as Data Services Manager and Head of Digital Preservation
 and Systems. The holistic approach to data security includes "the
@@ -86,7 +86,7 @@ investigation carried out earlier in 2009. The report has been turned
 into an article for the IQ with the title: "[Swedish National Data
 Service's Strategy for Sharing and Mediating Data. Practices of Open
 Access to and Reuse of Research Data - The State of the Art in Sweden
-2009](http://www.iassistdata.org/publications/iq/iq32/iqvol321_4alfredsson.pdf)".
+2009](https://iassistquarterly.com/index.php/iassist/article/view/654)".
 The report is based upon a joint project between SND and four university
 libraries that carried out a national survey of existing databases and
 database research, as well as attitudes towards data sharing among

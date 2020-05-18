@@ -33,7 +33,7 @@ version**](http://datalib.library.ualberta.ca/~humphrey/Postmodern_and_Data.htm)
 in conjunction with this entry on IASSIST Communiqué. I will propose in
 the comments to this entry some possible actions that could become part
 of the [IASSIST Strategic
-Plan](http://www.iassistdata.org/membership/plan_june2004.pdf) as a line
+Plan](/file/about/strategic_plan_june2004.pdf) as a line
 of defense for data archives.
 
 This entry also tests how we might use the IASSIST blog to discuss

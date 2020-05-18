@@ -186,7 +186,7 @@ A group of volunteers, including P Baxter, P Bern, S Cannon, L Cou, R de
 Vries, A Green, W Giesbrecht, C Humphrey, R Jantz, S Macdonald, R
 Nakado, C Perry, R Rice, is working on revising the IASSIST web site.
 
-Introduced the new web site: http://www.iassistdata.org, to be
+Introduced the new web site: [www.iassistdata.org](https://www.iassistdata.org), to be
 officially opened 13 June, 2002
 
 The first IASSIST web site, created in 1995, focused on answering such
