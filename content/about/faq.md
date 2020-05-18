@@ -91,7 +91,7 @@ draft = "false"
     adjusted unless there are major changes in the exchange rate.
 
 ### Where do I send my membership payment?{#faq17}
->   Please refer to the [Payment Information](https://www.iassistdata.info/howtopay). Credit card transactions in US Dollars will be conducted automatically, via PayPal. Canadian members send their cheque payments to the Canadian Assistant Treasurer. Members in the US, Africa, Asia/Pacific regions and residents of Latin America may send payments to the US Treasurer. Members in the Europe may send payments to the European Assistant Treasurer. Contact information for all Treasurers is at     [www.iassistdata.info/treasurers](http://www.iassistdata.info/treasurers).
+>   Please refer to the [Payment Information](https://www.iassistdata.info/howtopay). Credit card transactions in US Dollars will be conducted automatically, via PayPal. Canadian members send their cheque payments to the Canadian Assistant Treasurer. Members in the US, Africa, Asia/Pacific regions and residents of Latin America may send payments to the US Treasurer. Members in the Europe may send payments to the European Assistant Treasurer. Contact information for all Treasurers is at     [www.iassistdata.info/treasurers](https://www.iassistdata.info/treasurers).
 
 ### May I buy a digital copy of the IASSIST list of members?{#faq13}
 >   No. As a non-profit organization, the resources of IASSIST,
@@ -112,7 +112,7 @@ draft = "false"
     from their institutions. Guidelines have been prepared by the
     IASSIST Administrative Committee to assist those who might consider
     hosting an IASSIST Conference. See these [guidelines for hosting a
-    conference](/guidelines-for-hosting-iassist-conferences).
+    conference](/conferences/guidelines-for-hosting-iassist-conferences).
     Proposals to host the annual conference are submitted to the current
     IASSIST President in time to be considered by the Administrative
     Meeting preferably two years before the conference for which the

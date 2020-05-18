@@ -84,5 +84,5 @@ the opportunity to publish this work in the IQ. We are grateful for the
 ongoing support of the IASSIST community and its nurturance of DDI from
 the very beginning.
 
-[View IASSIST Quarterly Volume 33 Issue 1 & 2](/iq/issue/33/1) (2009:
+[View IASSIST Quarterly Volume 33 Issue 1 & 2](https://iassistquarterly.com/index.php/iassist/issue/view/74) (2009:
 Spring)

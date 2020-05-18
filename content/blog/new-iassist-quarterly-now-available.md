@@ -13,7 +13,7 @@ Editor notes: 
 
 **Data bring maps, archive brings data, and accreditation brings research**
 
-[This issue (volume 36-1, 2012)](/iq/issue/36/1) of the IASSIST
+[This issue (volume 36-1, 2012)](https://iassistquarterly.com/index.php/iassist/issue/view/68) of the IASSIST
 Quarterly (IQ) is the first of the 2012 issues. This editorial is
 written in March 2013 when many IASSIST people have received acceptance
 for their papers at the upcoming conference IASSIST 2013 in Cologne. I

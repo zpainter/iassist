@@ -173,7 +173,7 @@ poste de directeur adjoint.
 
 Malgré ce tumulte au sommet, la planification du recensement de 2010
 suit son cours avec [la parution d'un rapport au Congrès
-américain](www.census.gov/Press-Release/www/2007/subjects_notebook.pdf)
+américain](http://www.census.gov/Press-Release/www/2007/subjects_notebook.pdf)
 décrivant les questions qui seront incluses dans ce recensement et dans
 l'enquête 'American Community Survey'. Le *U.S. Census Bureau* a
 également proposé une révision des critères utilisés dans les secteurs

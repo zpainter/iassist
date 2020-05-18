@@ -9,7 +9,7 @@ date = "2011-12-14 11:36:55 -0700"
 draft = "false"
 banner = "/img/blog/town_musicians_of_bremen-by-mitko-denev-on-flickr.jpg"
 +++
-Welcome to this [very special IASSIST Quarterly issue](/iq/issue/34/3). We now present volume 34 (3 & 4) of 2010 and volume 35 (1 & 2) of 2011. Normally we have about three papers in a single issue. In this super-mega-special issue we have fourteen papers from the countries: Finland, Ireland, United Kingdom, Austria, Czech Republic, Denmark, Germany, Norway, Slovenia, Belarus, Hungary, Lithuania, Poland and Switzerland. This will be known in IASSIST as the "The book of the Bremen Workshop".
+Welcome to this [very special IASSIST Quarterly issue](https://iassistquarterly.com/index.php/iassist/issue/view/38). We now present volume 34 (3 & 4) of 2010 and volume 35 (1 & 2) of 2011. Normally we have about three papers in a single issue. In this super-mega-special issue we have fourteen papers from the countries: Finland, Ireland, United Kingdom, Austria, Czech Republic, Denmark, Germany, Norway, Slovenia, Belarus, Hungary, Lithuania, Poland and Switzerland. This will be known in IASSIST as the "The book of the Bremen Workshop".
 
 {{< figure src="/img/blog/town_musicians_of_bremen-by-mitko-denev-on-flickr.jpg" title="Town musicians of bremen by Mitko Denev on flickr." >}}
 
