@@ -29,7 +29,8 @@ Open source programming languages like R and Python are rapidly transforming the
 
 This interest group focused on issues related to research data management and curation, in order to support members' work in this field. Sound data management and curation strategies ensure that research data will be available for sharing, dissemination and reuse over time. These strategies are not only important for data preservation, but, in a growing number of countries, a necessity for research groups in order to receive funding.  The role and function of the data management and curation interest group included but was not limited to the following:
 
-- Maintain an [inventory of materials, resources, and policies](/resources/category/data-management-and-curation) related to sound data management and curation internationally - Enable opportunities for IASSIST members to learn and enhance their skills in this field 
+- Maintain an [inventory of materials, resources, and policies](/https://web.archive.org/web/20130201064259/http://www.iassistdata.org/resources/category/data-management-and-curation) related to sound data management and curation internationally
+- Enable opportunities for IASSIST members to learn and enhance their skills in this field 
 - Foster information-sharing among IASSIST members of their work in this area at their institutions 
 - Maintain awareness of data management and curation issues internationally across   disciplines, including beyond the social sciences 
 - Seek opportunities for outreach and advocacy on issues related to data management,   including to organizations with similar missions 
