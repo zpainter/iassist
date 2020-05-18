@@ -16,11 +16,11 @@ IASSIST members can join the SIGDC and communicate with the group by email by **
 
 ## What has the group been up to?
 
-The SIGDC has organized&nbsp;**programs on data citation**&nbsp;for the annual IASSIST conferences. In 2011, we worked with DataCite to put together an entire day of programming on data citation. In 2012, the SIGDC presented a poster on data citation and distributed our [IASSIST Quick Guide to Data Citation](/file/community/quick_guide_to_data_citation_high-res_printer-ready.pdf)&nbsp;(see below for more information about the Guide). In 2013, the SIGDC hosted a session at the annual meeting in Cologne called, **Data Citations: Linking Literature to Data and Measuring Impact**. Read the session description here: [http://www.iassist2013.org/program/sessions/session-a4/#c199](http://www.iassist2013.org/program/sessions/session-a4/#c199)
+The SIGDC has organized&nbsp;**programs on data citation**&nbsp;for the annual IASSIST conferences. In 2011, we worked with DataCite to put together an entire day of programming on data citation. In 2012, the SIGDC presented a poster on data citation and distributed our [IASSIST Quick Guide to Data Citation](/file/community/sigdc/quick_guide_to_data_citation_high-res_printer-ready.pdf)&nbsp;(see below for more information about the Guide). In 2013, the SIGDC hosted a session at the annual meeting in Cologne called, **Data Citations: Linking Literature to Data and Measuring Impact**. Read the session description here: [http://www.iassist2013.org/program/sessions/session-a4/#c199](http://www.iassist2013.org/program/sessions/session-a4/#c199)
 
 The SIGDC ocassionally adds **news and articles on data citation to the [IASSIST blog](/tags/data-citation/)**.
 
-We have been **working with groups that provide citation management software** such as [EndNote](http://www.endnote.com/), [Zotero](http://www.zotero.org/), and [Mendeley](http://www.mendeley.com/), to encourage them to include "dataset" as a type of citable resource. Many are doing this now!
+We have been **working with groups that provide citation management software** such as [EndNote](http://www.endnote.com/), [Zotero](http://www.zotero.org/), and [Mendeley](https://www.mendeley.com/), to encourage them to include "dataset" as a type of citable resource. Many are doing this now!
 
 We have mounted an **outreach campaign**, writing letters to publishers of style guides to encourage them to include instructions to authors on how to implement best practices on citing data using their format.
 
@@ -57,4 +57,4 @@ You can use the file formated as an [8x10 pdf](/file/community/sigdc/quick_guide
 
 **4. *To print the brochure at your own off-site print vendor:***
 
-Use the brochure file in its [original format](/file/community/quick_guide_to_data_citation_high-res_printer-ready.pdf).&nbsp;(Note: There are many variables involved in producing a brochure, so the final product from your printer might not match the original brochure.) Along with the original file, give your printer the [datacitation.zip](/file/community/sigdc/datacitation.zip) file. It contains the fonts, images, and layout files. We recommend that you receive a printer proof in color prior to ordering the job.
+Use the brochure file in its [original format](/file/community/sigdc/quick_guide_to_data_citation_high-res_printer-ready.pdf).&nbsp;(Note: There are many variables involved in producing a brochure, so the final product from your printer might not match the original brochure.) Along with the original file, give your printer the [datacitation.zip](/file/community/sigdc/datacitation.zip) file. It contains the fonts, images, and layout files. We recommend that you receive a printer proof in color prior to ordering the job.

@@ -112,7 +112,7 @@ draft = "false"
     from their institutions. Guidelines have been prepared by the
     IASSIST Administrative Committee to assist those who might consider
     hosting an IASSIST Conference. See these [guidelines for hosting a
-    conference](/conferences/hosting-guidelines).
+    conference](/guidelines-for-hosting-iassist-conferences).
     Proposals to host the annual conference are submitted to the current
     IASSIST President in time to be considered by the Administrative
     Meeting preferably two years before the conference for which the
@@ -192,12 +192,12 @@ draft = "false"
     the organization and the profession.
 
 ### How do I access the IASSIST list serv?{#faq11}
->   [discuss@lists.iassistdata.org](/about/iassist-discussion-list/) is an email discussion list for IASSIST members. Everyone with a current membership and for whom we have an email address, and an indication that you wish to join the list, is registered on this distribution list. To modify your subscription use the links that are on the IASSIST [Membership Directory](http://www.iassistdata.info/directory) (requires login), to which all active members have access.
+>   [discuss@lists.iassistdata.org](/about/iassist-discussion-list/) is an email discussion list for IASSIST members. Everyone with a current membership and for whom we have an email address, and an indication that you wish to join the list, is registered on this distribution list. To modify your subscription use the links that are on the IASSIST [Membership Directory](https://www.iassistdata.info/directory) (requires login), to which all active members have access.
 
 ### Is the IASSIST listserv available to browse and search?{#faq12}
 >   See [discuss@lists.iassistdata.org](/about/iassist-discussion-list/) about how members can see previous postings to the list by using the link to
     the list archive that is on the IASSIST [Membership
-    Site](http://www.iassistdata.info/).  Message posted August 2007 to date can be browsed by date.
+    Site](https://www.iassistdata.info/).  Message posted August 2007 to date can be browsed by date.
 
 ### What is the scope of the IASSIST Quarterly (IQ)?{#faq23}
 >   The IASSIST Quarterly is the long-running open access journal of our
@@ -223,7 +223,8 @@ draft = "false"
     a twitter account, you can follow iassistdata. We'll follow you
     back unless you block us (it's up to you!). We'll occasionally
     retweet data-related tweets. A recent stream comes through the
-    IASSIST home page. View an [iBlog
-    post](/blog/iassist-twitter-account) announcing the IASSIST twitter
+    IASSIST home page. View an [iBlog post]({{< ref "iassist-twitter-account.md" >}}) announcing the IASSIST twitter
     account. Our Facebook gets roughly the same status updates as the
     Twitter account.
+
+

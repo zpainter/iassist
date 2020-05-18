@@ -38,7 +38,7 @@ Karsten.
 
 ### 4. Reports of the regional secretariats
 
-(see IASSIST [Web site](https://iassistdata.org/about/regions.html))
+(see IASSIST [Web site]({{< ref "regional-secretaries-and-reports.md" >}})
 
 -   4.1 Europe - Bridget Winstanley
 -   4.2 Canada - Wendy Watkins
