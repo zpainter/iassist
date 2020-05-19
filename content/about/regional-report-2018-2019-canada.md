@@ -13,4 +13,4 @@ Carol Perry<br />
 University of Guelph<br />
 May, 2019
 
-» **[Report in PDF format](/file/about/regional-report-canada-2018-2019.pdf).**
+» **[Report in PDF format](/file/about/canada_regional_report-2018-2019.pdf).**
