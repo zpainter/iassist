@@ -1,6 +1,6 @@
-{{ if isset .Site.Params "clients" }}
-{{ if .Site.Params.clients.enable }}
-{{ if gt (len .Site.Data.clients) 0 }}
+{{ if isset .Site.Params "alerts" }}
+{{ if .Site.Params.alerts.enable }}
+{{ if gt (len .Site.Data.alerts) 0 }}
         {{ range .Site.Data.alerts }}
                 <p style="background-color:yellow; text-align: center; padding:.5em;"><i class="fas fa-quote-left"></i> {{ .text }} {{ .name }} ({{ .date }})</p>
         {{ end }}
