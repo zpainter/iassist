@@ -195,6 +195,11 @@ paginate = 10
     enable = true
     title = "From iBlog"
     subtitle = "iBlog is IASSIST's own blog. Entries on various topics are written by our members."
+
+[params.alerts]
+    enable = true
+    title = "Alerts"
+    text = "We are experiencing some technical difficulties with our discussion lists. Sorry for any inconvenience, we hope to have things back to normal soon."
 	
 [markup.goldmark.renderer]
     unsafe= true
