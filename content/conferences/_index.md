@@ -12,19 +12,19 @@ The annual conference is an international event. Conference locations reflect ou
 
 ![IASSIST 2020/2021 logo](/img/conferences/iassist2020logo-theme-1-510.png "")
 
-#### 46th Annual Conference IASSIST 2020 / 2021
+#### 46th Annual Conference IASSIST 20-21
 ### Data By Design
 **Gothenburg, Sweden, April 7–9, 2021 (was to be May 19–22, 2020)** 
 
 Host institution: Swedish National Data Service (SND)
 
-<a class="btn btn-template-main" href="https://iassist2020.org/" target="_blank">Conference website</a>
+<a class="btn btn-template-main" href="https://iassist2021.org/" target="_blank">Conference website</a>
 
 ***(March 20, 2020)***
 
 It is with heavy hearts that the IASSIST Executive, Local Arrangements, and Program committees announce that IASSIST 2020 will not happen. Given these unsettled times, the health and safety of our community is paramount.
 
-We are pleased to announce that the conference will take place in Gothenburg, Sweden 7-9 April 2021. We have started to plan how to move the 2020 conference to the new 2021 dates. Stay tuned for more information.
+We are pleased to announce that the 20-21 conference will take place in Gothenburg, Sweden 7-9 April 2021. We have started to plan how to move the 2020 conference to the new 2021 dates. Stay tuned for more information in May.
 
 In the meantime, we encourage participants to take whatever steps are available to you to cancel or change your travel plans if you have not already done so. We'll be in touch with those who have already registered about how we will handle the registration fees.
 
