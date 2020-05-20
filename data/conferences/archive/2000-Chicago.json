@@ -1,0 +1,806 @@
+{
+    "city": "Chicago",
+    "host": "Northwestern University",
+    "conferenceNum": "36",
+    "conferenceYear": "2000",
+    "dateText": " June 7-10, 2000",
+    "startDate": "2000-06-07",
+    "endDate": "2000-06-10",
+    "conferenceUrl": "https://web.archive.org/web/20000816061738/http://www.src.uchicago.edu/DATALIB/ia2000/ia2000.html",
+    "title": "Data in the Digital Library: Charting the Future of Social, Spatial and Government Data",
+    "sessions": [
+        {
+            "day": "2000-06-07",
+            "title": "A0: Innovations in Large Scale Data Dissemination Systems",
+            "chair": "Ann Green (Yale University)",
+            "presentations": [
+                {
+                    "title": "Digital Library Support for Sharing and Replication: A Report on the Virtual Data Center",
+                    "presenters": [
+                        {
+                            "name": "Micah Altman",
+                            "institution": "Harvard University"
+                        }
+                    ]
+                },
+                {
+                    "title": "The Data Web and FERRETT: Innovations in Integrating Distributed Federal, State, and Local Data",
+                    "presenters": [
+                        {
+                            "name": "Cavan Capps",
+                            "institution": "U.S. Bureau of the Census"
+                        }
+                    ]
+                },
+                {
+                    "title": "FASTER: Accelerated Access to Official and Statistical Data",
+                    "files": [
+                        {
+                            "path": "ryssevik2.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Simon Musgrave",
+                            "institution": "Data Archive, University of Essex"
+                        },
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": "Norwegian Social Science Data Services"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828090"
+                },
+                {
+                    "title": "International Integrated Microdata Access System",
+                    "presenters": [
+                        {
+                            "name": "Steven Ruggles",
+                            "institution": "Minnesota Population Center, University of Minnesota"
+                        },
+                        {
+                            "name": "Catherine Fitch",
+                            "institution": "Minnesota Population Center, University of Minnesota"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "B0: The Politics of Census 2000 -- Implications for Data Quality",
+            "chair": "Judith Rowe (Retired, Princeton University)",
+            "presentations": [
+                {
+                    "title": "Progress and Problems of Preserving and Providing Acess to Qualitative Data for Social Research: the international picture of an emerging culture",
+                    "presenters": [
+                        {
+                            "name": "Kenneth Prewitt",
+                            "institution": "U.S. Bureau of the Census"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "C1: International Infrastructures for Statistical Data",
+            "chair": "Repke de Vries",
+            "presentations": [
+                {
+                    "title": "EUSTAGE: Towards a European Statistical Agency as an Intermediate Data Facility in Europe",
+                    "presenters": [
+                        {
+                            "name": "Wouter De Groot",
+                            "institution": "Netherlands Organization for Scientific Research"
+                        }
+                    ]
+                },
+                {
+                    "title": "Web-based Data Enters Classrooms in Countries in Transition",
+                    "presenters": [
+                        {
+                            "name": "Dusan Soltes",
+                            "institution": "Comenius University, Bratislava, Slovakia"
+                        }
+                    ]
+                },
+                {
+                    "title": "Developing Statistical Infrastructure in other countries: The Statistics Canada Experience",
+                    "files": [
+                        {
+                            "path": "boyko1.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Ernie Boyko",
+                            "institution": "Statistics Canada"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828092"
+                },
+                {
+                    "title": "International Training Activities in the U.S. Census Bureau",
+                    "presenters": [
+                        {
+                            "name": "Robert D. Bush",
+                            "institution": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "C2: Technical and Legal Perspectives on Digital Archives",
+            "chair": "Yvette Hackett (National Archives of Canada)",
+            "presentations": [
+                {
+                    "title": "Muddying the Waters: When the Laws Dictate Archival Decisions",
+                    "presenters": [
+                        {
+                            "name": "Thomas E. Brown",
+                            "institution": "NARA"
+                        }
+                    ]
+                },
+                {
+                    "title": "Collection-Based Persistent Long Term Preservation",
+                    "presenters": [
+                        {
+                            "name": "Robert Chadduck",
+                            "institution": "NARA"
+                        }
+                    ]
+                },
+                {
+                    "title": "Authenticity as a Requirement of Preserving Digital Data and Records",
+                    "presenters": [
+                        {
+                            "name": "Eun G. Park",
+                            "institution": "UCLA"
+                        },
+                        {
+                            "name": "Shelby Sanett",
+                            "institution": "UCLA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "C3: Building Connections among Heterogenous Terminologies and Multiple Languages",
+            "chair": "Tess Trost (Texas Tech)",
+            "presentations": [
+                {
+                    "title": "Seamless Searching of Textual and Numeric Resources",
+                    "presenters": [
+                        {
+                            "name": "Fred Gey",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ]
+                },
+                {
+                    "title": "Metadata in International Database Systems and the United Nations Common Database (UNCDB)",
+                    "presenters": [
+                        {
+                            "name": "Robert Mayo",
+                            "institution": "United Nations Statistics Division"
+                        }
+                    ]
+                },
+                {
+                    "title": "Limbering Up: Preparing for the Race to Provide Multi-lingual Access and Automatic Indexing",
+                    "files": [
+                        {
+                            "path": "miller.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Ken Miller",
+                            "institution": "University of Essex"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828094"
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "D1: Panel",
+            "moderator": "Miron L. Straf (Committee on National Statistics, Commission on Behavioral and Social Sciences and Education)",
+            "presentations": [
+                {
+                    "title": "From Many, One: The Archival Infrastructure for U.S. Social Science Data Research",
+                    "files": [
+                        {
+                            "path": "severt.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Margaret O. Adams",
+                            "institution": "NARA"
+                        },
+                        {
+                            "name": "Cindy Severt",
+                            "institution": "University of Wisconsin"
+                        },
+                        {
+                            "name": "Ilona Einowski",
+                            "institution": "UC Data, Berkeley"
+                        },
+                        {
+                            "name": "Janet Vavra",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828096"
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "D2: Promoting GIS Literacy",
+            "chair": "Peter Burnhill (Edinburgh University)",
+            "presentations": [
+                {
+                    "title": "The ARL GIS Literacy Project: Support for Government Data Services in the Digital Library",
+                    "presenters": [
+                        {
+                            "name": "Mary French",
+                            "institution": "University of Missouri-Columbia"
+                        }
+                    ]
+                },
+                {
+                    "title": "The Role of GIS in the University",
+                    "presenters": [
+                        {
+                            "name": "John C. Hudson",
+                            "institution": "Northwestern University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Developing and Using Finding Aids for Geospatial Data",
+                    "presenters": [
+                        {
+                            "name": "Steven Morris",
+                            "institution": "North Carolina State University"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-07",
+            "title": "D3: Effective Use of Technology in Delivering Data",
+            "chair": "Paul Bern (Princeton)",
+            "presentations": [
+                {
+                    "title": "Systems Implementation of the Integrated Public Use Microdata Series: ADescription of the Computing Infrastructure of the IPUMS",
+                    "presenters": [
+                        {
+                            "name": "William Block",
+                            "institution": "University of Minnesota"
+                        }
+                    ]
+                },
+                {
+                    "title": "The E-Codebook Data Extraction Web Interface",
+                    "presenters": [
+                        {
+                            "name": "Ron Nakao",
+                            "institution": "Stanford University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Providing Student Workspaces for Data Analysis on the Web",
+                    "presenters": [
+                        {
+                            "name": "Tom Piazza",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-08",
+            "title": "E0: Panel",
+            "moderator": "Bjorn Henrichsen (Norwegian Social Science Data Services)",
+            "presentations": [
+                {
+                    "title": "Research Centres and Confidential Data",
+                    "files": [
+                        {
+                            "path": "bernard.pdf"
+                        },
+                        {
+                            "path": "dekker.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Paul Bernard",
+                            "institution": "University of Montreal"
+                        },
+                        {
+                            "name": "Michael Clune",
+                            "institution": "University of California, Berkeley"
+                        },
+                        {
+                            "name": "Ron Dekker",
+                            "institution": "Netherlands Organization for Scientific Research"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828098"
+                }
+            ]
+        },
+        {
+            "day": "2000-06-08",
+            "title": "F1: Building on the DDI/DTD Foundation: Additional Perspectives on DTD Application and Use",
+            "chair": "Patrick Yott (University of Virginia)",
+            "presentations": [
+                {
+                    "title": "The Development of a Generalized Resource Tool for Aggregate Data (GRETA) at the University of Minnesota",
+                    "files": [
+                        {
+                            "path": "greta.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Wendy Treadwell",
+                            "institution": "University of Minnesota"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828100"
+                },
+                {
+                    "title": "ISSP Data Wizard",
+                    "presenters": [
+                        {
+                            "name": "Marcus Schommler",
+                            "institution": "InformationsZentrum Sozialwissenschaften"
+                        }
+                    ]
+                },
+                {
+                    "title": "Where will DDI-documented Data Come From?",
+                    "presenters": [
+                        {
+                            "name": "Tom Piazza",
+                            "institution": "University of California, Berkeley"
+                        }
+                    ]
+                },
+                {
+                    "title": "How to Use the DDI DTD in Day to Day Archive Practice",
+                    "presenters": [
+                        {
+                            "name": "Marion Wittenberg",
+                            "institution": "NIWI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-08",
+            "title": "F2: Panel",
+            "chair": "Ernie Boyko (Statistics Canada)",
+            "presentations": [
+                {
+                    "title": "The Role of Data Quality in Social Science Research",
+                    "files": [
+                        {
+                            "path": "dippo_c.pdf"
+                        },
+                        {
+                            "path": "mcarley1.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Paul Bernard",
+                            "institution": "University of Montreal"
+                        },
+                        {
+                            "name": "Josephina J. Card",
+                            "institution": "Sociometrics, Inc."
+                        },
+                        {
+                            "name": "Michael Carley",
+                            "institution": "Sociometrics, Inc."
+                        },
+                        {
+                            "name": "Cathyrn Dippo",
+                            "institution": "U.S. Bureau of Labor Statistics"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828102"
+                }
+            ]
+        },
+        {
+            "day": "2000-06-08",
+            "title": "G1: Whither IASSIST? or IASSIST in the 21st Century",
+            "chair": "Peter Burnhill (Edinburgh University)",
+            "presentations": [
+                {
+                    "title": "Descriptive Figures and Hints for Further Research: IASSIST as a Virtual Community",
+                    "presenters": [
+                        {
+                            "name": "Karsten Boye Rasmussen",
+                            "institution": "University of Southern Denmark"
+                        },
+                        {
+                            "name": "Repke de Vries",
+                            "institution": "Netherlands Institute for Scientific Information Services"
+                        }
+                    ]
+                },
+                {
+                    "title": "The IASSIST Five year Plan, Ten Years After",
+                    "presenters": [
+                        {
+                            "name": "Chuck Humphrey",
+                            "institution": "University of Alberta"
+                        },
+                        {
+                            "name": "Ann Green",
+                            "institution": "Yale University"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "H0: Culture Shock and Identity Crisis: Data in Libraryland",
+            "chair": "Diane Garner (Harvard University)",
+            "presentations": [
+                {
+                    "title": "Culture Shock and Identity Crisis: Data in Libraryland",
+                    "presenters": [
+                        {
+                            "name": "Deborah Dancik",
+                            "institution": "University of Alberta"
+                        },
+                        {
+                            "name": "Tom Parris",
+                            "institution": "Harvard University"
+                        },
+                        {
+                            "name": "Jean Sykes",
+                            "institution": "London School of Economics"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "I1",
+            "chair": "Jackie Druery (Northwestern University)",
+            "presentations": [
+                {
+                    "title": "Digital Library Federation: Reorganizing, Refocusing, and Moving Towards Concrete Collaboration",
+                    "presenters": [
+                        {
+                            "name": "Daniel Greenstein",
+                            "institution": "Digital Library Federation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "I2: Integrated Geospatial Information Systems and Services",
+            "chair": "Gregory Haley",
+            "presentations": [
+                {
+                    "title": "Spatial Data Integration Challenges: The Gridded Population of the World Approach",
+                    "presenters": [
+                        {
+                            "name": "W. Christopher Lenhardt",
+                            "institution": "CIESIN"
+                        }
+                    ]
+                },
+                {
+                    "title": "EDINA Digimap: an internet mapping and data service for the UK Higher Education Community",
+                    "presenters": [
+                        {
+                            "name": "David Medyckyj-Scott, et al",
+                            "institution": "University of Edinburgh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Discover, Visualize, and Access Geomatics Data and Services: Current Concepts and Technology",
+                    "files": [
+                        {
+                            "path": "wilson_chicago.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Cameron Wilson",
+                            "institution": "Natural Resources Canada"
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828104"
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "I3: Dynamics of Digital Objects and Accompanying Metadata",
+            "chair": "Peter Joftis (ICPSR)",
+            "presentations": [
+                {
+                    "title": "Representing Metadata with Intelligent Agents: An Initial Prototype",
+                    "files": [
+                        {
+                            "path": "brentiassist.pdf"
+                        }
+                    ],
+                    "presenters": [
+                        {
+                            "name": "Edward Brent",
+                            "institution": "Idea Works, Inc."
+                        },
+                        {
+                            "name": "Albert Anderson",
+                            "institution": "Public Data Queries"
+                        },
+                        {
+                            "name": "G. Alan Thompson",
+                            "institution": "Idea Works, Inc."
+                        }
+                    ],
+                    "doi": "10.5281/zenodo.3828114"
+                },
+                {
+                    "title": "Hyperlinking the World of Social Science: Integrating Text and Data in a Global Hypertext Space",
+                    "presenters": [
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": "Norwegian Social Science Data Services"
+                        }
+                    ]
+                },
+                {
+                    "title": "User Driven Integrated Statistical Solutions- Digital Government by the People for the People",
+                    "presenters": [
+                        {
+                            "name": "Mark E. Wallace",
+                            "institution": "U.S. Census Bureau"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "J1: Archives and Assignments: Instructional Uses of Data Services",
+            "chair": "Grant Blank (American University)",
+            "presentations": [
+                {
+                    "title": "Archives as Teaching Tools: Using the American Religion Data Archive for Undergraduate Instruction",
+                    "presenters": [
+                        {
+                            "name": "Roger Finke",
+                            "institution": "Pennsylvania State University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Moving from the Blackboard to the Computer: Using Data in a Classroom Setting",
+                    "presenters": [
+                        {
+                            "name": "Lisa Neidert",
+                            "institution": "University of Michigan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Promoting Use of Numeric Datasets in Learning and Teaching Through Enhanced Local Support",
+                    "presenters": [
+                        {
+                            "name": "Robin Rice",
+                            "institution": "Edinburgh University"
+                        },
+                        {
+                            "name": "Melanie Wright",
+                            "institution": "University of Essex"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "J2: Qualitative Data: Collecting, Preserving and Sharing",
+            "chair": "Louise Corti (University of Essex)",
+            "presentations": [
+                {
+                    "title": "Progress and Problems of Preserving and Providing Acess to Qualitative Data for Social Research: the international picture of an emerging culture",
+                    "presenters": [
+                        {
+                            "name": "Louise Corti",
+                            "institution": "University of Essex"
+                        }
+                    ]
+                },
+                {
+                    "title": "Data Archives: Documentation of and access to sensitive data: the International Committee for the Red Cross project",
+                    "presenters": [
+                        {
+                            "name": "Reto Hadorn",
+                            "institution": "Swiss Information Service and Data Archive for the Social Sciences"
+                        }
+                    ]
+                },
+                {
+                    "title": "Making Qualitative Research Reusable: Case in Finland",
+                    "presenters": [
+                        {
+                            "name": "Arja Kuula",
+                            "institution": "Finnish Social Science Data"
+                        }
+                    ]
+                },
+                {
+                    "title": "Informatics-based Support for Research and Education in the Field of Contemporary Studies",
+                    "presenters": [
+                        {
+                            "name": "Zoltan Lux",
+                            "institution": "1956 Institute"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-09",
+            "title": "J3: Economics and Business Resources in your Data Library",
+            "chair": "Bo Wandschneider (University of Guelph)",
+            "presentations": [
+                {
+                    "title": "Technical Issues in Providing Economic and Financial Data",
+                    "presenters": [
+                        {
+                            "name": "Paul Bern",
+                            "institution": "Princeton University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Meeting the Needs of Economic and Financial Data Users",
+                    "presenters": [
+                        {
+                            "name": "Heather McMullen",
+                            "institution": "Harvard University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Finding Global Economic Statistics is Easy. Isn't it?",
+                    "presenters": [
+                        {
+                            "name": "Sean Townsend",
+                            "institution": "London School of Economics"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "2000-06-10",
+            "title": "Workshops",
+            "presentations": [
+                {
+                    "title": "Creating a Data Service",
+                    "presenters": [
+                        {
+                            "name": "Jocelyn Tipton",
+                            "institution": "Yale University"
+                        },
+                        {
+                            "name": "Christof Galli",
+                            "institution": "Duke University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Preparing Data for Your User Community",
+                    "presenters": [
+                        {
+                            "name": "Bo Wandschneider",
+                            "institution": "University of Guelph"
+                        },
+                        {
+                            "name": "Gregory Haley",
+                            "institution": "Columbia University"
+                        }
+                    ]
+                },
+                {
+                    "title": "The Data Documentation Initiative: Creating XML Documents and XSL Style Sheets",
+                    "presenters": [
+                        {
+                            "name": "Ann Green",
+                            "institution": "Yale University"
+                        },
+                        {
+                            "name": "Peter Joftis",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "Bill Block",
+                            "institution": "University of Minnesota"
+                        },
+                        {
+                            "name": "Peter Granda",
+                            "institution": "ICPSR"
+                        },
+                        {
+                            "name": "Patrick Yott",
+                            "institution": "University of Virginia"
+                        }
+                    ]
+                },
+                {
+                    "title": "Publishing DDI-documented data through NESSTAR",
+                    "presenters": [
+                        {
+                            "name": "Jostein Ryssevik",
+                            "institution": "Norwegian Social Science Data Services"
+                        },
+                        {
+                            "name": "Lene Wule",
+                            "institution": "Danish Data Archive"
+                        },
+                        {
+                            "name": "Ken Miller",
+                            "institution": "University of Essex Data Archive"
+                        },
+                        {
+                            "name": "Melanie Wright",
+                            "institution": "University of Essex Data Archive"
+                        }
+                    ]
+                },
+                {
+                    "title": "Introduction to Geographic Information Systems (GIS) for Social Sciences",
+                    "presenters": [
+                        {
+                            "name": "Steve Morris",
+                            "institution": "North Carolina State University"
+                        }
+                    ]
+                },
+                {
+                    "title": "Locating and Documenting US Spatial Data",
+                    "presenters": [
+                        {
+                            "name": "Michael Furlough",
+                            "institution": "University of Virginia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
