@@ -14,9 +14,3 @@ University of Guelph<br />
 May, 2016
 
 » **[Report in PDF format](/file/about/canada_regional_report_2015-2016.pdf).**
-
-
-<!--
-Test shortcut, remove
-<img alt="" src="/img/about/brochurethumb_2.jpg" srcset="/img/about/brochurethumb_2.jpg 1x, /img/about/brochurethumb_2@2x.jpg 2x, /img/about/brochurethumb_2@3x.jpg 3x" />
--->

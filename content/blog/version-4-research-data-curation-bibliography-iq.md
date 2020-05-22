@@ -29,36 +29,36 @@ Version 4: 6/23/2014
 Altman, Micah, and Mercè Crosas. "The Evolution of Data Citation: From
 Principles to Implementation" IASSIST Quarterly 37, no. 1-4 (2013):
 62-70.
-<http://www.iassistdata.org/iq/evolution-data-citation-principles-implementation>
+<https://www.iassistquarterly.com/index.php/iassist/article/view/504>
 
 Bender, Stefam, and Jorg Heining. "The Research-Data-Centre in
 Research-Data-Centre Approach: A First Step towards Decentralised
 International Data Sharing." IASSIST Quarterly 35, no. 3 (2011): 10-16.
-<http://www.iassistdata.org/iq/research-data-centre-research-data-centre-approach-first-step-towards-decentralised-international>
+<https://www.iassistquarterly.com/index.php/iassist/article/view/119>
 
 Mooney, Hailey. "A Practical Approach to Data Citation: The Special
 Interest Group on Data Citation and Development of the Quick Guide to
 Data Citation." IASSIST Quarterly 37, 1-4 (2013): 71-77.
-<http://iassistdata.org/iq/practical-approach-data-citation-special-interest-group-data-citation-and-development-quick-guide>
+<https://www.iassistquarterly.com/index.php/iassist/article/view/240>
 
  Ribeiro, Cristina, Maria Eugénia, and Matos Fernandes. "Data Curation
 at U. Porto: Identifying Current Practices across Disciplinary
 Domains." IASSIST Quarterly 35, no. 4 (2011): 14-17.
-<http://www.iassistdata.org/iq/data-curation-uporto-identifying-current-practices-across-disciplinary-domains>
+<https://www.iassistquarterly.com/index.php/iassist/article/view/893>
 
  Schumann, Natascha. "Tried and Trusted: Experiences with Certification
 Processes at the GESIS Data Archive." IASSIST Quarterly 36, no. 3/4
 (2012): 24-27.
-<http://www.iassistdata.org/iq/tried-and-trusted-experiences-certification-processes-gesis-data-archive-0>.
+<https://www.iassistquarterly.com/index.php/iassist/article/view/474>.
 
  Schumann, Natascha, and Astrid Recker. "De-mystifying OAIS compliance:
 Benefits and challenges of mapping the OAIS reference model to the GESIS
 Data Archive." IASSIST Quarterly 36, no. 2 (2012): 6-11.
-<http://www.iassistdata.org/iq/de-mystifying-oais-compliance-benefits-and-challenges-mapping-oais-reference-model-gesis-data-arc>
+<https://www.iassistquarterly.com/index.php/iassist/article/view/769>
 
  Yoon, Ayoung, and Helen Tibbo. "Examination of Data Deposit Practices
 in Repositories with the OAIS Model." IASSIST Quarterly 35, no. 4
-(2011): 6-13. <http://www.iassistdata.org/downloads/iqvol35_tibbo.pdf>
+(2011): 6-13. <https://www.iassistquarterly.com/index.php/iassist/article/view/892>
 
  Congratulations to the authors.
 

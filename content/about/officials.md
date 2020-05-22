@@ -54,7 +54,7 @@ carolp@uoguelph.ca
 
 **Europe** *
 
-Anne-Sofie Fink Kjeldgaard,
+Anne Sofie Fink Kjeldgaard,
 asf@sa.dk
 
 **USA** *
