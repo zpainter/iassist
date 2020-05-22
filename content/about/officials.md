@@ -162,13 +162,11 @@ green.ann@gmail.com
 
 **Professional Development Committee**
 
-Amy Pienta,
-apienta@umich.edu
+Amy Pienta, apienta@umich.edu and Bobray Bordelon, bordelon@princeton.edu
 
 **IASSIST Fellows**
 
-Florio Arguillas,
-foa2@cornell.edu
+Florio Arguillas, foa2@cornell.edu and Sarah Young
 
 **Membership Committee**
 
@@ -185,7 +183,7 @@ tuomas.alatera@tuni.fi
 Tuomas J. Alaterä,
 tuomas.alatera@tuni.fi
 
-**Conference Program Committee 2020**
+**Conference Program Committee 2020/2021**
 
 Louise Corti, Stephanie Labou, Stephanie Tulley
 
@@ -200,14 +198,14 @@ In addition, [Interest and Action Group chairs](/about/committees-and-groups#int
 
 term| | |
 ---|---|---|
-1976-1979 | Carolyn Geda |  cg3@ix.netcom.com |
-1979-1982 | Alice Robbin |  arobbin@indiana.edu |
-1982-1985 | Katherine (Sue) Bryant  |  bryant.sue@tbs-sct.gc.ca |
-1985-1988 | Judith Rowe |  judith@princeton.edu |
-1988-1991 | Thomas Brown |  ThomasEBrownDC@aol.com |
-1991-1995 | Charles Humphrey |  chuck.humphrey@ualberta.ca |
+1976-1979 | Carolyn Geda |  Visit the membership database<!--cg3@ix.netcom.com-->|
+1979-1982 | Alice Robbin |  Visit the membership database<!--arobbin@indiana.edu--> |
+1982-1985 | Katherine (Sue) Bryant  |  Visit the membership database<!--bryant.sue@tbs-sct.gc.ca--> |
+1985-1988 | Judith Rowe |  Visit the membership database<!--judith@princeton.edu--> |
+1988-1991 | Thomas Brown |  Visit the membership database<!--ThomasEBrownDC@aol.com--> |
+1991-1995 | Charles Humphrey |  Visit the membership database<!--chuck.humphrey@ualberta.ca--> |
 1995-1997 | Elizabeth Stephenson |  libbie@ucla.edu |
-1997-2001 | Peter Burnhill |  p.burnhill@ed.ac.uk |
+1997-2001 | Peter Burnhill |  Visit the membership database<!--p.burnhill@ed.ac.uk--> |
 2001-2005 | Ann Green |  dlifecycle@gmail.com |
 2005-2007 | Ernie Boyko |  boykern@yahoo.com |
 2007-2011 | Melanie Wright |  melanie@essex.ac.uk |

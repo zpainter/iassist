@@ -45,7 +45,7 @@ Host institutions: Australian Data Archive, the University of New South Wales, A
 
 
 ---
-**Conference archive and additional information about the past conferences will be updated on the website shortly!**
+**Additional information about the past conferences will be updated on the website shortly!**
 
 ---
 
