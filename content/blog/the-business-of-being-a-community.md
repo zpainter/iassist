@@ -17,7 +17,7 @@ However, like so much of the world right now, things are different.  We are not 
 - We have lots of information available ([GA2020 documents](https://drive.google.com/open?id=1vwerv6y19m3EfUuQkxMGl6asWss1Zqds "Access the General Assembly 2020 documents")) about our Membership, Professional Development, and Fellows Committees. The latter two have new co-chairs to help with all the important business.  Congratulations to **Bobray Bordelon** and **Sarah Young**! Our interest groups also submitted written reports so members can see what has been happening with Qualitative Social Science & Humanities, Geospatial, and Health Data Interest Group. Many thanks to **Richard Welpton**, **Jennie Murack**, **Amanda Tickner**, **Sebastian Karcher**, and **Alesia Montgomery** for leading these efforts. 
 - Regional secretaries highlighted member accomplishments, government promises, and buzzword initiatives in Africa, Europe, Canada, and the US. Thanks to Winny Nekesa, **Anne Sofie Fink Kjeldgaard**, **Carol Perry** and Stephanie Tulley for their work and the updates. 
 
-{{< figure src="/img/blog/sam-certificate-selfie.jpg" class="wrap" link="/img/blog/sam-certificate-selfie@3x" alt="Selfie of Sam Guss, who was the Kahoot trivia champion, with a certificate." title="Champion's smile" width="300" >}} Once the important business was done, it was time for trivia!  Our amazing secretary **Lynda Kellam** led us in a Kahoot session to see who could identify conference locations and years, banquet venues, and guest speakers.  Congratulations to **Sam Guss** who was the trivia champion! 
+{{< figure src="/img/blog/sam-certificate-selfie.jpg" class="wrap" link="/img/blog/sam-certificate-selfie@3x.jpg" alt="Selfie of Sam Guss, who was the Kahoot trivia champion, with a certificate." title="Champion's smile" width="300" >}} Once the important business was done, it was time for trivia!  Our amazing secretary **Lynda Kellam** led us in a Kahoot session to see who could identify conference locations and years, banquet venues, and guest speakers.  Congratulations to **Sam Guss** who was the trivia champion! 
 
 <!--alternative photo: <img alt="" src="/img/about/sam-certificate-selfie.jpg" srcset="/img/about/sam-certificate-selfie.jpg 1x, /img/about/sam-certificate-selfie@2x.jpg 2x, /img/about/sam-certificate-selfie@3x.jpg 3x" />-->
 
@@ -29,5 +29,5 @@ Respectfully,<br />
 San Cannon<br />
 President
 
-{{< figure src="/img/blog/iassist-ga-2020@2x.jpg" link="/img/blog/iassist-ga-2020@3x" alt="Group photo of many IASSIST members who participated the virtual General Assembly 2020 on Zoom." title="The best virtual IASSIST General Assembly ever." width="800" >}}
+{{< figure src="/img/blog/iassist-ga-2020@2x.jpg" link="/img/blog/iassist-ga-2020@3x.jpg" alt="Group photo of many IASSIST members who participated the virtual General Assembly 2020 on Zoom." title="The best virtual IASSIST General Assembly ever." width="800" >}}
 
