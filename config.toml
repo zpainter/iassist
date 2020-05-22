@@ -198,6 +198,7 @@ paginate = 10
 
 [params.alerts]
     enable = false
+    # Setting this to true prints alerts defined in their own files stacked on top of each other. 
     title = "Alerts"
 	
 [markup.goldmark.renderer]
