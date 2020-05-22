@@ -48,6 +48,7 @@ Canada
 
 *Reports:*
 
+-   [2019-2020](/about/regional-report-2019-2020-canada)
 -   [2018-2019](/about/regional-report-2018-2019-canada)
 -   [2017-2018](/about/regional-report-2017-2018-canada)
 -   [2016-2017](/about/regional-report-2016-2017-canada)
