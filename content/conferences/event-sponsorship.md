@@ -23,4 +23,4 @@ Proposals should include:
  
 The number and monetary extent of awarded sponsorships, application schedule and process, and other requirements may vary from call to call. 
 
-Further information is available on the video on event sponsorships.
+Further information is available on the [video on event sponsorships](https://www.youtube.com/watch?v=QtHmMSWrHDA).
