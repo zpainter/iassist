@@ -57,10 +57,14 @@ In addition annual conference IASSIST may organise regional workshops or IASSIST
 
 {{< figure src="/img/conferences/africaworkshop2020.jpg" alt="IASSIST Africa Regional Workshop 2020 logo" title="" width="500" >}}
 
+
+
 #### 1st IASSIST Africa Regional Workshop
 
 ### Data Literacy as a catalyst for achieving Sustainable Development Goals
 **Kampala, Uganda, January 11-13, 2021**
+
+{{< figure src="/img/conferences/iassist-africa-workshop-flyer.jpg" link="/img/conferences/iassist-africa-workshop-flyer.jpg" alt="IASSIST Africa Regional Workshop 2020 Call for presentations" title="Click for a bigger image." width="600" >}}
 
 Host institutions: IASSIST in collaboration with the East Africa School of Library and Information Science (EASLIS) and Association of Parliamentary Libraries of Eastern and Southern Africa (APLESA)
 
