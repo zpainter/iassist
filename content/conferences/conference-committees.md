@@ -7,8 +7,8 @@ draft = "false"
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
 
 Contact the 2020 committees:
-: Program Committee: iassist2020@lists.iassistdata.org
-: Local Arrangements Committee: iris.alfredsson@snd.gu.se
+: Program Committee: iassist2020 [ at ] lists.iassistdata.org
+: Local Arrangements Committee: iris.alfredsson [ at ] snd.gu.se
 
 Conference hashtag: #IASSIST2020 or #IASSIST2021?
 

@@ -13,4 +13,4 @@ The central purpose of the **IASSIST Qualitative Social Science and Humanities D
 <a class="btn btn-template-main" href="https://sites.google.com/uncg.edu/iassistqsshdig/home" target="_blank">Visit QSSHDIG</a>
 
 For more information please contact:<br />
-**2020-2021 Co-Chairs:** Sebastian Karcher, skarcher@maxwell.syr.edu and Alesia Montgomery, alesiam@stanford.edu
+**2020-2021 Co-Chairs:** Sebastian Karcher, skarcher [ at ] maxwell.syr.edu and Alesia Montgomery, alesiam [ at ] stanford.edu

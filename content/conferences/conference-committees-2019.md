@@ -7,7 +7,7 @@ Conference Committees 2019
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
 
 Contact the 2019 committees:
-: Program Committee: iassist2019@lists.iassistdata.org 
+: Program Committee: iassist2019 [ at ] lists.iassistdata.org 
 : Local Arrangements Committee: TBA
 
 Conference hashtag: #IASSIST19

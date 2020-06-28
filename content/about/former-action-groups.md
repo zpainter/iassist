@@ -14,11 +14,11 @@ Proposes a set of concrete activities that IASSIST and its members     could und
 
 Shepherd: *Melanie Wright*
 
-**2011-2012 Chairs:** *Luis Martínez-Uribe, lmartinez@march.es and Stuart Macdonald, stuart.macdonald@ed.ac.uk*
+**2011-2012 Chairs:** *Luis Martínez-Uribe, lmartinez [ at ] march.es and Stuart Macdonald, stuart.macdonald [ at ] ed.ac.uk*
 
 #### Organizational Linkages Action Group {#organizational-linkages-action-group}
 Takes the information from the User Survey about membership in allied professional organizations and will solicit a list of Linkage volunteers for each relevant organization. The group will develop a formal charge for these Linkage volunteers reflecting the goal of communicating to other organizations what IASSIST is doing, and communicating to IASSIST what these other organizations are doing, in areas of mutual interest.  
 
 Shepherd: *San Cannon*  
 
-**2011-2012 Chair:** *Lynda Kellam, lmkellam@uncg.edu*
+**2011-2012 Chair:** *Lynda Kellam, lmkellam [ at ] uncg.edu*

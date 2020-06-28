@@ -32,11 +32,11 @@ members.
 
 ## Members
 
-- Libbie Stephenson, UCLA, libbie@ucla.edu (Chair)
-- Amy Pienta, ICPSR, apienta@umich.edu
-- Jacob Carlson, Purdue, jrcarlso@purdue.edu
-- Thomas Lindsay, U Minnesota, lindsayt@socsci.umn.edu
-- Cindy Severt, U Wisconsin, Madison, cdsevert@wisc.edu
+- Libbie Stephenson, UCLA, libbie [ at ] ucla.edu (Chair)
+- Amy Pienta, ICPSR, apienta [ at ] umich.edu
+- Jacob Carlson, Purdue, jrcarlso [ at ] purdue.edu
+- Thomas Lindsay, U Minnesota, lindsayt [ at ] socsci.umn.edu
+- Cindy Severt, U Wisconsin, Madison, cdsevert [ at ] wisc.edu
 
 ## Past activities
 

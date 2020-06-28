@@ -52,4 +52,4 @@ To meet the Aims and cover the Topics listed above, the group shall:
 - From time-to-time, organise webinars and virtual meetings to share and exchange information
 
 For more information please contact:<br />
-**2020-2021 Chair:** Richard Welpton, Senior Data Manager, The Health Foundation, *richard.welpton@health.org.uk*
+**2020-2021 Chair:** Richard Welpton, Senior Data Manager, The Health Foundation, *richard.welpton [ at ] health.org.uk*

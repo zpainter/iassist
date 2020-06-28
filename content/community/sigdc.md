@@ -45,7 +45,7 @@ If you wish to customize the brochure with your organization's name and contact 
 Lisa Stahl, 
 248.457.9000&nbsp;| main
 248.519.0462 | direct
-LStahl@PhoenixInnovate.com
+LStahl [ at ] PhoenixInnovate.com
 
 **2. *To link to an HTML version:***
 

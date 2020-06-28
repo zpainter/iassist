@@ -39,7 +39,7 @@ to the membership list only, for example to gather consensus opinions.
 An interest group can contribute content to the IASSIST web site
 (contact the [Web Editor](/about/web-team)),
 guest edit a special issue of the IASSIST Quarterly journal (contact the
-IQ Editor: kbr @ sam.sdu.dk), present a session or a poster at a future
+IQ Editor: kbr [ at ] sam.sdu.dk), present a session or a poster at a future
 conference --- but don't be limited to these ideas!
 
 ### How does an interest group get started?

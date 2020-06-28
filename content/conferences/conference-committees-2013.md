@@ -5,8 +5,8 @@ draft = "false"
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
 
 Contact the 2013 committees:
-: Program Committee: iassist.twentythirteen@gmail.com
-: Local Arrangements Committee: iassist2013@gesis.org
+: Program Committee: iassist.twentythirteen [ at ] gmail.com
+: Local Arrangements Committee: iassist2013 [ at ] gesis.org
 
 ## Program Committee
 

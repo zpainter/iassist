@@ -10,28 +10,28 @@ draft = "false"
 
 |Role|Contact|
 |:---|:---|
-|Web Editor (appointed)		|Zac Painter, zwp@stanford.edu |
-|Website Administrator 		|Harrison Dekker, hdekker@uri.edu|	
-|Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera@tuni.fi|
-|Discussion List Moderator	|Ashley Jester, ajester@stanford.edu  |
-|Social media Editor		|Laurence Horton, hortonlaurence@gmail.com  |
-|iBlog Editor 				|Robin Rice, r.rice@ed.ac.uk  |
+|Web Editor (appointed)		|Zac Painter, zwp [ at ] stanford.edu |
+|Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu|	
+|Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
+|Discussion List Moderator	|Ashley Jester, ajester [ at ] stanford.edu  |
+|Social media Editor		|Laurence Horton, hortonlaurence [ at ] gmail.com  |
+|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |
 |Mentorship pages			|Abay Israel  |
-|Section Editor: About		|Tuomas J. Alaterä, tuomas.alatera@tuni.fi|
-|Section Editor: Conferences|Chiu-Chuang (Lu) Chou, cchou2@wisc.edu |
-|Section Editor: Resources	|Minglu Wang, minglu@rutgers.edu  |
-|Section Editor: Community	|Jen Darragh, jendarragh@jhu.edu  |
-|Jobs Repository Editor		|Vacant (previously Stephanie Tulley,  stephanie.tulley@clev.frb.org)  |
+|Section Editor: About		|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
+|Section Editor: Conferences|Chiu-Chuang (Lu) Chou, cchou2 [ at ] wisc.edu |
+|Section Editor: Resources	|Minglu Wang, minglu [ at ] rutgers.edu  |
+|Section Editor: Community	|Jen Darragh, jendarragh [ at ] jhu.edu  |
+|Jobs Repository Editor		|Vacant (previously Stephanie Tulley,  stephanie.tulley [ at ] clev.frb.org)  |
 |Administrator Support		| |
-|Membership Site Admins		|iassist.membership@gmail.com|
+|Membership Site Admins		|iassist.membership [ at ] gmail.com|
 
-<br />To contact the web team, please use our [contact form](/contact) or email iassistwebmaster@gmail.com
+<br />To contact the web team, please use our [contact form](/contact) or email iassistwebmaster [ at ] gmail.com
 
 
 |IASSIST Quarterly||
 |:---|:---|
-|IQ Editor		|Karsten Boye Rasmussen, kbr@sam.sdu.dk or editor.iassistquarterly@gmail.com  |
-|IQ Support Contact		|Michele Hayslett, michele_hayslett@unc.edu |
+|IQ Editor		|Karsten Boye Rasmussen, kbr [ at ] sam.sdu.dk or editor.iassistquarterly [ at ] gmail.com  |
+|IQ Support Contact		|Michele Hayslett, michele_hayslett [ at ] unc.edu |
 
 <br />[See IQ for more details](https://www.iassistquarterly.com/index.php/iassist/about/contact)
 

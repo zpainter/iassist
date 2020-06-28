@@ -41,8 +41,8 @@ Login is not needed for the public website iassistdata.org.
 
 ### Questions? {#questions}
 
-- Please feel free to contact the Membership Committee at *iassist.membership@gmail.com*
+- Please feel free to contact the Membership Committee at **iassist.membership [ at ] gmail.com**
 
-- Questions about membership may also be directed to the IASSIST [Membership Committee Chair](/about/committees-and-groups/#membership-committee).
+- Questions about membership may also be directed directly to the IASSIST [Membership Committee Chair](/about/committees-and-groups/#membership-committee).
 
 - Questions regarding processing of membership fees should be directed to the IASSIST [Treasurer]({{< ref "officials.md">}}).

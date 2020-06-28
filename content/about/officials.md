@@ -18,49 +18,49 @@ Voting members of the Administrative Committee have been marked with *.
 **President** *
 
 San Cannon,
-sandra.cannon@rochester.edu
+sandra.cannon [ at ] rochester.edu
 
 **Vice-President** *
 
 Robin Rice,
-robin.rice@ed.ac.uk
+robin.rice [ at ] ed.ac.uk
 
 **Secretary** *
 
 Lynda Kellam,
-lmk277@cornell.edu
+lmk277 [ at ] cornell.edu
 
 **Treasurer** *
 
 Tom Lindsay,
-lindsayt@umn.edu
+lindsayt [ at ] umn.edu
 
 ## Regional Secretaries
 
 **Africa** *
 
 Winny Nekesa,
-winny.nekesa@ubos.org
+winny.nekesa [ at ] ubos.org
 
 **Asia/Pacific** *
 
 Samuel Spencer,
-sam@sqbl.org
+sam [ at ] sqbl.org
 
 **Canada** *
 
 Carol Perry,
-carolp@uoguelph.ca
+carolp [ at ] uoguelph.ca
 
 **Europe** *
 
 Anne Sofie Fink Kjeldgaard,
-asf@sa.dk
+asf [ at ] sa.dk
 
 **USA** *
 
 Stephanie Tulley,
-stulley@clev.frb.org
+stulley [ at ] clev.frb.org
  
 
 ## Members at Large (by region)
@@ -70,26 +70,26 @@ stulley@clev.frb.org
 **Canada** *
 
 Dylanne Dearborn,
-dylanne.dearborn@utoronto.ca
+dylanne.dearborn [ at ] utoronto.ca
 
 **Europe** *
 
 David Schiller,
-david.schiller@htwchur.ch
+david.schiller [ at ] htwchur.ch
 
 Wolfgang Zenk-Möltgen,
-wolfgang.zenk-moeltgen@gesis.org
+wolfgang.zenk-moeltgen [ at ] gesis.org
 
 **USA** *
 
 Bobray Bordelon,
-bordelon@princeton.edu
+bordelon [ at ] princeton.edu
 
 Ashley Jester,
-ajester@stanford.edu
+ajester [ at ] stanford.edu
 
 Ryan Womack,
-rwomack@scarletmail.rutgers.edu
+rwomack [ at ] scarletmail.rutgers.edu
 
 
 **Term from 2017-2021**
@@ -97,23 +97,23 @@ rwomack@scarletmail.rutgers.edu
 **Canada** *
 
 Amber Leahey,
-amber.leahey@utoronto.ca
+amber.leahey [ at ] utoronto.ca
 
 **Europe** *
 
 Laurence Horton,
-hortonlaurence@gmail.com
+hortonlaurence [ at ] gmail.com
 
 **USA** *
 
 Harrison Dekker,
-hdekker@uri.edu
+hdekker [ at ] uri.edu
 
 Sophia Lafferty-Hess,
-sophia.lafferty.hess@duke.edu
+sophia.lafferty.hess [ at ] duke.edu
 
 Amy Pienta,
-apienta@umich.edu
+apienta [ at ] umich.edu
 
  
 
@@ -122,27 +122,27 @@ apienta@umich.edu
 **Past President** *
 
 Tuomas J. Alaterä,
-tuomas.alatera@tuni.fi
+tuomas.alatera [ at ] tuni.fi
 
 **Editor, Quarterly**
 
 Karsten Boye Rasmussen,
-kbr@sam.sdu.dk
+kbr [ at ] sam.sdu.dk
 
 **Editor, Web**
 
 Zac Painter,
-zwp@stanford.edu
+zwp [ at ] stanford.edu
 
 **Archivist**
 
 Kelly Chatain,
-kchatain@umich.edu
+kchatain [ at ] umich.edu
 
 **Regional Treasurer (Canada)** 
 
 Amber Leahey,
-amber.leahey@utoronto.ca
+amber.leahey [ at ] utoronto.ca
 
 **Regional Treasurer (Europe & Africa)** 
 
@@ -158,30 +158,30 @@ Open 
 **Constitutional Review Committee**
 
 Ann Green,
-green.ann@gmail.com
+green.ann [ at ] gmail.com
 
 **Professional Development Committee**
 
-Amy Pienta, apienta@umich.edu and Bobray Bordelon, bordelon@princeton.edu
+Amy Pienta, apienta [ at ] umich.edu and Bobray Bordelon, bordelon [ at ] princeton.edu
 
 **IASSIST Fellows**
 
-Florio Arguillas, foa2@cornell.edu and Sarah Young
+Florio Arguillas, foa2 [ at ] cornell.edu and Sarah Young
 
 **Membership Committee**
 
 Jen Doty,
-jennifer.doty@emory.edu
+jennifer.doty [ at ] emory.edu
 
 **Elections Committee**
 
 Tuomas J. Alaterä,
-tuomas.alatera@tuni.fi
+tuomas.alatera [ at ] tuni.fi
 
 **Communications Committee**
 
 Tuomas J. Alaterä,
-tuomas.alatera@tuni.fi
+tuomas.alatera [ at ] tuni.fi
 
 **Conference Program Committee 2020/2021**
 
@@ -198,18 +198,18 @@ In addition, [Interest and Action Group chairs](/about/committees-and-groups#int
 
 term| | |
 ---|---|---|
-1976-1979 | Carolyn Geda |  Visit the membership database<!--cg3@ix.netcom.com-->|
-1979-1982 | Alice Robbin |  Visit the membership database<!--arobbin@indiana.edu--> |
-1982-1985 | Katherine (Sue) Bryant  |  Visit the membership database<!--bryant.sue@tbs-sct.gc.ca--> |
-1985-1988 | Judith Rowe |  Visit the membership database<!--judith@princeton.edu--> |
-1988-1991 | Thomas Brown |  Visit the membership database<!--ThomasEBrownDC@aol.com--> |
-1991-1995 | Charles Humphrey |  Visit the membership database<!--chuck.humphrey@ualberta.ca--> |
-1995-1997 | Elizabeth Stephenson |  libbie@ucla.edu |
-1997-2001 | Peter Burnhill |  Visit the membership database<!--p.burnhill@ed.ac.uk--> |
-2001-2005 | Ann Green |  dlifecycle@gmail.com |
-2005-2007 | Ernie Boyko |  boykern@yahoo.com |
-2007-2011 | Melanie Wright |  melanie@essex.ac.uk |
-2011-2015 | Bill Block |  block@cornell.edu |
-2015-2019 | Tuomas J. Alaterä |  tuomas.alatera@tuni.fi |
+1976-1979 | Carolyn Geda |  Visit the membership database<!--cg3 [ at ] ix.netcom.com-->|
+1979-1982 | Alice Robbin |  Visit the membership database<!--arobbin [ at ] indiana.edu--> |
+1982-1985 | Katherine (Sue) Bryant  |  Visit the membership database<!--bryant.sue [ at ] tbs-sct.gc.ca--> |
+1985-1988 | Judith Rowe |  Visit the membership database<!--judith [ at ] princeton.edu--> |
+1988-1991 | Thomas Brown |  Visit the membership database<!--ThomasEBrownDC [ at ] aol.com--> |
+1991-1995 | Charles Humphrey |  Visit the membership database<!--chuck.humphrey [ at ] ualberta.ca--> |
+1995-1997 | Elizabeth Stephenson |  libbie [ at ] ucla.edu |
+1997-2001 | Peter Burnhill |  Visit the membership database<!--p.burnhill [ at ] ed.ac.uk--> |
+2001-2005 | Ann Green |  dlifecycle [ at ] gmail.com |
+2005-2007 | Ernie Boyko |  boykern [ at ] yahoo.com |
+2007-2011 | Melanie Wright |  melanie [ at ] essex.ac.uk |
+2011-2015 | Bill Block |  block [ at ] cornell.edu |
+2015-2019 | Tuomas J. Alaterä |  tuomas.alatera [ at ] tuni.fi |
 
 

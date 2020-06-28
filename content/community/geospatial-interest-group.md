@@ -20,7 +20,7 @@ The central purpose of the **IASSIST Geospatial Interest Group** is to create a 
 - documentation of spatial processing
 - geospatial discovery and access (e.g. portals, metadata, visualisation)
 
-**The IG’s shared goals are to:**
+**The IGâ€™s shared goals are to:**
 
 - regularly communicate through eLists, meeting at the annual conference and contributing to a community wiki
 - regularly contribute to the IASSIST blog
@@ -36,4 +36,4 @@ The central purpose of the **IASSIST Geospatial Interest Group** is to create a 
 Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place.
 
 For more information please contact:<br />
-**2020-2021 Co-Chairs:** Jennie Murack, murack@mit.edu and Amanda Tickner, atickner@msu.edu
+**2020-2021 Co-Chairs:** Jennie Murack, murack [ at ] mit.edu and Amanda Tickner, atickner [ at ] msu.edu

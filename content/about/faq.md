@@ -192,10 +192,10 @@ draft = "false"
     the organization and the profession.
 
 ### How do I access the IASSIST list serv?{#faq11}
->   [discuss@lists.iassistdata.org](/about/iassist-discussion-list/) is an email discussion list for IASSIST members. Everyone with a current membership and for whom we have an email address, and an indication that you wish to join the list, is registered on this distribution list. To modify your subscription use the links that are on the IASSIST [Membership Directory](https://www.iassistdata.info/directory) (requires login), to which all active members have access.
+>   [discuss [ at ] lists.iassistdata.org](/about/iassist-discussion-list/) is an email discussion list for IASSIST members. Everyone with a current membership and for whom we have an email address, and an indication that you wish to join the list, is registered on this distribution list. To modify your subscription use the links that are on the IASSIST [Membership Directory](https://www.iassistdata.info/directory) (requires login), to which all active members have access.
 
 ### Is the IASSIST listserv available to browse and search?{#faq12}
->   See [discuss@lists.iassistdata.org](/about/iassist-discussion-list/) about how members can see previous postings to the list by using the link to
+>   See [discuss [ at ] lists.iassistdata.org](/about/iassist-discussion-list/) about how members can see previous postings to the list by using the link to
     the list archive that is on the IASSIST [Membership
     Site](https://www.iassistdata.info/).  Message posted August 2007 to date can be browsed by date.
 

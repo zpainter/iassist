@@ -7,8 +7,8 @@ Conference Committees 2016
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
 
 Contact the 2016 committees:
-: Program Committee: IASSIST2016@gmail.com
-: Local Arrangements Committee: contact@iassist2016.org
+: Program Committee: IASSIST2016 [ at ] gmail.com
+: Local Arrangements Committee: contact [ at ] iassist2016.org
 
 Conference hashtag: #IASSIST16
 

@@ -15,37 +15,37 @@ IASSIST Standing Committees are responsible for the day-to-day running of the or
 
 #### [Administrative Committee](/about/officials) {#administrative-committee}
 The Administrative Committee is the executive body of IASSIST. It implements policies, develops future directions, and coordinates activities for the organization.	
-- **2019-2021 Chair:** *San Cannon, sandra.cannon@rochester.edu*
+- **2019-2021 Chair:** *San Cannon, sandra.cannon [ at ] rochester.edu*
 
 #### Constitutional Review Committee {#constitutional-review-committee}
 Responsible for receiving proposals for the enacting, amending, and repealing of the by-laws of IASSIST and for preparing revised articles and by-laws for members' approval, as well as for undertaking an annual review of the constitution and by-laws and proposing amendments as it deems appropriate.
-- **2019-2021 Chair:** *Ann Green, green.ann@gmail.com*
+- **2019-2021 Chair:** *Ann Green, green.ann [ at ] gmail.com*
 
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of
     IASSIST members through education, training, information, networking
     and mentoring.    
-- **2020-2022 Chair:** *Amy Pienta, apienta@umich.edu* and *Bobray Bordelon, bordelon@princeton.edu*
+- **2020-2022 Chair:** *Amy Pienta, apienta [ at ] umich.edu* and *Bobray Bordelon, bordelon [ at ] princeton.edu*
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.	
-- **2020-2022 Chair:** *Florio Arguillas, foa2@cornell.edu* and *Sarah Young*
+- **2020-2022 Chair:** *Florio Arguillas, foa2 [ at ] cornell.edu* and *Sarah Young*
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
-- **2019-2021 Chair:** *Jen Doty, jennifer.doty@emory.edu*
+- **2019-2021 Chair:** *Jen Doty, jennifer.doty [ at ] emory.edu*
 
 #### Elections Committee {#elections-committee}
 Responsible for receiving nominations for the election of the Administrative Committee, the Regional Secretaries, and the officers of IASSIST, distributing ballots and electoral information according to regulation, tallying the ballots, reporting on the results of the tally, and for recommending alterations in procedures. 
 
-- **2019-2021 Chair:** *Tuomas J. Alaterä, tuomas.alatera@tuni.fi*
+- **2019-2021 Chair:** *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi*
 
 #### Communications Committee {#communications-committee}
 Responsible for enabling productive and transparent communication among members and between the organisation and the broader community. Scope includes delivering publications such as the IASSIST Quarterly, developing and maintaining the organisation's communications mechanisms; oversight of the membership discussion list; and moderating social networking spaces which use the IASSIST brand name. The Committee shall advise other committees and groups on the use of appropriate communication tools for online collaboration and solicit content from them for public channels. This Committee's membership shall include the IQ Editor and the Web Editor as well as reviewers and web section editors. 	 	
 
-- **2019-2021 Chair:** *Tuomas J. Alaterä, tuomas.alatera@tuni.fi*	 	
-- **2019-2023 IQ Editor:** *Karsten Boye Rasmussen, kbr@sam.sdu.dk* 	
-- **2019-2023 Web Editor:** *Zac Painter. zwp@stanford.edu* 	
+- **2019-2021 Chair:** *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi*	 	
+- **2019-2023 IQ Editor:** *Karsten Boye Rasmussen, kbr [ at ] sam.sdu.dk* 	
+- **2019-2023 Web Editor:** *Zac Painter. zwp [ at ] stanford.edu* 	
 - The [IASSIST Web Team](/about/web-team)
 
 #### [Programme Committee](/conferences/conference-committees) {#program-committee}
@@ -74,7 +74,7 @@ Read more about IASSIST Interest Groups and see the [Interest Group Checklist](/
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-- **2020-2021 Co-Chairs:** *Jennie Murack, murack@mit.edu and Amanda Tickner, atickner@msu.edu*
+- **2020-2021 Co-Chairs:** *Jennie Murack, murack [ at ] mit.edu and Amanda Tickner, atickner [ at ] msu.edu*
 
 #### [Qualitative Social Science and Humanities Data Interest Group](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#program-committee} 
 The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include 	 
@@ -82,12 +82,12 @@ The central purpose of the IASSIST Qualitative Social Science and Humanities Dat
 2. providing opportunities for professional development through training, and 
 3. collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members). 	 
 
-- **2020-2021 Co-Chairs:** *Sebastian Karcher, skarcher@maxwell.syr.edu* and *Alesia Montgomery, alesiam@stanford.edu*
+- **2020-2021 Co-Chairs:** *Sebastian Karcher, skarcher [ at ] maxwell.syr.edu* and *Alesia Montgomery, alesiam [ at ] stanford.edu*
 
 #### [Health Data Interest Group](/community/health-data-interest-group) (HDIG) {#health-data-interest-group}
 The availability of health data about individuals, gathered from surveys or health care systems, are an invaluable resource for researchers who wish to examine interactions between individuals and the healthcare they receive. In addition, there is now much more demand for research and analysis of linked health and social data (for example, health records linked with education or social security records). Particular challenges face data professionals who seek to acquire health, and linked health data. The IASSIST Health Data Interest Group has been established to bring together data practitioners and technicians who manage access to health, and health-linked data for research purposes, in order to share expertise and enable members to overcome challenges in their day-to-day roles.  
    
-- **2020-2021 Chair:** *Richard Welpton, richard.welpton@health.org.uk*
+- **2020-2021 Chair:** *Richard Welpton, richard.welpton [ at ] health.org.uk*
 
 
 ### Previous interest group resources

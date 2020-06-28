@@ -19,7 +19,7 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 For more information, to apply for funding, or nominate a person for a
 fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
-- Chair: Florio Arguillas (<foa2@cornell.edu>).
+- Chair: Florio Arguillas, foa2 [ at ] cornell.edu.
 
 See [iBlog](/blog/) for Fellows Program related posts.
 

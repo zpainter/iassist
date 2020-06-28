@@ -6,7 +6,7 @@ draft = "false"
 
 ### Data Visualization Interest Group (DVIG)
 
-The IASSIST Data Visualization Interest Group will focus on promoting a greater understanding of data visualization – its creation, uses, and importance in research, across disciplines. Data Visualization supports a means to make sense of data, through visual representation, and to communicate ideas and information effectively.
+The IASSIST Data Visualization Interest Group will focus on promoting a greater understanding of data visualization â€“ its creation, uses, and importance in research, across disciplines. Data Visualization supports a means to make sense of data, through visual representation, and to communicate ideas and information effectively.
 
 Particular areas of focus and discussions include, but are not limited to the following:
 
@@ -24,7 +24,7 @@ We will seek out and take advantage of opportunities to learn, educate, and shar
 
 For more information please contact **DVIG co-chairs**:
 
-- Amber Leahey, amber.leahey@utoronto.ca
-- Paula Lackie, plackie@carleton.edu
+- Amber Leahey, amber.leahey [ at ]utoronto.ca
+- Paula Lackie, plackie [ at ] carleton.edu
 
 
