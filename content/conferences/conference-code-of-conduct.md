@@ -1,8 +1,8 @@
 +++
-title = "Conference Code of Conduct"
+title = "Code of Conduct"
 draft = "false"
 +++
-The International Association for Social Science Information Services & Technology (IASSIST) holds its conferences to enable its members to share research on, and innovations in, the social sciences data lifecycle, to receive continuing education and to build professional networks.
+The International Association for Social Science Information Service & Technology (IASSIST) holds its conferences and events, both physical and virtual, to enable its members to share research on, and innovations in, the social sciences data lifecycle, to receive continuing education and to build professional networks.
 
 To provide all participants – members and other attendees, speakers, exhibitors, staff and volunteers – the opportunity to benefit from the event, IASSIST is dedicated to a positive, safe and harassment-free conference experience in which diverse participants may learn, network and enjoy the company of colleagues in an environment of mutual human respect and regardless of gender, sexual orientation, gender identity, gender expression, disability, physical appearance, ethnicity, religion or other group identity or political beliefs. We recognize a shared responsibility to create and hold that environment for the benefit of all. Harassment, therefore, is specifically prohibited.
 
