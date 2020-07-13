@@ -16,5 +16,5 @@ The IASSIST Quarterly represents an international cooperative effort on the part
 
 <br style="clear:both;">
 
-*Featuring some IQ cover designs from past to present. The first issue came out in 1977 as the IASSIST Newsletter. By 1983 the journal was already widely known as the IASSIST Quarterly.*
+*Featuring some IQ cover designs from the past to present. The first issue came out in 1977 as the IASSIST Newsletter. By 1983 the journal was already widely known as the IASSIST Quarterly.*
 
