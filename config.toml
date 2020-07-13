@@ -39,19 +39,25 @@ paginate = 10
     identifier="blog"
     name = "iBlog"
     url  = "/blog/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     identifier="community"
     name = "Community"
     url  = "/community/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    url = "/resources/"
-    weight = 6
+    identifier = "iq"
+    name = "IQ Journal"
+    url = "/iq/"
+    weight = 4
+	
+#[[menu.main]]
+#    identifier = "resources"
+#    name = "Resources"
+#    url = "/resources/"
+#    weight = 6	
 
 [[menu.main]]
     identifier = "contact"
