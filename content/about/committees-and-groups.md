@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Committees and Groups"
 oldpath = "/about/committees.html"
-date = "2010-01-08 22:00:25 -0700"
+date = "2020-10-08 20:00:25 +0300"
 draft = "false"
 +++
 [Committees](#committees) **|** [Action Groups](#action-groups) **|** [Interest Groups](#interest-groups)
@@ -29,7 +29,7 @@ Responsible for promoting the development of professional skills of
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.	
-- **2020-2022 Chair:** *Florio Arguillas, foa2 [ at ] cornell.edu* and *Sarah Young*
+- **2020-2022 Chair:** *Florio Arguillas, foa2 [ at ] cornell.edu* and *Sarah Young sarahy [ at ] andrew.cmu.edu*
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
