@@ -122,7 +122,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "iassistwebmaster@gmail.com"
     contact_form_ajax = false
 
     about_us = "<p>IASSIST is an international organization of professionals working with information technology and data services to support research and teaching in the social sciences.</p>"
