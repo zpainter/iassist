@@ -10,10 +10,16 @@ The conference consists of workshops focused on the profession, stimulating plen
 
 The annual conference is an international event. Conference locations reflect our membership base and typically rotate to a different region each year.
 
-![IASSIST 2020/2021 logo](/img/conferences/iassist2020logo-theme-1-510.png "")
+**Due to COVID-19 outbreak all 2020 events were cancelled. Information on future events will be updated to this page soon.**
+
+## Next Conference
 
 #### 46th Annual Conference IASSIST 20-21
-### Data By Design
+
+![IASSIST 2020/2021 logo](/img/conferences/iassist2020logo-theme-1-510.png "")
+
+<!--#### 46th Annual Conference IASSIST 20-21
+### Data By Design-->
 **Gothenburg, Sweden, April 7–9, 2021 (was to be May 19–22, 2020)** 
 
 Host institution: Swedish National Data Service (SND)
@@ -28,34 +34,21 @@ We are pleased to announce that the 20-21 conference will take place in Gothenbu
 
 In the meantime, we encourage participants to take whatever steps are available to you to cancel or change your travel plans if you have not already done so. We'll be in touch with those who have already registered about how we will handle the registration fees.
 
-## Previous Conference
+## Previous Conferences
 
-![IASSIST 2019 logo](/img/conferences/iassist2019logo.png "")
+See the [conference archive]({{< ref "archive" >}} "").
 
-
-#### 45th Annual Conference IASSIST 2019
-### Data Down Under: Exploring "Data Firsts"
-**Sydney, Australia, May 27–31, 2019**
-
-Host institutions: Australian Data Archive, the University of New South Wales, Aristotle Metadata, and the Australian Consortium for Social and Political Research, Inc. (ACSPRI).
-
-<a class="btn btn-template-main" href="https://www.iassist2019.org/2018/09/11/welcome/" target="_blank">Conference website</a>
-
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2019/search?page=1&size=20&sort=conference_session" target="_blank">Conference presentations (Zenodo)</a>
-
-
----
 **Additional information about the past conferences will be updated on the website shortly!**
 
 ---
 
-## Other Events
+## Other Events {#other-events}
 
 In addition annual conference IASSIST may organise regional workshops or IASSIST branded events. IASSIST may also provide modest sponsorhip to regional or local events under its [Event Sponsorship](/conferences/event-sponsorship) program.<br />
 
 ### Coming up
 
-{{< figure src="/img/conferences/africaworkshop2020.jpg" alt="IASSIST Africa Regional Workshop 2020 logo" title="" width="500" >}}
+<!--{{< figure src="/img/conferences/africaworkshop2020.jpg" alt="IASSIST Africa Regional Workshop 2020 logo" title="" width="500" >}}-->
 
 
 
@@ -67,6 +60,8 @@ In addition annual conference IASSIST may organise regional workshops or IASSIST
 {{< figure src="/img/conferences/iassist-africa-workshop-flyer.jpg" link="/img/conferences/iassist-africa-workshop-flyer.jpg" alt="IASSIST Africa Regional Workshop 2020 Call for presentations" title="Click for a bigger image." width="600" >}}
 
 Host institutions: IASSIST in collaboration with the East Africa School of Library and Information Science (EASLIS) and Association of Parliamentary Libraries of Eastern and Southern Africa (APLESA)
+
+**Registration is now open!**
 
 <a class="btn btn-template-main" href="http://iassistafrica.org/" target="_blank">Workshop website</a>
 

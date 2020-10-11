@@ -8,4 +8,14 @@ All speakers are strongly encouraged to upload their presentation files to the C
 
 In some cases, the entire conference programme with presentations may be available in Drobbox as a zip file.
 
+![IASSIST 2019 logo](/img/conferences/iassist2019logo.png "")
+
+#### 45th Annual Conference IASSIST 2019
+### Data Down Under: Exploring "Data Firsts"
+**Sydney, Australia, May 27–31, 2019**
+
+Host institutions: Australian Data Archive, the University of New South Wales, Aristotle Metadata, and the Australian Consortium for Social and Political Research, Inc. (ACSPRI).
+
+<a class="btn btn-template-main" href="https://www.iassist2019.org/2018/09/11/welcome/" target="_blank">Conference website</a>
+
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2019/search?page=1&size=20&sort=conference_session" target="_blank">2019 Conference presentations (Zenodo)</a>
