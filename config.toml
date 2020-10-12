@@ -203,7 +203,7 @@ paginate = 10
     subtitle = "iBlog is IASSIST's own blog. Entries on various topics are written by our members."
 
 [params.alerts]
-    enable = false
+    enable = true
     # Setting this to true prints alerts defined in their own files stacked on top of each other. 
     title = "Alerts"
 	

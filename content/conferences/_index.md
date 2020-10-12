@@ -10,7 +10,19 @@ The conference consists of workshops focused on the profession, stimulating plen
 
 The annual conference is an international event. Conference locations reflect our membership base and typically rotate to a different region each year.
 
-**Due to COVID-19 outbreak all 2020 events were cancelled. Information on future events will be updated to this page soon.**
+<div style="background-color:#fdebd0;font-weight:bold;padding:.5em;font-size:140%;">Changes to the IASSIST 2021 conference</div>
+
+<div style="background-color:#eee;padding:.5em;">Because of the continued health and economic concerns caused by the coronavirus, the Administrative Committee of IASSIST, in conjunction with the Program and Local Arrangements committees, has voted to change the plans for the 2021 conference and hold two events.<br /><br />
+
+
+The **main conference will be virtual** and will be scheduled for some time in May 2021 with dates to be confirmed shortly.  In addition, we will host a **joint IASSIST/CESSDA meeting in Gothenburg, Sweden from 30 June – 3 July**.
+
+
+Those who have accepted presentations will be contacted shortly to discuss in which event they would like to participate.  Depending on the distribution of presentations, an additional call for presentations may occur later this year.  
+
+
+Additional information about programs, registrations, schedules, and information about existing arrangements from the 2020 conference will be made available as soon as possible.  Questions and concerns can be directed to the Executive Committee via IASSIST President Sandra Cannon.
+</div>
 
 ## Next Conference
 
@@ -30,9 +42,9 @@ Host institution: Swedish National Data Service (SND)
 
 It is with heavy hearts that the IASSIST Executive, Local Arrangements, and Program committees announce that IASSIST 2020 will not happen. Given these unsettled times, the health and safety of our community is paramount.
 
-We are pleased to announce that the 20-21 conference will take place in Gothenburg, Sweden 7-9 April 2021. We have started to plan how to move the 2020 conference to the new 2021 dates. Stay tuned for more information in May.
+<!--We are pleased to announce that the 20-21 conference will take place in Gothenburg, Sweden 7-9 April 2021. We have started to plan how to move the 2020 conference to the new 2021 dates. Stay tuned for more information in May.
 
-In the meantime, we encourage participants to take whatever steps are available to you to cancel or change your travel plans if you have not already done so. We'll be in touch with those who have already registered about how we will handle the registration fees.
+In the meantime, we encourage participants to take whatever steps are available to you to cancel or change your travel plans if you have not already done so. We'll be in touch with those who have already registered about how we will handle the registration fees.-->
 
 ## Previous Conferences
 
