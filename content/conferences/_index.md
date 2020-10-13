@@ -24,15 +24,23 @@ Those who have accepted presentations will be contacted shortly to discuss in wh
 Additional information about programs, registrations, schedules, and information about existing arrangements from the 2020 conference will be made available as soon as possible.  Questions and concerns can be directed to the Executive Committee via IASSIST President Sandra Cannon.
 </div>
 
-## Next Conference
+## Next Conferences
 
-#### 46th Annual Conference IASSIST 20-21
+#### 46th Annual (Virtual) Conference IASSIST 2021
+
+Will be held virtually in May 2021. 
+
+Details forthcoming. 
+
+<br />
+
+#### IASSIST/CESSDA Meeting 2021
 
 ![IASSIST 2020/2021 logo](/img/conferences/iassist2020logo-theme-1-510.png "")
 
 <!--#### 46th Annual Conference IASSIST 20-21
 ### Data By Design-->
-**Gothenburg, Sweden, April 7–9, 2021 (was to be May 19–22, 2020)** 
+**Gothenburg, Sweden, 30 June – 2 July, 2021** 
 
 Host institution: Swedish National Data Service (SND)
 
