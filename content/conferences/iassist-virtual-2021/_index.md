@@ -15,7 +15,6 @@ Details forthcoming.
 #### Chairs
 - Stephanie Labou, University of California, San Diego, USA
 - Stephanie Tulley, Federal Reserve Bank of Cleveland, USA
-- Walter Giesbrecht, ret. York University Libraries, Canada
 
 <br />
 
