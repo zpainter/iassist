@@ -554,7 +554,7 @@ IASSIST Website.
 
 (vi) Communications Committee
 
-### **12.4 Action Groups**
+### **12.4 Action Groups** {#article12-4}
 
 **12.4.1** The Administrative Committee may appoint Action Groups and
 for every Action Group a Coordinator shall be appointed for a minimum of
@@ -580,7 +580,7 @@ and to the public as appropriate, at least once a year at the time of
 the annual Business Meeting, or as requested, on matters relating to
 their particular sphere.
 
-### **12.5 Interest Groups**
+### **12.5 Interest Groups** {#article12-5}
 
 **12.5.1** The Administrative Committee may appoint Interest Groups and
 for every Interest Group a Coordinator shall be appointed for a minimum

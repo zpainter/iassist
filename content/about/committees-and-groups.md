@@ -63,13 +63,15 @@ projects.
 
 Read more: [Former action groups](/about/former-action-groups) 
 
+Read more about IASSIST Action Groups and how to establish one in the [Constitution](/about/iassist-constitution/#article12-4). 
+
 ## Interest Groups {#interest-groups}
 
 Interest Groups share information on specific subjects with the larger
 IASSIST membership and serve as a forum of discussion between as well as
 during annual meetings. 
 
-Read more about IASSIST Interest Groups and see the [Interest Group Checklist](/about/all-about-interest-groups).
+Read more about IASSIST Interest Groups and how to establish one in the [Interest Group Checklist](/about/all-about-interest-groups).
 
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
