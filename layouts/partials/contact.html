@@ -8,12 +8,14 @@
                 {{ .Content }}
 
                 {{ if isset .Site.Params "email" }}
-
+<!--
                 <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
                 </div>
+-->				
 
                 <div id="contact-message"></div>
+<!--				
 
                 <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ else }}{{ end }} method="post" action="https://formspree.io/{{ .Site.Params.email }}">
                     <div class="row">
@@ -41,7 +43,6 @@
 
                         </div>
                     </div>
-                    <!-- /.row -->
                 </form>
 				
 			
@@ -54,13 +55,13 @@
 					<label>Your Email: </label>
                     <input type="text" class="form-control" name="email2" id="email2" required>					
 				  </p>
-				  <!--<p>
-					<label>Your Role: </label>
+				  <p>
+					<label>Your question is about: </label>
 					<select name="role[]" multiple>
-					  <option value="leader">Leader</option>
-					  <option value="follower">Follower</option>
+					  <option value="membership">Membership</option>
+					  <option value="web">Website</option>
 					</select>
-				  </p>-->
+				  </p>
 				  <p>
 					<label for="message2" >Your Message: </label>
 					<textarea id="message2" class="form-control" name="message2" required></textarea>
@@ -68,8 +69,9 @@
 				  <p>
 					<button type="submit">Send</button>
 				  </p>
-                    <!-- /.row -->
                 </form>				
+				
+-->				
                 {{ end }}
 
             </section>
