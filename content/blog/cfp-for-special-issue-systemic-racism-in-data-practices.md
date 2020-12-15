@@ -2,7 +2,7 @@
 author = "IQ Editor"
 title = "CFP for Special Issue: Systemic Racism in Data Practices"
 tags = [ "News and Announcements", "IQ", "Call for papers",]
-date = "2020-12-15 10:00:00 -0700"
+date = "2020-12-14 10:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iq-3.png"
 +++
