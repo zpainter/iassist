@@ -2,7 +2,7 @@
 author = "Karsten Boye Rasmussen"
 title = "Editor's notes: Sharing open data without risk, and with machine-actionable provenance metadata"
 tags = [ "News and Announcements", "IQ",]
-date = "2020-12-16 10:00:00 -0700"
+date = "2020-12-18 10:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iq-3.png"
 +++
