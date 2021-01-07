@@ -16,25 +16,25 @@ All community members in all IASSIST events are requested to follow expected val
 ## Language and Actions
 
 ### Appropriate
-Exercise consideration and respect in your speech and actions at community events.
-Strive for collaboration over conflict.
+- Exercise consideration and respect in your speech and actions at community events.
+- Strive for collaboration over conflict.
 
 ### Inappropriate
 
-Engage in unwarranted or rude behaviour that stifles or prevents participation by all.
-Use intimidating, bullying, harassing, abusive, personally derogatory or demeaning speech or actions that indicate exclusion because of the person’s characteristics in-person or virtually. 
+- Engage in unwarranted or rude behaviour that stifles or prevents participation by all.
+- Use intimidating, bullying, harassing, abusive, personally derogatory or demeaning speech or actions that indicate exclusion because of the person’s characteristics in-person or virtually. 
 
 ## Environment
 
 ### Appropriate
 
-Participate in an authentic and active way, while respecting others’ physical and virtual space.
-Use technology to participate in a constructive and respectful way that contributes to the well-being and development of the community.
+- Participate in an authentic and active way, while respecting others’ physical and virtual space.
+- Use technology to participate in a constructive and respectful way that contributes to the well-being and development of the community.
 
 ### Inappropriate
 
-Virtually or in-person posting, recording, photographing, or displaying sexualized, racist, violent, or otherwise discriminatory material (imagery or language). 
-Physical or sexual assault, inappropriate and non-consensual physical contact and unwelcome sexual attention; including, deliberate intimidation or stalking/following physically or virtually. 
+- Virtually or in-person posting, recording, photographing, or displaying sexualized, racist, violent, or otherwise discriminatory material (imagery or language). 
+- Physical or sexual assault, inappropriate and non-consensual physical contact and unwelcome sexual attention; including, deliberate intimidation or stalking/following physically or virtually. 
 
 ## Dealing with violations
 
