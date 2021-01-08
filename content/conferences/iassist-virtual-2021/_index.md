@@ -1,12 +1,14 @@
 +++
-title = "IASSIST 2021 Virtual Conference"
+title = "IASSIST 2021 Global Virtual Conference (GVC) "
 draft = "false"
 +++
 ## Global Conference of IASSIST
 
-The IASSIST Global Virtual Conference (GVC) will be held in May 2021. The usual layout of presentations, panels, lightning talks, posters, and keynote talk will be held over the course of 3 days. Workshops will be held the week prior.
-           
-Registration will be $30 for IASSIST members and $100 for non-members. Registration for workshops will include an additional nominal fee. 
+**The IASSIST Global Virtual Conference (GVC) will be held on May 18-20, 2021. Workshops will be held the week prior.**
+
+Registration fees for the GVC will be $30 for IASSIST members and $100 for non-members. Registration for workshops will include an additional nominal fee. 
+
+Registration will open in March 2021.
 
 All presentations (excluding workshops) will be recorded in the event that attendees are unable to view the presentations synchronously.
 
