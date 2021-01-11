@@ -59,11 +59,15 @@ Action Groups undertake specific tasks, find solutions to specific
 problems, or develop and compile relevant materials for specific
 projects.
 
-**None at the moment.**
+#### Anti-Racism Resources Action Group {#anti-racism-resources-action-group}
+<!--#### [Anti-Racism Resources Action Group](/community/anti-racism-resources-action-group) {#anti-racism-resources-action-group}-->
+The group anticipates to compile a variety of resources that might otherwise be difficult to find, e.g., datasets documenting racism and the Black experience internationally; tools, articles and rubrics for building anti-racism into the process of working with data across the research lifecycle; advice about combining and cleaning data around particular topics or to handle difficult analysis issues; etc. 
+
+- **2020-2022 Chair:** *Michele Hayslett, michele_hayslett [ at ] unc.edu*
 
 Read more: [Former action groups](/about/former-action-groups) 
 
-Read more about IASSIST Action Groups and how to establish one in the [Constitution](/about/iassist-constitution/#article12-4). 
+More about IASSIST Action Groups and how to establish one is described in the [Constitution](/about/iassist-constitution/#article12-4). 
 
 ## Interest Groups {#interest-groups}
 

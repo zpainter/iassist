@@ -1,7 +1,7 @@
 +++
 author = "IASSIST"
 title = "Racism, Data, and IASSIST"
-tags = [ "News and Announcements", "Community of data professionals", "Data", "Racism",]
+tags = [ "News and Announcements", "Community of data professionals", "Data", "Racism", "Anti-Racism",]
 date = "2020-09-13 01:00:01 -0700"
 draft = "false"
 banner = "/img/blog/blog-placeholder.png"
