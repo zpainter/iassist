@@ -1,6 +1,6 @@
 +++
 title = "IASSIST Webinars"
-date = "2020-04-26 10:00:25 -0700"
+date = "2021-02-04 10:00:25 -0700"
 draft = "false"
 +++
 ## IASSIST Webinars
@@ -11,6 +11,9 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
+No registrations open at the moment.
+
+<!--
 #### Accessing linked health data in a COVID-world: What’s the state of play?
 
 This webinar organized by the IASSIST professional development committee on 6/4 at 11:30 am (EDT). 
@@ -26,13 +29,20 @@ Speakers:
 **[Register here](https://register.gotowebinar.com/register/1595216956417230860 "Register at GoToWebinar provided by ICPSR")**
 
 After registering, you will receive a confirmation email containing information about joining the webinar.  
+-->
 
 ### Newest webinar recordings
 
-{{< youtube nw_Tk62-6mc >}}
+{{< youtube QGYse9iDPWI >}}
+
+- [Slides](https://t.co/b5wQXGVz9J "Webinar slides on Google Docs")
 
 <br />
 
+{{< youtube WE-kmduHahc >}}
+
+<br />
+- [IASSIST Prof Dev presents Primerpalooza](https://www.youtube.com/watch?v=nw_Tk62-6mc) (Hannah Hadley, Elizabeth Blackwood, Amy Koshoffer, Margarita Corral, Peace Ossom-Williamson, Adam Kriesburg)
 - [Free Qualitative Data Analysis with Taguette and qcoder! an IASSIST webinar](https://www.youtube.com/watch?v=OIB_xLlM8Fw) (Beth Duckles, Vicky Steeves)
 - [Dueling CAQDAS Using Atlas ti and NVivo for Qualitative Data Analysis](https://www.youtube.com/watch?v=qCAB73zAjwk) (Florio Arguillas, Mandy Swygart-Hobaugh)
 - [Data Visualization Beyond Tools Principles and Approaches](https://www.youtube.com/watch?v=PgHNHdz8F-Y) (Justin Joque)
