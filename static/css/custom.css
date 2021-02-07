@@ -1,4 +1,7 @@
 /* your styles go here */
+body {
+/*color: #2B2B2B;*/ this would provide enough contrast for the text links.
+}
 
 .navbar-brand {
   height: 80px;
@@ -101,7 +104,7 @@ dl dt:first-of-type {
 }
 
 
-/* --- Various accessibility fixes added to Pink theme. --- */
+/* --- Various accessibility fixes added to the Pink theme. --- */
 
 .btn-template-main {
   color: #af588e;
@@ -146,6 +149,16 @@ dl dt:first-of-type {
 
 a {
   color: #af588e; /*c27baa*/
+}
+
+a:hover,
+a:active {
+  color: #69006B;
+  /*background-color: #f5f5f5;*/
+}
+
+a:focus {
+  outline: 3px dotted #2b2b2b;
 }
 
 .footerLinks a {
