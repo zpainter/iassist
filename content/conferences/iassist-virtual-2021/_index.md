@@ -8,7 +8,7 @@ draft = "false"
 
 Registration fees for the GVC will be $30 for IASSIST members and $100 for non-members. Registration for workshops will include an additional nominal fee. 
 
-Registration will open in March 2021.
+Registration will open in March 2021. Whova will be the primary conference platform for this event.
 
 All presentations (excluding workshops) will be recorded in the event that attendees are unable to view the presentations synchronously.
 
