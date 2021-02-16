@@ -9,6 +9,7 @@ Part of the 46th Annual Conference IASSIST 2021
 
 <!--### Data By Design-->
 **Gothenburg, Sweden, 30 June – 2 July, 2021** 
+**Postponed for later in year** 
 
 Host institution: Swedish National Data Service (SND)
 
