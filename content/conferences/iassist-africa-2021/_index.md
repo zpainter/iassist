@@ -9,9 +9,7 @@ draft = "false"
 
 Host institutions: IASSIST in collaboration with the East Africa School of Library and Information Science (EASLIS) and Association of Parliamentary Libraries of Eastern and Southern Africa (APLESA)
 
-**Registration is now open!**
-
-<a class="btn btn-template-main" href="http://iassistafrica.org/" target="_blank">Visit the Workshop website</a>
+<a class="btn btn-template-main" href="http://iassistafrica.org/" target="_blank" title="Opens to a new tab">Visit the Workshop website</a>
 
 #### Chairs
 - Prof. Constant Okello-Obura, Makerere University, Uganda
