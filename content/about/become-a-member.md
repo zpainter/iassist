@@ -22,9 +22,9 @@ IASSIST welcomes new members and offers an array of benefits:
 -   opportunity to serve on IASSIST committees and action groups
 -   access to the IASSIST Membership Directory and Intranet
 
-**To join**, please complete the [online application](https://www.iassistdata.info/application). Credit card transactions will be conducted via PayPal, and may be subject to currency fluctuation. Depending on your country of residence you may or may not need to create a PayPal account. Annual membership fee is $50 (USD).
+**To join**, please complete the [online application](https://www.iassistdata.info/application). Credit card transactions will be conducted by Affinipay, and may be subject to currency fluctuation. Annual membership fee is $50 (USD).
 
-**If you are a member** and want to manage or renew your membership:  Manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to PayPal. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the the login button.  
+**If you are a member** and want to manage or renew your membership:  Manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to a payment page. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the the login button.  
 
 ### Membership administration site (iassistdata.info)
 
