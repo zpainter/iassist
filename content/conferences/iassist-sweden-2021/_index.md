@@ -15,6 +15,8 @@ Gothenburg, Sweden, 25-27 August 2021
 
 Host institution: Swedish National Data Service (SND)
 
+Please be aware that IASSIST Leadership and the Local Arrangements Committee in Sweden are monitoring the changing public health and travel issues related to COVID-19.  While we fully intend to host the joint meeting in-person, we want to ensure the safety of everyone involved.  Therefore, we encourage presenters and attendees to monitor the conference website for the latest information.
+
 <a class="btn btn-template-main" href="https://iassist2021.org/" target="_blank">Visit the Conference website</a>
 
 #### Chairs
