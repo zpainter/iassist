@@ -27,7 +27,7 @@ Additional information about programs, registrations, schedules, and information
 ### 2021 IASSIST Events
 
 <a class="btn btn-template-main" href="./iassist-africa-2021/" >Africa Workshop</a> 
-<a class="btn btn-template-main" href="./iassist-virtual-2021/" >Virtual Global Conference</a> 
+<a class="btn btn-template-main" href="./iassist-virtual-2021/" >Global Virtual Conference</a> 
 <a class="btn btn-template-main" href="./iassist-sweden-2021/" >IASSIST/CESSDA Summit</a>
 
 <br />
