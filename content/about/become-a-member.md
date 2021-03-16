@@ -24,7 +24,7 @@ IASSIST welcomes new members and offers an array of benefits:
 
 **To join**, please complete the [online application](https://www.iassistdata.info/application). Credit card transactions will be conducted by Affinipay, and may be subject to currency fluctuation. Annual membership fee is $50 (USD).
 
-**If you are a member** and want to manage or renew your membership:  Manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to a payment page. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the the login button.  
+**If you are a member** and want to manage or renew your membership:  Manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to a payment page. Follow the instructions to complete the payment. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the login button.  
 
 ### Membership administration site (iassistdata.info)
 
