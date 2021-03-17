@@ -60,13 +60,13 @@ draft = "false"
 
 ### What happens if I join on or after March 1st of a particular year?{#faq4}
 >   Your membership extends to the end of the NEXT membership year. For
-    example, if you join in March 2009, your membership ends June
-    30 2010.
+    example, if you joined in March 2019, your membership ends June
+    30 2020.
 
 ### What happens if I join at the conference/when registering for the conference?{#faq5}
 >   Your membership always goes to the end of the next membership year.
-    For example, if you join at the conference in May 2009, your
-    membership ends June 30 2010.
+    For example, if you joined at the conference in May 2019, your
+    membership ends June 30 2020.
 
 ### How do I renew my membership?{#faq6}
 >   If you haven't renewed for the next membership year, an e-mail announcement with instructions will be sent out in June, and a reminder in early July when the new membership year begins. Payment for the upcoming membership year can be made online, or in conjunction with your conference registration. A third notice is sent out later in the year if we have no record of your renewal. Questions about your membership status should be directed to the [Treasurer](https://www.iassistdata.info/treasurers/).
