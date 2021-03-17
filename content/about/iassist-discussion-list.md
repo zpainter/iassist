@@ -9,7 +9,7 @@ draft = "false"
 +++
 **discuss [ at ] lists.iassistdata.org** (former IASST-L at lists.columbia.edu) is an email discussion list for IASSIST members. Only members may subscribe and post to the list. Everyone with a current membership and for whom we have an email address, and an indication that you wish to join the list, is registered on this distribution list. You may opt in or out by editing your subscription preference at our  [membership site](http://www.iassistdata.info). 
 
-This service was initially created to facilitate communication among IASSIST members between annual conferences. The format of this distribution list is similar to other professional newsletters. We want to share career opportunities, conference announcements, important dates, workshops and training programs, minutes from IASSIST meetings, reports from committees and groups, news items about members, and information from other professional associations.
+This service was initially created to facilitate communication among IASSIST members between annual conferences. The format of this distribution list is similar to other professional newsletters. We want to share career and pro development opportunities, conference announcements, important dates, workshops and training programs, minutes from IASSIST meetings, reports from committees and groups, news items about members, and information from other professional associations.
 
 The list has also become an important source of support for members to query other data professionals about data sources and best practice in serving users.
 

@@ -1,8 +1,6 @@
 weight: 2
 title: "IASSIST Virtual Conference"
 description: >
-  <ul class="list-style-none">
-    <li>Our 2021 Global Conference (GVC)</li>
-    <li>May 17-20, 2021</li>
-  </ul>    
+    <p class="carouselText">Our 2021 Global Conference (GVC)<br />May 17-20, 2021</p>
+    <p class="carouselText"><a href="https://whova.com/web/iassi_202102/" target="_blank">Registration now open</a></p>
 image: "img/carousel/iassist_logo_wordmark-no-wordmark-450.png"
