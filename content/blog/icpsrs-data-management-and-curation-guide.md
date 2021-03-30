@@ -2,7 +2,7 @@
 nid = "3700"
 uid = "344"
 author = "mingluwang"
-title = "ICPSRâ€™s Data Management and Curation Guide"
+title = "ICPSR's Data Management and Curation Guide"
 tags = [ "Data Management and Curation", "Tools", "Guides",]
 oldpath = "/resources/icpsr%E2%80%99s-data-management-and-curation-guide"
 date = "2014-05-12 14:13:39 -0700"

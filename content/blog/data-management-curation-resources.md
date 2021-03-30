@@ -41,7 +41,7 @@ in the following areas:
 
 Our resource page is now live on the IASSIST website:
 
-<https://www.iassistdata.org/resources/category/data-management-and-curation>
+[https://www.iassistdata.org/resources/category/data-management-and-curation](https://web.archive.org/web/20170308181120/https://www.iassistdata.org/resources/category/data-management-and-curation)
 
 Please take a look at the resources we have listed. If you are aware of,
 or are responsible for, great resources or tools that are not listed,
