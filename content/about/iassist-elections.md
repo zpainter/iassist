@@ -9,7 +9,7 @@ draft = "false"
 +++
 Every two years IASSIST conducts an election of officers in each active geographic region. Terms are for two or four years depending on the position.
 
-**2021 is an election year for IASSIST.** To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2020-2021).
+**2021 is an election year for IASSIST.** To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2020-2021). Nominations period has ended and the Election will open on April 13, 2021. 
 
 Questions about the Election or nominations? Please contact Elections Committee Chair Tuomas J. Alaterä, tuomas.alatera (at) tuni.fi.
 

@@ -10,7 +10,7 @@ Part of the 46th Annual Conference IASSIST 2021
 <!--### Data By Design-->
 Currently scheduled for:
 
-Gothenburg, Sweden, 25-27 August 2021
+Gothenburg, Sweden, 14-16 September 2021
 : Subject to change pending public health and travel developments. 
 
 Host institution: Swedish National Data Service (SND)
