@@ -65,7 +65,12 @@ The group anticipates to compile a variety of resources that might otherwise be 
 
 - **2020-2022 Chair:** *Michele Hayslett, michele_hayslett [ at ] unc.edu*
 
-Read more: [Former action groups](/about/former-action-groups) 
+#### Values and Ethics Statement Action Group {#values-and-ethics-statement-action-group}
+This group's mission is to develop and propose an IASSIST ethics statement to reflect and communicate the IASSIST membership's common values.
+
+- **2020-2022 Chair:** *Cameron Tuai, cameron.tuai [ at ] drake.edu*
+
+Read more: [Former Action Groups](/about/former-action-groups) 
 
 More about IASSIST Action Groups and how to establish one is described in the [Constitution](/about/iassist-constitution/#article12-4). 
 

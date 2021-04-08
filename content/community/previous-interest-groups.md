@@ -7,7 +7,9 @@ oldpath = ""
 date = "2020-03-20 10:00:25 -0700"
 draft = "false"
 +++
-**Previous Interest Groups have produced resources that may be of use for the membership or the data community at-large.**
+**These former Interest Groups have produced resources that may be of use for the membership or the data community at-large.**
+
+Visit the **[Committees and Groups]({{< ref "committees-and-groups.md#interest-groups" >}})** page to see which Interest Groups are active at the moment. <br /><br />
 
 #### [Data Visualization Interest Group](/community/dvig) (DVIG) {#data-vizualization-interest-group}
 This group focused on promoting a greater understanding of data visualization -- its creation, uses, and importance in research, across disciplines. Data Visualization supports a means to make sense of data, through visual representation, and to communicate ideas and information effectively. Particular areas of focus and discussions included, but were not limited to the following: :   
