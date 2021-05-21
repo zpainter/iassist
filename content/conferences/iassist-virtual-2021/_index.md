@@ -4,10 +4,14 @@ draft = "false"
 +++
 ## Global Conference of IASSIST
 
-<a class="btn btn-template-main" href="https://whova.com/web/iassi_202102/" target="_blank" title="(Opens to a new tab)">Registration is now open!</a>
+<a class="btn btn-template-main" href="https://whova.com/web/iassi_202102/" target="_blank" title="(Opens to a new tab)">Thank you for participating!</a>
 
 <br />
-**The IASSIST Global Virtual Conference (GVC) will be held on May 17-20, 2021. Workshops will be held the week prior.**
+**The IASSIST Global Virtual Conference (GVC) was held on May 17-20, 2021. Workshops were held the week prior.**
+
+Presentations and recordings will be made available shortly. 
+
+Presenters, remember that you may turn your presentation into an article in IASSIST Quarterly (IQ), our peer-reviewed open access journal. See IQ Journal tab for more information. <br /><br />
 
 Registration fees for the GVC:
 : $30 for IASSIST members
