@@ -1,9 +1,6 @@
 weight: 3
-title: "Annual Conference"
+title: "IASSIST/CESSDA meeting"
 description: >
-  <ul class="list-style-none">
-    <li>IASSIST/CESSDA meeting</li>
-    <li>Gothenburg, Sweden</li>
-    <li>September 2021</li>   
-  </ul>
+    <p class="carouselText">Gothenburg, Sweden<br />September 2021</p>
+    <p class="carouselText"><a href="https://iassist2021.org/" target="_blank">Visit the Website</a></p>
 image: "img/carousel/iassist2020-21logo-theme-471.png"
