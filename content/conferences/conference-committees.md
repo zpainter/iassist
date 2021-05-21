@@ -20,21 +20,24 @@ Co-Chairs
 : Louise Corti, UK Data Service at the University of Essex, UK
 
 Coordinators
-: Berenica Vejvoda (Papers Proposals & Sorting Coordinator)
-: Louise Corti (Session Reviewer/coordinator)
+: Berenica Vejvoda (Papers Proposals & Sorting Coordinator) (2020)
+: Louise Corti (Session Reviewer/coordinator) (2020)
 : Paul Bern (Sessions Co-Coordinator)
-: Berenica Vejvoda (Papers Competition Coordinator)
 : Amber Sherman (Workshop Co-Coordinator)
 : Eimmy Solis (Workshop Co-Coordinator)
 : Abay Israel (Mentoring Program Coordinator)
-: Zac Painter (Poster Session Co-Coordinator)
+: Zac Painter (Poster Session Co-Coordinator, Virtual Platform Coordinator)
 : Helen Porter (Poster Session Co-Coordinator)
-: David Schiller (Lightning Talk Coordinator)
+: David Schiller (Lightning Talk Coordinator) (2020)
+: Lynda Kellam (Lightning Talk Coordinator)
+: Laurence Horton (Lightning Talk Coordinator, Birds of a Feather)
 : Christina Kulp (Birds of a Feather/SIG Coordinator)
 : Florio Arguillas (Fellows Coordinator)
+: Meryl Brodsky (apers Competition Coordinator)
+: San Cannon ()
 
 At-Large
-: TBA
+: -
 
 Past Co-Chairs/2019 Ex-Officio
 : Bobray Bordelon, Princeton University, USA
