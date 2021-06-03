@@ -205,7 +205,7 @@ term| | |
 1988-1991 | Thomas Brown |  Visit the membership database<!--ThomasEBrownDC [ at ] aol.com--> |
 1991-1995 | Charles Humphrey |  Visit the membership database<!--chuck.humphrey [ at ] ualberta.ca--> |
 1995-1997 | Elizabeth Stephenson |  libbie [ at ] ucla.edu |
-1997-2001 | Peter Burnhill |  Visit the membership database<!--p.burnhill [ at ] ed.ac.uk--> |
+1997-2001 | Peter Burnhill |  peter.burnhill [ at ] gmail.com |
 2001-2005 | Ann Green |  dlifecycle [ at ] gmail.com |
 2005-2007 | Ernie Boyko |  boykern [ at ] yahoo.com |
 2007-2011 | Melanie Wright |  melanie [ at ] essex.ac.uk |
