@@ -17,13 +17,16 @@ draft = "false"
 |Social media Editor		|Laurence Horton, hortonlaurence [ at ] gmail.com  |
 |iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |
 |Mentorship pages			|Abay Israel  |
-|Section Editor: About		|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
-|Section Editor: Conferences|Chiu-Chuang (Lu) Chou, cchou2 [ at ] wisc.edu |
-|Section Editor: Resources	|Minglu Wang, minglu [ at ] rutgers.edu  |
-|Section Editor: Community	|Jen Darragh, jendarragh [ at ] jhu.edu  |
-|Jobs Repository Editor		|Vacant (previously Stephanie Tulley,  stephanie.tulley [ at ] clev.frb.org)  |
+|Jobs Repository Editor		|Vacant |
 |Administrator Support		| |
 |Membership Site Admins		|iassist.membership [ at ] gmail.com|
+
+<!--
+|Section Editor: About		|Tuomas J. Alaterä |
+|Section Editor: Conferences|Chiu-Chuang (Lu) Chou |
+|Section Editor: Resources	|Minglu Wang |
+|Section Editor: Community	|Jen Darragh  |
+-->
 
 <br />To contact the web team, please use our [contact form](/contact) or email iassistwebmaster [ at ] gmail.com
 
@@ -31,8 +34,10 @@ draft = "false"
 |IASSIST Quarterly||
 |:---|:---|
 |IQ Editor		|Karsten Boye Rasmussen, kbr [ at ] sam.sdu.dk or editor.iassistquarterly [ at ] gmail.com  |
-|IQ Support Contact		|Michele Hayslett, michele_hayslett [ at ] unc.edu |
+|		|or editor.iassistquarterly [ at ] gmail.com  |
+|IQ Support Contacts		|Michele Hayslett, michele_hayslett [ at ] unc.edu |
+|	|Ofira Schwartz-Soicher, oschwart [ at ] princeton.edu |
 
-<br />[See IQ for more details](https://www.iassistquarterly.com/index.php/iassist/about/contact)
+<br />[See IQ for more details<i class="fas fa-external-link-alt"></i>](https://www.iassistquarterly.com/index.php/iassist/about/contact)
 
 

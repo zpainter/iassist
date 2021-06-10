@@ -175,17 +175,15 @@ jennifer.doty [ at ] emory.edu
 
 **Elections Committee**
 
-Tuomas J. Alaterä,
-tuomas.alatera [ at ] tuni.fi
+Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 **Communications Committee**
 
-Tuomas J. Alaterä,
-tuomas.alatera [ at ] tuni.fi
+Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
-**Conference Program Committee 2020/2021**
+**Conference Program Committee 2022**
 
-Louise Corti, Stephanie Labou, Stephanie Tulley
+TBA
 
 &nbsp;
 
