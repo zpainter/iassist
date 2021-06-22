@@ -14,7 +14,7 @@ Our members work in information technology, libraries, data services, research &
 
 **&raquo; [Join IASSIST](/about/become-a-member "More information on becoming a member")**
 
-### 350+ Members from a variety of settings
+### ~400 Members from a variety of settings
 
 Our members represent a variety of organizational sectors across the globe; the majority are within acedemia, working in data services, libraries, archives or research positions.
 

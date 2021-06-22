@@ -15,7 +15,7 @@ The annual conference is an international event. Conference locations reflect ou
 <div style="background-color:#eee;padding:.5em;">Because of the continued health and economic concerns caused by the coronavirus, the Administrative Committee of IASSIST, in conjunction with the Program and Local Arrangements committees, has voted to change the plans for the 2021 conference and hold two events.<br /><br />
 
 
-The **main conference will be virtual and take place in May 17-20, 2021**. 
+The **main conference was virtual and took place in May 17-20, 2021**. 
 
 In addition, we will host a joint **IASSIST/CESSDA meeting in Gothenburg, Sweden**. The in-person meeting is currently scheduled for 14-16 September 2021. 
 
@@ -29,11 +29,12 @@ Questions and concerns can be directed to the Executive Committee via IASSIST Pr
 
 #### Forthcoming
 
-<a class="btn btn-template-main" href="./iassist-virtual-2021/" >Global Virtual Conference</a> 
+
 <a class="btn btn-template-main" href="./iassist-sweden-2021/" >IASSIST/CESSDA Summit</a>
 
 #### Completed
 
+<a class="btn btn-template-main" href="./iassist-virtual-2021/" >Global Virtual Conference</a> 
 <a class="btn btn-template-main" href="./iassist-africa-2021/" >Africa Workshop</a> 
 
 <br />
