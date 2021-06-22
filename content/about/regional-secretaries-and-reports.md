@@ -19,6 +19,7 @@ Africa
 *Reports:*
 
 -   [2020-2021](/about/regional-report-2020-2021-africa)
+-   [2019-2020](/about/regional-report-2019-2020-africa)
 -   [2015-2017](/about/regional-report-2015-2017-africa)
 -   [2013-2014](/about/regional-report-2013-2014-africa)
 -   [2012-2013](/about/regional-report-2012-2013-africa)
