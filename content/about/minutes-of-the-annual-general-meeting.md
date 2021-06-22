@@ -13,6 +13,7 @@ According to [Article VIII of the IASSIST Constitution](/about/iassist-constitut
 
 The years for which minutes are available are listed below.
 
+-   [2020 (Virtual General Assembly)](/about/general-assembly-minutes-2020) 
 -   [2019 (Sydney, Australia)](/about/general-assembly-minutes-2019) 
 -   [2018 (Montréal, Canada)](/about/general-assembly-minutes-2018) 
 -   [2017 (Lawrence, Kansas USA)](/about/general-assembly-minutes-2017) 

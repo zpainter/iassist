@@ -18,6 +18,7 @@ Africa
 
 *Reports:*
 
+-   [2020-2021](/about/regional-report-2020-2021-africa)
 -   [2015-2017](/about/regional-report-2015-2017-africa)
 -   [2013-2014](/about/regional-report-2013-2014-africa)
 -   [2012-2013](/about/regional-report-2012-2013-africa)
@@ -44,10 +45,11 @@ Asia/Pacific
 Canada
 ------
 
-*Current Secretary:* Carol Perry
+*Current Secretary:* Jane Fry
 
 *Reports:*
 
+-   [2020-2021](/about/regional-report-2020-2021-canada)
 -   [2019-2020](/about/regional-report-2019-2020-canada)
 -   [2018-2019](/about/regional-report-2018-2019-canada)
 -   [2017-2018](/about/regional-report-2017-2018-canada)
@@ -76,6 +78,7 @@ Europe
 
 *Reports:*
 
+-   [2020-2021](/about/regional-report-2020-2021-europe)
 -   [2011-2012](/about/regional-report-2011-2012-europe)
 -   [2010-2011](/about/regional-report-2010-2011-europe)
 -   [2009-2010](/about/regional-report-2009-2010-europe)
@@ -98,6 +101,7 @@ United States
 
 *Reports:*
 
+-   [2020-2021](/about/regional-report-2020-2021-united-states)
 -   [2019-2020](/about/regional-report-2019-2020-united-states)
 -   [2018-2019](/about/regional-report-2018-2019-united-states)
 -   [2013-2014](/about/regional-report-2013-2014-united-states)
