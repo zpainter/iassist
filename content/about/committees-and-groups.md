@@ -15,7 +15,7 @@ IASSIST Standing Committees are responsible for the day-to-day running of the or
 
 #### [Administrative Committee](/about/officials) {#administrative-committee}
 The Administrative Committee is the executive body of IASSIST. It implements policies, develops future directions, and coordinates activities for the organization.	
-- **2019-2021 Chair:** *San Cannon, sandra.cannon [ at ] rochester.edu*
+- **2021-2023 Chair:** *San Cannon, sandra.cannon [ at ] rochester.edu*
 
 #### Constitutional Review Committee {#constitutional-review-committee}
 Responsible for receiving proposals for the enacting, amending, and repealing of the by-laws of IASSIST and for preparing revised articles and by-laws for members' approval, as well as for undertaking an annual review of the constitution and by-laws and proposing amendments as it deems appropriate.
@@ -33,7 +33,6 @@ Provides support for data professionals from countries with emerging economies a
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
-- **2019-2021 Chair:** *Jen Doty, jennifer.doty [ at ] emory.edu*
 - **2021-2023 Chair:** *Amanda Tickner, atickner [ at ] msu.edu*
 
 #### Elections Committee {#elections-committee}
@@ -52,7 +51,7 @@ Responsible for enabling productive and transparent communication among members 
 #### [Programme Committee](/conferences/conference-committees) {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events. 
 
-- **2020-2021 Conference Co-Chairs:** *Stephanie Tulley, Stephanie Labou, Louise Corti (2020)*
+- **2021-2022 Conference Co-Chairs:** *TBA*
 
 ## Action Groups {#action-groups}
 

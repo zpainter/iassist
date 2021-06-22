@@ -32,8 +32,8 @@ lmk277 [ at ] cornell.edu
 
 **Treasurer** *
 
-Tom Lindsay,
-lindsayt [ at ] umn.edu
+Jen Doty,
+jennifer.doty [ at ] emory.edu
 
 ## Regional Secretaries
 
@@ -49,13 +49,11 @@ sam [ at ] sqbl.org
 
 **Canada** *
 
-Carol Perry,
-carolp [ at ] uoguelph.ca
+Jane Fry
 
 **Europe** *
 
-Anne Sofie Fink Kjeldgaard,
-asf [ at ] sa.dk
+Anne Sofie Fink Kjeldgaard
 
 **USA** *
 
@@ -64,6 +62,30 @@ stulley [ at ] clev.frb.org
  
 
 ## Members at Large (by region)
+
+**Term from 2021-2025**
+
+**Canada** *
+
+Amber Leahey,
+amber.leahey [ at ] utoronto.ca
+
+**Europe** *
+
+Flavio Bonifacio,
+flavio.bonifacio [ at ] metis-ricerche.it
+
+**USA** *
+
+Dharma Akmon,
+dharmrae [ at ] umich.edu
+
+Sebastian Karcher,
+skarcher [ at ] maxwell.syr.edu
+
+Sophia Lafferty-Hess,
+sophia.lafferty.hess [ at ] duke.edu
+
 
 **Term from 2019-2023**
 
@@ -91,31 +113,6 @@ ajester [ at ] stanford.edu
 Ryan Womack,
 rwomack [ at ] scarletmail.rutgers.edu
 
-
-**Term from 2017-2021**
-
-**Canada** *
-
-Amber Leahey,
-amber.leahey [ at ] utoronto.ca
-
-**Europe** *
-
-Laurence Horton,
-hortonlaurence [ at ] gmail.com
-
-**USA** *
-
-Harrison Dekker,
-hdekker [ at ] uri.edu
-
-Sophia Lafferty-Hess,
-sophia.lafferty.hess [ at ] duke.edu
-
-Amy Pienta,
-apienta [ at ] umich.edu
-
- 
 
 ## Ex-Officio Officers
 
@@ -157,8 +154,7 @@ Open 
 
 **Constitutional Review Committee**
 
-Ann Green,
-green.ann [ at ] gmail.com
+Ann Green, green.ann [ at ] gmail.com
 
 **Professional Development Committee**
 
@@ -166,12 +162,11 @@ Amy Pienta, apienta [ at ] umich.edu and Bobray Bordelon, bordelon [ at ] prince
 
 **IASSIST Fellows**
 
-Florio Arguillas, foa2 [ at ] cornell.edu and Sarah Young
+Florio Arguillas, foa2 [ at ] cornell.edu and Sarah Young sarahy [ at ] andrew.cmu.edu
 
 **Membership Committee**
 
-Jen Doty,
-jennifer.doty [ at ] emory.edu
+Amanda Tickner, atickner [ at ] msu.edu
 
 **Elections Committee**
 
@@ -189,7 +184,6 @@ TBA
 
 Committee Chairs are non-voting members of the Administrative Committee.
 In addition, [Interest and Action Group chairs](/about/committees-and-groups#interest-groups) may be invited to attend Administrative Committee meetings.
-
 
 
 ## Past Presidents
