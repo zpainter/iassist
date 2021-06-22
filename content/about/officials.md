@@ -49,7 +49,8 @@ sam [ at ] sqbl.org
 
 **Canada** *
 
-Jane Fry
+Jane Fry,
+jane.fry [ at ] carleton.ca
 
 **Europe** *
 
@@ -200,7 +201,7 @@ term| | |
 1997-2001 | Peter Burnhill |  peter.burnhill [ at ] gmail.com |
 2001-2005 | Ann Green |  dlifecycle [ at ] gmail.com |
 2005-2007 | Ernie Boyko |  boykern [ at ] yahoo.com |
-2007-2011 | Melanie Wright |  melanie [ at ] essex.ac.uk |
+2007-2011 | Melanie Wright |  Visit the membership database <!--melanie [ at ] essex.ac.uk --> |
 2011-2015 | Bill Block |  block [ at ] cornell.edu |
 2015-2019 | Tuomas J. Alaterä |  tuomas.alatera [ at ] tuni.fi |
 
