@@ -54,7 +54,8 @@ jane.fry [ at ] carleton.ca
 
 **Europe** *
 
-Anne Sofie Fink Kjeldgaard
+Anne Sofie Fink Kjeldgaard,
+annesofiefink [ at ] gmail.com
 
 **USA** *
 
