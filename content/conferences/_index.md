@@ -17,7 +17,7 @@ The annual conference is an international event. Conference locations reflect ou
 
 The **main conference was virtual and took place in May 17-20, 2021**. 
 
-In addition, we will host a joint **IASSIST/CESSDA meeting in Gothenburg, Sweden**. The in-person meeting is currently scheduled for 14-16 September 2021. 
+In addition, we will host a joint **IASSIST/CESSDA meeting in Gothenburg, Sweden**. <!--The in-person meeting is currently scheduled for 14-16 September 2021. -->
 
 > Please be aware that IASSIST Leadership and the Local Arrangements Committee in Sweden are monitoring the changing public health and travel issues related to COVID-19. While we fully intend to host the joint meeting in-person, we want to ensure the safety of everyone involved. Therefore, we encourage presenters and attendees to monitor the [conference website](https://www.iassist2021.org/) for the latest information.   
 
