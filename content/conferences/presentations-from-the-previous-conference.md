@@ -9,7 +9,7 @@ All speakers are strongly encouraged to upload their presentation files to the C
 In some cases, the entire conference programme with presentations may be available in Drobbox as a zip file.
 
 
-<!--![IASSIST 2019 logo](/img/conferences/iassist2019logo.png "")-->
+![IASSIST logo](/img/blog/iassist_logo_wordmark-no-wordmark-borders-gs-256.png "")
 
 #### 46th Annual Conference IASSIST GVC 2021
 **Virtual Conference May 18–22, 2021**
