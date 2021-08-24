@@ -34,7 +34,7 @@ Coordinators
 : Christina Kulp (Birds of a Feather/SIG Coordinator)
 : Florio Arguillas (Fellows Coordinator)
 : Meryl Brodsky (apers Competition Coordinator)
-: San Cannon ()
+: San Cannon (2021)
 
 At-Large
 : -
@@ -51,4 +51,6 @@ Chair
 : Matilda Lindmark, Swedish National Data Service SND, Sweden
 : Olof Olsson, Swedish National Data Service SND, Sweden
 
-#### Previous conference committees
+#### Other conference committees
+
+[See index]({{< ref "conference-committees.md" >}})

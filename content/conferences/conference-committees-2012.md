@@ -66,6 +66,6 @@ At-Large
 : Abdul Rahim
 : Shaswat Sapkota
 
-#### Previous conference committees
+#### Other conference committees
 
-[2011]({{< ref "conference-committees-2011.md" >}})
+[See index]({{< ref "conference-committees.md" >}})

@@ -72,8 +72,6 @@ Leap Communications Group
 : Peggy Peacock
 : Doreen Ostrowski 
 
-#### Previous conference committees
+#### Other conference committees
 
-[2013]({{< ref "conference-committees-2013.md" >}}) |
-[2012]({{< ref "conference-committees-2012.md" >}}) |
-[2011]({{< ref "conference-committees-2011.md" >}})
+[See index]({{< ref "conference-committees.md" >}})

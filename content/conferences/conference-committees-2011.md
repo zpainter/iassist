@@ -56,5 +56,3 @@ At-Large
 : Paul Lesack, UBC Library
 : Catherine Louie, SFU Library
 : Franklin Sayre, UBC SLAIS Student
-
-#### Previous conference committees

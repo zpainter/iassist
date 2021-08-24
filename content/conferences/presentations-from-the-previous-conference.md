@@ -8,6 +8,22 @@ All speakers are strongly encouraged to upload their presentation files to the C
 
 In some cases, the entire conference programme with presentations may be available in Drobbox as a zip file.
 
+
+<!--![IASSIST 2019 logo](/img/conferences/iassist2019logo.png "")-->
+
+#### 46th Annual Conference IASSIST GVC 2021
+**Virtual Conference May 18–22, 2021**
+
+Host institutions: IASSIST
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2021/search?page=1&size=20&sort=conference_session" target="_blank">2021 Global Virtual Conference presentations (Zenodo)</a>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ![IASSIST 2019 logo](/img/conferences/iassist2019logo.png "")
 
 #### 45th Annual Conference IASSIST 2019
