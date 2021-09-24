@@ -1,0 +1,30 @@
+{
+  "conferenceYear": "2021",
+  "title": "IASSIST Global Virtual Conference 2021",
+  "city": "Online",
+  "dateText": "May 18–22, 2021",
+  "startDate": "2021-05-10",
+  "endDate": "2021-05-22",
+  "conferenceNum": "46",
+  "sessions": [
+    {
+      "title": "Forthcoming",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "For all presentations see ",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "https://zenodo.org/communities/iassist-2021/",
+              "institution": "Zenodo Archive"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

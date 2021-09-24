@@ -46,4 +46,4 @@ After registering, you will receive a confirmation email containing information 
 - [Dueling CAQDAS Using Atlas ti and NVivo for Qualitative Data Analysis](https://www.youtube.com/watch?v=qCAB73zAjwk) (Florio Arguillas, Mandy Swygart-Hobaugh)
 - [Data Visualization Beyond Tools Principles and Approaches](https://www.youtube.com/watch?v=PgHNHdz8F-Y) (Justin Joque)
 
-Open [IASSIST YouTube Channel](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g) for more<br /><br />
+Open [IASSIST YouTube Channel <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g) for more webinar and conference recordings. <br /><br />

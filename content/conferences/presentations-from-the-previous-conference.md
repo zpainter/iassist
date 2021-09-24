@@ -16,7 +16,16 @@ In some cases, the entire conference programme with presentations may be availab
 
 Host institutions: IASSIST
 
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2021/search?page=1&size=20&sort=conference_session" target="_blank">2021 Global Virtual Conference presentations (Zenodo)</a>
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2021/search?page=1&size=20&sort=conference_session" target="_blank">2021 Global Virtual Conference presentations (Zenodo)<i class="fas fa-external-link-alt"></i></a>
+
+<a class="btn btn-template-main" href="https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g/videos" target="_blank">2021 Global Virtual Conference recordings (YouTube)<i class="fas fa-external-link-alt"></i></a>
+
+<p>&nbsp;</p>
+
+#### Welcome session
+<div style="max-width:600px;">
+{{< youtube id="xKLnVljouZk" title="IASSIST GVC 2021 Welcome Session" >}}
+</div>
 
 
 <p>&nbsp;</p>
