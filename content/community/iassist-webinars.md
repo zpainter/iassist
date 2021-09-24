@@ -11,25 +11,24 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-No registrations open at the moment.
+<!--No registrations open at the moment.-->
 
-<!--
-#### Accessing linked health data in a COVID-world: What’s the state of play?
 
-This webinar organized by the IASSIST professional development committee on 6/4 at 11:30 am (EDT). 
+#### Understanding the 2020 US Census
 
-Speakers:
-: Richard Welpton, The Health Foundation
-: Deborah Wiltshire, UK Data Archive
-: Sarah Young, Carnegie Mellon
-: Eimmy Solis, University of Southern California
+This webinar organized by the IASSIST professional development committee on **September 29, 2021 at 2-3 pm EDT**. 
 
-> The COVID-19 situation has understandably instigated a vast effort to research and analyse the effects of this virus on healthcare systems in the short-term; longer-term initiatives will seek to examine the wider effects on society. The availability of data, both health-specific, and linked to social science data, is challenging and reflects the issues with accessing and using health data that many researchers have experienced in the past. Sadly, we have been unable to meet in person at IASSIST 2020 in Gothenburg:  but instead, we are organising a seminar to invite interested IASSIST members who support researchers seeking access to health and linked health data to come and share their experiences of accessing health data generally; and in particular, how they are supporting researchers with access to data about COVID-19.
+Speaker:
+: Dr. William P. O'Hare
 
-**[Register here](https://register.gotowebinar.com/register/1595216956417230860 "Register at GoToWebinar provided by ICPSR")**
+> This webinar will cover how the 2020 Census was conducted, what key trends and patterns have been revealed in the data that has been released so far, and how to understand the quality of the data produced from the Census. The presentation is designed for people who are unlikely to be familiar with the census details and meant to provide a broad understanding of this important national event. Part of the presentation will cover some of the important terms used by the Census Bureau in discussing how the Census was conducted and how the quality can be assessed.
+
+> Speaker Bio: Dr. O’Hare has used data from Census Bureau for more than 50 years primarily working for non-profit organizations. Dr. O’Hare has been on Census Bureau advisory committees, he has been a consultant to the Census Bureau, and from 2011-2013 he was a research fellow at the Census Bureau, focusing on the high net undercount of young children. He has written two books on the quality of the U.S. Census; "Differential Undercounts in the U.S. Census: Who is Missed?" and "The Undercount of Young Children in the U.S. Decennial Census."
+
+<a class="btn btn-template-main" href="https://myumi.ch/1p3AV" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 After registering, you will receive a confirmation email containing information about joining the webinar.  
--->
+
 
 ### Newest webinar recordings
 
