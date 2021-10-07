@@ -11,9 +11,9 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-<!--No registrations open at the moment.-->
+No registrations open at the moment.
 
-
+<!--
 #### Understanding the 2020 US Census
 
 This webinar organized by the IASSIST professional development committee on **September 29, 2021 at 2-3 pm EDT**. 
@@ -28,19 +28,21 @@ Speaker:
 <a class="btn btn-template-main" href="https://myumi.ch/1p3AV" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 After registering, you will receive a confirmation email containing information about joining the webinar.  
-
+-->
 
 ### Newest webinar recordings
+
+{{< youtube OR1I4h1Rx3M >}}
+
+<br />
 
 {{< youtube QGYse9iDPWI >}}
 
 - [Slides](https://t.co/b5wQXGVz9J "Webinar slides on Google Docs")
 
-<br />
-
-{{< youtube WE-kmduHahc >}}
 
 <br />
+- [Accessing linked health data in a COVID world: What’s the state of play?](https://www.youtube.com/watch?v=WE-kmduHahc) (Richard Welpton, Deborah Wiltshire, Yannis Kotrotsios, Sarah Young, Eimmy Solis)
 - [IASSIST Prof Dev presents Primerpalooza](https://www.youtube.com/watch?v=nw_Tk62-6mc) (Hannah Hadley, Elizabeth Blackwood, Amy Koshoffer, Margarita Corral, Peace Ossom-Williamson, Adam Kriesburg)
 - [Free Qualitative Data Analysis with Taguette and qcoder! an IASSIST webinar](https://www.youtube.com/watch?v=OIB_xLlM8Fw) (Beth Duckles, Vicky Steeves)
 - [Dueling CAQDAS Using Atlas ti and NVivo for Qualitative Data Analysis](https://www.youtube.com/watch?v=qCAB73zAjwk) (Florio Arguillas, Mandy Swygart-Hobaugh)
