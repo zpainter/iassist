@@ -9,7 +9,7 @@ draft = "false"
 
 <!--### Data By Design-->
 
-#### Gothenburg, Sweden, 8-10 June 2022
+#### Gothenburg, Sweden, 7-10 June 2022
 
 **Host institution:** Swedish National Data Service (SND)
 
