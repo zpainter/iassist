@@ -4,7 +4,7 @@ uid = "1"
 author = "administrator"
 title = "Fellows Program"
 oldpath = "/about/outreach.html"
-date = "2020-10-08 20:00:01 +0700"
+date = "2021-11-05 00:00:01 +0700"
 draft = "false"
 +++
 The mission of the **IASSIST Fellows Program** is to provide support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data and implementing information policy decisions at their home institutions. IASSIST Fellows has provided financial assistance to over 70 conference participants from around the world since 1997.
@@ -15,7 +15,7 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 - Check the [current year's conference website](/conferences) for information about the conference and applying, including deadlines.
 
-- See [Fellows application form](https://goo.gl/forms/yttyvLUetnheZH5Z2).
+- See [Fellows application form](https://forms.gle/Up684P867QNjH98P7).
 
 For more information, to apply for funding, or nominate a person for a
 fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
