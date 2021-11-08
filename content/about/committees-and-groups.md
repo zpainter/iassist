@@ -36,7 +36,7 @@ Coordinates activities meant to grow IASSIST membership and addresses needs of e
 - **2021-2023 Chair:** *Amanda Tickner, atickner [ at ] msu.edu*
 
 #### Elections Committee {#elections-committee}
-Responsible for receiving nominations for the election of the Administrative Committee, the Regional Secretaries, and the officers of IASSIST, distributing ballots and electoral information according to regulation, tallying the ballots, reporting on the results of the tally, and for recommending alterations in procedures. 
+Responsible for receiving nominations for the election of the Administrative Committee, the Regional Secretaries, and the officers of IASSIST, distributing ballots and electoral information according to regulation, tallying the ballots, reporting on the results of the tally, and for recommending alterations in procedures. This committee is chaired by the immediate Past President. Administrative Committee members at large not up for election assist the chair. 
 
 - **2021-2023 Chair:** *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi*
 
