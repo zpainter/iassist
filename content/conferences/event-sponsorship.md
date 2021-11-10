@@ -6,7 +6,7 @@ draft = "false"
 
 ### General description of the sponsorship
 
-Events consider for sponsorshi should gather data professionals from multiple institutions and may vary in size and scope from workshops, symposia, conferences, etc. These may be established events or new endeavors. We are particularly looking to sponsor regional or local level events that will attract data professionals who would benefit from IASSIST membership, but may not always be able to travel to attend IASSIST conferences. Preference will be given to events from underrepresented IASSIST membership areas as such as Africa, Asia/Pacific, Eastern Europe, and Latin/South America.
+Events consider for sponsorship should gather data professionals from multiple institutions and may vary in size and scope from workshops, symposia, conferences, etc. These may be established events or new endeavors. We are particularly looking to sponsor regional or local level events that will attract data professionals who would benefit from IASSIST membership, but may not always be able to travel to attend IASSIST conferences. Preference will be given to events from underrepresented IASSIST membership areas as such as Africa, Asia/Pacific, Eastern Europe, and Latin/South America.
 
 Requests for sponsorships may be monetary, and may also include a request for mentorship assistance by matching the event planning committee with an experienced IASSIST member with relevant expertise (e.g., conference planning, subject/content, geographic familiarity).
 
