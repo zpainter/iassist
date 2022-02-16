@@ -68,7 +68,7 @@ The group anticipates to compile a variety of resources that might otherwise be 
 #### Values and Ethics Statement Action Group {#values-and-ethics-statement-action-group}
 This group's mission is to develop and propose an IASSIST ethics statement to reflect and communicate the IASSIST membership's common values.
 
-- **2020-2022 Chair:** *Cameron Tuai, cameron.tuai [ at ] drake.edu*
+- **2020-2022 Chair:** *Jonas Recker, jonas-recker [ at ] gesis.edu*
 
 Read more: [Former Action Groups](/about/former-action-groups) 
 
