@@ -19,7 +19,7 @@ The annual conference is an international event. Conference locations reflect ou
 
 <a class="btn btn-template-main" href="./iassist-sweden-2022/" >IASSIST 2022, Sweden</a>
 
-Call for Papers and Workshops is now open!
+**Registration is now open!**
 
 
 > Please be aware that IASSIST Leadership and the Local Arrangements Committee in Sweden are monitoring the changing public health and travel issues related to COVID-19. While we fully intend to host the meeting in-person, we want to ensure the safety of everyone involved. Therefore, we encourage presenters and attendees to monitor the [conference website](https://www.iassist2022.org/) for the latest information.   

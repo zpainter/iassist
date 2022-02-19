@@ -18,12 +18,23 @@ The conference theme, "Data by Design: Building a Sustainable Data Culture", emp
 Call for Papers and Workshops has been closed.
 : All submissions were due by December 20, 2021. See the conference website for further information.
 
+**Registration is now open.** 
+
+Both in-person and remote participation is possible. We offer a reduced fee for IASSIST members and a separate student fee. Early bird registration is open until April 30, 2022. 
+
+Please note that all registration fees are in Swedish Krona. Early IASSIST member fee (incl. VAT) is 2700 SEK, which in mid-February is approximately 290 USD / 255 EURO. 
+
 <a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website</a>
 
-#### Chairs
+#### Programme Chairs
 - Ron Dekker, CESSDA, Norway
+- Ivana Ilijašić Veršić, CESSDA, Norway
 - Winny Nekesa Akullo, Public Procurement and Disposal of Public Assets Authority, Uganda
 - Richard Welpton, UKRI: Economic and Social Research Council, UK
+
+#### Local Arrangements Chairs
+- Iris Alfredsson, Olof Olsson and Matilda Lindmark, Swedish National Data Service, Sweden
+- Nina Bakanova, CESSDA ERIC, Norway
 
 Please be aware that IASSIST Leadership and the Local Arrangements Committee in Sweden are monitoring the changing public health and travel issues related to COVID-19.  While we fully intend to host the joint meeting in-person, we want to ensure the safety of everyone involved.  Therefore, we encourage presenters and attendees to monitor the conference website for the latest information.
 
