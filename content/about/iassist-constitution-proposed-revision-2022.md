@@ -24,7 +24,7 @@ draft = "false"
 
 ## Article I Name {#article1}
 
-The name of this organization shall be the International Association for Social Science Information Service and Technology / Association Internationale pour les Services et Techniques d’Information en Sciences Sociales, hereafter referred to as “IASSIST.”
+The name of this organization shall be the International Association for Social Science Information Service and Technology / Association Internationale pour les Services et Techniques d’Information en Sciences Sociales, hereafter referred to as "IASSIST."
 
 ## Article II Headquarters {#article2}
 
@@ -44,7 +44,7 @@ The activities of IASSIST are based upon the following objectives:
 
 **3.5** to promote data literacy;
 
-**3.6** to encourage and support research and production of data that supports IASSIST’s values;
+**3.6** to encourage and support research and production of data that supports IASSIST's values;
 
 **3.7** to encourage and support the establishment of, and the work done by, organizations focusing on the access, use, analysis, visualization, production, and preservation of data; and
 
@@ -158,7 +158,7 @@ The Executive Committee facilitates the work of the Administrative Committee as 
 
 The Constitution of IASSIST shall be amended by a two-thirds majority of those members voting, and a quorum participating via electronic ballot.  The results of such voting to go into effect immediately after the next Business Meeting of the General Assembly, provided that:
 
-(i) notice of the proposed amendments shall have been given in writing to the Standing Committee on Constitutional Review with the written support of the Administrative Committee or at least five (5) members in good standing of the Association; and 
+(i) notice of the proposed amendments shall have been given in writing to the Standing Committee on Constitutional Review with the written support of the Administrative Committee or at least five members in good standing of the Association; and 
 
 (ii) two months' notice of the proposed amendments is given in writing to all members of the Association prior to the conduct of the electronic ballot.
 
@@ -220,7 +220,7 @@ The Vice-President shall:
 
 (iii) participate as a voting member at both in-person and virtual meetings of the Administrative Committee and the Executive Committee;
 
-(iv) participate at the annual Business Meeting, all meetings of the Administrative Committee and the Executive Committee, and in any other business carried out via the Administrative Committee’s email and/or remote communication throughout the year; and 
+(iv) participate at the annual Business Meeting, all meetings of the Administrative Committee and the Executive Committee, and in any other business carried out via the Administrative Committee's email and/or remote communication throughout the year; and 
 
 (v) in the event of the resignation, death, or incapacity of the President, succeed as Acting President for the duration of the President's term. 
 
@@ -240,7 +240,7 @@ The Regional Secretaries shall:
 
 (vi) participate as a voting member at both in-person and virtual meetings of the Administrative Committee;                
 
-(vii) participate at the annual Business Meeting, all meetings of the Administrative Committee, and in any other business carried out via the Administrative Committee’s email and/or online conferencing throughout the year;      
+(vii) participate at the annual Business Meeting, all meetings of the Administrative Committee, and in any other business carried out via the Administrative Committee's email and/or online conferencing throughout the year;
 
 (viii) work closely with the chairs of the program committee and/or local arrangements committee when the annual conference is to be held in their region; and     
 
@@ -250,7 +250,7 @@ The Regional Secretaries shall:
 
 Members at Large shall:
 
-(i) participate in the Business Meeting of the General Assembly and as a voting member of the Administrative Committee, and in any other business carried out via the Administrative Committee’s email and/or online conferencing throughout the year;
+(i) participate in the Business Meeting of the General Assembly and as a voting member of the Administrative Committee, and in any other business carried out via the Administrative Committee's email and/or online conferencing throughout the year;
 
 (ii) provide input and support to IASSIST by providing ideas, feedback, and interests from the point of view of their region;
 
@@ -384,7 +384,7 @@ The Treasurer shall:
 
 **12.5.1** The Administrative Committee may appoint Action Groups and for every Action Group a Coordinator shall be appointed for a minimum of one year which may be renewed. If the establishment of an Action Group is made during the fiscal year, the Administrative Committee shall determine the duration of the term at the time of establishment.
 
-**12.5.2** A minimum of three (3) members of IASSIST may make application to the Administrative Committee for the establishment of an Action Group. 
+**12.5.2** A minimum of three members of IASSIST may make application to the Administrative Committee for the establishment of an Action Group. 
 
 **12.5.3** Action Groups shall be expected to undertake specific tasks, to find solutions to specific problems, or to develop and compile relevant materials for specific projects. The mandate or terms of reference of Action Groups shall be clearly defined, including the resources and time required and the specific nature of the output or product.
 
@@ -394,7 +394,7 @@ The Treasurer shall:
 
 **12.6.1** The Administrative Committee may appoint Interest Groups and for every Interest Group a Coordinator shall be appointed for a minimum of one year which may be renewed. If the establishment of an Interest Group is made during the fiscal year, the Administrative Committee shall determine the duration of the term at the time of establishment.
 
-**12.6.2** A minimum of five (5) members of IASSIST may make application to the Administrative Committee for the establishment of an Interest Group. 
+**12.6.2** A minimum of five members of IASSIST may make application to the Administrative Committee for the establishment of an Interest Group. 
 
 **12.6.3** Interest Groups shall be expected to disseminate information on specific subjects and to serve as a forum of discussion between as well as during annual meetings. 
 
