@@ -1,4 +1,10 @@
-#Anti-Racism Resources
+---
+title: "Anti-Racism Resources"
+date: 2022-02-24
+draft: false
+---
+
+## Anti-Racism Resources
 <p>In the wake of the murders of George Floyd, Breonna Taylor and  Ahmaud Arbery in 2020, among other (on-going) acts of violence against African Americans in the U.S., members of IASSIST felt compelled to gather materials that can help all of us better recognize, acknowledge and combat inherent racial bias. These members formed the Anti-Racism Resources Action Group in December of that year to compile the resources linked here.</p>
 
 <p>Resources are grouped into two categories:</p>
