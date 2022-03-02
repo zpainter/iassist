@@ -19,7 +19,7 @@ Please follow our Twitter feed and check out our page on Facebook, and see some 
 - [IASSIST on Twitter](https://twitter.com/iassistdata)
 - [IASSIST on YouTube](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
 - [IASSIST on Facebook](https://www.facebook.com/iassistdata/)
-- [IASSIST on Linked in](http://www.linkedin.com/groups?home=&amp;gid=113890&amp;trk=anet_ug_hm)
+- [IASSIST on Linked in](https://www.linkedin.com/groups/113890/)
 - [IASSIST on Flickr](http://www.flickr.com/search/?w=all&amp;q=iassist&amp;m=text)
 
 ### Tweets by IASSISTDATA

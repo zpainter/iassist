@@ -8,7 +8,11 @@ date = "2012-01-27 13:09:55 -0700"
 draft = "false"
 +++
 
-**[Proposed revision of the IASSIST Constitution](/about/iassist-constitution-proposed-revision-2022)**
+<div style="background-color:#eee;padding:.5em;border:solid 1px gray;">
+March 2, 2022<br /><strong><a href="../iassist-constitution-proposed-revision-2022/" >Proposed revision of the IASSIST Constitution</a></strong> (Endorsed by the IASSIST Administrative Committee)
+</div>
+
+<br />
 
 *Endorsed by the Administrative Committee September 20, 2011. Approved by the Membership December 19, 2011* *Effective following the annual Business Meeting June 6, 2012, Washington, DC.*
 

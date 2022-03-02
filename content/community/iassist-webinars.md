@@ -32,16 +32,14 @@ After registering, you will receive a confirmation email containing information 
 
 ### Newest webinar recordings
 
+{{< youtube MbKw3LR2rVo >}}
+
+<br />
+
 {{< youtube OR1I4h1Rx3M >}}
 
 <br />
-
-{{< youtube QGYse9iDPWI >}}
-
-- [Slides](https://t.co/b5wQXGVz9J "Webinar slides on Google Docs")
-
-
-<br />
+- [Data as Relation: Indigenous Data Sovereignty and Ethics of Care](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son) ([Webinar slides on Google Docs](https://t.co/b5wQXGVz9J))
 - [Accessing linked health data in a COVID world: What’s the state of play?](https://www.youtube.com/watch?v=WE-kmduHahc) (Richard Welpton, Deborah Wiltshire, Yannis Kotrotsios, Sarah Young, Eimmy Solis)
 - [IASSIST Prof Dev presents Primerpalooza](https://www.youtube.com/watch?v=nw_Tk62-6mc) (Hannah Hadley, Elizabeth Blackwood, Amy Koshoffer, Margarita Corral, Peace Ossom-Williamson, Adam Kriesburg)
 - [Free Qualitative Data Analysis with Taguette and qcoder! an IASSIST webinar](https://www.youtube.com/watch?v=OIB_xLlM8Fw) (Beth Duckles, Vicky Steeves)
