@@ -30,15 +30,20 @@ Speaker:
 After registering, you will receive a confirmation email containing information about joining the webinar.  
 -->
 
-### Newest webinar recordings
+### Most recent webinar recordings
+
+#### De-identifying Qualitative Data
 
 {{< youtube MbKw3LR2rVo >}}
 
 <br />
 
+#### Understanding the 2020 US Census
+
 {{< youtube OR1I4h1Rx3M >}}
 
 <br />
+
 - [Data as Relation: Indigenous Data Sovereignty and Ethics of Care](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son) ([Webinar slides on Google Docs](https://t.co/b5wQXGVz9J))
 - [Accessing linked health data in a COVID world: What’s the state of play?](https://www.youtube.com/watch?v=WE-kmduHahc) (Richard Welpton, Deborah Wiltshire, Yannis Kotrotsios, Sarah Young, Eimmy Solis)
 - [IASSIST Prof Dev presents Primerpalooza](https://www.youtube.com/watch?v=nw_Tk62-6mc) (Hannah Hadley, Elizabeth Blackwood, Amy Koshoffer, Margarita Corral, Peace Ossom-Williamson, Adam Kriesburg)
