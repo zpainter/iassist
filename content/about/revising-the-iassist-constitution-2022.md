@@ -71,5 +71,5 @@ Article 12 By-laws
 ***Note:  Other edits have been made in numbering and in the standardization of text.***
  
 #### Current constitution
-[» as revised in 2010](/about/iassist-constitution)
+[» as revised in 2012](/about/iassist-constitution)
 
