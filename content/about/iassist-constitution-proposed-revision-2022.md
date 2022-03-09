@@ -4,8 +4,15 @@ title = "IASSIST Constitution Proposed Revision 2022"
 date = "2022-02-18 08:00:00 -0700"
 draft = "false"
 +++
-***IASSIST CONSTITUTION: PROPOSED REVISION Spring 2022***  
+<div style="background-color:#eee;padding:.5em;border:solid 1px gray;">
+<strong><em>IASSIST CONSTITUTION: PROPOSED REVISION Spring 2022</em></strong>
+
 If ratified by the general membership, taking effect at the close of the business meeting in June 2022.
+
+» [Summary of the substantive amendments, article by article](/about/revising-the-iassist-constitution-2022/).
+</div>
+
+<br />
 
 <!--
 *Endorsed by the Administrative Committee September 20, 2011. Approved by the Membership December 19, 2011* *Effective following the annual Business Meeting June 6, 2012, Washington, DC.*

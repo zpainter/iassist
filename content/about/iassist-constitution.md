@@ -9,7 +9,7 @@ draft = "false"
 +++
 
 <div style="background-color:#eee;padding:.5em;border:solid 1px gray;">
-March 2, 2022<br /><strong><a href="../iassist-constitution-proposed-revision-2022/" >Proposed revision of the IASSIST Constitution</a></strong> (Endorsed by the IASSIST Administrative Committee)
+March 2, 2022<br />See <strong><a href="../iassist-constitution-proposed-revision-2022/" >Proposed revision of the IASSIST Constitution</a></strong> (Endorsed by the IASSIST Administrative Committee)
 </div>
 
 <br />
