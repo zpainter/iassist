@@ -470,7 +470,7 @@ Whenever voting is required, the voting methods shall be one of the following:
 **12.10.9** Members of the regional chapter must be members in good standing of IASSIST. 
  
 #### Current constitution
-[» as revised in 2010](/about/iassist-constitution)
+[» as revised in 2012](/about/iassist-constitution)
 
 #### Previous constitution
 [» as revised in 2005](/about/constitution-2005)
