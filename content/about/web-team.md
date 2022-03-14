@@ -14,7 +14,7 @@ draft = "false"
 |Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu|	
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, ajester [ at ] stanford.edu  |
-|Social media Editor		|Laurence Horton, hortonlaurence [ at ] gmail.com  |
+|Social media Editor		|Sebastian Karcher, Lynda Kellam
 |iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |
 |Mentorship pages			|Abay Israel  |
 |Jobs Repository Editor		|Vacant |
