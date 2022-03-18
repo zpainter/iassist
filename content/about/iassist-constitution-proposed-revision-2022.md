@@ -169,7 +169,7 @@ The Constitution of IASSIST shall be amended by a two-thirds majority of those m
 
 (i) notice of the proposed amendments shall have been given in writing to the Standing Committee on Constitutional Review with the written support of the Administrative Committee or at least five members in good standing of the Association; and
 
-(ii) two months' notice of the proposed amendments is given in writing to all members of the Association prior to the annual Business Meeting and the electronic ballot.
+(ii) two months' notice of the proposed amendments is given in writing to all members of the Association prior to the annual Business Meeting and the vote.
 
 ## Article XI Dissolution {#article11}
 
