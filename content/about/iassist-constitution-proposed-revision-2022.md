@@ -165,11 +165,11 @@ The Executive Committee facilitates the work of the Administrative Committee as 
 
 ## Article X Amendments {#article10}
 
-The Constitution of IASSIST shall be amended by a two-thirds majority of those members voting, and a quorum participating via electronic ballot.  The results of such voting to go into effect immediately after the next Business Meeting of the General Assembly, provided that:
+The Constitution of IASSIST shall be amended by a two-thirds majority of those members voting, and a quorum participating via electronic ballot no later than 30 days after the Business Meeting. The results of such voting to go into effect immediately, provided that:
 
-(i) notice of the proposed amendments shall have been given in writing to the Standing Committee on Constitutional Review with the written support of the Administrative Committee or at least five members in good standing of the Association; and 
+(i) notice of the proposed amendments shall have been given in writing to the Standing Committee on Constitutional Review with the written support of the Administrative Committee or at least five members in good standing of the Association; and
 
-(ii) two months' notice of the proposed amendments is given in writing to all members of the Association prior to the conduct of the electronic ballot.
+(ii) two months' notice of the proposed amendments is given in writing to all members of the Association prior to the annual Business Meeting and the electronic ballot.
 
 ## Article XI Dissolution {#article11}
 
