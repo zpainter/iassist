@@ -32,6 +32,9 @@ Article 8 Meetings
 Article 10 Amendments
 : 10.1 Clarified how the constitution shall be amended.  Note that a quorum is to be defined as 25% of the membership, changed from 40 members. Quorum defined in new Article 12.7.
 
+Note 3/17/2022
+: The administrative committee has approved changes to the details of how the constitution shall be amended. The sequence has been clarified whereby there shall be a two month notice to the membership of proposed amendments followed by the annual business meeting.  Within 30 days of the business meeting there shall be a vote by members in good standing to ratify the revised constitution. Following the vote to ratify, the constitution shall go into immediate effect.
+
 Article 11 Dissolution
 : 11.2 All property and funds of IASSIST will be transferred to an organization chosen by the Administrative Committee.  Removed transfer to UNESCO.
 
