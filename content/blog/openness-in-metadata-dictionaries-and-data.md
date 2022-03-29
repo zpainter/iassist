@@ -1,6 +1,6 @@
 +++
 author = "IQ Editor"
-title = "Editor's Notes: IASSIST gone glocal"
+title = "Editor's Notes: Openness in metadata, dictionaries and data"
 tags = [ "News and Announcements", "IQ",]
 date = "2022-03-28 07:00:00 -0700"
 draft = "false"
