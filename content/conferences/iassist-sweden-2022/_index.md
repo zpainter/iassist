@@ -22,9 +22,11 @@ Call for Papers and Workshops has been closed.
 
 Both in-person and remote participation is possible. We offer a reduced fee for IASSIST members and a separate student fee. Early bird registration is open until April 30, 2022. 
 
-Please note that all registration fees are in Swedish Krona. Early IASSIST member fee (incl. VAT) is 2700 SEK, which in mid-February is approximately 290 USD / 255 EURO. 
+Please note that all registration fees are in Swedish Krona. Early IASSIST member fee (excluding VAT) is 2700 SEK, which in mid-February conversion rate is approximately 290 USD / 255 EURO. 
 
 <a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website</a>
+
+<br />
 
 #### Programme Chairs
 - Ron Dekker, CESSDA, Norway

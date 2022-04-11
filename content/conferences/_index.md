@@ -10,6 +10,7 @@ The conference consists of workshops focused on the profession, stimulating plen
 
 The annual conference is an international event. Conference locations reflect our membership base and typically rotate to a different region each year.
 
+&nbsp;Please familiarize yourself with the **[Code of Conduct](/community/code-of-conduct) pertaining to all IASSIST events.**
 
 <div style="background-color:#fdebd0;font-weight:bold;padding:.5em;font-size:140%;">Forthcoming and Recent Conferences</div>
 
@@ -25,6 +26,8 @@ The annual conference is an international event. Conference locations reflect ou
 > Please be aware that IASSIST Leadership and the Local Arrangements Committee in Sweden are monitoring the changing public health and travel issues related to COVID-19. While we fully intend to host the meeting in-person, we want to ensure the safety of everyone involved. Therefore, we encourage presenters and attendees to monitor the [conference website](https://www.iassist2022.org/) for the latest information.   
 
 Questions and concerns can be directed to the Executive Committee via IASSIST President Sandra Cannon.
+
+</div>
 
 ### 2021 IASSIST Events
 
@@ -42,8 +45,8 @@ A joint IASSIST/CESSDA meeting in Gothenburg, Sweden had to be cancelled. Those 
 
 <br />
 
-&nbsp;Please familiarize yourself with the **[Code of Conduct](/community/code-of-conduct) pertaining to all IASSIST events.**
+### Past Conferences
 
-</div>
+**[Conference Archive](/conferences/archive)** captures the rich history of IASSIST conferences.
 
 <br />
