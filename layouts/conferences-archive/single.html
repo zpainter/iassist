@@ -27,11 +27,14 @@
                           {{ $path := printf "%s" .Params.datalink }}
                           {{ $data := (getJSON $path) }}
                           <h2> {{ $data.title }} </h2>
-                          <h3> Host city: {{ $data.city }}</h3>
-                          <h3> Dates: {{ $data.dateText }}</h3>
-                          <h4> Program </h4>
+                          <h3>Host city: {{ $data.city }}</h3>
+                          <p><strong>Host:</strong> {{ $data.host }}</p> 
+                          <p><strong>Dates:</strong> {{ $data.dateText }}</p>
+                          <p><strong>Ordinal:</strong> {{ $data.conferenceNum }}</p>
+                          <p><strong><a href="{{ $data.conferenceUrl }}">Conference website</a></strong></p>
+                          <h3> Program </h3>
                           {{ range $s := $data.sessions }}
-                            <div class="conference-session"> <h5>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h5></div>
+                            <div class="conference-session"> <h4>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h4></div>
                             {{ range $p := $s.presentations }}
                               <div class="conference-presentation">{{ $p.title }}</div>
                               {{ range $pr := $p.presenters }}
