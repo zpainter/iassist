@@ -15,9 +15,9 @@ Name: has_js
 : Use: Used by iassistdata.org to detect if the visitor has JavaScript enabled. 
 : 1st Party
 
-## Statistical cookies on iassistdata.org
+## Statistics cookies on iassistdata.org
 
-We use statistical third party cookies only to understand how our visitors use the website and how we can improve the user experience. The data collected is anonymized and cannot be used to identify the user. You may decline the use of these cookies at any time by using the cookie banner. 
+We use third party statistcs cookies to understand how our visitors use the website and how we can improve the user experience. The data collected is anonymized and cannot be used to identify the user. You may decline the use of these cookies at any time by using the cookie banner. 
 
 Name: _ga
 : Domain: google.com
@@ -26,6 +26,12 @@ Name: _ga
 : Type: 3rd Party
 
 Name: _gat
+: Domain: google.com
+: Expiration: 1 minute
+: Use: Used by Google Analytics to throttle request rate.
+: Type: 3rd Party
+
+Name: _gat_ua-(+string)
 : Domain: google.com
 : Expiration: 1 minute
 : Use: Used by Google Analytics to throttle request rate.
