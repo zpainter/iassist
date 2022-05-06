@@ -18,7 +18,7 @@ Voting members of the Administrative Committee have been marked with *.
 **President** *
 
 San Cannon,
-sandra.cannon [ at ] rochester.edu
+sancan99 [ at ] gmail.com
 
 **Vice-President** *
 
@@ -28,7 +28,7 @@ robin.rice [ at ] ed.ac.uk
 **Secretary** *
 
 Lynda Kellam,
-lmk277 [ at ] cornell.edu
+lmkellam [ at ] upenn.edu
 
 **Treasurer** *
 
@@ -195,12 +195,12 @@ term| | |
 1976-1979 | Carolyn Geda |  Visit the membership database<!--cg3 [ at ] ix.netcom.com-->|
 1979-1982 | Alice Robbin |  Visit the membership database<!--arobbin [ at ] indiana.edu--> |
 1982-1985 | Katherine (Sue) Bryant  |  Visit the membership database<!--bryant.sue [ at ] tbs-sct.gc.ca--> |
-1985-1988 | Judith Rowe |  Visit the membership database<!--judith [ at ] princeton.edu--> |
+1985-1988 | Judith Rowe |  <!--judith [ at ] princeton.edu--> |
 1988-1991 | Thomas Brown |  Visit the membership database<!--ThomasEBrownDC [ at ] aol.com--> |
 1991-1995 | Charles Humphrey |  Visit the membership database<!--chuck.humphrey [ at ] ualberta.ca--> |
 1995-1997 | Elizabeth Stephenson |  libbie [ at ] ucla.edu |
 1997-2001 | Peter Burnhill |  peter.burnhill [ at ] gmail.com |
-2001-2005 | Ann Green |  dlifecycle [ at ] gmail.com |
+2001-2005 | Ann Green |  green.ann [ at ] gmail.com |
 2005-2007 | Ernie Boyko |  boykern [ at ] yahoo.com |
 2007-2011 | Melanie Wright |  Visit the membership database <!--melanie [ at ] essex.ac.uk --> |
 2011-2015 | Bill Block |  block [ at ] cornell.edu |
