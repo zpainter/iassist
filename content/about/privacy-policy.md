@@ -46,7 +46,7 @@ You ("data subject") directly provide IASSIST with most of the information we co
 - join and post on our discussion lists 
 - use or view our websites via your browser's cookies 
 - allow your name or other personal details to appear in the conference attendee list or a virtual platform
-- you submit an article to the IASSIST Quarterly
+- submit an article to the IASSIST Quarterly
 
 ## How do we use the data we collect about you?
 
