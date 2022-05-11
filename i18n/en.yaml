@@ -77,7 +77,7 @@
   translation: "Error 404: Page not found.<br /><br />IASSIST website has recently undergone a major revision, and some old content is yet to be transferred. Also the link that you followed may simply be broken.<br /><br />Please use the search to locate the missing content, and let us know. We will do our best to fix it."
 
 - id: 404Zenodo
-  translation: "All conference presentations have been moved to Zenodo, and there are only session structures linking to Zenodo on the iassistdata.org. Here are some on tips to locate the presentation that you were looking for:<br /><br />Presentations are organized into annual collections on Zenodo. These communities are named after the conference year, e.g. https://zenodo.org/communities/iassist-2019/<br /><br />To locate a presentation, we primarily suggest searching '+author +iassist' on Zenodo.<br />E.g. https://zenodo.org/search?page=1&size=20&q=%2BRuus%20%2Biassist"
+  translation: "All conference presentations have been moved to Zenodo, and there are only session structures linking to Zenodo on the iassistdata.org. Here are some on tips to locate the presentation that you were looking for:<br /><br />Presentations are organized into annual collections on Zenodo. These communities are named after the conference year, e.g. https://zenodo.org/communities/iassist-2021/<br /><br />To locate a presentation, we primarily suggest searching '+author +iassist' on Zenodo.<br />E.g. https://zenodo.org/search?page=1&size=20&q=%2BRuus%20%2Biassist"
 
 - id: 404NavHome
   translation: "Go to homepage"

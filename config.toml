@@ -125,22 +125,29 @@ paginate = 10
     email = "iassistwebmaster@gmail.com"
     contact_form_ajax = false
 
-    about_us = "<p>IASSIST is an international organization of professionals working in and with information technology and data services to support research and teaching in the social sciences and beyond</p>"
-    copyright = "Content licensed by Creative Commons BY 4.0" #Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
+    about_us = "IASSIST is an international organization of professionals working in and with information technology and data services to support research and teaching in the social sciences and beyond"
+
+    privacy_policy = """/about/privacy-policy/"""
+    code_of_conduct = """/community/code-of-conduct/"""	
+    
+    copyright = "Content licensed by Creative Commons BY 4.0" 
+    # Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p class=""><strong>IASSIST at your service</strong>
+    
+	address = """<p class=""><strong>IASSIST at your service</strong>
         <br /><a href="/about/officials/">&raquo; Contact Officials</a>
         <br /><a href="/about/become-a-member/">&raquo; Manage Membership</a>
-        <br /><a href="/about/web-team/">&raquo; Contact Web Team</a>		
+        <br /><a href="/about/web-team/">&raquo; Contact Web Team</a>
         <br /><strong></strong>
       </p>
       """
-    latitude = "44.9769102"
+    
+	latitude = "44.9769102"
     longitude = "-93.2562968"
 
 [Permalinks]
@@ -179,15 +186,15 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = ""
 
 [params.see_more]
     enable = false
     icon = "far fa-file-alt"
     title = "IASSIST on Social Media"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    subtitle = ""
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = ""
 
 [params.clients]
     enable = true
