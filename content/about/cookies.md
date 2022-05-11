@@ -5,6 +5,8 @@ draft: false
 ---
 We use cookies to improve the online experience of our users and to ensure that users can control the use of cookies according to their preference. IASSIST does not use marketing cookies, but embedded content for example from YouTube or Twitter may set cookies in accordance to their cookie policy. 
 
+More detailed information on how IASSIST processes your personal data, including cookies, can be found in out [privacy policy](/about/privacy-policy).  
+
 ## Necessary cookies on iassistdata.org
 
 You cannot reject these cookies as they are necessary to provide the service.
