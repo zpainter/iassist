@@ -6,7 +6,6 @@ draft = "false"
 
 <a class="btn btn-template-main" href="https://whova.com/web/iassi_202102/" target="_blank" title="(Opens to a new tab)">Thank you for participating!</a>
 
-<br />
 **The IASSIST Global Virtual Conference (GVC) was held on May 17-20, 2021. Workshops were held the week prior.**
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2021/search?page=1&size=20&sort=conference_session" target="_blank">2021 Global Virtual Conference presentations (Zenodo)<i class="fas fa-external-link-alt"></i></a>
@@ -33,8 +32,6 @@ Questions about the GVC can be sent to Program Chairs at: *iassist-virtual-2021 
 - Stephanie Tulley, Federal Reserve Bank of Cleveland, USA
 
 The IASSIST GVC is part of the 46th Annual Conference IASSIST 2021
-
-If you rolled over your IASSIST 2020 registration fees, please email *iassist2021 [ at ] meetx.se* to initiate the refund process.
 
 Host institution: IASSIST
 
