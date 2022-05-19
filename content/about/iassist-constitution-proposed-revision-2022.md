@@ -7,7 +7,7 @@ draft = "false"
 <div style="background-color:#eee;padding:.5em;border:solid 1px gray;">
 <strong><em>IASSIST CONSTITUTION: PROPOSED REVISION Spring 2022</em></strong>
 
-If ratified by the general membership, taking effect at the close of the business meeting in June 2022.
+Ratified by the general membership May 19, 2022, taking effect at the close of the business meeting in June 2022.
 
 » [Summary of the substantive amendments, article by article](/about/revising-the-iassist-constitution-2022/).
 </div>
@@ -15,7 +15,7 @@ If ratified by the general membership, taking effect at the close of the busines
 <br />
 
 <!--
-*Endorsed by the Administrative Committee September 20, 2011. Approved by the Membership December 19, 2011* *Effective following the annual Business Meeting June 6, 2012, Washington, DC.*
+*Endorsed by the Administrative Committee March 2, 2022. Approved by the Membership May 18, 2012* *Effective following the annual Business Meeting June 9, 2022, Gothenburg, Sweden.*
 -->
 
 1.  [Name](#article1)
