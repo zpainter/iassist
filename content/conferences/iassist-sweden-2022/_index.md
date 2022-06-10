@@ -18,7 +18,7 @@ The conference theme, "Data by Design: Building a Sustainable Data Culture", emp
 Call for Papers and Workshops has been closed.
 : All submissions were due by December 20, 2021. See the conference website for further information.
 
-**Registration is now open.** 
+**Thank you for attending.** 
 
 Both in-person and remote participation is possible. We offer a reduced fee for IASSIST members and a separate student fee. Early bird registration is open until April 30, 2022. 
 
