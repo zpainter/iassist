@@ -11,6 +11,9 @@ draft = "false"
 
 Visit the **[Committees and Groups]({{< ref "committees-and-groups.md#interest-groups" >}})** page to see which Interest Groups are active at the moment. <br /><br />
 
+#### [Health Data Interest Group](/community/health-data-interest-group) (HDIG) {#health-data-interest-group}
+The availability of health data about individuals, gathered from surveys or health care systems, are an invaluable resource for researchers who wish to examine interactions between individuals and the healthcare they receive. In addition, there is now much more demand for research and analysis of linked health and social data (for example, health records linked with education or social security records). Particular challenges face data professionals who seek to acquire health, and linked health data. The IASSIST Health Data Interest Group was established to bring together data practitioners and technicians who manage access to health, and health-linked data for research purposes, in order to share expertise and enable members to overcome challenges in their day-to-day roles.  
+
 #### [Data Visualization Interest Group](/community/dvig) (DVIG) {#data-vizualization-interest-group}
 This group focused on promoting a greater understanding of data visualization -- its creation, uses, and importance in research, across disciplines. Data Visualization supports a means to make sense of data, through visual representation, and to communicate ideas and information effectively. Particular areas of focus and discussions included, but were not limited to the following: :   
 

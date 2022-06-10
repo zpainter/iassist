@@ -11,6 +11,12 @@ draft = "false"
 
 Visit the **[Committees and Groups]({{< ref "committees-and-groups.md#action-groups" >}})** page to see which Action Groups are active at the moment. <br /><br />
 
+#### Anti-Racism Resources Action Group {#anti-racism-resources-action-group}
+<!--#### [Anti-Racism Resources Action Group](/community/anti-racism-resources-action-group) {#anti-racism-resources-action-group}-->
+The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc. Matured into an interest group in 2022.
+
+- **2020-2022 Chair:** *Michele Hayslett*
+
 ### Program Planning Manual Action Group
 Produced a new version of the [Program Planning Manual]({{< ref "program-planning-manual.md" >}})
 
