@@ -11,7 +11,7 @@ draft = "false"
 
 [Text of the current Constitution](/about/iassist-constitution)
 
-The previous constitution is archived below.
+The previous constitution is archived below. [(Changes highlighted)](/about/revising-the-iassist-constitution-2022/)
 
 *Endorsed by the Administrative Committee September 20, 2011. Approved by the Membership December 19, 2011* *Effective following the annual Business Meeting June 6, 2012, Washington, DC.*
 
