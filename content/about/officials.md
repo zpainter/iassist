@@ -160,7 +160,7 @@ Ann Green, green.ann [ at ] gmail.com
 
 **Professional Development Committee**
 
-Amy Pienta, apienta [ at ] umich.edu and Bobray Bordelon, bordelon [ at ] princeton.edu
+Sarah Young sarahy [ at ] andrew.cmu.edu and Bobray Bordelon, bordelon [ at ] princeton.edu
 
 **IASSIST Fellows**
 
@@ -178,7 +178,7 @@ Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
-**Conference Program Committee 2022**
+**Conference Program Committee 2023**
 
 TBA
 
