@@ -171,6 +171,12 @@ div.home-carousel {
 
 /* -- Accessibility section ends -- */
 
+/*Always hide conference abstracts at first, implemented in templates instead*/
+/*
+div.abstract {
+    color:red;
+}
+*/
 
 /* Styles for an optional link button. Not in use. */
 .linkButton {
