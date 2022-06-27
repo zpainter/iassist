@@ -1,12 +1,13 @@
 {
     "conferenceYear": "2017",
     "title": "IASSIST 2017 \u2013 Data in the Middle: The common language of research",
+	"host": "University of Kansas and co-hosted by Kansas University Libraries, Institute for Policy and Social Research, Kansas City Federal Reserve Bank",
     "city": "Lawrence",
     "dateText": "May 23-26, 2017",
     "startDate": "2017-05-23",
     "endDate": "2017-05-26",
     "conferenceNum": "43",
-    "conferenceUrl": "http://iassist17.dept.ku.edu/",
+    "conferenceUrl": "https://web.archive.org/web/20171211185909/http://www.iassist2017.org:80/",
     "oldPath": "/conferences/2017/description/7835",
     "nid": "7835",
     "postDate": "2019-04-22 12:21:56 -0700",
@@ -26,7 +27,32 @@
             "oldPath": "/conferences/2017/session/7649",
             "nid": "7649",
             "postDate": "2018-03-16 07:21:32 -0700",
-            "presentations": []
+            "presentations": [
+            {
+                    "year": "2017",
+                    "title": "Plenary 1: Data Writ Large: Technology, Culture and Collision",
+                    "abstract": "Big data and deep learning are the memes of the day, as we shift from a world where data was rare, precious, and expensive to one where it is ubiquitous, commonplace, and inexpensive. Massive digital data, powerful multilayer classification networks, and inexpensive hardware accelerators are bringing new data-driven approaches to discovery, challenging some long held beliefs, and illuminating old questions in new ways. Spanning our social experiences (think Netflix or Facebook), business and economics (automation of both physical and intellectual tasks), and research and scholarship (manuscript analysis via feature extraction or digital analysis of large text corpora). Like any new tool or technology, big data challenges and reshapes both our social and technical expectations.  This talk will discuss these challenges – how we reached this point — and where we are likely to go, including privacy and security, streaming data (sometimes called the Internet of Things), and the likely and possible futures of current and future data technologies.",
+                    "presenters": [
+                        {
+                            "name": "Daniel Reed",
+                            "institution": "University of Iowa"
+                        }
+                    ],
+                    "files": []
+                },
+                {
+                    "year": "2017",
+                    "title": "Plenary 2: Digital Agriculture: The Midwest Big Data Hub and Global Food Security",
+                    "abstract": "This presentation will describe the Midwest Big Data Hub and its focus on Digital Agriculture as a critical challenge for the 21st century. If the global population reaches over 9.5 billion by 2050, as expected, it is estimated that world food production must increase by 70%. Meeting these projected demands for food and feed will be a challenge while facing dwindling natural resources and climate variability. Significant advances in basic and applied interdisciplinary research, as well as in data and computational capabilities, must be achieved in order to better understand agro-ecosystems and leverage the services they provide. Underlying this economic and societal challenge are multiple data challenges, from data sharing to data privacy to data fusion. Brief overviews will be given of several high-impact data projects involving the Midwest and Great Plains regions, and ways to participate in the Big Data Hubs",
+                    "presenters": [
+                        {
+                            "name": "Jennifer Clarke",
+                            "institution": "University of Nebraska Lincoln"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2017",

@@ -1,6 +1,7 @@
 {
     "conferenceYear": "2015",
     "title": "Bridging the data divide: Data in the international context",
+    "host": "Minnesota Population Center at the University of Minnesota",
     "city": "Minneapolis",
     "dateText": "June 2-5, 2015",
     "startDate": "2015-06-02",
@@ -26,24 +27,44 @@
             "oldPath": "/conferences/2015/session/6907",
             "nid": "6907",
             "postDate": "2016-02-23 14:15:17 -0700",
-            "presentations": []
-        },
-        {
-            "year": "2015",
-            "day": "2015-06-02",
-            "title": "Workshops 2015",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Workshop",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "6841",
-            "oldPath": "/conferences/2015/session/6842",
-            "nid": "6842",
-            "postDate": "2015-12-01 11:31:43 -0700",
-            "presentations": []
+            "presentations": [
+                 {
+                    "year": "2015",
+                    "title": "Plenary 1: The History of Data: Technological Change and the Census, 1790-2020",
+                    "abstract": "The most important innovations in data and data processing between 1850 and 1975 were responses to the needs of the U.S. Census, which posed the world’s greatest data-processing challenges for much of this period. Among other innovations, the U.S. Census led directly to the development of the first punch cards, the first highspeed card tabulators, the first commercial electronic computer, the first high-speed optical mark recognition system, the first large-scale  publicly–accessible electronic data files, and the first digital street map. Today, census data are at the center of a big microdata revolution that promises to transform social science research. The Minnesota Population Center is leading a collaborative project to make the 2.2 billion records of U.S. census data collected from 1790 to 2020 available to researchers in a consistent format, and to link them across time and to other sources, including administrative records, vital records, surveys, and environmental data. The new data will allow extraordinary new opportunities for spatiotemporal longitudinal analysis, allowing researchers to trace individuals across the life course and families across generations, enabling the study of economic and geographic mobility, the impact of early life conditions on later outcomes, and the effects of policy on health and well-being.",
+                    "presenters": [
+                        {
+                            "name": "Steven Ruggles",
+                            "institution": ""
+                        }
+                    ],
+                    "files": []
+                },
+                {
+                    "year": "2015",
+                    "title": "Plenary 2: Measuring the Digital Divide: Using Existing Data Sources and New Data Collection to Understand Between-Country Differences",
+                    "abstract": "The Internet has already changed many aspects of peoples’ lives in developed economies and has provided far-reaching economic and social benefits. Extending these opportunities is critical to accelerating economic and social growth in developing economies as well. Many international organizations have set ambitious plans to promote Internet access globally; they pore over reports and expend considerable money, time and talent exploring new ways to connect the unconnected (e.g., blimps, drones, satellites). But raw enthusiasm and aggregate statistics fail to capture the reality of the digital divide in the developing world. Facebook’s commitment to connecting the developing world includes a desire to understand the complexity of the issue as it relates to the cultural, structural and technological inequalities between and within countries. This approach requires bringing together insights from large number of publicly available data sources that employ different methodologies to understanding the multi-faceted nature of the digital divide, even when the assembled sources of data reach different conclusions. In this talk, researchers from Facebook will discuss the difficulties and limitations often faced by aggregating numerous country-specific data sources together to measure the extent, cause and consequences of differences in Internet adoption between countries and populations. They will explain how Facebook evaluates the quality of existing publicly available data sources (e.g., national statistics, academic studies and industry reports), aggregates multiple sources to obtain relevant estimates and supplement data “holes” with original data collection efforts. The multi-faceted approach allows Facebook to conduct scalable and comprehensive comparative analyses at multiple levels, which in turn leads to more culturally-sensitive and context-specific approaches for bridging the digital divide.",
+                    "presenters": [
+                        {
+                            "name": "Curtiss Cobb",
+                            "institution": "Facebook"
+                        }
+                    ],
+                    "files": []
+                },
+                {
+                    "year": "2015",
+                    "title": "Plenary 3: Politics of Open Data",
+                    "abstract": "Hear from an elected official who oversaw the implementation of an open data policy in the City of Minneapolis. This presentation will discuss the dynamics and challenges of policy creation and passage, along with answering the critical question of “what’s next?” Including measuring success and evolving the policy, portal, and culture along the way. Andrew Johnson was elected November 5th, 2013 and is the first millennial to serve on the Minneapolis City Council. He brings a unique perspective as the first IT professional to serve on the council, with eight years of experience as a systems engineer at Target Corporation. Andrew believes in the importance of a transparent, responsive government. Nationally he pioneered the concept of a federal taxpayer receipt, a concept which was later implemented by the Obama Administration. He has been working with his colleagues on open data to ensure government information is more accessible to the public. Andrew has been a champion of this issue, with recent progress including the City’s launch of its open data portal at the end of 2014.",
+                    "presenters": [
+                        {
+                            "name": "Andrew Johnson",
+                            "institution": "City of Minneapolis"
+                        }
+                    ],
+                    "files": []
+                }
+			]
         },
         {
             "year": "2015",

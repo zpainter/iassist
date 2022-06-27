@@ -1,11 +1,13 @@
 {
   "conferenceYear": "2019",
   "title": "IASSIST 2019: Data down under: Exploring \"data firsts\"",
+  "host": "Australian Data Archive, the University of New South Wales, Aristotle Metadata, and the Australian Consortium for Social and Political Research, Inc. (ACSPRI)",
   "city": "Sydney",
   "dateText": "May 27-31, 2019",
   "startDate": "2019-05-27",
   "endDate": "2018-05-31",
   "conferenceNum": "45",
+  "conferenceUrl": "https://www.iassist2019.org/",
   "sessions": [
     {
       "title": "A1",

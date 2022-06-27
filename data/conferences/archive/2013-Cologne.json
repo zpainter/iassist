@@ -1,12 +1,13 @@
 {
     "conferenceYear": "2013",
     "title": "Data Innovation: Increasing Accessibility, Visibility, and Sustainability",
+    "host": "GESIS – Leibniz Institute for the Social Sciences",
     "city": "Cologne, Germany",
     "dateText": "May 28-31, 2013",
     "startDate": "2013-05-28",
     "endDate": "2014-01-31",
     "conferenceNum": "39",
-    "conferenceUrl": "http://www.iassist2013.org",
+    "conferenceUrl": "https://web.archive.org/web/20130925082054/http://www.iassist2013.org/iassist-2013-home/",
     "oldPath": "/conferences/2013/description/3497",
     "nid": "3497",
     "postDate": "2014-01-15 13:24:31 -0700",
@@ -26,7 +27,116 @@
             "oldPath": "/conferences/2013/session/3535",
             "nid": "3535",
             "postDate": "2014-01-15 15:36:56 -0700",
-            "presentations": []
+            "presentations": [
+               {
+                    "year": "2014",
+                    "title": "Using the Data Curation Profile as a Means to Engage Researchers",
+                    "abstract": "Engaging researchers in discussions about data may be new, unfamiliar territory for many librarians. This workshop provides training in the application and use of the Data Curation Profile Toolkit, an instrument used to elicit information about data from researchers. The Toolkit can be used to facilitate data discussions, to identify research data needs, and to help plan for development of data services. It provides a flexible structure for conducting an interview, and can facilitate discussion with researchers about what they may want to do with data beyond its immediate use. Profiles which are developed out of interviews with researchers can be published in the Data Curation Profiles Directory. The goal of the workshop is to build knowledge and skills to discuss data with researchers. Learning is facilitated by presenting scenarios and working through hands-on exercises with the Toolkit, which includes an Interviewer Manual and Interview Worksheet.",
+                    "presenters": [
+                        {
+                            "name": "D. Scott Brandt",
+                            "institution": "Purdue University Libraries "
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "Access Policies and Licensing for Archives and Repositories",
+                    "abstract": "The workshop combines expertise from the DASISH project, covering five European Social Science and Humanities research infrastructures. It will focus on data administration policies for user management. The workshop is of interest to two groups: people in organizations/institutions who:      Are in the process of setting up a data archive or repository     Or, with a repository (for data/publications) who wish to systematically consider access policies and licensing as part of a long-term digital preservation and reuse strategy  Topics covered include:      Data submission     License and acquisition agreements between data producers and archives/preservation services: How do you get data into your archive/repository and ensure you can continue preserving and disseminating it in the future?     Introducing the DASISH training module     Presentation of an Access Policies and Licensing training module with discussion on content and structure     Responsibilities for subsequent data reuse     What can archives do to ensure that license terms are understood and respected? How to ensure meeting legal requirements on data protection and security.     Comparing existing license schemes     What are existing licenses in use and what are relevant differences between them?     Secure data licenses     Access policies and conditions of reuse for sensitive personal data. Legal requirements on data protection and security and how they can be met.",
+                    "presenters": [
+                        {
+                            "name": "Laurence Horton",
+                            "institution": "Data Service Infrastructure for the Social Sciences and Humanities project (DASISH)"
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "Using OLAP Techniques for Data Presentation and Analysis",
+                    "abstract": "Preceded by a crash course in the underlying theory of OLAP (On Line Analytical Processing) cubes, the workshop will focus on using OLAP cubes in social sciences for data presentation and analysis of - mostly - Canadian census data and some economic tables from CANSIM.  On line hands-on exercises in slicing, dicing, aggregation and disaggregation of data will be offered to participants.",
+                    "presenters": [
+                        {
+                            "name": "Chris Leowski",
+                            "institution": "University of Toronto"
+                        },
+                        {
+                            "name": "Andreea Gheorghe",
+                            "institution": "University of Toronto"
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "Introduction to R and Reproducible Research",
+                    "abstract": "R is an open-source statistical computing environment, comparable to SAS, Stata, and SPSS, widely used across disciplines as disparate as bioinformatics and finance. A key feature of the R platform is a “package” system that allows users to easily share code, data, and documentation via community-supported repositories like CRAN, R-Forge, and Bioconductor. Thousands of high quality, well-documented packages are currently available and the number continues to grow.  The workshop will focus on R commands for data manipulation and descriptive statistics and the use of the RStudio development environment. Examples and exercises will cover common social science data tasks like subsetting, merging, and creating categorical variables. In addition, the workshop will introduce workflow practices that promote reproducibility which can be implemented in R or any comparable statistics packages.  No previous experience with R will be assumed, but participants should be familiar with at least one other statistics package.",
+                    "presenters": [
+                        {
+                            "name": "Harrison Dekker",
+                            "institution": "UC Berkeley"
+                        },
+                        {
+                            "name": "Tim Dennis",
+                            "institution": "UC Berkeley"
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "da|ra: How to obtain a DOI name for my social and economic research data?",
+                    "abstract": "The GESIS - Leibniz Institute for the Social Sciences and the ZBW Leibniz Information Center for Economics are offering a DOI registration service for social and economic research data. As members of DataCite, GESIS and ZBW pursue the goal of promoting and establishing uniform standards for the acceptance of research data as independent citable scientific objects.  The DOI registration service da|ra was introduced in 2010 and meanwhile most of the leading German social science research data centres have been using the service already. The workshop will introduce da|ra, its policy and metadata schema as well as the functionality of the system. The main focus of the workshop will lay on hands-on complemented by the presentation. Thus the participants will learn how to register DOI names with da|ra:  1.     da|ra Policy and Metadata schema  2.     Registering a DOI name for test data sets generated in the social sciences and in economics. The participants will get the chance to check out the different workflows provided by da|ra: web interface and the xml-upload/web service.  The Workshop will also show the interaction between da|ra and the Data Cite Metadata Store. Another component will be the debate on the specific requirements for metadata when it comes to registration.",
+                    "presenters": [
+                        {
+                            "name": "Brigitte Hausstein",
+                            "institution": "GESIS - Leibniz Institute for the Social Sciences"
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "UK Institutional partnership training workshop: costing, appraising and managing data for social science research",
+                    "abstract": " When it comes to dealing with the ever increasing commitments of research data , both the UK Data Service and ICPSR continue to see institutions struggle with the challenges of domain specificity; how do we help our local researchers cost, plan and manage social science data? How do we then appraise and curate that mixed bag of data that a social scientist might have created?  In this workshop we will showcase our collaborative support and training materials that are being used to support both institutional repository managers charged with appraising, ingesting and managing social science research data from local academics; and research support staff who face dealing with ensuring compliance with data management responsibilities set out in almost all research applications.  In this session participants will get a chance to try our exercises on:      Costing shot and longer-term data management     How to write good data management plan     Appraising data for social science research     Creating sufficient context for data collections     Creating Data Centre ‘compliant’ metadata records for local repositories ",
+                    "presenters": [
+                        {
+                            "name": "Louise Corti",
+                            "institution": "UK Data Archive"
+                        },
+                        {
+                            "name": "Jared Lyle",
+                            "institution": "ICPSR"
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "Data Visualization and R",
+                    "abstract": "This workshop will focus on principles and techniques for the visualization of data, with an equal emphasis on theory and implementation.  Drawing on classic works by Cleveland (Visualizing Data), Tufte (The Visual Display of Quantitative Information), and Wilkinson (The Grammar of Graphics), a range of best practices for visualization will be illustrated.  Recently developed techniques for large-scale, 3D, and interactive visualization will also be discussed.  This discussion will be based on works such as Graphics of Large Datasets: Visualizing a Million (Unwin, Theus, and Hofmann), the Handbook of Data Visualization (Chen, Hardle, and Unwin),  and Trends in Interactive Visualization: A State of the Art Survey (Liere, Adriaansen and Zudilova-Seinstra)  For each of these approaches, methods for creating similar graphics in the R open-source statistical language will be demonstrated, using packages such as ggplot2, lattice, and rggobi.  Prior familiarity with R is helpful but not required.",
+                    "presenters": [
+                        {
+                            "name": "Ryan Womack",
+                            "institution": "Rutgers University"
+                        }
+                    ],
+                    "files": []
+                },
+               {
+                    "year": "2014",
+                    "title": "CharmStats: Coding and Harmonization of Statistics",
+                    "abstract": "The software program Charmstats 1.0 (Coding and Harmonizing Statistics) will provide a structured approach to data harmonization by allowing researchers to: 1) download harmonization protocols; 2) document variable coding and harmonization processes; 3) access variables from existing datasets for harmonization; and 4) create harmonization protocols for publication and citation. It will be open source and free to all users. The workshop will explain the software interface, show participants how to find variables using the program and walk them through creating a harmonized variable.",
+                    "presenters": [
+                        {
+                            "name": "Kristi Winters",
+                            "institution": "GESIS - Leibniz Institute for the Social Sciences"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2013",
@@ -43,7 +153,20 @@
             "oldPath": "/conferences/2013/session/3498",
             "nid": "3498",
             "postDate": "2014-01-15 13:31:22 -0700",
-            "presentations": []
+            "presentations": [
+                {
+                    "year": "2013",
+                    "title": "Plenary 1: Research Infrastructures (RI) for Social Sciences and Humanities (SSH), From FP7 (2007-2013) to Horizon 2020 (2014-2020)",
+                    "abstract": "The European Commission supports the European Research Area (ERA) through strategic funding measures, specifically two programs called FP7 (2007-2013) and HORIZON 2020 (2014-2020). The money provided by those two programs comes from the member states of the European Union (EU). The goal is to coordinate investments into European Research Infrastructures in the most efficient way, while keeping the budget in mind. In this plenary these two funding programs are described and changes in the mode of giving support to the ERA are highlighted. Due to the organizational structure, the focus for fundable projects lies on both national and transnational projects. The main goals are to enable worldwide leading research and research on transnational level within the EU. This plenary session shows the targets of developments for the ERA for the past seven years as well as for the next seven years to 2020.  Since 1998, Maria Theofilatou has worked for the European Commission in the Directorate General for Research and Innovation. Currently working in Unit B3-Research Infrastructures, she is responsible for research infrastructure (RI) activities in Social Sciences and Humanities. She is representing the European Commission at the Strategic Working Group of the European Strategy Forum for Research Infrastructures (ESFRI) on 'Social and Cultural Innovation' and has represented the European Commission at the OECD Global Science Forum, Experts Group on 'Data and Research Infrastructures for the Social Sciences'. Born in Greece she studied at Athens University where she gained degree in Economics. She worked as a researcher at Maastricht University in The Netherlands obtaining a doctorate in Political Science, European politics and policy making.",
+                    "presenters": [
+                        {
+                            "name": "Maria Theofilatou",
+                            "institution": "European Commission, Directorate-General Research and Innovation, Research Infrastructures Unit"
+                        }
+                    ],
+                    "files": []
+                }
+             ]
         },
         {
             "year": "2013",
@@ -1577,7 +1700,20 @@
             "oldPath": "/conferences/2013/session/3514",
             "nid": "3514",
             "postDate": "2014-01-15 15:00:15 -0700",
-            "presentations": []
+            "presentations": [
+            {
+                    "year": "2013",
+                    "title": "The ESS.VIP Programme: a response to the challenges facing the ESS",
+                    "abstract": "Eduardo Barredo Capelot is Director for Social Statistics for Eurostat, the European Commission's statistics office. His role covers population and demography, labour market, living conditions and quality of life, education, health, and social protection statistics. He has spent most of his professional career at Eurostat, where prior to his current position he was responsible for fiscal statistics and business statistics as head of the unit for business statistics, co-ordination and registers. Before that, he was the assistant to the Director General in Eurostat and head of the units dealing with government finance statistics and business statistics. An economist and geographer by academic training, he holds a post graduate degree from the College of Europe in Bruges and joined Eurostat in 1991.",
+                    "presenters": [
+                        {
+                            "name": "Eduardo Barredo Capelot",
+                            "institution": "Eurostat Director of Social Statistics"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2013",
@@ -3892,7 +4028,20 @@
             "oldPath": "/conferences/2013/session/3532",
             "nid": "3532",
             "postDate": "2014-01-15 15:31:04 -0700",
-            "presentations": []
+            "presentations": [
+               {
+                    "year": "2013",
+                    "title": "Record Linkage – the Key to Future Research in the Social Sciences",
+                    "abstract": "Data about individuals (persons or institutions) is collected routinely. May it be by surveys, administrative processes, data collection for statistical reasons, or through the documentation of transactions. According to that rich data sources that could enhance research in the Social Sciences are out there. Resent developments made those sources available and usable for scientific research (keywords are data access and data documentation). In addition sophisticated methods to do investigation on the level of individuals have been developed. But still the landscape for research data is a fragmented one. Data is collected for different reasons and by different institutions. To enable the full power of modern microdata research, methods for record linkage, that bring together the information about single individuals that are distributed about different data sources, are needed. Within the plenary the developments and needs for linking data on the individuals level and therefore for enhanced record linkage techniques will be discussed with a focus on the state of play in the USA.  Timothy M. Mulcahy, is a Senior Research Scientist in the Economics, Labor, and Population Studies department, Project Director of the NORC Data Enclave, and Co-Principal Investigator of an R21 grant examining illicit retail drug markets across the U.S., sponsored by the National Institute on Drug Abuse. He has nearly 20 years of experience in social science research developing and implementing complex, data-centric projects involving sensitive data, evidence-based research, and data warehousing. His areas of expertise include criminal justice and drug policy, secure remote data access technology, data privacy, statistical disclosure control, and confidentiality. He has served as an invited speaker, keynote, panel chair, and panelist at numerous conferences, workshops, and seminars and has published widely on digital age dissemination, data access modalities, data privacy and confidentiality and statistical disclosure control. Prior to 2004, he served as Senior Analyst at Justice Studies, Inc. where he completed two congressionally mandated studies for the National Institute of Justice, one examining the federal death penalty system and the other involving human trafficking in the US. He earned his undergraduate degree in English from the University of Virginia and his graduate degree from the Institute for Policy Studies at the Johns Hopkins University, where he specialized in public policy studies and economics.",
+                    "presenters": [
+                        {
+                            "name": "Timothy M. Mulcahy",
+                            "institution": "NORC"
+                        }
+                    ],
+                    "files": []
+                }
+			]
         }
     ]
 }

@@ -1,6 +1,7 @@
 {
     "conferenceYear": "2012",
     "title": "Data Science for a Connected World: Unlocking and Harnessing the Power of Information",
+    "host": "National Opinion Research Centre (NORC)",
     "city": "Washington, DC",
     "dateText": "June 4-8, 2012",
     "startDate": "2012-06-04",
@@ -214,7 +215,20 @@
             "oldPath": "/conferences/2012/session/3181",
             "nid": "3181",
             "postDate": "2012-08-07 13:15:22 -0700",
-            "presentations": []
+            "presentations": [
+            {
+                    "year": "2012",
+                    "title": "Creating new types of data from documents and administrative records: a use case from science",
+                    "abstract": "In common with many countries, the substantial United States investment in R&D is characterized by limited documentation of the nature and results of those investments (MacIlwain 2010, Marburger 2005). Despite the increased calls for reporting by key stakeholders, current data systems cannot meet the new requirements; indeed, the conclusion of the Science of Science Policy interagency group's Federal Research Roadmap (National Science and Technology Council 2008) was that the science policy data infrastructure was inadequate for decision-making. In response to this need, a new data system is being built (STAR METRICS) drawing from administrative records and new computational approaches to analyzing unstructured text; this paper describes the initial results of that effort - focusing on expenditures during the 2011 Federal fiscal year from awards made by the National Science Foundation.",
+                    "presenters": [
+                        {
+                            "name": "Julia I. Lane",
+                            "institution": "American Institutes for Research (AIR)"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2012",
@@ -1330,7 +1344,20 @@
             "oldPath": "/conferences/2012/session/3193",
             "nid": "3193",
             "postDate": "2012-08-07 13:47:21 -0700",
-            "presentations": []
+            "presentations": [
+            {
+                    "year": "2012",
+                    "title": "Managing Federal Research Data",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Mike Wash",
+                            "institution": "US National Archive (NARA)"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2012",
@@ -2764,7 +2791,28 @@
             "oldPath": "/conferences/2012/session/3212",
             "nid": "3212",
             "postDate": "2012-08-07 14:05:09 -0700",
-            "presentations": []
+            "presentations": [
+            {
+                    "year": "2012",
+                    "title": "Expanding Access to the Agricultural Resource Management Survey: USDA's Experience with Remote Data Analysis Using the NORC Data Enclave",
+                    "abstract": "",
+                    "presenters": [
+                        {
+                            "name": "Mary Bohman",
+                            "institution": "USDA Economic Research Service (ERS)"
+                        },
+                        {
+                            "name": "Joseph T. Reilly",
+                            "institution": "USDA National Agricultural Statistics Service (NASS))"
+                        },
+                        {
+                            "name": "Mitch Morehart",
+                            "institution": "USDA Economic Research Service (ERS)"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         }
     ]
 }

@@ -13,90 +13,6 @@
     "postDate": "2010-12-10 18:19:10 -0700",
     "sessions": [
         {
-            "year": "2009",
-            "day": "2010-06-03",
-            "title": "E1: Engaging New Users",
-            "abstract": "",
-            "chair": "Lynda Kellam, University of North Carolina at Greensboro",
-            "moderator": "",
-            "sessionType": "Papers",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "6",
-            "hostNid": "1097",
-            "oldPath": "/conference/2009/session/1270",
-            "nid": "1270",
-            "postDate": "2011-01-25 16:26:52 -0700",
-            "presentations": [
-                {
-                    "year": "2010",
-                    "title": "Telling Stories About and With Data",
-                    "abstract": "This session focuses on a project with a remit to produce some evidence  of how teachers use data resources, and the impact on student learning.  There is concern about levels of data and statistical literacy skills of  UK social science students, even though the cutting edge of social  science is reliant on use of real world datasets, and there is a great  desire to improve research-led teaching in the area. The project  collates the experience of attempts to upskill students in data and its  discipline-related usage, and provides an illustration of educational  practice at both discipline and national level. The case studies  showcase attempts to make learning and teaching about and with data a  less passive experience. The UK national data centres provide access to a  wealth of social science data - provided by national census agencies,  and inter governmental organisations including the OECD, IMF, UN and  World Bank - for undergraduate and postgraduate study. Students often  avoid handling and discussing data in their study unless forced to  confront it. The challenge for educators lies in promoting students' use  of data, but the benefits in doing so improve both academic performance  and job prospects for students.",
-                    "presenters": [
-                        {
-                            "name": "Jackie Carter",
-                            "institution": "University of Manchester "
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2010/2010_e1_carter.pdf",
-                            "name": "2010_e1_carter.pdf"
-                        }
-                    ],
-                    "sessNid": "1270",
-                    "oldPath": "/conference/2010/presentation/1221",
-                    "nid": "1221",
-                    "postDate": "2011-01-24 12:08:49 -0700",
-                    "doi": "10.5281/zenodo.3781702"
-                },
-                {
-                    "year": "2010",
-                    "title": "Outreach to New Communities: The Census 2010 Projec",
-                    "abstract": "Data Support at the Population Studies Center receives money from the  university provost to provide support for census data on the UM campus.  With the advent of the 2010 Census, we are in the process of a  many-pronged outreach effort related to the 2010 Census. The purpose is  to reach communities that could/should be using census data to inform  their stories, lives, and research. We also want to underscore the  importance in participating in the 2010 Census. The first effort was a  Census 2010 Boot Camp for Journalists, which provided 25 journalists  with training to understand the importance of census data and how to  analyze the data for local and national stories: http://mblog.lib.umich.edu/McCormick  In the second effort we are sponsoring an ad contest (YouTube-like),  where students create short videos encouraging participation with the  2010 Census. The \u2018hard-to-count\u2019 areas in Ann Arbor are the  student-dominated university neighborhoods. Finally, we will be teaching  a one-credit course in Winter 2010 on \u201cThe United States Census.\u201d  Portions of the course will be presented in other classes throughout the  academic term. The presentation will discuss the challenges and rewards  of outreach to new communities.",
-                    "presenters": [
-                        {
-                            "name": "Lisa Neidert",
-                            "institution": "University of Michigan "
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2010/2010_e1_neidert.pdf",
-                            "name": "2010_e1_neidert.pdf"
-                        }
-                    ],
-                    "sessNid": "1270",
-                    "oldPath": "/conference/2010/presentation/1222",
-                    "nid": "1222",
-                    "postDate": "2011-01-24 12:10:39 -0700",
-                    "doi": "10.5281/zenodo.3781704"
-                },
-                {
-                    "year": "2010",
-                    "title": "Developing an Internet based Data Service at SSJDA in Japa",
-                    "abstract": "The Social Science Japan Data Archive (SSJDA) collects, maintains, and provides access to the academic community, a vast archive of social science data (quantitative data obtained from social surveys) for secondary analyses. As a unit within the Center for Social Research and Data Archives, Institute of Social Science, University of Tokyo, SSJDA aims to promote empirical research on Japan in the social sciences, and has been disseminating survey data since April, 1998. The total number of available datasets is about 1,200 in the end of 2008. SSJDA plays the role of a major data provider for those who seek to analyze the Japanese society using micro data. This presentation discusses the recent efforts in developing the internet based system at SSJDA. SSJDA has an on-line searching system powered by full-text search engine. It has also developed an on-line data provision system which started to operate from April 2009. The English version of the same system will be made public early in 2010. In addition, SSJDA has just started to consider the adoption of DDI seriously.",
-                    "presenters": [
-                        {
-                            "name": "Keiichi Sato",
-                            "institution": "University of Tokyo , Institute of Social Science"
-                        }
-                    ],
-                    "files": [
-                        {
-                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2010/2010_e1_sato.pdf",
-                            "name": "2010_e1_sato.pdf"
-                        }
-                    ],
-                    "sessNid": "1270",
-                    "oldPath": "/conference/2010/presentation/1223",
-                    "nid": "1223",
-                    "postDate": "2011-01-24 12:12:21 -0700",
-                    "doi": "10.5281/zenodo.3781706"
-                }
-            ]
-        },
-        {
             "year": "2010",
             "day": "2010-06-01",
             "title": "Workshops",
@@ -319,7 +235,20 @@
             "oldPath": "/conference/2010/session/1217",
             "nid": "1217",
             "postDate": "2011-01-22 15:51:56 -0700",
-            "presentations": []
+            "presentations": [
+                {
+                    "year": "2010",
+                    "title": "Repositories and Cloud Services for Data Cyberinfrastructure",
+                    "abstract": "An historical look at the emergence of infrastructure – electric grids, railways, and the Internet – reveals that a key developmental stage has been reached when formerly incompatible or stand-alone systems are interconnected via adapters and gateways. We see this in the digital repository domain, where the notion of a digital repository began as a predominantly institutional phenomenon, or in certain cases a disciplinary phenomenon, but is now evolving to a point where repositories are becoming integrated components of larger systems and distributed infrastructure. At the same time, we see the emergence of cloud technologies that offer large-scale storage and compute capabilities, but with open questions on how well the cloud will meet the requirements of digital preservation and data archiving. In this session, I will discuss how the DuraSpace not-for-profit organization is working to evolve open source repositories and cloud services to serve as core components within emerging data cyberinfrastructure. In collaboration with the Fedora and DSpace communities, we are positioning repositories and cloud services to become part of a distributed data curation and archiving fabric that encompasses both institutional systems and the Web. I will also provide highlights from the DuraSpace partnership with the Data Conservancy, an NSF-funded Datanet project",
+                    "presenters": [
+                        {
+                            "name": "Sandy Payette",
+                            "institution": "DuraSpace"
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2010",
@@ -1962,6 +1891,90 @@
                     "nid": "1311",
                     "postDate": "2011-01-26 14:12:16 -0700",
                     "doi": "10.5281/zenodo.3781813"
+                }
+            ]
+        },
+        {
+            "year": "2009",
+            "day": "2010-06-03",
+            "title": "E1: Engaging New Users",
+            "abstract": "",
+            "chair": "Lynda Kellam, University of North Carolina at Greensboro",
+            "moderator": "",
+            "sessionType": "Papers",
+            "sessionFile": "",
+            "webcastLink": "",
+            "weight": "6",
+            "hostNid": "1097",
+            "oldPath": "/conference/2009/session/1270",
+            "nid": "1270",
+            "postDate": "2011-01-25 16:26:52 -0700",
+            "presentations": [
+                {
+                    "year": "2010",
+                    "title": "Telling Stories About and With Data",
+                    "abstract": "This session focuses on a project with a remit to produce some evidence  of how teachers use data resources, and the impact on student learning.  There is concern about levels of data and statistical literacy skills of  UK social science students, even though the cutting edge of social  science is reliant on use of real world datasets, and there is a great  desire to improve research-led teaching in the area. The project  collates the experience of attempts to upskill students in data and its  discipline-related usage, and provides an illustration of educational  practice at both discipline and national level. The case studies  showcase attempts to make learning and teaching about and with data a  less passive experience. The UK national data centres provide access to a  wealth of social science data - provided by national census agencies,  and inter governmental organisations including the OECD, IMF, UN and  World Bank - for undergraduate and postgraduate study. Students often  avoid handling and discussing data in their study unless forced to  confront it. The challenge for educators lies in promoting students' use  of data, but the benefits in doing so improve both academic performance  and job prospects for students.",
+                    "presenters": [
+                        {
+                            "name": "Jackie Carter",
+                            "institution": "University of Manchester "
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2010/2010_e1_carter.pdf",
+                            "name": "2010_e1_carter.pdf"
+                        }
+                    ],
+                    "sessNid": "1270",
+                    "oldPath": "/conference/2010/presentation/1221",
+                    "nid": "1221",
+                    "postDate": "2011-01-24 12:08:49 -0700",
+                    "doi": "10.5281/zenodo.3781702"
+                },
+                {
+                    "year": "2010",
+                    "title": "Outreach to New Communities: The Census 2010 Project",
+                    "abstract": "Data Support at the Population Studies Center receives money from the  university provost to provide support for census data on the UM campus.  With the advent of the 2010 Census, we are in the process of a  many-pronged outreach effort related to the 2010 Census. The purpose is  to reach communities that could/should be using census data to inform  their stories, lives, and research. We also want to underscore the  importance in participating in the 2010 Census. The first effort was a  Census 2010 Boot Camp for Journalists, which provided 25 journalists  with training to understand the importance of census data and how to  analyze the data for local and national stories: http://mblog.lib.umich.edu/McCormick  In the second effort we are sponsoring an ad contest (YouTube-like),  where students create short videos encouraging participation with the  2010 Census. The \u2018hard-to-count\u2019 areas in Ann Arbor are the  student-dominated university neighborhoods. Finally, we will be teaching  a one-credit course in Winter 2010 on \u201cThe United States Census.\u201d  Portions of the course will be presented in other classes throughout the  academic term. The presentation will discuss the challenges and rewards  of outreach to new communities.",
+                    "presenters": [
+                        {
+                            "name": "Lisa Neidert",
+                            "institution": "University of Michigan "
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2010/2010_e1_neidert.pdf",
+                            "name": "2010_e1_neidert.pdf"
+                        }
+                    ],
+                    "sessNid": "1270",
+                    "oldPath": "/conference/2010/presentation/1222",
+                    "nid": "1222",
+                    "postDate": "2011-01-24 12:10:39 -0700",
+                    "doi": "10.5281/zenodo.3781704"
+                },
+                {
+                    "year": "2010",
+                    "title": "Developing an Internet based Data Service at SSJDA in Japan",
+                    "abstract": "The Social Science Japan Data Archive (SSJDA) collects, maintains, and provides access to the academic community, a vast archive of social science data (quantitative data obtained from social surveys) for secondary analyses. As a unit within the Center for Social Research and Data Archives, Institute of Social Science, University of Tokyo, SSJDA aims to promote empirical research on Japan in the social sciences, and has been disseminating survey data since April, 1998. The total number of available datasets is about 1,200 in the end of 2008. SSJDA plays the role of a major data provider for those who seek to analyze the Japanese society using micro data. This presentation discusses the recent efforts in developing the internet based system at SSJDA. SSJDA has an on-line searching system powered by full-text search engine. It has also developed an on-line data provision system which started to operate from April 2009. The English version of the same system will be made public early in 2010. In addition, SSJDA has just started to consider the adoption of DDI seriously.",
+                    "presenters": [
+                        {
+                            "name": "Keiichi Sato",
+                            "institution": "University of Tokyo , Institute of Social Science"
+                        }
+                    ],
+                    "files": [
+                        {
+                            "url": "https://iassistdata.org/sites/default/files/../../../downloads/2010/2010_e1_sato.pdf",
+                            "name": "2010_e1_sato.pdf"
+                        }
+                    ],
+                    "sessNid": "1270",
+                    "oldPath": "/conference/2010/presentation/1223",
+                    "nid": "1223",
+                    "postDate": "2011-01-24 12:12:21 -0700",
+                    "doi": "10.5281/zenodo.3781706"
                 }
             ]
         },

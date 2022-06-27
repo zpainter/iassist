@@ -1,30 +1,1133 @@
 {
   "conferenceYear": "2021",
   "title": "IASSIST Global Virtual Conference 2021",
+  "host": "IASSIST",
   "city": "Online",
   "dateText": "May 18–22, 2021",
   "startDate": "2021-05-10",
   "endDate": "2021-05-22",
   "conferenceNum": "46",
+  "conferenceUrl": "https://whova.com/web/iassi_202102/",
   "sessions": [
     {
-      "title": "Forthcoming",
+      "title": "Monday Session 2 - Research Reproducibility",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Florio Arguillas",
+      "presentations": [
+        {
+          "title": "ReprohackNL 2019: Enhancing research reproducibility at Dutch Universities",
+          "abstract": "University Libraries around the world play a crucial role in Open Science, contributing to more transparent, reproducible and reusable research. The Center for Digital Scholarship (CDS) at Leiden University (LU) is a scholarly lab located in the LU Library. The CDS employes two complementary strategies to improve open data literacy among Leiden’s scholars: existing top-down structures are used to provide Open Science training and services, while bottom-up initiatives are actively supported by offering CDS’s expertise and facilities. A prime example of how bottom-up initiatives can blossom with the help of the CDS is the ReproHack initiative. ReproHack – a reproducibility hackathon – is a grass-root initiative by young scholars with the goal of improving research reproducibility in three ways: First, hackathon attendees learn about reproducibility tools and challenges by reproducing published results and providing feedback to authors on their attempt. Second, authors can nominate their own work and receive feedback on their reproducibility efforts. Third, the collaborative atmosphere at the event helps building an interdisciplinary community among researchers, who often lack such support in their own departments. A first ReproHack in the Netherlands took place on November 30th, 2019, co-organised by the CSD at the LU Library with 44 participants from the fields of psychology, engineering, biomedicine, and computer science, 3 had submitted their own work to the hackathon. From 19 papers with code and data, 24 feedback forms were filled, 5 papers were successfully reproduced and 6 where almost reproduced. Two speakers framed the event, the first one introducing participants to current developments on tools for reproducible research and the second one putting reproducibility into a broader context. The organizers aim to create resources to make the event format itself reproducible. ReproHack provides an opportunity for libraries to actively draw attention to and improve the reproducibility of science.",
+          "doi": "10.5281/zenodo.5181095",
+          "presenters": [
+            {
+              "name": "Kristina Hettne",
+              "institution": "Leiden University Libraries"
+            },
+            {
+              "name": "Ricarda Proppert",
+              "institution": "Leiden University"
+            },
+            {
+              "name": "Linda Nab",
+              "institution": "Leiden University Medical Center"
+            },
+            {
+              "name": "Paloma Rojas Saunero",
+              "institution": "Erasmus Medical Center"
+            },
+            {
+              "name": "Daniela Gawehns",
+              "institution": "Leiden University"
+            }
+          ]
+        },
+        {
+          "title": "Computational reproducibility: A simplified framework for data curators",
+          "abstract": "Phrases like the ‘data deluge’ and the ‘reproducibility crisis’ may serve to further the impression that data curation is hard and that research data management is “basically fighting against chaos” (Briney, 2019). If trying to manage research data is chaotic, then the management of computationally-derived data presents an even bigger challenge due to the multiplicity of operating systems, coding languages, dependencies, and file types. This is exacerbated by the reality that most researchers and librarians are not formally trained as programmers.  As data curators and managers, we may need to reconsider if the complete replication of research, especially computational research, is a realistic goal in all instances. Can curated data still be useful if it is only ‘a little bit’ reproducible or ‘just about’ reproducible?  This purpose of this presentation is to propose an approach of ‘just enough’ data curation by arguing that partial reproducibility is better than nothing at all (Broman, n.d.). By focusing on incremental progress rather than prescriptive rules, researchers and curators can build their knowledge and skills as the need arises. A computational reproducibility framework, developed for the Canadian Data Curation Forum, will serve as the model for this approach, which combines learning about reproducibility with improving reproducibility.  Computational reproducibility leads to better and more transparent research, but fear of a crisis and focus on perfection shouldn’t prevent curation that may be ‘good enough.’ This presentation will discuss concrete and actionable steps to help researchers, data curators, and data managers improve their understanding and practice of computational reproducibility.  Briney, K. (2019). Data management is hard and everyone is bad at it. This includes data managers more often that we care to admit. Data management is basically fighting against chaos.https://twitter.com/mykola/status/1198719315589160960 … [Tweet].  Broman, K. (n.d.). Initial steps toward reproducible research. https://kbroman.org/steps2rr/.",
+          "doi": "10.5281/zenodo.5181077",
+          "presenters": [
+            {
+              "name": "Sandra Sawchuk",
+              "institution": "Mount Saint Vincent University"
+            },
+            {
+              "name": "Shahira Khair",
+              "institution": "University of Victoria"
+            }
+          ]
+        },
+        {
+          "title": "Computational reproducibility: Examining verification errors and frictions",
+          "abstract": "Data archives, libraries, and publishers are extending their services to support computational reproducibility of results reported in manuscripts. Computational reproducibility is having enough information about the data, code, and compute environment to re-run and reproduce analyses. While archives and publishers are adopting policies and audit workflows to verify the results in a manuscript, many opponents express concerns about the additional effort, time, and specialized expertise being placed on authors. What are the challenges that researchers face in complying with computational reproducibility and transparency policies?  The American Journal of Political Science (AJPS) adopted a verification policy requiring authors to make available all research materials needed to reproduce the results in a manuscript. As an independent third party, the Odum Institute performs the computational reproducibility check on the submitted materials with quantitative analyses. The Odum Institute has collected detailed data about the verification process for all reviewed manuscripts including errors encountered, number of resubmissions, and submission package characteristics, providing a novel dataset to explore challenges that authors face. This paper will report results from qualitative coding and analysis of verification reports for 105 AJPS manuscripts. Twenty-three errors that authors commonly make in replication packages were identified, representing 7 categories: code, data, documentation, file, methods, results, and technology. Together, these sets of errors provide a more holistic picture of challenges faced by authors in making their research reproducible. These challenges range in terms of causes, scope, significance, persistence, and repetition. These findings will be discussed in relation to questions of services, tools, and trainings. How can archives and libraries help researchers comply with reproducibility policies? Which categories of errors should we prioritize? These questions will lead to a discussion on translating reproducibility policies and recommendations into actionable, local practices and services.",
+          "doi": "10.5281/zenodo.5181101",
+          "presenters": [
+            {
+              "name": "Cheryl Thompson",
+              "institution": "UNC Odum Institute"
+            },
+            {
+              "name": "Thu-Mai Christian",
+              "institution": "UNC Odum Institute"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Panel: Navigating the Labyrinth: Cultivating and Sustaining Partnerships Across the Institution",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Robin Rice",
+      "presentations": [
+        {
+          "title": "Panel: Navigating the Labyrinth: Cultivating and Sustaining Partnerships Across the Institution",
+          "abstract": "As academic institutions respond to increasing demands for greater access to transparent and reusable research data, libraries have developed services to address researchers’ data management needs. However, libraries are just one of many units across a university that play a role in supporting proper data stewardship. Building connections with other groups on campus is at the core of leveraging expertise and resources, developing sustainable service models, and implementing change at an institutional level. Forming lasting relationships can be a difficult process as other campus units may have different understandings of what issues exist, how to address these issues, and each units' specific responsibilities. This panel will begin with a brief presentation on the need to build relationships across campus to support data sharing and some of the common challenges that libraries face. Next, we will present three case studies. The University of Michigan will discuss the work and recommendations of their campus-wide Public Access to Research Data Working Group; Duke University will discuss their work with the Office of Scientific Integrity and contributions to institutional data management policies; and North Carolina State University will discuss current efforts between the Libraries, the Office of Information Technology, and the Office of Research and Innovation to design and implement a new research facilitation service. The panel will then engage in an open discussion around common themes including the importance of relationships at an institutional level, both formal and informal; the libraries’ role in  the larger institutional research ecosystem; and strategies for engaging with key stakeholders. We intend for this to be a candid discussion for our audience to share their own experiences and challenges in building sustainable relationships and how we might learn from each other to identify and act on opportunities. Speakers: Jake Carlson, Susan Ivey, Sophia Lafferty-Hess Moderator: Robin Rice",
+          "doi": "10.5281/zenodo.6755267",
+          "presenters": [
+            {
+              "name": "Sophia Lafferty-Hess",
+              "institution": "Duke University"
+            },
+            {
+              "name": "Jake Carlson",
+              "institution": "University of Michigan"
+            },
+            {
+              "name": "Susan Ivey",
+              "institution": "North Carolina State University"
+            },
+            {
+              "name": "Robin Rice",
+              "institution": "University of Edinburgh"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Monday Session 4 - Infrastructure",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Amber Leahey",
+      "presentations": [
+        {
+          "title": "Scholarly Communication: ARL Libraries’ Investment in Research Data Infrastructure",
+          "abstract": "The U.S. government awards half of all federal research dollars to university-affiliated researchers. Many of these researchers work for Association of Research Library (ARL) members; and increasingly, major research libraries support researchers throughout all stages of the research lifecycle. Using data and findings from two peer-reviewed studies, in this presentation, we describe how librarians in North America “designed” research support positions to assist academics and connect this process to ARL libraries’ investment in research data infrastructure.  Our presentation will be broken into four parts. First, we will use ARL survey data to demonstrate that member libraries hired 100+ scholarly communication librarians between 2012 and 2016. Second, using professional competencies documents from North America, we illustrate that librarians designed a new professional sub-field during this period with digital curation and research data management in mind. Third, we argue that when ARL libraries hired scholarly communication librarians, they committed to -- and invested in -- research data infrastructure. We define this infrastructure as a sociotechnical system. Fourth, we compare ARL’s approach to funding research data infrastructure against other models and discuss their long-term sustainability.  Further Reading:  Million, A. J., Moulaison Sandy, H., & Vitale, C. H. (2018). Restructuring and Formalizing: Scholarly Communication as a Sustainable Growth Opportunity in Information Agencies? In Proceedings of the Meeting of the Association for Information Science & Technology (377-286). Silver Spring, MD.  Moulaison Sandy, H., Million, A. J., & Vitale, C. H. (in press, 2020). Innovating Support for Research: The Coalescence of Scholarly Communication? College and Research Libraries.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "A.J. Million",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Heather Moulaison Sandy",
+              "institution": "University of Missouri"
+            },
+            {
+              "name": "Cynthia Hudson-Vitale",
+              "institution": "Penn State University"
+            }
+          ]
+        },
+        {
+          "title": "Open Geospatial Data: A comparison of data cultures in local government and the role of academic libraries",
+          "abstract": "County and municipal governments are primary creators of foundational geospatial data, including essential layers such as parcels, road centerlines, address points, land use, and elevation. This data is aggregated into regionalized layers that make up state and national frameworks, and it is sought after by researchers for analysis and by cartographers to serve as base map layers.  Despite the importance of these layers, policies about whether this data is free and open to the public varies from place to place. In most areas of the United States, counties and municipalities are not required to comply with federal rules or state initiatives for open data. As a result, some regions offer hundreds of open data layers to the public, while their neighbors may have zero, preferring to restrict the data due to privacy, economic, or accuracy concerns.  The state of Wisconsin recently passed legislation requiring that certain foundational geospatial data created by counties must be made available to the public. By contrast, its neighboring state of Minnesota uses a voluntary approach that allows counties to choose for themselves if their geospatial data will be free and open. This paper compares the implications and outcomes of these diverging data cultures. We also advocate for the role that academic libraries can play to support the culture of practices around collection, documentation, and discoverability of local data, pointing to the Big Ten Academic Alliance Geoportal and GeoData@Wisconsin as examples.",
+          "doi": "10.5281/zenodo.5181107",
+          "presenters": [
+            {
+              "name": "Karen Majewicz",
+              "institution": "University of Minnesota"
+            },
+            {
+              "name": "Jaime Martindale",
+              "institution": "University of Wisconsin-Madison"
+            },
+            {
+              "name": "Melinda Kernik",
+              "institution": "University of Minnesota"
+            }
+          ]
+        },
+        {
+          "title": "Outside the R1: Equitable Data Management Instruction at the Undergraduate Level",
+          "abstract": "At universities within the California State University System, teaching is the primary focus rather than research, as is the case with many regional, public universities. Data management instruction for both faculty and undergraduates is often omitted at these smaller institutions, which fall outside of the R1 designation. This happens for a variety of reasons, including personnel and resource limitations. Such limitations disproportionately burden students from underrepresented populations, who are more heavily concentrated at these institutions. Students enrolled at these institutions have pathways to graduate school and the digital economy, like their counterparts at R1s; thus, they are also in need of data management skills. This paper describes and provides a scalable, low-resource model for data management instruction driven from the university library and integrated into a department’s capstone or final project curriculum. In the case study, students and their instructors participated in workshops, with data management plans being a required piece of their final project. The analysis will analyze the results of the project and focus on the broader implications of integrating research data management into undergraduate curriculum at public, regional universities-- specifically Hispanic Serving Institutions. By working with faculty to integrate data management practices into their curricula, librarians reach both students and faculty members with best practices for research data management. This work also contributes to a more equitable and sustainable research landscape.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Elizabeth Blackwood",
+              "institution": "California State University Channel Islands"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Monday Session 5 - Scaling up research services",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Stephanie Labou",
+      "presentations": [
+        {
+          "title": "Scaling up research data services: a saga of organizational redesign gone awry",
+          "abstract": "An academic library may initiate organizational renewal and redesign in order to better pursue new strategic priorities. In the case of the Brock University Library, one of these priorities was active engagement throughout the research life cycle. The draft organizational design framework proposed the creation of a new unit that takes a holistic life cycle approach to research, including data literacy, research data management and other services. Unfortunately, it also called for the elimination of the role of subject liaison librarians, who would be redeployed in other ways. No one was more shocked at this turn of events than me, because as the Business and Economics Librarian, I know how crucial it is to understand the disciplinary landscape with respect to research practices in order to develop research data services that align with researcher needs. This study provides evidence for the discipline-specific needs of business and economics researchers for data reference, data literacy, and data retrieval assistance, derived from a content analysis of graduate student theses and a review of consultation statistics. Will this evidence be sufficient to preserve this role, or will this become a saga of organizational redesign gone awry?",
+          "doi": "10.5281/zenodo.5181085",
+          "presenters": [
+            {
+              "name": "Linda Lowry",
+              "institution": "Brock University"
+            }
+          ]
+        },
+        {
+          "title": "Co-location & Collaboration: How space influenced our library data services",
+          "abstract": "In fall 2018, the Massachusetts Institute of Technology (MIT) Libraries opened a new GIS & Data Lab, co-locating previously dispersed staff in data management services, GIS, and citation management in an open office model within the library’s public space. Both the structure of the space and the proximity of the Libraries’ data experts led to collaborations, challenges, and new and enhanced services for the MIT community. This talk will discuss how we used this new, combined space to increase our collaborations. Data services staff examined our overall service portfolio to identify areas lacking support and investigated ways we could leverage our collective knowledge to increase services at various points in the research lifecycle. This reflection led to exploratory projects around statistical software and data visualization services. Further, the space itself enabled us to provide computing, software, and immersive technology resources that initiated additional collaborations with new labs and departments. The proximity of data experts to our community led to serendipitous encounters that helped us learn more about user data needs while providing assistance on a variety of topics. The talk will also highlight key findings from our initial assessment, address lessons learned, and provide thoughts on the future of the space and our collaborations in a virtual environment.",
+          "doi": "10.5281/zenodo.6757365",
+          "presenters": [
+            {
+              "name": "Jennie Murack",
+              "institution": "Massachusetts Institute of Technology"
+            },
+            {
+              "name": "Christine Malinowski",
+              "institution": "Massachusetts Institute of Technology"
+            },
+            {
+              "name": "Madeline Wrable",
+              "institution": "Massachusetts Institute of Technology"
+            }
+          ]
+        },
+        {
+          "title": "The Research Hub: Providing Cross-functional Data Services",
+          "abstract": "At Stanford Graduate School of Business, a new organization called the Research Hub joins staff groups with diverse skills to provide a more comprehensive, holistic approach to licensing, acquiring and managing data for academic research.  At the Research Hub, subject matter experts begin by identifying data sources that will be impactful for research projects.  After identifying key stakeholders at the granting organization, the subject matter experts join contract specialists to begin negotiating terms favorable for academic researchers.  By including data engineers and research computing specialists, the Research Hub can also verify that data can be stored and analyzed effectively on the available technical platforms.  Frequently, extensive discussions are necessary to harmonize security and privacy needs between the university and the data owners.  Including research computing groups in these discussions ensures that common requirements from vendors can be included in the design of the next generation of research platforms.  Data engineers and research analysts in the Research Hub are available to extract, transform and load data based on the needs of individual research teams and the appropriate platform for the data.  Due to the increasing volume and variety of research datasets, a hands-on approach is often necessary to provide straightforward access to acquired data. Once the data is technically available, data curators and administrators in the Research Hub ensure that end users are properly trained and made aware of license agreements.  At the Research Hub, this combined expertise in subject matter specialization, research technology and data contracts enables a streamlined approach to acquiring data for the Business School.",
+          "doi": "10.5281/zenodo.6754632",
+          "presenters": [
+            {
+              "name": "Alex Storer",
+              "institution": "Stanford Graduate School of Business"
+            },
+            {
+              "name": "Julie Williamsen",
+              "institution": "Stanford Graduate School of Business"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Tuesday Session 1 - Ethics",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Dylanne Dearborn",
+      "presentations": [
+        {
+          "title": "The cat’s out of the bag and we’re the cat ladies: The library’s role when researchers want to use leaked datasets",
+          "abstract": "Nobody wants to find their banking information on the internet, but if it has already been released by hackers should researchers be allowed to use it? The case of the 2016 Qatar National Bank hack and data release forced information professionals, institutional review boards, and university legal counsel members in the Middle East and beyond to grapple with how exactly to handle requests from researchers who wanted to do research and create educational materials around this data. Using the research around the QNB hack and similar leaks as a starting point, this paper will evaluate the different ways institutions have dealt with issues around the ethics of using and managing leaked data in scholarly research. This paper will investigate under what circumstances do institutional review and ethics boards approve the use of leaked data; the complicated nature of copyright and other legalities surrounding leaked data; how researchers verify the accuracy of leaked data; and the necessary steps to manage this data to prevent further harm to the individuals impacted by the leak. This paper will build on previous research on the use and issues surrounding other types of sensitive data found online including biodiversity data on endangered species, social and behavioral science research on stigmatized communities, and government information, in order to place the academic library’s role in educating researchers about, and managing, leaked data in a greater context of sensitive information.",
+          "doi": "10.5281/zenodo.6755220",
+          "presenters": [
+            {
+              "name": "Jasmine Kirby",
+              "institution": "Carnegie Mellon University in Qatar"
+            }
+          ]
+        },
+        {
+          "title": "Bound by ToS? Freedom of research and corporate interests in collecting and sharing digital trace data",
+          "abstract": "In recent years, GESIS has increasingly been involved in or received requests regarding projects collecting ‘digital trace data’ and is in the process of developing specific archiving services and solutions for this type of data. Digital trace data can be seen as “records of activity (trace data) undertaken through an online information system (thus, digital) and can be collected from a multitude of technical systems, such as websites, social media platforms, smart-phone apps, or sensors (Stier et al. 2019).” There is an ongoing discussion concerning ethical issues of working with this type of data, and also concerning sharing it with other parties, e.g., via data repositories. In practice, researchers as well as archives are confronted with the legal situation that research is a basic freedom and, at the same time, the availability and use of digital trace data is subject to the commercial interests of the companies that run the platforms. Archives are now facing the situation that terms of services might (have to) be “bent” (or at least interpreted in a specific way) in order to collect the data necessary to answer a particular research question. This presentation aims at discussing this tension between research and commercial interests in order to contribute to the open question of how archives can address the challenge of making digital trace data available for researchers.  Stier et al. (2019): Sebastian Stier et al.: Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field, in: Social Science Computer Review. https://doi.org/10.1177%2F0894439319843669; access date: 06.12.2019",
+          "doi": "10.5281/zenodo.5181093",
+          "presenters": [
+            {
+              "name": "Oliver Watteler",
+              "institution": "GESIS - Leibniz-Institute for the Social Sciences"
+            }
+          ]
+        },
+        {
+          "title": "Research participants’ views: ethical guidelines for archiving and sharing stories of migration for future reuse",
+          "abstract": "In the last five years, research funders in the UK have funded much social science research into the global migration crisis. This research explores intimate, and often difficult, aspects of migrant lives and creates a historically significant record of the testimonies of refugees. Despite data policies and data management plans showing intentions to archive these data, the ethical challenges meant very little of the data ended up preserved in an archive. It is well-known that sharing and archiving qualitative research data poses ethical challenges, especially with vulnerable participants and sensitive topics. Personal stories told may be impossible to anonymise. Research participants from different cultural backgrounds may have a different understanding of ethical principles and consent, with researchers uncertain how best to approach this. At the same time, such qualitative research data provide valuable evidence and often unique resources for future research and policy making. And also vulnerable research participants may want their voices heard beyond the primary research. We will present findings and practical guidelines resulting from a seminar and follow-up discussions, where we brought different stakeholders together: historians reusing past migration stories, migration researchers, research participants, national and grass-roots organisations working with migrants and refugees and providing advocacy. Discussions looked at ownership and stewardship of migration stories, how researchers engage with participants, participants as equitable partners rather than vulnerable subjects, participatory and citizen science approaches to collecting and preserving knowledge and stories.",
+          "doi": "10.5281/zenodo.5181087",
+          "presenters": [
+            {
+              "name": "Veerle Van den Eynden",
+              "institution": "UK Data Service"
+            },
+            {
+              "name": "Maureen Haaker",
+              "institution": "UK Data Service"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Tuesday Session 2 - National Projects",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Tuomas J. Alaterä",
+      "presentations": [
+        {
+          "title": "Accessing our past: the historical Census of Canada data inventory project",
+          "abstract": "The Historical Census of Canada Working Group is developing a bilingual inventory of Canadian Census data, and investigating how access to these resources might be provided through a single interface. Our vision is to eventually build an open, bilingual, Census of Canada research platform that would facilitate long-term access to print and digital census collections throughout Canada's history. The working group began as part of the Ontario Council of University Libraries (OCUL) but has now expanded nationally and is collaborating with partners across Canada to compile the inventory, which will include census products (data tables, maps, spatial data, documentation, and more) from all Canadian censuses going back to 1665. This session will outline the working group’s decisions about project scope, metadata framework, bilingualism, software tools and inventory processes, and provide a project status update. It will also provide an overview of the group’s vision for the Census of Canada research platform, and discuss how this project might improve access, usability and long-term preservation of census materials.",
+          "doi": "10.5281/zenodo.6757212",
+          "presenters": [
+            {
+              "name": "Alex Guindon",
+              "institution": "Concordia University"
+            },
+            {
+              "name": "Susan Mowers",
+              "institution": "University of Ottawa"
+            },
+            {
+              "name": "Leanne Trimble",
+              "institution": "Concordia University"
+            }
+          ]
+        },
+        {
+          "title": "How collaboration is instrumental at the University of Oslo to achieve goals related to research data management (RDM)",
+          "abstract": "At the University of Oslo, cross-departmental collaboration on strategic development and solutions development is critical to achieving progress in a time of limited resources and rapid change. The department of research administration, the university center for information technology and the university library currently collaborate and coordinate their activities in order to ensure best practices for research data management at the university. We acknowledge that collaboration across these groups is challenging. Examples of challenges are issues with language related to the different professions’ terminologies; different cultures and priorities within fields (e.g. the IT department focuses on infrastructure, IT-security, and storage, while the library focuses on archiving and management, while the research office focuses on policy and legal matters). Why is it still beneficial to collaborate then? There are several answers to this. Firstly, we find that working together makes gaining impact within the institution easier. By making the case together, we can emphasize the importance of RDM both to university management and the researchers and departments. At the same time, we are able to ascertain what activities taking place across the collaborating departments are well-coordinated and can be joined up if necessary. By the time of the conference, we also aim to have established a cross-institutional network of research data support workers, providing a networking forum and, we hope, enabling knowledge exchange and cross-departmental collaboration across the institution. The latter is very important as the institution is facing cuts caused by the national de-bureaucratization reform and finding fresh resources to ascertain good RDM support is very difficult. In our presentation, we will talk more about the issues described above, share more of our experiences and also discuss some of our achievements with RDM so far.",
+          "doi": "10.5281/zenodo.5181089",
+          "presenters": [
+            {
+              "name": "Margaret Louise Fotland",
+              "institution": "University of Oslo"
+            },
+            {
+              "name": "Elin Stangeland",
+              "institution": "University of Oslo"
+            },
+            {
+              "name": "Anne Bergsaker",
+              "institution": "University of Oslo"
+            },
+            {
+              "name": "Annika Rockenberger",
+              "institution": "University of Oslo"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Panel: Privacy Protection and Public Data: The U.S. 2020 Census",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Ron Nakao",
+      "presentations": [
+        {
+          "title": "Privacy Protection and Public Data: The U.S. 2020 Census",
+          "abstract": "In September 2018, the U.S. Census Bureau announced a new set of methods for disclosure control in public use data products.  The new approach, known as differential privacy, is a significant departure from current disclosure avoidance systems. The Bureau is working toward implementing differential privacy for the 2020 decennial census products.  The implications of differential privacy for quality and accuracy of census data are unknown: differential privacy has never been used on a dataset with the scale, audience, and important public uses as the decennial census. Understanding the implications of differential privacy for research using census data is essential for supporting future rigorous and objective research on U.S. population and economy. Differentially private data could potentially have enormous consequences for decision making by regulators, policymakers, and the public.  The Census Bureau claims that the new system will be more open and transparent to users. But the new system may come with a significant trade-off in data accuracy, making the public data useless for many applications. The Census Bureau has released differentially private  demonstration data from 1940 and 2010 that allow researchers to investigate how and in what ways differential privacy may impact 2020 census data products. This panel will include 3 presentations, and will leave sufficient time for questions and discussion among the panelists and audience. The presentations will be aimed at the IASSIST audience: data-savvy and interdisciplinary, but will not assume computer science background. 1. U.S. Census Bureau Implementation of Differential Privacy An overview of differential privacy and how it works. 2. Implications for Data Users Results from 2010 demonstration data that highlight key challenges for data users.  3. Census 2020 Public Data Products Summary of plans for 2020 data products, including reduced number of tables and geographic detail, and any updates to Census Bureau plans.",
+          "doi": "10.5281/zenodo.6757250",
+          "presenters": [
+            {
+              "name": "Catherine Fitch",
+              "institution": "IPUMS, University of Minnesota"
+            },
+            {
+              "name": "Kugler Tracy",
+              "institution": "IPUMS, University of Minnesota"
+            },
+            {
+              "name": "Jan Vink",
+              "institution": "Cornell Program on Applied Demographics, Cornell University"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Tuesday Session 4 - Data Visualization",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "San Cannon",
+      "presentations": [
+        {
+          "title": "Given Meaning: Centering the Work of Data Visualization in Instruction",
+          "abstract": "This panel will focus on the relationship between data visualization and the production of meaning. The panelists will address teaching data visualization skills, especially to undergraduate students, in ways that center literacy, representation, design, aesthetics and critical approaches rather than exclusively focusing on specific technologies and tools.  Amy Sonnichsen will discuss how visualization was the combinative factor in centering a course on community and interdisciplinary scholarship. She will share the instructional outcomes that emerged in the classroom through the focus on methods for making meaning and visual connections between data and disciplines.  Andy Rutkowski will explain the concept of “writing with technology” in the context of a freshman writing course. He will focus on the importance of making space and time in the creation and interpretation of visualizations and how the process of visualizing data is sometimes more important than the end results.  Justin Joque will focus on the work of French cartographer Jacques Bertin, especially from his 1960s text The Semiology of Graphics. This work provides an enduring foundation from which to understand visualization. This presentation will provide a critical overview of core concepts and suggest its continued relevance to understanding and teaching data visualization.  Ryan Clement will explore teaching novices (e.g. new librarians, first-year undergrads, unfamiliar faculty) about data visualization as a form of communicating. Drawing from recent research and work, he will address the particular challenges and solutions in working with novices, and how this can complement/challenge the ‘in-class’ lessons from faculty.  This work grows out of the IMLS funded “Visualizing the Future” grant (RE-73-18-0059-18) designed to develop a literacy-based instructional and research agenda for library and information professionals advancing data visualization instruction and use beyond hands-on, technology-based tutorials toward a nuanced, critical understanding. All four panelists are currently working on the grant project.",
+          "doi": "10.5281/zenodo.5181091",
+          "presenters": [
+            {
+              "name": "Justin Joque",
+              "institution": "University of Michigan"
+            },
+            {
+              "name": "Amy Sonnichsen",
+              "institution": "Mount Saint Mary's University - Los Angeles"
+            },
+            {
+              "name": "Andy Rutkowski",
+              "institution": "University of Southern California"
+            },
+            {
+              "name": "Ryan Clement",
+              "institution": "Middlebury College"
+            }
+          ]
+        },
+        {
+          "title": "To See is to Understand: Using Data Visualization to Teach Statistical Inference",
+          "abstract": "There has always been a gap between statistical truth — and more importantly, statistical uncertainty — and the average understanding of statistics.  While it may feel like the misuse and abuse of statistics is becoming more frequent, what we know is true is that data is growing and thus we are witnessing more and more of these abuses even if they are happening at the same rate.  What can data professionals do to help advance the cause of statistical literacy when statistics are often not intuitive and difficult to convey? We can use the same tools that researchers employ to present complicated statistical ideas in a more accessible way: visualization.  Data visualization is a powerful way to demonstrate both incorrect applications of statistics and to suggest the correct ones.  Simple visualizations like scatterplots are often an important way to assess quickly the likely use of a family of models.  Distributional plots are more informative that just having the mean and standard deviation, and, when you are dealing with data from distributions for which such measures are undefined (e.g., Cauchy), they are essential.  This presentation will explore using data visualization as a tool for statistical training and provide some examples from instruction programs at Stanford.  Through this presentation, we hope to convey the importance of teaching data visualization and basic statistical inference together as the two amplify the impact of one another in a learning environment.",
+          "doi": "10.5281/zenodo.6755035",
+          "presenters": [
+            {
+              "name": "Ashley Jester",
+              "institution": "Stanford Libraries"
+            },
+            {
+              "name": "Zachary Painter",
+              "institution": "Stanford Libraries"
+            }
+          ]
+        },
+        {
+          "title": "LC DataStories: Teaching Undergraduate Students Critical Skills for Data Visualization Literacy",
+          "abstract": "To inspire undergraduate students to think critically and creatively about data visualization as a form of communication, librarians at Lewis & Clark College invited students to submit data visualizations generated as part of their academic coursework for publication on a dedicated website. Data visualizations are solicited from students in all disciplines and each submission must include both a graphic presentation of data and an abstract explaining pertinent contextual information written for a general audience. Prior to publication, submissions are reviewed by the faculty member for the related course, who gauges content accuracy, and a student peer student from outside of the discipline who vets the submission for comprehension to a general audience. Prizes are awarded each semester to the most successful entries as judged by an interdisciplinary panel of librarians, faculty, and students. For the library, the website serves as a resource in both instruction and outreach. The website requires students to excerpt their visualizations from their original disciplinary context for presentation as compelling, coherent, and stand alone stories. Furthermore, the website acts as a venue where students confront varied visualizations and critically engage with the principles of effective visualization. The website also announces the library as a stakeholder in data visualization literacy on campus, and provides an important tool for outreach. It creates opportunities to provide data visualization instruction in classes, and establishes an ongoing conversation around data visualization literacy on campus between the library, faculty, and students. This presentation will introduce the site, its development parameters, and its role in both outreach and instruction efforts surrounding data visualization literacy.  We will also reflect on successes and challenges from our first year as we prepare to open the site to submissions from our newly established freshman quantitative literacy program in the fall of 2020.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Parvaneh Abbaspour",
+              "institution": "Lewis & Clark College"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Wednesday Session 1 - Data Servers",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Carol Perry",
+      "presentations": [
+        {
+          "title": "Kuha2 - Open Source Metadata Server",
+          "abstract": "Kuha2 is metadata server developed to provide research metadata for harvesting using multiple protocols and metadata standards. It is composed of a collection of server applications and a client. Kuha2 is targeted at data archives who wish to make their metadata harvestable by interested parties. The development of Kuha2 was originally initiated by CESSDA SaW -project and has continued as an open source project lead by FSD.  In its current state Kuha2 ingests DDI files and synchronizes the metadata records into a persistant storage. It then serves the records via repository handlers that currently support OAI-PMH and OSMH protocols. Over the past year, the versions supported for ingesting have been widened from DDI 2.5 to also include DDI versions 1.2.2 and 3.1. Presently the metadata standards harvestable via OAI-PMH are DDI 2.5. and OAI-DC. However, work has already been done to extend harvestable metadata standards to include EAD3.  FSD has been using Kuha2 in production for over two years. Some archives within CESSDA have reportedly been using Kuha2 to integrate to CESSDA Data Catalogue. Kuha2 is designed in usability and simplicity in mind. Therefore the software installation and use does not require advanced technical skills. The software is developed as open source, has an open issue tracker in Bitbucket and documentation is openly available and hosted at Readthedocs.  Kuha2 provides a technical solution to increase visibility and discoverability of organization's data collection. The possibility of providing standardized harvestable metadata promotes interorganizational partnership and advocates good documentation practices. Kuha2's open source development model encourages contributions from bug fixes to feature implementations, while good documentation and open communication platform decrease the barrier of engagement.  This presentation will give an overview of Kuha2 software, its use cases and enhancements over the past year and near future.",
+          "doi": "10.5281/zenodo.5181073",
+          "presenters": [
+            {
+              "name": "Toni Sissala",
+              "institution": "Finnish Social Science Data Archive"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Wednesday Session 2 - Openness",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Stephanie Tulley",
+      "presentations": [
+        {
+          "title": "Optimizing Openness in Human Subjects Research: Balancing Transparency and Protection",
+          "abstract": "Different institutional stakeholders play different roles in guiding the sharing of research data.  Funders and publishers/journals, for instance, are both sources and “enforcers” of data management and sharing mandates. Repositories are “transparency facilitators”, offering workflows, tools and technologies for data preservation and access. Finally, ethics boards (in the United States, often university-based Institutional Review Boards [IRBs]) are charged with ensuring that researchers comply with regulations and rules designed to protect from harm the human participants they engage in their work. Given that role, some assume that IRBs’ natural position is to stand in the way of openness. Our research tests that assumption: we investigate whether and how IRB professionals understand the challenges and opportunities presented by the renewed emphasis on data sharing in the social sciences. Specifically, we undertook a qualitative study of the US-based IRB community, conducting interviews and focus groups with representatives of 30 institutions that receive high levels of funding from the National Science Foundation’s Directorate for Social Behavioral and Educational Sciences. Using a structured questionnaire, we asked respondents about the advice they give scholars concerning data sharing; their familiarity with and views on repositories’ processes and technology; and their coordination with other campus units on these issues.  While many respondents reported awareness of evolution in data-sharing mandates, few had made systematic changes to their policies or procedures to accommodate that evolution. Crucially, however, we found that when approached as partners in supporting robust scholarly research, IRBs are open – in fact eager – to engage with other actors who can provide different expertise. Integrating IRBs into ongoing conversations about sharing social science research data ethically and legally will help IRB professionals to understand, and enable them to encourage researchers to see, how potential conflicts between human participant protection and research transparency can be prevented or mitigated.",
+          "doi": "10.5281/zenodo.5181109",
+          "presenters": [
+            {
+              "name": "Dessislava Kirilova",
+              "institution": "Qualitative Data Repository"
+            },
+            {
+              "name": "Diana Kapiszewski",
+              "institution": "Georgetown University / Qualitative Data Repository"
+            },
+            {
+              "name": "Colin Elman",
+              "institution": "Syracuse University  / Qualitative Data Repository"
+            }
+          ]
+        },
+        {
+          "title": "Mathematics, Risk, and Messy Survey Data",
+          "abstract": "Data de-identification is a fraught and somewhat poorly understood area beset with intimidating ethical implications and oddly named mathematical algorithms. In addition, data needing assessment may be poorly documented and difficult to work with. Finally, data librarians are often not trained in data risk assessment, yet find themselves in the position of deciding whether a dataset can or should be shared openly.  This session will introduce key topics in data de-identification and risk assessment, including various population heuristics, k-anonymity, and related concepts. Using these concepts the authors cane up with a workflow to clean, assess, and eventually publish some high-risk, neglected government survey datasets.",
+          "doi": "10.5281/zenodo.5181065",
+          "presenters": [
+            {
+              "name": "Kristi Thompson",
+              "institution": "Western University"
+            },
+            {
+              "name": "Carolyn Sullivan",
+              "institution": "Western University"
+            }
+          ]
+        },
+        {
+          "title": "How to guide anonymisation?",
+          "abstract": "The presentation focuses on anonymisation guidance that FSD offers to its customers for both quantitative and qualitative research. Anonymity of the datasets makes data dissemination much easier for researchers since it removes the need to apply the GDPR. Anonymisation is also one of the safeguards mentioned in the GDPR. In practice, FSD also mainly archives anonymous research data with some exceptions and requires that researchers do the anonymization themselves. The challenge is that researchers often lack skills of anonymisation. This presentation discusses the guidance given in the FSD´s Data Management Guide and practices used in anonymisation training and workshops held for researchers. The focus is not in anonymisation techniques or statistical anonymisation methods but rather in anonymisation planning, decision making and practical tips for anonymisation process. The presentation may help other archives to enhance their anonymisation guidance and offers an opportunity to think together about anonymisation and anonymisation practices in more detail. The writer: Annika Valaranta is an information services specialist at the FSD. She has been processing both qualitative and quantitative datasets during her seven years career in the FSD. At present her major responsibilities are processing quantitative datasets and process development, international survey programme (ISSP, EVS) data, rewriting anonymisation guidance and giving training on anonymisation to researchers.",
+          "doi": "10.5281/zenodo.5181069",
+          "presenters": [
+            {
+              "name": "Annika Valaranta",
+              "institution": "Finnish Social Science Data Archive FSD"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Wednesday Session 3 - Publishing Methods",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Kelly Chatain",
+      "presentations": [
+        {
+          "title": "Crafting a Sustainable Reproducibility Service and Archive",
+          "abstract": "The Cornell Institute for Social and Economic Research (CISER) has been actively building a Results Reproduction (R-Squared) service since 2013.  To date, CISER’s R-Squared team has recruited researchers from various social-science related disciplines, including fields such as Policy Analysis, Communications, and Industrial and Labor Relations. Many of these researchers are members of teams working on larger interdisciplinary research projects, such as Global Health, Nutrition, and Engineering.  Altogether we have created more than 40 packages of reproduction-ready material. Ensuring that these packages are available for the long-term requires crafting a sustainable service, workflow, and archive. In this paper, we will first overview the larger discussion around reproducibility and transparency work. Next we will relate that discussion to archives and libraries and needs for long-term access to reproducibility materials, a newer area in library discussions.  Next, we will highlight the major challenges with developing workflows between our R-Squared service and our in-house, long-standing archive. These include both daily workflow challenges as well as unanticipated issues, such as how to handle secondary data used in original research that is licensed other data providers.  Finally, we will present our approach to redesigning our in-house data archive to better highlight our R-Squared packages and their materials. In our paper we will discuss our plans and specifications for the archive, and at the conference we will demonstrate its capabilities with our live launch.",
+          "doi": "10.5281/zenodo.5181083",
+          "presenters": [
+            {
+              "name": "Lynda Kellam",
+              "institution": "Cornell Institute for Social & Economic Research"
+            },
+            {
+              "name": "Bill Block",
+              "institution": "Cornell Institute for Social & Economic Research"
+            },
+            {
+              "name": "Brandon Kowalski",
+              "institution": "Cornell Institute for Social & Economic Research"
+            }
+          ]
+        },
+        {
+          "title": "Form fumbles function: Do university IR deposit forms deter data discovery?",
+          "abstract": "Just as every designer knows that form follows function, data professionals adhere to the dictum that documentation drives discovery. University based institutional repositories (IRs) continue to play an evolving and expanding role in the scholarly communication ecosystem, including the collection, organization, and dissemination of digital data objects. To remain relevant within this continuously evolving ecosystem, university IRs need to support a common language that advances data discovery--not only across academic institutions, but throughout the wider research data network. A first and crucial step in promoting this common language is the design of deposit forms and guidelines for the metadata that accompanies digital data deposit, which is essential for discovery, reuse, and interoperability.  This presentation will report on the results of our exploration across a sample of US- and UK-based university IRs to analyze the required metadata elements for data deposit. Specifically, we examine IR deposit forms and guidelines to determine comparable fields as mapped against the Dublin Core schema, with a particular focus on how these guidelines support the requirements and expectations for data discovery within and across diverse academic disciplines. Case examples from different-sized institutions will illustrate variations in IR data deposit guidelines and point up issues associated with the need for human readable, domain specific data description.  In addition to presenting our findings, we hope to engage attendees at this session in a broader discussion of the range of institutional approaches to addressing the inevitable conflicts (such as controlled vocabulary vs flexibility; comprehensive description vs ease of self-deposit; etc.) arising from the establishment of metadata requirements for data deposit.",
+          "doi": "10.5281/zenodo.5181067",
+          "presenters": [
+            {
+              "name": "Terrence Bennett",
+              "institution": "The College of New Jersey"
+            },
+            {
+              "name": "Shawn Nicholson",
+              "institution": "Michigan State University"
+            }
+          ]
+        },
+        {
+          "title": "Integrating Self-publishing Platforms within Established Data Repositories",
+          "abstract": "Self-publishing platforms offer established repositories new channels for disseminating data collections. These new channels offer advantages like quicker distribution and minimal curatorial effort, but also pose potential disadvantages, such as lower quality descriptive metadata and incomplete documentation. In this presentation, we discuss ICPSR's experiences with its own self-publishing platform, openICPSR, which was first implemented in 2014. We detail the benefits, challenges, and opportunities of operating a self-publishing platform within an established data repository firmly committed to curating its collections. We especially delve into a discussion and examples of the potential tension between self-published and curated collections related to repository staff, users, development, and policies, including those surrounding content selection criteria and content moderation, preservation decisions, and disclosure risks.",
+          "doi": "10.5281/zenodo.6755151",
+          "presenters": [
+            {
+              "name": "Chelsea Goforth",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Jared Lyle",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Kyrani Reneau",
+              "institution": "ICPSR"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Wednesday Session 4 - RDM",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Alicia Hofelich Mohr",
+      "presentations": [
+        {
+          "title": "Accelerators and Speedbumps: RDM Capacity Development in Canadian Research Institutions",
+          "abstract": "The Portage Network Research Intelligence Expert Group (RIEG) gathers information on the state of research data management (RDM) in Canada for a variety of topics through the development and oversight of targeted studies to gather supporting evidence. To set priorities for RIEG, a high-level roadmap was created to bridge gaps in our knowledge about RDM practices, developments, communities, and policies in Canada.  Two key gaps were identified in the Canadian RDM knowledge: 1) information related to RDM policies and strategic planning within research organizations and post-secondary institutions, and 2) a deeper understanding of institutional capacity, local capacity and national capacity.  In order to bridge these gaps, two surveys were developed to evaluate how Canadian research institutions are preparing to support the various needs of their research communities. The first survey evaluated the progress and challenges of 63 Canadian research institutions in developing institutional strategies for RDM, which is expected to be a forthcoming requirement from Canada’s national funding agencies. The second survey investigated how 85 Canadian research institutions are developing and allocating organizational, infrastructure, fiscal and human resources to develop and support RDM services. The survey also assessed how resources and services are being coordinated by multiple units within the institution, and aligned with regional and national efforts. Survey results reveal a range of barriers, challenges, and accelerators that should be addressed to support the on-going development of RDM capacity in Canadian research institutions. Results also provide a benchmark for Canadian research institutions to develop national and related policy and infrastructure. This presentation will provide an analysis of survey results, highlighting key areas of progress and difficulty within the Canadian research community at large, and propose a series of recommendations for stakeholders to address some of the ongoing challenges facing research communities as they incorporate RDM into the research process.",
+          "doi": "10.5281/zenodo.6757004",
+          "presenters": [
+            {
+              "name": "Dylanne Dearborn",
+              "institution": "University of Toronto"
+            },
+            {
+              "name": "Shahira Khair",
+              "institution": "University of Victoria"
+            },
+            {
+              "name": "Carol Perry",
+              "institution": "University of Guelph"
+            },
+            {
+              "name": "Tatiana Zaraiskaya",
+              "institution": "University of New Brunswick"
+            },
+            {
+              "name": "Alex Cooper",
+              "institution": "Queen's University"
+            },
+            {
+              "name": "Will Meredith",
+              "institution": "Royal Roads University"
+            },
+            {
+              "name": "Andrea Szwajcer",
+              "institution": "University of Manitoba"
+            },
+            {
+              "name": "Mark Leggott",
+              "institution": "Research Data Canada"
+            }
+          ]
+        },
+        {
+          "title": "Mind the gap: building a better research data management environment",
+          "abstract": "As libraries become more involved in providing access to acquired data resources, there is a need for librarians to be more engaged in data management discussions as early as possible. For many data collections, a management gap may exist between the technical services provided by IT professionals and the practical applications of data by researchers. When it comes to providing access or sharing of acquired data many challenges are often not exclusively technical or analytical but involve sound governance practices and a customer service mindset. Librarians are well equipped to contribute to many data management practices that bridge the gap between IT service providers and data users. At the Federal Reserve Bank of Kansas City, the Research Library is partnering with the High Performance Computing team to develop the Research Data Management Environment (RDME). This project is designed to support not only purchased data with legal obligations but also researcher curated public data sets they hope to share with colleagues. Ultimately, the goal of the RDME is not to create a better tool or technology; but a process that facilitates a dialogue between the data stewards (the librarians), IT support staff, and researchers so that acquired data collections are more visible, sustainable, and better managed.",
+          "doi": "10.5281/zenodo.5181071",
+          "presenters": [
+            {
+              "name": "Christina Kulp",
+              "institution": "Federal Reserve Bank of Kansas City"
+            }
+          ]
+        },
+        {
+          "title": "Better Data Management, One Nudge at a Time",
+          "abstract": "How do you help people improve their data management skills? For our team at the University of Illinois at Urbana-Champaign, we decided the answer was \"one nudge at a time\".  A study conducted by Wiley and Mischo (2016) found that at Illinois, there is a disconnect between the awareness of data services and the actual use, as many researchers do not consider data management as a separate concern. In 2017, the RDS piloted the Data Nudge-a monthly opt – in email service to educate and remind Illinois researchers about data services on campus. The aim of the Data Nudge was to address this gap by raising awareness of best practices and campus resources.  The topics covered in the Data Nudge center around data. Some topics are applicable to everyone, such as back-up, documentation, and file naming conventions. Other topics are specific to Illinois, like storage options, events, and conferences.  After two years, the Data Nudge has accumulated almost 400 subscribers through word of mouth, marketing channels on campus, and inclusion in subject liaisons' instructional workshops. It receives stable open rates averaging at 54% (compared to 16.99% average industry rate for Higher Education*) and many compliments from subscribers. We expect the Data Nudge to continue supplementing workshops and training as an effective means of communication to reach researchers on our campus. In the future, we plan to provide Data Nudge topics in a reusable format, readily adaptable by other institutions. Data Nudge link: https://go.illinois.edu/past_nudges",
+          "doi": "10.5281/zenodo.6755459",
+          "presenters": [
+            {
+              "name": "Hoa Luong",
+              "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+              "name": "Daria Orlowska",
+              "institution": "Western Michigan University"
+            },
+            {
+              "name": "Colleen Fallaw",
+              "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+              "name": "Yali Feng",
+              "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+              "name": "Ashley Hetrick",
+              "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+              "name": "Livia Garza",
+              "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+              "name": "Heidi Imker",
+              "institution": "University of Illinois at Urbana-Champaign"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Thursday Session 1 - DDI & CoreTrustSeal",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Ashley Jester",
+      "presentations": [
+        {
+          "title": "What’s new, CoreTrustSeal? Changes and expected developments 2020-2022",
+          "abstract": "CoreTrustSeal  is an international, community-based non-profit organisation promoting sustainable and trustworthy data infrastructures and offering a core level trust certification for data repositories. Between March and November 2019, a review of the CoreTrustSeal Requirements and (Extended) Guidance took place which resulted in the publication of the 2020-2022 version of the Requirements and Guidance. The presentation will give an overview of the review process and the feedback received from the community during the public consultation phase or as part of applications. It will then describe the most significant changes to the Requirements and Guidance and their rationale. In particular, an effort was made to clarify the requirements through better guidance, to reduce (perceived) overlap between some of the requirements, and to better communicate the role and importance of R0 “Background information” for the evaluation of the other requirements. The presentation will conclude with an outlook on future plans and envisioned developments, in particular in relation to the role of technical infrastructure providers in repository certification and concerning external demands on the CoreTrustSeal that may result, for example, from the development of the European Open Science Cloud and the further clarification of FAIR Data Principles.",
+          "doi": "10.5281/zenodo.5181079",
+          "presenters": [
+            {
+              "name": "Jonas Recker",
+              "institution": "GESIS - Leibniz Institute for the Social Sciences / CoreTrustSeal Standards and Certification Board"
+            },
+            {
+              "name": "Mari Kleemola",
+              "institution": "Tampere University, Finnish Social Science Data Archive / CoreTrustSeal Standards and Certification Board"
+            },
+            {
+              "name": "Hervé L'Hours",
+              "institution": "University of Essex, UK Data Archive / CoreTrustSeal Standards and Certification Board"
+            }
+          ]
+        },
+        {
+          "title": "The DDI4 Core - how to document data from different structures?",
+          "abstract": "The DDI4 Core - how to document data from different structures?  The model based DDI4 Core specification to be released in 2020 offers new possibilities to describe data compared to earlier versions of the DDI. The DDI4 Core has a domain independent approach to data description,aiming at covering data from different structures as well as new data types.  The presentation will provide examples on and discuss how data from the following structures can be described using this new product of the DDI Alliance:  • Wide Data - traditional rectangular unit record data sets. • Long Data - used for many different data types, for example event data and spell data. • Multi-Dimensional Data - some examples are multi-dimensional cubes and time series. • Key-Value Data - suitable to structure data from lakes, streams, big data etc.",
+          "doi": "10.5281/zenodo.5181081",
+          "presenters": [
+            {
+              "name": "Hilde Orten",
+              "institution": "NSD - Norwegian Centre for Research Data"
+            },
+            {
+              "name": "Larry Hoyle",
+              "institution": "University of Kansas"
+            }
+          ]
+        },
+        {
+          "title": "Documenting Variable Comparability with DDI-Lifecycle",
+          "abstract": "ICPSR has recently been actively engaged in moving to DDI-Lifecycle to document some of its longitudinal data. Pilot projects involving the creation of DDI-L metadata for two of our most popular longitudinal studies have already been finalized, and the variable-level documentation for the National Social Life, Health, and Aging Project (NSHAP) is now publicly available for online searching and exploring comparability across waves. Using this previous work as a background, we will focus our presentation on a new, ongoing project that uses DDI-Lifecycle to document comparability between two independent longitudinal collections – the NSHAP and the National Health and Aging Study (NHATS) - that explore similar topics, with special focus on health and cognition issues among aging populations. We will elaborate on the steps, the tools we used, and the decisions taken to move this project forward, and will share practical details regarding its organization and progress. We will also include our findings regarding potential difficulties and benefits.",
+          "doi": "10.5281/zenodo.5181105",
+          "presenters": [
+            {
+              "name": "Kathryn Lavander",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Sanda Ionescu",
+              "institution": "ICPSR"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Thursday Session 2 - Data Literacy",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Jennifer Doty",
+      "presentations": [
+        {
+          "title": "EmpoderaData: Developing data literacy capacity in Latin America",
+          "abstract": "The EmpoderaData project aims to foster data literacy skills in Latin America to address society’s most pressing issues using the framework of the Sustainable Development Goals (SDGs). EmpoderaData, from the Spanish word empoderar “to empower”, builds upon a successful data-driven, research-led internship program in the UK (Q-Step) which trains undergraduates by enabling them to practice data skills in the workplace. The project explored whether the internship model would be applicable within the context of 3 Latin American countries (Brazil, Colombia and Mexico) and established a qualitative baseline of the state of data literacy and existing training programs in Brazil, Colombia and Mexico. A workshop was held in São Paulo with thirty participants involved in data literacy advocacy or policy formation, representing civil society, academia, private or public sector. Eighteen qualitative interviews were then undertaken with stakeholders from the three countries. Next, we narrowed our focus to Colombia to explore the challenges and opportunities of developing a pilot data fellowship model in the country. Engaging with national, regional and international capacity development efforts, this highlighted a demand for partnerships between universities and organisations working on the social challenges represented by the SDGs. Partnerships ensure that the in-country data literacy pipeline is strengthened in a home-grown, self-sustaining way, producing a steady flow of data literate social scientists into the institutions and sectors where critical data skills are most needed. We report on how the EmpoderaData project is building such a network of partners in Colombia. Conclusions are (1) the most requested data literacy training need is for basic skills, including introductory statistics, foundation data analysis and methodological skills (2) paid data fellowship models are seen as a useful intervention (3) the notion of a ‘hybrid’ professional to build data literacy capacities for ‘social science’ purposes would be a practical way forward.",
+          "doi": "10.5281/zenodo.6755654",
+          "presenters": [
+            {
+              "name": "Vanessa Higgins",
+              "institution": "UK Data Service"
+            },
+            {
+              "name": "Jackie Carter",
+              "institution": "University of Manchester"
+            }
+          ]
+        },
+        {
+          "title": "Building Data Literacy Suite in the Humanities: A Hands-on Approach",
+          "abstract": "Research and scholarship across different disciplines are rapidly evolving with the advent of big data and advanced analytical and visualization tools. Besides those data-intensive disciplines in science and social science, more and more researchers in the humanities are adopting data-oriented methodologies. Understandably, scholars in the humanities have also raised their expectations on their students’ data literacy and processing skills. This project builds upon the Information Wanted, an online historical database collected by Ruth-Ann Harris at Boston College’s History Department, which provides a comprehensive archive of historical advertisements between 1831 and 1920 from the Piolet, a Boston-based newspaper. These advertisements were posted by early Irish immigrants (and others) looking for their lost friends and relatives. Given that these advertisements also contain information regarding the subjects’ occupations, origins, and departure/arrival ports, this dataset offers a unique social and economic snapshot of the early Irish immigrants. Revolving around the ACRL information literacy standards, our plan is to utilize this unique dataset as a platform to develop a data literary suite that incorporates hands-on data skill learning for advanced undergraduate and entry-level graduate students across various majors in the humanities. Specifically, the project seeks to help students achieve the following objectives: 1. Identify the nature and extent of information needs, e.g., identify the archive data appropriate for the research topics; 2. Access data efficiently, e.g., consult disciplinary and interdisciplinary databases with an understanding of the data formats and the involved data extraction skills; 3. Evaluate data critically, e.g., develop knowledge of evaluating the quality and relevance of the collected data; 4. Prepare data for further statistical analysis, e.g., develop data processing skills in text recognition, spreadsheets, and visualization tools; 5. Understand the legal, social and ethical issues of data usage, i.e., introduce students to knowledge and skills of managing, preserving and re-using textual data.",
+          "doi": "10.5281/zenodo.5181097",
+          "presenters": [
+            {
+              "name": "Jiebei Luo",
+              "institution": "Boston College"
+            }
+          ]
+        },
+        {
+          "title": "Not always invisible: finding the data about marginalized and underrepresented populations in Canada",
+          "abstract": "A sustainable data culture is also an inclusive data culture where planning, policy making, and research accounts for marginalized or underrepresented populations. Indigenous Peoples, racialized groups, and people who identify as LGBTQ+ are often underrepresented or hidden in the datasets we rely on for research and planning. Data about mental health, substance abuse, and homelessness can likewise be difficult to find, particularly for marginalized populations. To move toward a more sustainable and inclusive data culture we need to understand the historical and social context for this lack of visibility and the impact it can have in the present. It is also important to share this understanding with researchers, making them aware of potential gaps in the data, the reasons for those gaps, and alternative sources of information about marginalized groups or topics. This presentation explores the relative invisibility of several populations in the Canadian data context. We identify specific issues that contribute to these gaps including historical decisions about the Census; relationships between Indigenous Peoples and colonizing cultures; mainstream perceptions that sideline some subjects; and barriers to collecting data about certain groups or topics. The presenters draw on examples primarily from the Canadian context with occasional comparison to other international jurisdictions. In Fall 2019 and Winter 2020, two data librarians at different universities in Canada collaborated on a series of data literacy workshops about how to find data on marginalized or underrepresented populations. They will also report back on the experience of teaching these topics with their university communities and share the outcome and opportunities for providing instruction with more inclusive data sources.",
+          "doi": "10.5281/zenodo.5181075",
+          "presenters": [
+            {
+              "name": "Jeremy Buhler",
+              "institution": "Ryerson University Library & Archives"
+            },
+            {
+              "name": "Kevin Manuel",
+              "institution": "Ryerson University"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Thursday Session 3 - Using Student Workers in the Delivery of Data Services",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Bobray Bordelon",
+      "presentations": [
+        {
+          "title": "Do Graduate Students Dream of -for- Loops?  Ph.D. Students and Data Services at Emory University",
+          "abstract": "In addition to the work provided by full-time data librarians, data services at Emory University are also provided by advanced graduate students who have fellowships to work in different divisions within the libraries.  These fellows play a key role in helping undergraduates (and some graduate students) with locating relevant data and especially with cleaning data into usable states.  In this presentation, I will talk about the fellowship program, the backgrounds of graduate students who have had fellowships, how we select graduate students for fellowships, and the sorts of work that the fellows do.  As undergraduates come to the libraries with increasingly intricate and complicated questions, data librarians at Emory have taken on more of a role in helping them clean and manage data.  Consequently, the training and orientation which fellows receive increasingly emphasize such activities.  This presentation will include an overview of the sequence of training exercises for cleaning and managing data in R and Stata that we use to introduce fellows to the types of questions undergraduates often have.  The exercises also serve to introduce fellows to the mix of principles and practical considerations that inform how we support data-intensive research at the university, including how we (try to!) encourage undergraduates to use data in more transparent and reproducible fashions.",
+          "doi": "10.5281/zenodo.5181099",
+          "presenters": [
+            {
+              "name": "Robert O'Reilly",
+              "institution": "Emory University"
+            }
+          ]
+        },
+        {
+          "title": "From Pilot to JetStream: Building training pathways and collaboration in data science and digital humanities through the Library",
+          "abstract": "Responding to increasing demand for pathways to learn data science and digital humanities skills, the New Brunswick Libraries at Rutgers University inaugurated the Graduate Specialist Program as a pilot in January 2018.   Graduate students at Rutgers with advanced skills were recruited to provide workshops and consulting in statistical analysis, data visualization, and text analysis using R, Python, and other tools.  Success with the pilot has led to expansion to the current level of five graduate specialists and the addition of qualitative data and GIS workshops.  The program provides the opportunity for graduate students to develop their skillsets and gain marketable teaching experience while simultaneously expanding the range of instruction and services offered by the Libraries in the latest advanced research methodologies.  As of Fall 2019, 28 distinct workshop topics were offered under the aegis of the program. Complementing this service and staffing expansion has been the renovation of a space explicitly designed for flexible and interactive learning, the JetStream, an airy room with all tables, chairs, power towers, whiteboards, and monitors on wheels that can be reconfigured to accommodate any size group of 24 or less, for any kind of learning format.  The purpose of the JetStream (Joint Experimental Teaching Space for TRansdisciplinary REseArch Methods) is to provide a space that catalyzes interdisciplinary learning and advanced research methods, including but by no means limited to the workshops offered by the Graduate Specialist Program. This presentation will discuss the successes and difficulties encountered along the path to developing these initiatives, as well as the collaboration building with academic departments and administrators that has resulted from the Libraries’ active engagement in this area.",
+          "doi": "10.5281/zenodo.6755594",
+          "presenters": [
+            {
+              "name": "Ryan Womack",
+              "institution": "Rutgers University"
+            }
+          ]
+        },
+        {
+          "title": "The Meta-Support of Data Services: A discussion session on strategies for managing our workload with student labor",
+          "abstract": "We were happy to see the theme “Partnerships and Collaborations” because this proposal is about working in community to discuss how we may sustainably manage student labor.*  (*“student” is used broadly;  any novice hired to support our work in hands-on technical data services.)  While data support has a long tradition, the sexiness of Data Science has raised awareness of the power in data and we now have both more customers looking for sophisticated solutions as well as more variably-skilled students seeking practical experience. When we take on interns or student workers, we are training the next generation of data professionals, but how can we keep up with their training/mentoring & also assure the quality of our services? (especially on students’ schedules!?)  We seek collaborators to identify commonalities in the technical data support needs and services among our varied institutions. Further, we are interested in discussing our models for managing student technical support staff; sharing successes and challenges. This may lead us to a community/network model (ie Data Carpentries) to support cross-institutional mentoring and managers wrangling iterations of novices in the service of their data support mission.  Potential discussion areas: -Who is the intended recipient of our services? Who else might need help? How/how well are we currently satisfying these needs? Can they be categorized generically? -How are we distributing the workload? How are we finding suitable student staff (both literally and figuratively)? How are we managing them, their training, and their projects? -Is/how is this knowledge or set of practices captured for future temporary data support staff (students)? -Is it reasonable/useful to construct a community of practice among supervisors? Can it be self sustaining?  Panelists: -Paula Lackie (chair) -Carleton College -Deborah Wiltshire -UK Data Archive -Stephanie Labou -UCSD",
+          "doi": "10.5281/zenodo.6757378",
+          "presenters": [
+            {
+              "name": "Paula Lackie",
+              "institution": "Carleton College"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Lightning Talks",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "Lynda Kellam, Laurence Horton",
+      "presentations": [
+        {
+          "title": "Heritage made digital, Qatar Digital Library- a partnership to digitize heritage",
+          "abstract": "Qatar Digital Library, QDL, is a project that began in 2012 as a partnership between Qatar Foundation, Qatar National Library and The British Library https://www.qdl.qa/en/about. To create and formulate easy accessible online platform with an easy access to historical material from the Gulf region’s history. A collection of archival materials, which were not available previously, can now be accessed easily, including maps, archives, photographs, manuscripts, and much more. This lightning talk is aiming to illustrate the project’s phases, what was the idea behind it and how it had contributed to the overall knowledge of the users in the Middle East and the rest of world.",
+          "doi": "10.5281/zenodo.6757586",
+          "presenters": [
+            {
+              "name": "Maha Alsarraj",
+              "institution": "Qatar National Library"
+            }
+          ]
+        },
+        {
+          "title": "From paper records to research resource for health and social science",
+          "abstract": "Denmark is one of the countries in the world with most population-based registrations and therefore many records, especially regarding health. Researchers often use these huge amounts of digital records for a range of health related research questions. The Danish National Archives have funding for providing a dedicated service for collection, preservation and dissemination of data from health science named DNA Health. Until recent years focus for DNA Health has been on born research data exclusively. However, what about the great amount of paper records with huge potential for health science purposes held by the Danish National Archives? A group of Danish health researchers approached the DNA Health with the question: “What about the paper records from the schools medical offices, how can these records become a research resource for us?” To comply with this question the DNA Health formed a proposal for a digitization project in close collaboration with the researchers. The aim of the project is to create a database for research purposes based on the paper records from 1909-2012 from the northern part of the area of Jutland, where both rural and urban areas were included. More than 8.000 paper records will be digitalized into a ready to use database for research purposes. The database includes variables such as Social Security Numbers; birth weight; height and weight measured every year during the child’s school years; parents’ employment at the time of the child’s school entry; number of siblings, vaccinations registrations and date for each registration. An advisory board of researchers have ensured that the selected variables are in line with researchers’ needs. By 1st of December 2019 more than 1.750 children’s paper records from the school medical offices has been keyed in. The database is ready to use ultimo 2021.",
+          "doi": "10.5281/zenodo.5181113",
+          "presenters": [
+            {
+              "name": "Lindie Tessmer Andersen",
+              "institution": "Danish National Archives"
+            }
+          ]
+        },
+        {
+          "title": "Research Data Alliance (RDA) and the Social Sciences",
+          "abstract": "The Research Data Alliance (RDA, www.rd-alliance.org) is an international organization aiming to develop infrastructure and community activities that enable open sharing of data. The RDA operates across the globe and connects research data experts (like researchers, data stewards, librarians and funders) from a variety of disciplines, including the social sciences. This poster presentation gives an overview of the RDA and the activities that are of particular interest for the social sciences. The poster summarizes the work of the RDA ambassadorship for the social sciences that was done within the RDA Europe 4.0 project (www.grants.rd-alliance.org/about-rda-eu-40). In particular, the results of a small assessment will be presented that summarized the RDA working groups, interest groups and outcomes, and evaluated their relevance for social science professionals. The poster will provide conference participants with an introduction to the RDA and its relevance for our field. This can then be used as a starting point to discuss ongoing and novel initiatives and future collaborations designed to enhance data sharing and open exchange.",
+          "doi": "10.5281/zenodo.6757591",
+          "presenters": [
+            {
+              "name": "Ricarda Braukmann",
+              "institution": "Data Archiving and Networked Services (DANS)"
+            }
+          ]
+        },
+        {
+          "title": "Teaching data literacy skills via online and interactive 'Data Skills Modules'",
+          "abstract": "The UK Data Service programme of training events has traditionally included the teaching of basic skills in using data via hands-on computing workshops or shorter online webinars. More recently the service has produced a set of three online, interactive ‘Data Skills Modules’ – covering cross-sectional survey data, longitudinal data and aggregate data respectively. Each of the three modules is approximately two-hours long and is designed for learners who want to get to grips with the data. They highlight key design features of the data, get learners started with the data and test the learner’s knowledge via interactive quizzes. The modules, designed by data specialists in collaboration with an e-learning technologist, contain a mix of videos, written materials, quizzes and activities: https://www.ukdataservice.ac.uk/use-data/data-skills-modules. They are freely available for everyone without registration and are designed to be conducted in the learner’s own time, dipping in and out when needed. This presentation will describe the context of how the UK Data Service has traditionally taught skills in re-using data, the background to the development of the online modules, the content of the modules, the pedagogical approaches used, an exploration of how the modules have been received by the community and plans to develop future modules. The presentation will also discuss the pros and cons of this approach to using digital technology to build capacity in the re-use of data, including reflections on the production process.",
+          "doi": "10.5281/zenodo.6757593",
+          "presenters": [
+            {
+              "name": "Vanessa Higgins",
+              "institution": "UK Data Service at University of Manchester"
+            }
+          ]
+        },
+        {
+          "title": "Promoting Reproducible Research – The example of a training course for young Economists in Germany",
+          "abstract": "In Germany, the economics research community is quite large. Most of the researchers work at universities and research institutes (e.g. within the Leibniz Association). Considering the data intensive work, not only the needs for trainings in data literacy but also in data management are growing. But most of the research institutions do not provide any training in data management or the training does not meet the discipline specific needs. To fill this gap, the ZBW- Leibniz Information Centre for Economics has developed a specific data training program for young researchers in economics and management. Since2018 we train graduate students in best practises for managing and documenting their research data, program code and their research process. In addition, we provide guidance and information on journal data policies and requirements of research funders. Our workshops also draw the attention of leading German association of economic and business research. As a result, we organize workshops jointed with those associations twice a year. The lightning talk highlights the workshop format, describes the content of our eight hour trainings and discusses the results of the evaluations made by our participants.",
+          "doi": "10.5281/zenodo.6760770",
+          "presenters": [
+            {
+              "name": "Sven Vlaeminck",
+              "institution": "ZBW - Leibniz Information Centre for Economics"
+            }
+          ]
+        },
+        {
+          "title": "Walking the talk in Myanmar and Afghanistan: building data management capacities in a complex research project",
+          "abstract": "Data management for an interdisciplinary research project, with multiple partners, working on sensitive issues and in conflict-affected and fragile states may sound daunting. As data manager for the Global Challenges Drugs & (dis)order project, with twelve partner organisations researching how illicit drug economies can transform into peacetime economies in Afghanistan, Colombia and Myanmar, it's a matter of putting advice into practice that works for all the partners. Drugs & (dis)order seeks to generate robust evidence for use in policy and practice. Evidence (AKA research data) is collected through interviews, life histories, focus group discussions, observations, photographs, surveys, compilation of existing data sources and press information and satellite imagery. Most research is carried out by local field researchers, with information elicited from key informants such as drug users, producers, farmers, traders and the public. Strengthening local capacities, in particular for the grassroots research organisations in Myanmar and Afghanistan, has been a main focus. Developing solutions for the safe and secure storage, transfer and handling of all collected research data was made a priority, especially since some of the local partners have a fairly basic IT infrastructure and no dedicated IT staff. Finding synergies (or compromises) between local research practices, and ethical requirements of UK-based institutions and funders is an ongoing process. Developing capacity for coding qualitative data helps partners progress from data collectors to research partners. As the research progresses and primary data management practices get established, the focus now goes towards an open source tool to organise, manage and tag digital images, and solutions for a repository system for partners to archive and curate their data files.",
+          "doi": "10.5281/zenodo.6760821",
+          "presenters": [
+            {
+              "name": "Veerle Van den Eynden",
+              "institution": "SOAS, University of London"
+            }
+          ]
+        },
+        {
+          "title": "Demonstration of CLOSER Discovery: metadata platform for UK longitudinal studies",
+          "abstract": "CLOSER Discovery is a metadata platform which allows users to search by keyword, browse by topic and explore the study metadata from 8+ UK longitudinal studies. CLOSER has documented variable and question metadata as well as data collection surveys. This allows users to identify variables along with the original questions and discover where these questions appeared in the survey. In addition, an overview of each variable including valid and invalid cases and frequency counts are available. The platform is built using established metadata standards which are interoperable with social science data archives internationally. This demonstration will show the functionality of CLOSER Discovery including searching, browsing, creating lists and accessing the data.",
+          "doi": "10.5281/zenodo.6760835",
+          "presenters": [
+            {
+              "name": "Hayley Mills, Jon Johnson",
+              "institution": "University College London"
+            }
+          ]
+        },
+
+        {
+          "title": "A Day of Data: Collaborating with Campus Partners to Host an Event for Data Experts, Researchers, and Problem Solvers Across the University",
+          "abstract": "Cornell University Library, a large academic library, wanted to organize and host an event around research data to provide a networking space for students and faculty members across disciplines working with data. The goal was to bring together members of the Cornell research community interested in data-related topics such as data discovery, reproducible research, metadata and documentation, data sharing, and data reuse to discuss how we can, as a research community, better support and put into practice these principles. The Day of Data offered an opportunity for researchers to connect with others across the institution who have common interests or are working to resolve similar data-related challenges. Cornell University has a research data management service group (RDMSG) comprised of members who work in the library, information technology, specialized departments, and various computing centers located on Cornell's large, rural university campus. The RDMSG members formed a planning committee to organize the event. Following other successful yearly events at peer institutions, such as Yale University, University of Alberta and University of Minnesota, the Day of Data events included a keynote address and discussion panel, a FAIR data services fair, and afternoon sessions with multiple tracts of hands-on workshops. Organizing, planning, and running the event required collaborating with people and skills from across campus to create a successful networking environment. This poster will discuss the need for these types of events, how to advocate for and garnish support to host an event, where to look for funding and resources, and the importance of proper project management and delegation of tasks. We'll also address a few lessons learned throughout the process that might make future events even more appealing and useful for attendees.",
+          "doi": "10.5281/zenodo.6760932",
+          "presenters": [
+            {
+              "name": "Amelia Kallaher",
+              "institution": "Cornell University"
+            },
+            {
+              "name": "Wendy Kozlowski",
+              "institution": "Cornell University"
+            },
+            {
+              "name": "Jonathan Bohan",
+              "institution": "Cornell Institute for Social and Economic Research/Cornell Center for Social Science"
+            }
+          ]
+        },
+
+        {
+          "title": "ICPSR Data Curation Levels",
+          "abstract": "The goal of this presentation is to delve deeper into ICPSR’s data curation levels, an innovative approach to curating data designed to increase efficiency and consistency in today’s fast paced world. The curation levels were developed in 2018 to create a common data language across all of ICPSR’s projects, in terms of both data curation activities and timeframes. Results from the first year of the levels in practice were presented as a poster during IASSIST 2019, and were received with significant interest by the data curation community. This presentation will serve as a follow up of our lessons learned as we continue to refine curation levels. It will cover insights from both internal and external stakeholders, curation activities and how the levels have evolved over the past year, and their impact on workflow, timeframes, and data quality. A curator will co-present and provide insight on how the levels system works in day to day curation. ICPSR believes that this system has the potential to serve as a framework for other archives, and would like to begin a discussion about the use of curation levels in other settings.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Annie Beaubien, Rujuta Umarji",
+              "institution": "ICPSR"
+            }
+          ]
+        },
+
+        {
+          "title": "Data Culture in Canada: Perceptions and Practice Across the Disciplines",
+          "abstract": "Amid the increasing recognition of the value of research data, federal granting agencies are developing formal policies to advance the data culture in Canada. In order to better support their research communities, a consortium of Canadian universities surveyed researchers to identify research data management (RDM) practices, needs and attitudes. The consortium’s previous efforts characterized the data culture in distinct disciplines with individual surveys targeting researchers in science and engineering, humanities and social sciences, and health sciences and medicine. The data collected from the three surveys have been compiled to create a national dataset, which enables a deeper understanding of the Canadian RDM landscape. This poster presents the analysis of the national dataset, giving an overall picture of data sharing, data preservation, data management planning and interest in data management services. The results highlight trends in common practices across the country while revealing any unique practices and attitudes between disciplines, regions, researcher ranks and types of institutions. Informed by the survey findings, institutional policy, service, and infrastructure development can be aligned with funding agency requirements and effective data stewardship practices. Additionally, this publicly available national dataset will support future analysis in building sustainability in a national RDM strategy.",
+          "doi": "10.5281/zenodo.6760995",
+          "presenters": [
+            {
+              "name": "Melissa Cheung",
+              "institution": "University of Ottawa"
+            }
+          ]
+        },
+
+        {
+          "title": "The Landscape of State-Level Open Data Portals in the United States",
+          "abstract": "With the increasing focus in the United States at the federal level to make data openly available and the appearance in the past decade of state legislation requiring agencies to make their data publicly available, the issue of long-term public accessibility to government data at all levels of government has gained prominence. This is particularly true for librarians who regularly help users access these data and for those stewarding collections and access to government information and data. The spotlight has been on federal-level data as well as city-level data, but less focus has been given to state-level data and how state governments are responding to the push for public access to government information. In order to learn more about the landscape at the state level in the United States, we gathered information about state-sponsored open data, geospatial data, and transparency portals and websites. This poster will provide insight into high-level trends around modes of access, legislative support, usability of the data, and robustness of content for those states that have repositories or portals for geospatial data, open data writ large, or transparency data such as budget and expenditure information. Learning more about how states are dealing with access to state- and locally-produced government data can help shed light on how academic institutions could move forward as a potential partner for state agencies to provide expertise and facilitate access to these important data.",
+          "doi": "10.5281/zenodo.6761042",
+          "presenters": [
+            {
+              "name": "Alicia Kubas",
+              "institution": "University of Minnesota-Twin Cities"
+            },
+            {
+              "name": "Jenny McBurney",
+              "institution": "University of Minnesota"
+            }
+          ]
+        },
+
+        {
+          "title": "Involving Community to Build Strong Metadata Foundations",
+          "abstract": "The ICPSR Metadata Librarian recently conducted a survey of both internal and external users of the ICPSR website in order to determine what was missing from ICPSR metadata that would enhance the user's experience, what was redundant or unnecessary that either confuses or detracts from the user's experience, and what practices and policies are contributing to incomplete information or inconsistencies across the archive. This was timed with the ongoing development of a new ICPSR infrastructure for data. The first part of the survey consisted of a focus group of 5 internal users. They participated in 5 tasks interacting with the ICPSR website ranging in specificity and difficulty. The second part of the survey included recruiting external users through references and ICPSR's membership list. More than 40 users were selected and 18 completed the survey. Questions in the survey were based off of feedback from the focus group, the learning objectives, and previous research. The survey was designed on SurveyMonkey and distributed through email. The results were analyzed to determine most frequent tasks, most useful features, and most important fields to the users. Feedback was also solicited to determine whether to implement new fields and new field functionality in ICPSR's newly built infrastructure. Many of the ideas presented by the users have been implemented with success. This experience was valuable to not only metadata, but the organization as a whole. When building a new infrastructure for data, it is important to involve the community to collect insights from those individuals the infrastructure would affect the most. Building our tools with the involvement of our core communities enhances relationships and much-needed trust (confidence) in our archives.",
+          "doi": "10.5281/zenodo.6761136",
+          "presenters": [
+            {
+              "name": "Vanessa Unkeless-Perez",
+              "institution": "Indiana University Bloomington"
+            }
+          ]
+        },
+
+        {
+          "title": "Data Engagement for the Data-Hesitant Librarian",
+          "abstract": "In today’s library settings, there is an increasing focus on data skills and data literacy. In fact, many library job seekers, particularly librarians, consider data skills a ticket to success. With technical advances in cataloging, metadata and systems librarianship, library involvement with research data management, growing sophistication and scope of library assessment work, and analytical enhancements in the fields of digital humanities and digital literacies, data-related competencies are more central to librarians’ activities than ever.  Library leaders now encourage widespread acquisition of data skills in order to have a corps of data-savvy librarians. But what happens to the data-hesitant librarian in this scenario? While data literacy is seen as a universal good and universally attainable, data-related training often assumes competency levels that are above the “rank beginner” status advertised. Librarians may not feel that data applies to their discipline or work flow. They may also self-identify as “non-data people”, often with attendant shame around that fact. This means that for any push towards data-savviness, there are both librarians who resist, whatever the reasons for their hesitation, and librarians who want to engage but have barriers/uncertainty around beginning.  The questions included in this presentation will be: how to engage these librarians (and staff) with data? Can we? Must we? Should we? An outline of critical data literacy will be followed by suggestions for how to engage “non-data” librarians with data training and activities in the library setting. The issues of how feasible/desirable it is to expect universal data-savviness, and how to empower librarians to choose their own approaches to the issue, both in the workplace and in their career planning, will be addressed. Finally we’ll discuss training approaches and resources. Attendees will leave with ideas for implementing inclusive data initiatives in their settings.",
+          "doi": "10.5281/zenodo.6761222",
+          "presenters": [
+            {
+              "name": "Ann Glusker",
+              "institution": "University of California, Berkeley"
+            }
+          ]
+        },
+
+        {
+          "title": "Uncorked 3D: Visualizing Taste",
+          "abstract": "This will be the third talk in what has become a series of lightning talks based upon the the author and her spouse’s data-driven quest to drink better wine. Since 2007, my husband and I have been recording our wine tasting notes and associated metadata (grape variety, vintage, origin, producer, etc.) in order to create a dataset that has enabled us to better understand our preferences and make more informed choices when confronted with new bottles at stores or restaurants.  Building upon the previous two lightning talks, this talk will explore the depth of the data to a greater degree. While the talk in Australia was adequate, the author realized during later discussions that the two-dimensional format of a slide-driven talk wasn’t conveying the depth and breath of information that needed to be considered when thinking about wine. It was there that the idea began to grow for a revised talk that would focus on an interactive web-based data visualization, giving my audience the chance to turn the data over for themselves while I shared the insights we had found most helpful. Rendering the data in this way will both allow this talk to explore more of the complexity present in the data as well as provide my audience the chance to dig into information for themselves and hopefully find new insights that they can share with me.",
+          "doi": "10.5281/zenodo.6761300",
+          "presenters": [
+            {
+              "name": "Ashley Jester",
+              "institution": "Stanford University"
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "title": "Posters",
       "day": "",
       "abstract": "",
       "moderator": "",
       "chair": "",
       "presentations": [
         {
-          "title": "For all presentations see ",
+          "title": "The International Journal for Re-Views in Empirical Economics (IREE) – a new open-access journal for replications",
+          "abstract": "Replications are pivotal for the credibility of empirical economics. Only replicable and robust results can be generalized. And only generalizable findings can serve as evidence-based advice to economic policy. And yet, replication studies are rarely published in economic journals. The International Journal for Re-Views in Empirical Economics (IREE) is the first journal dedicated to the publication of replication studies in empirical economics.  Until recently, it was difficult for authors of replication studies to gain recognition for their work and to be accepted to publish in citable publication outlets. Since researchers in economics have had little to no incentives to conduct replications, this important kind of studies has been very limited in number. Since IREE is aware of this deficit, we ensure that accepted publications are made citable. We assign a DOI to each article, data set, and programming and additionally restore data sets in a permanent repository. IREE provides this crucial platform to authors so they can be given credit for their important contributions to empirical research in economics.  Traditionally, the publication of replication studies often depends on their results: Replications rejecting the original study tend to get published whereas replications confirming the original findings tend to get rejected in the grounds of lacking scientific impact. This induces a severe publication bias. IREE’s philosophy encourages a transparent and open discourse in empirical economics that elicits high-quality research. Therefore, IREE publishes research independent of the study’s result. We select the articles to be published based on technical and formal criteria but not with regards to their qualitative or quantitative results. Furthermore, IREE is an open access e-journal. All articles are subject to a peer-review process and are published as soon as they are accepted. There are neither publication nor submission fees for the authors.",
           "doi": "",
           "presenters": [
             {
-              "name": "https://zenodo.org/communities/iassist-2021/",
-              "institution": "Zenodo Archive"
+              "name": "Martina Grunow",
+              "institution": "ZBW - Leibniz Information Center for Economics"
+            }
+          ]
+        },
+        {
+          "title": "The Data Datingverse - How Dataverse Can Bring Researchers Together",
+          "abstract": "Senior researchers within specific communities have built and maintained relationships to facilitate collaboration and data sharing. Early career researchers, however, are still building their networks, making it difficult to identify potential collaborators and/or data sources. The Love Consortium, comprised of researchers studying social connections and relationships, strives to remove barriers to data sharing and collaboration within their community using Dataverse as a data networking platform.  With this goal in mind, The Love Consortium received funding from the John Templeton Foundation and recently partnered with The Odum Institute to create a data repository that would meet the needs of a network of researchers dedicated to the collaborative use of data about social connections. We like to think of The Love Consortium Dataverse (TLC Dataverse) as a “datingverse” where interested researchers can learn about available data through robust metadata records. Since most of these data contain personally identifiable and protected health information, they cannot be shared due to data restrictions and security concerns. Instead, the datingverse provides curated metadata records about the data, supplementary materials, and related publications as well as guidance on how individuals may collaborate with data producers and submit data access requests. The Odum Institute developed a customized metadata block, templates, submission workflows, and a quality assurance checklist to help the TLC Dataverse admins streamline the submission process and grow their collection.  This poster will highlight how Dataverse, an online data repository platform, can be adapted to meet the needs of a unique community by enabling data visibility and collaborations among researchers in search of good data and collaborators with similar interests.",
+          "doi": "10.5281/zenodo.6757482",
+          "presenters": [
+            {
+              "name": "Mandy Gooch",
+              "institution": "Odum Institute, University of North Carolina at Chapel Hill"
+            }
+          ]
+        },
+        {
+          "title": "Introducing CURE Training: A Curriculum in Data Curation for Reproducibility",
+          "abstract": "The knowledge and skills necessary to perform rigorous data curation that includes verification of computational reproducibility—i.e., data curation for reproducibility—goes beyond the current expectations and abilities of many librarians and archivists. Reviewing code requires demonstrated knowledge of statistical software packages and research methodologies in order to interpret the code, identify and diagnose errors, and enforce standards for interpretable, executable code. If libraries and archives are to maintain their support for the research community and its imperative for reproducible research, librarians and archivists will need to expand further their skillsets.  The Data Curation for Reproducibility (CuRe) training program, supported with funding from the Institute of Museum and Library Services, introduces librarians, archivists, and other data support professionals to data curation practices that support transparent, reproducible research. The CuRe training program is informed by a study to identify gaps in existing training programs and the experiences of data repositories actively engaging in rigorous data curation for reproducibility activities. An evidence-based curriculum, the program will augment information professionals’ current data curation expertise with the principles and computational skills to perform data curation workflows that include data, documentation, and code review.  This poster illustrates learning objectives and high-level concepts and topics--documentation, data quality, and code review in particular--to be covered in each component of the CuRe training program curriculum. This program, which will be deployed using the Carpentries approach to software instruction pedagogy and hands-on training, seeks to expand the workforce of information professionals equipped with the necessary competencies to support increasing demand for computationally reproducible research.",
+          "doi": "10.5281/zenodo.6757502",
+          "presenters": [
+            {
+              "name": "    Thu-Mai Christian",
+              "institution": "Odum Institute, University of North Carolina, Chapel Hill"
+            }
+          ]
+        },
+        {
+          "title": "Tiipii3 – A New Tool to Assist in Operative Data Management and Archival",
+          "abstract": "Tiipii3 is FSD’s solution for guiding the day-to-day data management. It is an operative database incorporating ERP and CRM aspects of the data archival activities. The tool supports managing the data archival process all the way from acquisition to publishing. The workflow pipeline follows the OAIS model. Tiipii3 facilitates the GDPR compliance of the customer management and communications. There are also features that assist in metadata production. First parts of the tool will be rolled into production use in the spring 2020. Tiipii3 will form the backbone of FSD’s archival support systems for the next decade.  Tiipii3 is a distributed system with multiple microservice style backend services and a monolithic UI. Authentication is handled with Shibboleth and there is a fine-grained authorisation scheme and audit logging system. The tool has versatile search and reporting facilities, and AMQP messaging is used extensively for event-based integration with other systems. Data protection is implemented both by design and by default.  This poster will present main features that support the archival process and technology behind the tool. A live demonstration may be included.",
+          "doi": "10.5281/zenodo.6757451",
+          "presenters": [
+            {
+              "name": "Jukka Ala-Fossi",
+              "institution": "Finnish Social Science Data Archive"
+            }
+          ]
+        },
+        {
+          "title": "International collaborative research using data deposited in SSJDA",
+          "abstract": "The Social Science Japan Data Archive (SSJDA) collects and stores raw data from statistical and social surveys and provides access for its use in academic endeavors. It is a core component of the Center for Social Research and Data Archives (CSRDA) at the Institute of Social Science at the University of Tokyo. To support empirical research in the social sciences in Japan, data collection and storage in SSJDA have been smoothly conducted since 1996. Nearly 200 institutions, organizations, and individual researchers have deposited data with SSJDA, and over 2100 data sets have been made available in the public domain thus far.  The CSRDA is expanding its activities worldwide to promote secondary use of data deposited with the SSJDA through international joint research with various researchers in Japan and abroad. We hold the SSJDA Seminar Series, including researchers invited from East Asia, Europe, the United States, etc., to exchange research ideas on social science topics.  The results and publications of these joint research activities will be published on online as a discussion paper series. The dissemination of international joint research using data from the CSRDA not only contributes to the development of social science research in Japan, but also promotes global usage of the SSJDA and other East Asian data archives.",
+          "doi": "10.5281/zenodo.6757471",
+          "presenters": [
+            {
+              "name": "Shuai Wang",
+              "institution": "The University of Tokyo"
+            },
+            {
+              "name": "Sae Taniguchi",
+              "institution": "The University of Tokyo"
+            }
+          ]
+        },
+        {
+          "title": "Interoperability and digital repositories",
+          "abstract": "Modern demands on interoperability is a challenge to digital repositories. Our data catalogues, services, solutions and digital objects should be interoperable, metadata and data should flow back and forth effortlessly, and machines should to talk to and understand other machines, and take action. New requirements, recommendations, definitions, buzzwords and initiatives emerge on a constant basis. Even the term “interoperability” means different things for different audiences and in different contexts. Data archives have traditionally provided access to data from discovery to download. Today, the users require more: research environments that can support analysis, data protection, and increasing complexity and size of data. The range of actors, organisations and services that need to interoperate expands rapidly, and the levels of interoperability get more varied. However, we believe it is possible to raise to the occasion. Networking and collaboration are they keys for successfully providing services for our target audiences. We will present FSD’s experiences in two examples of successful collaborations: the CESSDA Data Catalogue and the Finna catalogue that provides access to materials from Finnish museums, libraries and archives. We will also discuss the impacts the changing landscape and EOSC will have for a data archive like FSD, how FSD plans to become more interoperable and FAIR, and what can be seen as being sufficiently interoperable.",
+          "doi": "10.5281/zenodo.6757398",
+          "presenters": [
+            {
+              "name": "Mari Kleemola, Katja Moilanen, Tuomas J. Alaterä",
+              "institution": "Finnish Social Science Data Archive"
             }
           ]
         }
       ]
+    },
+    {
+      "title": "Pre-Conference Workshops",
+      "day": "",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "presentations": [
+        {
+          "title": "2021-05-10 SSHOC Open Science and Research Data Management Train-the-Trainer Bootcamp 2 Day - Part 1",
+          "abstract": "The Social Sciences and Humanities Open Cloud (SSHOC) is a 40-month EU project which will create the SSH area of the European Open Science Cloud (EOSC). In this project, we want to contribute to a coordinated, pan-European training infrastructure by building and educating a network of SSH trainers involved in Open Science and Research Data Management (RDM) support.  The bootcamp will consist of two two-hour sessions held on two separate days with time in between for participants to work on assignments. The bootcamp aims to aid trainers in finding resources and tools they can re-use in their training activities.  The first part of the bootcamp will focus on the demonstration of existing tools that aid RDM and could be used as hands-on-exercises in training activities. This will be followed by a session on didactics, in which we will cover tips for training development, including the use of more interactive elements, preparations, evaluations and the development of learning objectives. Participants will be encouraged to assess the usefulness of the presented tools for their own target audience, and consider how they could structure their own training activities.  The second day of the bootcamp will focus on training development using what was discussed on Day 1. We will facilitate an interactive session where we discuss how the presented materials and tools can be used in the context of an RDM training. We will examine different training methods, exchange experiences, and discuss how to make training interactive and prepare hands-on-exercises. In the last part of the bootcamp, participants will receive an update on the SSH Training Toolkit. Throughout SSHOC, existing and newly developed training materials have been collected in the Toolkit and we will highlight key training materials that are already available (e.g. materials on for instance GDPR, sensitive data, FAIR and open data).",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Ricarda Braukmann",
+              "institution": "Data Archiving and Networked Services (DANS)"
+            }
+          ]
+        },
+        {
+          "title": "2021-05-10 Learn to Use IPUMS APIs",
+          "abstract": "IPUMS NHGIS (National Historical Geographic Information System) provides easy access to summary tables and time series of United States population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks. Until recently, access to these data was exclusively through a web-based graphical user interface. Newly available application programming interfaces (APIs) now enable users to access NHGIS data programmatically. By providing a structured extract definition format and programmatic access to NHGIS data, the APIs facilitate transparent documentation and reproducibility of users’ extract requests.  This workshop will introduce users to the NHGIS APIs with hands-on demonstrations and exercises. Participants will learn how to access metadata describing the NHGIS collection, including information about datasets, tables, time series, and shapefiles. We will then guide participants through the process of constructing data extract requests that can be submitted and retrieved via the API. We will explore both simple extract requests for individual tables, as well as more complex requests involving time series, multiple datasets, and shapefiles. Upon completing the workshop, participants will be able to use the NHGIS API for common use cases, such as submitting a series of related extracts, setting up a common extract request to update periodically, and sharing a structured definition of an extract with colleagues.  The workshop will be presented using R, though the API can also be accessed via other languages, including Python and Curl. See developer.ipums.org for more information, including example code.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Tracy Kugler",
+              "institution": "University of Minnesota, IPUMS"
+            }
+          ]
+        },
+        {
+          "title": "2021-05-11 De-identification by Design: Creating Ethical Data Derivatives with Python",
+          "abstract": "Research and proprietary data often contain personally identifiable information, with variables that reveal details about the lives of individuals and may have been collected without the person’s knowledge or consent. Datasets aggregated at the individual level often interest social science scholars, yet such data poses a risk of identification and create an ethical dilemma for curators.  While some types of information and data are legally protected, other social data, such as home mortgage files, voter registration files, and tax parcel records are public and are often augmented with modeled indicators, such as religious belief or personal income, that may not represent the reality of people's lives.  Library information and data specialists must develop infrastructure, workflows, and policies to ensure the ethical stewardship and use of these datasets.  This interactive workshop will explore the tension between making purchased data as widely accessible to researchers as possible, while also ensuring that sensitive data is not abused. Following a short discussion of some of the above challenges, we will introduce participants to technologies and workflows for data de-identification. Covering basic principles of data management, this workshop is comprised of hands-on activities in which participants will create redacted samples of data that maintain research integrity and usefulness. Learning outcomes include:  1) Develop fluency with generating random samples in order to make analysis with large files more manageable  2) Know how to assess the identification risk of specific variables within a dataset in order to protect the identity of human subjects  3) Create a Jupyter Notebook workflow that enables cleaning, redacting, and sharing data for research use  4) Learn some fundamental Pandas features for exploring, cleaning, and transforming data  Participants should install Python via the Anaconda3 distribution in advance of the workshop.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Katie Wissel",
+              "institution": "New York University"
+            }
+          ]
+        },
+        {
+          "title": "2021-05-12 SSHOC Open Science and Research Data Management Train-the-Trainer Bootcamp 2 Day - Part 2",
+          "abstract": "The Social Sciences and Humanities Open Cloud (SSHOC) is a 40-month EU project which will create the SSH area of the European Open Science Cloud (EOSC). In this project, we want to contribute to a coordinated, pan-European training infrastructure by building and educating a network of SSH trainers involved in Open Science and Research Data Management (RDM) support. The bootcamp will consist of two two-hour sessions held on two separate days with time in between for participants to work on assignments. The bootcamp aims to aid trainers in finding resources and tools they can re-use in their training activities. The first part of the bootcamp will focus on the demonstration of existing tools that aid RDM and could be used as hands-on-exercises in training activities. This will be followed by a session on didactics, in which we will cover tips for training development, including the use of more interactive elements, preparations, evaluations and the development of learning objectives. Participants will be encouraged to assess the usefulness of the presented tools for their own target audience, and consider how they could structure their own training activities.  The second day of the bootcamp will focus on training development using what was discussed on Day 1. We will facilitate an interactive session where we discuss how the presented materials and tools can be used in the context of an RDM training. We will examine different training methods, exchange experiences, and discuss how to make training interactive and prepare hands-on-exercises. In the last part of the bootcamp, participants will receive an update on the SSH Training Toolkit. Throughout SSHOC, existing and newly developed training materials have been collected in the Toolkit and we will highlight key training materials that are already available (e.g. materials on for instance GDPR, sensitive data, FAIR and open data).",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Ricarda Braukmann",
+              "institution": "Data Archiving and Networked Services (DANS)"
+            }
+          ]
+        },
+        {
+          "title": "2021-05-12 Introduction to Network Analysis and Visualization Using Gephi",
+          "abstract": "A network is a way of specifying relationships among a collection of entities or actors. Networks come up in a variety of situations; for example, they can describe relationships between characters in literary works, how authors cite each other in a particular discipline or how people interact on social media. Through a combination of lecture and activities, this three-hour workshop will provide an introduction to network analysis and visualization using a free, open-source tool called Gephi: https://gephi.org/.  After taking this workshop, participants will be able to:  • Recognize networks and situations that call for network visualization and analysis • Use appropriate terms and statistics to describe networks • Understand network data formats and format data for use in Gephi • Use Gephi to load, visualize, analyze, and publish network graphs  I will also provide recommendations for other network visualization and analysis tools, and sources of network data.  This workshop is aimed at those new to networks and Gephi.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Kelly Schultz",
+              "institution": "University of Toronto"
+            }
+          ]
+        },
+        {
+          "title": "2021-05-13 Data Visualization with R's ggplot Package",
+          "abstract": "R is a free open-source software for statistical analysis. It is used widely in the social sciences among other fields. R’s ggplot package is built for making professional looking graphs with relatively little effort. The package offers powerful graphics language and is easy to learn.  This hands-on workshop is designed to introduce participants to the principles of data visualization using R’s ggplot package. The workshop will start with a short discussion of how to design an effective graph and the best visualization to use, given your message, audience and the type of data used. This will be followed by a hands-on instruction designed to familiarize participants with the syntax used in R’s ggplot package to organize components of data and translate it into a graph.  Data management and manipulation are integral parts of the data visualization process. We will start with a few basic R functions, preparing the data for graphing. Once data are in the right format, we will focus our attention on the ggplot package. Working step-by-step, through examples, we will understand the structure of the ggplot code and the connection between variables in the data and the colors, shapes and points that will appear on the graph. Topics covered include plotting continuous and categorical variables, layering information on graphics, producing facets for a compact presentation and comparability of information in multiple plots, and working with an output from a statistical model. We will use the ggplot functions to modify and refine our graphs. Template R code will be provided to workshop participants allowing participants to reproduce all workshop examples.  This is an introductory level workshop. No previous experience needed. However, some familiarity with data analysis and/or R may be helpful.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Ofira Schwartz",
+              "institution": "Princeton University"
+            }
+          ]
+        },
+        {
+          "title": "2021-05-14 Statistical Disclosure Control in a secure data environment: Training output checkers and analysts",
+          "abstract": "Analysts are demanding access to more data about individuals and organisations than ever before. Such data are available in the UK, however due to the level of detail, they are typically accessed by analysts in a secure data environment. The statistical results generated by analysts in secure data environments are made available only after they undergo a Statistical Disclosure Control (SDC) review, to ensure that the results do not reveal the identity or contain any confidential information about a data subject. This SDC review is carried out by the analysts that have produced the results and/or the staff working in the secure data environment (output checkers). An important responsibility for the organisation hosting the secure data environment is therefore to ensure that analysts and output-checking staff are appropriately trained and skilled in applying SDC.  This workshop is designed for managers running a secure data environment. Drawing on the SDC training and resources we have developed in the UK, the workshop will teach participants how to train analysts to apply SDC and how to make SDC work in practice, including managing the SDC process and workload efficiently. Participants will also learn about how to devise SDC materials for analysts and output checkers, and how to train and assess output-checking staff. We will use a range of hands-on exercises to explore these topics.  Following the workshop, we will also provide participants with access to a set of SDC materials that they can use to help train their staff and analysts.",
+          "doi": "",
+          "presenters": [
+            {
+              "name": "Christine Woods",
+              "institution": "UK Data Service"
+            }
+          ]
+        }
+       ]
     }
   ]
 }

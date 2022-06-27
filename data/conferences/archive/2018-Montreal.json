@@ -1,12 +1,13 @@
 {
     "conferenceYear": "2018",
     "title": "Once Upon A Data Point: Sustaining our data storytellers",
+    "host": " McGill University, Concordia University, and Université de Montréal in association with the Association of Canadian Map Libraries and Archives | Association des cartothèques et archives cartographiques du Canada (ACMLA-ACACC)",
     "city": "Montreal",
     "dateText": "May 29-June 1, 2018",
     "startDate": "2018-05-29",
     "endDate": "2018-06-01",
     "conferenceNum": "44",
-    "conferenceUrl": "http://www.library.mcgill.ca/iassistcarto2018/",
+    "conferenceUrl": "https://web.archive.org/web/20180716004302/https://www.library.mcgill.ca/iassistcarto2018/",
     "oldPath": "/conferences/2018/description/7836",
     "nid": "7836",
     "postDate": "2019-04-22 12:35:01 -0700",
@@ -231,22 +232,6 @@
             "nid": "7837",
             "postDate": "2019-04-23 12:13:02 -0700",
             "presentations": [
-                {
-                    "year": "2018",
-                    "title": "Data Journalism: Dispatches from the Frontiers of Data Science and Storytelling",
-                    "abstract": "Data journalism is the marriage of social science and public-interest storytelling, using data as a source and employing reproducible analysis methods toarrive at a conclusion. This is a radical change from traditional ways of reporting, which often rely on anecdotes and paper documents. But despite being at itsheart journalism, where crafting a gripping narrative is just as important as getting the facts right, data journalists haven't always been good at tellingstories. This is changing, and we're entering a golden age of storytelling based on data and stats.",
-                    "presenters": [
-                        {
-                            "name": "Roberto Rocha",
-                            "institution": "CBC"
-                        }
-                    ],
-                    "files": [],
-                    "sessNid": "7837",
-                    "oldPath": "/conferences/2018/presentation/7838",
-                    "nid": "7838",
-                    "postDate": "2019-04-23 12:17:23 -0700"
-                },
                 {
                     "year": "2018",
                     "title": "Plenary 1: Data journalism: Dispatches from the frontiers of data science and storytelling",

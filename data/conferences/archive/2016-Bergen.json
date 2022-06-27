@@ -1,33 +1,17 @@
 {
     "conferenceYear": "2016",
     "title": "Embracing the 'Data Revolution': Opportunities and challenges for research",
+    "host": "NSD - Norwegian Centre for Research Data",
     "city": "Bergen",
     "dateText": "May 31 - June 3, 2016",
     "startDate": "2016-05-31",
     "endDate": "2016-06-03",
     "conferenceNum": "42",
-    "conferenceUrl": "http://iassist2016.org/",
+    "conferenceUrl": "https://web.archive.org/web/20160711140312/http://iassist2016.org/",
     "oldPath": "/conferences/2016/description/7292",
     "nid": "7292",
     "postDate": "2017-02-01 13:16:31 -0700",
     "sessions": [
-        {
-            "year": "2016",
-            "day": "2015-12-01",
-            "title": "Plenary",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Plenary",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "7292",
-            "oldPath": "/conferences/2016/session/7494",
-            "nid": "7494",
-            "postDate": "2017-03-31 12:38:22 -0700",
-            "presentations": []
-        },
         {
             "year": "2016",
             "day": "2016-05-31",
@@ -266,7 +250,7 @@
                 },
                 {
                     "year": "2016",
-                    "title": "Plenary 2: Embracing the 'Data Revolution': Opportunities and challenges for research",
+                    "title": "Plenary 2: Embracing the 'Data revolution': Opportunities and challenges for research, or  what you need to know about the data landscape to keep up to date",
                     "abstract": "",
                     "presenters": [
                         {
@@ -279,56 +263,6 @@
                     "oldPath": "/conferences/2016/presentation/7328",
                     "nid": "7328",
                     "postDate": "2017-02-06 11:36:27 -0700"
-                }
-            ]
-        },
-        {
-            "year": "2016",
-            "day": "2016-06-01",
-            "title": "Plenary",
-            "abstract": "",
-            "chair": "",
-            "moderator": "",
-            "sessionType": "Plenary",
-            "sessionFile": "",
-            "webcastLink": "",
-            "weight": "1",
-            "hostNid": "7292",
-            "oldPath": "/conferences/2016/session/7495",
-            "nid": "7495",
-            "postDate": "2017-03-31 12:39:38 -0700",
-            "presentations": [
-                {
-                    "year": "2016",
-                    "title": "Data for decision-makers: Old practice - new challenges",
-                    "abstract": "",
-                    "presenters": [
-                        {
-                            "name": "Gudmund Hernes",
-                            "institution": "Fafo Institute; BI Norwegian School of Management"
-                        }
-                    ],
-                    "files": [],
-                    "sessNid": "7495",
-                    "oldPath": "/conferences/2016/presentation/7496",
-                    "nid": "7496",
-                    "postDate": "2017-03-31 12:42:12 -0700"
-                },
-                {
-                    "year": "2016",
-                    "title": "Embracing the 'Data revolution': Opportunities and challenges for research, or  what you need to know about the data landscape to keep up to date",
-                    "abstract": "",
-                    "presenters": [
-                        {
-                            "name": "Matthew Woollard",
-                            "institution": "UK Data Archive/UK Data Service"
-                        }
-                    ],
-                    "files": [],
-                    "sessNid": "7495",
-                    "oldPath": "/conferences/2016/presentation/7497",
-                    "nid": "7497",
-                    "postDate": "2017-03-31 12:44:11 -0700"
                 }
             ]
         },

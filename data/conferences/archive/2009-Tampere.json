@@ -1,6 +1,7 @@
 {
     "conferenceYear": "2009",
     "title": "Mobile Data and the Life Cycle",
+    "host": " Finnish Social Science Data Archive and the University of Tampere",
     "city": "Tampere, Finland",
     "dateText": "May 26-29, 2009",
     "startDate": "2009-05-26",
@@ -220,7 +221,7 @@
                 {
                     "year": "2009",
                     "title": "Digital Challenges: Bridging the Gap between Publication and Data",
-                    "abstract": "",
+                    "abstract": "The digital age has seen a widening fissure in our scholarly infrastructure - the gap between published research and the datasets that underlie it. While there are well established services for published research, there is only an incomplete patchwork of inconsistently supported services for datasets. For example, there is little agreement on how to identify, cite, or catalogue datasets. The implications for future use of today's research are even more concerning. This talk will outline some of the challenges we face as we try to bridge this gap and highlight some emerging practices that could change the situation if they become widely adopted.",
                     "presenters": [
                         {
                             "name": "Adam Farquhar",
@@ -2008,7 +2009,7 @@
             "year": "2009",
             "day": "2009-05-28",
             "title": "Plenary II",
-            "abstract": "",
+            "abstract": "Over the past five years government research and higher education funding institutions have 'discovered' many aspects of data and its uses that the IASSIST community has known for over thirty years: data is a valuable commodity, a source of new knowledge, the basis for international research efforts and which therefore requires sound policies to preserve and manage its use and re-use. Thus, there is considerable irony in the fact that just as high-level policy bodies at the national and international level are coming to this realisation, the comfortable and predictable environments in which many of us work are being challenged on a number of fronts. For example, the 'google' world leads to naïve assumptions about discoverability of data no matter where it is housed. But of what quality? New tools and technologies have thrown up a multiplicity of choices for storing, retrieving and analysing data. But can these multiple stores, formats and standards 'talk' to each other? This paper explores how the environment in which we work is changing; the need to take advantage of, and adapt to, the growing recognition of the importance of data; and the need for greater international efforts to maintain the strong, professional standards and practices built up within the IASSIST community.",
             "chair": "Chuck Humphrey (University of Alberta)",
             "moderator": "",
             "sessionType": "Plenary",
@@ -2685,7 +2686,7 @@
                 {
                     "year": "2009",
                     "title": "Collecting, Visualizing, Communicating, and Modeling Spatial Data in the Social Sciences",
-                    "abstract": "",
+                    "abstract": "New web technologies and task specific software packages and services are fundamentally changing the way we share, collect, visualize, communicate and distribute geographic/spatial information. Coupled with these new technologies is the emergence of rich fine scale and extensive spatial datasets of the built environment. Such technologies and data are providing opportunities for the social sciences that were unimaginable ten years ago, particularly new forms of modeling and simulation. In this paper, we discuss such changes from our own applications which are developed in a research context which emphasizes dissemination using Web 2.0 technologies... Specifically, we illustrate how it is now possible to harness the crowd to collect peoples' opinions about topical events such as the current financial crisis, in real time and map the results, through the use of our GMapCreator software and the MapTube website, infrastructure for social science developed under the banner of the UK's National Centre for e-Social Science. Furthermore, such tools allow for widespread dissemination and visualization of geographic data to whoever has an internet connection. We will explore how one can use new datasets to visualize the city using our 3-D GIS-CAD Virtual London model as an example which we can embed in web based software such as Google Earth as well as within conventional GIS and CAD software. Within the model, individual buildings can be tagged with multiple attributes providing a lens to explore the urban structure offering a plethora of research applications. Finally we turn to how one can visualize and communicate such data through low cost software and virtual worlds such as Crysis and Second Life with a look into their potential for modeling. Our aim in the paper is to provide a perspective on new developments in spatial data and modeling and their dissemination within the social science.",
                     "presenters": [
                         {
                             "name": "Dr. Michael Batty",

@@ -1,12 +1,13 @@
 {
     "conferenceYear": "2014",
     "title": "Aligning Data and Research Infrastructure",
+    "host": " Ryerson University, University of Toronto, and York University",
     "city": "Toronto",
     "dateText": "June 3-6, 2014",
     "startDate": "2014-06-03",
     "endDate": "2014-06-06",
     "conferenceNum": "40",
-    "conferenceUrl": "http://www.library.yorku.ca/cms/iassist/conference/",
+    "conferenceUrl": "https://web.archive.org/web/20140718072231/https://www.library.yorku.ca/cms/iassist/conference/",
     "oldPath": "/conferences/2014/description/3706",
     "nid": "3706",
     "postDate": "2014-05-21 13:52:13 -0700",
@@ -221,7 +222,44 @@
             "oldPath": "/conferences/2014/session/3763",
             "nid": "3763",
             "postDate": "2014-07-02 10:28:32 -0700",
-            "presentations": []
+            "presentations": [
+                {
+                    "year": "2014",
+                    "title": "Plenary 1",
+                    "abstract": "Barbara Entwisle is the Vice Chancellor for Research at the University of North Carolina and a social demographer who has been a data integrator throughout her career of interdisciplinary research. She chaired the OECD Global Science Forum on Data and Research Infrastructure for the Social Sciences and co-edited the final report, “New Data for Understanding the Human Condition: International Perspectives” (which we mentioned in our call for proposals.).",
+                    "presenters": [
+                        {
+                            "name": "Barbara Entwisle",
+                            "institution": ""
+                        }
+                    ],
+                    "files": []
+                },
+                {
+                    "year": "2014",
+                    "title": "Plenary 2",
+                    "abstract": "Seamus Ross, Dean of the Faculty of Information at the University of Toronto, has agreed to speak about the changing nature of research data professionals and their education. We are looking forward to a discussion about the variety of career categories around research data management. Who should be educating these professionals? What role do the iSchools have? How much of the preparation has to come from the current data community?",
+                    "presenters": [
+                        {
+                            "name": "Seamus Ross",
+                            "institution": ""
+                        }
+                    ],
+                    "files": []
+                },
+                {
+                    "year": "2014",
+                    "title": "Plenary 3",
+                    "abstract": "Myron Gutmann, former NSF and ICPSR director, will speak about the changing nature of research data infrastructure. Myron has extensive international involvement in shaping today’s social science research infrastructure and will talk about emerging access and analysis technologies, better alignment of the networks of data repositories, and new ways of honouring societal norms around confidentiality while enabling legitimate research.",
+                    "presenters": [
+                        {
+                            "name": "Myron Gutmann",
+                            "institution": ""
+                        }
+                    ],
+                    "files": []
+                }
+            ]
         },
         {
             "year": "2014",
