@@ -56,8 +56,20 @@
   <!-- RSS feed -->
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
-  <!-- cookie banner  CSS -->
+  <!-- cookie banner CSS -->
   <link href="{{ "css/glowCookies.css" | relURL}}" rel="stylesheet">
+
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  
+  <!-- Super uncustomizable toggle function for conference abstracts -->
+  <script>
+  $(document).ready(function(){
+    $("button").click(function(){
+      $("div.abstract").toggle();
+    });
+  });
+  </script>
 
   <!-- Facebook OpenGraph tags -->
   {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
