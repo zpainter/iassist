@@ -33,13 +33,15 @@
                           <p><strong>Ordinal:</strong> {{ $data.conferenceNum }}</p>
                           <p><strong><a href="{{ $data.conferenceUrl }}">Conference website</a></strong></p>
                           <h3> Program </h3>
+                          <button> Toggle abstract visibility </button>
                           {{ range $s := $data.sessions }}
                             <div class="conference-session"> <h4>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h4></div>
                             {{ range $p := $s.presentations }}
-                              <div class="conference-presentation">{{ $p.title }}</div>
+                              <div class="conference-presentation"><h5 style="color:#555;">{{ $p.title }}</h5></div>
                               {{ range $pr := $p.presenters }}
                                 <div class="conference-presenters"><em>{{ $pr.name }} ({{ $pr.institution }})</em> </div>
                               {{ end }}
+                                <div style="display:none; padding: .5em 0 0 1em;" class="abstract"> {{ $p.abstract }} </div>
                               {{ if $p.doi }}
                                 <div class="conference-doi">&raquo; <a href="https://doi.org/{{ $p.doi }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">https://doi.org/{{ $p.doi }}</a></div>
                               {{ end }}
