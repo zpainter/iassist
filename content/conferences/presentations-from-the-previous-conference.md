@@ -17,8 +17,10 @@ In some cases, the entire conference programme with presentations may be availab
 
 <a class="btn btn-template-main" href="https://iassist2022.org/conference/program/" target="_blank">Conference website</a>
 
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2019 Conference presentations (Zenodo)</a>
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo)</a>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ![IASSIST logo](/img/blog/iassist_logo_wordmark-no-wordmark-borders-gs-256.png "")
 
