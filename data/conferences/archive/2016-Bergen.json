@@ -1256,7 +1256,7 @@
                 },
                 {
                     "year": "2016",
-                    "title": "A Data-Driven Approach to Selecting and Curating Content at a Domain Repository",
+                    "title": "A !!! Data-Driven Approach to Selecting and Curating Content at a Domain Repository",
                     "abstract": "The volume of scientific research data being produced is expanding at a rapid rate in the social sciences. We propose to use administrative repository data to guide selection and appraisal practices to ensure that curation resources are used effectively to make the most valuable content findable, understandable, accessible, and usable now and in the future. ICPSR captures information about search behavior to guide what content to add to the repository and also analyzes historic information about data usage to ensure that data likely to get the widest use are curated to the highest level. This paper will share these two analytic models and results. Considerations such as data collection methodology, currency of topic, and breadth and quality of the data surface as key attributes that influence the desirability of data collections. By analyzing a decade of data use patterns, we present information about attributes that predict longer term use of data as well. Finally, how the data-driven models can be linked to repository practices and policies are discussed.",
                     "presenters": [
                         {
@@ -1272,7 +1272,8 @@
                     "sessNid": "7305",
                     "oldPath": "/conferences/2016/presentation/7378",
                     "nid": "7378",
-                    "postDate": "2017-03-16 13:28:49 -0700"
+                    "postDate": "2017-03-16 13:28:49 -0700",
+                    "doi": "10.5281/zenodo.6786732"
                 },
                 {
                     "year": "2016",

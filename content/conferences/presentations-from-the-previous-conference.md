@@ -4,7 +4,9 @@ draft = "false"
 +++
 Presentations from the latest conference will be made available on Zenodo as soon as possible. Before they are curated and uploaded, several presentations may be found through the conference programme on the conference site. 
 
-All speakers are strongly encouraged to upload their presentation files to the Conference Management System (currently Openconf) no later than by the end of the conference, preferably earlier. We hope that the presentations are openly licensed and those licenses are clearly marked on the slides. 
+All speakers are strongly encouraged to upload their presentation files to the Conference Management System (currently Openconf) no later than by the end of the conference, preferably earlier, or share them with the their session chairs. We hope that the presentations are openly licensed and those licenses are clearly marked on the slides.
+
+The conference archive is where you can find archived programs and presentation files. Because of the irregular conference rotation due to the pandemic, this page still has links to conference sessions from 2019, not just the most recent conference.
 
 In some cases, the entire conference programme with presentations may be available in Drobbox as a zip file.
 
