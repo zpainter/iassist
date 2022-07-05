@@ -47,7 +47,7 @@
                 {
                     "year": "2016",
                     "title": "10,000 Steps a Day! A Journey in Data and GIS Literacy Using Non-traditional Data Sources, for the New Data Professional",
-                    "abstract": "",
+                    "abstract": "The way that we look at and conceive of data has changed. Each of us is a walking data generator as on-line data is collected on our every page click and tweet, and our movements are tracked though our phones, and at the places we visit. Literally millions of people are joining the data revolution to collect and analyse data on facets of ordinary life such as their house temperatures, health indicators, and daily step counts. \"The data available are often unstructured - not organized in a database - and unwieldy, but there's a huge amount of signal in the noise, simply waiting to be released.\" (McAffe & Brynjolfsson, HBR, 2012). Join us for an interactive workshop where we will take advantage of this data trove to learn strategies used to clean data, run key statistical tests, and visualize the data using basic GIS techniques. Our goal is to show you the fundamentals of working with data so you gain the knowledge of strategies and approaches that will work with these unique types of datasets that may cross your desk. We are proposing to use SPSS and ESRI ArcGIS for the workshop, and will be prepared to discuss open source statistical and GIS software. By the end of this workshop you will be able to: Prepare a dataset for analysis ,import the data into SPSS and select and run basic statistical tests in SPSS, import the data into ArcGIS and prepare a map to visualize the data.",
                     "presenters": [
                         {
                             "name": "Michelle Edwards",
@@ -71,7 +71,7 @@
                 {
                     "year": "2016",
                     "title": "Text Processing with Regular Expressions",
-                    "abstract": "",
+                    "abstract": "Regular expressions (regex) are a powerful and ubiquitous programming construct that facilitate a wide range of text manipulation procedures. Essentially, regular expressions provide a means of defining text patterns that can be used to perform text matching and modification operations without having to write a lot of code. Common uses include complex search-and-replace-style data cleaning operations and pattern-based data validation such as detecting properly formatted telephone numbers, email addresses, or URLS. The most typical way of using a regular expression is through a function call in a programming language or directly on a command line, but they can also be used from within many text editors like Sublime, Textmate, or Notepad++. In this workshop you'll learn regular expression syntax and how to use it in R, Python, and on the command line. Participants will use a browser-based notebook, Jupyter, that enables literate computing by letting us experiment with the different flavors of regular expressions as implemented in these languages. The workshop will be example-driven and you will be encouraged to follow along with live-coding demonstrations and complete in-workshop challenges. You will work with real data and perform representative data cleaning and validation operations in multiple languages.",
                     "presenters": [
                         {
                             "name": "Harrison Dekker",
@@ -103,12 +103,13 @@
                     "sessNid": "7326",
                     "oldPath": "/conferences/2016/presentation/7447",
                     "nid": "7447",
-                    "postDate": "2017-03-31 09:37:28 -0700"
+                    "postDate": "2017-03-31 09:37:28 -0700",
+                    "doi": "10.5281/zenodo.3774719"
                 },
                 {
                     "year": "2016",
                     "title": "Automating Archive Policy Enforcement Using Dataverse and iRODS",
-                    "abstract": "",
+                    "abstract": "The workshop will highlight work of the Odum Institute as part of the DataNet Federation Consortiums effort to join the Odum Institutes archive platform with the Integrated Rule-Oriented Data System. Participants will see how archive workflows within the Dataverse platform can be connected to iRODS and leverage the policy based rules enforcement capabilities of iRODS. Participants will be able to create working Dataverse virtual archives that are integrated with the iRODS storage grid technology. The workshop will describe and utilize policies sets that have been selected from the new ISO 16363 audit standards for trustworthy digital repositories. These policies are written into iRODS rules that can be machine enforced. These data management and preservation rules will enforce and monitor a wide range of policies: Number of preservation copies, checksum calculations, frequency of integrity checks, creation of preservation formats, verification of preservation formats, movement of digital objects through a secure firewall, scans for sensitive information to protect human subjects, reporting of preservation status, verification of geographic distributed copies, enforce and report access control. Participants will see machine actionable rules in practice and be introduced to an environment where written policies can be expressed in ways an archive can automate their enforcement.",
                     "presenters": [
                         {
                             "name": "Jonathan Crabtree",
@@ -128,7 +129,7 @@
                 {
                     "year": "2016",
                     "title": "Digital Data Harmonization with QuickCharmStats Software",
-                    "abstract": "",
+                    "abstract": "QuickCharmStats 1.1 provides a digital solution for the problems of documenting how variables are harmonized. It is free and open-source software that facilitates organizing, documenting and publishing data harmonization projects. We demonstrate how the CharmStats workflow collates metadata documentation, meets the scientific standards of transparency and replication, and encourages researchers to publish their harmonization work. Currently those who contribute original data harmonization work to their discipline are not credited through citations. We review new peer review standards for harmonization documentation, a route to online publishing, and a referencing format to cite harmonization projects. Although CharmStats products are designed for social scientists who must harmonize abstract concepts, our adherence to the standards of the scientific method ensure our products can be used by researchers across the sciences.",
                     "presenters": [
                         {
                             "name": "Kristi Winters",
@@ -192,12 +193,13 @@
                     "sessNid": "7326",
                     "oldPath": "/conferences/2016/presentation/7451",
                     "nid": "7451",
-                    "postDate": "2017-03-31 09:46:08 -0700"
+                    "postDate": "2017-03-31 09:46:08 -0700",
+                    "doi": "10.5281/zenodo.3775478"
                 },
                 {
                     "year": "2016",
                     "title": "Visualizing Data in R with ggplot2 and ggplot3 ",
-                    "abstract": "",
+                    "abstract": "R is a powerful tool for statistical computing, but its base capabilities for graphics can be limited, and complicated plots often require a considerable amount of code. Ggplot2 is a popular package that extends Râ€™s capability for data visualization, allowing users to produce attractive and complex graphics in a relatively simple way. This workshop will introduce the logic behind ggplot2 and give participants hands-on experience creating data visualizations with this package. This session will also introduce participants to related tools for creating interactive graphics from this syntax (such as plotly, plot.ly/feed). Prerequisites: Participants should be comfortable working with quantitative data and should have some basic familiarity with R, but do not need any experience with ggplot2. Ggplot2 uses a slightly different syntax than base R plotting, so participants do not need to have experience using R for data visualization. This workshop will involve reading data into R and working in the RStudio environment. By the end of this workshop, participants will: - Understand the syntax and logic behind graphics in ggplot2 - Create a variety of visualizations and learn how to customize features of the graphs, such as color scales and labeling - Learn about extensions for more advanced graphic capabilities using ggplot2 and additional resources for learning more.",
                     "presenters": [
                         {
                             "name": "Alicia Hofelich Mohr",
@@ -371,7 +373,8 @@
                     "sessNid": "7294",
                     "oldPath": "/conferences/2016/presentation/7426",
                     "nid": "7426",
-                    "postDate": "2017-03-30 09:01:01 -0700"
+                    "postDate": "2017-03-30 09:01:01 -0700",
+                    "doi": "10.5281/zenodo.3775480"
                 },
                 {
                     "year": "2016",
@@ -543,7 +546,8 @@
                     "sessNid": "7296",
                     "oldPath": "/conferences/2016/presentation/7464",
                     "nid": "7464",
-                    "postDate": "2017-03-31 11:28:58 -0700"
+                    "postDate": "2017-03-31 11:28:58 -0700",
+                    "doi": "10.5281/zenodo.6799206"
                 }
             ]
         },
@@ -582,7 +586,7 @@
                 {
                     "year": "2016",
                     "title": "'Sorry, that doesn't seem to fit?': Using Traditional Ethical Review Processes to Screen Administrative Data Projects",
-                    "abstract": "The Administrative Data Research Network (ADRN) delivers a service to researchers, providing secure and lawful access to de-identified linked administrative data. Before an ADRN research project can be undertaken it must be approved by the ADRN Approvals Panel, which independently reviews all applications to use to the Network.The Approval Panel does not assess the ethics of a project, but has to ensure that an appropriate Ethical Review has been satisfactorily carried out and, ultimately, check that researchers are aware of the ethical implications of using these data. However, ethics review processes have large variation in practice, as do the \u00e2\u20ac\u0153ethical\u00e2\u20ac\u009d considerations which may arise from using and linking administrative data for secondary analysis.This presentation will outline the ADRN application process and the role of the Approvals Panel in relation to ethical review. We will also describe the main challenges and initiatives that were put in place to solve some of the problems with the existing coverage of ethical review bodies, e.g. establishing a National Ethics Committee (NSDEC). The aim will be to expand the discussion towards a broader reflection on the ethical dilemmas that administrative data pose, concluding with the steps ADRN have adopted to address these difficulties.",
+                    "abstract": "The Administrative Data Research Network (ADRN) delivers a service to researchers, providing secure and lawful access to de-identified linked administrative data. Before an ADRN research project can be undertaken it must be approved by the ADRN Approvals Panel, which independently reviews all applications to use to the Network.The Approval Panel does not assess the ethics of a project, but has to ensure that an appropriate Ethical Review has been satisfactorily carried out and, ultimately, check that researchers are aware of the ethical implications of using these data. However, ethics review processes have large variation in practice, as do the ethical considerations which may arise from using and linking administrative data for secondary analysis.This presentation will outline the ADRN application process and the role of the Approvals Panel in relation to ethical review. We will also describe the main challenges and initiatives that were put in place to solve some of the problems with the existing coverage of ethical review bodies, e.g. establishing a National Ethics Committee (NSDEC). The aim will be to expand the discussion towards a broader reflection on the ethical dilemmas that administrative data pose, concluding with the steps ADRN have adopted to address these difficulties.",
                     "presenters": [
                         {
                             "name": "Carlotta Greci",
@@ -593,7 +597,8 @@
                     "sessNid": "7297",
                     "oldPath": "/conferences/2016/presentation/7381",
                     "nid": "7381",
-                    "postDate": "2017-03-16 13:48:39 -0700"
+                    "postDate": "2017-03-16 13:48:39 -0700",
+                    "doi": "10.5281/zenodo.6795820"
                 },
                 {
                     "year": "2016",
@@ -652,7 +657,8 @@
                     "sessNid": "7298",
                     "oldPath": "/conferences/2016/presentation/7433",
                     "nid": "7433",
-                    "postDate": "2017-03-30 09:19:46 -0700"
+                    "postDate": "2017-03-30 09:19:46 -0700",
+					"doi": "10.5281/zenodo.6798238"
                 },
                 {
                     "year": "2016",
@@ -818,7 +824,8 @@
                     "sessNid": "7300",
                     "oldPath": "/conferences/2016/presentation/7400",
                     "nid": "7400",
-                    "postDate": "2017-03-21 11:51:04 -0700"
+                    "postDate": "2017-03-21 11:51:04 -0700",
+                    "doi": "10.5281/zenodo.6799104"
                 },
                 {
                     "year": "2016",
@@ -1064,7 +1071,8 @@
                     "sessNid": "7303",
                     "oldPath": "/conferences/2016/presentation/7416",
                     "nid": "7416",
-                    "postDate": "2017-03-27 14:16:58 -0700"
+                    "postDate": "2017-03-27 14:16:58 -0700",
+                    "doi": "10.5281/zenodo.6795851"
                 },
                 {
                     "year": "2016",
@@ -1127,7 +1135,7 @@
                 {
                     "year": "2016",
                     "title": "Experimenting with DDI-L at the French Center of Socio-Political Data (CDSP)",
-                    "abstract": "The French Center of Socio-Political Data has presented its reflection on the process of shifting from DDI-C to DDI-L at EDDI14. This year, we will discuss the creation and storage of a DDI-L compliant XML record by capturing metadata of a nine-wave political study of the ELIPSS panel.   Determining how best to recognise continuities between metadata collections within the same study, including question continuity and methodological continuities has been a primary challenge. To answer it, the starting point was the creation of a questions database. As seen at the 2014 DDI workshop in Dagstuhl, the minimum requirements that a metadata system should meet before being able to import/export DDI-L are uniqueness of items, versioning and granularity.   To conceive such a database, we had to start by using simple tools. We first identified metadata in CSV files that include variable-level information. We then performed a semi-manual import from these files to the database using importing scripts. Once we removed automatically the redundancy, with a further stage of human control, we generated the structure of the DDI-L compliant xml file. Our paper will present this process and discuss its replication to other DDI-C documented studies.  Author(s):",
+                    "abstract": "The French Center of Socio-Political Data has presented its reflection on the process of shifting from DDI-C to DDI-L at EDDI14. This year, we will discuss the creation and storage of a DDI-L compliant XML record by capturing metadata of a nine-wave political study of the ELIPSS panel.   Determining how best to recognise continuities between metadata collections within the same study, including question continuity and methodological continuities has been a primary challenge. To answer it, the starting point was the creation of a questions database. As seen at the 2014 DDI workshop in Dagstuhl, the minimum requirements that a metadata system should meet before being able to import/export DDI-L are uniqueness of items, versioning and granularity.   To conceive such a database, we had to start by using simple tools. We first identified metadata in CSV files that include variable-level information. We then performed a semi-manual import from these files to the database using importing scripts. Once we removed automatically the redundancy, with a further stage of human control, we generated the structure of the DDI-L compliant xml file. Our paper will present this process and discuss its replication to other DDI-C documented studies.",
                     "presenters": [
                         {
                             "name": "Alexandre Mairot",
@@ -1142,7 +1150,8 @@
                     "sessNid": "7304",
                     "oldPath": "/conferences/2016/presentation/7405",
                     "nid": "7405",
-                    "postDate": "2017-03-21 12:22:02 -0700"
+                    "postDate": "2017-03-21 12:22:02 -0700",
+                    "doi": "10.5281/zenodo.6799123"
                 },
                 {
                     "year": "2016",
@@ -1768,7 +1777,7 @@
                 {
                     "year": "2016",
                     "title": "Reuse of Research Data - Re-Writing the Economic History of Denmark Using Research Data\t",
-                    "abstract": "",
+                    "abstract": ".",
                     "presenters": [
                         {
                             "name": "Steen Andersen",
@@ -1866,7 +1875,7 @@
                 {
                     "year": "2016",
                     "title": "Establishing an integrated data sharing process for micro- and metadata at Deutsche Bundesbank",
-                    "abstract": "",
+                    "abstract": "Deutsche Bundesbank has a legal mandate to collect monetary, financial and external sector statistical data. These are processed into comprehensive sets of indicators and seasonally ad-justed aggregated business statistics. After the financial crisis microdata are becoming in-creasingly important for evidence based research, politics and decision making. Therefore, establishing a data sharing culture throughout the Bundesbank is crucial. This chal-lenge is addressed by an Integrated Microdata based Information and Analysis System (IM-IDIAS). IMIDIAS is based on the existing statistical data warehouse infrastructure where the aggregated data is successfully stored in SDMX. For the common metadata model SDMX is complemented by DDI in order to address additional needs formulated by researchers and analysts. These combined standards offer ideal means of linking, comparing and consolidating micro-data and metadata. This represents great advantage for data matching, comparing, consoli-dating and analysing data treasures of Deutsche Bundesbank. This talk will focus on the technical infrastructure of the data and metadata integration pro-cess within IMIDIAS as well as the organisational integration with the newly established Re-search Data and Service Centre in order to provide data access to microdata for internal and external researchers.",
                     "presenters": [
                         {
                             "name": "Anja Treffs",
@@ -2013,7 +2022,8 @@
                     "sessNid": "7313",
                     "oldPath": "/conferences/2016/presentation/7465",
                     "nid": "7465",
-                    "postDate": "2017-03-31 11:32:57 -0700"
+                    "postDate": "2017-03-31 11:32:57 -0700",
+                    "doi": "10.5281/zenodo.6799266"
                 }
             ]
         },
@@ -2129,7 +2139,7 @@
                             "institution": "University of Tennessee"
                         },
                         {
-                            "name": "David atkins",
+                            "name": "David Atkins",
                             "institution": "University of Tennessee"
                         }
                     ],
@@ -2153,7 +2163,8 @@
                     "sessNid": "7315",
                     "oldPath": "/conferences/2016/presentation/7421",
                     "nid": "7421",
-                    "postDate": "2017-03-28 12:51:30 -0700"
+                    "postDate": "2017-03-28 12:51:30 -0700",
+                    "doi": "10.5281/zenodo.6799177"
                 },
                 {
                     "year": "2016",
@@ -2871,7 +2882,8 @@
                     "sessNid": "7317",
                     "oldPath": "/conferences/2016/presentation/7410",
                     "nid": "7410",
-                    "postDate": "2017-03-27 14:05:56 -0700"
+                    "postDate": "2017-03-27 14:05:56 -0700",
+                    "doi": "10.5281/zenodo.6795837"
                 },
                 {
                     "year": "2016",
@@ -2895,7 +2907,8 @@
                     "sessNid": "7317",
                     "oldPath": "/conferences/2016/presentation/7411",
                     "nid": "7411",
-                    "postDate": "2017-03-27 14:07:55 -0700"
+                    "postDate": "2017-03-27 14:07:55 -0700",
+                    "doi": "10.5281/zenodo.6795843"
                 },
                 {
                     "year": "2016",
@@ -3263,7 +3276,8 @@
                     "sessNid": "7321",
                     "oldPath": "/conferences/2016/presentation/7383",
                     "nid": "7383",
-                    "postDate": "2017-03-16 14:04:59 -0700"
+                    "postDate": "2017-03-16 14:04:59 -0700",
+                    "doi": "10.5281/zenodo.6795830"
                 },
                 {
                     "year": "2016",
@@ -3334,26 +3348,6 @@
                     "oldPath": "/conferences/2016/presentation/7413",
                     "nid": "7413",
                     "postDate": "2017-03-27 14:11:06 -0700"
-                },
-                {
-                    "year": "2016",
-                    "title": "From Evidence to Strategies to Support Researchers' Needs for Research Data Use, Management and Sharing",
-                    "abstract": "Evidence of RDM needs and practices of researchers from all disciplines at one larger Canadian university was gathered in 2013. This paper reports on the survey results from 250 respondents around data use, sharing, and management, as well as the researchers' research practices and goes on to discuss the impact on planning for policies, guidelines, services, and infrastructure. Major themes are collaboration, sensitive data, differences across research methods and disciplines, as well as incentives for researchers to improve data use, management and sharing in their fields.",
-                    "presenters": [
-                        {
-                            "name": "Susan Mowers",
-                            "institution": "University of Ottawa"
-                        },
-                        {
-                            "name": "Chuck Humphrey",
-                            "institution": "Portage Network, CARL"
-                        }
-                    ],
-                    "files": [],
-                    "sessNid": "7322",
-                    "oldPath": "/conferences/2016/presentation/7414",
-                    "nid": "7414",
-                    "postDate": "2017-03-27 14:12:42 -0700"
                 },
                 {
                     "year": "2016",
@@ -3455,7 +3449,8 @@
                     "sessNid": "7323",
                     "oldPath": "/conferences/2016/presentation/7333",
                     "nid": "7333",
-                    "postDate": "2017-02-06 13:03:12 -0700"
+                    "postDate": "2017-02-06 13:03:12 -0700",
+                    "doi": "10.5281/zenodo.6799037"
                 },
                 {
                     "year": "2016",
@@ -3502,11 +3497,11 @@
                 {
                     "year": "2016",
                     "title": "DDI Tools Session: No Tools, No Standard",
-                    "abstract": "The acceptance and adoption of a standard like DDI highly depends on the availability of software tools to use it. The DDI Developers Community is a part of the DDI Alliance where software developers from around the world can meet and swap ideas on working with DDI in various programming environments and languages. In this session we like to give you an introduction to our work and present you a selection of available tools. This Session will give you an overview of tools available from the community.Detailed presentations of tools include:- Dan Smith and Jeremy Iverson: Colectica- Daniel Katzberg: Using metadata to auto-generate variable- Knut Wenzig: Packages for Stata and R using DDI on Rails metadata- Marcel Hebing: DDI on Rails- Olof Olsen and Jannik Jensen: The healthy portable portal- Samuel Spencer: Aristotle Metadata Registry",
+                    "abstract": "The acceptance and adoption of a standard like DDI highly depends on the availability of software tools to use it. The DDI Developers Community is a part of the DDI Alliance where software developers from around the world can meet and swap ideas on working with DDI in various programming environments and languages. In this session we like to give you an introduction to our work and present you a selection of available tools. This Session will give you an overview of tools available from the community.Detailed presentations of tools include:- Dan Smith and Jeremy Iverson: Colectica - Daniel Katzberg: Using metadata to auto-generate variable - Knut Wenzig: Packages for Stata and R using DDI on Rails metadata - Marcel Hebing: DDI on Rails - Olof Olsen and Jannik Jensen: The healthy portable portal - Samuel Spencer: Aristotle Metadata Registry",
                     "presenters": [
                         {
                             "name": "Marcel Hebing",
-                            "institution": ""
+                            "institution": "DIW Berlin"
                         }
                     ],
                     "files": [],
