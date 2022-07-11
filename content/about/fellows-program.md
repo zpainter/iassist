@@ -23,4 +23,6 @@ fellowship, please send an email inquiry to the [Fellows Committee](/about/commi
 
 See [iBlog](/blog/) for Fellows Program related posts.
 
+{{< figure src="/img/about/fellows-map1.png" alt="Map of IASSIST fellows across the globe. Created by Bruce Boucek." title="" width="600" >}} 
+
 ﻿
