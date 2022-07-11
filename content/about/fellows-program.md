@@ -19,10 +19,10 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 For more information, to apply for funding, or nominate a person for a
 fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
-- Chair: Co-Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu* and *Sarah Young, sarahy [ at ] andrew.cmu.edu*
+- Co-Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu* and *Sarah Young, sarahy [ at ] andrew.cmu.edu*
 
 See [iBlog](/blog/) for Fellows Program related posts.
 
-{{< figure src="/img/about/fellows-map1.png" alt="Map of IASSIST fellows across the globe. Created by Bruce Boucek." title="" width="600" >}} 
+{{< figure src="/img/about/fellows-map1.png" alt="Map of IASSIST fellows across the globe. Created by Bruce Boucek." title="" width="800" >}} 
 
 ﻿
