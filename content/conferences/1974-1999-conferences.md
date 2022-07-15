@@ -19,7 +19,7 @@ IASSIST/IFDO 1997: Data frontiers in the infoscape
 : Host: Danish Data Archives
 : City: Odense, Denmark
 : Dates: May 6-9, 1997
-: **[Conference web site](https://web.archive.org/web/20130805183237/http://datalib.library.ualberta.ca/conferences/odense/default.html)**
+: **[Conference web site](https://web.archive.org/web/19970707085822/http://www.sa.dk/dda/conf97/)**
 
 IASSIST/CSS 1996: Weaving the web of social science research, data and support
 : Host: University of Minnesota. Electronic Research Center
@@ -144,14 +144,14 @@ IASSIST 1977.02: 1st Joint Canada/U.S. IASSIST conference
 1976: IASSIST Organizing Committee meeting, in conjunction with the International Political Science Association
 : Host:
 : Edinburgh, Scotland, U.K.
-: Dates: 
+: Dates: August, 1976
 
 1975: IASSIST Organizing Committee meeting
 : Host: London School of Economics
 : City: London, England, U.K.
-: Dates: 
+: Dates: April 10-12, 1975
 
 1974: Conference on data archives and program library services, in conjunction with the 8th World Congress of Sociology
 : Host:
 : City: Toronto, ON, Canada
-: Dates: 
+: Dates: August 21-22, 1974
