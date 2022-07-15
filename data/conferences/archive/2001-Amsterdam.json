@@ -201,7 +201,8 @@
                             "name": "Simon Musgrave",
                             "institution": "UK Data Archive, University of Essex"
                         }
-                    ]
+                    ],
+                    "doi": "10.5281/zenodo.6841604"
                 }
             ]
         },
@@ -216,7 +217,8 @@
                             "name": "Patty Adelaar",
                             "institution": "Dutch Social and Cultural Planning Office"
                         }
-                    ]
+                    ],
+                    "doi": "10.5281/zenodo.6841588"
                 },
                 {
                     "title": "ISSP DataWizard - Computer Assisted Merging and Archiving of Distributed International Comparative Data",
@@ -302,7 +304,8 @@
                             "name": "Emiel Kaper",
                             "institution": "Statistics Netherlands"
                         }
-                    ]
+                    ],
+                    "doi": "10.5281/zenodo.6841616"
                 }
             ]
         },
@@ -322,7 +325,8 @@
                             "name": "Ardo van den Hout",
                             "institution": "Statistics Netherlands"
                         }
-                    ]
+                    ],
+                    "doi": "10.5281/zenodo.6841638"
                 }
             ]
         },
