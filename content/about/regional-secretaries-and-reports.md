@@ -14,10 +14,11 @@ The years for which reports are available are listed below.
 Africa
 ------
 
-*Current Secretary:* Winny Nekesa, UBOS, Uganda
+*Current Secretary:* Winny Nekesa, Uganda
 
 *Reports:*
 
+-   [2021-2022](/about/regional-report-2021-2022-africa)
 -   [2020-2021](/about/regional-report-2020-2021-africa)
 -   [2019-2020](/about/regional-report-2019-2020-africa)
 -   [2015-2017](/about/regional-report-2015-2017-africa)
@@ -37,6 +38,7 @@ Asia/Pacific
 
 *Reports:*
 
+-   [2021-2022](/about/regional-report-2021-2022-asiapacific)
 -   [2007-2008](/about/regional-report-2007-2008-asiapacific)
 -   [2006-2007](/about/regional-report-2006-2007-asiapacific)
 -   [2005-2006](/about/regional-report-2005-2006-asiapacific)
@@ -50,6 +52,7 @@ Canada
 
 *Reports:*
 
+-   [2021-2022](/about/regional-report-2021-2022-canada)
 -   [2020-2021](/about/regional-report-2020-2021-canada)
 -   [2019-2020](/about/regional-report-2019-2020-canada)
 -   [2018-2019](/about/regional-report-2018-2019-canada)
@@ -79,6 +82,7 @@ Europe
 
 *Reports:*
 
+-   [2021-2022](/about/regional-report-2021-2022-europe)
 -   [2020-2021](/about/regional-report-2020-2021-europe)
 -   [2011-2012](/about/regional-report-2011-2012-europe)
 -   [2010-2011](/about/regional-report-2010-2011-europe)
@@ -102,6 +106,7 @@ United States
 
 *Reports:*
 
+-   [2021-2022](/about/regional-report-2021-2022-united-states)
 -   [2020-2021](/about/regional-report-2020-2021-united-states)
 -   [2019-2020](/about/regional-report-2019-2020-united-states)
 -   [2018-2019](/about/regional-report-2018-2019-united-states)
