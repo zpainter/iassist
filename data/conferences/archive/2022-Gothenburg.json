@@ -1047,18 +1047,18 @@
         {
           "title": "Thinking critically about sources: a recipe for data literacy",
           "abstract": "In our roles as data specialists and librarians within the Canadian academic community we actively promote data literacy through our library instruction and outreach to courses that have a requirement to locate reputable data sources for analysis. Our collective experience delivering data literacy sessions has led to the development of a shared pedagogical approach to teaching an instructional data session. We used this approach to develop a template for a forthcoming ACRL Cookbook on data literacy.  In this presentation, we will introduce our approach to delivering instruction to post-secondary students in the social, health sciences, or related disciplines. Our approach focuses on helping students understand data as an information source by helping them think critically about how and why data are collected and shared. The instructional session focuses on locating, evaluating, and using sources of secondary data as information resources. We encourage students to consider how data are created and used by exploring the following questions – Who collects data? Why do they collect data and why might they choose to share it or not share it? How is data collected, and how do administrative and survey data differ? By working through these questions, we help students to learn why public data may be available on some topics and not others, understand key limitations of official statistics, and think about where information can be found to fill in the gaps.  This session not only highlights the value of data literacy as a learning objective but also acknowledges the benefits of early careers practitioners learning from experienced colleagues.",
-          "doi": "",
+          "doi": "10.5281/zenodo.7106037",
           "presenters": [
             {
               "name": "Elizabeth Hill",
               "institution": "Western University"
             },
             {
-              "name": "Cooper Alexandra",
+              "name": "Alexandra Cooper",
               "institution": "Queen's University"
             },
             {
-              "name": "Thompson Kristi",
+              "name": "Kristi Thompson",
               "institution": "Western University"
             }
           ]
@@ -1082,7 +1082,7 @@
               "institution": "UKDS"
             },
             {
-              "name": "Matej Ďurčo ",
+              "name": "Matej Ďurčo",
               "institution": "OEAW"
             }
           ]
@@ -2030,7 +2030,7 @@
         {
           "title": "Keep it Simple, Stupid: Designing a stripped-down DMP Template",
           "abstract": "In Canada the long-awaited Tri-Agency policy on Research Data Management was finally released in early 2021. This policy is being rolled out in stages and is starting to require that applications for research funding that include data collection incorporate data management plans (DMPs). As DMPs have not previously been required in most Canadian funding calls, researchers and institutions supporting them are naturally apprehensive about these requirements.  At Western University, a library-led working group including representatives from across the institution formed to consider these issues. The group also included members from research ethics, research development, IT, faculty and university administration. The need to support researchers in writing DMPs was recognized as an initial priority.  Canada’s DMP Assistant, adapted from the Digital Curation Centre’s (DCC) DMP Online tool, provides a solution for helping novices write data management plans that meet the new requirements. The DMP Assistant walks researchers through a series of questions and provides guidance for answering them. While the group approved of the tool in principle, we felt that many of the questions were redundant or confusing, the way the questions were worded assumed a level of knowledge that many faculty members would not have, and that the guidance supplied was too general. Fortunately, the DMP Assistant allows the creation of custom templates with institution-specific guidance and questions, and the group decided to modify the default template to counter the issues that we saw. This session will discuss the differing perspectives the members of the group brought to this discussion, some of the issues raised with the existing templates, and the choices we made in coming up with a simplified template. We will also share responses from faculty who beta-tested the customized tool.",
-          "doi": "",
+          "doi": "10.5281/zenodo.7106016",
           "presenters": [
             {
               "name": "Kristi Thompson",

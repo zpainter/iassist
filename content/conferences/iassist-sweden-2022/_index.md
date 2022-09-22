@@ -18,11 +18,16 @@ The conference theme, "Data by Design: Building a Sustainable Data Culture", emp
 Call for Papers and Workshops has been closed.
 : All submissions were due by December 20, 2021. See the conference website for further information.
 
-**Thank you for attending.** 
+Registration has ended.
+: Both in-person and remote participation is possible. We offer a reduced fee for IASSIST members and a separate student fee. Early bird registration is open until April 30, 2022. Please note that all registration fees are in Swedish Krona. Early IASSIST member fee (excluding VAT) is 2700 SEK, which in mid-February conversion rate is approximately 290 USD / 255 EURO. 
 
-Both in-person and remote participation is possible. We offer a reduced fee for IASSIST members and a separate student fee. Early bird registration is open until April 30, 2022. 
 
-Please note that all registration fees are in Swedish Krona. Early IASSIST member fee (excluding VAT) is 2700 SEK, which in mid-February conversion rate is approximately 290 USD / 255 EURO. 
+Thank you for attending. 
+: Presentations are available on Zenodo
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo)</a>
+
+
 
 <a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website</a>
 
