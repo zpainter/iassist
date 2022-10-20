@@ -15,9 +15,9 @@ draft = "false"
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, ajester [ at ] stanford.edu  |
 |Social media Editor		|Sebastian Karcher, Lynda Kellam
-|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |
+<!--|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |-->
 |Mentorship pages			|Abay Israel  |
-|Jobs Repository Editor		|Vacant |
+|Jobs Repository Editor		|Ryan Womack |
 |Administrator Support		| |
 |Membership Site Admins		|iassist.membership [ at ] gmail.com|
 
