@@ -15,12 +15,12 @@ draft = "false"
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, ajester [ at ] stanford.edu  |
 |Social media Editor		|Sebastian Karcher, Lynda Kellam
-<!--|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |-->
-|Mentorship pages			|Abay Israel  |
+|Mentorship pages			|Abay Israel |
 |Jobs Repository Editor		|Ryan Womack |
 |Administrator Support		| |
 |Membership Site Admins		|iassist.membership [ at ] gmail.com|
 
+<!--|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |-->
 <!--
 |Section Editor: About		|Tuomas J. Alaterä |
 |Section Editor: Conferences|Chiu-Chuang (Lu) Chou |
