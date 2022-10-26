@@ -18,7 +18,9 @@ The annual conference is always an international event. Conference locations ref
 
 ### 2023 IASSIST Events
 
-Expect the details of the 2023 conference to be announced in September 2022. We look forward to an exciting data event!
+Philadelphia, PA, USA, May 29 - June 2, 2023
+
+<a class="btn btn-template-main" href="./iassist-usa-2023/">IASSIST 2023</a> 
 
 </div>
 
@@ -26,13 +28,17 @@ Expect the details of the 2023 conference to be announced in September 2022. We 
 
 #### Forthcoming
 
-<a class="btn btn-template-main" href="./iassist-africa-2022/" >Africa Workshop</a> 
+None
 
 #### Completed
 
+Conference was arranged in Ibadan, Nigeria, October 4-7, 2022.
+
+<a class="btn btn-template-main" href="./iassist-africa-2022/">Africa Workshop</a> 
+
 Conference was arranged as a hybrid event 7-10 June 2022 in Gothenburg, Sweden. 
 
-<a class="btn btn-template-main" href="./iassist-sweden-2022/" >IASSIST 2022, Sweden</a>
+<a class="btn btn-template-main" href="./iassist-sweden-2022/">IASSIST 2022, Sweden</a>
 
 **Presentations are available on Zenodo**
 
