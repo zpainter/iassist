@@ -13,22 +13,34 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 No registrations open at the moment.
 
-<!--
-#### Understanding the 2020 US Census
 
-This webinar organized by the IASSIST professional development committee on **September 29, 2021 at 2-3 pm EDT**. 
+#### A Conversation About Data on Race & Ethnicity Around the World
 
-Speaker:
-: Dr. William P. O'Hare
+This webinar is organized by the IASSIST Anti-Racism Resources Interest Group and IASSIST Professional Development Committee on **November 30, 2022 at 11am-12:30pm EST**. 
 
-> This webinar will cover how the 2020 Census was conducted, what key trends and patterns have been revealed in the data that has been released so far, and how to understand the quality of the data produced from the Census. The presentation is designed for people who are unlikely to be familiar with the census details and meant to provide a broad understanding of this important national event. Part of the presentation will cover some of the important terms used by the Census Bureau in discussing how the Census was conducted and how the quality can be assessed.
+Speakers:
+: Framing of the Issues: Anne Zald - Northwestern University
+: Canada: Kevin Manuel - Toronto Metropolitan University
+: United States: Barbara Levergood - Bowdoin College
+: United Kingdom: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sciences
+: Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
+: Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
 
-> Speaker Bio: Dr. O’Hare has used data from Census Bureau for more than 50 years primarily working for non-profit organizations. Dr. O’Hare has been on Census Bureau advisory committees, he has been a consultant to the Census Bureau, and from 2011-2013 he was a research fellow at the Census Bureau, focusing on the high net undercount of young children. He has written two books on the quality of the U.S. Census; "Differential Undercounts in the U.S. Census: Who is Missed?" and "The Undercount of Young Children in the U.S. Decennial Census."
+> The Black Lives Matter and Indigenous rights movements, as well as international migration in recent years have raised awareness of issues around inequalities because of race and ethnicity. In turn, this has prompted many organizations and groups such as IASSIST to reexamine their own understanding and knowledge, processes and practices. In response, the IASSIST Anti-Racism Interest Group was formed and brought together data stewards and librarians who had some or no prior expertise but who were interested in having a conversation about race and ethnicity in terms of data available for research and exploring how they could support the vital work in this field.
 
-<a class="btn btn-template-main" href="https://myumi.ch/1p3AV" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
+> This webinar marks the beginning of that conversation with a focus on the data that is available for research. Bringing together a panel of data stewards and librarians from 4 countries - Canada, the US, the UK and Germany - and this webinar aims to discuss and review these key questions:
+
+> - How are race and ethnicity recorded in the national Censuses and other key data sources?
+> - Have these definitions changed over time?
+> - What groups are identified, how much detail is available?
+> - What are some of the key issues with these data?
+
+The webinar will last 90 minutes and will include plenty of time at the end for a Q&A and comments from the audience.
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I " title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 After registering, you will receive a confirmation email containing information about joining the webinar.  
--->
+
 
 ### Most recent webinar recordings
 
