@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-9" id="conference-archive">
+
+                        {{ if .Params.datalink }}
+                          {{ $path := printf "%s" .Params.datalink }}
+                          {{ $data := (getJSON $path) }}
+                          <h2> {{ $data.title }} </h2>
+                          <h3>Host city: {{ $data.city }}</h3>
+                          <p><strong>Host:</strong> {{ $data.host }}</p> 
+                          <p><strong>Dates:</strong> {{ $data.dateText }}</p>
+                          <p><strong>Ordinal:</strong> {{ $data.conferenceNum }}</p>
+                          <p><strong><a href="{{ $data.conferenceUrl }}">Conference website</a></strong></p>
+                          <h3> Program </h3>
+                          <button> Toggle abstract visibility </button>
+                          {{ range $s := $data.sessions }}
+                            <div class="conference-session"> <h4>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h4></div>
+                            {{ range $p := $s.presentations }}
+                              <div class="conference-presentation"><h5 style="color:#555;">{{ $p.title }}</h5></div>
+                              {{ range $pr := $p.presenters }}
+                                <div class="conference-presenters"><em>{{ $pr.name }} ({{ $pr.institution }})</em> </div>
+                              {{ end }}
+                                <div style="display:none; padding: .5em 0 0 1em;" class="abstract"> {{ $p.abstract }} </div>
+                              {{ if $p.doi }}
+                                <div class="conference-doi">&raquo; <a href="https://doi.org/{{ $p.doi }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">https://doi.org/{{ $p.doi }}</a></div>
+                              {{ end }}
+                              <p/>
+                            {{ end }}
+                          {{ end }}
+                        {{ end }}
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar-confere-nces.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
