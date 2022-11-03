@@ -9,11 +9,11 @@ In the wake of the murders of George Floyd, Breonna Taylor and  Ahmaud Arbery in
 
 Resources are grouped into two categories:
 
-[Sources of data (in .csv format)](https://github.com/iassist/content/community/antiracismresources-ig/datasources.csv) on a variety of topics but all documenting racism and the Black experience internationally.
-[Articles/toolkits/rubrics (in .csv format)](https://github.com/iassist/content/community/antiracismresources-ig/arttoolkrubr.csv) for building anti-racism into the process of working with data across the research lifecycle.
+[Sources of data (in .csv format)](https://github.com/iassist/community/antiracismresources-ig/datasources.csv) on a variety of topics but all documenting racism and the Black experience internationally.
+[Articles/toolkits/rubrics (in .csv format)](https://github.com/iassist/community/antiracismresources-ig/arttoolkrubr.csv) for building anti-racism into the process of working with data across the research lifecycle.
 
 
-The group is also collecting essays to briefly summarize [varying national perspectives about collecting data by race](https://github.com/iassist/content/community/antiracismresources-ig/essays).
+The group is also collecting essays to briefly summarize [varying national perspectives about collecting data by race](https://github.com/iassist/community/antiracismresources-ig/essays).
 
 Finally, the Action Group is interested in co-sponsoring with IASSIST's Professional Development Committee (PDC) webinars on related topics such as different international approaches to/attitudes about race and discrimination; and/or, a panel of researchers to talk about the challenges of finding and/or cleaning/preparing/joining data on racial topics.
   
