@@ -16,11 +16,11 @@ type = "conferences-test"
 
 #### Philadelphia, PA, USA, May 29 - June 2, 2023
 
-**Host institution:** 
+**Host institution: IASSIST with representation from X universities in the area.** 
 
 
-Call for Papers and Workshops will open soon.
-: Click here
+Call for Papers and Workshops.
+: Will open soon
 
 Registration
 : Registration will open later.
