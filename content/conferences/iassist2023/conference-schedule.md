@@ -12,18 +12,22 @@ type = "conferences-test"
   table.schedule {
     border-collapse: collapse;
     margin: 25px 0;
+	border: 1px solid #aaa;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-    background:#eed;
+    background-color:#eed;
     width:100%;
     table-layout:fixed;
     }
   table.schedule thead th {
-    background: silver; 
+    background-color: silver; 
 	padding: 1em;
 	text-align: left;
 	}
   table.schedule tbody tr {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 5px solid #ddd;
+	}
+  table.schedule tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
 	}
   table.schedule tbody td {
     padding: 1em;
