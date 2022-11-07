@@ -1,30 +1,21 @@
 +++
 year = "2023"
 draft = "false"
-title = "IASSIST 2023 - Conference Schedule"
+title = "IASSIST 2023 - Conference Hotel"
 location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## Conference Hotel
+## IASSIST 2023 Conference Hotel
 
-Conference hotel is the most convenient place to stay as you will be only a few steps away from all the confenrece action. 
+The conference hotel and location of most meetings will be the [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/).
 
 ### To book
 
-Use the booking code "bestiassistever" at their online tool.
+Details on booking at the conference rate will be released when registration is available.
 
-<a class="btn btn-template-main" href="#" target="_blank" title="Opens to a new tab">Hote Booking Tool</a>
+## Other Hotels and Accomodations
 
-## Other Hotels
-
-Organisers have reserved a block of rooms from the following hotels:
-
-- Grand Plaza
-- Hillybily Inn
-- Party Palace
-- Motel by the Highway
-
-To book, contact hotels directly and quote booking code "bestiassistever".
+Further information on alternative hotels and accomodation options will be posted here when it is available.
 
 

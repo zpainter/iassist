@@ -6,7 +6,9 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## Conference schedule at a glance
+## IASSIST 2023 Conference schedule at a glance
+
+The typical conference schedule is shown in the following table.  Details on the 2023 schedule will appear in the Spring as the program is finalized.
 
 <style>
   table.schedule {
@@ -95,6 +97,9 @@ type = "conferences-test"
 
 ## Detailed schedule
 
+Forthcoming.
+
+<!---
 Monday|Tuesday|Wednesday|Thursday|Friday|
 ---|---|---|---|---|
 IASSIST Administrative Meeting|Workshops|Plenary|Plenary|Sessions|
@@ -103,3 +108,4 @@ Lunch on your own|Lunch on your own|Lunch|Lunch & IASSIST Business meeting|Lunch
 ||Workshops|Poster session|Sessions|Wrapup|
 IASSIST Administrative Meeting|Interest Group Discussions|Sessions|Sessions||
 ||Reception||Banquet||
+-->
