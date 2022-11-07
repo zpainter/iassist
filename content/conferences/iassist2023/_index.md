@@ -16,7 +16,7 @@ type = "conferences-test"
 
 #### Philadelphia, PA, USA, May 29 - June 2, 2023
 
-**Host institution: IASSIST with representation from X universities in the area.** 
+**Host institution: IASSIST with representation from the University of Pennsylvania, Princeton University, Rutgers University, and other universities in the area.** 
 
 
 Call for Papers and Workshops.
