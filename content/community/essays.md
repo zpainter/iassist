@@ -9,6 +9,7 @@ Please note that the authors do not claim expertise as researchers in this area.
 issues or compiled documentation from their country's official statistics to describe how such counts were done.  If you would like to 
 contribute an essay of your own or a revision to one of these, please email the current chairs of the interest group, listed among the interest groups on [this page](https://iassistdata.org/about/committees-and-groups/).
 
+
 ### Country
 
 [Canada](https://github.com/iassist/content/antiracismresources/canada.md)

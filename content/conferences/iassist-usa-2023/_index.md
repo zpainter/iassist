@@ -21,8 +21,6 @@ Call for Papers and Workshops will open soon.
 Registration
 : Registration will open later.
 
-<!--: Both in-person and remote participation is possible. We offer a reduced fee for IASSIST members and a separate student fee. Early bird registration is open until April 30, 2022. Please note that all registration fees are in Swedish Krona. Early IASSIST member fee (excluding VAT) is 2700 SEK, which in mid-February conversion rate is approximately 290 USD / 255 EURO. -->
-
 <!--
 Thank you for attending. 
 : Presentations are available on Zenodo-->
@@ -31,19 +29,21 @@ Thank you for attending.
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo)</a>
 -->
 
-Conference website will be opened shortly.
+THe full version of this conference website will open shortly.
+
 <!--
 <a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website</a>
 -->
+
 <br />
 
 #### Programme Chairs
 - Jonathan Bohan, Cornell University, USA
-- Kevin Manuel, Ryerson University, Canada
+- Kevin Manuel, Toronto Metropolitan University, Canada
 - Anja Perry, Gesis, Germany
 
 #### Local Arrangements Chairs
-- Lynda Kellam, Penn University, USA
+- Lynda Kellam, University of Pennsylvania, USA
 - Bobray Bordelon, Princeton University, USA
 - Ryan Womack, Rutgers University, USA
 

@@ -32,11 +32,11 @@ Come and join us for the Best. IASSIST. Ever.
 
 #### Programme Chairs
 - Jonathan Bohan, Cornell University, USA
-- Kevin Manuel, Ryerson University, Canada
+- Kevin Manuel, Toronto Metropolitan University, Canada
 - Anja Perry, Gesis, Germany
 
 #### Local Arrangements Chairs
-- Lynda Kellam, Penn University, USA
+- Lynda Kellam, University of Pennsylvania, USA
 - Bobray Bordelon, Princeton University, USA
 - Ryan Womack, Rutgers University, USA
 
