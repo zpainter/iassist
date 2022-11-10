@@ -37,12 +37,12 @@ We recognize and acknowledge that the site of this conference stands on the Indi
 <hr />
 <br />
 
-#### Programme Chairs
+### Programme Chairs
 - Jonathan Bohan, Cornell University, USA
 - Kevin Manuel, Toronto Metropolitan University, Canada
 - Anja Perry, Gesis, Germany
 
-#### Local Arrangements Chairs
+### Local Arrangements Chairs
 - Lynda Kellam, University of Pennsylvania, USA
 - Bobray Bordelon, Princeton University, USA
 - Ryan Womack, Rutgers University, USA
