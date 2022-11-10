@@ -10,4 +10,20 @@ type = "conferences-test"
 
 The conference will be centered at the [Philadelphia Marriott Old City. Click for a map.](https://www.openstreetmap.org/way/147318001#map=17/39.94617/-75.14362).
 
+<div class="map" style="padding:0">
+    <style>
+      .mapFrame {
+        overflow:hidden;
+        background:none!important;
+        height:500px;
+        width:99%;
+      }
+    </style>
+  <div class="mapFrame">
+    <iframe width="99%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-75.14843702316286%2C39.94332132795064%2C-75.1383948326111%2C39.94894739559914&amp;layer=mapnik&amp;marker=39.94613441960866%2C-75.14341592788696"></iframe>
+  </div>
+</div>
+
+<small><a href="https://www.openstreetmap.org/?mlat=39.94613&amp;mlon=-75.14342#map=17/39.94613/-75.14342" target="_blank" title="Opens a new tab">View Larger Map<i class="fas fa-external-link-alt"></i></a></small>
+
 Additional maps will be posted with locations of workshops, reception, and banquet when available.
