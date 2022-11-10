@@ -8,6 +8,10 @@ type = "conferences-test"
 
 ## IASSIST 2023 Conference Committees
 
-The Program Committee chairs are Jonathan Bohan (Cornell), Keven Manuel (Ryerson), and Anja Perry (GESIS).
+#### The Program Committee chairs
 
-The Local Arrangements Committee are Lynda Kellam (Penn), Bobray Bordelon (Princeton) and Ryan Womack (Rutgers), working with Concentra Conference Management Services.
+The Program Committee chairs are Jonathan Bohan (Cornell University, USA), Kevin Manuel (Toronto Metropolitan University, Canada), and Anja Perry (Gesis, Germany).
+
+#### The Local Arrangements Committee
+
+The Local Arrangements Committee are Lynda Kellam (University of Pennsylvania, USA), Bobray Bordelon (Princeton University, USA), and Ryan Womack (Rutgers University, USA) working with Concentra Conference Management Services.
