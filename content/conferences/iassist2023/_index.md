@@ -20,7 +20,7 @@ type = "conferences-test"
 
 **Call for Papers and Workshops**
 
-: We welcome submissions for the conference, especially those addressing the theme of *Diversity in Research: Social Justice from Data*.  See the [Call for Submissions page](https://iassistdata.org/conferences/iassist2023/submissions) for details.
+: We welcome submissions for the conference, especially those addressing the theme of *Diversity in Research: Social Justice from Data*.  See the [Call for Submissions page](https://iassistdata.org/conferences/iassist2023/call-for-submissions) for details.
 
 **Registration**
 
