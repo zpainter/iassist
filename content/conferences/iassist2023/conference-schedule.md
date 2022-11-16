@@ -6,7 +6,7 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Conference schedule at a glance
+### Conference schedule at a glance
 
 The typical conference schedule is shown in the following table.  Details on the 2023 schedule will appear in the Spring as the program is finalized.
 

@@ -6,15 +6,15 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Call for Submissions
+### Call for Submissions
 
-Submitting Proposals – **DEADLINE: 6 December 2022**
+### **Submission DEADLINE: 6 December 2022**
 
 We welcome submissions for presentations, panels, posters, workshops, and lightning talks. The theme of this year’s conference is 
 
 ### Diversity in Research: Social Justice from Data
 
-Submissions from data professionals on the following topics will be prioritized: 
+Submissions from data professionals related to *data archiving, data management, data librarianship/stewardship, data literacy, and similar areas* on the following topics will be prioritized: 
 
 - Ableism
 

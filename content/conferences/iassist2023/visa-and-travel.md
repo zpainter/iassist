@@ -6,8 +6,6 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Visa and Travel
-
 ### Basic information about visa requirements for traveling to the USA
 
 The information below is intended as a starting point.  Please confirm current requirements and guidelines directly as conditions may change.

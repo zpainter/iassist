@@ -6,9 +6,7 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 FAQ
-
-Frequently asked questions related to the Conference will be answered here as they develop.
+### Frequently asked questions related to the Conference will be answered here as they develop.
 
 ### Q. Will it be the best IASSIST ever?
 
