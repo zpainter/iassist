@@ -110,7 +110,7 @@ Bobray Bordelon,
 bordelon [ at ] princeton.edu
 
 Ashley Jester,
-ajester [ at ] stanford.edu
+
 
 Ryan Womack,
 rwomack [ at ] scarletmail.rutgers.edu

@@ -13,7 +13,7 @@ draft = "false"
 |Web Editor (appointed)		|Zac Painter, zwp [ at ] stanford.edu |
 |Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu|	
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
-|Discussion List Moderator	|Ashley Jester, ajester [ at ] stanford.edu  |
+|Discussion List Moderator	|Ashley Jester, discuss-request [ at ] lists.iassistdata.org  |
 |Social media Editor		|Sebastian Karcher, Lynda Kellam
 |Mentorship pages			|Abay Israel |
 |Jobs Repository Editor		|Ryan Womack |
