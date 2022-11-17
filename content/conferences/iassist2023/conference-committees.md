@@ -6,8 +6,6 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Conference Committees
-
 ### Program Committee
 
 - **Jonathan Bohan**, Cornell University, USA
@@ -26,6 +24,15 @@ Anja lives in Cologne, Germany, and works for the GESIS Data Services for the So
 ### Local Arrangements Committee
 
 - **Bobray Bordelon** (Princeton University, USA)
+
+Bobray Bordelon joined Princeton University as the Economics & Finance Librarian in 1993   after three years as a Business Librarian at New Mexico State University. He has led Data & Statistical Services since 2004. His Bachelor of Science in Finance and Master of Library and Information Science are from Louisiana State University and his Master of Business Administration from New Mexico State University. His professional interests involve service to state, national, and international organizations while promoting subject content and knowledge and its access.  He has been awarded the Thomson Gale Award for Excellence in Business Librarianship award and the William H. Flanigan Award for Distinguished Service as an ICPSR Official Representative.
+
 - **Lynda Kellam** (University of Pennsylvania, USA)
+
+Lynda is the Head of Research Data Services in Research Data & Digital Scholarship at the University of Pennsylvania Libraries. Previously, she was the Senior Data Librarian at the Cornell Center for Social Sciences. She is the co-author of *Numeric Data Services and Sources for the General Reference Librarian* (2011) and co-editor of *Databrarianship: The Academic Data Librarian in Theory and Practice* (2016). She received her MA in Political Science from the University of Wisconsin, Madison, MLIS from the University of North Carolina at Greensboro, and is a doctoral candidate in American History.
+
 - **Ryan Womack** (Rutgers University, USA)
-- working with Concentra Conference Management Services.
+
+Ryan has been at Rutgers University in New Brunswick, New Jersey, since 1999, having first served as Business & Economics Librarian, and as Data Librarian since 2008.  He is currently serving as Head of the New Brunswick Libraries Research Services Unit.  He has authored articles in *PLOS*, the *Journal of Academic Librarianship*, *Library and Information Science Research*, and of course, *IASSIST Quarterly*. He holds an MA in Economics from Penn, an MSLS from the University of North Carolina at Chapel Hill, and an MS in Statistics from Rutgers. His latest project is the development of a guide to gender data resources for Central Asia and Mongolia.
+
+- working with [Concentra Conference Management Services](https://www.concentra-cms.com/).
