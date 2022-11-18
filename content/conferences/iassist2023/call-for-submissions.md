@@ -78,8 +78,3 @@ A lightning talk is a short, highly visual presentation. Presentations in this c
 There will be a Birds of a Feather session again. The call for it will be published 3 weeks before the conference.
 
 NOTE: When submitting you will be required to select one of the proposal formats above, but it is possible that your submission may be accepted on the condition of adapting it to another format (e.g., an individual presentation proposal might be accepted if you are willing to adapt it to a poster or a Lightning Talk). If this is the case, you will be given the choice to accept this format change or to decline being in the conference program when notified of its acceptance.
-
-**Topic Areas**
-Partnerships and collaborations – What is the data culture like at your organization? What infrastructure – hardware, software, people or policies – are you leveraging, and is it enough? Who do you partner and collaborate with, both within and outside your own organization, and can we learn from these networking environments?
-
-Data management and archiving – How can we build a community of data sharing that is equitable for all? How can we learn from each other’s approaches to demonstrating trust to lay a strong foundation? Have you designed any new and useful approaches and tools that can help in this space?
