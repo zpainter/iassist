@@ -6,10 +6,8 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Social Program
+A **reception** will be held on Tuesday evening, May 30.
 
-A reception will be held on Tuesday evening, May 30.
-
-The banquet will be held on Thursday evening, June 1.
+The **banquet** will be held on Thursday evening, June 1.
 
 Further information will be posted as plans are finalized.

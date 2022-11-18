@@ -6,7 +6,5 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Registration
-
-Details on registration will be available in Spring 2023.
+### Details on registration will be available in Spring 2023.
 

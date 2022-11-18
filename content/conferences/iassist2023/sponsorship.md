@@ -6,8 +6,6 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-## IASSIST 2023 Call for Sponsorship
-
-We are delighted to entertain sponsorship offers. Please contact us for details.
+###  We are delighted to entertain sponsorship offers. Please contact us for details.
 
 
