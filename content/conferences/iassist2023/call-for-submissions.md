@@ -6,39 +6,34 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-### Call for Submissions
+## Call for Submissions
 
 ### **Submission DEADLINE: 14 December 2022**
 
-We welcome submissions for presentations, panels, papers, posters, workshops, and lightning talks. The theme of this year’s conference is 
+We welcome submissions for presentations, panels, papers, posters, workshops, and lightning talks. 
 
-### Diversity in Research: Social Justice from Data
+The theme of this year’s conference is 
+
+#### Diversity in Research: Social Justice from Data
 
 Submissions from data professionals related to *data archiving, data management, data librarianship/stewardship, data literacy, and similar areas* on the following topics will be prioritized: 
 
 - Ableism
-
 - Ageism
-
 - Decolonization and postcolonialism
-
 - Democratization and political participation
-
 - Environmentalism and climate change
-
 - Indigenous and racialized (BIPOC) peoples
-
 - LGBTQ+ peoples
-
 - Women’s health and rights
-
 
 Questions about presentation submissions may be sent to the Program Chairs (Anja Perry, Kevin Manuel, and Jonathan Bohan) at programme@lists.iassistdata.org. 
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. NOTE: Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can’t understand what a proposal is about, it will be rejected.
+
 MULTIPLE SUBMISSIONS: The conference organizers anticipate that some individuals may wish to submit multiple proposals. We expect to have many submissions, so we would kindly ask you to restrict submissions to one per person only.
 
-### [**Submit your Presentation Proposal here**: https://www.openconf.org/iassist2023/openconf.php](https://www.openconf.org/iassist2023/openconf.php)
+<br /><a class="btn btn-template-main" href="https://www.openconf.org/iassist2023/openconf.php">Submit your Presentation Proposal <i class="fas fa-external-link-alt"></i></a><br /><br />
 
 Questions about workshop submissions may be sent to the Workshop Coordinators (Amber Sherman, Deborah Wiltshire, Robert Buwule, and Simon Parker) at workshops@lists.iassistdata.org.
 
@@ -48,7 +43,9 @@ IASSIST Fellows Program supports data professionals from countries with emerging
 
 IASSIST Early Professional Fellows Program supports early career data professionals from under-resourced institutions and recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
 
-Applications can be made at [https://forms.gle/PRNz3p91Yao6sBjq5](https://forms.gle/PRNz3p91Yao6sBjq5) and will close on 22 February 2023. Please address your questions about the Fellows Program to Fellows Committee Co-Chairs Florio Arguillas (foa2@cornell.edu) and Sarah Young (sarahy@andrew.cmu.edu).
+Applications can be made on a separate form. Applications will close on 22 February 2023. Please address your questions about the Fellows Program to Fellows Committee Co-Chairs Florio Arguillas (foa2@cornell.edu) and Sarah Young (sarahy@andrew.cmu.edu).
+
+<br /><a class="btn btn-template-main" href="https://forms.gle/PRNz3p91Yao6sBjq5">Submit your Application <i class="fas fa-external-link-alt"></i></a><br /><br />
 
 ### Presentation Formats
 

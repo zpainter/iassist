@@ -24,6 +24,7 @@ The typical conference schedule is shown in the following table.  Details on the
     background-color: silver; 
 	padding: 1em;
 	text-align: left;
+	color: #4d4d4d;
 	}
   table.schedule tbody tr {
     border-bottom: 5px solid #ddd;

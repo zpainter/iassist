@@ -1,7 +1,9 @@
-weight: 4
+weight: 2
 title: "IASSIST 2023"
 description: >
+    <p class="carouselText">Diversity in Research:<br /></p>
+    <p class="carouselText">Social Justice from Data<br /></p>    
     <p class="carouselText">Philadelphia, PA, USA<br /></p>
-    <p class="carouselText">May 29 - June 2, 2023<br /></p>
-    <p class="carouselText"><a href="https://iassistdata.org/conferences/" target="_blank">More information shortly</a></p>
+    <p class="carouselText">May 30 - June 2, 2023<br /></p>
+    <p class="carouselText"><a href="https://iassistdata.org/conferences/iassist2023">Visit the website</a></p>
 image: "img/carousel/iassist_logo_wordmark-no-wordmark-450.png"

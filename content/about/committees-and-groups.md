@@ -46,10 +46,11 @@ Responsible for enabling productive and transparent communication among members 
 - **2019-2023 Web Editor:** *Zac Painter. zwp [ at ] stanford.edu*
 - The [IASSIST Web Team](/about/web-team)
 
-#### [Programme Committee](/conferences/conference-committees) {#program-committee}
+#### [Programme Committee](/conferences/iassist2023/conference-committees) {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events. 
 
-- **2021-2022 Conference Co-Chairs:** *Winny Nekesa, Richard Welpton, Ron Dekker, Ivana Ilijašić Veršić*
+- **2022-2023 Conference Co-Chairs:** *Jonathan Bohan, Kevin Manuel, Anja Perry*   
+
 
 ## Action Groups {#action-groups}
 

@@ -20,7 +20,7 @@ The annual conference is always an international event. Conference locations ref
 
 Philadelphia, PA, USA, May 29 - June 2, 2023
 
-<a class="btn btn-template-main" href="./iassist-usa-2023/">IASSIST 2023</a> 
+<a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023</a> 
 
 </div>
 

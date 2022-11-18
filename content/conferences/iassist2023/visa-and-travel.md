@@ -10,7 +10,7 @@ type = "conferences-test"
 
 The information below is intended as a starting point.  Please confirm current requirements and guidelines directly as conditions may change.
 
-Consult the [Visa Wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html) for information about visa requirements specific to your situation. [Travel.state.gov](https://travel.state.gov) is the main site for official information on travel from the US Department of State.
+Consult the [Visa Wizard <i class="fas fa-external-link-alt"></i>](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html) for information about visa requirements specific to your situation. [Travel.state.gov <i class="fas fa-external-link-alt"></i>](https://travel.state.gov) is the main site for official information on travel from the US Department of State.
 
 If you require a letter of invitation for the conference, please send an email to the Programme Committee with your name, institution, mailing address and other contact details.
 
