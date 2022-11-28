@@ -22,7 +22,7 @@ type = "conferences-test"
 
 **Call for Papers and Workshops**
 
-: We welcome submissions for the conference, especially those addressing the theme of *Diversity in Research: Social Justice from Data*.  See the [Call for Submissions page](/conferences/iassist2023/call-for-submissions/) for details. Submission deadline is 14 December 2022.
+: We welcome submissions for the conference, especially those addressing the theme of *Diversity in Research: Social Justice from Data*.  See the [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) for details. Submission deadline is 14 December 2022.
 
 **Registration**
 
@@ -39,7 +39,7 @@ We recognize and acknowledge that the site of this conference stands on the Indi
 <hr />
 <br />
 
-### Programme Chairs
+### Program Chairs
 - Jonathan Bohan, Cornell University, USA
 - Kevin Manuel, Toronto Metropolitan University, Canada
 - Anja Perry, Gesis, Germany
