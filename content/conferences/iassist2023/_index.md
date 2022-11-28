@@ -39,7 +39,7 @@ We recognize and acknowledge that the site of this conference stands on the Indi
 <hr />
 <br />
 
-### Programme Chairs
+### Program Chairs
 - Jonathan Bohan, Cornell University, USA
 - Kevin Manuel, Toronto Metropolitan University, Canada
 - Anja Perry, Gesis, Germany
