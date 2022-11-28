@@ -22,7 +22,7 @@ type = "conferences-test"
 
 **Call for Papers and Workshops**
 
-: We welcome submissions for the conference, especially those addressing the theme of *Diversity in Research: Social Justice from Data*.  See the [Call for Submissions page](/conferences/iassist2023/call-for-submissions/) for details. Submission deadline is 14 December 2022.
+: We welcome submissions for the conference, especially those addressing the theme of *Diversity in Research: Social Justice from Data*.  See the [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) for details. Submission deadline is 14 December 2022.
 
 **Registration**
 
