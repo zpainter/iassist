@@ -12,7 +12,7 @@ IASSIST brings together over 400 professionals from around the world who work in
 
 Our international conference is an attractive opportunity for your organization to make contact with IASSIST members. Many of the conference attendees use, recommend, and make decisions related to data resources, software, subscriptions and other data services for their institutions. Listed below are a variety of sponsorship opportunities. The deadline to reserve a sponsorship is March 30. Please contact us with any questions, and we hope that you will strongly consider participating in IASSIST 2023.
 
-## IASSIST 2023 – Sponsor Packages
+### IASSIST 2023 – Sponsor Packages
 
 **Platinum Level:**
 
@@ -46,7 +46,7 @@ Our international conference is an attractive opportunity for your organization 
 - Small logo displayed on conference website as Bronze sponsor
 
 
-## Specialized sponsorship opportunities
+### Specialized sponsorship opportunities
 
 **Named sponsor for opening reception:**
 - $3000 solo sponsorship/$1500 shared
