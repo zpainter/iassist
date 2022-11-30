@@ -13,7 +13,7 @@ Under construction:  Sources of data (in .csv format) on a variety of topics but
 Under construction:  Articles/toolkits/rubrics (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
 
 
-The group is also collecting essays to briefly summarize [varying national perspectives about collecting data by race](https://github.com/iassist/community/antiracismresources-ig/essays).
+The group is also collecting essays to briefly summarize [varying national perspectives about collecting data by race](/community/antiracismresources-ig/essays).
 
 Finally, the Action Group is co-sponsoring with IASSIST's Professional Development Committee (PDC) webinars on related topics.  Our first one is coming up soon:
 
