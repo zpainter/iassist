@@ -1,9 +1,9 @@
 ---
-title: "Deutschland (Germany)"
+title: "Germany"
 date: 2022-11-21
 draft: false
 ---
-## Deutschland (Germany)
+## Germany
 In Europe, the concept of “race” is rejected and in Germany even unacceptable due its misuse during the Nazi Regime (Salentin 2017). When defining “migration 
 background”, social science researchers can apply an approach that originates from official statistics. They define immigrants as all residents “who entered the 
 current territory of the Federal Republic of Germany after 1949. Further, immigrants are all non-citizens born in Germany as well as all Germans born in Germany 
@@ -31,6 +31,7 @@ DeZIM – German Center for Research on Integration and Migration (2022). Rassis
 Diehl, C., Liebau, E., Mühlau, P. (2021). How Often Have You Felt Disadvantaged? Explaining Perceived Discrimination. Kölner Zeitschrift für Soziologie und Sozialpsychologie 73, 1–24: [https://doi.org/10.1007/s11577-021-00738-y](https://doi.org/10.1007/s11577-021-00738-y) 
 
 Federal Statistical Office Germany. (2022). Bevölkerung und Erwerbstätigkeit: Bevölkerung mit Migrationshintergrund: Ergebnisse des Mikrozensus 2021. Wiesbaden: Federal Statistical Office Germany.
+
 Fischer, M.S., Hoßfeld, U., Krause, J., Richter, S. (2019). Jena Declaration. Friedrich Schiller University, Jena: [https://www.uni-jena.de/en/190910_JenaerErklaerung_EN](https://www.uni-jena.de/en/190910_JenaerErklaerung_EN)
 
 German Federal Criminal Police Office (BKA), Wiesbaden (2021). The German Victimization Survey - Cumulation 2012-2017. GESIS Data Archive, Cologne. ZA6853 Data file Version 1.0.0, [https://doi.org/10.4232/1.13672](https://doi.org/10.4232/1.13672)
@@ -40,4 +41,5 @@ Horr, A., de Paiva Lareiro, C., & Will, G. (2020). Messung wahrgenommener ethnis
 Max Planck Institute for the Science of Human History (2020). Jena Declaration Contributes to Amendment of German Constitution. Max Planck Institute for the Science of Human History, Jena, press release: [https://www.shh.mpg.de/1909574/jenaer-erklaerung-update](https://www.shh.mpg.de/1909574/jenaer-erklaerung-update)
 
 Richter, David; Kasprowski, David; Fischer, Mirjam (2021). Pretest eines Fragenmoduls zu subjektiven Diskriminierungserfahrungen in der SOEP-Innovationsstichprobe 2020, SOEP Survey Papers, No. 1077, Deutsches Institut für Wirtschaftsforschung (DIW), Berlin, http://hdl.handle.net/10419/248491
+
 Salentin, K. (2014). Sampling the Ethnic Minority Population in Germany. The Background to “Migration Background. methods, data, analyses. Vol 8 (1): [https://doi.org/10.12758/mda.2014.002](https://doi.org/10.12758/mda.2014.002)
