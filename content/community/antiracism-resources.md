@@ -13,7 +13,7 @@ Under construction:  Sources of data (in .csv format) on a variety of topics but
 Under construction:  Articles/toolkits/rubrics (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
 
 
-The group is also collecting essays to briefly summarize [varying national perspectives about collecting data by race](https://github.com/iassist/community/antiracismresources-ig/essays.md).
+The group is also collecting essays to briefly summarize [varying national perspectives about collecting data by race](https://github.com/iassist/community/antiracismresources-ig/essays).
 
 Finally, the Action Group is co-sponsoring with IASSIST's Professional Development Committee (PDC) webinars on related topics.  Our first one is coming up soon:
 
@@ -38,7 +38,7 @@ United Kingdom: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sci
 Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
 Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
 
-Please register at [https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I] (https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I).
+Please register at [https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I](https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I).
 
 Please send suggestions for additions to the resources lists, and speakers (and topics) to the Action Group's co-chairs, Michele Hayslett, michele_hayslett [ at ] unc.edu and Anja Perry, anja.perry [ at ] @gesis.org.
 
