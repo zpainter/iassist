@@ -34,7 +34,7 @@ Presenters:
 - Framing of the Issues: Anne Zald - Northwestern University
 - Canada: Kevin Manuel - Toronto Metropolitan University
 - United States: Barbara Levergood - Bowdoin College
-- United Kingdom: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sciences, Nigel de Noronha, Manchester University
+- United Kingdom: Nigel de Noronha, U.K. Data Service
 - Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
 - Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
 
