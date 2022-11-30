@@ -37,6 +37,7 @@ Presenters:
 - United Kingdom: Nigel de Noronha, U.K. Data Service
 - Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
 - Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
+- Conclusion and Q&A: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sciences
 
 Registration has closed.  A recording will be posted after the event.
 
