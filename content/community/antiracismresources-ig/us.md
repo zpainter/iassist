@@ -57,7 +57,7 @@ Inhabitants of the United States,” Passed March the First, One Thousand Seven 
 [https://hdl.handle.net/2027/inu.30000120169259?urlappend=%3Bseq=11%3Bownerid=13510798902168767-17](https://hdl.handle.net/2027/inu.30000120169259?urlappend=%3Bseq=11%3Bownerid=13510798902168767-17).*
 
 **Figure 3. Published 1890 Census Table (Table 9)**
-![Published 1890 Census table, table 9](/static/img/community/Figure3-1890-table9.png)
+![Published 1890 Census table, table 9](img/community/Figure3-1890-table9.png)
 
 *Source: U.S. Department of the Interior, Census Office, Report of the Population of the United States at the Eleventh Census: 1890, Part I (Washington, 
 D.C.: GPO, 1895), 396, [https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=726%3Bownerid=113471246-730](https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=726%3Bownerid=113471246-730).*
