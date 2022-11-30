@@ -57,19 +57,19 @@ Inhabitants of the United States,” Passed March the First, One Thousand Seven 
 [https://hdl.handle.net/2027/inu.30000120169259?urlappend=%3Bseq=11%3Bownerid=13510798902168767-17](https://hdl.handle.net/2027/inu.30000120169259?urlappend=%3Bseq=11%3Bownerid=13510798902168767-17).*
 
 **Figure 3. Published 1890 Census Table (Table 9)**
-![Published 1890 Census table, table 9](img/community/Figure3-1890-table9.png)
+{{< figure src="/img/community/Figure3-1890-table9.png" alt="Published 1890 Census table, table 9" title="" width="500" >}}
 
 *Source: U.S. Department of the Interior, Census Office, Report of the Population of the United States at the Eleventh Census: 1890, Part I (Washington, 
 D.C.: GPO, 1895), 396, [https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=726%3Bownerid=113471246-730](https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=726%3Bownerid=113471246-730).*
 
 **Figure 4. Published 1890 Census Table (Table 10)**
-![Published 1890 Census table, table 10](/static/img/community/Figure4-1890-table10.png)
+{{< figure src="/img/community/Figure4-1890-table10.png" alt="Published 1890 Census table, table 10" title="" width="500" >}}
 
 *Source: U.S. Department of the Interior, Census Office, Report of the Population of the United States at the Eleventh Census: 1890, Part I (Washington, 
 D.C.: GPO, 1895), 397, [https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=727%3Bownerid=113471246-731](https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=727%3Bownerid=113471246-731).*
 
 **Figure 5. 2019 American Community Survey Table**
-![2019 American Community Survey Table](/static/img/community/Figure5-ACS2019-table.png)
+{{< figure src="/img/community/Figure5-ACS2019-table.png" alt="2019 American Community Survey Table" title="" width="500" >}}
 
 Source: American Community Survey 2019 1-year estimates, B02003, Detailed Race, [https://data.census.gov/cedsci/table?t=Race%20and%20Ethnicity&g=0100000US&y=2019&d=ACS%201-Year%20Estimates%20Detailed%20Tables&tid=ACSDT1Y2019.B02003](https://data.census.gov/cedsci/table?t=Race%20and%20Ethnicity&g=0100000US&y=2019&d=ACS%201-Year%20Estimates%20Detailed%20Tables&tid=ACSDT1Y2019.B02003).
 
