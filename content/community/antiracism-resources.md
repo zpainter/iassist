@@ -31,14 +31,14 @@ This webinar, brought to you by the Anti-Racism Resources Interest Group and the
 The webinar will last 90 minutes and will include plenty of time at the end for a Q&A and comments from the audience.
 
 Presenters:
-Framing of the Issues: Anne Zald - Northwestern University
-Canada: Kevin Manuel - Toronto Metropolitan University
-United States: Barbara Levergood - Bowdoin College
-United Kingdom: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sciences
-Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
-Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
+- Framing of the Issues: Anne Zald - Northwestern University
+- Canada: Kevin Manuel - Toronto Metropolitan University
+- United States: Barbara Levergood - Bowdoin College
+- United Kingdom: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sciences, Nigel de Noronha, Manchester University
+- Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
+- Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
 
-Please register at [https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I](https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I).
+Registration has closed.  A recording will be posted after the event.
 
 Please send suggestions for additions to the resources lists, and speakers (and topics) to the Action Group's co-chairs, Michele Hayslett, michele_hayslett [ at ] unc.edu and Anja Perry, anja.perry [ at ] @gesis.org.
 
