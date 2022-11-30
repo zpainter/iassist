@@ -19,8 +19,10 @@ The census of 1790 was designed to enable those (and other) constitutional provi
 first Census in 1790, James Madison successfully argued for further expanding the census questions to include “two age groups of white males, and freedom or 
 servitude of the colored population.”[^5] (See Fig. 1.) Thus was “launch[ed] the collection of racial data by the federal government that continues today.”[^6]
 
+
+
 **Figure 1. Form of the 1790 Census schedule**
-![Enumeration form from the 1790 Census Schedule](/static/img/community/Figure1-1790-qur.png)
+[![](/img/community/Figure1-1790-qur.png "Enumeration form from the 1790 Census Schedule")]
 
 *Source: An Act Providing for the Enumeration of the Inhabitants of the United States, Public Law 1-2, Chapter 2, The Public Statutes at Large of the United 
 States of America I (1790): 102, [https://www.loc.gov/collections/united-states-statutes-at-large/about-this-collection/](https://www.loc.gov/collections/united-states-statutes-at-large/about-this-collection/).*
