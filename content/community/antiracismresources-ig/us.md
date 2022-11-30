@@ -22,7 +22,7 @@ servitude of the colored population.”[^5] (See Fig. 1.) Thus was “launch[ed]
 
 
 **Figure 1. Form of the 1790 Census schedule**
-[!](/img/community/Figure1-1790-qur.png "Enumeration form from the 1790 Census Schedule")
+{{< figure src="/img/community/Figure1-1790-qur.png" alt="Enumeration form from the 1790 Census Schedule" title="" width="500" >}}
 
 *Source: An Act Providing for the Enumeration of the Inhabitants of the United States, Public Law 1-2, Chapter 2, The Public Statutes at Large of the United 
 States of America I (1790): 102, [https://www.loc.gov/collections/united-states-statutes-at-large/about-this-collection/](https://www.loc.gov/collections/united-states-statutes-at-large/about-this-collection/).*
@@ -50,7 +50,7 @@ and ethnicity for the period 1790-2010 and by comparing the presentations of dat
 Survey of 2019.[^13] (See Figs. 2-4.)
 
 **Figure 2. Published 1790 Census Table**
-[!](img/community/Figure2-1790-data-table.jpg "Published 1790 Census table")
+{{< figure src="/img/community/Figure2-1790-data-table.jpg" alt="ublished 1790 Census table" title="" width="500" >}}
 
 *Source: Return of the Whole Number of Persons Within the Several Districts of the United States, According to “An Act Providing for the Enumeration of the 
 Inhabitants of the United States,” Passed March the First, One Thousand Seven Hundred and Ninety (Philadelphia: Childs and Swaine, 1791), 3, 
