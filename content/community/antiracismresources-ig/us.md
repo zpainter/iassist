@@ -20,7 +20,7 @@ first Census in 1790, James Madison successfully argued for further expanding th
 servitude of the colored population.”[^5] (See Fig. 1.) Thus was “launch[ed] the collection of racial data by the federal government that continues today.”[^6]
 
 **Figure 1. Form of the 1790 Census schedule**
-![Enumeration form from the 1790 Census Schedule](PATH/Figure1-1790-qur.png)
+![Enumeration form from the 1790 Census Schedule](/static/img/community/Figure1-1790-qur.png)
 
 *Source: An Act Providing for the Enumeration of the Inhabitants of the United States, Public Law 1-2, Chapter 2, The Public Statutes at Large of the United 
 States of America I (1790): 102, [https://www.loc.gov/collections/united-states-statutes-at-large/about-this-collection/](https://www.loc.gov/collections/united-states-statutes-at-large/about-this-collection/).*
@@ -48,26 +48,26 @@ and ethnicity for the period 1790-2010 and by comparing the presentations of dat
 Survey of 2019.[^13] (See Figs. 2-4.)
 
 **Figure 2. Published 1790 Census Table**
-![Published 1790 Census table](PATH/Figure2-1790-data-table.jpg)
+![Published 1790 Census table](/static/img/community/Figure2-1790-data-table.jpg)
 
 *Source: Return of the Whole Number of Persons Within the Several Districts of the United States, According to “An Act Providing for the Enumeration of the 
 Inhabitants of the United States,” Passed March the First, One Thousand Seven Hundred and Ninety (Philadelphia: Childs and Swaine, 1791), 3, 
 [https://hdl.handle.net/2027/inu.30000120169259?urlappend=%3Bseq=11%3Bownerid=13510798902168767-17](https://hdl.handle.net/2027/inu.30000120169259?urlappend=%3Bseq=11%3Bownerid=13510798902168767-17).*
 
 **Figure 3. Published 1890 Census Table (Table 9)**
-![Published 1890 Census table, table 9](PATH/Figure3-1890-table9.png)
+![Published 1890 Census table, table 9](/static/img/community/Figure3-1890-table9.png)
 
 *Source: U.S. Department of the Interior, Census Office, Report of the Population of the United States at the Eleventh Census: 1890, Part I (Washington, 
 D.C.: GPO, 1895), 396, [https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=726%3Bownerid=113471246-730](https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=726%3Bownerid=113471246-730).*
 
 **Figure 4. Published 1890 Census Table (Table 10)**
-![Published 1890 Census table, table 10](PATH/Figure4-1890-table10.png)
+![Published 1890 Census table, table 10](/static/img/community/Figure4-1890-table10.png)
 
 *Source: U.S. Department of the Interior, Census Office, Report of the Population of the United States at the Eleventh Census: 1890, Part I (Washington, 
 D.C.: GPO, 1895), 397, [https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=727%3Bownerid=113471246-731](https://hdl.handle.net/2027/uc1.31210021595291?urlappend=%3Bseq=727%3Bownerid=113471246-731).*
 
 **Figure 5. 2019 American Community Survey Table**
-![2019 American Community Survey Table](PATH/Figure5-ACS2019-table.png)
+![2019 American Community Survey Table](/static/img/community/Figure5-ACS2019-table.png)
 
 Source: American Community Survey 2019 1-year estimates, B02003, Detailed Race, [https://data.census.gov/cedsci/table?t=Race%20and%20Ethnicity&g=0100000US&y=2019&d=ACS%201-Year%20Estimates%20Detailed%20Tables&tid=ACSDT1Y2019.B02003](https://data.census.gov/cedsci/table?t=Race%20and%20Ethnicity&g=0100000US&y=2019&d=ACS%201-Year%20Estimates%20Detailed%20Tables&tid=ACSDT1Y2019.B02003).
 
