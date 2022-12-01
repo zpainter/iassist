@@ -14,8 +14,6 @@ The conference hotel and location of most meetings will be the [Philadelphia Mar
 
 Details on booking at the conference rate will be released when registration is available.
 
-## Other Hotels and Accomodations
 
-Further information on alternative hotels and accomodation options will be posted here when it is available.
 
 
