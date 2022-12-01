@@ -17,7 +17,7 @@ type = "conferences-test"
 **Anja Perry**, GESIS - Leibniz Institute for the Social Sciences, Germany
 : Anja lives in Cologne, Germany, and works for the GESIS Data Services for the Social Sciences. There, she is responsible for data acquisition and research data management training. She is also active in the German National Research Data Infrastructure (NFDI) to train future research data managers and professionalize research data management. Her research interests are data sharing, data protection, and data feminism. She has a PhD in Economics.
 
-Questions about presentation submissions or the scientific program in general may be sent to the Program Chairs at *programme ( at ) lists.iassistdata.org.*
+**Questions** about presentation submissions or the scientific program in general may be sent to the Program Chairs at *programme ( at ) lists.iassistdata.org.*
 
 ### Local Arrangements Committee
 
