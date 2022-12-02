@@ -1,6 +1,7 @@
 /* your styles go here */
 body {
-/*color: #2B2B2B;*/ this would provide enough contrast for the text links.
+/*color: #2B2B2B; this would provide enough contrast for the text links.*/
+/*font-size: 14px; can't do this without fixing header separately */
 }
 
 .navbar-brand {
@@ -77,7 +78,12 @@ dl dt:first-of-type {
 	padding-top: 0em;	
 }
 
-/* Simple to change top banner background:
+#content .container {
+	/*color: red;*/
+	font-size: 16px;
+	}
+
+/* Simple to change top banner background: copy a new file to banners folder and activate this rule.
 #heading-breadcrumbs {
     background: url('/img/banners/binary-pink.png') center center repeat;
 }
