@@ -12,7 +12,7 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 ### Webinar registrations
 
 No registrations open at the moment.
-
+<!--
 
 #### A Conversation About Data on Race & Ethnicity Around the World
 
@@ -40,27 +40,42 @@ The webinar will last 90 minutes and will include plenty of time at the end for 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I " title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 After registering, you will receive a confirmation email containing information about joining the webinar.  
-
+-->
 
 ### Most recent webinar recordings
 
+<!--
+#### A Conversation About Data on Race & Ethnicity Around the World
+
+Anne Zald, Kevin Manuel, Barbara Levergood, Deborah Wiltshire, Anja Perry, Bobray Bordelon
+
+{{< youtube 7S8Y9dA1rPY >}}
+
+<br />
+-->
+
 #### De-identifying Qualitative Data
+
+Arja Kuula-Luumi, Kati Mozygemba, Tom Nicolai, James DuBois, Jessica Mozersky <br />(slides linked from the YouTube page)
 
 {{< youtube MbKw3LR2rVo >}}
 
 <br />
 
-#### Understanding the 2020 US Census
+#### Understanding the 2020 US Census 
+
+William P. O'Hare ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://docs.google.com/presentation/d/16kDTq8I1HjxplgrT4zM-8JvcQuJST3EZ/edit#slide=id.p1))
 
 {{< youtube OR1I4h1Rx3M >}}
 
 <br />
 
-- [Data as Relation: Indigenous Data Sovereignty and Ethics of Care](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son) ([Webinar slides on Google Docs](https://t.co/b5wQXGVz9J))
-- [Accessing linked health data in a COVID world: What’s the state of play?](https://www.youtube.com/watch?v=WE-kmduHahc) (Richard Welpton, Deborah Wiltshire, Yannis Kotrotsios, Sarah Young, Eimmy Solis)
-- [IASSIST Prof Dev presents Primerpalooza](https://www.youtube.com/watch?v=nw_Tk62-6mc) (Hannah Hadley, Elizabeth Blackwood, Amy Koshoffer, Margarita Corral, Peace Ossom-Williamson, Adam Kriesburg)
-- [Free Qualitative Data Analysis with Taguette and qcoder! an IASSIST webinar](https://www.youtube.com/watch?v=OIB_xLlM8Fw) (Beth Duckles, Vicky Steeves)
-- [Dueling CAQDAS Using Atlas ti and NVivo for Qualitative Data Analysis](https://www.youtube.com/watch?v=qCAB73zAjwk) (Florio Arguillas, Mandy Swygart-Hobaugh)
-- [Data Visualization Beyond Tools Principles and Approaches](https://www.youtube.com/watch?v=PgHNHdz8F-Y) (Justin Joque)
+- [Understanding the 2020 US Census <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=OR1I4h1Rx3M) (William P. O'Hare) ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://docs.google.com/presentation/d/16kDTq8I1HjxplgrT4zM-8JvcQuJST3EZ/edit#slide=id.p1))
+- [Data as Relation: Indigenous Data Sovereignty and Ethics of Care <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son) ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://t.co/b5wQXGVz9J))
+- [Accessing linked health data in a COVID world: What’s the state of play? <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=WE-kmduHahc) (Richard Welpton, Deborah Wiltshire, Yannis Kotrotsios, Sarah Young, Eimmy Solis)
+- [IASSIST Prof Dev presents Primerpalooza <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=nw_Tk62-6mc) (Hannah Hadley, Elizabeth Blackwood, Amy Koshoffer, Margarita Corral, Peace Ossom-Williamson, Adam Kriesburg)
+- [Free Qualitative Data Analysis with Taguette and qcoder! an IASSIST webinar <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=OIB_xLlM8Fw) (Beth Duckles, Vicky Steeves)
+- [Dueling CAQDAS Using Atlas ti and NVivo for Qualitative Data Analysis <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=qCAB73zAjwk) (Florio Arguillas, Mandy Swygart-Hobaugh)
+- [Data Visualization Beyond Tools Principles and Approaches <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=PgHNHdz8F-Y) (Justin Joque)
 
 Open [IASSIST YouTube Channel <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g) for more webinar and conference recordings. <br /><br />
