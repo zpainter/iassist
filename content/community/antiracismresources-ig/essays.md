@@ -3,7 +3,14 @@ title: "Essays on How Different Countries View Race"
 date: 2022-11-03
 draft: false
 ---
-## Essays on How Different Countries View Race
+
+## How Different Countries View Race
+
+[Essays for Specific Countries](/community/antiracismresources-ig/essays#Essays-for-Specific-Countries)
+
+[November 2022 Webinar](//community/antiracismresources-ig/essays#November-2022-Webinar)
+
+### Essays for Specific Countries
 
 IASSIST members have contributed essays or resources explaining how their respective nations have viewed or counted racial groups over time.  
 Please note that the authors do not claim expertise as researchers in this area.  Rather they are data professionals who help researchers and 
@@ -34,9 +41,11 @@ religious, and cultural groups is specific to the time period when the data were
 
 **[Recording](https://www.youtube.com/watch?v=7S8Y9dA1rPY&t=48s)** \(1:30:16 hours)
 
-\(coming soon) Slides \(PowerPoint format)
+> *Suggested Citation*:  Bordelon, Bobray J., Cooper, Alexandra, de Noronha, Nigel, Levergood, Barbara, Manuel, Kevin, Perry, Anja, Wiltshire, Deborah, & Zald, Anne E. \(2022, November 30). A Conversation About Data on Race & Ethnicity Around the World. IASSIST.  https://www.youtube.com/watch?v=7S8Y9dA1rPY&t=48s
 
-\(coming soon) Webinar chat transcript \(rich text format)
+**[Slides \(PowerPoint format) and Webinar chat transcript \(rich text format) *on Zenodo*](https://doi.org/10.5281/zenodo.7400733)**
+
+> *Suggested Citation*:  Bordelon, Bobray J., Cooper, Alexandra, de Noronha, Nigel, Levergood, Barbara, Manuel, Kevin, Perry, Anja, Wiltshire, Deborah, & Zald, Anne E. \(2022, December 5). A Conversation About Data on Race & Ethnicity Around the World. Zenodo. https://doi.org/10.5281/zenodo.7400733
 
 The Black Lives Matter and Indigenous rights movements, as well as international migration in recent years have raised awareness of issues around inequalities because of race and ethnicity. In turn, this has prompted many organizations and groups such as IASSIST to reexamine their own understanding and knowledge, processes and practices. In response, the IASSIST Anti-Racism Interest Group was formed and brought together data stewards and librarians who had some or no prior expertise but who were interested in having a conversation about race and ethnicity in terms of data available for research and exploring how they could support the vital work in this field.
 
