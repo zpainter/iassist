@@ -8,7 +8,7 @@ draft: false
 
 [Essays for Specific Countries](/community/antiracismresources-ig/essays#Essays-for-Specific-Countries)
 
-[November 2022 Webinar](//community/antiracismresources-ig/essays#November-2022-Webinar)
+[November 2022 Webinar](/community/antiracismresources-ig/essays#November-2022-Webinar)
 
 ### Essays for Specific Countries
 
