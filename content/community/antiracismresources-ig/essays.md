@@ -6,11 +6,11 @@ draft: false
 
 ## How Different Countries View Race
 
-[Essays for Specific Countries](/community/antiracismresources-ig/essays#Essays-for-Specific-Countries)
+[Essays for Specific Countries](/community/antiracismresources-ig/essays#essays)
 
-[November 2022 Webinar](/community/antiracismresources-ig/essays#November-2022-Webinar)
+[November 2022 Webinar](/community/antiracismresources-ig/essays#webinar)
 
-### Essays for Specific Countries
+### <a name="essays">Essays for Specific Countries</a>
 
 IASSIST members have contributed essays or resources explaining how their respective nations have viewed or counted racial groups over time.  
 Please note that the authors do not claim expertise as researchers in this area.  Rather they are data professionals who help researchers and 
@@ -34,7 +34,7 @@ religious, and cultural groups is specific to the time period when the data were
 
 [United States](/community/antiracismresources-ig/us)
 
-### November 2022 Webinar
+### <a name="webinar">November 2022 Webinar</a>
 
 **A Conversation About Data on Race & Ethnicity Around the World**
 30 November 2022 11:00 AM-12:30 PM Eastern Time (US and Canada)
