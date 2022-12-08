@@ -6,5 +6,5 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-### Details on registration will be available in Spring 2023.
+### Registration will open in February 2023.
 
