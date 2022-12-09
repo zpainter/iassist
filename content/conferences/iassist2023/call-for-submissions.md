@@ -8,7 +8,7 @@ type = "conferences-test"
 
 ## Call for Submissions
 
-### **Submission DEADLINE: 14 December 2022**
+### **Submission DEADLINE: 22 December 2022**
 
 We welcome submissions for presentations, panels, papers, posters, workshops, and lightning talks. 
 
