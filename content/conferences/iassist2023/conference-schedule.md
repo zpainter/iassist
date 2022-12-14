@@ -8,10 +8,8 @@ type = "conferences-test"
 
 ### Conference schedule at a glance
 
-## Detailed schedule
-
 Presentations are held during the Concurrent Sessions, with four presentations in each session.
-Events in *Italics* are in-person only.  Other events will be hybrid, in-person and online.
+Events in *Italics* are in-person only.  Other events will be hybrid of in-person and online.
 
 Time|Tuesday|Wednesday|Thursday|Friday|
 ---|---|---|---|---|
