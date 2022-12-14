@@ -16,7 +16,7 @@ The theme of this year’s conference is
 
 #### Diversity in Research: Social Justice from Data
 
-Submissions from data professionals related to *data archiving, data management, data librarianship/stewardship, data literacy, and similar areas* on the following topics will be prioritized: 
+Submissions on all data topics from data professionals related to *data archiving, data management, data librarianship/stewardship, data literacy, and similar areas* are welcome and the following topics are encouraged: 
 
 - Ableism
 - Ageism
