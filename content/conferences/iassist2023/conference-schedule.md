@@ -37,7 +37,7 @@ Time|Tuesday|Wednesday|Thursday|Friday|
 15:30-17:00| workshops continue|Concurrent Sessions B|Concurrent Sessions D|
    |   |   |   |   |
    |   |   |   |   |
-17:00-18:00| |*Poster Session|
+17:00-18:00| |*Poster Session*|
    |   |   |   |   |
    |   |   |   |   |
 18:00-21:00|*Reception*|Dinner on your own|*Banquet*|
