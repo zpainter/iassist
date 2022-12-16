@@ -23,13 +23,13 @@ Registration has ended.
 
 
 Thank you for attending. 
-: Presentations are available on Zenodo
+: Presentations are available as follows:
 
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo)</a>
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo) <i class="fas fa-external-link-alt"></i></a>
 
+<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iSmUFsNkyevdZSSqF2AKjSA" target="_blank">2022 Conference recordings (YouTube) <i class="fas fa-external-link-alt"></i></a>
 
-
-<a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website</a>
+<a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website <i class="fas fa-external-link-alt"></i></a>
 
 <br />
 

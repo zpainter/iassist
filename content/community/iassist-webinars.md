@@ -44,15 +44,14 @@ After registering, you will receive a confirmation email containing information 
 
 ### Most recent webinar recordings
 
-<!--
+
 #### A Conversation About Data on Race & Ethnicity Around the World
 
-Anne Zald, Kevin Manuel, Barbara Levergood, Deborah Wiltshire, Anja Perry, Bobray Bordelon
+Bobray Bordelon, Barbara Levergood, Kevin Manuel, Nigel de Noronha, Anja Perry, Anne Zald. Moderators Alexandra Cooper, Deborah Wiltshire <br /> [Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7400733)
 
 {{< youtube 7S8Y9dA1rPY >}}
 
 <br />
--->
 
 #### De-identifying Qualitative Data
 
@@ -62,13 +61,7 @@ Arja Kuula-Luumi, Kati Mozygemba, Tom Nicolai, James DuBois, Jessica Mozersky <b
 
 <br />
 
-#### Understanding the 2020 US Census 
-
-William P. O'Hare ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://docs.google.com/presentation/d/16kDTq8I1HjxplgrT4zM-8JvcQuJST3EZ/edit#slide=id.p1))
-
-{{< youtube OR1I4h1Rx3M >}}
-
-<br />
+### Older webinar recordings
 
 - [Understanding the 2020 US Census <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=OR1I4h1Rx3M) (William P. O'Hare) ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://docs.google.com/presentation/d/16kDTq8I1HjxplgrT4zM-8JvcQuJST3EZ/edit#slide=id.p1))
 - [Data as Relation: Indigenous Data Sovereignty and Ethics of Care <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son) ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://t.co/b5wQXGVz9J))

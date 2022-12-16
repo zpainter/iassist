@@ -2,15 +2,17 @@
 title = "Conferences"
 draft = "false"
 +++
-## Annual IASSIST Conference
+## IASSIST Annual Conference and Regional Events
 
 Each May/June the annual conference provides data professionals a variety of opportunities to participate in discussions about data sharing and management, data access and repository tools, metadata for research data, best practices for preserving data, global resources for information, new technologies professional development and much more. 
 
 The conference consists of workshops focused on the profession, stimulating plenaries, panel discussions, individual presentations, and posters. Networking opportunities with peers from around the world take place in breakout groups, interest group or birds of a feather sessions, and perhaps most importantly, during the breaks. 
 
-The annual conference is always an international event. Conference locations reflect our membership base and typically rotate to a different region each year.
+The annual conference is always an international event. Conference locations reflect our membership base and typically rotate to a different region each year. Virtual participation options may change from year to year.
 
 **Please familiarize yourself with the [Code of Conduct](/community/code-of-conduct) pertaining to all IASSIST events.**
+
+<br id="annual" />
 
 <div style="background-color:#fdebd0;font-weight:bold;padding:.5em;font-size:140%;">Forthcoming and Recent Conferences</div>
 
@@ -18,7 +20,9 @@ The annual conference is always an international event. Conference locations ref
 
 ### 2023 IASSIST Events
 
-Philadelphia, PA, USA, May 29 - June 2, 2023
+#### Annual Conference
+
+Philadelphia, PA, USA, May 30 - June 2, 2023
 
 <a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023</a> 
 
@@ -32,15 +36,15 @@ None
 
 #### Completed
 
-Conference was arranged in Ibadan, Nigeria, October 4-7, 2022.
+2nd IASSIST Africa Regional Workshop was arranged in Ibadan, Nigeria, October 4-7, 2022.
 
 <a class="btn btn-template-main" href="./iassist-africa-2022/">Africa Workshop</a> 
 
-Conference was arranged as a hybrid event 7-10 June 2022 in Gothenburg, Sweden. 
+IASSIST 2022 Conference was arranged as a hybrid event in Gothenburg, Sweden, June 7-10, 2022.
 
 <a class="btn btn-template-main" href="./iassist-sweden-2022/">IASSIST 2022, Sweden</a>
 
-**Presentations are available on Zenodo**
+**IASSIST 2022 presentations are available on Zenodo and recordings on YouTube**
 
 ### 2021 IASSIST Events
 

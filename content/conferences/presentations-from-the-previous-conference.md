@@ -17,12 +17,11 @@ In some cases, the entire conference programme with presentations may be availab
 #### Gothenburg, Sweden, 7-10 June 2022
 **Host institution:** Swedish National Data Service (SND)
 
-<a class="btn btn-template-main" href="https://iassist2022.org/conference/program/" target="_blank">Conference website</a>
+<a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website <i class="fas fa-external-link-alt"></i></a>
 
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo)</a>
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2022/search?page=1&size=20&sort=conference_session" target="_blank">2022 Conference presentations (Zenodo) <i class="fas fa-external-link-alt"></i></a>
 
-<a class="btn btn-template-main" href="https://www.youtube.com/results?search_query=iassist+2022" target="_blank">2022 Conference presentations (YouTube)</a>
-
+<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iSmUFsNkyevdZSSqF2AKjSA" target="_blank">2022 Conference recordings (YouTube) <i class="fas fa-external-link-alt"></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
