@@ -84,8 +84,7 @@ The central purpose of the IASSIST Qualitative Social Science and Humanities Dat
 
 - **2022-2023 Co-Chairs:** *Sebastian Karcher, skarcher [ at ] maxwell.syr.edu* and *Alesia Montgomery, alesiam [ at ] stanford.edu*
 
-#### Anti-Racism Resources Interest Group {#anti-racism-resources-interest-group}
-<!--#### [Anti-Racism Resources Action Group](/community/anti-racism-resources-action-group) {#anti-racism-resources-action-group}-->
+#### [Anti-Racism Resources Action Group](/community/antiracism-resources) {#anti-racism-resources-action-group}
 The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
 
 - **2022-2023 Chair:** *Michele Hayslett, michele_hayslett [ at ] unc.edu* and *Anja Perry*
