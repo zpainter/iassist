@@ -11,35 +11,24 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-No registrations open at the moment.
+#### IASSIST Webinar: An Overview of the National Institutes of Health (NIH) Data Management and Sharing Policy
+
+January 11, 2023 11:00 AM-12:00 PM Eastern Time (US and Canada)
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZYucuGsqj8qG9IpobcVo7oGWUH6ZU_7Cyz_" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
+
+Join us for a presentation and Q&A session with *Lisa Federer*, Acting Director of the National Library of Medicine’s Office of Strategic Initiatives.
+
+Beginning January 25, 2023, the National Institutes of Health (NIH)’s new Data Management and Sharing Policy will require all researchers seeking NIH funding to describe how they will manage and share their data. This talk will provide an overview of the policy, including DMS policy expectations, the applicability of the policy, how to prepare a Data Management and Sharing Plan, and considerations for sharing data responsibly. The talk will also touch on roles for librarians in helping researchers to not only comply with the policy, but also to make research more reproducible, transparent, and reusable.
+
+More about our speaker:
+
+Lisa Federer is the Acting Director of the National Library of Medicine’s Office of Strategic Initiatives, serving as principal advisor to the NLM Director on strategic directions of NLM, including open science, analysis, evaluation, and reporting on NLM programs and activities. Prior to accepting this position, Lisa served as NLM’s Data Science and Open Science Librarian, and previously served as the Research Data Informationist at the National Institutes of Health Library, where she developed and ran the Library’s Data Services Program. She holds a PhD in information studies from the University of Maryland and an MLIS from the University of California-Los Angeles, as well as graduate certificates in data science and data visualization.
+
+This webinar is brought to you by the IASSIST Professional Development Committee. It will last one hour and will include time at the end for a Q&A and comments from the audience.
+
 <!--
-
-#### A Conversation About Data on Race & Ethnicity Around the World
-
-This webinar is organized by the IASSIST Anti-Racism Resources Interest Group and IASSIST Professional Development Committee on **November 30, 2022 at 11am-12:30pm EST**. 
-
-Speakers:
-: Framing of the Issues: Anne Zald - Northwestern University
-: Canada: Kevin Manuel - Toronto Metropolitan University
-: United States: Barbara Levergood - Bowdoin College
-: United Kingdom: Deborah Wiltshire - GESIS - Leibniz Institute for the Social Sciences
-: Germany: Anja Perry - GESIS - Leibniz Institute for the Social Sciences
-: Overview of Sources and IPUMS: Bobray Bordelon - Princeton University
-
-> The Black Lives Matter and Indigenous rights movements, as well as international migration in recent years have raised awareness of issues around inequalities because of race and ethnicity. In turn, this has prompted many organizations and groups such as IASSIST to reexamine their own understanding and knowledge, processes and practices. In response, the IASSIST Anti-Racism Interest Group was formed and brought together data stewards and librarians who had some or no prior expertise but who were interested in having a conversation about race and ethnicity in terms of data available for research and exploring how they could support the vital work in this field.
-
-> This webinar marks the beginning of that conversation with a focus on the data that is available for research. Bringing together a panel of data stewards and librarians from 4 countries - Canada, the US, the UK and Germany - and this webinar aims to discuss and review these key questions:
-
-> - How are race and ethnicity recorded in the national Censuses and other key data sources?
-> - Have these definitions changed over time?
-> - What groups are identified, how much detail is available?
-> - What are some of the key issues with these data?
-
-The webinar will last 90 minutes and will include plenty of time at the end for a Q&A and comments from the audience.
-
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZMpcOiupjoiHdxZQwBD4SEY9kI3vSLLFz1I " title="" >Registration <i class="fas fa-external-link-alt"></i></a>
-
-After registering, you will receive a confirmation email containing information about joining the webinar.  
+No registrations open at the moment.
 -->
 
 ### Most recent webinar recordings
