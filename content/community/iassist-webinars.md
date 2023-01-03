@@ -17,7 +17,7 @@ January 11, 2023 11:00 AM-12:00 PM Eastern Time (US and Canada)
 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZYucuGsqj8qG9IpobcVo7oGWUH6ZU_7Cyz_" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
-Join us for a presentation and Q&A session with *Lisa Federer*, Acting Director of the National Library of Medicine’s Office of Strategic Initiatives.
+Join us for a presentation and Q&A session with **Lisa Federer**, Acting Director of the National Library of Medicine’s Office of Strategic Initiatives.
 
 Beginning January 25, 2023, the National Institutes of Health (NIH)’s new Data Management and Sharing Policy will require all researchers seeking NIH funding to describe how they will manage and share their data. This talk will provide an overview of the policy, including DMS policy expectations, the applicability of the policy, how to prepare a Data Management and Sharing Plan, and considerations for sharing data responsibly. The talk will also touch on roles for librarians in helping researchers to not only comply with the policy, but also to make research more reproducible, transparent, and reusable.
 
