@@ -23,7 +23,7 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 - Check the [current year's conference website](/conferences) for information about the conference and applying, including deadlines.
 
-- See [Fellows application form <i class="fas fa-external-link-alt"></i>](https://forms.gle/Up684P867QNjH98P7).
+- See [Fellows application form <i class="fas fa-external-link-alt"></i>](https://forms.gle/PRNz3p91Yao6sBjq5).
 
 For more information, to apply for funding, or nominate a person for a
 fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
