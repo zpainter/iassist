@@ -76,7 +76,7 @@ The central purpose of the IASSIST-Geo interest group is to create a network for
 
 - **2022-2023 Co-Chairs:** *Jennie Murack, murack [ at ] mit.edu and Amanda Tickner, atickner [ at ] msu.edu*
 
-#### [Qualitative Social Science and Humanities Data Interest Group](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#program-committee} 
+#### [Qualitative Social Science and Humanities Data Interest Group](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
 The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include 	 
 1. developing a connected and informed group, 
 2. providing opportunities for professional development through training, and 
