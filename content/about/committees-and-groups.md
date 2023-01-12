@@ -52,14 +52,12 @@ Responsible for deciding on an annual conference title as well as general themat
 - **2022-2023 Conference Co-Chairs:** *Jonathan Bohan, Kevin Manuel, Anja Perry*   
 
 
+
 ## Action Groups {#action-groups}
 
 Action Groups undertake specific tasks, find solutions to specific problems, or develop and compile relevant materials for specific projects.
 
-#### Values and Ethics Statement Action Group {#values-and-ethics-statement-action-group}
-This group's mission is to develop and propose an IASSIST ethics statement to reflect and communicate the IASSIST membership's common values.
-
-- **2020-2022 Chair:** *Jonas Recker, jonas-recker [ at ] gesis.edu*
+> Currently there are no active action groups.
 
 Read more: [Former Action Groups](/about/former-action-groups) 
 
