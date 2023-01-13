@@ -36,7 +36,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### An Overview of the National Institutes of Health (NIH) Data Management and Sharing Policy
 
-Lisa Federer <br /> <!--[Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7400733)-->
+Lisa Federer <br /> [Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7535199)
 
 {{< youtube gvc2qcJ7274 >}}
 
