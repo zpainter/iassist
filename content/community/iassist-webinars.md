@@ -11,26 +11,17 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-No registrations open at the moment.
+<!--No registrations open at the moment.-->
 
-<!--
-#### IASSIST Webinar: An Overview of the National Institutes of Health (NIH) Data Management and Sharing Policy
+#### IASSIST Professional Development Webinar - Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics
 
-January 11, 2023 11:00 AM-12:00 PM Eastern Time (US and Canada)
+The National Center for Science and Engineering Statistics tasked the Committee on National Statistics to undertake a consensus panel study to examine the degree of transparency and reproducibility of federal statistics. The principal questions were: what should an agency should do to make available, both internally and externally, archives of the input data sets used to generate sets of official statistics; documentation of the treatments done to the raw data prior to the computation of the final estimates (for treatment of failed edits, nonresponse, etc.); and documentation of what goes into the computation of the final published estimates. Committee members, **Daniel Gillman** (a mathematical statistician for the U.S. Bureau of Labor Statistics (BLS)) and **Margaret Levenstein** (director of the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan) will summarize the findings See how these findings can be applicable to your own data center or institutional repository and how such standards could be applied internationally.
 
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZYucuGsqj8qG9IpobcVo7oGWUH6ZU_7Cyz_" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
+**Time:** Feb 17, 2023 11:00 AM Eastern/10:00 AM Central/9:00 AM Mountain/8 AM Pacific
 
-Join us for a presentation and Q&A session with **Lisa Federer**, Acting Director of the National Library of Medicine’s Office of Strategic Initiatives.
+<a class="btn btn-template-main" href="bit.ly/iassistscience" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
-Beginning January 25, 2023, the National Institutes of Health (NIH)’s new Data Management and Sharing Policy will require all researchers seeking NIH funding to describe how they will manage and share their data. This talk will provide an overview of the policy, including DMS policy expectations, the applicability of the policy, how to prepare a Data Management and Sharing Plan, and considerations for sharing data responsibly. The talk will also touch on roles for librarians in helping researchers to not only comply with the policy, but also to make research more reproducible, transparent, and reusable.
-
-More about our speaker:
-
-Lisa Federer is the Acting Director of the National Library of Medicine’s Office of Strategic Initiatives, serving as principal advisor to the NLM Director on strategic directions of NLM, including open science, analysis, evaluation, and reporting on NLM programs and activities. Prior to accepting this position, Lisa served as NLM’s Data Science and Open Science Librarian, and previously served as the Research Data Informationist at the National Institutes of Health Library, where she developed and ran the Library’s Data Services Program. She holds a PhD in information studies from the University of Maryland and an MLIS from the University of California-Los Angeles, as well as graduate certificates in data science and data visualization.
-
-This webinar is brought to you by the IASSIST Professional Development Committee. It will last one hour and will include time at the end for a Q&A and comments from the audience.
--->
-
+This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
 ### Most recent webinar recordings
 
