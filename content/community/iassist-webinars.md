@@ -15,11 +15,13 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 #### IASSIST Professional Development Webinar - Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics
 
-The National Center for Science and Engineering Statistics tasked the Committee on National Statistics to undertake a consensus panel study to examine the degree of transparency and reproducibility of federal statistics. The principal questions were: what should an agency should do to make available, both internally and externally, archives of the input data sets used to generate sets of official statistics; documentation of the treatments done to the raw data prior to the computation of the final estimates (for treatment of failed edits, nonresponse, etc.); and documentation of what goes into the computation of the final published estimates. Committee members, **Daniel Gillman** (a mathematical statistician for the U.S. Bureau of Labor Statistics (BLS)) and **Margaret Levenstein** (director of the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan) will summarize the findings See how these findings can be applicable to your own data center or institutional repository and how such standards could be applied internationally.
+The National Center for Science and Engineering Statistics tasked the Committee on National Statistics to undertake a consensus panel study to examine the degree of transparency and reproducibility of federal statistics. The principal questions were: what should an agency should do to make available, both internally and externally, archives of the input data sets used to generate sets of official statistics; documentation of the treatments done to the raw data prior to the computation of the final estimates (for treatment of failed edits, nonresponse, etc.); and documentation of what goes into the computation of the final published estimates. 
+
+Committee members, **Daniel Gillman** (a mathematical statistician for the U.S. Bureau of Labor Statistics (BLS)) and **Margaret Levenstein** (director of the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan) will summarize the findings. See how these findings can be applicable to your own data center or institutional repository and how such standards could be applied internationally.
 
 **Time:** Feb 17, 2023 11:00 AM Eastern/10:00 AM Central/9:00 AM Mountain/8 AM Pacific
 
-<a class="btn btn-template-main" href="bit.ly/iassistscience" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
+<a class="btn btn-template-main" href="https://bit.ly/iassistscience" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
