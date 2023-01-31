@@ -6,7 +6,7 @@ date = "2023-01-31 01:00:00 -0700"
 draft = "false"
 banner = "/img/blog/blog-placeholder.png"
 +++
-The Data Literacy Mini-Conference, generously sponsored by the Michigan Academic Library Association Instruction &amp; Information Literacy Interest Group and IASSIST, took place Monday, October 24 at Michigan State University Libraries in East Lansing, Michigan. Forty attendees from a variety of small and large libraries enjoyed a keynote address about a hip-hop epistemology of knowledge in LIS. 
+**The Data Literacy Mini-Conference**, generously sponsored by the Michigan Academic Library Association Instruction &amp; Information Literacy Interest Group and IASSIST, took place Monday, October 24 at Michigan State University Libraries in East Lansing, Michigan. Forty attendees from a variety of small and large libraries enjoyed a keynote address about a hip-hop epistemology of knowledge in LIS. 
 
 Next, attendees participated in a speed networking experience that randomly shuffled table groups until participants met just about everyone in the room. This allowed participants to share their experiences with data literacy topics, reflecting the diverse experiences from the twenty separate institutions in attendance. Attendees next heard from invited speakers on topics ranging from centering the Writing Center's perspective on student research, ethical use of biodiversity data, and secondary data literacy. Over lunch, guests had the opportunity to visit a Special Collections exhibit featuring data ephemera, including an historical lift-the-flap medical textbook, cookbooks reflecting changes in data communication for cooking over time, and data visualizations from W.E.B. DuBois. 
 
