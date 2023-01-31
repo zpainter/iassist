@@ -4,7 +4,7 @@ title = "Data Literacy Mini-Conference"
 tags = [ "News and Announcements", "data literacy", "event sponsorship",]
 date = "2023-01-31 01:00:00 -0700"
 draft = "false"
-banner = "/img/blog/iq-3.png"
+banner = "/img/blog/blog-placeholder.png"
 +++
 The Data Literacy Mini-Conference, generously sponsored by the Michigan Academic Library Association Instruction &amp; Information Literacy Interest Group and IASSIST, took place Monday, October 24 at Michigan State University Libraries in East Lansing, Michigan. Forty attendees from a variety of small and large libraries enjoyed a keynote address about a hip-hop epistemology of knowledge in LIS. 
 
