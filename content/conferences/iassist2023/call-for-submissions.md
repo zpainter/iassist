@@ -8,15 +8,15 @@ type = "conferences-test"
 
 ## Call for Submissions
 
-### **Submission DEADLINE: 22 December 2022**
+### **Submissions have closed**
 
-We welcome submissions for presentations, panels, papers, posters, workshops, and lightning talks. 
+**Notifications for submitted presentations, panels, papers, posters, workshops, and lightning talks will be coming soon.**
 
 The theme of this year’s conference is 
 
-#### Diversity in Research: Social Justice from Data
+### **Diversity in Research: Social Justice from Data**
 
-Submissions on all data topics from data professionals related to *data archiving, data management, data librarianship/stewardship, data literacy, and similar areas* are welcome and the following topics are encouraged: 
+All data topics from data professionals related to *data archiving, data management, data librarianship/stewardship, data literacy, and similar areas* are welcome and the following topics are encouraged: 
 
 - Ableism
 - Ageism
