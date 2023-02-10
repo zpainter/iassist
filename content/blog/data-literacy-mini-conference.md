@@ -1,5 +1,5 @@
 +++
-author = "Leah Morin, Terence O'Neill"
+author = "Leah Morin, Molly Lederman, Terence O'Neill"
 title = "Data Literacy Mini-Conference"
 tags = [ "News and Announcements", "data literacy", "event sponsorship",]
 date = "2023-01-31 01:00:00 -0700"
