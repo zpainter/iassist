@@ -11,8 +11,11 @@ type = "conferences-test"
 The conference hotel and location of most meetings will be the [Philadelphia Marriott Old City <i class="fas fa-external-link-alt"></i>](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/).
 
 Philadelphia Marriott Old City
+
 One Dock Street 
+
 Philadelphia, Pennsylvania 19106
+
 <!--+1 215-238-6000-->
 
 **Booking**:
