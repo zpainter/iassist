@@ -22,11 +22,15 @@ type = "conferences-test"
 
 **Call for Papers and Workshops**
 
-The theme of the conference is *Diversity in Research: Social Justice from Data*.  The [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) describes the theme in further detail. **Submissions have closed.  Notifications of acceptance will be coming soon.**
+The theme of the conference is *Diversity in Research: Social Justice from Data*.  The [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) describes the theme in further detail. **Submissions have closed and notifications of acceptance have been sent out**. 
+
+**Program**
+
+The full program will be available in March.  The workshop schedule will be posted when registration opens.
 
 **Registration**
 
-Registration will open soon (likely late February).
+Registration will open at the end of February.  Information on registation rates is available on the **[registration page](/conferences/iassist2023/registration/)**. Information on the Conference Hotel and rate is available on the **[hotel page](/conferences/iassist2023/conference-hotel-and-accomodation)**.
 
 Come and join us for the **Best. IASSIST. Ever.**
 
