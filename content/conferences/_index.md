@@ -24,17 +24,19 @@ The annual conference is always an international event. Conference locations ref
 
 Philadelphia, PA, USA, May 30 - June 2, 2023
 
-<a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023</a> 
+<a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023 Conference website</a> 
 
 </div>
 
 ### 2022 IASSIST Events
 
+<!--
 #### Forthcoming
 
 None
 
 #### Completed
+-->
 
 2nd IASSIST Africa Regional Workshop was arranged in Ibadan, Nigeria, October 4-7, 2022.
 
