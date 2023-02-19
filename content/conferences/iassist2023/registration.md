@@ -16,7 +16,6 @@ Category|Early Bird|Regular|On-Site|
 ---|---|---|---|
 Member|$395|$425|$455|
 Non-Member|$445|$475|$495|
-<br/>
 
 Early Bird is on or before 5/01.
 
@@ -32,7 +31,6 @@ Category|Rate|
 ---|---|
 Member|$100|
 Non-Member|$200|
-<br/>
 
 One-Day Registration: $139
 
