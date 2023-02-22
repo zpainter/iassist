@@ -11,8 +11,9 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-<!--No registrations open at the moment.-->
+No registrations open at the moment.
 
+<!--
 #### IASSIST Professional Development Webinar - Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics
 
 The National Center for Science and Engineering Statistics tasked the Committee on National Statistics to undertake a consensus panel study to examine the degree of transparency and reproducibility of federal statistics. The principal questions were: what should an agency should do to make available, both internally and externally, archives of the input data sets used to generate sets of official statistics; documentation of the treatments done to the raw data prior to the computation of the final estimates (for treatment of failed edits, nonresponse, etc.); and documentation of what goes into the computation of the final published estimates. 
@@ -24,8 +25,17 @@ Committee members, **Daniel Gillman** (a mathematical statistician for the U.S. 
 <a class="btn btn-template-main" href="https://bit.ly/iassistscience" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+-->
 
 ### Most recent webinar recordings
+
+#### IASSIST Professional Development Webinar - Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics
+
+Margaret Levenstein, Daniel Gillman <br /> Webinar slides on Zenodo: [Levenstein <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7651298), [Gillman<i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7651313)
+
+{{< youtube YDEpK-U99JU >}}
+
+<br />
 
 #### An Overview of the National Institutes of Health (NIH) Data Management and Sharing Policy
 
@@ -35,22 +45,16 @@ Lisa Federer <br /> [Webinar slides on Zenodo <i class="fas fa-external-link-alt
 
 <br />
 
-#### A Conversation About Data on Race & Ethnicity Around the World
-
-Bobray Bordelon, Barbara Levergood, Kevin Manuel, Nigel de Noronha, Anja Perry, Anne Zald. Moderators Alexandra Cooper, Deborah Wiltshire <br /> [Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7400733)
-
-{{< youtube 7S8Y9dA1rPY >}}
-
-<br />
-
 
 ### Older webinar recordings
 
+- [A Conversation About Data on Race & Ethnicity Around the World<i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=7S8Y9dA1rPY) (Bobray Bordelon, Barbara Levergood, Kevin Manuel, Nigel de Noronha, Anja Perry, Anne Zald. Moderators Alexandra Cooper, Deborah Wiltshire)<br />([Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7400733))
+
 - [De-identifying Qualitative Data<i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=MbKw3LR2rVo) (Arja Kuula-Luumi, Kati Mozygemba, Tom Nicolai, James DuBois, Jessica Mozersky) (Slides linked from the YouTube page)
 
-- [Understanding the 2020 US Census <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=OR1I4h1Rx3M) (William P. O'Hare) ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://docs.google.com/presentation/d/16kDTq8I1HjxplgrT4zM-8JvcQuJST3EZ/edit#slide=id.p1))
+- [Understanding the 2020 US Census <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=OR1I4h1Rx3M) (William P. O'Hare)<br />([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://docs.google.com/presentation/d/16kDTq8I1HjxplgrT4zM-8JvcQuJST3EZ/edit#slide=id.p1))
 
-- [Data as Relation: Indigenous Data Sovereignty and Ethics of Care <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son) ([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://t.co/b5wQXGVz9J))
+- [Data as Relation: Indigenous Data Sovereignty and Ethics of Care <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=QGYse9iDPWI) (Kayla Lar-Son)<br />([Webinar slides on Google Docs <i class="fas fa-external-link-alt"></i>](https://t.co/b5wQXGVz9J))
 
 - [Accessing linked health data in a COVID world: What’s the state of play? <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=WE-kmduHahc) (Richard Welpton, Deborah Wiltshire, Yannis Kotrotsios, Sarah Young, Eimmy Solis)
 

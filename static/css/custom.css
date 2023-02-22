@@ -35,12 +35,14 @@ figcaption h4 {
 table {
 	/*border:1px solid #f2f3ee;*/
 	border-collapse:collapse;
-	/*margin:0 0 2.5rem;*/
+	margin:0 0 2.5rem;
 	/*width:100%*/
 }
 
 th { 
 	padding-bottom: .3em;
+	padding-right:1em;
+	color:#555555;
 	font-size:12pt;
 }
 
