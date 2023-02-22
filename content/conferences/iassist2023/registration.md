@@ -20,7 +20,7 @@ Non-Member|$445|$475|$495|
 
 Early Bird is on or before 5/01.
 
-Regular is 5/01-5/22.
+Regular is 5/02-5/22.
 
 On-site is on or after 5/23.
 <br/>
