@@ -19,7 +19,7 @@ Non-Member|$445|$475|$495|
 
 Early Bird is on or before 5/01.
 
-Regular is 5/01-5/22.
+Regular is 5/02-5/22.
 
 On-site is on or after 5/23.
 <br/>
@@ -46,7 +46,7 @@ To receive Members Only registration discounts, you must be an IASSIST Member in
 
 *Current Members*: Your IASSIST membership must be verified before your registration can be finalized. You will submit your registration by selecting the Pre-Register or Invoice payment option. Once we have confirmed your member status, we will finalize your registration and payment.
 
-*Reduced Rate Registration*: Current Reduced Rate Members are eligible for a discounted registration fee. Discount codes will be emailed out to our current reduced rate members. If you do not received this code by February 28, or have additional questions regarding your qualification, please visit the [Become a Member](/about/become-a-member/) page or contact the current Membership Chair.
+*Reduced Rate Registration*: Current Reduced Rate Members are eligible for a discounted registration fee. Discount codes have been emailed out to our current reduced rate members. If you have not received this code, or have additional questions regarding your qualification, please visit the Become a Member page or contact the current Membership Chair.
 
 *Payment Policy*: Payment for the full amount of registration fees must be made at the time of registration or within 48 hours of the completion of registration.
 
