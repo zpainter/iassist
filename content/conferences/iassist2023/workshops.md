@@ -35,6 +35,8 @@ Track: Data management and archiving
 	
 </br>
 
+## **Afternoon Workshops** (1:00pm-4:00pm)
+
 ### **Analyzing donations of digital trace data: Starting with your own search behavior**
 
 Presenter: Ericka Menchen-Trevino, American University
@@ -48,8 +50,6 @@ Finally, the workshop will cover the process of creating, cleaning, and summariz
 Track: Data Literacy
 	
 </br>
-
-## **Afternoon Workshops** (1:00pm-4:00pm)
 
 ### **Introduction to the Dataverse software for managing and sharing your research data**
 	
