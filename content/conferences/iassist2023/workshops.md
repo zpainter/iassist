@@ -8,7 +8,7 @@ type = "conferences-test"
 
 All workshops will be held on Tuesday, May 30, at the [Charles Library](https://library.temple.edu/libraries/charles-library) on Temple University's campus at 1900 N. 13th St., Philadelphia, PA
 
-## **Morning Workshops**
+## **Morning Workshops** (9:00am-12:00am)
 
 ### **A Friendly Introduction to Python for Absolute Beginners**
 
@@ -49,7 +49,7 @@ Track: Data Literacy
 	
 </br>
 
-## **Afternoon Workshops**
+## **Afternoon Workshops** (1:00pm-4:00pm)
 
 ### **Introduction to the Dataverse software for managing and sharing your research data**
 	
