@@ -33,8 +33,8 @@ All submissions should include the proposed title and an abstract. The abstract 
 
 MULTIPLE SUBMISSIONS: The conference organizers anticipate that some individuals may wish to submit multiple proposals. We expect to have many submissions, so we would kindly ask you to restrict submissions to one per person only.
 
-<br /><a class="btn btn-template-main" href="https://www.openconf.org/iassist2023/openconf.php">Submit your conference proposal <i class="fas fa-external-link-alt"></i></a><br /><br />
-
+<!--<br /><a class="btn btn-template-main" href="https://www.openconf.org/iassist2023/openconf.php">Submit your conference proposal <i class="fas fa-external-link-alt"></i></a><br /><br />
+-->
 
 ### Support for Attending the Conference
 

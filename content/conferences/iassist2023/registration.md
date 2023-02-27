@@ -6,7 +6,9 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-### Registration will open at the end of February 2023, with a registration link posted here.
+### Registration is **NOW OPEN!**
+
+<br /><a class="btn btn-template-main" href="https://concentracms.regfox.com/iassist2023">Register here! <i class="fas fa-external-link-alt"></i></a><br /><br />
 
 Registration rates are posted below:
 
