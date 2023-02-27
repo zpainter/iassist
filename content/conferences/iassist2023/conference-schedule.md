@@ -41,3 +41,5 @@ Time|Tuesday|Wednesday|Thursday|Friday|
    |   |   |   |   |
    |   |   |   |   |
 18:00-21:00|**Reception**|Dinner on your own|**Banquet**|
+
+## For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/).

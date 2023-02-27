@@ -20,16 +20,19 @@ Philadelphia, Pennsylvania 19106
 
 **Booking**:
 
-A link for booking at the conference rate will be released when registration is available at the end of February.  The room rate below is provided for information.
+<br /><a class="btn btn-template-main" href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1666970201572&key=GRP&app=resvlink">Book your hotel here! <i class="fas fa-external-link-alt"></i></a><br /><br />
 
-**Room rate**: $189/night for single and double occupancy, exclusive of taxes and fees.
-Taxes and Fees: currently 16.36%
-
-<!--Book your online reservation here.
+- A credit/debit card is needed to hold your reservation; you will *not be charged at the time of booking* unless stated
+- For rates that allow cancellation, you may be charged if you do not cancel in time (see specific rate rules)
+- You will be asked for your credit/debit card when you check in
+- All reservations must be accompanied by a first night room deposit or guaranteed with a major credit card
 
 Cut-Off Date | Reservations must be made by midnight on Monday, May 1, 2023 in order to secure the group rate. We encourage reservations at your earliest convenience in order to ensure room availability as the block may sell out at any time.
 
-Check-In / Out Time | 4:00 PM / 12:00 PM-->
+Check-In / Out Time | 4:00 PM / 12:00 PM
+
+**Room rate**: $189/night for single and double occupancy, exclusive of taxes and fees.
+Taxes and Fees: currently 16.36%
 
 
 **Airport & Ground Transportation**
