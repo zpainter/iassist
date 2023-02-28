@@ -35,7 +35,7 @@ The full program will be available in March.  The [workshop schedule](/conferenc
 
 **Registration**
 
-Registration is **now open**.  Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/registration/)** to get more information and register. Information on the Conference Hotel and rate is available on the **[hotel page](/conferences/iassist2023/conference-hotel-and-accomodation)**.
+Registration is **now open**.  Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/registration/)** to get more information and register. Information on the Conference Hotel and rate is available on the **[hotel page](/conferences/iassist2023/conference-hotel-and-accommodation)**.
 
 Come and join us for the **Best. IASSIST. Ever.**
 
