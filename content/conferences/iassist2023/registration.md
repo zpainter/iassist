@@ -65,6 +65,6 @@ In-Person One-Day ONLY Registration for IASSIST 2023 includes access to all sess
 Digital ONLY Registration for IASSIST 2023 includes access to the live stream of the General Sessions and a limited number of breakout sessions. It will also include access to the recorded sessions post-conference.
 
 
-For hotel and other local information, consult the [conference hotel page](/conferences/iassist2023/conference-hotel-and-accomodation/).
+For hotel and other local information, consult the [conference hotel page](/conferences/iassist2023/conference-hotel-and-accommodation/).
 
 
