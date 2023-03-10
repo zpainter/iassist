@@ -8,7 +8,11 @@ type = "conferences-test"
 
 ### [Full Program Schedule Now Available](/conferences/iassist2023/full_program/)
 
-### Conference schedule at a glance
+**[Full Program <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/full_program/)**
+
+### For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/).
+
+#### Conference schedule at a glance
 
 Presentations are held during the Concurrent Sessions, with four presentations in each session.
 Events in *Italics* are in-person only.  Other events will be hybrid of in-person and online.
@@ -45,7 +49,5 @@ Time|Tuesday|Wednesday|Thursday|Friday|
 18:00-21:00|**_Reception_**|Dinner on your own|**_Banquet_**|
 
 The IASSIST Administrative Committee Meeting will be held on Monday, May 29, from 11am-3pm.
-
-### For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/).
 
 ### [Full Program Schedule here](/conferences/iassist2023/full_program/)

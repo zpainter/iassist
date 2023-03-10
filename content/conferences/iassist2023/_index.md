@@ -15,7 +15,7 @@ type = "conferences-test"
 
 ### Philadelphia, PA, USA, May 30 - June 2, 2023
 
-**Host institution: IASSIST with representation from the University of Pennsylvania, Princeton University, Rutgers University, and other universities in the area.** 
+**Host institution: IASSIST with representation from the University of Pennsylvania, Princeton University, Rutgers University, Temple University, and Drexel University.**
 
 <hr />
 <br />
@@ -25,13 +25,11 @@ Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferenc
 
 <br />
 
-**Call for Papers and Workshops**
-
-The theme of the conference is *Diversity in Research: Social Justice from Data*.  The [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) describes the theme in further detail. **Submissions have closed and notifications of acceptance have been sent out**. 
-
 **Program**
 
-The full program will be available in March.  The [workshop schedule](/conferences/iassist2023/workshops/) is now available.
+The theme of the conference is *Diversity in Research: Social Justice from Data*.
+
+The [**full program**](/conferences/iassist2023/workshops/) is now available.
 
 **Registration**
 
@@ -39,6 +37,10 @@ Registration is **now open**.  Go the **[registration page <i class="fas fa-exte
 
 Come and join us for the **Best. IASSIST. Ever.**
 
+**Call for Papers and Workshops**
+
+ The [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) describes the theme in further detail. **Submissions have closed and notifications of acceptance have been sent out**. 
+ 
 ### Indigenous Land Acknowledgement
 
 We recognize and acknowledge that the site of this conference stands on the Indigenous territory known as “Lenapehoking,” the traditional homelands of the Lenape, also called Lenni-Lenape or Delaware Indians. These are the people who, during the 1680s, negotiated with William Penn to facilitate the founding of the colony of Pennsylvania. Their descendants today include the Delaware Tribe and Delaware Nation of Oklahoma; the Nanticoke Lenni-Lenape, Ramapough Lenape, and Powhatan Renape of New Jersey; and the Munsee Delaware of Ontario.
