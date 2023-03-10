@@ -8,7 +8,7 @@ type = "conferences-test"
 
 ### [Full Program Schedule Now Available](/conferences/iassist2023/full_program/)
 
-**[Full Program <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/full_program/)**
+<br />**<a class="btn btn-template-main" href="/conferences/iassist2023/full_program/">Full Program <i class="fas fa-external-link-alt"></i></a>**</ br>
 
 ### For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/).
 

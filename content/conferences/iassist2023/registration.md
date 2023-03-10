@@ -38,7 +38,7 @@ One-Day Registration: $139
 
 Reduced Rate Registration: 50% Discount
 
-Pre-Conference Workshops: $50 each
+Pre-Conference Workshops: $50 each (in addition to registration)
 <br/>
 <br/>
 
