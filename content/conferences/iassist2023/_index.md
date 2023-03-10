@@ -17,7 +17,6 @@ type = "conferences-test"
 
 **Host institution: IASSIST with representation from the University of Pennsylvania, Princeton University, Rutgers University, Temple University, and Drexel University.**
 
-<hr />
 <br />
 
 ## **Registration is NOW OPEN!** ##
