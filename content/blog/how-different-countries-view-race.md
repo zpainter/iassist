@@ -6,7 +6,7 @@ date = "2023-03-11 01:00:00 -0700"
 draft = "false"
 banner = "/img/blog/erica-fischer-race-and-ethnicity-detroit-CC-BY-SA-4982034696_1eda729e38_c.jpg"
 +++
-The Black Lives Matter and indigenous rights movements, as well as international migration in recent years, have caused many organisations, including IASSIST, to re-examine their own understanding and knowledge, processes and practices. It also made IASSIST members feel compelled to collect materials that can help everyone recognise, acknowledge, and combat inherent racial bias.
+The Black Lives Matter and indigenous rights movements, as well as international migration in recent years, have caused many organisations, including IASSIST, to re-examine their own understanding and knowledge, processes and practices. It also made IASSIST members feel compelled to collect materials that can help everyone recognise, acknowledge, and combat implicit racial bias.
 
 The goals of the Anti-Racism Resources Interest Group are to gather these resources and together with IASSIST's Professional Development Committee organise webinars on related topics. The group also collects essays to briefly summarise varying national perspectives on data collection by race. The Interest Group consists of data stewards and librarians who do not necessarily have prior expertise, but who are interested in discussing race and ethnicity in terms of the data available for research. This also underlines that raising awareness and recognising biases is everyone's business.
 
