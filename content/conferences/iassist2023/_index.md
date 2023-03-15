@@ -28,7 +28,7 @@ Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferenc
 
 The theme of the conference is *Diversity in Research: Social Justice from Data*.
 
-The [**full program**](/conferences/iassist2023/workshops/) is now available.
+The [**full program**](/conferences/iassist2023/conference-schedule/) is now available.
 
 **Registration**
 
