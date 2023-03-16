@@ -31,7 +31,7 @@ The formal responsibilities of all elected IASSIST officers are described in Art
 <a class="btn btn-template-main" href="/about/2021-election-bios/" >Slate of 2021 candidates and their biographies</a> <br /><br />
 -->
 
-To nominate a candidate, or ask questions about the Election or nominations
+<!--To nominate a candidate, or ask-->Any questions about the Election or nominations
 : Please contact Elections Committee Chair Tuomas J. Alaterä, tuomas.alatera (at) tuni.fi.
 
 ## IASSIST Election 2021 - Results
