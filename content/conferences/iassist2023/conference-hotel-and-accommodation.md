@@ -43,6 +43,10 @@ Philadelphia International Airport is approximately 9 miles from the Philadelphi
 
 Valet parking is available for $55 USD daily at the hotel. An oversize vehicle charge will be added for $10.  Other independent garages are available in the area.
 
+**Local Information**
+
+An [updated guide](https://docs.google.com/document/d/1nEQh-xciAOfxp22P69r94F8n5b-sI6Qr9eXLjiZV1oU/edit) with useful local information is available.
+
 
 
 

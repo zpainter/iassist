@@ -49,5 +49,3 @@ Time|Tuesday|Wednesday|Thursday|Friday|
 18:00-21:00|**_Reception_**|Dinner on your own|**_Banquet_**|
 
 The IASSIST Administrative Committee Meeting will be held on Monday, May 29, from 11am-3pm.
-
-### [Full Program Schedule here](/conferences/iassist2023/full_program/)
