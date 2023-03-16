@@ -1,7 +1,7 @@
 +++
 year = "2023"
 draft = "false"
-title = "IASSIST 2023 - Maps"
+title = "IASSIST 2023 - Maps and Local Information"
 location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
@@ -25,3 +25,7 @@ The conference will be centered at the Philadelphia Marriott Old City.
 <small><a href="https://www.openstreetmap.org/?mlat=39.94613&amp;mlon=-75.14342#map=17/39.94613/-75.14342" target="_blank" title="Opens a new tab">View Larger Map<i class="fas fa-external-link-alt"></i></a></small>
 
 Additional maps will be posted with locations of workshops, reception, and banquet when available.
+
+**Local Information**
+
+An [updated guide](https://docs.google.com/document/d/1nEQh-xciAOfxp22P69r94F8n5b-sI6Qr9eXLjiZV1oU/edit) with useful local information is available.
