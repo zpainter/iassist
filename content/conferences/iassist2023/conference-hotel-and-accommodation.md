@@ -11,14 +11,11 @@ type = "conferences-test"
 The conference hotel and location of most meetings will be the [Philadelphia Marriott Old City <i class="fas fa-external-link-alt"></i>](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/).
 
 Philadelphia Marriott Old City
+: One Dock Street 
+: Philadelphia, Pennsylvania 19106
+<!--: 1 215-238-6000-->
 
-One Dock Street 
-
-Philadelphia, Pennsylvania 19106
-
-<!--+1 215-238-6000-->
-
-**Booking**:
+### Booking
 
 <br /><a class="btn btn-template-main" href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1666970201572&key=GRP&app=resvlink">Book your hotel here! <i class="fas fa-external-link-alt"></i></a><br /><br />
 
@@ -35,15 +32,15 @@ Check-In / Out Time | 4:00 PM / 12:00 PM
 Taxes and Fees: currently 16.36%
 
 
-**Airport & Ground Transportation**
+### Airport & Ground Transportation
 
 Philadelphia International Airport is approximately 9 miles from the Philadelphia Marriott Old City. If traveling by train ([Amtrak](https://amtrak.com) is long-distance national rail in the US), Philadelphia Rail Station / 30th Street Station would be the nearest stop, from which connections can be made to the [SEPTA](https://septa.org) regional rail system. You can find more details about getting to the venue on the Philadelphia Marriott Old City website.
 
-**Parking**
+### Parking
 
 Valet parking is available for $55 USD daily at the hotel. An oversize vehicle charge will be added for $10.  Other independent garages are available in the area.
 
-**Local Information**
+### Local Information
 
 An [updated guide](https://docs.google.com/document/d/1nEQh-xciAOfxp22P69r94F8n5b-sI6Qr9eXLjiZV1oU/edit) with useful local information is available.
 
