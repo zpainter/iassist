@@ -15,7 +15,7 @@ Any IASSIST member may nominate an individual for an elected position. To stand 
 
 Membership dues must be paid by March 3 (candidates) or March 27 (to vote). 
 
-The newly elected candidates will take office at the 2023 General Assembly, which will be held in later in June 2023.
+The newly elected candidates will take office at the 2023 General Assembly, which will be held June 1, 2023.
 
 The following 14 positions will be included in the election:
 
@@ -27,11 +27,11 @@ The following 14 positions will be included in the election:
 
 The formal responsibilities of all elected IASSIST officers are described in Article XII of the IASSIST Constitution.
 
-<!--
-<a class="btn btn-template-main" href="/about/2021-election-bios/" >Slate of 2021 candidates and their biographies</a> <br /><br />
--->
+<a class="btn btn-template-main" href="/about/2023-election-bios/" >Slate of 2022 candidates and their biographies</a> <br /><br />
 
-<!--To nominate a candidate, or ask-->Any questions about the Election or nominations
+<!--To nominate a candidate, or ask--> 
+
+Any questions about the Election or nominations
 : Please contact Elections Committee Chair Tuomas J. Alaterä, tuomas.alatera (at) tuni.fi.
 
 ## IASSIST Election 2021 - Results
