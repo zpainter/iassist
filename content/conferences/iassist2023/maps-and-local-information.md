@@ -28,4 +28,4 @@ Additional maps will be posted with locations of workshops, reception, and banqu
 
 **Local Information**
 
-An [updated guide](https://docs.google.com/document/d/1nEQh-xciAOfxp22P69r94F8n5b-sI6Qr9eXLjiZV1oU/edit) with useful local information is available.
+An [updated guide](https://docs.google.com/document/d/1nEQh-xciAOfxp22P69r94F8n5b-sI6Qr9eXLjiZV1oU/edit) with useful local information is available, which includes [a map showing conference locations, recommended restaurants, and sites of interest](https://goo.gl/maps/oDt8nCa5RmTzYkRn8).
