@@ -27,7 +27,7 @@ Presenter: Kristi Thompson, Western University
 	
 Data curators should have a basic understanding of data anonymization so they can support safe sharing of sensitive data and avoid sharing data that accidentally violates confidentiality. This workshop will consist of a lecture followed by an interactive hands-on session using R. The first half will cover the mathematical and theoretical underpinnings of guaranteed data anonymization. Topics covered include an overview of identifiers and quasi-identifiers, an introduction to k-anonymity, a look at some cases where k-anonymity breaks down, and a discussion of various enhancements of k-anonymity.
 
-The second half will walk participants through some steps to assess the disclosure risk of a dataset and anonymize it using R and the R package SDCMicro.
+The second half will walk participants through some steps to assess the disclosure risk of a dataset and anonymize it using R. Participants will need to have a laptop with R installed and will get an email with instructions on necessary packages prior to the workshop. Advance knowledge of R not required.
 
 Much of the academic material looking at data anonymization is quite abstract and aimed at computer scientists, while material aimed at data curators does not always consider recent developments. This session is intended to help bridge the gap.
 
