@@ -11,7 +11,7 @@ Every two years IASSIST conducts an election of officers in each active geograph
 
 **2023 is an election year for IASSIST.** 
 
-Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2022-2023). Nominations period will end on March 3, 2023 and the Election will open in late March 2023. Members will receive a link to the ballot by email to their email address registered with the membership. Candidate bios will be made available before the voting begins.
+Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2022-2023). Nominations period will end on March 3, 2023 and the Election will open on March 30, 2023. Members will receive a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).
 
 Membership dues must be paid by March 3 (candidates) or March 27 (to vote). 
 
@@ -27,7 +27,7 @@ The following 14 positions will be included in the election:
 
 The formal responsibilities of all elected IASSIST officers are described in Article XII of the IASSIST Constitution.
 
-<a class="btn btn-template-main" href="/about/2023-election-bios/" >Slate of 2022 candidates and their biographies</a> <br /><br />
+<a class="btn btn-template-main" href="/about/2023-election-bios/" >Slate of 2023 candidates and their biographies</a> <br /><br />
 
 <!--To nominate a candidate, or ask--> 
 
