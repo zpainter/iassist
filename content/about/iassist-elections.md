@@ -62,7 +62,7 @@ IASSIST recently conducted its election of officers and additional members of th
 
 <!--[List of Candidates with Biographies](/about/2019-election-bios "2019 Elections Candidates and Biographies").-->
 
-## Results of the previous Elections
+## Results of previous Elections
 
 **| [2021](/about/iassist-election-2021-results) | [2019](/about/iassist-election-2019-results) | [2017](/about/iassist-election-2017-results) | [2015](/about/iassist-election-2015-results) | [2013](/about/iassist-election-2013-results) | [2011](/about/iassist-election-2011-results) | [2009](/about/iassist-election-2009-results) | [2007](/about/iassist-election-2007-results) | [2004](/about/iassist-election-2004-results) | [2002](/about/iassist-election-2002-results) |**
 
