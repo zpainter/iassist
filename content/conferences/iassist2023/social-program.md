@@ -6,8 +6,12 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-A **reception** will be held on Tuesday evening, May 30.
+**IASSIST 2023 Reception**
+Tuesday, May 30th, 6PM-8PM
 
-The **banquet** will be held on Thursday evening, June 1.
+Connect with old colleagues, make new friends, network and enjoy! The IASSIST 2023 Welcome Reception will take place in the Hamilton Room of the Conference Hotel, Philadelphia Marriott Old City. Come enjoy drinks and light appetizers while you mingle.
 
-Further information will be posted as plans are finalized.
+**IASSIST 2023 Banquet**
+Thursday, June 1st, 6PM-9PM
+
+All attendees are invited to join us for this year's banquet, on the Ben Franklin Yacht, The event will include food, drinks, music, and a cruise on the Delaware River. There is a limited capacity on the boat of 250 guests, so be sure to register today!

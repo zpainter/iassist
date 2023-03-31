@@ -10,7 +10,9 @@ type = "conferences-test"
 
 <br /><a class="btn btn-template-main" href="/conferences/iassist2023/full_program/">Full Program <i class="fas fa-external-link-alt"></i></a><br /><br />
 
-### For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/).
+### as well as [featured speaker profiles](/conferences/iassist2023/speakers/)
+
+### For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/)
 
 #### Conference schedule at a glance
 
@@ -46,6 +48,6 @@ Time|Tuesday|Wednesday|Thursday|Friday|
 17:00-18:00| |**_Poster Session_**|
    |   |   |   |   |
    |   |   |   |   |
-18:00-21:00|**_Reception_**|Dinner on your own|**_Banquet_**|
+18:00-21:00|**_Reception_** (18:00-20:00)|Dinner on your own|**_Banquet_**|
 
 The IASSIST Administrative Committee Meeting will be held on Monday, May 29, from 11am-3pm.
