@@ -1,0 +1,27 @@
++++
+author = "IQ Editor"
+title = "Editor's Notes: The work continues"
+tags = [ "News and Announcements", "IQ",]
+date = "2022-12-29 01:00:00 -0700"
+draft = "false"
+banner = "/img/blog/iq-3.png"
++++
+**Welcome to the final issue of IASSIST Quarterly for the year 2022 - [(IQ vol. 46(4) 2022) <i class="fas fa-external-link-alt"></i>](https://www.iassistquarterly.com/index.php/iassist/issue/view/152), our eagerly-awaited special issue on Systemic Racism in Data Practices.**
+
+This issue represents more than you might think: the culmination of more than two years of the intellectual hard work of writing, of course, but that in itself is not unusual for any journal issue.  However.  The global pandemic exploded just after the conception of this special issue and hit all of us hard, wreaking not only physical destruction of lives but also unleashing social upheaval, job insecurity, housing insecurity, and major mental health challenges.  Social injustice erupted during the pandemic, shocking and enraging many of us with its violence and disregard for human dignity.  I was privileged to witness the genesis of this issue, and I helped recruit our guest editors, **Trevor Watkins** and **Jonathan Cain**. I salute their perseverance, patience and courage, and that of the article authors, in bringing this content to fruition.  Many involved in this issue faced multiple personal challenges, from the loss of family members to repeated moves, job changes, and more in the process of trying to get this work done.  Some were unable to surmount the many obstacles and were forced to withdraw their proposals.  So I do not think it is hyperbole to say this is the hardest issue we have ever produced.  Trevor and Jonathan, thank you again for spearheading this important work.
+
+Some good things have come from the societal call for racial justice for IASSIST, including this issue of the IQ.  IASSIST has initiated several new ventures to advocate for diversity and equity, both within our organization and among researchers generally:  We restructured our membership fees to allow half price for people joining from lower income countries.  IASSIST also sponsored diversity scholarships for members to attend the American Library Association conference and the ICPSR Summer Program in Quantitative Methods in 2022.  A new Anti-racism Resources Interest Group which focuses on compiling anti-racism resources has been working for more than two years and recently collaborated with the Professional Development Committee to present a webinar on varying national approaches to collecting (or not collecting) data about race and ethnicity.  The group welcomes contributions of essays for additional countries and suggestions of other webinar topics.  Looking ahead, the 2023 conference theme is *Diversity in Research: Social Justice from Data*, sure to result in some fascinating presentations (and future IQ papers!).  And here at the IQ, we’re already contemplating a second special issue in this area around the role of social justice in data services.  We invite volunteers who would like to serve as guest editors to contact us.  And so the work continues.
+
+The IQ editorial team is happy to welcome a new volunteer, **Phillip Ndhlovu**, as our Managing Editor with this issue.  Phillip is the Deputy Librarian at the Gwanda State University Library in Filabusi, Zimbabwe.  We thank him profusely—his role is key to producing every issue and his participation enables Ofira and me to focus on learning the editor’s role.  We welcome suggestions for new features or columns, and encourage you to reach out if you are interested in becoming involved.
+
+From all of us on the IQ editorial team, we wish you a much better year in 2023.  And meanwhile, enjoy the hard work herein of your colleagues.  Read on for Trevor and Jonathan’s guest editors’ notes describing the enclosed articles.
+
+*Submissions of papers for the IASSIST Quarterly are always very welcome. We welcome input from IASSIST conferences or other conferences and workshops, from local presentations, or papers especially written for the IQ. When you are preparing such a presentation, give a thought to turning your one-time presentation into a lasting contribution. Doing that after the event also gives you the opportunity of improving your work after feedback. We encourage you to login or create an author profile at https://www.iassistquarterly.com (our Open Journal System application). We permit authors to have 'deep links' into the IQ as well as deposition of the paper in your local repository. Chairing a conference session or workshop with the purpose of aggregating and integrating papers for a special issue IQ is also much appreciated as the information reaches many more people than the limited number of session participants and will be readily available on the IASSIST Quarterly website. Authors are very welcome to take a look at the instructions and layout: https://www.iassistquarterly.com/index.php/iassist/about/submissions.*
+
+*Authors can also contact me directly via e-mail: kbr [ at ] sam.sdu.dk. Should you be interested in compiling a special issue for the IQ as guest editor(s) I will also be delighted to hear from you.*
+
+For the IQ Editorial Team,
+
+Michele Hayslett – December 2022<br />
+Karsten Boye Rasmussen<br />
+Ofira Schwartz-Soicher
