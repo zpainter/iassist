@@ -7,7 +7,7 @@ oldpath = "/about/membership/elections/index.html"
 date = "2010-01-08 22:00:26 -0700"
 draft = "false"
 +++
-Every two years IASSIST conducts an election of officers in each active geographic region. Terms are for two or four years depending on the position. The number of vacant seats depends on the rotation. The Administrative Committee is the executive body of IASSIST. In addition to the President and Vice-President, the Treasurer, the Secretary, and the Regional Secretaries there are elected Members at Large who reflect the geographic distribution of the membership.
+Every two years IASSIST conducts an election of officers in each active geographic region. The Administrative Committee is the executive body of IASSIST. Terms in office are two or four years depending on the position. The number of vacant seats and positions up for election depend on the rotation. In addition to the President and Vice-President, the Treasurer, the Secretary, and the Regional Secretaries there are elected Members at Large who reflect the geographic distribution of the membership.
 
 <!--
 **2023 is an election year for IASSIST.** 
@@ -33,12 +33,13 @@ The formal responsibilities of all elected IASSIST officers are described in Art
 <a class="btn btn-template-main" href="/about/2023-election-bios/" >Slate of 2023 candidates and their biographies</a> <br /><br />
 -->
 
-<!--To nominate a candidate, or ask--> Any questions about the Election or nominations
+<!--To nominate a candidate, or ask--> 
+Any questions about the Election or nominations
 : Please contact Elections Committee Chair Tuomas J. Alaterä, tuomas.alatera (at) tuni.fi.
 
 ## IASSIST Election 2023 - Results
 
-IASSIST recently conducted its election of officers and additional members of the Administrative Committee, with elected individuals taking up office at the IASSIST Virtual General Assembly in June 2023. Newly elected officials are listed below. Congratulations to all.
+IASSIST recently conducted its election of officers and additional members of the Administrative Committee, with elected individuals taking up office at the IASSIST General Assembly in June 2023. Newly elected officials are listed below. Congratulations to all.
 
 |Post (term of office)|Name of Incumbent|
 |:---|---:|
