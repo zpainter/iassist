@@ -31,6 +31,14 @@ figcaption h4 {
   padding-bottom: 10px; /* or relative em */
 }
 
+figcaption p {
+  /*background-color:white;*/
+  font-size: 10pt;
+  font-weight: normal;
+  font-style: italic;
+  padding-bottom: 10px; /* or relative em */
+}
+
 /* Very basic breathing room for tables, table headers and cells */
 table {
 	/*border:1px solid #f2f3ee;*/
@@ -175,6 +183,10 @@ a:focus {
 
 div.home-carousel {
 	background-color:#af588e; /* alternative fallback colour for accessibility */
+}
+
+.text-muted {
+  color: #6F6F6F; /* Drawn from bootstrap, locally changed to a bit darker for accessibility. Was #777 */
 }
 
 /* -- Accessibility section ends -- */
