@@ -48,9 +48,10 @@ In-person registrants will have access to participate virtually. If you are unab
 
 After completing registration, you will be routed to a confirmation page. Additionally, you will receive a confirmation email with your registration information. It does typically take up to one hour for the email to arrive in your inbox. Some emails are being filtered into spam folders, so please be sure to check your junk folder before requesting a resend.
 
-###What is included in the full registration fees?
+### What is included in the full registration fees?
 
 **In-Person Registration for IASSIST 2023** includes access to all sessions and provided meals and breaks that are included on the schedule from Tuesday evening, May 30 through Friday, June 2.
+
 _* Pre-conference workshops can be added to your registration for an additional fee_.
 
 **In-Person One-Day ONLY Registration for IASSIST 2023** includes access to all sessions and meals and breaks that are included on the schedule for the One Day selected. Reception and Banquet are excluded from One-Day registration.
@@ -76,6 +77,7 @@ The Conference Registration desk will be located in the Ballroom Foyer at the co
 ### Can in-person attendees access the virtual sessions?
 
 Yes, in-person attendees can access the virtual sessions. We will provide details on how to access the conference virtually to all registered attendees prior to the conference start. 
+
 _* One-Day Registrants will not have access to the digital content_.
 
 ### What is the registration cancellation policy?
