@@ -19,7 +19,7 @@ type = "conferences-test"
 
 <br />
 
-## **Registration is NOW OPEN!** ##
+## **Registration is OPEN! Early Bird rates end May 1!** ##
 Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/registration/)** to get more information and register. 
 
 <br />

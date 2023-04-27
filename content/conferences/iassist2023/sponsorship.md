@@ -12,7 +12,7 @@ type = "conferences-test"
     {{< figure src="aristotle.png" alt="Aristotle Metadata logo" >}}
   </div>
   <div style="margin-left:1em;">
-    Aristotle Metadata
+    <a href="https://www.aristotlemetadata.com/">Aristotle Metadata</a>
   </div>
 </div>
 
@@ -21,7 +21,7 @@ type = "conferences-test"
     {{< figure src="icpsr.png" alt="ICPSR logo" >}}
   </div> 
   <div style="margin-left:1em;">
-    Inter-university Consortium for Political and Social Research (ICPSR)
+    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research (ICPSR)</a>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ type = "conferences-test"
     {{< figure src="ukds.png" alt="UK Data Service logo" >}}
   </div> 
   <div style="margin-left:1em;">
-    UK Data Service
+    <a href="https://ukdataservice.ac.uk/">UK Data Service</a>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ type = "conferences-test"
     {{< figure src="ciesin.png" alt="CIESIN" >}}
   </div>
   <div style="margin-left:1em;">
-    Columbia Climate School. Center for Earth Science Information Network (CIESIN)
+   <a href="http://ciesin.org/">Columbia Climate School. Center for Earth Science Information Network (CIESIN)</a>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ type = "conferences-test"
     {{< figure src="clarivate.png" alt="Clarivate/ProQuest" >}}
   </div> 
   <div style="margin-left:1em;">
-    Clarivate/ProQuest
+    <a href="https://clarivate.com/">Clarivate/ProQuest</a>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ type = "conferences-test"
     {{< figure src="wrds.png" alt="WRDS" >}}
   </div> 
   <div style="margin-left:1em;">
-    Wharton Research Data Services (WRDS), The Wharton School
+    <a href="https://wrds-www.wharton.upenn.edu/">Wharton Research Data Services (WRDS), The Wharton School</a>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ type = "conferences-test"
     {{< figure src="carl.png" alt="CARL" >}}
   </div>
   <div style="margin-left:1em;">
-    Canadian Association of Research Libraries - Association des bibliothèques de recherche du Canada
+    <a href="https://www.carl-abrc.ca/">Canadian Association of Research Libraries - Association des bibliothèques de recherche du Canada</a>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ type = "conferences-test"
     {{< figure src="ddi.png" alt="DDI Alliance" >}}
   </div> 
   <div style="margin-left:1em;">
-    DDI Alliance
+   <a href="https://ddialliance.org/">DDI Alliance</a>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ type = "conferences-test"
     {{< figure src="ebsco.png" alt="Ebsco" >}}
   </div> 
   <div style="margin-left:1em;">
-    Ebsco
+    <a href="https://www.ebsco.com/">Ebsco</a>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ type = "conferences-test"
     {{< figure src="temple.png" alt="Temple University Libraries" >}}
   </div> 
   <div style="margin-left:1em;">
-    Temple University Libraries
+    <a href="https://library.temple.edu/">Temple University Libraries</a>
   </div>
 </div>
 
@@ -108,7 +108,7 @@ type = "conferences-test"
     {{< figure src="roper.png" alt="Roper Center" >}}
   </div>
   <div style="margin-left:1em;">
-    Roper Center for Public Opinion Research
+    <a href="https://ropercenter.cornell.edu/">Roper Center for Public Opinion Research</a>
   </div>
 </div>
 
@@ -117,7 +117,7 @@ type = "conferences-test"
     {{< figure src="upenn.png" alt="Penn Libraries" >}}
   </div> 
   <div style="margin-left:1em;">
-    University of Pennsylvania Libraries
+    <a href="https://www.library.upenn.edu/">University of Pennsylvania Libraries</a>
   </div>
 </div>
 
