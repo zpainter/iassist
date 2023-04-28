@@ -8,6 +8,8 @@ type = "conferences-test"
 
 ### Program Committee
 
+#### Chairs
+
 **Jonathan Bohan**, Cornell University, USA
 : Jonathan is passionate about helping researchers find and use data; making older and historical data usable with modern statistical programs; and making Cornell’s Data and Reproduction Archive more FAIR. He was born and raised in northern New Jersey and lived in the Boston area for 16 years before moving to Ithaca, NY, with his family in 2015. He has been working for Cornell since late 2016. Jonathan holds Master's degrees in History and Library and Information Science, and a Bachelor's in Business Administration.
 
@@ -17,7 +19,25 @@ type = "conferences-test"
 **Anja Perry**, GESIS - Leibniz Institute for the Social Sciences, Germany
 : Anja lives in Cologne, Germany, and works for the GESIS Data Services for the Social Sciences. There, she is responsible for data acquisition and research data management training. She is also active in the German National Research Data Infrastructure (NFDI) to train future research data managers and professionalize research data management. Her research interests are data sharing, data protection, and data feminism. She has a PhD in Economics.
 
+**Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
+
+**Workshop Coordinators**: Simon Parker, Debs Wiltshire, Amber Sherman, Robert Buwule
+
+**Lightning Talk Coordinator**: Berenica Vejvoda
+
+**Session Coordinator**: Paul Bern
+
+**Papers Competition Coordinator**: Meryl Brodsky
+
+**Poster Coordinator**: Mandy Swygart-Hobaugh
+
+**Birds of a Feather Coordinator**: Robin Rice
+
+</br>
+
 **Questions** about presentation submissions or the scientific program in general may be sent to the Program Chairs at *programme ( at ) lists.iassistdata.org.*
+
+</br>
 
 ### Local Arrangements Committee
 
@@ -30,4 +50,4 @@ type = "conferences-test"
 **Ryan Womack**, Rutgers University, USA
 : Ryan has been at Rutgers University in New Brunswick, New Jersey, since 1999, having first served as Business & Economics Librarian, and as Data Librarian since 2008.  He is currently serving as Head of the New Brunswick Libraries Research Services Unit.  He has authored articles in *PLOS*, the *Journal of Academic Librarianship*, *Library and Information Science Research*, and of course, *IASSIST Quarterly*. He holds an MA in Economics from Penn, an MSLS from the University of North Carolina at Chapel Hill, and an MS in Statistics from Rutgers. His latest project is the development of a guide to gender data resources for Central Asia and Mongolia.
 
-Local Arrangements Committee is working with [Concentra Conference Management Services <i class="fas fa-external-link-alt"></i>](https://www.concentra-cms.com/).
+The Local Arrangements Committee is working with [Concentra Conference Management Services <i class="fas fa-external-link-alt"></i>](https://www.concentra-cms.com/).
