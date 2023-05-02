@@ -24,7 +24,7 @@ Philadelphia Marriott Old City
 - You will be asked for your credit/debit card when you check in
 - All reservations must be accompanied by a first night room deposit or guaranteed with a major credit card
 
-Cut-Off Date | Reservations must be made by midnight on Monday, May 1, 2023 in order to secure the group rate. We encourage reservations at your earliest convenience in order to ensure room availability as the block may sell out at any time.
+Cut-Off Date | Reservations must be made by midnight on Monday, May 8, 2023 in order to secure the group rate. We encourage reservations at your earliest convenience in order to ensure room availability as the block may sell out at any time.
 
 Check-In / Out Time | 4:00 PM / 12:00 PM
 
