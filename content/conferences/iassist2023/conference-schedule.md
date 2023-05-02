@@ -33,7 +33,7 @@ Time|Tuesday|Wednesday|Thursday|Friday|
 11:00-12:30| workshops continue|**_Interest and Regional Groups_**|**Concurrent Sessions C**|**Concurrent Sessions F**|
    |   |   |   |   |
    |   |   |   |   |
-12:30-13:30|Lunch on your own|**_Lunch & Poster Preview_**|**IASSIST Business Lunch (until 2)**|Lunch|
+12:30-13:30|Lunch on your own|**_Lunch_**|**IASSIST Business Lunch (until 2)**|Lunch|
    |   |   |   |   |
    |   |   |   |   |
 13:30-15:00|**_Workshops (13:00-16:00)_**, also DDI Alliance Annual Mtg (13:00-17:00)|**Concurrent Sessions A**|**_Birds of a Feather_** (starting at 2)|**Lightning Talks & Closing Ceremony**|
