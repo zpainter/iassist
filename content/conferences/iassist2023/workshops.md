@@ -8,6 +8,8 @@ type = "conferences-test"
 
 All workshops will be held on Tuesday, May 30, at the [Charles Library](https://library.temple.edu/libraries/charles-library) on Temple University's campus at 1900 N. 13th St., Philadelphia, PA
 
+**Conference Workshops are now open to those not registering for the full conference ($50 each)**
+
 ## **Morning Workshops** (9:00am-12:00pm)
 
 ### **A Friendly Introduction to Python for Absolute Beginners**
