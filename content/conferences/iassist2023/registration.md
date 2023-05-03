@@ -9,6 +9,7 @@ type = "conferences-test"
 ### Registration is **NOW OPEN!**
 
 <br /><a class="btn btn-template-main" href="https://concentracms.regfox.com/iassist2023">Register here! <i class="fas fa-external-link-alt"></i></a><br /><br />
+**Conference Workshops are now open to those not registering for the full conference ($50 each)**
 
 Registration rates are posted below:
 
@@ -38,7 +39,7 @@ One-Day Registration: $139
 
 Reduced Rate Registration: 50% Discount
 
-Pre-Conference Workshops: $50 each (in addition to registration)
+Pre-Conference Workshops: $50 each
 <br/>
 <br/>
 
