@@ -39,7 +39,7 @@ While the strategies and techniques given are initially oriented toward this ori
 
 <div class="col-md-4">
  <div class="box-simple">
-  <a href="#">
+  <a href="b-sources-and-strategies">
   <div class="icon">
    <i class="fas fa-book-open"></i>
   </div>
@@ -51,7 +51,7 @@ While the strategies and techniques given are initially oriented toward this ori
 
 <div class="col-md-4">
  <div class="box-simple">
-  <a href="#">
+  <a href="c-concepts-and-context">
   <div class="icon">
    <i class="fas fa-shapes"></i>
   </div>
