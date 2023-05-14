@@ -9,11 +9,11 @@ type = "antiracism-resources"
 
 This guide is intended to help find **(a)** primary and secondary data and datasets documenting racism and the Black experience internationally, as well discrimination based on indigenous, national, and cultural or ethnic origins and **(b)** tools, articles, and rubrics for building anti-racism into the process of working with data across the data-research lifecycle. 
 
-The guide is accompanied by other resources developed by the IASSIST Anti-Racism Resources Action Group:
+The guide is accompanied by other resources developed by the [IASSIST Anti-Racism Resources Interest Group](/about/committees-and-groups#interest-groups	):
 
-- Datasets, projects, and data sources for racial justice \[to be linked\]
-- Tools, articles, and rubrics for working with data through an anti-racism lens \[to be linked\]
-- [How Different Countries View Race](https://iassistdata.org/community/antiracismresources-ig/essays/#essays) essays and webinar
+- Datasets, projects, and data sources for racial justice *\[to be linked\]*
+- Tools, articles, and rubrics for working with data through an anti-racism lens *\[to be linked\]*
+- [How Different Countries View Race](/community/antiracismresources-ig/essays/) essays and webinar
 
 While the strategies and techniques given are initially oriented toward this original scope, the list of suggested terms can be adapted and expanded over time to address other types of discrimination, such as by migrant/refugee status, religion, gender identity, or sexuality.
 
@@ -27,7 +27,7 @@ While the strategies and techniques given are initially oriented toward this ori
 <!--<div style="display:flex;align-items:top;margin:2em;">-->
 <div class="col-md-4">
  <div class="box-simple">
-  <a href="#ethics-and-best-practices">
+  <a href="a-ethics-and-best-practices">
  <div class="icon">
   <i class="fas fa-bell"></i>
  </div>
