@@ -11,6 +11,12 @@ The IASSIST Jobs Repository is a record of job descriptions posted to the member
 
 - [Archive of jobs posted to IASSIST listserv](/jobs-repository/)
 
+## Webinars
+
+Webinars are free to attend, but a registration is required. Webinars will be recorded and made available on the IASSIST YouTube Channel.
+
+- [IASSIST Webinar Registration and Recordings](/community/iassist-webinars/)
+
 ## IASSIST on Social Media
 
 Please follow our Twitter feed and check out our page on Facebook, and see some of us in action on Flickr. On YouTube you will find IASSIST all webinar recordings. 
@@ -19,8 +25,9 @@ Please follow our Twitter feed and check out our page on Facebook, and see some 
 - [IASSIST on Twitter](https://twitter.com/iassistdata)
 - [IASSIST on YouTube](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
 - [IASSIST on Facebook](https://www.facebook.com/iassistdata/)
-- [IASSIST on Linked in](https://www.linkedin.com/groups/113890/)
+- [IASSIST on Linkedin](https://www.linkedin.com/groups/113890/)
 - [IASSIST on Flickr](http://www.flickr.com/search/?w=all&amp;q=iassist&amp;m=text)
+- [IASSIST on Mastodon](https://mstdn.plus/@iassist)
 
 ### Tweets by IASSISTDATA
 
