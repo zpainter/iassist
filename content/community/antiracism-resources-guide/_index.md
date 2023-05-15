@@ -17,7 +17,7 @@ The guide is accompanied by other resources developed by the [IASSIST Anti-Racis
 
 While the strategies and techniques given are initially oriented toward this original scope, the list of suggested terms can be adapted and expanded over time to address other types of discrimination, such as by migrant/refugee status, religion, gender identity, or sexuality.
 
-### The guide is organized into three sections
+### The guide is organized into three sections 
 
 <br />
 <div class="container">
