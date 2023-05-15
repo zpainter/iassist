@@ -3,7 +3,7 @@ draft = "false"
 title = "Guide to Finding Data about Racism and Ethnic Bias"
 type = "antiracism-resources"
 +++
-[Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> [Guide to...](/community/antiracism-resources-test/) >> A. Ethics and Best Practices
+[Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> [Guide to...](/community/antiracism-resources-guide/) >> A. Ethics and Best Practices
 
 ## A. Ethics and Best Practices {#a-ethics-and-best-practices} 
 

@@ -74,7 +74,7 @@ In more details the three sections cover the topics as follows:
 
 3. **Concepts and Context** covers four areas that apply to all the sources and strategies: (a) concepts like statistics or aggregate data from microdata; (b) ownership and access rights to data for use and protection for individuals and communities; (c) suggested search terms and language; and (d) guidance for collecting and analyzing data through an anti-racism lens.
 
-A more detailed **[table of contents](/community/antiracism-resources-test/toc)** is also available.
+A more detailed **[table of contents](/community/antiracism-resources-guide/toc)** is also available.
 
 ### Feedback and Suggestions
 

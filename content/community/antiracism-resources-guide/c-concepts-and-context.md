@@ -3,7 +3,7 @@ draft = "false"
 title = "Guide to Finding Data about Racism and Ethnic Bias"
 type = "antiracism-resources"
 +++
-[Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> [Guide to...](/community/antiracism-resources-test/) >> C. Concepts and Context
+[Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> [Guide to...](/community/antiracism-resources-guide/) >> C. Concepts and Context
 
 ## C. Concepts and Context {#c-concepts-and-context}
 
@@ -36,7 +36,6 @@ Catalogs, databases and data archives may have different controlled vocabulary f
 Library of Congress Subject Headings and database subjects are reviewed and changed, based on internal reviews, [Funnel projects <i class="fas fa-external-link-alt"></i>](https://www.loc.gov/aba/pcc/saco/funnelsaco.html) , user feedback and suggestions, and as more knowledge is produced. Many terms related to racial categories and subjects are undergoing revision and are changing quickly. Even with the change, older or inappropriate terms may still exist in the metadata. Even if you have used a controlled vocabulary before, check for updates. Some significant recent changes include:
 
 - PubMed changing homeless to ill-housed persons.
-
 - LCSH added Black Lives Matters and changed Slaves to Enslaved persons
 
 #### Empirical studies - Methodology and other useful filters {#empirical-studies---methodology-and-other-useful-filters}
@@ -45,7 +44,7 @@ For many catalogs and databases, the thesaurus is found in **advanced search**. 
 
 Boolean, Wildcards, proximity and search operators can be used with keywords and controlled vocabulary to expand or narrow a search. These include AND, OR, NOT, PRE, ADJ, \*, ?. 
 
-Databases may group specific indexing terms under a relevant category, such as " [ERIC.ed.gov equity and bias <i class="fas fa-external-link-alt"></i>](https://eric.ed.gov/?ti=540)". Empirical studies can point to relevant data or studies and authors can be contacted for more information.
+Databases may group specific indexing terms under a relevant category, such as "[ERIC.ed.gov equity and bias <i class="fas fa-external-link-alt"></i>](https://eric.ed.gov/?ti=540)". Empirical studies can point to relevant data or studies and authors can be contacted for more information.
 
 Example: APA PsycInfo. Under Methodology, select Empirical Study to limit to empirical research.
 
@@ -68,9 +67,7 @@ Example using the HOLLIS (Harvard University library catalog) advanced search, w
 #### Examples of database and data archives thesaurus {#examples-of-database-and-data-archives-thesaurus}
 
 - [ICPSR subject thesaurus <i class="fas fa-external-link-alt"></i>](https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10001)
-
 - [HASSET Thesaurus <i class="fas fa-external-link-alt"></i>](https://hasset.ukdataservice.ac.uk/hasset/en/) - UK Data Service
-
 - [ELSST – European Language Social Science Thesaurus <i class="fas fa-external-link-alt"></i>](https://elsst.cessda.eu/) - Consortium of European Social Science Data Archives (CESSDA)
 
 #### Examples of race and ethnicity variables {#examples-of-race-and-ethnicity-variables}
@@ -78,9 +75,7 @@ Example using the HOLLIS (Harvard University library catalog) advanced search, w
 Datasets and surveys may use different variable names over time for race and ethnicity. Consult the dataset, survey or study documentation.
 
 - [IPUMS harmonized race and ethnicity variable <i class="fas fa-external-link-alt"></i>](https://usa.ipums.org/usa-action/variables/RACE#description_section)
-
 - [General Social Survey Library Guide: Locate GSS Topics & Variables <i class="fas fa-external-link-alt"></i>](https://guides.temple.edu/c.php?g=1272229&p=9333215). For example, Wkracism asks about discrimination in the workplace. Topics for international comparison include social Inequality, national identity, and citizenship.
-
 - Harmonized Latin American Innovation Surveys Database (LAIS): Firm-Level Microdata for the Study of Innovation: Dataset (Inter-American Development Bank)
 
 National government and local government may have standards for race and ethnic data and categories to compare information and data across agencies, and there may be on-going revisions. These standards can be consulted for terms to use in looking up race-ethnicity data. For example, in the United States, there is a proposal to add "Middle Eastern or North African" (MENA) as a new race/ethnicity response category ( [U.S. Office of Management and Budget Interagency Technical Working Group on Race and Ethnicity Standards <i class="fas fa-external-link-alt"></i>](https://spd15revision.gov/))
@@ -92,9 +87,7 @@ Libraries develop research guides that may suggest subject headings or terms for
 Examples:
 
 - [Racism (Researching Racism): Subject Headings: Racial justice - Racism <i class="fas fa-external-link-alt"></i>](https://libguides.asu.edu/racism/LCSH-r2) (Arizona State University)
-
 - [Conducting research through an anti-racism lens <i class="fas fa-external-link-alt"></i>](https://libguides.umn.edu/antiracismlens) (University of Michigan)
-
 - [Diverse Voice: Collections, Series, and Subject Headings <i class="fas fa-external-link-alt"></i>](https://ptsem.libguides.com/booklists/diversevoices/collections) (Princeton)
 
 These guides can be found by entering suggested controlled vocabulary and search terms in Google with the term "libguide(s)" or limit site to libguides.com or .edu
@@ -109,9 +102,9 @@ Examples of Google search queries:
 
 This is a starter list and is not exhaustive nor comprehensive.
 
-#### English (US) {#english-(us)}
+#### English (US) {#english-us}
 
-**Justice, Inequality** {#justice-inequality}
+##### Justice, Inequality {#justice-inequality}
 
 - anti-discrimination, antidiscrimination
 - anti-racism, antiracism
@@ -146,7 +139,7 @@ This is a starter list and is not exhaustive nor comprehensive.
 - police shootings
 - White supremacy, anti-blackness
 
-**Race, Ethnicity** {#race-ethnicity}
+##### Race, Ethnicity {#race-ethnicity}
 
 - ethnicity(ies)
 - ethnic group(s)
@@ -157,7 +150,7 @@ This is a starter list and is not exhaustive nor comprehensive.
 - intersectionality
 - \[names of particular racial or ethnic groups\]. Look up in [LCSH demographic/ethnic group headings <i class="fas fa-external-link-alt"></i>](https://www.loc.gov/aba/publications/FreeLCDGT/DEMOGRAPHIC.pdf) (PDF)
 
-**Law, Policy, Structure** {#law-policy-structure}
+##### Law, Policy, Structure {#law-policy-structure}
 
 - institutional racism
 - law
@@ -178,7 +171,7 @@ This is a starter list and is not exhaustive nor comprehensive.
 - Racial profiling, Stop and frisk, Driving while black(brown)
 - (Indigenous) Data sovereignty
 
-**Data and Methodology** {#data-and-methodology}
+##### Data and Methodology {#data-and-methodology}
 
 - data
 - microdata
@@ -197,7 +190,7 @@ This is a starter list and is not exhaustive nor comprehensive.
 
 Notes for Data: The above list is more numeric oriented. Other data types include laws and regulation, images and photographs, artworks, contracts and other legal documents, court decisions, articles, news articles, advertisements, maps, and more.
 
-**Other languages** {#other-languages}
+#### Other languages {#other-languages}
 
 Use [ELSST – European Language Social Science Thesaurus <i class="fas fa-external-link-alt"></i>](https://elsst.cessda.eu/) to find the above and other related terms in European languages.
 
@@ -230,36 +223,36 @@ Most people will reuse datasets that were not designed with all the variables, t
 
 This is guidance on collecting datasets generated by others to use in analysis. The question you must start with is who owns the data you want to use? Data is free when in public domain OR it is licensed using terms and conditions by the owners of the data with an open access (free) and fee-based (subscription required) license. Be very clear before you download or copy datasets to review what are the conditions to reuse that data.
 
-How to find sources and strategies in finding relevant data: [Library Resources;]{#_heading=h.o37vvmga9wtb) [Scholarly Works;]{##_heading=h.kkm7rsuaay4o) and [Newspapers, Magazines, & Trade Publications]{##_heading=h.os6wlposbtmu}
+In this guide: How to find sources and strategies in finding relevant data: [Library Resources;](/community/antiracism-resources-guide/b-sources-and-strategies/#1-resource-guides) [Scholarly Works;](/community/antiracism-resources-guide/b-sources-and-strategies/#7-scholarly-works) and [Newspapers, Magazines, & Trade Publications](/community/antiracism-resources-guide/b-sources-and-strategies/#8-newspapers-magazines-trade-publications)
 
 #### Public Domain {#public-domain}
 
 No restrictions to reuse not covered by copyright. In the U.S. works are in pubic domain because: (1) the copyright expires, (2) failure to properly renew a copyright, (3) the work is placed in the public domain deliberately by the copyright owner ([Sec. 105 <i class="fas fa-external-link-alt"></i>](https://www.law.cornell.edu/uscode/text/17/105)), and (4) the work was not of a type that can be protected by copyright ([Sec. 102b <i class="fas fa-external-link-alt"></i>](https://www.law.cornell.edu/uscode/text/17/102)). Most datasets from the U.S. Governments are in the public domain. Read methodology to learn about how it was collected or frequency of the data. Some IGO, Countries, and subnational also release their data in the public domain. It is more common to see data release as Open Access Data.
 
-In this guide: Sources and strategies to access public data: [Governmental Sources]{#_heading=h.1d0745w3hfvk}.
+In this guide: Sources and strategies to access public data: [Governmental Sources](/community/antiracism-resources-guide//b-sources-and-strategies/#2-governmental-sources).
 
 #### Open access data license {#open-access-data-license}
 
-You will have to agree to terms and conditions to access and use these data sources, sometimes having to pay a nominal amount of money. According to the [OpenDataHandbook <i class="fas fa-external-link-alt"></i>](https://opendatahandbook.org/guide/en/what-is-open-data/), open data is "**Availability and Access:** the data must be available as a whole as and at no more than a reasonable reproduction cost, preferably by downloading over the internet. The data must also be available in a convenient and modifiable form. **Re-use and Redistribution:** the data must be provided under terms that permit re-use and redistribution including the intermixing with other datasets. **Universal Participation:** everyone must be able to use, re-use and redistribute - there should be no discrimination against fields of endeavor or against persons or groups. For example, ‘non-commercial' restrictions that would prevent ‘commercial' use, or restrictions of use for certain purposes (e.g. only in education), are not allowed." Open Knowledge Foundation lists many types of [Open License models <i class="fas fa-external-link-alt"></i>](https://opendefinition.org/licenses/). Most common (in the US) is [Creative Commons <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/).
+You will have to agree to terms and conditions to access and use these data sources, sometimes having to pay a nominal amount of money. According to the [OpenDataHandbook <i class="fas fa-external-link-alt"></i>](https://opendatahandbook.org/guide/en/what-is-open-data/), open data is 
 
-In this guide: Sources and strategies to access open data: [Data Archives & Repositories]{#_heading=h.hgs3o9mmih09); [Non-Governmental Organizations]{##_heading=h.9e1qu6mmoqnv); and [Funders]{##_heading=h.v2kndz9ieah0}
+> "**Availability and Access:** the data must be available as a whole as and at no more than a reasonable reproduction cost, preferably by downloading over the internet. The data must also be available in a convenient and modifiable form. **Re-use and Redistribution:** the data must be provided under terms that permit re-use and redistribution including the intermixing with other datasets. **Universal Participation:** everyone must be able to use, re-use and redistribute - there should be no discrimination against fields of endeavor or against persons or groups. For example, ‘non-commercial' restrictions that would prevent ‘commercial' use, or restrictions of use for certain purposes (e.g. only in education), are not allowed."
+
+Open Knowledge Foundation lists many types of [Open License models <i class="fas fa-external-link-alt"></i>](https://opendefinition.org/licenses/). Most common (in the US) is [Creative Commons <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/).
+
+In this guide: Sources and strategies to access open data: [Data Archives & Repositories](/community/antiracism-resources-guide/b-sources-and-strategies/#3-data-archives-repositories); [Non-Governmental Organizations](/community/antiracism-resources-guide/b-sources-and-strategies/#5-think-tanks-research-centers-and-non-governmental-organizations); and [Funders](/community/antiracism-resources-guide/b-sources-and-strategies/#6-funders-and-grantees)
 
 #### Subscription required data license {#subscription-required-data-license}
 
 You will need to agree to terms and conditions and pay money to access and use these data sources. Most of the time the researcher who oversaw the collection of data will not have any rights because they collected it as a work for hire. Generally, the data is controlled by a publisher/owner of the data, which means you have to negotiate access and treatment of original, derived, and usage data. Access may be available across an institution paying for it or restricted to one user by username and password. Even the format might be negotiated: remote access over the internet or on proprietary media with the publisher's own software to be accessed on one agreed-upon computer. The publisher may require the licensee to maintain the confidentiality of its data, restrict how the data can be used, and even own any new data sets resulting from licensee research or limit the use of any analyst as a result of the data. This is why it is important to read the whole terms and conditions of the contract before you sign or agree to any licensed data.
 
-In this guide: Sources and strategies to access subscription required data: [Commercial Databases]{#_heading=h.38e5nir62gwy) and [Social Networks: Social Media, Community Listservs, Professional Associations]{##_heading=h.mo217jz9ka78}
+In this guide: Sources and strategies to access subscription required data: [Commercial Databases](/community/antiracism-resources-guide/b-sources-and-strategies/#4-commercial-databases) and [Social Networks: Social Media, Community Listservs, Professional Associations](/community/antiracism-resources-guide/b-sources-and-strategies/#9-social-networks)
 
 #### Further Resources {#further-resources}
 
 - Eaker, Christopher. (2021) Open Research Toolkit. Retrieved from [https://doi.org/10.17605/OSF.IO/A4FTW <i class="fas fa-external-link-alt"></i>](https://doi.org/10.17605/OSF.IO/A4FTW)
-
 - Boettcher, Jennifer and Dames, K. Matthew. "[Government Data as Intellectual Property: Is Public Domain the Same as Open Access? <i class="fas fa-external-link-alt"></i>](https://repository.library.georgetown.edu/handle/10822/1051174)" Online Searcher 42, no. 4, (July/August 2018): 42-48.
-
 - From Digital Curation Centre (DCC) - UK. Ball, A. (2014). "[How to License Research Data <i class="fas fa-external-link-alt"></i>](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)". DCC How-to Guides.
-
 - From Oregon State University - [IP & Licensing Data <i class="fas fa-external-link-alt"></i>](https://guides.library.oregonstate.edu/research-data-services/data-licensing-ip)
-
 - [Essays on How Different Countries View Race](https://iassistdata.org/community/antiracismresources-ig/essays/) (IASSIST)
 
 ### 5. Guidance for analyzing data {#5-guidance-for-analyzing-data}
@@ -268,10 +261,7 @@ When analyzing data, the researcher needs to understand that data is not inheren
 
 #### Resources {#resources}
 
-- [Ethics and Best Practices section of this guide <i class="fas fa-external-link-alt"></i>]{#_heading=h.d9n7cdnhl1m6}
-
+- [Ethics and Best Practices section of this guide](/community/antiracism-resources-guide/a-ethics-and-best-practices/)
 - <add link to IASSIST list "Tools + info for anti-racism across data-research lifecycle>
-
 - Nautilus Science Magazine: [How Eugenics Shaped Statistics <i class="fas fa-external-link-alt"></i>](https://nautil.us/how-eugenics-shaped-statistics-238014/)
-
 - Minnesota Compass Project: [Race data disaggregation: What does it mean? Why does it matter? <i class="fas fa-external-link-alt"></i>](https://www.mncompass.org/data-insights/articles/race-data-disaggregation-what-does-it-mean-why-does-it-matter)

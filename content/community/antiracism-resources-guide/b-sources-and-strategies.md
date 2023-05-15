@@ -3,7 +3,7 @@ draft = "false"
 title = "Guide to Finding Data about Racism and Ethnic Bias"
 type = "antiracism-resources"
 +++
-[Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> [Guide to...](/community/antiracism-resources-test/) >> B. Sources and Strategies
+[Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> [Guide to...](/community/antiracism-resources-guide/) >> B. Sources and Strategies
 
 ## B. Sources and Strategies {#b-sources-and-strategies}
 
@@ -15,7 +15,7 @@ In North America, librarians often make library guides. Many libraries use a pla
 
 In Europe, national social science data archives often acquire and disseminate data from research projects. See the next section on data archives and repositories on how to find and access data there.
 
-##### Example Library Guides {#example-library-guides)}
+#### Example Library Guides {#example-library-guides)}
 
 - University of North Carolina at Chapel Hill: [Data to Study Racial Inequity <i class="fas fa-external-link-alt"></i>](https://guides.lib.unc.edu/data2studyracialinequity)
 
@@ -163,7 +163,7 @@ When searching data archives and repositories, take time to learn a bit about th
 
 Leading archives and repositories are listed below, along with select examples of resources that may be of interest for research on race, ethnicity, and diversity issues. Web of Science Data Citation Index (subscription required) and [Google Dataset Search <i class="fas fa-external-link-alt"></i>](https://datasetsearch.research.google.com/) may be used to search data available in archives and repositories.
 
-#### Examples {#examples}
+#### Examples {#examples-data-archives-repositories}
 
 - [Inter-University Consortium for Political and Social Research (ICPSR) <i class="fas fa-external-link-alt"></i>](https://www.icpsr.umich.edu/web/pages/) , and its topical archives such as the [Resource Center for Minority Data <i class="fas fa-external-link-alt"></i>](https://www.icpsr.umich.edu/web/pages/RCMD/) , form the largest social science data archive in the world. Datasets such as [TransPop <i class="fas fa-external-link-alt"></i>](https://www.icpsr.umich.edu/web/ICPSR/studies/37938) (surveying transgender individuals) and the [Collaborative Multi-racial Post-election Survey <i class="fas fa-external-link-alt"></i>](https://www.icpsr.umich.edu/web/RCMD/studies/38040) (CMPS) are available here. While data is predominantly from the US, there are rich international collections as well.
 
@@ -205,7 +205,7 @@ Leading archives and repositories are listed below, along with select examples o
 
 Most of these will start with a single search box. It is recommended you use the advanced search to get to specific data needed. Each source will have its own controlled vocabulary/thesaurus. All support boolean logic, it's good to explore different words in your search string, for example: (african american OR black)
 
-#### Examples {#Examples}
+#### Examples {#examples-commercial-databases}
 
 - Sage's Data Planet (subscription required): offers interactive charting features as well as data retrieval
 
