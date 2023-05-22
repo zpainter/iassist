@@ -27,7 +27,7 @@ Please follow our Twitter feed and check out our page on Facebook, and see some 
 - [IASSIST on Facebook](https://www.facebook.com/iassistdata/)
 - [IASSIST on Linkedin](https://www.linkedin.com/groups/113890/)
 - [IASSIST on Flickr](http://www.flickr.com/search/?w=all&amp;q=iassist&amp;m=text)
-- [IASSIST on Mastodon](https://mstdn.plus/@iassist)
+- [IASSIST on Mastodon](https://mastodon.social/@iassistdata)
 
 ### Tweets by IASSISTDATA
 
