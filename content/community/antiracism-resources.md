@@ -1,6 +1,6 @@
 ---
 title: "Anti-Racism Resources"
-date: 2022-05-07
+date: 2023-05-23
 draft: false
 ---
 ## Anti-Racism Resources 
@@ -9,9 +9,9 @@ In the wake of the murders of George Floyd, Breonna Taylor and  Ahmaud Arbery in
 
 Resources gathered by members include:
 
-- [Sources of data](/DataSources-forRacialJustice.csv) (in .csv format) on a variety of topics but all documenting racism and the Black experience internationally.
+- [Sources of data](/community/antiracismresources-ig//DataSources-forRacialJustice.csv) (in .csv format) on a variety of topics but all documenting racism and the Black experience internationally.
 
-- [Articles/toolkits/rubrics](ArticlesToolsRubrics-forRacialJustice.csv) (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
+- [Articles/toolkits/rubrics](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
 
 - [A guide to finding data sources](https://iassistdata.org/community/antiracism-resources-guide/) when what you're seeking is not included in our list.
 
