@@ -9,16 +9,16 @@ In the wake of the murders of George Floyd, Breonna Taylor and  Ahmaud Arbery in
 
 Resources gathered by members include:
 
-- Sources of data on a variety of topics but all documenting racism and the Black experience internationally.</br> Download in [Comma-separated format](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) | [MS Excel format with color-coded topics](/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx) | [PDF format](/community/antiracismresources-ig/DataSources-forRacialJustice.pdf)
+- **Sources of data** on a variety of topics but all documenting racism and the Black experience internationally.</br> Download in [Comma-separated format](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) | [MS Excel format with color-coded topics](/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx) | [PDF format](/community/antiracismresources-ig/DataSources-forRacialJustice.pdf)
 
-- [Articles/toolkits/rubrics](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
+- [**Bibliography of articles/toolkits/rubrics**](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
 
-- [A guide to finding data sources](https://iassistdata.org/community/antiracism-resources-guide/) when what you're seeking is not included in our list.
+- [**A guide to finding data sources**](https://iassistdata.org/community/antiracism-resources-guide/) when what you're seeking is not included in our list.
 
-- [An open Zotero library of research about race in various countries](https://www.zotero.org/groups/4892474/iassist_anti-racism_resources_interest_group/items).
+- [An open **Zotero library of research about race in various countries**](https://www.zotero.org/groups/4892474/iassist_anti-racism_resources_interest_group/items).
 
 
-This last is material collected/identified by group members who have written essays to briefly summarize [varying national perspectives about collecting data by race](/community/antiracismresources-ig/essays).
+This last is material collected/identified by group members who have written **essays** to briefly summarize [varying national perspectives about collecting data by race](/community/antiracismresources-ig/essays).
 
 Finally, the Action Group is co-sponsoring with IASSIST's Professional Development Committee (PDC) webinars on related topics.  Our first one was held 30 November 2022, and focused on four countries' perspectives on race and ethnicity as represented in the essays.  Links to the slides and recording are available from the essays page.  We are actively seeking additional essay writers for other countries.  Please contact the chairs if you are interested.
 
