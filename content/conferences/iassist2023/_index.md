@@ -19,8 +19,9 @@ type = "conferences-test"
 
 <br />
 
-## **Registration is OPEN! Early Bird rates end May 1!** ##
-Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/registration/)** to get more information and register. 
+### Registration is **NOW CLOSED!**
+
+**We have limited spaces available and can still accept some registrations.  If you are interested in attending please email iassist@concentra-cms.com now for options.**
 
 <br />
 
@@ -29,10 +30,6 @@ Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferenc
 The theme of the conference is *Diversity in Research: Social Justice from Data*.
 
 The [**full program**](/conferences/iassist2023/conference-schedule/) is now available.
-
-**Registration**
-
-Registration is **now open**.  Go the **[registration page <i class="fas fa-external-link-alt"></i>](/conferences/iassist2023/registration/)** to get more information and register. Information on the Conference Hotel and rate is available on the **[hotel page](/conferences/iassist2023/conference-hotel-and-accommodation)**.
 
 Come and join us for the **Best. IASSIST. Ever.**
 

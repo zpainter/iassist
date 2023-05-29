@@ -6,10 +6,9 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-### Registration is **NOW OPEN!**
+### Registration is **NOW CLOSED!**
 
-<br /><a class="btn btn-template-main" href="https://concentracms.regfox.com/iassist2023">Register here! <i class="fas fa-external-link-alt"></i></a><br /><br />
-**Conference Workshops are now open to those not registering for the full conference ($50 each)**
+**We have limited spaces available and can still accept some registrations.  If you are interested in attending please email iassist@concentra-cms.com now for options.**
 
 Registration rates are posted below:
 
