@@ -9,7 +9,8 @@ In the wake of the murders of George Floyd, Breonna Taylor and  Ahmaud Arbery in
 
 Resources gathered by members include:
 
-- **Sources of data** on a variety of topics but all documenting racism and the Black experience internationally.</br> Download in [Comma-separated format](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) | [MS Excel format with color-coded topics](/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx) | [PDF format](/community/antiracismresources-ig/DataSources-forRacialJustice.pdf)
+- **Sources of data** on a variety of topics but all documenting racism and the Black experience internationally.</br> Download in [Comma-separated format](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) | [MS Excel format with color-coded topics](/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx) | [PDF format](/community/antiracismresources-ig/DataSources-forRacialJustice.pdf)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Suggest an additional data source](https://docs.google.com/forms/d/e/1FAIpQLSe0yocc2nueS4awjw5bwozLLAbAqCNnfqKbn995qg3MyG_D5Q/viewform).
 
 - [**Bibliography of articles/toolkits/rubrics**](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
 
