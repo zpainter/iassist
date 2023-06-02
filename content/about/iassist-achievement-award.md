@@ -9,9 +9,11 @@ draft = "false"
 +++
 Inaugurated in 1990 at the annual conference in Poughkeepsie, New York, this award recognizes the cumulative contributions of an individual to the organization and to the profession.
 
-
 |Recipients|&nbsp;|
 |:---|:---|
+| 2023                              | Karsten Boye Rasmussen                      |
+|                                   | *University of Southern Denmark, Denmark*|
+|&nbsp;|&nbsp;|
 | 2018                              | Ernie Boyko                      |
 |                                   | *Statistics Canada, Carleton University, Canada*|
 |                                   | Peter Burnhill                   |
@@ -78,6 +80,7 @@ The guidelines and procedures for this award are:
 -   During any given year, the award committee may elect to bestow as many IASSIST Achievement Awards as it deems appropriate. The award committee may elect not to bestow an IASSIST Achievement Award during any given year.
 -   Any member of the association, including a member of the award committee, may nominate an individual to be recipient of the IASSIST Achievement Award.
 -   The award will not be given for a single significant accomplishment, but will be awarded for a sustained contribution to the organization and the profession. The timing of the award should be at an appropriate point in the individual's career, such as retirement or a promotion. The award committee will determine the timing of the award.
--   The award committee will determine the most appropriate forum for the presentation of the award on behalf of IASSIST. -   The award committee has the authority to bestow the award posthumously.
+-   The award committee will determine the most appropriate forum for the presentation of the award on behalf of IASSIST.
+-   The award committee has the authority to bestow the award posthumously.
 -   The name **IASSIST Achievement Award** is subject to change. To adopt a new name, the award committee must propose the name to the Administrative Committee and General Assembly in conjunction with an annual conference.
 -   Discussions among the award committee members will not be publicly reported. However, award committee member(s) are at liberty to discuss privately their discussions with any member of the Administrative Committee.

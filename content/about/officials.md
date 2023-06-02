@@ -17,13 +17,13 @@ Voting members of the Administrative Committee have been marked with *.
 
 **President** *
 
-San Cannon,
-sancan99 [ at ] gmail.com
+Robin Rice, 
+robin.rice [ at ] ed.ac.uk
 
 **Vice-President** *
 
-Robin Rice,
-robin.rice [ at ] ed.ac.uk
+Bobray Bordelon, 
+bordelon [ at ] princeton.edu
 
 **Secretary** *
 
@@ -54,8 +54,7 @@ jane.fry [ at ] carleton.ca
 
 **Europe** *
 
-Anne Sofie Fink Kjeldgaard,
-annesofiefink [ at ] gmail.com
+David Schiller
 
 **USA** *
 
@@ -65,7 +64,29 @@ stulley [ at ] clev.frb.org
 
 ## Members at Large (by region)
 
-**Term from 2021-2025**
+### Term from 2023-2027
+
+**Canada** *
+
+Dylanne Dearborn,
+dylanne.dearborn [ at ] utoronto.ca
+
+**Europe** *
+
+Deborah Wiltshire
+
+Wolfgang Zenk-Möltgen,
+wolfgang.zenk-moeltgen [ at ] gesis.org
+
+**USA** *
+
+Michael J. Beckstrand
+
+Meryl Brodsky
+
+Ashley Jester
+
+### Term from 2021-2025
 
 **Canada** *
 
@@ -88,40 +109,12 @@ skarcher [ at ] maxwell.syr.edu
 Sophia Lafferty-Hess,
 sophia.lafferty.hess [ at ] duke.edu
 
-
-**Term from 2019-2023**
-
-**Canada** *
-
-Dylanne Dearborn,
-dylanne.dearborn [ at ] utoronto.ca
-
-**Europe** *
-
-David Schiller,
-david.schiller [ at ] htwchur.ch
-
-Wolfgang Zenk-Möltgen,
-wolfgang.zenk-moeltgen [ at ] gesis.org
-
-**USA** *
-
-Bobray Bordelon,
-bordelon [ at ] princeton.edu
-
-Ashley Jester,
-
-
-Ryan Womack,
-rwomack [ at ] scarletmail.rutgers.edu
-
-
 ## Ex-Officio Officers
 
 **Past President** *
 
-Tuomas J. Alaterä,
-tuomas.alatera [ at ] tuni.fi
+San Cannon,
+sancan99 [ at ] gmail.com
 
 **Editor, Quarterly**
 
@@ -135,8 +128,7 @@ zwp [ at ] stanford.edu
 
 **Archivist**
 
-Kelly Chatain,
-kchatain [ at ] umich.edu
+Open
 
 **Regional Treasurer (Canada)** 
 
@@ -172,13 +164,13 @@ Amanda Tickner, atickner [ at ] msu.edu
 
 **Elections Committee**
 
-Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
+San Cannon, sancan99 [ at ] gmail.com
 
 **Communications Committee**
 
 Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
-**Conference Program Committee 2023**
+**Conference Program Committee 2024**
 
 TBA
 
@@ -205,5 +197,6 @@ term| | |
 2007-2011 | Melanie Wright |  Visit the membership database <!--melanie [ at ] essex.ac.uk --> |
 2011-2015 | Bill Block |  block [ at ] cornell.edu |
 2015-2019 | Tuomas J. Alaterä |  tuomas.alatera [ at ] tuni.fi |
+2019-2023 | San Cannon | sancan99 [ at ] gmail.com |
 
 

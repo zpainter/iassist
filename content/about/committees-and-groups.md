@@ -15,42 +15,40 @@ IASSIST Standing Committees are responsible for the day-to-day running of the or
 
 #### [Administrative Committee](/about/officials) {#administrative-committee}
 The Administrative Committee is the executive body of IASSIST. It implements policies, develops future directions, and coordinates activities for the organization.	
-- **2021-2023 Chair:** *San Cannon, sancan99 [ at ] gmail.com*
+- **2023-2025 Chair: *Robin Rice, robin.rice [ at ] ed.ac.uk***
 
 #### Constitutional Review Committee {#constitutional-review-committee}
 Responsible for receiving proposals for the enacting, amending, and repealing of the by-laws of IASSIST and for preparing revised articles and by-laws for members' approval, as well as for undertaking an annual review of the constitution and by-laws and proposing amendments as it deems appropriate.
-- **2021-2023 Chair:** *Ann Green, green.ann [ at ] gmail.com*
+- **2023-2025 Chair: *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi***
 
 #### Professional Development Committee {#professional-development-committee}
-Responsible for promoting the development of professional skills of
-    IASSIST members through education, training, information, networking and mentoring.    
-- **2022-2024 Co-Chairs:** *Sarah Young sarahy [ at ] andrew.cmu.edu* and *Bobray Bordelon, bordelon [ at ] princeton.edu* (2022-2023)
+Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
+- **2023-2025 Co-Chairs: *Sarah Young sarahy [ at ] andrew.cmu.edu*** (2022-2023) and ***Wei Yin***
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
-- **2022-2024 Chair:** *Florio Arguillas, foa2 [ at ] cornell.edu* and *Sarah Young sarahy [ at ] andrew.cmu.edu*
+- **2022-2024 Chair: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young sarahy [ at ] andrew.cmu.edu***
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
-- **2021-2023 Chair:** *Amanda Tickner, atickner [ at ] msu.edu*
+- **2023-2025 Chair: *Amanda Tickner, atickner [ at ] msu.edu***
 
 #### Elections Committee {#elections-committee}
 Responsible for receiving nominations for the election of the Administrative Committee, the Regional Secretaries, and the officers of IASSIST, distributing ballots and electoral information according to regulation, tallying the ballots, reporting on the results of the tally, and for recommending alterations in procedures. This committee is chaired by the immediate Past President. Administrative Committee members at large not up for election assist the chair. 
-- **2021-2023 Chair:** *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi*
+- **2023-2025 Chair: *San Cannon, sancan99 [ at ] gmail.com***
 
 #### Communications Committee {#communications-committee}
 Responsible for enabling productive and transparent communication among members and between the organisation and the broader community. Scope includes delivering publications such as the IASSIST Quarterly, developing and maintaining the organisation's communications mechanisms; oversight of the membership discussion list; and moderating social networking spaces which use the IASSIST brand name. The Committee shall advise other committees and groups on the use of appropriate communication tools for online collaboration and solicit content from them for public channels. This Committee's membership shall include the IQ Editor and the Web Editor as well as reviewers and web section editors. 
 
-- **2021-2023 Chair:** *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi*
-- **2019-2023 IQ Editor:** *Karsten Boye Rasmussen, kbr [ at ] sam.sdu.dk*
-- **2019-2023 Web Editor:** *Zac Painter. zwp [ at ] stanford.edu*
+- **2023-2025 Chair: *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi***
+- **2023-2027 IQ Co-Editors: *Michele Hayslett, Ofira Schwartz-Soicher***
+- **2023-2027 Web Editor: *Zac Painter. zwp [ at ] stanford.edu***
 - The [IASSIST Web Team](/about/web-team)
 
 #### [Programme Committee](/conferences/iassist2023/conference-committees) {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events. 
 
-- **2022-2023 Conference Co-Chairs:** *Jonathan Bohan, Kevin Manuel, Anja Perry*   
-
+- **2022-2023 Conference Co-Chairs: *Jonathan Bohan, Kevin Manuel, Anja Perry***   
 
 
 ## Action Groups {#action-groups}
@@ -72,7 +70,7 @@ Read more about IASSIST Interest Groups and how to establish one in the [Interes
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-- **2022-2023 Co-Chairs:** *Jennie Murack, murack [ at ] mit.edu and Amanda Tickner, atickner [ at ] msu.edu*
+- **2032-2024 Co-Chairs: *Jennie Murack, murack [ at ] mit.edu*** and ***Amanda Tickner, atickner [ at ] msu.edu***
 
 #### [Qualitative Social Science and Humanities Data Interest Group](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
 The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include 	 
@@ -80,12 +78,13 @@ The central purpose of the IASSIST Qualitative Social Science and Humanities Dat
 2. providing opportunities for professional development through training, and 
 3. collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members). 	 
 
-- **2022-2023 Co-Chairs:** *Sebastian Karcher, skarcher [ at ] maxwell.syr.edu* and *Alesia Montgomery, alesiam [ at ] stanford.edu*
+- **2023-2024 Co-Chairs: *Maureen Haaker, Cheryl Annette Thompson, Jessica Hagman*** and ***Hilary Bussell***
 
-#### [Anti-Racism Resources Interest Group](/community/antiracism-resources) {#anti-racism-resources-interest-group}
-The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
+#### [Diversity, Equity, and Inclusion Data Resources Interest Group](/community/antiracism-resources) {#anti-racism-resources-interest-group}  
 
-- **2022-2023 Chair:** *Michele Hayslett, michele_hayslett [ at ] unc.edu* and *Anja Perry*
+(Formerly Anti-Racism Resources Interest Group) The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
+
+- **2023-2024 Chair: *Anja Perry*** and ***Abigail Goben***
 
 ### Previous interest group resources
 
