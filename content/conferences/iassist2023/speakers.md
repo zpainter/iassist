@@ -60,7 +60,7 @@ As the City of Philadelphia continues to make history as a progressive leader fo
   </div>
 </div>
 
-### [Full Program Schedule Now Available](/conferences/iassist2023/full_program/)
+### [Full Program Schedule](/conferences/iassist2023/full_program/)
 
 <br /><a class="btn btn-template-main" href="/conferences/iassist2023/full_program/">Full Program <i class="fas fa-external-link-alt"></i></a><br /><br />
 

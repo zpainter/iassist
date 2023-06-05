@@ -10,9 +10,7 @@ type = "conferences-test"
 
 ### **Submissions have closed**
 
-**Notifications for submitted presentations, panels, papers, posters, workshops, and lightning talks will be coming soon.**
-
-The theme of this year’s conference is 
+The theme of the 2023 conference was
 
 ### **Diversity in Research: Social Justice from Data**
 
@@ -26,8 +24,6 @@ All data topics from data professionals related to *data archiving, data managem
 - Indigenous and racialized (BIPOC) peoples
 - LGBTQ+ peoples
 - Women’s health and rights
-
-Questions about presentation submissions may be sent to the Program Chairs (Anja Perry, Kevin Manuel, and Jonathan Bohan) at programme@lists.iassistdata.org. 
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. NOTE: Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can’t understand what a proposal is about, it will be rejected.
 

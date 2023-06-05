@@ -6,7 +6,7 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-### [Full Program Schedule Now Available](/conferences/iassist2023/full_program/)
+### [Full Program Schedule](/conferences/iassist2023/full_program/)
 
 <br /><a class="btn btn-template-main" href="/conferences/iassist2023/full_program/">Full Program <i class="fas fa-external-link-alt"></i></a><br /><br />
 
@@ -16,8 +16,8 @@ type = "conferences-test"
 
 #### Conference schedule at a glance
 
-Presentations are held during the Concurrent Sessions, with four presentations in each session.
-Events in *Italics* are in-person only.  Other events will be hybrid of in-person and online.
+Presentations were held during the Concurrent Sessions, with four presentations in each session.
+Events in *Italics* were in-person only.  Other events were hybrid of in-person and online.
 
 Time|Tuesday|Wednesday|Thursday|Friday|
 ---|---|---|---|---|
@@ -50,4 +50,4 @@ Time|Tuesday|Wednesday|Thursday|Friday|
    |   |   |   |   |
 18:00-21:00|**_Reception_** (18:00-20:00)|Dinner on your own|**_Banquet_**|
 
-The IASSIST Administrative Committee Meeting will be held on Monday, May 29, from 11am-3pm.
+The IASSIST Administrative Committee Meeting was held on Monday, May 29, from 11am-3pm.
