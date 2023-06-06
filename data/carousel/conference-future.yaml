@@ -5,5 +5,4 @@ description: >
     <p class="carouselText">Social Justice from Data<br /></p>    
     <p class="carouselText">Philadelphia, PA, USA<br /></p>
     <p class="carouselText">May 30 - June 2, 2023<br /></p>
-    <p class="carouselText"><a href="https://iassistdata.org/conferences/iassist2023/registration/">Happening now!</a></p>
-image: "img/carousel/iassist2023-2.png"
+  image: "img/carousel/iassist2023-2.png"
