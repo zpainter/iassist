@@ -8,7 +8,9 @@ type = "conferences-test"
 
 ### Registration is **NOW CLOSED!**
 
-The prior registration rates are posted below:
+**We have limited spaces available and can still accept some registrations.  If you are interested in attending please email iassist@concentra-cms.com now for options.**
+
+Registration rates are posted below:
 
 **Full Conference Registration**
 

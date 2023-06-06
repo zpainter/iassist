@@ -33,6 +33,12 @@ type = "conferences-test"
 
 **Birds of a Feather Coordinator**: Robin Rice
 
+</br>
+
+**Questions** about presentation submissions or the scientific program in general may be sent to the Program Chairs at *programme ( at ) lists.iassistdata.org.*
+
+</br>
+
 ### Local Arrangements Committee
 
 **Bobray Bordelon**, Princeton University, USA
@@ -44,4 +50,4 @@ type = "conferences-test"
 **Ryan Womack**, Rutgers University, USA
 : Ryan has been at Rutgers University in New Brunswick, New Jersey, since 1999, having first served as Business & Economics Librarian, and as Data Librarian since 2008.  He is currently serving as Head of the New Brunswick Libraries Research Services Unit.  He has authored articles in *PLOS*, the *Journal of Academic Librarianship*, *Library and Information Science Research*, and of course, *IASSIST Quarterly*. He holds an MA in Economics from Penn, an MSLS from the University of North Carolina at Chapel Hill, and an MS in Statistics from Rutgers. His latest project is the development of a guide to gender data resources for Central Asia and Mongolia.
 
-The Local Arrangements Committee worked with [Concentra Conference Management Services <i class="fas fa-external-link-alt"></i>](https://www.concentra-cms.com/).
+The Local Arrangements Committee is working with [Concentra Conference Management Services <i class="fas fa-external-link-alt"></i>](https://www.concentra-cms.com/).

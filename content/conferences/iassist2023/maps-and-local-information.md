@@ -6,7 +6,7 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-The conference was be centered at the Philadelphia Marriott Old City.
+The conference will be centered at the Philadelphia Marriott Old City.
 
 <div class="map" style="padding:0">
     <style>
