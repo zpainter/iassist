@@ -6,7 +6,7 @@ location = "Philadelphia, PA, USA"
 type = "conferences-test"
 +++
 
-**Frequently asked questions related to the Conference were answered here.**
+**Frequently asked questions related to the Conference will be answered here as they develop.**
 
 ### Emergency Contact Details
 
@@ -107,6 +107,10 @@ All Conference Registrants will be added to the Conference Listserv to receive r
 ### Will it be the best IASSIST ever?
 
 **Yes, it will be the best IASSIST ever!**
+
+For further inquiries Email:
+Program Co-Chairs: programme@lists.iassistdata.org
+Event Organizers: iassist@concentra-cms.com 
 
 
 

@@ -19,13 +19,19 @@ type = "conferences-test"
 
 <br />
 
+### Registration is **NOW CLOSED!**
+
+**We have limited spaces available and can still accept some registrations.  If you are interested in attending please email iassist@concentra-cms.com now for options.**
+
+<br />
+
 **Program**
 
-The theme of the conference was *Diversity in Research: Social Justice from Data*.
+The theme of the conference is *Diversity in Research: Social Justice from Data*.
 
 The [**full program**](/conferences/iassist2023/conference-schedule/) is now available.
 
-It was the **Best. IASSIST. Ever.**
+Come and join us for the **Best. IASSIST. Ever.**
 
 **Call for Papers and Workshops**
 
@@ -33,7 +39,7 @@ It was the **Best. IASSIST. Ever.**
  
 ### Indigenous Land Acknowledgement
 
-We openly recognize the Lenape Indian tribe as the original inhabitants of eastern Pennsylvania who were forcibly removed from their homelands, a territory known as “Lenapehoking,” Many who remained were forced into hiding or to assimilate. We acknowledge the Lenape people as the indigenous stewards of their homelands and also the spiritual keepers of the Lenape Sipu, or Delaware river, and call attention to their current efforts to spread awareness of their traditions and cultures. We do hereby commit to actively support our Lenape sisters and brothers in whatever way we are able, helping to maintain the cultural identity of the Lenape Nation in Philadelphia as well as Lenape Nations in Pennsylvania, Delaware, New Jersey, Oklahoma, Wisconsin, and Ontario. 
+We recognize and acknowledge that the site of this conference stands on the Indigenous territory known as “Lenapehoking,” the traditional homelands of the Lenape, also called Lenni-Lenape or Delaware Indians. These are the people who, during the 1680s, negotiated with William Penn to facilitate the founding of the colony of Pennsylvania. Their descendants today include the Delaware Tribe and Delaware Nation of Oklahoma; the Nanticoke Lenni-Lenape, Ramapough Lenape, and Powhatan Renape of New Jersey; and the Munsee Delaware of Ontario.
 
 [Further information on the Indigenous Peoples of Philadelphia <i class="fas fa-external-link-alt"></i>](https://www.ala.org/aboutala/offices/diversity/philadelphia-indigenous)
 
