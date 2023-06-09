@@ -9,25 +9,21 @@ type = "conferences-test"
 
 {{< figure src="/img/conferences/annual/Philadelphia_skyline_from_South_Street_Bridge_January_2020.jpg" alt="The skyline of Philadelphia, Pennsylvania viewed from the South Street Bridge over the Schuylkill River" title="" width="800" >}}
 
-# 48th Annual Conference of IASSIST
-
-## Diversity in Research: Social Justice from Data
+## 48th Annual Conference of IASSIST
 
 ### Philadelphia, PA, USA, May 30 - June 2, 2023
 
 **Host institution: IASSIST with representation from the University of Pennsylvania, Princeton University, Rutgers University, and Temple University.**
 
-<br />
+### Program
 
-**Program**
-
-The theme of the conference was *Diversity in Research: Social Justice from Data*.
+The theme of the conference was ***Diversity in Research: Social Justice from Data***.
 
 The [**full program**](/conferences/iassist2023/conference-schedule/) is now available.
 
 It was the **Best. IASSIST. Ever.**
 
-**Call for Papers and Workshops**
+#### Call for Papers and Workshops
 
  The [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) describes the theme in further detail. **Submissions have closed and notifications of acceptance have been sent out**. 
  
@@ -40,9 +36,9 @@ We openly recognize the Lenape Indian tribe as the original inhabitants of easte
 <hr />
 <br />
 
-### Sponsors
+## Sponsors
 
-#### **Platinum**
+### **Platinum**
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
@@ -71,7 +67,7 @@ We openly recognize the Lenape Indian tribe as the original inhabitants of easte
   </div>
 </div>
 
-#### **Gold**
+### **Gold**
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
@@ -100,7 +96,7 @@ We openly recognize the Lenape Indian tribe as the original inhabitants of easte
   </div>
 </div>
 
-#### **Silver**
+### **Silver**
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
@@ -138,7 +134,7 @@ We openly recognize the Lenape Indian tribe as the original inhabitants of easte
   </div>
 </div>
 
-#### **Bronze**
+### **Bronze**
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>

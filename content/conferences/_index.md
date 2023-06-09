@@ -30,7 +30,7 @@ Philadelphia, PA, USA, May 30 - June 2, 2023
 
 3rd IASSIST Africa Regional Workshop Pretoria, South Africa, October 18-20, 2023.
 
-<a class="btn btn-template-main" href="./iassist-africa-2023/">Africa Workshop</a> 
+<a class="btn btn-template-main" href="./iassist-africa-2023/">To Africa Workshop</a> 
 
 </div>
 
