@@ -87,3 +87,9 @@
   
 - id: onZenodo
   translation: "on Zenodo"
+  
+- id: viewRecording
+  translation: "View recording of"
+  
+- id: onYouTube
+  translation: "on YouTube"

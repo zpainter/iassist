@@ -36,14 +36,20 @@
                           <button> Toggle abstract visibility </button>
                           {{ range $s := $data.sessions }}
                             <div class="conference-session"> <h4>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h4></div>
+                              {{ if $s.video }}
+                                <div class="conference-doi">&raquo; <a href="https://www.youtube.com/watch?v={{ $s.video }}" title="{{ i18n "viewRecording" }} '{{ $s.title }}' {{ i18n "onYouTube" }}" target="_blank">Recording on YouTube</a></div>
+                              {{ end }}
                             {{ range $p := $s.presentations }}
-                              <div class="conference-presentation"><h5 style="color:#555;">{{ $p.title }}</h5></div>
+                              <div class="conference-presentation"><h5 style="color:#555;font-size:1.05em;">{{ $p.title }}</h5></div>
                               {{ range $pr := $p.presenters }}
                                 <div class="conference-presenters"><em>{{ $pr.name }} ({{ $pr.institution }})</em> </div>
                               {{ end }}
                                 <div style="display:none; padding: .5em 0 0 1em;" class="abstract"> {{ $p.abstract }} </div>
                               {{ if $p.doi }}
-                                <div class="conference-doi">&raquo; <a href="https://doi.org/{{ $p.doi }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">https://doi.org/{{ $p.doi }}</a></div>
+                                <div class="conference-doi">&raquo; <a href="https://doi.org/{{ $p.doi }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">doi.org/{{ $p.doi }}</a></div>
+                              {{ end }}
+                              {{ if $p.video }}
+                                <div class="conference-doi">&raquo; <a href="https://www.youtube.com/watch?v={{ $p.video }}" title="{{ i18n "viewRecording" }} '{{ $p.title }}' {{ i18n "onYouTube" }}" target="_blank">Recording on YouTube</a></div>
                               {{ end }}
                               <p/>
                             {{ end }}
