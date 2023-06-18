@@ -9,10 +9,12 @@ draft = "false"
 +++
 According to [Article VIII of the IASSIST Constitution](/about/iassist-constitution#article8):
 
-"The annual Business Meeting of the General Assembly shall be held at a time and place chosen by the Administrative Committee and in conjunction with the [annual conference](/conferences/archive) of the Association."
+"The annual Business Meeting of the General Assembly shall be held at a time and place chosen by the Administrative Committee." Most often this happens in conjunction with the [annual conference](/conferences/archive) of the Association.
 
 The years for which minutes are available are listed below.
 
+-   [2022 (Gothenburg, Sweden)](/about/general-assembly-minutes-2022) 
+-   [2021 (Virtual General Assembly)](/about/general-assembly-minutes-2021) 
 -   [2020 (Virtual General Assembly)](/about/general-assembly-minutes-2020) 
 -   [2019 (Sydney, Australia)](/about/general-assembly-minutes-2019) 
 -   [2018 (Montréal, Canada)](/about/general-assembly-minutes-2018) 
