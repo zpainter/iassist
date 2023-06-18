@@ -48,7 +48,7 @@ Responsible for enabling productive and transparent communication among members 
 #### [Programme Committee](/conferences/iassist2023/conference-committees) {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events. 
 
-- **2022-2023 Conference Co-Chairs: *Jonathan Bohan, Kevin Manuel, Anja Perry***   
+- **2023-2024 Conference Co-Chairs: *TBA***   
 
 
 ## Action Groups {#action-groups}
