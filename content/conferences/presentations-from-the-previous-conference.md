@@ -8,7 +8,23 @@ All speakers are strongly encouraged to upload their presentation files to the C
 
 The conference archive is where you can find archived programs and presentation files. Because of the irregular conference rotation due to the pandemic, this page still has links to conference sessions from 2019, not just the most recent conference.
 
-In some cases, the entire conference programme with presentations may be available in Drobbox as a zip file.
+<img src="/img/conferences/annual/Philadelphia_skyline_from_South_Street_Bridge_January_2020.jpg" alt="" style="width:600px;"/>
+
+### 48th Annual Conference of IASSIST
+###  Diversity in Research: Social Justice from Data 
+#### Philadelphia, PA, USA 30 May-2 June 2023
+**Host institution:**  IASSIST with representation from the University of Pennsylvania, Princeton, Rutgers, and Temple University
+
+<a class="btn btn-template-main" href="/conferences/iassist2023/" target="">Visit the Conference website</a>
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2023/search?page=1&size=20&sort=conference_session" target="_blank">2023 Conference presentations (Zenodo) <i class="fas fa-external-link-alt"></i></a>
+
+<!--
+<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iSmUFsNkyevdZSSqF2AKjSA" target="_blank">2022 Conference recordings (YouTube) <i class="fas fa-external-link-alt"></i></a>
+-->
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ![IASSIST 2022 logo](/img/conferences/iassist-logo-2022.jpg "")
 
