@@ -232,7 +232,7 @@
         {
           "title": "Introducing RDM Best Practices into Advanced Research Computing Workflows",
           "abstract": "Increasingly, academics are turning to high performance computing (HPC) to achieve their research goals. What is less clear is how, or even if, these researchers incorporate research data management (RDM) best practices into their advanced research computing (ARC) workflows. This presentation draws from a variety of RDM and HPC/ARC sources to (i) contextualize this problem, (ii) spark discussion of HPC/ARC-aligned RDM best practices, and (iii) identify gaps in need of addressing. The overarching goal is to seed the development of practical training materials that can be tailored to help researchers, HPC/ARC support professionals, and Data Librarians/Specialists make data emerging from HPC/ARC research FAIR.",
-          "doi": "",
+          "doi": "10.5281/zenodo.8063112",
           "video": "",
           "presenters": [
             {
@@ -564,242 +564,6 @@
       ]
     },
     {
-      "title": "Poster Session",
-      "day": "May 30, 2023",
-      "abstract": "",
-      "moderator": "",
-      "chair": "",
-      "video": "",
-      "presentations": [
-        {
-          "title": "Development of the Self-Archiving System in the Social Science Japan Data Archive",
-          "abstract": "Since its launch in 1996, the Social Science Japan Data Archive (SSJDA) has been collecting and storing raw data provided by depositors that are obtained mainly from social surveys. These data are then widely shared for academic purposes, or secondary analysis in particular. Although SSJDA has long been responsible for creating the metadata, a new self-archiving system was developed recently that allows the depositors to register their raw data and create the metadata by themselves. This self-archiving system is expected to improve the efficiency of data archiving and sharing in the long run; however, there are also several challenges to overcome. For example, many depositors, including academic researchers, are unexperienced in creating the metadata in a FAIR manner. Therefore, SSJDA is also planning to provide training programs, such as self-learning materials to the depositors.",
-          "doi": "10.5281/zenodo.8015200",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Megumi Ikeda",
-              "institution": "The University of Tokyo"
-            },
-            {
-              "name": "Nobutada Yokouchi",
-              "institution": "The University of Tokyo"
-            },
-            {
-              "name": "Satoshi Miwa",
-              "institution": "The University of Tokyo"
-            }
-          ]
-        },
-        {
-          "title": "Central Asia and Mongolia Gender Data Portal",
-          "abstract": "The Central Asia and Mongolia Gender Data Portal (CAMGDP) is a data portal created by Rutgers University - New Brunswick Libraries to assist scholars, academics, activists, and students in finding gender-related data on Central Asia and Mongolia. We compile quantitative and qualitative sources, informational websites, media publications, and organizations that work in Kazakhstan. Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and Mongolia. Our focus on gendered data comes from personal research interests and observations of the lack of gender-related data portals on the countries of Central Asia and Mongolia, countries that share similar cultural, political, and economic influences. Given the rising interest in the region, our goal is to provide a guide to everyone committed to a non-violent knowledge production on Central Asia and Mongolia. We aim to not only collect a list of sources as a starting point for research but also to assist in the critical analysis of the gender-related data and publications available on Central Asia and Mongolia. While INGOs and their contribution are important, our portal prioritizes local initiatives and grassroots organizations in an effort to give them the same credit and exposure as their international and foreign counterparts often receive in Western scholarship and media. By creating a comprehensive data portal with relevant reflections, remarks, and facts, we hope to help researchers find local, regional, and international initiatives, publications, and secondary sources and engage in a more horizontal work with Central Asian and Mongolian communities. This poster describes initial work on development of the portal and initial research on Kazakhstan, the first country to be profiled.",
-          "doi": "10.5281/zenodo.8003791",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Ryan Womack",
-              "institution": "Rutgers University"
-            },
-            {
-              "name": "Aizada Arystanbek",
-              "institution": "Rutgers University"
-            }
-          ]
-        },
-        {
-          "title": "Beyond Data Literacy: Helping Nontraditional Students Get “Ready4Research”",
-          "abstract": "The NavCal program at UC Berkeley does exciting work, assisting incoming nontraditional students in navigating the campus through a supportive, hands-on approach. “Non-traditional” includes low-income, first-generation college attendee, transfer and other students who may have challenges adjusting to a large, complex research university environment. A large majority of NavCal participants go on to gain acceptance into research fellowships and nationally-recognized graduate school pipeline programs. The Library has a positive partnership with NavCal and a strong interest in campus-wide information and data literacy, so it made sense for the library to offer customized data literacy workshops for NavCal students… until an advisor said, “what they really need is to get broader training in getting ready to take on research assistant positions.” From this idea, Ready4Research was born: R4R is a 3-hour workshop to support students in learning about and getting ready to participate in research, as research assistants and researchers themselves, with data and data literacy embedded into the content. Since its initial offering in Summer, 2021, Ready4Research has been offered each semester, to positive reviews and robust attendance. Aiming broadly at social sciences research, topics include: how research happens, what kinds of jobs research assistants do, what kind of data they may encounter, some approaches to analyzing and visualizing data, deciding what kinds of jobs to apply for, how to apply for them, how to develop their own research content to present and publish, tips from NavCal alumni, and more. Attendees say that the exposure to the world of research at Berkeley (Cal) has opened their eyes to new possibilities for their academic careers. The workshop has also been revised for different formats and audiences, and ideas for further dissemination are in the works. This poster will outline the program, its development over time, and future plans for improvement.",
-          "doi": "10.5281/zenodo.8015074",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Ann Glusker",
-              "institution": "University of California, Berkeley"
-            }
-          ]
-        },
-        {
-          "title": "Developing an Interactive Data Deposit Decision Tree",
-          "abstract": "A number of resources exist that guide researchers to select an appropriate repository in which to deposit their research data. Most focus repository selection through a specific lens, such as funder requirements, FAIR principles, or sensitive data. This project represents an attempt to develop one interactive tool that lets user needs determine the best path. Three objectives guided us: (1) our Decision Tree needed to account for institutional and national contexts, including funder requirements, legal and ethical frameworks, and institutional practices; (2) we wanted to help researchers make informed decisions about depositing their data and cultivate a deeper understanding of the many factors that might impact their choice; and (3) we wanted to develop a flexible and interactive tool that responds to researchers’ varying priorities and motivations. Our Decision Tree simultaneously helps researchers make the right data repository selection, introduces users to the research data landscape, and streamlines consultation processes and library workflows.",
-          "doi": "10.5281/zenodo.8010996",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Leslie Barnes",
-              "institution": "University of Toronto"
-            },
-            {
-              "name": "Dylanne Dearborn",
-              "institution": "University of Toronto"
-            },
-            {
-              "name": "Jasmine Lefresne",
-              "institution": "University of Toronto"
-            },
-            {
-              "name": "Steve Marks",
-              "institution": "University of Toronto"
-            }
-          ]
-        },
-        {
-          "title": "Get Data Ready! with GSU: Georgia State University Library's Data Literacy Skills Digital Badges Micro-Credentialing Program",
-          "abstract": "In Spring 2022, Georgia State University Library's Research Data Services Department launched the GSU Data Ready! Badges data literacy micro-credentialing initiative: https://lib.gsu.edu/data-ready. In this poster session, we will present: (1) the content of our two badges tracks — data literacy foundations and software/coding training [14 separate badges]; (2) the online platforms [Canvas and Badgr] used for automated badge earning and distribution; (3) assessment of program success; and (4) ways in which other institutions might develop similar initiatives. The poster session format will optimize attendee engagement via extended Q&A and demonstration opportunities.",
-          "doi": "10.5281/zenodo.8015181",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Mandy Swygart-Hobaugh",
-              "institution": "Georgia State University"
-            },
-            {
-              "name": "Halley Riley",
-              "institution": "Georgia State University"
-            },
-            {
-              "name": "Ashley Rockwell",
-              "institution": "Georgia State University"
-            }
-          ]
-        },
-        {
-          "title": "Introducing the MAST Methodology - a new framework for developing metadata management capability",
-          "abstract": "As more academic fields and government sectors experience the value of data, the need for increased data literacy and data librarianship has grown dramatically. However, the necessary skills for data and metadata management remain concentrated within specialised data management areas. Additionally, some novice data users from underrepresented communities may not have the access to tools, resources and networks to develop capability for data documentation. To meet the needs of the growing diversity of data users, new methods are required to support the democratisation of knowledge and capability to support data librarianship.  Based on research and experience with data governance across 15 Government departments and Academic organisations this talk introduces the MAST Methodology - an operational framework for building sustainable data culture.  Building on existing data governance frameworks, the MAST Methodology provides practitioners with 4 major principles - Metadata, Analysis, Support & Teamwork - to build skills and organisational support for data management. This is extended by examining how change management for data can deliver IDEAL metadata through the steps of Inventory, Documentation, Endorsement, Auditing and Leadership to develop a pragmatic approach to build a sustainable data culture.  In this poster, we will cover:  * Existing challenges in change management and education in data governance * The four principles of the MAST Methodology and how they improve data governance capability especially among novice practitioners and underrepresented fields * The role of specialist teams in developing a culture of peer review to support knowledge development and retention for operationalised data governance * A breakdown of how the IDEAL metadata framework rapidly improves data quality, along with low- or no-cost practical steps to support under-resourced communities Lastly, we discuss how the Aristotle Metadata Registry implements the MAST Methodology with examples demonstrating how these tools improve data quality and increase engagement with metadata.",
-          "doi": "",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Samuel Spencer",
-              "institution": "Aristotle Metadata"
-            },
-            {
-              "name": "Lauren Eickhorst",
-              "institution": "Aristotle Metadata"
-            }
-          ]
-        },
-        {
-          "title": "Research Spotlights: Introducing a tool for showcasing the visibility of diverse populations in scholarly publications",
-          "abstract": "The ICPSR Bibliography of Data-related Literature is a freely-available and continually updated database of over 105,000 citations that link data to primary and secondary analyses by researchers across the world. Since 2020, the Bibliography’s Information Resource staff has been creating instructional resources called Research Spotlights, using the Bibliography as their source to synthesize the findings about one or several related topics. These Research Spotlights show how scholars are using data available from the Inter-university Consortium for Political and Social Research (ICPSR) in their analyses. This poster will showcase how we make use of Research Spotlights to highlight the diversity of populations represented across a variety of fields contained in the studies archived at ICPSR. In addition to shedding light on research publications using data connected to timely topics, the Research Spotlights written so far have been able to underscore how research findings are particularly relevant to specialized diverse communities, such as LGBTQ+ populations, women, or the elderly. The future goal for the Research Spotlights is to adopt better analytics to track their impact on data reuse. These short literature reviews increase awareness of the value of existing data to address new research questions. Data reuse is cost- and time-efficient, and it benefits users in many areas of social science including training and higher education. Librarians and other instructors can utilize Research Spotlights as data literacy tools to help students and emerging scholars find models for data reuse in the scholarly literature.",
-          "doi": "10.5281/zenodo.8012830",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Homeyra Banaeefar",
-              "institution": "ICPSR"
-            },
-            {
-              "name": "Sarah Burchart",
-              "institution": "ICPSR"
-            },
-            {
-              "name": "Eszter Palvolgyi-Polyak",
-              "institution": "ICPSR"
-            }
-          ]
-        },
-        {
-          "title": "Enabling Meta-analysis with a Research Data Repository",
-          "abstract": "Meta-analysis is a well-established method to systematically assess previous research and to derive conclusions about a body of scientific inquiry. Inferences based on multiple studies are more credible and are an important aspect of evidence-based research. While meta-analysis is typically conducted by comparing published articles, the availability of research data from different studies in the same repository accords the opportunity to examine results simultaneously. Data in the same repository facilitates discovery and access. Specifically, similar data in the same repository enables researchers to estimate analogous regressions. As evidence-based research becomes more widespread, facilitating meta-analytic research should be a key aim of repositories. A repository that adheres to the F.A.I.R. (Findable, Accessible, Interoperable, Reusable) principles offers researchers the opportunity to compare results from different studies. Repositories that focus on a theme, such as NICHD-funded Data Sharing for Demographic Research (DSDR), enable researchers to find studies with comparable variables and analogous samples. DSDR archives data on mother and child health, health disparities, and the human lifecycle for secondary analysis. Examples of analogous studies in DSDR are studies that have collected data on food insecurity, family structure and sexuality. While meta-analysis is common in the health sciences including public health, epidemiology and evidence-based medicine, quantitative researchers in other disciplines including the social sciences have not employed the technique as frequently. Meta-analysis can add to the validity of trends and other findings by demonstrating that results are not limited to a single study. Repositories that host data related to a common theme enable researchers to check if findings are consistent across multiple studies. Through repositories, researchers can also replicate published studies. In this paper, we demonstrate how to find comparable data and variables for meta-analysis. We show an example of a meta-analysis with datasets available in the DSDR repository.",
-          "doi": "10.5281/zenodo.8015192",
-          "video": "",
-          "presenters": [
-            {
-              "name": "John Marcotte",
-              "institution": "University of Michigan"
-            },
-            {
-              "name": "Sarah Rush",
-              "institution": "University of Michigan"
-            },
-            {
-              "name": "Kelly Ogden-Schuette",
-              "institution": "University of Michigan"
-            }
-          ]
-        },
-        {
-          "title": "Examining racial attitudes, ethnicity and inequality through the UK Data Service",
-          "abstract": " Evidence-based research into racial inequalities, racism and racial prejudice has the potential to support and drive policy development and reform that will help bring ethnic or racial equality. This poster will highlight key data in the UK Data Service collection that have been vital in building a picture of the circumstances of ethnic minority populations and their relationships to the ethnic majority population in the UK - and important national research using our data collections. Impactful research using UK Data Service: - Homelessness and Black and Minoritised Ethnic Communities in the UK, Nov 2022 - Falling Faster Amidst a Cost-of-Living Crisis: Poverty, Inequality and Ethnicity in the UK, Runnymede Trust, October 2022 - Are some ethnic groups more vulnerable to Covid-19, May 2020 Key data - Evidence for Equality National Survey (EVENS) - UK’s first and largest survey to document the impact of Covid-19, and the lockdowns, on the lives of ethnic and religious minority people, available in  languages, Centre on the Dynamics of Ethnicity (CoDE) - Expected research access, April 2023. - The Ethnic Minority Young People: Differential Treatment in the Youth Justice System, 2006 study examines how teenagers are treated by the youth justice system in the UK and highlights clear patterns of under- and over-representation of ethnic minority groups. - NatCen’s 2017 report on racial prejudice in Britain today, used the British Social Attitudes Survey – a series run in most years since 1983, designed to produce annual measures of attitudinal movements in Great Britain. - British Integration Survey, 2019, - data on levels of diversity in respondents’ networks, their interactions with people from different backgrounds, and attitudes towards different social groups. - British Election Study Ethnic Minority Survey, 2010 - an investigation of the political views and behaviours of Britain’s ethnic minority populations.",
-          "doi": "10.5281/zenodo.966070",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Rodney Appleyard",
-              "institution": "UK Data Service"
-            },
-            {
-              "name": "Gemma Hakins",
-              "institution": "UK Data Service"
-            }
-          ]
-        },
-        {
-          "title": "Increasing diversity and inclusivity in data archiving the UKDA way",
-          "abstract": "The delivery of a fair and supportive working environment for staff is an important part of the UK Data Service. We recognise the value that diversity, equality and inclusion brings and want to recruit, develop, retain and motivate an increasingly diverse workforce. Exploring the Open Archival Information System model (OAIS), this poster will demonstrate how UK Data Service lead partner, the UK Data Archive, has strategically increased diversity across the organisation since 2017, and now drives inclusivity and accessibility through everything we do: from staff recruitment and cultural changes, through to data curation, research access, user testing, training, communications and impact.",
-          "doi": "",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Gemma Hakins",
-              "institution": "UK Data Service"
-            }
-          ]
-        },
-        {
-          "title": "People of Iassist: who are pushed out and who are or pulled in?",
-          "abstract": "In VAC of IASSIST Sweden 2022 the following questions have been posed: We need to know more about what members want. How to meet their needs better beyond a conference? Do we want to be more global? Why do people not stay? Understand why people stay and why do people come to one conference and not return. How get people to be long term people? What do people want from the conference? In this presentation I will try to answer those questions. I will do that by using two tools: The analysis of Iassist members in last ten year, building a stop and go model of their behaviours: which stay, which one went away, which one think to go away (in terms of structural variables). The analysis of a questionnaire related to what they think about the usefulness of Iassist conferences and other related topics",
-          "doi": "10.5281/zenodo.8044874",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Flavio Bonifacio",
-              "institution": "Metis Rierche"
-            }
-          ]
-        },
-        {
-          "title": "Visualizing Global Collaborations: Democratizing Access to Persistent Identifier Metadata and Analysis",
-          "abstract": "This poster investigates the opportunities and current challenges involved in using persistent identifier (PID) metadata to understand organizational research activity. A 2022 project led by the ORCID US Community (administered by Lyrasis) in partnership with the Drexel University LIS Education And Data Science Integrated Network Group (LEADING) program resulted in a suite of open tools that reduce the barrier to accessing and using ORCID data in meaningful ways. The LEADING fellows created an R script that can be used to retrieve information about publishing collaborations between researchers at a home organization and other organizations across the globe based on metadata from researchers’ ORCID profiles and publication DOI metadata. The resulting dataset can be imported into a Tableau Public dashboard template, resulting in data visualizations that may be shared with stakeholders to demonstrate researcher activity and start a conversation about impact. Despite gaps in the ORCID and DOI metadata, such as authors with no ORCID profile or an incomplete ORCID profile, the data and visualization tools can be used to advance research connections in several ways. The tools allow viewers to explore an organization’s collaborative reach and show opportunities for improving global partnerships. The suite also allows individuals to filter to their own data and could provide support for highly and widely collaborative researchers’ tenure and promotion. This democratized access to aggregated PID data can help individuals and under-resourced organizations without in-house technical staff to retrieve ORCID API data and create custom visualizations. This poster will give viewers ideas on how they can visualize PID and collaboration data for their own organizations to better understand their global footprint and to show opportunities for expanding and diversifying their research partnerships.",
-          "doi": "10.5281/zenodo.014750",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Olivia Given Castello",
-              "institution": "Temple University Libraries"
-            },
-            {
-              "name": "Negeen Aghassibake",
-              "institution": "University of Washington"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Posters - IASSIST Africa Research Grant winners",
-      "day": "May 30, 2023",
-      "abstract": "",
-      "moderator": "",
-      "chair": "",
-      "video": "",
-      "presentations": [
-        {
-          "title": "Data revolution and Health Justice for Women living with disabilities in Nigeria",
-          "abstract": "Generally, women are confronted with diverse health related issues. Evidence from literature reveals that women living with disabilities encounter serious challenges in accessing health care due to reasons such as inappropriate health infrastructure, attitude of medical personnel, discrimination and unfavourable socio-economic scenarios. However, the Discrimination against Persons with Disabilities (Prohibition) Act, 2018 and Article 25 of the Convention on the Rights of Persons with Disability (CRPD) endorse equity in health care provision and prohibits discrimination of any kind against people living with disabilities. With the proclivity of the data revolution, the need to use data as the premise for social justice for people living with a disability is well articulated by scholars (Taylor, 2017). Unfortunately, the data collected during hospital visits are not sufficient in estimating the extent of disability prevalence by type, ethnicity, age, gender, status. Moreover, the data are not sufficient for eliminating hindrances faced by people living with disabilities in accessing appropriate health care services. The health care iniquity for those living with disabilities was further aggravated during the COVID pandemic. This article explores health inequities faced by women living with disability (visual or mobility impairment) in south western Nigeria and the relevance of the data revolution using a qualitative approach premised on in-depth interview as data collection technique. The study contributes to existing literature on health equity for women living with disabilities and provides insight on interventions aimed at advancing equity in health service delivery and well being for women living with disabilities in Nigeria and elsewhere.",
-          "doi": "",
-          "video": "",
-          "presenters": [
-            {
-              "name": "Adefunke Olanike Alabi",
-              "institution": "University of Lagos"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Panel C1",
       "day": "June 1, 2023",
       "abstract": "",
@@ -926,7 +690,7 @@
         {
           "title": "Research on the Long-term Development Plan of the Korea Social Science Data Archive (KOSSDA)",
           "abstract": "Since the 1980s, The Korean Social Science Data Archive (KOSSDA) has been the leading research data management organization for Korea’s social science data collection. In 2015, the KOSSDA became a part of the Seoul National University (SNU) research community and found a home within the Asia Center. In 2022 SNU decided to make KOSSDA an independent research organization of the College of Social Science.  KOSSDA decided to analyze and evaluate the current KOSSDA service models to prepare for newly expanded research and service opportunities. A small group of researchers conducted usability analyses on KOSSDA data collection, the KOSSDA data education program, the KOSSDA website, and data donors. In this presentation, presenters will share the findings of these usability analyses and discuss the distinctiveness of Korea’s research data management services and data sharing patterns.",
-          "doi": "",
+          "doi": "10.5281/zenodo.8060656",
           "video": "",
           "presenters": [
             {
@@ -976,7 +740,7 @@
         {
           "title": "Support for economic surveys",
           "abstract": "In this presentation, we will share our experiences and some lessons learned from supporting economists with various aspects of their survey-related research. As original data collection needs have grown in our organization, we contract services for survey platforms, recruiting participants, using vendor panels, pre-testing questionnaires with focus groups, 3rd party IRBs, questionnaire development, statistical disclosure review and documentation for releasing public use files. Many of the survey projects involve researchers from multiple institutions, adding a layer of complexity. We hope to present useful advice for others to consider as they are contracting with a vendor for survey support.",
-          "doi": "",
+          "doi": "10.5281/zenodo.8063028",
           "video": "",
           "presenters": [
             {
@@ -1218,7 +982,7 @@
         {
           "title": "Implementing Data Services for Indigenous Scholarship and Sovereignty",
           "abstract": "In response to the imperative for Indigenous data governance and sovereignty, a groundswell of activity has emerged on the ethical care and stewardship of digital Indigenous data. To date, however, there is little guidance for libraries and repositories on how to implement Indigenous data principles (such as the CARE principles or ‘data sovereignty’) within their existing research data services (RDS). Based on case studies of Indigenous scholarship by Indigenous researchers, and a strategic collaboration among a data repository, library professionals, and information researchers this paper will present initial results from a project seeking to establish guidelines for RDS with a focus on Indigenous data from the humanities and qualitative social sciences. The collaborative approach integrates data curation and infrastructure expertise from the Qualitative Data Repository (QDR) and the Information School at the University of Washington with librarianship expertise from the X̱wi7x̱wa Library at the University of British Columbia and Data Services at UW Libraries.  We focus on three key areas: 1) Collection development: how should repositories decide on whether to accept deposits of Indigenous data? Repositories must ensure that data were collected ethically and that depositors have the authority to make them available to others. 2) Metadata: what are some key considerations for ensuring that appropriate context and representation of relational accountability are included with Indigenous data? Against the backdrop of a history of racist and colonialist description of Indigenous culture in libraries and archives, it is particularly important that metadata accurately reflects Indigenous perspectives of data. 3) Governance and access: how can appropriate access to, and control of, data be managed? While many Indigenous people and scholars want to see data preserved and made available, it is important to ensure that governance mechanisms respect Indigenous sovereignty as well as contain access controls that meet the needs of Indigenous communities.",
-          "doi": "",
+          "doi": "10.5281/zenodo.8060283",
           "video": "",
           "presenters": [
             {
@@ -1620,7 +1384,7 @@
         {
           "title": "Diversifying Librarianship through a Data Services Internship for BIPOC Graduate Students",
           "abstract": "The National Center for Data Services (NCDS) of the Network of the National Library of Medicine (NNLM) developed an annual Internship Program with the goal of providing practical experiences to graduate students from underrepresented racial and ethnic groups interested in learning about and gaining skills in data services. These internships were designed to include the soft and hard skills needed to enter data librarian positions, including working on a team, disseminating scholarship, and obtaining a job. NCDS worked with partner organizations Data Curation Network and the NNLM Evaluation Center to develop project ideas, trainings, and placements for nine interns to work 10 weeks during the summer of 2022. This internship program is an annual summer offering and was developed as part of the \"Leading the Charge\" EDI initiative by Hampton University and funded by IMLS. As part of this initiative, NCDS worked with EDI leaders and a consultant in development of the features of the internship. This program serves to both grow the field by increasing capacity and to diversify the field by centering opportunities on BIPOC graduate students, not only as an introduction to data librarianship but acclimation to the field in a health sciences context. Interns gained practical experience while working with a mentor in a guided environment on structured data projects, helping to provide the interns with skills needed to be competitive for data librarian positions. This presentation will present the ideas and outcomes from NCDS’s first Internship Program, discussing the need to provide opportunities to graduate students from underrepresented racial and ethnic groups, talking about establishing structure and partnerships to help place interns, and exploring opportunities for replacing these types of programs at other institutions.",
-          "doi": "10.5281/zenodo.014600",
+          "doi": "10.5281/zenodo.8014600",
           "video": "",
           "presenters": [
             {
@@ -1641,7 +1405,7 @@
         {
           "title": "Powerful DDI-CDI Metadata – the How and the Why?",
           "abstract": "Here at the UK Data Archive we have a vision of using DDI-CDI – DDI metadata for Cross-Domain Interoperability – to power our future data dissemination tools. However, populating these rich metadata structures at scale is not a trivial task and therefore we are exploring the use of current state-of-the-art machine learning models. With the resulting tools we aim to improve access to our data while protecting people’s privacy. We aim to break open the current binary utility/risk trade-off of Secure Access or Open Access when it comes to sensitive/disclosive datasets, particularly in Social Science and reduce the time delay in giving researchers access to data. Detailed metadata will not only allow researchers to select, filter and link data but will also provide us with the input necessary to drive SDCMicro functions (well-used command-line tools we have rewritten as web services) which drive machine-assisted disclosure assessment, which in turn feeds a decision tree of real-time access outcomes, providing researchers with richer and more flexible choices based on real-time mitigations of key variable sensitivity (e.g. global recoding, top/bottom recoding, etc.) As well as a live demo of the tool, we outline our methodology for building and improving machine learning models capable of enabling the scaling of rich metadata creation. We are all aware of the potential of machine learning to reduce our manual workload but what are the practical considerations for applying these tools to create Social Science metadata, how successful have we been and what more can we do to improve the resulting accuracy?",
-          "doi": "",
+          "doi": "10.5281/zenodo.8062952",
           "video": "",
           "presenters": [
             {
@@ -1657,7 +1421,7 @@
         {
           "title": "Flow My Tears, the Data Librarian Said: The Challenges and Frustrations of Working with Administrative Data",
           "abstract": "The New York Times recently published an article on how prisoners in the State of Louisiana often remain incarcerated well after their release dates (https://www.nytimes.com/2022/12/11/us/politics/louisiana-prison-overdetention.html). The article notes many contributing factors to this problem, including issues with the Criminal and Justice Unified Network system that the state uses to track offenders within the corrections system. In fact, this system was audited by the state, which found many issues with the management and accuracy of data in this system: https://app.lla.state.la.us/go.nsf/getSummary?OpenAgent&arlkey=40160023CWIN-AYMATY. In this presentation, I will discuss my own experiences with data from this system, including issues with both the \"tidyness\" of the data and their accuracy and the challenges of working with them in the context of helping a student work with the data for his dissertation. The presentation will also be in part a case study of the challenges that accompany working with administrative data that are not necessarily collected with researchers in mind.",
-          "doi": "10.5281/zenodo.014532",
+          "doi": "10.5281/zenodo.8014532",
           "video": "",
           "presenters": [
             {
@@ -1669,7 +1433,7 @@
         {
           "title": "Introducing the MAST Methodology - a new framework for developing metadata management capability",
           "abstract": "As more academic fields and government sectors experience the value of data, the need for increased data literacy and data librarianship has grown dramatically. However, the necessary skills for data and metadata management remain concentrated within specialised data management areas. Additionally, some novice data users from underrepresented communities may not have the access to tools, resources and networks to develop capability for data documentation. To meet the needs of the growing diversity of data users, new methods are required to support the democratisation of knowledge and capability to support data librarianship.  Based on research and experience with data governance across 15 Government departments and Academic organisations this talk introduces the MAST Methodology - an operational framework for building sustainable data culture.  Building on existing data governance frameworks, the MAST Methodology provides practitioners with 4 major principles - Metadata, Analysis, Support & Teamwork - to build skills and organisational support for data management. This is extended by examining how change management for data can deliver IDEAL metadata through the steps of Inventory, Documentation, Endorsement, Auditing and Leadership to develop a pragmatic approach to build a sustainable data culture.  In this presentation, we will cover:  * Existing challenges in change management and education in data governance * The four principles of the MAST Methodology and how they improve data governance capability especially among novice practitioners and underrepresented fields * The role of specialist teams in developing a culture of peer review to support knowledge development and retention for operationalised data governance * A breakdown of how the IDEAL metadata framework rapidly improves data quality, along with low- or no-cost practical steps to support under-resourced communities Lastly, we discuss how the Aristotle Metadata Registry implements the MAST Methodology with examples demonstrating how these tools improve data quality and increase engagement with metadata.",
-          "doi": "",
+          "doi": "10.5281/zenodo.8063134",
           "video": "",
           "presenters": [
             {
@@ -1707,7 +1471,7 @@
         {
           "title": "Using Common Data Elements to Foster Interoperability of Research on Health Disparities",
           "abstract": "Common Data Elements (CDEs) are standardized questions, variables, or measures with specific sets of responses that are common across multiple studies. They are organized around a particular research topic or question, validated, and defined via a consensus building process. Their use fosters comparability of results and findings across studies. Defining CDEs and incorporating them at the data collection/creation stage promotes good data management practices by ensuring the interoperability and reusability of data from the beginning of the research data lifecycle.  CDEs are more common in NIH-funded clinical and biomedical research than in social, behavioral, and economic (SBE) research. Yet the community-driven, consensus-building approach to defining CDEs makes them well suited to measuring complex social phenomena, such as race and gender. Not only do CDEs offer both a repository of established measures, they also offer a mechanism for the research community to define new measures that reflect expanding knowledge and shifting identities. For example, as concepts of race and gender change over time and in different contexts, researchers can establish new CDEs to reflect those changes. This characteristic of CDEs – their flexibility and consensus-driven nature – has the potential to strengthen research on diverse populations.  The Social, Behavioral, and Economic COVID Coordinating Center at ICPSR (SBE CCC) is leading the effort to establish CDEs for SBE research into the effects of the COVID-19 pandemic. We are collaborating with fifteen NIH-funded research teams who are examining pandemic-related health disparities related to race, ethnicity, sex, geography, income, and other factors. This talk will describe our process for identifying, validating, and building consensus on CDEs related to COVID public health policies. We will also discuss plans to establish additional CDEs for COVID research, and to use SBE research on COVID-19 to illustrate how CDEs can improve harmonization across social science research.",
-          "doi": "10.5281/zenodo.014570",
+          "doi": "10.5281/zenodo.8014570",
           "video": "",
           "presenters": [
             {
@@ -1815,6 +1579,242 @@
           ]
         }
        ]
+    },
+    {
+      "title": "Poster Session",
+      "day": "May 30, 2023",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "video": "",
+      "presentations": [
+        {
+          "title": "Development of the Self-Archiving System in the Social Science Japan Data Archive",
+          "abstract": "Since its launch in 1996, the Social Science Japan Data Archive (SSJDA) has been collecting and storing raw data provided by depositors that are obtained mainly from social surveys. These data are then widely shared for academic purposes, or secondary analysis in particular. Although SSJDA has long been responsible for creating the metadata, a new self-archiving system was developed recently that allows the depositors to register their raw data and create the metadata by themselves. This self-archiving system is expected to improve the efficiency of data archiving and sharing in the long run; however, there are also several challenges to overcome. For example, many depositors, including academic researchers, are unexperienced in creating the metadata in a FAIR manner. Therefore, SSJDA is also planning to provide training programs, such as self-learning materials to the depositors.",
+          "doi": "10.5281/zenodo.8015200",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Megumi Ikeda",
+              "institution": "The University of Tokyo"
+            },
+            {
+              "name": "Nobutada Yokouchi",
+              "institution": "The University of Tokyo"
+            },
+            {
+              "name": "Satoshi Miwa",
+              "institution": "The University of Tokyo"
+            }
+          ]
+        },
+        {
+          "title": "Central Asia and Mongolia Gender Data Portal",
+          "abstract": "The Central Asia and Mongolia Gender Data Portal (CAMGDP) is a data portal created by Rutgers University - New Brunswick Libraries to assist scholars, academics, activists, and students in finding gender-related data on Central Asia and Mongolia. We compile quantitative and qualitative sources, informational websites, media publications, and organizations that work in Kazakhstan. Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and Mongolia. Our focus on gendered data comes from personal research interests and observations of the lack of gender-related data portals on the countries of Central Asia and Mongolia, countries that share similar cultural, political, and economic influences. Given the rising interest in the region, our goal is to provide a guide to everyone committed to a non-violent knowledge production on Central Asia and Mongolia. We aim to not only collect a list of sources as a starting point for research but also to assist in the critical analysis of the gender-related data and publications available on Central Asia and Mongolia. While INGOs and their contribution are important, our portal prioritizes local initiatives and grassroots organizations in an effort to give them the same credit and exposure as their international and foreign counterparts often receive in Western scholarship and media. By creating a comprehensive data portal with relevant reflections, remarks, and facts, we hope to help researchers find local, regional, and international initiatives, publications, and secondary sources and engage in a more horizontal work with Central Asian and Mongolian communities. This poster describes initial work on development of the portal and initial research on Kazakhstan, the first country to be profiled.",
+          "doi": "10.5281/zenodo.8003791",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Ryan Womack",
+              "institution": "Rutgers University"
+            },
+            {
+              "name": "Aizada Arystanbek",
+              "institution": "Rutgers University"
+            }
+          ]
+        },
+        {
+          "title": "Beyond Data Literacy: Helping Nontraditional Students Get “Ready4Research”",
+          "abstract": "The NavCal program at UC Berkeley does exciting work, assisting incoming nontraditional students in navigating the campus through a supportive, hands-on approach. “Non-traditional” includes low-income, first-generation college attendee, transfer and other students who may have challenges adjusting to a large, complex research university environment. A large majority of NavCal participants go on to gain acceptance into research fellowships and nationally-recognized graduate school pipeline programs. The Library has a positive partnership with NavCal and a strong interest in campus-wide information and data literacy, so it made sense for the library to offer customized data literacy workshops for NavCal students… until an advisor said, “what they really need is to get broader training in getting ready to take on research assistant positions.” From this idea, Ready4Research was born: R4R is a 3-hour workshop to support students in learning about and getting ready to participate in research, as research assistants and researchers themselves, with data and data literacy embedded into the content. Since its initial offering in Summer, 2021, Ready4Research has been offered each semester, to positive reviews and robust attendance. Aiming broadly at social sciences research, topics include: how research happens, what kinds of jobs research assistants do, what kind of data they may encounter, some approaches to analyzing and visualizing data, deciding what kinds of jobs to apply for, how to apply for them, how to develop their own research content to present and publish, tips from NavCal alumni, and more. Attendees say that the exposure to the world of research at Berkeley (Cal) has opened their eyes to new possibilities for their academic careers. The workshop has also been revised for different formats and audiences, and ideas for further dissemination are in the works. This poster will outline the program, its development over time, and future plans for improvement.",
+          "doi": "10.5281/zenodo.8015074",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Ann Glusker",
+              "institution": "University of California, Berkeley"
+            }
+          ]
+        },
+        {
+          "title": "Developing an Interactive Data Deposit Decision Tree",
+          "abstract": "A number of resources exist that guide researchers to select an appropriate repository in which to deposit their research data. Most focus repository selection through a specific lens, such as funder requirements, FAIR principles, or sensitive data. This project represents an attempt to develop one interactive tool that lets user needs determine the best path. Three objectives guided us: (1) our Decision Tree needed to account for institutional and national contexts, including funder requirements, legal and ethical frameworks, and institutional practices; (2) we wanted to help researchers make informed decisions about depositing their data and cultivate a deeper understanding of the many factors that might impact their choice; and (3) we wanted to develop a flexible and interactive tool that responds to researchers’ varying priorities and motivations. Our Decision Tree simultaneously helps researchers make the right data repository selection, introduces users to the research data landscape, and streamlines consultation processes and library workflows.",
+          "doi": "10.5281/zenodo.8010996",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Leslie Barnes",
+              "institution": "University of Toronto"
+            },
+            {
+              "name": "Dylanne Dearborn",
+              "institution": "University of Toronto"
+            },
+            {
+              "name": "Jasmine Lefresne",
+              "institution": "University of Toronto"
+            },
+            {
+              "name": "Steve Marks",
+              "institution": "University of Toronto"
+            }
+          ]
+        },
+        {
+          "title": "Get Data Ready! with GSU: Georgia State University Library's Data Literacy Skills Digital Badges Micro-Credentialing Program",
+          "abstract": "In Spring 2022, Georgia State University Library's Research Data Services Department launched the GSU Data Ready! Badges data literacy micro-credentialing initiative: https://lib.gsu.edu/data-ready. In this poster session, we will present: (1) the content of our two badges tracks — data literacy foundations and software/coding training [14 separate badges]; (2) the online platforms [Canvas and Badgr] used for automated badge earning and distribution; (3) assessment of program success; and (4) ways in which other institutions might develop similar initiatives. The poster session format will optimize attendee engagement via extended Q&A and demonstration opportunities.",
+          "doi": "10.5281/zenodo.8015181",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Mandy Swygart-Hobaugh",
+              "institution": "Georgia State University"
+            },
+            {
+              "name": "Halley Riley",
+              "institution": "Georgia State University"
+            },
+            {
+              "name": "Ashley Rockwell",
+              "institution": "Georgia State University"
+            }
+          ]
+        },
+        {
+          "title": "Introducing the MAST Methodology - a new framework for developing metadata management capability",
+          "abstract": "As more academic fields and government sectors experience the value of data, the need for increased data literacy and data librarianship has grown dramatically. However, the necessary skills for data and metadata management remain concentrated within specialised data management areas. Additionally, some novice data users from underrepresented communities may not have the access to tools, resources and networks to develop capability for data documentation. To meet the needs of the growing diversity of data users, new methods are required to support the democratisation of knowledge and capability to support data librarianship.  Based on research and experience with data governance across 15 Government departments and Academic organisations this talk introduces the MAST Methodology - an operational framework for building sustainable data culture.  Building on existing data governance frameworks, the MAST Methodology provides practitioners with 4 major principles - Metadata, Analysis, Support & Teamwork - to build skills and organisational support for data management. This is extended by examining how change management for data can deliver IDEAL metadata through the steps of Inventory, Documentation, Endorsement, Auditing and Leadership to develop a pragmatic approach to build a sustainable data culture.  In this poster, we will cover:  * Existing challenges in change management and education in data governance * The four principles of the MAST Methodology and how they improve data governance capability especially among novice practitioners and underrepresented fields * The role of specialist teams in developing a culture of peer review to support knowledge development and retention for operationalised data governance * A breakdown of how the IDEAL metadata framework rapidly improves data quality, along with low- or no-cost practical steps to support under-resourced communities Lastly, we discuss how the Aristotle Metadata Registry implements the MAST Methodology with examples demonstrating how these tools improve data quality and increase engagement with metadata.",
+          "doi": "10.5281/zenodo.8063149",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Samuel Spencer",
+              "institution": "Aristotle Metadata"
+            },
+            {
+              "name": "Lauren Eickhorst",
+              "institution": "Aristotle Metadata"
+            }
+          ]
+        },
+        {
+          "title": "Research Spotlights: Introducing a tool for showcasing the visibility of diverse populations in scholarly publications",
+          "abstract": "The ICPSR Bibliography of Data-related Literature is a freely-available and continually updated database of over 105,000 citations that link data to primary and secondary analyses by researchers across the world. Since 2020, the Bibliography’s Information Resource staff has been creating instructional resources called Research Spotlights, using the Bibliography as their source to synthesize the findings about one or several related topics. These Research Spotlights show how scholars are using data available from the Inter-university Consortium for Political and Social Research (ICPSR) in their analyses. This poster will showcase how we make use of Research Spotlights to highlight the diversity of populations represented across a variety of fields contained in the studies archived at ICPSR. In addition to shedding light on research publications using data connected to timely topics, the Research Spotlights written so far have been able to underscore how research findings are particularly relevant to specialized diverse communities, such as LGBTQ+ populations, women, or the elderly. The future goal for the Research Spotlights is to adopt better analytics to track their impact on data reuse. These short literature reviews increase awareness of the value of existing data to address new research questions. Data reuse is cost- and time-efficient, and it benefits users in many areas of social science including training and higher education. Librarians and other instructors can utilize Research Spotlights as data literacy tools to help students and emerging scholars find models for data reuse in the scholarly literature.",
+          "doi": "10.5281/zenodo.8012830",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Homeyra Banaeefar",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Sarah Burchart",
+              "institution": "ICPSR"
+            },
+            {
+              "name": "Eszter Palvolgyi-Polyak",
+              "institution": "ICPSR"
+            }
+          ]
+        },
+        {
+          "title": "Enabling Meta-analysis with a Research Data Repository",
+          "abstract": "Meta-analysis is a well-established method to systematically assess previous research and to derive conclusions about a body of scientific inquiry. Inferences based on multiple studies are more credible and are an important aspect of evidence-based research. While meta-analysis is typically conducted by comparing published articles, the availability of research data from different studies in the same repository accords the opportunity to examine results simultaneously. Data in the same repository facilitates discovery and access. Specifically, similar data in the same repository enables researchers to estimate analogous regressions. As evidence-based research becomes more widespread, facilitating meta-analytic research should be a key aim of repositories. A repository that adheres to the F.A.I.R. (Findable, Accessible, Interoperable, Reusable) principles offers researchers the opportunity to compare results from different studies. Repositories that focus on a theme, such as NICHD-funded Data Sharing for Demographic Research (DSDR), enable researchers to find studies with comparable variables and analogous samples. DSDR archives data on mother and child health, health disparities, and the human lifecycle for secondary analysis. Examples of analogous studies in DSDR are studies that have collected data on food insecurity, family structure and sexuality. While meta-analysis is common in the health sciences including public health, epidemiology and evidence-based medicine, quantitative researchers in other disciplines including the social sciences have not employed the technique as frequently. Meta-analysis can add to the validity of trends and other findings by demonstrating that results are not limited to a single study. Repositories that host data related to a common theme enable researchers to check if findings are consistent across multiple studies. Through repositories, researchers can also replicate published studies. In this paper, we demonstrate how to find comparable data and variables for meta-analysis. We show an example of a meta-analysis with datasets available in the DSDR repository.",
+          "doi": "10.5281/zenodo.8015192",
+          "video": "",
+          "presenters": [
+            {
+              "name": "John Marcotte",
+              "institution": "University of Michigan"
+            },
+            {
+              "name": "Sarah Rush",
+              "institution": "University of Michigan"
+            },
+            {
+              "name": "Kelly Ogden-Schuette",
+              "institution": "University of Michigan"
+            }
+          ]
+        },
+        {
+          "title": "Examining racial attitudes, ethnicity and inequality through the UK Data Service",
+          "abstract": " Evidence-based research into racial inequalities, racism and racial prejudice has the potential to support and drive policy development and reform that will help bring ethnic or racial equality. This poster will highlight key data in the UK Data Service collection that have been vital in building a picture of the circumstances of ethnic minority populations and their relationships to the ethnic majority population in the UK - and important national research using our data collections. Impactful research using UK Data Service: - Homelessness and Black and Minoritised Ethnic Communities in the UK, Nov 2022 - Falling Faster Amidst a Cost-of-Living Crisis: Poverty, Inequality and Ethnicity in the UK, Runnymede Trust, October 2022 - Are some ethnic groups more vulnerable to Covid-19, May 2020 Key data - Evidence for Equality National Survey (EVENS) - UK’s first and largest survey to document the impact of Covid-19, and the lockdowns, on the lives of ethnic and religious minority people, available in  languages, Centre on the Dynamics of Ethnicity (CoDE) - Expected research access, April 2023. - The Ethnic Minority Young People: Differential Treatment in the Youth Justice System, 2006 study examines how teenagers are treated by the youth justice system in the UK and highlights clear patterns of under- and over-representation of ethnic minority groups. - NatCen’s 2017 report on racial prejudice in Britain today, used the British Social Attitudes Survey – a series run in most years since 1983, designed to produce annual measures of attitudinal movements in Great Britain. - British Integration Survey, 2019, - data on levels of diversity in respondents’ networks, their interactions with people from different backgrounds, and attitudes towards different social groups. - British Election Study Ethnic Minority Survey, 2010 - an investigation of the political views and behaviours of Britain’s ethnic minority populations.",
+          "doi": "10.5281/zenodo.7966070",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Rodney Appleyard",
+              "institution": "UK Data Service"
+            },
+            {
+              "name": "Gemma Hakins",
+              "institution": "UK Data Service"
+            }
+          ]
+        },
+        {
+          "title": "Increasing diversity and inclusivity in data archiving the UKDA way",
+          "abstract": "The delivery of a fair and supportive working environment for staff is an important part of the UK Data Service. We recognise the value that diversity, equality and inclusion brings and want to recruit, develop, retain and motivate an increasingly diverse workforce. Exploring the Open Archival Information System model (OAIS), this poster will demonstrate how UK Data Service lead partner, the UK Data Archive, has strategically increased diversity across the organisation since 2017, and now drives inclusivity and accessibility through everything we do: from staff recruitment and cultural changes, through to data curation, research access, user testing, training, communications and impact.",
+          "doi": "10.5281/zenodo.7948758",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Gemma Hakins",
+              "institution": "UK Data Service"
+            }
+          ]
+        },
+        {
+          "title": "People of Iassist: who are pushed out and who are or pulled in?",
+          "abstract": "In VAC of IASSIST Sweden 2022 the following questions have been posed: We need to know more about what members want. How to meet their needs better beyond a conference? Do we want to be more global? Why do people not stay? Understand why people stay and why do people come to one conference and not return. How get people to be long term people? What do people want from the conference? In this presentation I will try to answer those questions. I will do that by using two tools: The analysis of Iassist members in last ten year, building a stop and go model of their behaviours: which stay, which one went away, which one think to go away (in terms of structural variables). The analysis of a questionnaire related to what they think about the usefulness of Iassist conferences and other related topics",
+          "doi": "10.5281/zenodo.8044874",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Flavio Bonifacio",
+              "institution": "Metis Rierche"
+            }
+          ]
+        },
+        {
+          "title": "Visualizing Global Collaborations: Democratizing Access to Persistent Identifier Metadata and Analysis",
+          "abstract": "This poster investigates the opportunities and current challenges involved in using persistent identifier (PID) metadata to understand organizational research activity. A 2022 project led by the ORCID US Community (administered by Lyrasis) in partnership with the Drexel University LIS Education And Data Science Integrated Network Group (LEADING) program resulted in a suite of open tools that reduce the barrier to accessing and using ORCID data in meaningful ways. The LEADING fellows created an R script that can be used to retrieve information about publishing collaborations between researchers at a home organization and other organizations across the globe based on metadata from researchers’ ORCID profiles and publication DOI metadata. The resulting dataset can be imported into a Tableau Public dashboard template, resulting in data visualizations that may be shared with stakeholders to demonstrate researcher activity and start a conversation about impact. Despite gaps in the ORCID and DOI metadata, such as authors with no ORCID profile or an incomplete ORCID profile, the data and visualization tools can be used to advance research connections in several ways. The tools allow viewers to explore an organization’s collaborative reach and show opportunities for improving global partnerships. The suite also allows individuals to filter to their own data and could provide support for highly and widely collaborative researchers’ tenure and promotion. This democratized access to aggregated PID data can help individuals and under-resourced organizations without in-house technical staff to retrieve ORCID API data and create custom visualizations. This poster will give viewers ideas on how they can visualize PID and collaboration data for their own organizations to better understand their global footprint and to show opportunities for expanding and diversifying their research partnerships.",
+          "doi": "10.5281/zenodo.8014750",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Olivia Given Castello",
+              "institution": "Temple University Libraries"
+            },
+            {
+              "name": "Negeen Aghassibake",
+              "institution": "University of Washington"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Posters - IASSIST Africa Research Grant winners",
+      "day": "May 30, 2023",
+      "abstract": "",
+      "moderator": "",
+      "chair": "",
+      "video": "",
+      "presentations": [
+        {
+          "title": "Data revolution and Health Justice for Women living with disabilities in Nigeria",
+          "abstract": "Generally, women are confronted with diverse health related issues. Evidence from literature reveals that women living with disabilities encounter serious challenges in accessing health care due to reasons such as inappropriate health infrastructure, attitude of medical personnel, discrimination and unfavourable socio-economic scenarios. However, the Discrimination against Persons with Disabilities (Prohibition) Act, 2018 and Article 25 of the Convention on the Rights of Persons with Disability (CRPD) endorse equity in health care provision and prohibits discrimination of any kind against people living with disabilities. With the proclivity of the data revolution, the need to use data as the premise for social justice for people living with a disability is well articulated by scholars (Taylor, 2017). Unfortunately, the data collected during hospital visits are not sufficient in estimating the extent of disability prevalence by type, ethnicity, age, gender, status. Moreover, the data are not sufficient for eliminating hindrances faced by people living with disabilities in accessing appropriate health care services. The health care iniquity for those living with disabilities was further aggravated during the COVID pandemic. This article explores health inequities faced by women living with disability (visual or mobility impairment) in south western Nigeria and the relevance of the data revolution using a qualitative approach premised on in-depth interview as data collection technique. The study contributes to existing literature on health equity for women living with disabilities and provides insight on interventions aimed at advancing equity in health service delivery and well being for women living with disabilities in Nigeria and elsewhere.",
+          "doi": "",
+          "video": "",
+          "presenters": [
+            {
+              "name": "Adefunke Olanike Alabi",
+              "institution": "University of Lagos"
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "Pre-Conference Workshops",
