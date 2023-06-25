@@ -1,7 +1,9 @@
-weight: 7
-title: "IASSIST 2022"
+weight: 2
+title: "IASSIST 2023"
 description: >
-    <p class="carouselText">Gothenburg, Sweden<br /></p>
-    <p class="carouselText">7-10 June 2022<br /></p>
-    <p class="carouselText"><a href="https://iassistdata.org/conferences/archive/2022-gothenburg/" target="_blank">See the presentations</a></p>
-image: "img/carousel/iassist2022-logo-theme-471.png"
+    <p class="carouselText">Diversity in Research:<br /></p>
+    <p class="carouselText">Social Justice from Data<br /></p>    
+    <p class="carouselText">Philadelphia, PA, USA<br /></p>
+    <p class="carouselText">May 30 - June 2, 2023<br /></p>
+    <p class="carouselText"><a href="https://iassistdata.org/conferences/iassist2023/">Thank you for attending!</a></p>
+image: "img/carousel/iassist2023-2.png"
