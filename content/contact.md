@@ -12,7 +12,7 @@ draft = false
 
 You can leave a message using the contact form below. We will get back to you as soon as possible, but please give us a few days as our volunteers may be occupied. 
 
-**If your question is about the IASSIST 2023 confenrece, please send it directly to the Program Committee Chairs at *programme ( at ) lists.iassistdata.org.***
+**If your question is specific to the IASSIST confenrece**, please send it directly to the Program Committee or Local Committee Chairs (contact information on the confenrece pages).
 
 Contact addresses for officials are on the right. Feel free to use them, if you can identify a direct contact.
 
