@@ -42,7 +42,7 @@
                             {{ range $p := $s.presentations }}
                               <div class="conference-presentation"><h5 style="color:#555;font-size:1.05em;">{{ $p.title }}</h5></div>
                               {{ range $pr := $p.presenters }}
-                                <div class="conference-presenters"><em>{{ $pr.name }} ({{ $pr.institution }})</em> </div>
+                                <div class="conference-presenters"><em>{{ $pr.name }} ({{ $pr.institution }}) {{ if $pr.doix }}&raquo; <a href="https://doi.org/{{$pr.doix }}" title="{{ i18n "openPanelPresentation" }} {{ i18n "onZenodo" }}" target="_blank">doi.org/{{ $pr.doix }}</a>{{ end }}</em></div>
                               {{ end }}
                                 <div style="display:none; padding: .5em 0 0 1em;" class="abstract"> {{ $p.abstract }} </div>
                               {{ if $p.doi }}

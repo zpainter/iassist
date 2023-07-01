@@ -84,6 +84,9 @@
 
 - id: openPresentation
   translation: "Open presentation"
+
+- id: openPanelPresentation
+  translation: "Open an individual presentation of the panel"
   
 - id: onZenodo
   translation: "on Zenodo"

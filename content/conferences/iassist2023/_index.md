@@ -19,14 +19,27 @@ type = "conferences-test"
 
 The theme of the conference was ***Diversity in Research: Social Justice from Data***.
 
-The [**full program**](/conferences/iassist2023/conference-schedule/) is now available.
-
 It was the **Best. IASSIST. Ever.**
 
+Presentations are available as follows (more to come):
+
+The [**conference archive**](/conferences/archive/2023-philadelphia/) with links to Zenodo and the [**full program**](/conferences/iassist2023/conference-schedule/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2023/search?page=1&size=20&sort=conference_session" target="_blank">2023 Conference presentations (Zenodo) <i class="fas fa-external-link-alt"></i></a>
+
+<!--<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iSmUFsNkyevdZSSqF2AKjSA" target="_blank">2022 Conference recordings (YouTube) <i class="fas fa-external-link-alt"></i></a>
+
+<a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website <i class="fas fa-external-link-alt"></i></a>
+-->
+
+<br />
+
+<!--
 #### Call for Papers and Workshops
 
  The [**Call for Submissions page**](/conferences/iassist2023/call-for-submissions/) describes the theme in further detail. **Submissions have closed and notifications of acceptance have been sent out**. 
- 
+-->
+
 ### Indigenous Land Acknowledgement
 
 We openly recognize the Lenape Indian tribe as the original inhabitants of eastern Pennsylvania who were forcibly removed from their homelands, a territory known as “Lenapehoking,” Many who remained were forced into hiding or to assimilate. We acknowledge the Lenape people as the indigenous stewards of their homelands and also the spiritual keepers of the Lenape Sipu, or Delaware river, and call attention to their current efforts to spread awareness of their traditions and cultures. We do hereby commit to actively support our Lenape sisters and brothers in whatever way we are able, helping to maintain the cultural identity of the Lenape Nation in Philadelphia as well as Lenape Nations in Pennsylvania, Delaware, New Jersey, Oklahoma, Wisconsin, and Ontario. 
