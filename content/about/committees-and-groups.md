@@ -53,7 +53,7 @@ Responsible for deciding on an annual conference title as well as general themat
 
 ## Action Groups {#action-groups}
 
-Action Groups undertake specific tasks, find solutions to specific problems, or develop and compile relevant materials for specific projects.
+Action Groups are appointed by the Administrative Committee and undertake specific tasks, find solutions to specific problems, or develop and compile relevant materials for specific projects.
 
 > Currently there are no active action groups.
 
@@ -72,19 +72,21 @@ The central purpose of the IASSIST-Geo interest group is to create a network for
 
 - **2032-2024 Co-Chairs: *Jennie Murack, murack [ at ] mit.edu*** and ***Amanda Tickner, atickner [ at ] msu.edu***
 
-#### [Qualitative Social Science and Humanities Data Interest Group](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
-The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include 	 
+#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
+The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include
 1. developing a connected and informed group, 
 2. providing opportunities for professional development through training, and 
 3. collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members). 	 
 
 - **2023-2024 Co-Chairs: *Maureen Haaker, Cheryl Annette Thompson, Jessica Hagman*** and ***Hilary Bussell***
 
-#### [Diversity, Equity, and Inclusion Data Resources Interest Group](/community/antiracism-resources) {#anti-racism-resources-interest-group}  
+#### Diversity, Equity, and Inclusion Data Resources Interest Group {#anti-racism-resources-interest-group}  
 
 (Formerly Anti-Racism Resources Interest Group) The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
 
-- **2023-2024 Chair: *Anja Perry*** and ***Abigail Goben***
+The Interest Group has gathered various **[resources on anti-racism](/community/antiracism-resources)**. 
+
+- **2023-2024 Chair: *Anja Perry, anja.perry [ at ] @gesis.org*** and ***Abigail Goben, agoben [at ] @uic.edu***
 
 ### Previous interest group resources
 
