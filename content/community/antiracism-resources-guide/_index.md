@@ -103,6 +103,10 @@ Other contributors to this guide:
 
 We apologize if your name has not been included.  Please let us know if you have contributed.
 
+### Copyright
+
+This work is licensed under [CC BY 4.0 <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/licenses/by/4.0/).
+
 ### Preferred Citation
 
 Diversity, Equity, and Inclusion Data Resources Interest Group. 2023. Guide to Finding Data about Racism and Ethnic Bias. https://iassistdata.org/community/antiracism-resources-guide/ (CC BY 4.0)
