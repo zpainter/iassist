@@ -64,6 +64,7 @@ In Europe, national social science data archives often acquire and disseminate d
 #### Example Books {#example-books}
 
 - [Data Feminism <i class="fas fa-external-link-alt"></i>](https://data-feminism.mitpress.mit.edu/): the first two chapters describe the data gaps when it comes to minority groups and why these data gaps exist
+- [Queer Data <i class="fas fa-external-link-alt"></i>](https://www.bloomsbury.com/us/queer-data-9781350230729/): “The author shows us how current data practices reflect an incomplete account of LGBTQ lives and helps us understand how data biases are used to delegitimise the everyday experiences of queer people.”
 
 ### 2. Governmental Sources: Many government agencies at all jurisdiction levels collect a wide variety of data. {#2-governmental-sources}
 
