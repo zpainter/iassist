@@ -15,12 +15,6 @@ In the wake of the murders of George Floyd, Breonna Taylor and  Ahmaud Arbery in
 - **[Bibliography of articles/toolkits/rubrics](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv)** (in .csv format) for building anti-racism into the process of working with data across the research lifecycle.
 - An open **[Zotero library of research about race in various countries <i class="fas fa-external-link-alt"></i>](https://www.zotero.org/groups/4892474/iassist_anti-racism_resources_interest_group/items)**.
 - **[A guide to finding data sources](https://iassistdata.org/community/antiracism-resources-guide/)** when what you're seeking is not included in our list.
-  1. [Resource Guides](/community/antiracism-resources-guide/b-sources-and-strategies#1-resource-guides)
-  - [Example Library Guides](/community/antiracism-resources-guide/b-sources-and-strategies#example-library-guides)
-  - [Example National Archives](/community/antiracism-resources-guide/b-sources-and-strategies#example-national-archives)
-  - [Example Academic Data Resources](/community/antiracism-resources-guide/b-sources-and-strategies#example-academic-data-resources)
-  - [Example Books](/community/antiracism-resources-guide/b-sources-and-strategies#example-books)
-  2. [Governmental Sources](/community/antiracism-resources-guide/b-sources-and-strategies#2-governmental-sources)
 
 
 This last is material collected/identified by group members who have written **essays** to briefly summarize [varying national perspectives about collecting data by race](/community/antiracismresources-ig/essays).
