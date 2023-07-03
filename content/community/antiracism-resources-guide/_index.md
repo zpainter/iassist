@@ -82,6 +82,31 @@ This guide is a work in progress and suggestions and feedback on sources, strate
 
 Please submit feedback to our [Feedback and Suggestions Form <i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLSdYvxPiccUIQ3Gp7Jmlz1hRG0tJw_MzrM2TUcCJFUfgut7JIw/viewform?usp=sf_link).
 
+### Contributors
+IASSIST Anti-Racism Resources Action Group Finding Data Guide Subgroup authors (May 2023)
+- Jenny McBurney, University of Minnesota - Twin Cities (USA)
+- Jennifer Boettcher, Georgetown University (USA)
+- Kevin  Manuel, Toronto Metropolitan University (Canada)
+- Ryan Womack, Rutgers University (USA)
+- Van Bich Tran, Temple University (USA)
+- Anja Perry, GESIS – Leibniz Institute for the Social Sciences (Germany)
+
+Other contributors to this guide:
+- Michele M. Hayslett, University of North Carolina at Chapel Hill (USA)
+- Nancy Kassam-Adams, Children's Hospital of Philadelphia (USA)
+- Bobray J. Bordelon, Princeton University (USA)
+- Barbara Levergood, Bowdoin College (USA)
+- Lacey Cain, Carleton University (Canada)
+
+We apologize if your name has not been included.  Please let us know if you have contributed.
+
+### Copyright
+[CC-BY 4.0 <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/licenses/by/4.0/)
+
+### Preferred Citation
+Diversity, Equity, and Inclusion Data Resources Interest Group. 2023. Guide to Finding Data about Racism and Ethnic Bias. https://iassistdata.org/community/antiracism-resources-guide/
+
+
 <!--
 
 Table of Contents
