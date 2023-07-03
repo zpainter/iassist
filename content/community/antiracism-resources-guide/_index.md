@@ -5,6 +5,8 @@ type = "antiracism-resources"
 +++
 [Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> Guide to Finding Data about Racism and Ethnic Bias
 
+June 2023
+
 ## Scope and Purpose
 
 This guide is intended to help find **(a)** primary and secondary data and datasets documenting racism and the Black experience internationally, as well discrimination based on indigenous, national, and cultural or ethnic origins and **(b)** tools, articles, and rubrics for building anti-racism into the process of working with data across the data-research lifecycle. 
