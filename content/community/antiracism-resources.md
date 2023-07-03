@@ -27,7 +27,7 @@ This last is material collected/identified by group members who have written **e
 
 Finally, the group is co-sponsoring with IASSIST's Professional Development Committee (PDC) webinars on related topics.  Our first one was held 30 November 2022, and focused on four countries' perspectives on race and ethnicity as represented in the essays.  Links to the slides and recording are available from the essays page.  We are actively seeking additional essay writers for other countries.  Please contact the chairs if you are interested.
 
-Please send suggestions for additions to the resources lists, library, and/or speakers (and topics) to the Interest Group's co-chairs, Anja Perry, anja.perry [ at ] @gesis.org and Abigail Goben, agoben [at ] @uic.edu .
+Please send suggestions for additions to the resources lists, library, and/or speakers (and topics) to the Interest Group's co-chairs, Anja Perry, anja.perry [ at ] gesis.org and Abigail Goben, agoben [at ] uic.edu .
 
 *Please note:  These resources will be reviewed periodically for their usage statistics.  When usage drops, these resources will be retired.*
 
