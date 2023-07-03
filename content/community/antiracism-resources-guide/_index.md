@@ -105,7 +105,7 @@ We apologize if your name has not been included.  Please let us know if you have
 
 ### Copyright
 
-This work is licensed under [<i class="fas fa-external-link-alt">CC BY 4.0</i>](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under [CC BY 4.0 <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/licenses/by/4.0/).
 
 ### Preferred Citation
 
