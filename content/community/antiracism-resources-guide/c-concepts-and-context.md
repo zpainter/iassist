@@ -144,7 +144,7 @@ This is a starter list and is not exhaustive nor comprehensive.
 - ethnicity(ies)
 - ethnic group(s)
 - race(s)
-- Racialized, racialization, ethnizatoin
+- Racialized, racialization, ethnicization
 - black or "african american"
 - Indians of North America
 - intersectionality
