@@ -5,14 +5,16 @@ type = "antiracism-resources"
 +++
 [Home](/) >> [Community](/community/) >> [Anti-Racism Resources](/community/antiracism-resources/) >> Guide to Finding Data about Racism and Ethnic Bias
 
+June 2023
+
 ## Scope and Purpose
 
 This guide is intended to help find **(a)** primary and secondary data and datasets documenting racism and the Black experience internationally, as well discrimination based on indigenous, national, and cultural or ethnic origins and **(b)** tools, articles, and rubrics for building anti-racism into the process of working with data across the data-research lifecycle. 
 
 The guide is accompanied by other resources developed by the [IASSIST Anti-Racism Resources Interest Group](/about/committees-and-groups#interest-groups	):
 
-- Datasets, projects, and data sources for racial justice *\[to be linked\]*
-- Tools, articles, and rubrics for working with data through an anti-racism lens *\[to be linked\]*
+- [Datasets, projects, and data sources](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) for racial justice (in .csv format)
+- [Tools, articles, and rubrics](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) for working with data through an anti-racism lens (in .csv format)
 - [How Different Countries View Race](/community/antiracismresources-ig/essays/) essays and webinar
 
 While the strategies and techniques given are initially oriented toward this original scope, the list of suggested terms can be adapted and expanded over time to address other types of discrimination, such as by migrant/refugee status, religion, gender identity, or sexuality.
@@ -81,6 +83,34 @@ A more detailed **[table of contents](/community/antiracism-resources-guide/toc)
 This guide is a work in progress and suggestions and feedback on sources, strategies, and techniques for finding and accessing harmonized, inclusive, and international anti-racism resources would be welcome to contribute to making this guide inclusive and applicable internationally. 
 
 Please submit feedback to our [Feedback and Suggestions Form <i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLSdYvxPiccUIQ3Gp7Jmlz1hRG0tJw_MzrM2TUcCJFUfgut7JIw/viewform?usp=sf_link).
+
+### Contributors
+
+IASSIST Anti-Racism Resources Action Group Finding Data Guide Subgroup authors (May 2023)
+- Jenny McBurney, University of Minnesota - Twin Cities (USA)
+- Jennifer Boettcher, Georgetown University (USA)
+- Kevin  Manuel, Toronto Metropolitan University (Canada)
+- Ryan Womack, Rutgers University (USA)
+- Van Bich Tran, Temple University (USA)
+- Anja Perry, GESIS – Leibniz Institute for the Social Sciences (Germany)
+
+Other contributors to this guide:
+- Michele M. Hayslett, University of North Carolina at Chapel Hill (USA)
+- Nancy Kassam-Adams, Children's Hospital of Philadelphia (USA)
+- Bobray J. Bordelon, Princeton University (USA)
+- Barbara Levergood, Bowdoin College (USA)
+- Lacey Cain, Carleton University (Canada)
+
+We apologize if your name has not been included.  Please let us know if you have contributed.
+
+### Copyright
+
+This work is licensed under [CC BY 4.0 <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/licenses/by/4.0/).
+
+### Preferred Citation
+
+Diversity, Equity, and Inclusion Data Resources Interest Group. 2023. Guide to Finding Data about Racism and Ethnic Bias. https://iassistdata.org/community/antiracism-resources-guide/ (CC BY 4.0)
+
 
 <!--
 

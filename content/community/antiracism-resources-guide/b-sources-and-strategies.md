@@ -64,6 +64,7 @@ In Europe, national social science data archives often acquire and disseminate d
 #### Example Books {#example-books}
 
 - [Data Feminism <i class="fas fa-external-link-alt"></i>](https://data-feminism.mitpress.mit.edu/): the first two chapters describe the data gaps when it comes to minority groups and why these data gaps exist
+- [Queer Data <i class="fas fa-external-link-alt"></i>](https://www.bloomsbury.com/us/queer-data-9781350230729/): “The author shows us how current data practices reflect an incomplete account of LGBTQ lives and helps us understand how data biases are used to delegitimise the everyday experiences of queer people.”
 
 ### 2. Governmental Sources: Many government agencies at all jurisdiction levels collect a wide variety of data. {#2-governmental-sources}
 
@@ -95,7 +96,7 @@ European Union:
 
 - European Union Agency for Fundamental Rights - [Racial and ethnic origin <i class="fas fa-external-link-alt"></i>](http://fra.europa.eu/en/themes/racial-and-ethnic-origin)
 
-  - FRA collects the data which is then stored at UKDA and [GESIS <i class="fas fa-external-link-alt"></i>](https://www.gesis.org/home).
+  - FRA collects the data which is then stored at [UKDS <i class="fas fa-external-link-alt"></i>](https://ukdataservice.ac.uk/) and [GESIS <i class="fas fa-external-link-alt"></i>](https://www.gesis.org/home).
 
 - Eurostat - [Migration and asylum <i class="fas fa-external-link-alt"></i>](https://ec.europa.eu/eurostat/web/migration-asylum)
 
@@ -221,7 +222,7 @@ Most of these will start with a single search box. It is recommended you use the
 
 - ProQuest Statistical Insight (subscription required: allows you to limit a search by race, ethnic group, country, etc., facilitating finding data on this topic
 
-- [Woods & Poole Complete Economic and Demographic Data Set <i class="fas fa-external-link-alt"></i>](https://www.woodsandpoole.com/our-databases/united-states/cedds/) (CEDDS) (Subsription required): U.S.
+- [Woods & Poole Complete Economic and Demographic Data Set <i class="fas fa-external-link-alt"></i>](https://www.woodsandpoole.com/our-databases/united-states/cedds/) (CEDDS) (subscription required): U.S.
 
 - ICPSR has free access to open data sponsored by governments and nonprofits. AND there is commercial side of ICPSR associated with academic research (subscription required)
 
@@ -233,7 +234,7 @@ If you think an organization has the data, go to that organization's website and
 
 #### Search organization and think tank index and directories {#search-organization-and-think-tank-index-and-directories}
 
-Use organization and think tank index and directories to search by keywords or available topics for special interest, research centers, and advocacy organizations. Their URL can be added after "site:" along with keywords when using a search engine, such as Bing and Google. Countries may also have governmental and non-governmental academies of sciences or research centers for the natural or social sciences that link many different disciplinary research centers, such as the [Chinese Academy of Social Sciences <i class="fas fa-external-link-alt"></i>](http://english.cssn.cn/) and [Max Planx Society <i class="fas fa-external-link-alt"></i>](https://www.mpg.de/en).
+Use organization and think tank index and directories to search by keywords or available topics for special interest, research centers, and advocacy organizations. Their URL can be added after "site:" along with keywords when using a search engine, such as Bing and Google. Countries may also have governmental and non-governmental academies of sciences or research centers for the natural or social sciences that link many different disciplinary research centers, such as the [Chinese Academy of Social Sciences <i class="fas fa-external-link-alt"></i>](http://english.cssn.cn/) and [Max Planck Society <i class="fas fa-external-link-alt"></i>](https://www.mpg.de/en).
 
 - Gale Directory Library database (subscription required). Look up US government and non government research centers and international research centers. Gale subject categories include police, criminal justice, discrimination, racism, racial relations, anti-racism, social justice
 
