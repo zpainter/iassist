@@ -7,14 +7,12 @@ oldpath = ""
 date = "2020-03-20 10:00:25 -0700"
 draft = "false"
 +++
-**These former Interest Groups have produced resources that may be of use for the membership or the data community at-large.**
+**These former Interest Groups have produced resources that may be of use for the membership or the data community at-large.** Visit the **[Committees and Groups]({{< ref "committees-and-groups.md#interest-groups" >}})** page to see which Interest Groups are active at the moment. <br /><br />
 
-Visit the **[Committees and Groups]({{< ref "committees-and-groups.md#interest-groups" >}})** page to see which Interest Groups are active at the moment. <br /><br />
-
-#### [Health Data Interest Group](/community/health-data-interest-group) (HDIG) {#health-data-interest-group}
+### [Health Data Interest Group](/community/health-data-interest-group) (HDIG) {#health-data-interest-group}
 The availability of health data about individuals, gathered from surveys or health care systems, are an invaluable resource for researchers who wish to examine interactions between individuals and the healthcare they receive. In addition, there is now much more demand for research and analysis of linked health and social data (for example, health records linked with education or social security records). Particular challenges face data professionals who seek to acquire health, and linked health data. The IASSIST Health Data Interest Group was established to bring together data practitioners and technicians who manage access to health, and health-linked data for research purposes, in order to share expertise and enable members to overcome challenges in their day-to-day roles.  
 
-#### [Data Visualization Interest Group](/community/dvig) (DVIG) {#data-vizualization-interest-group}
+### [Data Visualization Interest Group](/community/dvig) (DVIG) {#data-vizualization-interest-group}
 This group focused on promoting a greater understanding of data visualization -- its creation, uses, and importance in research, across disciplines. Data Visualization supports a means to make sense of data, through visual representation, and to communicate ideas and information effectively. Particular areas of focus and discussions included, but were not limited to the following: :   
 
 - Enable opportunities for IASSIST members to learn and enhance their skills in this growing field 
@@ -27,10 +25,10 @@ This group focused on promoting a greater understanding of data visualization --
 - Be aware of and communicate to others the needs of researchers in this field 
 - Connect with communities of metadata developers and users to gain better understanding of how metadata can enable better visualization, and how in turn visualization need might drive development of metadata standards 
 
-#### Open Source Interest Group (OSIG) {#open-source-interest-group}
+### Open Source Interest Group (OSIG) {#open-source-interest-group}
 Open source programming languages like R and Python are rapidly transforming the landscape of data management and analysis. These free tools offer similar and in some cases better functionality than their commercial equivalents and simultaneously benefit from free community support from a vast network of developers and users. This interest group will provide a forum for IASSIST members to share information on how to promote the use of open source languages by those whose work we support as well as ways in which we might contribute back to the open source community.
 
-#### Data Management & Curation Interest Group (SIGDMC) {#sigdmc}
+### Data Management & Curation Interest Group (SIGDMC) {#sigdmc}
 
 This interest group focused on issues related to research data management and curation, in order to support members' work in this field. Sound data management and curation strategies ensure that research data will be available for sharing, dissemination and reuse over time. These strategies are not only important for data preservation, but, in a growing number of countries, a necessity for research groups in order to receive funding.  The role and function of the data management and curation interest group included but was not limited to the following:
 
@@ -42,10 +40,10 @@ This interest group focused on issues related to research data management and cu
 - Examine issues related to collaborative ventures with research groups 
 - Provide input and feedback on data curation tools
 
-#### [Data Citation Interest Group](/community/sigdc) (SIGDC) {#data-citation-interest-group}
+### [Data Citation Interest Group](/community/sigdc) (SIGDC) {#data-citation-interest-group}
 This interest group seeked to promote awareness of data-related research and scholarship through data citation. Citing data supports the discovery and reuse of data, leading to better science through the validation of results. It also recognizes data as an essential part of the scientific record.
 
-#### [Interest Group on Human Subjects Review Committees and Privacy and Confidentiality in Research](/community/human-subjects-interest-group)
+### [Interest Group on Human Subjects Review Committees and Privacy and Confidentiality in Research](/community/human-subjects-interest-group)
 
 This group focused on issues related to conducting research using human subjects in the social sciences. Particular areas of focus and discussion included, but were not limited to the following:
 
@@ -58,4 +56,4 @@ We seeked out and take advantage of opportunities for education, outreach and ad
 
 ---
 
-#### See also the [Interest Group Checklist](/about/all-about-interest-groups).
+### See also the [Interest Group Checklist](/about/all-about-interest-groups).

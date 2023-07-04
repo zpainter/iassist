@@ -26,7 +26,7 @@ Our members represent a variety of organizational sectors across the globe; the 
 
 ### Expertise and Colleagues
 
-{{< figure src="/img/about/by-organisational-type.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}<br />
+{{< figure src="/img/about/by-organisational-type.png" alt="Pie chart of IASSIST members across the globe. More than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}<br />
 
 Many members identify themselves as:  
 
