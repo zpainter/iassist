@@ -13,8 +13,8 @@ This guide is intended to help find **(a)** primary and secondary data and datas
 
 The guide is accompanied by other resources developed by the [IASSIST Anti-Racism Resources Interest Group](/about/committees-and-groups#interest-groups	):
 
-- Datasets, projects, and data sources for racial justice *\[to be linked\]*
-- Tools, articles, and rubrics for working with data through an anti-racism lens *\[to be linked\]*
+- [Datasets, projects, and data sources](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) for racial justice
+- [Tools, articles, and rubrics](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) for working with data through an anti-racism lens *\[to be linked\]*
 - [How Different Countries View Race](/community/antiracismresources-ig/essays/) essays and webinar
 
 While the strategies and techniques given are initially oriented toward this original scope, the list of suggested terms can be adapted and expanded over time to address other types of discrimination, such as by migrant/refugee status, religion, gender identity, or sexuality.
