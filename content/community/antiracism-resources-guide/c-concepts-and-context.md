@@ -262,6 +262,6 @@ When analyzing data, the researcher needs to understand that data is not inheren
 #### Resources {#resources}
 
 - [Ethics and Best Practices section of this guide](/community/antiracism-resources-guide/a-ethics-and-best-practices/)
-- <add link to IASSIST list "Tools + info for anti-racism across data-research lifecycle>
+- [Tools and information for anti-racism across data-research lifecycle](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) (in .csv format)
 - Nautilus Science Magazine: [How Eugenics Shaped Statistics <i class="fas fa-external-link-alt"></i>](https://nautil.us/how-eugenics-shaped-statistics-238014/)
 - Minnesota Compass Project: [Race data disaggregation: What does it mean? Why does it matter? <i class="fas fa-external-link-alt"></i>](https://www.mncompass.org/data-insights/articles/race-data-disaggregation-what-does-it-mean-why-does-it-matter)
