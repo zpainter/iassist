@@ -3,6 +3,8 @@ title = "Community Resources"
 draft = false
 +++
 
+## IASSIST is about the Community
+
 Under Community Resources IASSIST members may share professional resources useful to them in their daily work. Current and past Interest Group resources will also be available here, as are links to membership only services like the membership database and discussion list. 
 
 ## Jobs Repository
@@ -13,7 +15,7 @@ The IASSIST Jobs Repository is a record of job descriptions posted to the member
 
 ## Webinars
 
-Webinars are free to attend, but a registration is required. Webinars will be recorded and made available on the IASSIST YouTube Channel.
+Webinars are free to attend, but a registration is often required. Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 - [IASSIST Webinar Registration and Recordings](/community/iassist-webinars/)
 
@@ -31,6 +33,9 @@ Please follow our Twitter feed and check out our page on Facebook, and see some 
 
 ### Tweets by IASSISTDATA
 
-<a class="twitter-timeline" data-width="450" data-height="600" href="https://twitter.com/iassistdata?ref_src=twsrc%5Etfw">Tweets by iassistdata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+We've removed the embedded Twitter feed because Twitter disabled the functionality. IASSIST will review it's social media channels in the fall 2023.
 
+<!--
+<a class="twitter-timeline" data-width="450" data-height="600" href="https://twitter.com/iassistdata?ref_src=twsrc%5Etfw">Tweets by iassistdata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+-->
 <!-- #### Below are the pages that are currently listed under "Community". -->
