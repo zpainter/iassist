@@ -103,7 +103,7 @@ Other contributors to this guide:
 
 We apologize if your name has not been included.  Please let us know if you have contributed.
 
-### Copyright
+### Copyright Notice
 
 This work is licensed under [CC BY 4.0 <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/licenses/by/4.0/).
 
