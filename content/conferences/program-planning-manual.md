@@ -5,7 +5,7 @@ date = "2017-05-31"
 author = "PPMAG"
 +++
 ## Program Planning Manual
-The purpose of this Handbook is to assist those who will be responsible for developing the program of future IASSIST Annual Conferences. The information contained within has been put together by several individuals who have had experience running past conferences. While many things necessarily change from year to year, there is a surprising amount of continuity involving the decisions made and the deadlines set. It is hoped this manual can be continued as a living document, dynamically maintained by succeeding generations of conference program planners.  The Local Arrangments Committee (or LAC) has a separate set of responsibilities, and will have their own manual.  There will be occasions where information may be cross-referenced between both the Program Planning and Local Arrangements Manuals.
+The purpose of this Handbook is to assist those who will be responsible for developing the program of future IASSIST Annual Conferences. The information contained within has been put together by several individuals who have had experience running past conferences. While many things necessarily change from year to year, there is a surprising amount of continuity involving the decisions made and the deadlines set. It is hoped this manual can be continued as a living document, dynamically maintained by succeeding generations of conference program planners.  The Local Arrangements Committee (or LAC) has a separate set of responsibilities, and will have their own manual.  There will be occasions where information may be cross-referenced between both the Program Planning and Local Arrangements Manuals.
 
 - [Provenance of the Manual]({{< ref "program-planning-manual.md#provenance-of-the-manual" >}})
 - [Purposes of the IASSIST Conference]({{< ref "program-planning-manual.md#purposes-of-the-iassist-conference" >}})
@@ -86,7 +86,7 @@ It is essential that the PC work along with the Local Arrangements Committee (LA
 
 ### PC Co-Chair Duties
 
-The Conference Program Committee (PC) typically has up to three co-chairs.  The attempt has been made to have the co-chairs be 1 from the US, 1 from Canada, and 1 from Europe, but this isn't required.  The co-chairs responsbility is to come up with the theme and title of the conference, ensure all coordinator roles are filled (workshops, posters, lightning  talks, Birds of a Feather, etc.), to regularly have open discussions with the local arrangements committee to ensure that everything is on schedule and inform one another of potential issues.
+The Conference Program Committee (PC) typically has up to three co-chairs.  The attempt has been made to have the co-chairs be 1 from the US, 1 from Canada, and 1 from Europe, but this isn't required.  The co-chairs responsibility is to come up with the theme and title of the conference, ensure all coordinator roles are filled (workshops, posters, lightning  talks, Birds of a Feather, etc.), to regularly have open discussions with the local arrangements committee to ensure that everything is on schedule and inform one another of potential issues.
 
 Refer to the [Timeline section]({{< ref "program-planning-manual.md#planning-timeline" >}}) for a higher level list of all activities and proposed deadlines.
 
@@ -114,7 +114,7 @@ Set up the OpenConf software, following the example of the previous year.  The p
 
 #### Meet Regularly with the LAC
 
-Stay in regular touch with the LAC.  Set up a schedule to meet (ideally) bi-weekly with the co-chairs abd the LAC. Coordinators of various apsects of the program (Posters, Workshops, Paper Competition, etc.) can be included as their part becomes prominent, or at least provide regular reports by email.
+Stay in regular touch with the LAC.  Set up a schedule to meet (ideally) bi-weekly with the co-chairs abd the LAC. Coordinators of various aspects of the program (Posters, Workshops, Paper Competition, etc.) can be included as their part becomes prominent, or at least provide regular reports by email.
 
 #### Call for Proposals (CFP)
 
@@ -126,7 +126,7 @@ Coordinate distribution of the CFP. Invite members of the larger conference plan
 
 - Establish an email address for the conference program that be used as a point of contact with the Program Co-Chairs and committee at large (Gmail works well for this purpose).
 
-#### Begin Review and Draft Conference Schedule (Involes Sorting Coordinator and Team)
+#### Begin Review and Draft Conference Schedule (Involves Sorting Coordinator and Team)
 
 - Set up reviewing form and make review assignments to reviewing group in OpenConf.
 
@@ -142,13 +142,13 @@ Coordinate distribution of the CFP. Invite members of the larger conference plan
 
 - If you must decline sessions, try to choose low-scoring ones.  If it is an issue of quality or poor fit, you may still choose to decline, but if it is only an issue of how many sessions will fit in the schedule you at least want to try to avoid cutting sponsor-led sessions.
 
-- Once you have a draft of the schedule, enter it into OpenConf--it will flag concurrent sessions with the same speakers. This helpls alleviate accidental double-booking.
+- Once you have a draft of the schedule, enter it into OpenConf--it will flag concurrent sessions with the same speakers. This helps alleviate accidental double-booking.
 
 - With LAC, make room assignments.  Several options (and depends on local circumstances).
 
 - Try to assign based on which sessions you think will have the largest attendance relative to room sizes.  When there are sessions on "hot topic" issues, you can assume these will be popular.
 
-- If one room is further away from the others, try to identify which of the concurrents is the least like the others, which would indicate that its attendess would be less likely room-switch in the middle of the session.
+- If one room is further away from the others, try to identify which of the concurrents is the least like the others, which would indicate that its attendees would be less likely room-switch in the middle of the session.
 
 - If the rooms are mostly the same size, assign rooms according to where they already fall on the program. Having a whole column in the program (as in, all "1" concurrent sessions) be in the same room can be a logical and easy to navigate arrangement.
 
@@ -206,7 +206,7 @@ Please note that there are [specific guidelines related to financial compensatio
 
 #### In August/September of the year prior to the conference...
 
-The first order of business is to solicit potential speakers using **[an email message](/file/conferences/IASSIST-conference-sample-email-to-plenary-speaker.docx)** (sample linked).  In this message you provide information about the conference and the organization, and any relevent financial information.
+The first order of business is to solicit potential speakers using **[an email message](/file/conferences/IASSIST-conference-sample-email-to-plenary-speaker.docx)** (sample linked).  In this message you provide information about the conference and the organization, and any relevant financial information.
 
 #### By late January
 
@@ -225,7 +225,7 @@ The first order of business is to solicit potential speakers using **[an email m
 
 On the day of the conference be sure to meet with the speakers and make sure they have all that they need (tech, water, location of restrooms, etc.) and get them set up for their presentation.  Also act as their concierge for the day should they wish to stay on and attend other sessions (where to go, how to read the program, etc.).
 
-After the conference be sure to write a personal thank you note (handwritteen if possible) to all speakers.  It would be ideal if this note were signed by the PC co-chairs as well as the plenary coordinator (bring stationary to conference).
+After the conference be sure to write a personal thank you note (handwritten if possible) to all speakers.  It would be ideal if this note were signed by the PC co-chairs as well as the plenary coordinator (bring stationary to conference).
 
 ### Submission Review and Sorting Coordinator Duties
 
@@ -243,7 +243,7 @@ The online submission form should clearly state that people should limit the num
 
  The Program Chairs will contact reviewers and set a timeline for the review of all individual proposals, papers, and session proposals.  Lightning talks review, Poster review, and Workshop review are done by others. However, the Reviewers will make comments about placing a proposal into another type of presentation (poster, lightning talk, Birds of Feather, or possibly a plenary panel or presentation)
 
-Once the online review system is in place, each reviewer will read and rank proposals (Likert scale is used, may be up to 7 for scording if that granularity is needed), adding comments and additional topics that will help with sorting.  When the review has been completed, the Program Chairs will review the proposals with low rankings and make a preliminary elimination of proposals that do not meet program criteria.
+Once the online review system is in place, each reviewer will read and rank proposals (Likert scale is used, may be up to 7 for scoring if that granularity is needed), adding comments and additional topics that will help with sorting.  When the review has been completed, the Program Chairs will review the proposals with low rankings and make a preliminary elimination of proposals that do not meet program criteria.
 
 All information is confidential.
 
@@ -278,7 +278,7 @@ Send an invitation first to the planning committee and then to the full IASSIST 
 
 No later than five to six weeks before the conference, be in touch with all session chairs to inform them of their duties, outlined in the **[Sample Letter](/file/conferences/IASSIST-conference-sample-email-to-session-chairs.docx)**.  Note that this copy is marked up so you are aware what you need to change.
 
-**Session chairs need to:** Collect all speakers' A/V requirements and relay that information to the LAC.  Act as a liaison between speakers and the LAC for any tech needs/issues or other accomodations.
+**Session chairs need to:** Collect all speakers' A/V requirements and relay that information to the LAC.  Act as a liaison between speakers and the LAC for any tech needs/issues or other accommodations.
 
 Both before and after the conference encourage your session's speakers a) to formally write up their presentation as a paper to submit to the IQ (paper competition entrants are already doing this), and b) submit their presentations for the conference archive.  They will be able to do so through OpenConf.  Encourage speakers to upload prior to the conference, but they will have a window of time after if they did not get the chance to do so.
 
@@ -302,8 +302,8 @@ By the **day of their session**, Session Chairs should have:
 
 - Introduced themselves to their speakers.
 - Located the session room.
-- Introduced themselves to the room monitor (typically from host institution to help with AV and other isssues). Note not always available but should know who their local IT help is.
-- Arrive 20 minutes earlly and load any presentations that could not be sent ahead of time.
+- Introduced themselves to the room monitor (typically from host institution to help with AV and other issues). Note not always available but should know who their local IT help is.
+- Arrive 20 minutes early and load any presentations that could not be sent ahead of time.
 - Pointed out to their speakers IA release forms to submit their presentations as IQ papers.
 
 By **two weeks post conference**, Session Chairs should have:
@@ -315,7 +315,7 @@ By **two weeks post conference**, Session Chairs should have:
 
 The Birds of a Feather (BoF) Coordinator has the following duties:
 
-Work with Program Committe Co-Chairs (PC Co-Chairs) and LAC to determine:
+Work with Program Committee Co-Chairs (PC Co-Chairs) and LAC to determine:
 
 - How BoF session proposals will be collected.  Given that BoF tend to be more spontaneous than planned, the opportunity to propose a BoF session will be mentioned in the call, but actual proposals will not be collected through the submission form.
 
@@ -339,7 +339,7 @@ The Mentoring Committee Coordinator has the following duties:
 - Obtain a list of registrants and check for those who are a) new attendees and b) not members. Email this group with a call to request an IASSIST conference mentor.
 - Depending on the number of metnees, email individual IASSIST members who did not sign up at mentors to see if they will be willing to serve (this could be members who served as mentees in the past but did not sign up this time).  There are typically more mentees that sign up than mentors in the initial call.
 - In the call, a (Google) form should be use to capture mentor/mentee names and and little bit more about themselves.  <!--An example can be found here.-->
-- Use a Google Doc to pair mentor/mentees.  Try to match people that work in similar insitutions and have similar duties if possible.  Keep in mind language/cultural differences and do your best to be accomodating.
+- Use a Google Doc to pair mentor/mentees.  Try to match people that work in similar institutions and have similar duties if possible.  Keep in mind language/cultural differences and do your best to be accommodating.
 - Notify each mentor/mentee with their match via email. ([See here for an example](/file/conferences/IASSIST-conference-sample-email-for-mentor-mentee.docx)).
 - Remember to bring some name tags for mentor/mentees to use to help self-identify at the opening reception.
 - After the conference be sure to send an email to thank all participants for being a part of this program, and to urge mentees to join IASSIST and become active with various committees and interest groups.
@@ -550,13 +550,13 @@ The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< 
 |||Poster Session|IASSIST Banquet||
 
 <br />
-There may be additional meetings, like IFDO meeting, on Tuesday. DDI Allianace may also choose to meet after the conference on Saturday. 
+There may be additional meetings, like IFDO meeting, on Tuesday. DDI Alliance may also choose to meet after the conference on Saturday. 
 
 ## Collection and Archiving of Conference Presentations
 
 To be updated according to the new Zenodo strategy. 
 
-Session chairs and Program Chairs are in key position in reminding presenters to upload their presentation files to OpenConf and attach an appropriate license to them.
+Session chairs and Program Chairs are in key positions in reminding presenters to upload their presentation files to OpenConf and attach an appropriate license to them.
 
 
 
