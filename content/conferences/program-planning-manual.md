@@ -56,6 +56,10 @@ Revisions: Revisions: Partially updated text throughout sections 1–5.6, worksh
 Revised: June 2015 - May 2017<br />
 Revisions: Separate program planning from local arrangements content for more focused manual. Move manual to online platform. Substantial revisions to all information.
 
+**Revised by:** Anja Perry, GESIS - Leibniz Institute for the Social Sciences, Kevin Manuel, Toronto Metropolitan University, Jonathan Bohan, Cornell University, Meryl Brodsky, University of Texas Libraries<br />
+Revised 17 July 2023<br />
+Revisions: Added sections on the Paper Competition and the diversity review board, added to sections Plenaries, BoF, and Collecting and Archiving of Conference Presentations, corrected typos
+
 ## Purposes of the IASSIST Conference
 
 It is clear that, despite the growth of the Internet, e-mail and listservs, the annual conference still offers us the best way to communicate with each other, to share ideas, and to seek feedback from our peers. Both formally, through the delivery of papers and the presentation of poster-sessions, and informally through the one-on-one or small group conversations, a surprising amount of professional support and advice is given. The networking that takes place during break periods and in the evenings is just as important as the organized sessions, plenaries, workshops and roundtables. The conference provides us a way to conduct professional training and to upgrade our own skills through workshops. It allows us to promote data librarianship and archiving as well as innovations in social science technology, and to plan the future of our profession via roundtables and other working groups. The conference gives us the opportunity to take advantage of the expertise of the people who make up the membership of the Association, as well as bring new people into IASSIST. It is the only time of the year when both the Administrative Committee and the general membership are able to meet and vote on important issues. The formal presentation of papers at the conference promotes scholarly writing by the membership and offers them the opportunity to publish in the Association's quarterly journal.
@@ -96,7 +100,7 @@ Facilitate the committee choosing a conference theme, taking past (and especiall
 
 #### Plenaries
 
-Use the larger planning committee, as well as the LAC, to brainstorm ideas for plenary speakers.  This is helpful to do over the fall of the year prior to the conference.  Identify a Plenary Coordinator (this can be one of the co-chairs) as this is an important role. Speakers should be finalized before notifications go out to session speakers. Past conferences have generally had two or three plenary speakers.  Program co-chairs get to choose the number in consultation with the LAC.  
+Use the larger planning committee, as well as the LAC, to brainstorm ideas for plenary speakers. This is helpful to do over the fall of the year prior to the conference. Identify a Plenary Coordinator (this can be one of the co-chairs) as this is an important role. The plenary speakers usually come from the region and the LAC can help recruiting them. Speakers should be finalized before notifications go out to session speakers. Past conferences have generally had two or three plenary speakers. Program co-chairs get to choose the number in consultation with the LAC.  
 
 #### Coordinator Roles
 
@@ -114,7 +118,7 @@ Set up the OpenConf software, following the example of the previous year.  The p
 
 #### Meet Regularly with the LAC
 
-Stay in regular touch with the LAC.  Set up a schedule to meet (ideally) bi-weekly with the co-chairs abd the LAC. Coordinators of various aspects of the program (Posters, Workshops, Paper Competition, etc.) can be included as their part becomes prominent, or at least provide regular reports by email.
+Stay in regular touch with the LAC. Set up a schedule to meet (ideally) bi-weekly with the co-chairs and the LAC. Coordinators of various aspects of the program (Posters, Workshops, Paper Competition, etc.) can be included as their part becomes prominent, or at least provide regular reports by email.
 
 #### Call for Proposals (CFP)
 
@@ -200,7 +204,7 @@ The Workshop Coordinator has the following duties:
 	
 ### Plenary Session Coordinator Duties
 
-A program co-chair may assume these duties, or recruit a separate coordinator.  In 2017, one of the program co-chairs handled much of the recruitment (along with one of the LAC folks) and turned responsibility for the rest over to a separate plenary session coordinator in March.  The LAC is definitely helpful to work with as they tend to know of local experts who would be relevant, engaging Plenary speakers.
+A program co-chair may assume these duties, or recruit a separate coordinator. The LAC is definitely helpful to work with as they tend to know of local experts who would be relevant, engaging Plenary speakers.
 
 Please note that there are [specific guidelines related to financial compensation](#) regarding Plenary Speakers.
 
@@ -263,9 +267,11 @@ The Sorting team will not contact presenters; the PC Co-chairs will manage conta
 
 The Paper Competition Chair will review Papers that have been accepted for the conference; these paper presentations will be included in the program as individual presentations.
 
+#### Diversity review board:
+
+In 2023 a diversity review board was introduced. Three people with a diverse background (this can be in terms of origin, gender, sexuality, gender identity and so on) are asked to serve on this board and their task is to review all rejected submissions and check whether any rejections were made for discriminatory reasons. If this is the case, the program chairs will follow the diversity review board’s decision. The diversity review board also serves as a board of appeal for authors who feel that their submission was rejected for discriminatory reasons and who want to have the decision reevaluated.
 
 ### Concurrent Sessions Coordinator Duties
-Submitted by jend on Tue, 2015-08-18 07:57
 
 The Concurrent Sessions Coordinator has the following duties:
 
@@ -319,6 +325,8 @@ Work with Program Committee Co-Chairs (PC Co-Chairs) and LAC to determine:
 
 - How BoF session proposals will be collected.  Given that BoF tend to be more spontaneous than planned, the opportunity to propose a BoF session will be mentioned in the call, but actual proposals will not be collected through the submission form.
 
+- When the BoF session will be held. In the middle of the day, for example right after the Business Lunch, turned out to be successful!
+
 - Where the BoF session will be held with room layout (space will determine number of BoF proposals included).
 
 - BoF submissions can be collected pre-conference through a Google Forms (or other survey-based tool as appropriate). The Program Co-Chairs and/or LAC can send to those registered via email so that it doesn't have to go to the larger list. Duplicate topic proposals count as votes for that topic.
@@ -337,16 +345,45 @@ The Mentoring Committee Coordinator has the following duties:
 
 - About one month to a few weeks prior to the conference, send a call for mentor volunteers via the IASSIST Listserv.  Mentors are  "experienced," as in they have been IASSIST members for more than one year and have attended more than one conference.
 - Obtain a list of registrants and check for those who are a) new attendees and b) not members. Email this group with a call to request an IASSIST conference mentor.
-- Depending on the number of metnees, email individual IASSIST members who did not sign up at mentors to see if they will be willing to serve (this could be members who served as mentees in the past but did not sign up this time).  There are typically more mentees that sign up than mentors in the initial call.
-- In the call, a (Google) form should be use to capture mentor/mentee names and and little bit more about themselves.  <!--An example can be found here.-->
+- Depending on the number of mentees, email individual IASSIST members who did not sign up at mentors to see if they will be willing to serve (this could be members who served as mentees in the past but did not sign up this time).  There are typically more mentees that sign up than mentors in the initial call.
+- In the call, a (Google) form should be used to capture mentor/mentee names and and little bit more about themselves.  <!--An example can be found here.-->
 - Use a Google Doc to pair mentor/mentees.  Try to match people that work in similar institutions and have similar duties if possible.  Keep in mind language/cultural differences and do your best to be accommodating.
 - Notify each mentor/mentee with their match via email. ([See here for an example](/file/conferences/IASSIST-conference-sample-email-for-mentor-mentee.docx)).
 - Remember to bring some name tags for mentor/mentees to use to help self-identify at the opening reception.
 - After the conference be sure to send an email to thank all participants for being a part of this program, and to urge mentees to join IASSIST and become active with various committees and interest groups.
 	
-###	Paper Competition Coordinator Duties
+### Paper Competition Coordinator Duties
 	
-[Forthcoming]
+The paper competition is open to IASSIST members who are writing or have written a paper in the year since the last IASSIST conference. The paper may be published or unpublished. It must be of interest to IASSIST members, and it must be written in English with formatted references. The winner receives a free entry to next year’s IASSIST conference.  
+The paper competition is run by a volunteer coordinator.
+
+Responsibilities:
+- Find several volunteers (3-7) to serve as Reviewers (Feb/March)
+	- It’s ideal if volunteers from different regions can participate
+	- The competition can be conducted over email
+	- Send the Reviewers the review spreadsheet and ask if they would like to make changes
+- Communicate with the Program committee about the status of the competition
+	- Receive the Paper Submitters’ emails & proposals (March)
+	- Confirm Submission deadline (end of March/Mid-April)
+	- Inform when the review is complete (2 weeks before the conference)
+- Communicate deadline with Submitters
+	- Send email informing Submitters that you must receive the papers approximately 4-6 weeks prior to the conference (end of March/Mid-April)
+	- Send a reminder email to Submitters approximately 2 weeks before the papers are due (8 weeks before the conference)
+	- Some Submitters will likely ask for an extension. Decide whether to allow this. Confer with the Reviewers about this.
+- Receive the papers (end of March/April)
+	- Create a google drive and store the review sheet there
+	- Store the papers on that same Google Drive
+	- You may “blind” the review by renaming the papers if the Reviewers would like to do it this way
+	- Inform Submitters their papers have been received (upon receipt)
+- Inform the Reviewers that the papers have been received and send link to the Google Drive (end of March/April)
+	- Each reviewer reads every paper and rates them on the review sheet
+	- Each reviewer sends the review sheet (usually named with the reviewer’s name) to the coordinator (2 weeks before the conference)
+- Receive the Reviewers’ spreadsheets (2 weeks before conference)
+	- Average the reviews together for each paper
+	- Determine the winner based on the score
+	- Confirm the results with Reviewers and ask if they agree or if there are questions/concerns
+- Announce the winner at the end of the IASSIST Conference!
+
 	
 ### Lightning Talks Coordinator Duties
 
@@ -518,7 +555,7 @@ The conference logo itself is typically created by the LAC, but they will likely
 
 ## Finances Related to Plenary Speakers, Workshop Presenters, Honored Members, etc.
 
-IASSIST is not in a position to provide financial assistance for participation in the conference. All speakers and Chairs are expected to register for the conference and pay conference fees. **Plenary speakers** are not expected to pay conference fees and are invited to attend activities *during the day of the plenary* at no charge. This information should be conveyed to individuals at the time of initial contact to avoid any misunderstandings.
+IASSIST is not in a position to provide financial assistance for participation in the conference. All speakers and Chairs are expected to register for the conference and pay conference fees. **Plenary speakers** are not expected to pay conference fees and are invited to attend activities *during the day of the plenary* at no charge. This information should be conveyed to individuals at the time of initial contact to avoid any misunderstandings. To save plenary speakers travel costs, they are usually recruited from the region.
 
 The local arrangements committee (LAC) may use the sponsorship funds they have negotiated to partly cover costs like accommodation or travel for plenary speakers or local organizers. Please keep in mind that it will fall on the LAC to a) provide the necessary steps and processes for reimbursements and/or compensation, and b) process the necessary tax paperwork for recipients.
 
@@ -556,7 +593,7 @@ There may be additional meetings, like IFDO meeting, on Tuesday. DDI Alliance ma
 
 To be updated according to the new Zenodo strategy. 
 
-Session chairs and Program Chairs are in key positions in reminding presenters to upload their presentation files to OpenConf and attach an appropriate license to them.
+Session chairs and Program Chairs are in key positions in reminding presenters to upload their presentation files. It works best if presenters can choose between uploading their slides in OpenConf (and have volunteers add them to Zenodo) and uploading them to Zenodo directly. Prepare a [cheat sheet](https://iassistdata.org/conferences/iassist2023/recommended-presentation-metadata-in-zenodo-2023.pdf) for the direct upload to Zenodo to make sure that everyone adds the relevant metadata. The Session and Program Chairs should follow up with the presenters during the weeks after the conference to collect as many presentations as possible. 
 
 
 
