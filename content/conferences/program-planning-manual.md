@@ -361,7 +361,7 @@ Responsibilities:
 - Find several volunteers (3-7) to serve as Reviewers (Feb/March)
 	- It’s ideal if volunteers from different regions can participate
 	- The competition can be conducted over email
-	- Send the Reviewers the [review spreadsheet](/conferences/2022-IASSIST-Papers-Competition-Review-Sheet.xlxs) and ask if they would like to make changes
+	- Send the Reviewers the [review spreadsheet](/content/conferences/2022-IASSIST-Papers-Competition-Review-Sheet.xlsx) and ask if they would like to make changes
 - Communicate with the Program committee about the status of the competition
 	- Receive the Paper Submitters’ emails & proposals (March)
 	- Confirm Submission deadline (end of March/Mid-April)
