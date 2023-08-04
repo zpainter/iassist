@@ -17,9 +17,7 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 **Lorin Bruckner**, Data Visualization Services Librarian at University of North Carolina at Chapel Hill, will demonstrate the different ways that R Shiny apps have been used in her library including for patron projects, tutorials and for interdepartmental library statistics. She'll review the code used to generate an app and explain how R Shiny works differently from R. She'll talk about the user interface vs. server code, and how apps can be improved with some knowledge of HTML and CSS. Attendees should have some basic knowledge or experience with R to get the most out of this webinar.
 
-About the Speaker
-
-Lorin Bruckner has worked as a Data Visualization Librarian at UNC Chapel Hill since 2016. While assisting researchers at the University Library, she relies on her knowledge and experience in data analysis as well as her 10 year background in web design and creative direction. She obtained her MS in Information Science at the University of Illinois at Urbana-Champaign.
+**About the Speaker:** Lorin Bruckner has worked as a Data Visualization Librarian at UNC Chapel Hill since 2016. While assisting researchers at the University Library, she relies on her knowledge and experience in data analysis as well as her 10 year background in web design and creative direction. She obtained her MS in Information Science at the University of Illinois at Urbana-Champaign.
 
 **Time:** Thursday, August 17th from 1:00-2:00pm Eastern Time (US/Canada)
 
