@@ -11,21 +11,21 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-No registrations open at the moment.
+<!--No registrations open at the moment.-->
 
-<!--
-#### IASSIST Professional Development Webinar - Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics
+#### IASSIST Professional Development Webinar - Making R Interactive With Shiny
 
-The National Center for Science and Engineering Statistics tasked the Committee on National Statistics to undertake a consensus panel study to examine the degree of transparency and reproducibility of federal statistics. The principal questions were: what should an agency should do to make available, both internally and externally, archives of the input data sets used to generate sets of official statistics; documentation of the treatments done to the raw data prior to the computation of the final estimates (for treatment of failed edits, nonresponse, etc.); and documentation of what goes into the computation of the final published estimates. 
+**Lorin Bruckner**, Data Visualization Services Librarian at University of North Carolina at Chapel Hill, will demonstrate the different ways that R Shiny apps have been used in her library including for patron projects, tutorials and for interdepartmental library statistics. She'll review the code used to generate an app and explain how R Shiny works differently from R. She'll talk about the user interface vs. server code, and how apps can be improved with some knowledge of HTML and CSS. Attendees should have some basic knowledge or experience with R to get the most out of this webinar.
 
-Committee members, **Daniel Gillman** (a mathematical statistician for the U.S. Bureau of Labor Statistics (BLS)) and **Margaret Levenstein** (director of the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan) will summarize the findings. See how these findings can be applicable to your own data center or institutional repository and how such standards could be applied internationally.
+About the Speaker
 
-**Time:** Feb 17, 2023 11:00 AM Eastern/10:00 AM Central/9:00 AM Mountain/8 AM Pacific
+Lorin Bruckner has worked as a Data Visualization Librarian at UNC Chapel Hill since 2016. While assisting researchers at the University Library, she relies on her knowledge and experience in data analysis as well as her 10 year background in web design and creative direction. She obtained her MS in Information Science at the University of Illinois at Urbana-Champaign.
 
-<a class="btn btn-template-main" href="https://bit.ly/iassistscience" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
+**Time:** Thursday, August 17th from 1:00-2:00pm Eastern Time (US/Canada)
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZIkcuGtqjoiGte1VJVXIzotAMAD2fkcRIGj" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
--->
 
 ### Most recent webinar recordings
 
