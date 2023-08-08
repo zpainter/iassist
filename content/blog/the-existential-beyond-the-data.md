@@ -8,7 +8,7 @@ banner = "/img/blog/iassist-fellows-2023-with-exec.jpg"
 +++
 First of all, I must clarify that I am not ChatGPT. I am not a bot! This blog was written by a sentient human being who participated in the IASSIST 2023 Conference.
 
-{{< figure src="/img/blog/iassist-fellows-2023-with-exec.jpg" class="wrap-right" link="/img/blog/iassist-fellows-2023-with-exec.jpg" alt="A group of people standing in a banquet room, posing to the camera." title="IASSIST Fellows 2023 with IASSIST officials." width="300" >}}
+{{< figure src="/img/blog/iassist-fellows-2023-with-exec.jpg" class="wrap-right" link="/img/blog/iassist-fellows-2023-with-exec.jpg" alt="A group of white and coloured people standing in a banquet room, posing to the camera." title="IASSIST Fellows 2023 with IASSIST officials." width="300" >}}
 
 Often, professionals from the Southern Hemisphere travel to the US to enjoy a greater sense of autonomy and an international experience. For me, attending IASSIST was a brief but important professional opportunity. I'd like to acknowledge the support of Kevin Manuel (Canada) and the rest of the conference program committee, who provided me an opportunity to present my work to this international audience. Also, many thanks to Bobray Bordelon (USA), who has been a very supportive and active mentor before and during the Conference.
 

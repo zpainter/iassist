@@ -61,7 +61,7 @@ td {
 /*For images that need to have text wrapped around them */
 figure.wrap {
 	float: left;
-	padding: .5em 0 0 1em;
+	padding: .5em 1em 0 0;
 	border: solid silver 0px;
 }
 
