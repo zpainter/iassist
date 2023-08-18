@@ -4,7 +4,7 @@ title = "IASSIST Program Sponsorship: International Symposium on Open Science in
 tags = [ "News and Announcements", "Community", "open science", "event sponsorship",]
 date = "2023-08-14 00:04:00 -0700"
 draft = "false"
-banner = "/img/blog/international-symposium-on-open-science-in-malaysia1.jpg"
+banner = "/img/blog/international-symposium-on-open-science-in-malaysia1crop.jpg"
 +++
 Greetings IASSISTers! For most North American Universities and Colleges, we are in end-of-academic-year-phase - which finds us gearing up for the rush of summer conferences and workshops; it's time to retool and/or share our expertise with the world! 
 
