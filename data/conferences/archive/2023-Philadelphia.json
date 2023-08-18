@@ -1828,7 +1828,7 @@
       "presentations": [
         {
           "title": "Workshop 1: A Friendly Introduction to Python for Absolute Beginners",
-          "abstract": "Interested in learning to program but don't know where to start? This hands-on workshop will introduce you to the basic concepts of one of the world's most popular programming languages, Python! This introduction to Python will include concepts such as data types, variables, operators and loops. You will also learn how to use Jupyter Notebooks to read and write code. This workshop will establish a foundation to start exploring Python, and help to get rid of any nervousness you might have about learning to code. There will be plenty of opportunities to ask any questions and practice as we go!",
+          "abstract": "Interested in learning to program but don't know where to start? This hands-on workshop will introduce you to the basic concepts of one of the world's most popular programming languages, Python! This introduction to Python will include concepts such as data types, variables, operators and loops. You will also learn how to use Jupyter Notebooks to read and write code. This workshop will establish a foundation to start exploring Python, and help to get rid of any nervousness you might have about learning to code. There will be plenty of opportunities to ask any questions and practice as we go! For materials see: https://mdl.library.utoronto.ca/technology/tutorials/python-information-tutorials-and-workshops",
           "doi": "",
           "video": "",
           "presenters": [
@@ -1869,7 +1869,7 @@
         {
           "title": "Workshop 4: Incorporating Critical Data Literacy into Data Visualization Pedagogy",
           "abstract": "From understanding climate change to COVID-19, data visualizations and infographics are an important tool for making sense of complex issues and data. Visualizations are ubiquitous as we encounter them in news sources, social media, scientific papers and more; however, they are often treated as a neutral, and objective source of information. In this workshop we will look at methods of teaching data visualization skills that encourage participants to both read and create visualizations in a critical manner.  The first part of the workshop will cover foundational concepts in visualization in design principles, as well as provide a critical understanding of the history of data visualizations and how they’ve been mobilized in both beneficial and harmful ways. This section will also provide an overview on how to incorporate principles of data justice, data ethics and accessibility into your pedagogical practice during each building block of teaching the data visualization process.  The second half of this section will bring into focus, the larger data justice concepts from other fields such as using counter-data, participatory research techniques, anonymity by design and explore how they may apply to teaching data visualizations. We will also explore how as data practitioners we can manage complexity and uncertainty in our data in ethical ways.  We will end the session by working together on some instruction design activities that participants will be able to workshop with each other in groups.  This workshop is suitable for people who are interested in both learning about data visualizations and teaching data visualizations at all levels.",
-          "doi": "",
+          "doi": "https://doi.org/10.5281/zenodo.8229494",
           "video": "",
           "presenters": [
             {
