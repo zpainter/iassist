@@ -11,7 +11,9 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 ### Webinar registrations
 
-<!--No registrations open at the moment.-->
+No registrations open at the moment.
+
+Recording forthcoming: 
 
 #### IASSIST Professional Development Webinar - Making R Interactive With Shiny
 
@@ -20,8 +22,8 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 **About the Speaker:** Lorin Bruckner has worked as a Data Visualization Librarian at UNC Chapel Hill since 2016. While assisting researchers at the University Library, she relies on her knowledge and experience in data analysis as well as her 10 year background in web design and creative direction. She obtained her MS in Information Science at the University of Illinois at Urbana-Champaign.
 
 **Time:** Thursday, August 17th from 1:00-2:00pm Eastern Time (US/Canada)
-
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZIkcuGtqjoiGte1VJVXIzotAMAD2fkcRIGj" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
+<!--
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZIkcuGtqjoiGte1VJVXIzotAMAD2fkcRIGj" title="" >Registration <i class="fas fa-external-link-alt"></i></a>-->
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
