@@ -1,6 +1,6 @@
 +++
 year = "2024"
-draft = "true"
+draft = "false"
 title = "IASSIST 2024 - Main Page"
 location = "Halifax, Canada"
 datalink = "/data/conferences/archive/2024-Halifax.json"
@@ -11,9 +11,10 @@ type = "conference-2024"
 
 ## 49th Annual Conference of IASSIST
 
-### Halifax, Nova Scotia, Canada
+### Halifax, Nova Scotia, Canada, June 2024
 
 **Host institution: IASSIST with representation from selected universities in Canada.**
+Held with [CARTO <i class="fas fa-external-link-alt"></i>](https://acmla-acacc.ca/), Association of Canadian Map Libraries and Archives.
 
 ### Call for Papers and Workshops
 

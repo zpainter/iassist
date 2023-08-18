@@ -6,9 +6,11 @@ location = "Halifax, Canada"
 type = "conference-2024"
 +++
 
-Registration is expected to open in February/March 2024.
+**Registration is expected to open in February/March 2024.**
 
 Registration rates will be posted as soon as they are confirmed. Early bird registration will be available. 
+
+<br /><br />
 
 <!--
 The prior registration rates are posted below:

@@ -10,6 +10,7 @@ type = "conference-2024"
 
 To be announced.
 
+For places to go or stay and things to do in Nova Scotia, see [Tourism Nova Scotia <i class="fas fa-external-link-alt"></i>](https://www.novascotia.com/).
 
 
 

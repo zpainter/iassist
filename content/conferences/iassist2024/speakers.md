@@ -5,7 +5,7 @@ title = "IASSIST 2024 - Speakers"
 location = "Halifax, Canada"
 type = "conference-2024"
 +++
-## Special guest speakers
+To be announced.
 
 <!--
 <div style="display:flex;align-items:top;margin:2em 0 4em 0;">
