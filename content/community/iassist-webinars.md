@@ -13,7 +13,7 @@ Webinars will be recorded and made available on the IASSIST YouTube Channel.
 
 No registrations open at the moment.
 
-Recording forthcoming: 
+<!--
 
 #### IASSIST Professional Development Webinar - Making R Interactive With Shiny
 
@@ -22,12 +22,21 @@ Recording forthcoming:
 **About the Speaker:** Lorin Bruckner has worked as a Data Visualization Librarian at UNC Chapel Hill since 2016. While assisting researchers at the University Library, she relies on her knowledge and experience in data analysis as well as her 10 year background in web design and creative direction. She obtained her MS in Information Science at the University of Illinois at Urbana-Champaign.
 
 **Time:** Thursday, August 17th from 1:00-2:00pm Eastern Time (US/Canada)
-<!--
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZIkcuGtqjoiGte1VJVXIzotAMAD2fkcRIGj" title="" >Registration <i class="fas fa-external-link-alt"></i></a>-->
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZIkcuGtqjoiGte1VJVXIzotAMAD2fkcRIGj" title="" >Registration <i class="fas fa-external-link-alt"></i></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+-->
 
 ### Most recent webinar recordings
+
+#### Making R Interactive With Shiny
+
+Lorin Bruckner <br /> <!--[Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7535199)-->
+
+{{< youtube aUriimb5Pbw >}}
+
+<br />
 
 #### IASSIST Professional Development Webinar - Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics
 
@@ -37,16 +46,9 @@ Margaret Levenstein, Daniel Gillman <br /> Webinar slides on Zenodo: [Levenstein
 
 <br />
 
-#### An Overview of the National Institutes of Health (NIH) Data Management and Sharing Policy
-
-Lisa Federer <br /> [Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7535199)
-
-{{< youtube gvc2qcJ7274 >}}
-
-<br />
-
-
 ### Older webinar recordings
+
+- [An Overview of the National Institutes of Health (NIH) Data Management and Sharing Policy<i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=gvc2qcJ7274) (Lisa Federer)<br />([Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7535199))
 
 - [A Conversation About Data on Race & Ethnicity Around the World<i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=7S8Y9dA1rPY) (Bobray Bordelon, Barbara Levergood, Kevin Manuel, Nigel de Noronha, Anja Perry, Anne Zald. Moderators Alexandra Cooper, Deborah Wiltshire)<br />([Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7400733))
 
