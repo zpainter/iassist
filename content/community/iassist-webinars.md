@@ -7,11 +7,11 @@ draft = "false"
 
 IASSIST Professional Developement Committee organizes and hosts IASSIST Community Webinars. Webinars are free to attend, but a registration is required. IASSIST members will be the first ones to get the information on future webinars. Webinars usually last about 45-60 minutes. Some of the topics have for example been data visualization, qualitative analysis tools, and data curation. 
 
-Webinars will be recorded and made available on the IASSIST YouTube Channel.
+Webinars will be recorded and made available on the [IASSIST YouTube Channel playlist <i class="fas fa-external-link-alt"></i>](https://www.youtube.com/watch?v=aUriimb5Pbw&list=PLD9Y_M_A24iQJBWr2tz4XyPRFXHj-gTEW&pp=iAQB).
 
 ### Webinar registrations
 
-No registrations open at the moment.
+> No webinar registrations open at the moment.
 
 <!--
 
@@ -32,7 +32,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### Making R Interactive With Shiny
 
-Lorin Bruckner <br /> <!--[Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.7535199)-->
+Lorin Bruckner <br /> [Webinar slides on Zenodo <i class="fas fa-external-link-alt"></i>](https://doi.org/10.5281/zenodo.8308322)
 
 {{< youtube aUriimb5Pbw >}}
 
