@@ -10,7 +10,9 @@ type = "conference-2024"
 
 #### Chairs
 
-TBA
+- Sophia Lafferty-Hess (Duke University)
+- Zach MacDonald (Western University)
+- Kristi Thompson (Western University)
 
 **Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
 
@@ -28,12 +30,12 @@ TBA
 
 ### Local Arrangements Committee
 
-- Sandra Sawchuk
-- Louise Gilles
-- Chantal Ripp
-- Dylanne Dearborn
-- Jane Fry
-- Amber Leahey
+- Sandra Sawchuk (Mount Saint Vincent University)
+- Louise Gilles (Dalhousie University)
+- Chantal Ripp (University of Ottawa)
+- Dylanne Dearborn (University of Toronto)
+- Jane Fry (Carleton University)
+- Amber Leahey (University of Toronto)
 
 <!--
 The Local Arrangements Committee worked with [Concentra Conference Management Services <i class="fas fa-external-link-alt"></i>](https://www.concentra-cms.com/).

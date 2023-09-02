@@ -14,4 +14,4 @@ The information below was intended as a starting point. Travelers should confirm
 
 Most people need a visa or an [Electronic Travel Authorization <i class="fas fa-external-link-alt"></i>](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html) (eTA) to travel to Canada - not both. Some people may only need their valid passport.
 
-The Program or Local Arrangements Committee provided letters of invitation to the conference for those who needed them.
+The Program or Local Arrangements Committee will provide letters of invitation to the conference for those who needed them. Please reach out in good time.

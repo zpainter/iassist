@@ -20,11 +20,11 @@ The conference will take place in...
       }
     </style>
   <div class="mapFrame">
-    <iframe width="99%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-63.75434875488282%2C44.56552335655411%2C-63.43299865722656%2C44.73258898857743&amp;layer=mapnik"></iframe>
+    <iframe width="99%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-63.585197925567634%2C44.6410708469422%2C-63.56511354446412%2C44.651512957435195&amp;layer=mapnik&amp;marker=44.64629213715291%2C-63.57515573501587"></iframe>
   </div>
 </div>
 
-<small><a href="https://www.openstreetmap.org/#map=12/44.6491/-63.5937" target="_blank" title="Opens a new tab">View Larger Map<i class="fas fa-external-link-alt"></i></a></small>
+<small><a href="https://www.openstreetmap.org/?mlat=44.6463&amp;mlon=-63.5752#map=16/44.6463/-63.5752" target="_blank" title="Opens a new tab">View Larger Map<i class="fas fa-external-link-alt"></i></a></small>
 
 ## Local Information
 
