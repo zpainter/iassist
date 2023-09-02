@@ -10,19 +10,23 @@ type = "conference-2024"
 
 ### Emergency Contact Details
 
-911 (or local police) or Canadian Coast Guard (1-800-565-1633). You should only call 911 if you are in an emergency situation and need immediate help.
+911 is the emergency number in Canada. You should only call 911 if you are in an emergency situation and need immediate help.
 
 ### Where will the conference take place?
 
-TBA
+The conference will take place at the Halifax Convention Centre, in Halifax, Nova Scotia, Canada from May 28 - May 31, 2024.
 
 ### Where will the workshops take place?
 
-TBA
+The workshops will take place at Dalhousie University, more information coming soon. 
+
+### Will there be an option for virtual attendance?
+
+IASSIST 2024 will be an in-person only conference experience. In-person attendees must register to attend the conference and participate in the workshops. Papers and presentations will be made available after the conference. 
 
 ### What is the registration fee?
 
-All conference registration fees will be listed on the [registration page](https://iassistdata.org/conferences/iassist2024/registration/) of the Conference Website.
+When confirmed, all conference registration fees will be listed on the [registration page](https://iassistdata.org/conferences/iassist2024/registration/) of the Conference Website.
 
 ### When does registration open?
 
@@ -30,7 +34,7 @@ TBA
 
 ### Can I register in person at the Conference Venue?
 
-Yes, registration is accepted on-site, however, we encourage you to register early to receive valuable conference information.
+TBA
 
 ### Can I get a discount when I register early?
 
@@ -42,15 +46,15 @@ TBA
 
 ### What is included in the full registration fees?
 
-**Registration for IASSIST 2024** includes access to all sessions and provided meals and breaks that are included on the schedule from Tuesday evening through Friday.
+**In-Person Registration** for IASSIST 2024 includes access to all sessions and provided meals and breaks that are included on the schedule from Tuesday evening, May 28 through Friday, May 31.
 
 _* Pre-conference workshops can be added to your registration for an additional fee_.
 
-**One-Day ONLY Registration for IASSIST 2024** includes access to all sessions and meals and breaks that are included on the schedule for the One Day selected. Reception and Banquet are excluded from One-Day registration.
+**In-Person One-Day ONLY Registration** for IASSIST 2024 includes access to all sessions and meals and breaks that are included on the schedule for the One Day selected. Reception and Banquet are excluded from One-Day registration.
 
 ### What meals are included with registration?
 
-TBA
+Light morning break, full lunch, and an afternoon break will be provided to all in-person registrants Wednesday through Friday.
 
 ### What sessions will be virtual and live streamed?
 
@@ -58,15 +62,11 @@ TBA
 
 ### How do I get around in Halifax?
 
-TBA
+More information will be made available on the Maps & Local Information page on the conference website for Local Details.
 
 ### When will the registration desk be available on site?
 
-TBA
-
-### Can in-person attendees access the virtual sessions?
-
-TBA
+The Conference Registration desk will be located in the Halifax Convention Centre, Argyle Level, at the conference venue. The desk will be staffed at 8am, Tuesday through Friday. Staff will remain at the desk during conference hours each day.
 
 ### What is the registration cancellation policy?
 
