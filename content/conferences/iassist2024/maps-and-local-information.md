@@ -8,7 +8,7 @@ type = "conference-2024"
 
 ## Conference Venue
 
-The conference will take place in...
+The conference will take place in Halifax Convention Centre.
 
 <div class="map" style="padding:0">
     <style>
