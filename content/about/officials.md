@@ -118,8 +118,7 @@ sancan99 [ at ] gmail.com
 
 **Editor, Quarterly**
 
-Karsten Boye Rasmussen,
-kbr [ at ] sam.sdu.dk
+Michele Hayslett, Ofira Schwartz-Soicher
 
 **Editor, Web**
 
@@ -128,7 +127,7 @@ zwp [ at ] stanford.edu
 
 **Archivist**
 
-Open
+Christine Nieman
 
 **Regional Treasurer (Canada)** 
 
@@ -172,7 +171,7 @@ Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 **Conference Program Committee 2024**
 
-TBA
+Sophia Lafferty-Hess, Zach MacDonald, Kristi Thompson
 
 &nbsp;
 
