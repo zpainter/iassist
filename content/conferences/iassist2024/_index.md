@@ -7,7 +7,7 @@ datalink = "/data/conferences/archive/2024-Halifax.json"
 type = "conference-2024"
 +++
 
-{{< figure src="/img/conferences/annual/halifax-2024-placeholder.jpg" alt="" title="" width="800" >}}
+{{< figure src="/img/conferences/annual/halifax2024-savethedate800.jpg" alt="" title="" width="800" >}}
 
 ## 49th Annual Conference of IASSIST
 
@@ -39,7 +39,7 @@ It will be the **Best. IASSIST. Ever.**
 - Jane Fry (Carleton University)
 - Amber Leahey (University of Toronto)
 
-Image credit: Tuomas J. Alaterä, 2023
+<!--Image credit: Tuomas J. Alaterä, 2023-->
 
 <!--
 Image credit: [Wikimedia Commons <i class="fas fa-external-link-alt"></i>](https://commons.wikimedia.org/wiki/File:Philadelphia_skyline_from_South_Street_Bridge_January_2020_(rotate_2_degrees_perspective_correction_crop_4-1).jpg) licensed under the [Creative Commons Attribution-Share Alike 4.0 International <i class="fas fa-external-link-alt"></i>](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
