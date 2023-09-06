@@ -8,6 +8,8 @@ type = "conference-2024"
 
 ### Program Committee
 
+Please send all questions to: **programme ( at ) lists.iassistdata.org**
+
 #### Chairs
 
 - Sophia Lafferty-Hess (Duke University)
