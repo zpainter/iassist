@@ -26,17 +26,15 @@ All data topics from data professionals related to *data archiving, data managem
 - Indigenous and racialized (BIPOC) peoples
 - LGBTQ+ peoples
 - Womenâ€™s health and rights
--->
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. NOTE: Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can't understand what a proposal is about, it will be rejected.
 
 MULTIPLE SUBMISSIONS: The conference organizers anticipate that some individuals may wish to submit multiple proposals. We expect to have many submissions, so we would kindly ask you to restrict submissions to one per person only.
 
-<!--
 <br />
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/openconf.php">Submit your conference proposal <i class="fas fa-external-link-alt"></i></a>
 <br /><br />
--->
+
 
 ### Support for Attending the Conference
 
@@ -44,13 +42,11 @@ IASSIST Fellows Program supports data professionals from countries with emerging
 
 IASSIST Early Professional Fellows Program supports early career data professionals from under-resourced institutions and recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
 
-Applications can be made on a separate form. <!--Applications will close on 22 February 2023.--> Please address your questions about the Fellows Program to Fellows Committee Co-Chairs Florio Arguillas (foa2@cornell.edu) and Sarah Young (sarahy@andrew.cmu.edu).
+Applications can be made on a separate form. Applications will close on 22 February 2023. Please address your questions about the Fellows Program to Fellows Committee Co-Chairs Florio Arguillas (foa2@cornell.edu) and Sarah Young (sarahy@andrew.cmu.edu).
 
-<!--
 <br />
 <a class="btn btn-template-main" href="https://forms.gle/PRNz3p91Yao6sBjq5">Submit your Fellowship application <i class="fas fa-external-link-alt"></i></a>
 <br /><br />
--->
 
 ### Presentation Formats
 
@@ -76,9 +72,7 @@ This format is most useful for one-on-one discussions about your research topic 
 
 Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide the necessary classroom space and, depending on need and availability, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Typically workshops are half-day with 2-hour and 3-hour options.
 
-<!--
 Workshops will be held on 30 May 2023. Questions about workshop submissions may be sent to the Workshop Coordinators (Amber Sherman, Deborah Wiltshire, Robert Buwule, and Simon Parker) at workshops@lists.iassistdata.org.
--->
 
 **Lightning Talks**
 

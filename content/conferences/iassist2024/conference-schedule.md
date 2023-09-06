@@ -8,6 +8,9 @@ type = "conference-2024"
 
 ## IASSIST 2024 Conference schedule at a glance
 
+Details on the 2024 schedule will appear in the Spring as the program is finalized.
+
+<!--
 A typical conference schedule is shown below.  Details on the 2024 schedule will appear in the Spring as the program is finalized.
 
 <style>
@@ -99,6 +102,7 @@ A typical conference schedule is shown below.  Details on the 2024 schedule will
 ## Detailed schedule
 
 Forthcoming.
+-->
 
 <!---
 Monday|Tuesday|Wednesday|Thursday|Friday|

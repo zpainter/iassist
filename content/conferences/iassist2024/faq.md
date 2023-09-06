@@ -56,10 +56,6 @@ _* Pre-conference workshops can be added to your registration for an additional 
 
 Light morning break, full lunch, and an afternoon break will be provided to all in-person registrants Wednesday through Friday.
 
-### What sessions will be virtual and live streamed?
-
-TBA
-
 ### How do I get around in Halifax?
 
 More information will be made available on the Maps & Local Information page on the conference website for Local Details.
