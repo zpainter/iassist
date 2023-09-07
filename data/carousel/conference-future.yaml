@@ -1,9 +1,7 @@
 weight: 2
-title: "IASSIST 2023"
+title: "IASSIST / CARTO 2024"
 description: >
-    <p class="carouselText">Diversity in Research:<br /></p>
-    <p class="carouselText">Social Justice from Data<br /></p>    
-    <p class="carouselText">Philadelphia, PA, USA<br /></p>
-    <p class="carouselText">May 30 - June 2, 2023<br /></p>
-    <p class="carouselText"><a href="https://iassistdata.org/conferences/iassist2023/">Thank you for attending!</a></p>
+    <p class="carouselText">Halifax, Nova Scotia, Canada<br /></p>
+    <p class="carouselText">May 28 - May 31, 2024<br /></p>
+    <p class="carouselText"><a href="https://iassistdata.org/conferences/iassist2024/">Read more</a></p>
 image: "img/carousel/iassist2023-2.png"

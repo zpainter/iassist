@@ -22,15 +22,23 @@ The annual conference is always an international event. Conference locations ref
 
 #### Annual Conference
 
-Philadelphia, PA, USA, May 30 - June 2, 2023
+Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
 
-<a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023 Conference website</a> 
+<a class="btn btn-template-main" href="./iassist2024/">IASSIST 2024 Conference website</a> 
+
+### 2023 IASSIST Events
 
 #### Africa Workshop
 
 3rd IASSIST Africa Regional Workshop Pretoria, South Africa, October 18-20, 2023.
 
 <a class="btn btn-template-main" href="./iassist-africa-2023/">To Africa Workshop</a> 
+
+#### Annual Conference
+
+Philadelphia, PA, USA, May 30 - June 2, 2023
+
+<a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023 Conference website</a> 
 
 </div>
 
