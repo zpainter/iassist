@@ -18,7 +18,7 @@ The annual conference is always an international event. Conference locations ref
 
 <div style="background-color:#eee;padding:.5em;">
 
-### 2023 IASSIST Events
+### 2024 IASSIST Events
 
 #### Annual Conference
 
