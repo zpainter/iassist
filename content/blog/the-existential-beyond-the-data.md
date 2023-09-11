@@ -1,7 +1,7 @@
 +++
 author = "Noé Nessel"
 title = "The Existential... Beyond the Data"
-tags = [ "News and Announcements", "Community", "Data Professionals",]
+tags = [ "Community", "Data Professionals", "iassist 2023", "conferences", "fellows",]
 date = "2023-07-10 00:04:00 -0700"
 draft = "false"
 banner = "/img/blog/iassist-fellows-2023-with-exec.jpg"
