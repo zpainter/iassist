@@ -11,7 +11,7 @@ type = "conference-2024"
 
 ## 49th Annual Conference of IASSIST
 
-### Halifax, Nova Scotia, Canada, June 2024
+### Halifax, Nova Scotia, Canada, May 2024
 
 **Host institution: IASSIST with representation from Dalhousie University, Mount Saint Vincent University, and Cape Breton University.**
 Held with [CARTO <i class="fas fa-external-link-alt"></i>](https://acmla-acacc.ca/), Association of Canadian Map Libraries and Archives.
@@ -25,7 +25,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 To be announced in fall 2023.
 
 It will be the **Best. IASSIST. Ever.**
-
+	
 ### Program Committee Chairs
 - Sophia Lafferty-Hess (Duke University)
 - Zach MacDonald (Western University)
