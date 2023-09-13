@@ -2,7 +2,7 @@
 author = "Sarah Young"
 title = "IASSIST Fellows 2023: Bridging Perspectives, Building Connections"
 tags = [ "News and Announcements", "Community", "fellows", "event sponsorship", "iassist 2023",]
-date = "2023-08-14 00:04:00 -0700"
+date = "2023-09-11 00:04:00 -0700"
 draft = "false"
 banner = "/img/blog/fellows2023-2.jpg"
 +++
