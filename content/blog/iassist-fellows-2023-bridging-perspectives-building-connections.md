@@ -18,7 +18,7 @@ banner = "/img/blog/fellows2023-2.jpg"
 
 ***Wahidah***: IASSIST 2023 provided opportunities to learn about the latest advancements, great ideas, and trends in data management, services, and related research areas. Moreover, IASSIST also presented new research opportunities and ideas that I can take back to my institution.
 
-***Olakine***: In developing a research data policy at universities, I learned that libraries need to help their researchers embrace open scholarship through advocacy. Developing a research data policy should be done with caution and professionalism through conformity with ethical and legal frameworks on data sharing.
+***Olanike***: In developing a research data policy at universities, I learned that libraries need to help their researchers embrace open scholarship through advocacy. Developing a research data policy should be done with caution and professionalism through conformity with ethical and legal frameworks on data sharing.
 
 {{< figure src="/img/blog/fellows2023-1.jpg" class="wrap" link="/img/blog/fellows2023-1,jpg" alt="Two colored women stand on the sunny deck of a ship. Both women are dressed in colorful clothes and they are smiling and gesturing happily." title="Wahidah left) and Olanike on the Ben Franklin Yacht." width="300" >}}
 
@@ -26,7 +26,7 @@ banner = "/img/blog/fellows2023-2.jpg"
 
 ***Noé***: At the conference, we can encourage each other to promote the discipline of social science data services on each of our continents. We are recharged with the energy to collaborate with our various communities and stakeholders.
 
-***Olakine***: The IASSIST conference provided me the opportunity to expand my professional network by meeting new colleagues from Africa, North America, Asia and Europe.  I now have linkages with colleagues with whom I can collaborate to provide training and advocacy programs on data literacy, data management and archiving, data documentation and reproducibility, data services, and data repository management.
+***Olanike***: The IASSIST conference provided me the opportunity to expand my professional network by meeting new colleagues from Africa, North America, Asia and Europe.  I now have linkages with colleagues with whom I can collaborate to provide training and advocacy programs on data literacy, data management and archiving, data documentation and reproducibility, data services, and data repository management.
 
 ***Wahidah***: One of the most important things I gained from IASSIST 2023 came from networking with peers and experts. Engaging in discussions with IASSISTers was an eye-opener and hopefully can lead to potential collaborations, partnerships, and knowledge exchange. I also presented as a panelist in the conference session titled “Why Open Science is Not Enough?” and this allowed me to share my own thoughts and experiences from my own context in Malaysia. 
 
@@ -36,7 +36,7 @@ banner = "/img/blog/fellows2023-2.jpg"
 
 ***Wahidah***: The conference itself was an inspiration and motivation for me. Attending talks and sessions by IASSIST members enables me to learn about the groundbreaking work of others. Indeed, the IASSIST 2023 conference allows me to expand my knowledge and research horizons, improve my methodologies, foster collaborations, and gain valuable inspiration and networking opportunities. This was my first visit to the United States and a dream come true. I have always dreamt of traveling to such a wonderful country. I feel very blessed with this great experience and the opportunity given.
 
-***Olakine***: The banquet on the Ben Franklin Yacht, with food, drinks and a cruise on the Delaware River. It was indeed a memorable day for me because IASSIST is the first conference ever that gave me this experience of wining and dining on a boat, making connections and conversations while cruising on American water! 
+***Olanike***: The banquet on the Ben Franklin Yacht, with food, drinks and a cruise on the Delaware River. It was indeed a memorable day for me because IASSIST is the first conference ever that gave me this experience of wining and dining on a boat, making connections and conversations while cruising on American water! 
 
 ***Zuzana***: Oh, so many things to choose from! What stayed with me the most was the sense of community, support, and cooperation that was present.
 
@@ -46,7 +46,7 @@ banner = "/img/blog/fellows2023-2.jpg"
 
 ### What was your favorite thing about Philadelphia?
 
-***Olakine***: I totally love this city because of its historic nature. I loved the visit to the Liberty Bell, which was located very close to the conference venue. The visit to the Philadelphia Museum of Art was indeed very inspiring for me.
+***Olanike***: I totally love this city because of its historic nature. I loved the visit to the Liberty Bell, which was located very close to the conference venue. The visit to the Philadelphia Museum of Art was indeed very inspiring for me.
 
 ***Zuzana***: I loved that this location offered many opportunities to visit other institutions and libraries and connect with professionals there. Besides the tour of the beautiful Charles Library at Temple University, I was also lucky to visit the Van Pelt Library at the University of Pennsylvania and meet with Heather Hughes, a fellow Middle Eastern studies librarian. 
 
