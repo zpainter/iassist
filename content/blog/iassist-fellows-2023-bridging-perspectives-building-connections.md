@@ -6,7 +6,7 @@ date = "2023-09-11 00:04:00 -0700"
 draft = "false"
 banner = "/img/blog/fellows2023-2.jpg"
 +++
-## IASSIST Fellows 2023: Bridging Perspectives, Building Connections 
+## IASSIST Fellows 2023
 
 ***In June, we were excited to welcome four Fellows to Philadelphia from around the globe. They brought with them a diverse array of experiences, expertise and perspectives and an enthusiasm for learning more about the organization and making connections with other IASSIST members. We asked them about their IASSIST experience and here's what they had to say!***
 
@@ -20,7 +20,7 @@ banner = "/img/blog/fellows2023-2.jpg"
 
 ***Olanike***: In developing a research data policy at universities, I learned that libraries need to help their researchers embrace open scholarship through advocacy. Developing a research data policy should be done with caution and professionalism through conformity with ethical and legal frameworks on data sharing.
 
-{{< figure src="/img/blog/fellows2023-1.jpg" class="wrap" link="/img/blog/fellows2023-1,jpg" alt="Two colored women stand on the sunny deck of a ship. Both women are dressed in colorful clothes and they are smiling and gesturing happily." title="Wahidah left) and Olanike on the Ben Franklin Yacht." width="300" >}}
+{{< figure src="/img/blog/fellows2023-1.jpg" class="wrap" link="/img/blog/fellows2023-1,jpg" alt="Two colored women stand on the sunny deck of a ship. Both women are dressed in colorful clothes and they are smiling and gesturing happily." title="Wahidah (left) and Olanike on the Ben Franklin Yacht." width="300" >}}
 
 ### What is one way you think the conference will benefit you professionally?
 
