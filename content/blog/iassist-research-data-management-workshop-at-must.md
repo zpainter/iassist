@@ -1,8 +1,8 @@
 +++
-author = "Winny Nekesa Akullo"
+author = "Winny Nekesa Akullo and Dr. Robert Buwule"
 title = "IASSIST Research Data Management Workshop at MUST"
 tags = [ "News and Announcements", "Community", "workshops", "event sponsorship", "Africa",]
-date = "1971-09-12 00:04:00 -0700"
+date = "2023-09-14 00:04:00 -0700"
 draft = "false"
 banner = "/img/blog/workshop-at-must5.jpg"
 +++
