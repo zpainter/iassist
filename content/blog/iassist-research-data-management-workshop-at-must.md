@@ -6,7 +6,7 @@ date = "2023-09-14 00:04:00 -0700"
 draft = "false"
 banner = "/img/blog/workshop-at-must5.jpg"
 +++
-***The International Association of Social Science Information Service and Technology (IASSIST) sponsored a one-day Research Data Management workshop at Mbarara University of Science and Technology (MUST). The theme of the workshop was "How Research Data Management for promotion of scholarship among academic staff".***
+***The International Association of Social Science Information Service and Technology (IASSIST) sponsored a one-day Research Data Management workshop at Mbarara University of Science and Technology (MUST). The theme of the workshop was "Research Data Management for promotion of scholarship among academic staff".***
 
 {{< figure src="/img/blog/workshop-at-must1.jpg" class="" link="/img/blog/workshop-at-must1.jpg" alt="Two colored women stand on the sunny deck of a ship. Both women are dressed in colorful clothes and they are smiling and gesturing happily." title="A group photo with some of the participants at the workshop." width="750" >}}
 
