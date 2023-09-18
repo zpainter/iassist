@@ -38,6 +38,9 @@ Please send all questions to: **programme ( at ) lists.iassistdata.org**
 - Dylanne Dearborn (University of Toronto)
 - Jane Fry (Carleton University)
 - Amber Leahey (University of Toronto)
+- Martin Chandler (Cape Breton University)
+- Julie Marcoux (Dalhousie University
+- Sherri Sunstrum (Carleton University)
 
 <!--
 The Local Arrangements Committee worked with [Concentra Conference Management Services <i class="fas fa-external-link-alt"></i>](https://www.concentra-cms.com/).

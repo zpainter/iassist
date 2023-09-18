@@ -38,6 +38,10 @@ It will be the **Best. IASSIST. Ever.**
 - Dylanne Dearborn (University of Toronto)
 - Jane Fry (Carleton University)
 - Amber Leahey (University of Toronto)
+- Martin Chandler (Cape Breton University)
+- Julie Marcoux (Dalhousie University
+- Sherri Sunstrum (Carleton University)
+
 
 <!--Image credit: Tuomas J. Alaterä, 2023-->
 
