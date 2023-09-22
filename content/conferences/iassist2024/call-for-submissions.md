@@ -1,7 +1,7 @@
 +++
 year = "2024"
 draft = "false"
-title = "IASSIST 2024 - Call for Submissions"
+title = "IASSIST & CARTO 2024 - Call for Submissions"
 location = "Halifax, Canada"
 datalink = "/data/conferences/archive/2024-Halifax.json"
 type = "conference-2024"

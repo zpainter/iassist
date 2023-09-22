@@ -1,7 +1,7 @@
 +++
 year = "2024"
 draft = "false"
-title = "IASSIST 2024 - FAQ"
+title = "IASSIST 2024 & CARTO - FAQ"
 location = "Halifax, Canada"
 type = "conference-2024"
 +++
