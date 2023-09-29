@@ -123,7 +123,7 @@ Michele Hayslett, Ofira Schwartz-Soicher
 **Editor, Web**
 
 Zac Painter,
-zwp [ at ] stanford.edu
+zp5928 [ at ] princeton.edu
 
 **Archivist**
 
