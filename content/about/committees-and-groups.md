@@ -42,7 +42,7 @@ Responsible for enabling productive and transparent communication among members 
 
 - **2023-2025 Chair: *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi***
 - **2023-2027 IQ Co-Editors: *Michele Hayslett, Ofira Schwartz-Soicher***
-- **2023-2027 Web Editor: *Zac Painter. zwp [ at ] stanford.edu***
+- **2023-2027 Web Editor: *Zac Painter. zp5928 [ at ] princeton.edu***
 - The [IASSIST Web Team](/about/web-team)
 
 #### [Programme Committee](/conferences/iassist2024/conference-committees) {#program-committee}
