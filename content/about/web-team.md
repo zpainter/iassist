@@ -10,7 +10,7 @@ draft = "false"
 
 |Role|Contact|
 |:---|:---|
-|Web Editor (appointed)		|Zac Painter, zwp [ at ] stanford.edu |
+|Web Editor (appointed)		|Zac Painter, zp5928 [ at ] princeton.edu |
 |Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu|	
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, discuss-request [ at ] lists.iassistdata.org  |
