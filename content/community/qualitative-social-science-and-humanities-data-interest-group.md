@@ -2,15 +2,45 @@
 title = "Qualitative Social Science and Humanities Data Interest Group (QSSHDIG)"
 draft = "false"
 +++
-The central purpose of the **IASSIST Qualitative Social Science and Humanities Data Interest Group** is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include
+The **IASSIST Qualitative Social Science & Humanities Data Interest Group (QSSHDIG)** was founded in October 2016 to bring together researchers and those working in data infrastructure to share and create resources to support good management and use of qualitative data throughout the data lifecycle. As part of this objective, we aim to:
 
-- developing a connected and informed group,
-- providing opportunities for professional development through training, and
-- collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members).
+1. connect an informed group of professionals working with qualitative data,
+2. raise awareness about key issues and debates in qualitative research,
+3. provide opportunities for professional development through training, and
+4. amalgamate and create resources for all IASSIST members to better understand working with qualitative data.
 
-**This group has its own webpage**
+We support a wide range of disciplines, methods, and roles who work with qualitative data. We organise informal, quarterly meetings as an opportunity to network, discuss emerging issues and technology that support qualitative work and update the interest group on the latest opportunities for training.
 
-<a class="btn btn-template-main" href="https://sites.google.com/uncg.edu/iassistqsshdig/home" target="_blank">Visit QSSHDIG</a>
+Meet the leadership team:
+: [Jessica Hagman <i class="fas fa-external-link-alt"></i>](https://experts.illinois.edu/en/persons/jessica-cherese-hagman)
+: [Cheryl Thompson <i class="fas fa-external-link-alt"></i>](https://odum.unc.edu/people/thompson/)
+: [Hilary Bussell <i class="fas fa-external-link-alt"></i>](https://library.osu.edu/people/bussell.21)
+: [Michael Beckstrand <i class="fas fa-external-link-alt"></i>](https://cla.umn.edu/about/directory/profile/mjbeckst)
+: [Maureen Haaker <i class="fas fa-external-link-alt"></i>](https://www.uos.ac.uk/people/maureen-haaker/)
 
-For more information please contact:<br />
-**2020-2021 Co-Chairs:** Sebastian Karcher, skarcher [ at ] maxwell.syr.edu and Alesia Montgomery, alesiam [ at ] stanford.edu
+Email the leadership team, *QSSHDIG [ at ] gmail.com* for more information or to sign up for our mailing list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<a class="btn btn-template-main" href="https://sites.google.com/uncg.edu/iassistqsshdig/home" target="_blank">Visit QSSHDIG</a>-->
