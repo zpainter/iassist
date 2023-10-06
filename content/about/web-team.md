@@ -15,9 +15,9 @@ draft = "false"
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, discuss-request [ at ] lists.iassistdata.org  |
 |Social media Editor		|Sebastian Karcher, Lynda Kellam
-|Mentorship pages			|Abay Israel |
+|Mentorship pages			|- |
 |Jobs Repository Editor		|Ryan Womack |
-|Administrator Support		| |
+|Administrator Support		|Zac Painter |
 |Membership Site Admins		|iassist.membership [ at ] gmail.com|
 
 <!--|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk  |-->
@@ -33,10 +33,8 @@ draft = "false"
 
 |IASSIST Quarterly||
 |:---|:---|
-|IQ Editor		|Karsten Boye Rasmussen, kbr [ at ] sam.sdu.dk or editor.iassistquarterly [ at ] gmail.com  |
-|		|or editor.iassistquarterly [ at ] gmail.com  |
-|IQ Support Contacts		|Michele Hayslett, michele_hayslett [ at ] unc.edu |
-|	|Ofira Schwartz-Soicher, oschwart [ at ] princeton.edu |
+|IQ Editors				|Michele Hayslett & Ofira Schwartz-Soicher,<br />editor.iassistquarterly [ at ] gmail.com  |
+|IQ Support Contact/Managing Editor| Phillip Ndhlovu, phillip.ndhlovu [ at ] gsu.ac.zw  |
 
 <br />[See IQ for more details<i class="fas fa-external-link-alt"></i>](https://www.iassistquarterly.com/index.php/iassist/about/contact)
 

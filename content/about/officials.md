@@ -118,7 +118,7 @@ sancan99 [ at ] gmail.com
 
 **Editor, Quarterly**
 
-Michele Hayslett, Ofira Schwartz-Soicher
+Michele Hayslett, michele_hayslett [ at ] unc.edu and Ofira Schwartz-Soicher, oschwart [ at ] princeton.edu
 
 **Editor, Web**
 
@@ -147,11 +147,11 @@ Open 
 
 **Constitutional Review Committee**
 
-Ann Green, green.ann [ at ] gmail.com
+Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 **Professional Development Committee**
 
-Sarah Young sarahy [ at ] andrew.cmu.edu and Bobray Bordelon, bordelon [ at ] princeton.edu
+Sarah Young sarahy [ at ] andrew.cmu.edu (2022-2023) and Wei Yin
 
 **IASSIST Fellows**
 
