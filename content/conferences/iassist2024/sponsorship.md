@@ -6,7 +6,13 @@ location = "Halifax, Canada"
 type = "conference-2024"
 +++
 
-Information on sponsorship opportunities will be made available later. 
+**We are grateful for our sponsors and want to thank our previous sponsors!**
+
+Sponsorship 2024 Tiers and sponsorship package details will be released shortly.
+
+More information can be provided if you are interested in sponsoring IASSIST & CARTO 2014.
+
+Contact us programme ( at ) lists.iassistdata.org 
 
 <!--
 ## Platinum

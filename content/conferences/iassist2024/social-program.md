@@ -6,7 +6,7 @@ location = "Halifax, Canada"
 type = "conference-2024"
 +++
 
-More information later.
+More details to follow.
 
 <!--
 **IASSIST 2024 Reception**

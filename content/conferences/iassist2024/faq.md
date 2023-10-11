@@ -26,7 +26,7 @@ IASSIST 2024 will be an in-person only conference experience. In-person attendee
 
 ### What is the registration fee?
 
-When confirmed, all conference registration fees will be listed on the [registration page](https://iassistdata.org/conferences/iassist2024/registration/) of the Conference Website.
+When confirmed, all conference registration fees will be listed on the [registration page](/conferences/iassist2024/registration/) of the Conference Website.
 
 ### When does registration open?
 
@@ -58,7 +58,7 @@ Light morning break, full lunch, and an afternoon break will be provided to all 
 
 ### How do I get around in Halifax?
 
-More information will be made available on the Maps & Local Information page on the conference website for Local Details.
+Visit the [Maps & Local Information](/conferences/iassist2024/maps-and-local-information/) page on the conference website for Local Details.
 
 ### When will the registration desk be available on site?
 
@@ -82,7 +82,7 @@ TBA
 
 ### What if I cannot attend the in-person conference, will there be an option to attend virtually?
 
-TBA
+IASSIST & CARTO 2024 is an in-person event.
 
 ### How can I receive regular updates about the conference?
 
