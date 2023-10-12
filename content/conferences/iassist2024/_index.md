@@ -1,7 +1,7 @@
 +++
 year = "2024"
 draft = "false"
-title = "IASSIST & CARTO 2024 - Main Page"
+title = "IASSIST and CARTO 2024 - Main Page"
 location = "Halifax, Canada"
 datalink = "/data/conferences/archive/2024-Halifax.json"
 type = "conference-2024"
@@ -11,7 +11,7 @@ type = "conference-2024"
 
 ## 49th Annual Conference of IASSIST joined together with CARTO
 
-### Uncharted: Navigating the Future of Data
+### Navigating the Future of Data
 
 #### Halifax, Nova Scotia, Canada, May 28-31, 2024
 
