@@ -4,6 +4,7 @@ draft = "false"
 title = "IASSIST and CARTO 2024 - Call for Proposals"
 location = "Halifax, Canada"
 datalink = "/data/conferences/archive/2024-Halifax.json"
+banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
 ## Uncharted: Navigating the Future of Data
