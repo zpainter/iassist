@@ -45,7 +45,7 @@ Submit your proposals and workshops using the Conference Proposal Submission For
 
 **The deadline for submissions is November 22, 2023.**
 
-Questions about presentation submissions may be sent to the Program Co-Chairs (Sophia Lafferty-Hess, Zack MacDonald, Kristi Thompson) at programme.lists ( at ) iassistdata.org. 
+Questions about presentation submissions may be sent to the Program Co-Chairs (Sophia Lafferty-Hess, Zack MacDonald, Kristi Thompson) at programme ( at ) lists.iassistdata.org. 
 
 ## Support for Attending the Conference 
 
