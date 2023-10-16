@@ -32,9 +32,14 @@ Hotel Reservations for rooms and juniors suites are available for IASSIST regist
 
 ### Other accommodations
 
+Detailed information shortly.
+
+<!--
+
 In addition, budget-conscious accommodations are available, including seasonal accommodations offered by local university dormitories. Please note these options are likely to be significantly further away from the conference venue  than the conference hotel (up to 30 minutes) and will require your own transportation. 
 
-See [Nova Scotia Tourism <i class="fas fa-external-link-alt"></i>](https://www.novascotia.com/) for other accommodations and tourism information. 
+-->
 
+See [Nova Scotia Tourism <i class="fas fa-external-link-alt"></i>](https://www.novascotia.com/) for other accommodations and tourism information. 
 
 
