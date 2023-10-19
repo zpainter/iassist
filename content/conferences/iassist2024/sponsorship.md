@@ -6,14 +6,41 @@ location = "Halifax, Canada"
 banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
-
 **We are grateful for our sponsors and want to thank our previous sponsors!**
 
-Sponsorship 2024 Tiers and sponsorship package details will be released shortly.
+## IASSIST & CARTO 2024 - Sponsorship 2024 Details Packages
 
-More information can be provided if you are interested in sponsoring IASSIST & CARTO 2014.
+### Platinum 
 
-Contact us programme ( at ) lists.iassistdata.org 
+Platinum ($10,000)
+: Exhibit space
+: Poster space
+: Special recognition
+: Logo on the conference website
+: Up to two conference registrations
+
+### Gold
+
+Gold ($5,000)
+: Exhibit space
+: Poster space
+: Logo on the conference website
+: One conference registration
+
+### Silver
+
+Silver ($3,000)
+: Poster space
+: Logo on the conference website
+
+### Bronze
+
+Bronze ($1,000)
+: Logo on the conference website
+
+For more information contact us programme ( at ) lists.iassistdata.org 
+
+
 
 <!--
 ## Platinum
