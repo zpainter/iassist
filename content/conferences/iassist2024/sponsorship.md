@@ -8,37 +8,45 @@ type = "conference-2024"
 +++
 **We are grateful for our sponsors and want to thank our previous sponsors!**
 
-## IASSIST & CARTO 2024 - Sponsorship 2024 Details Packages
+## Sponsorship 2024 Details
 
-### Platinum 
+Our sponsorship brochure tells more about IASSIST and CARTO, this year's sponsorship packages, and why become a sponsor. For more information contact us programme ( at ) lists.iassistdata.org 
 
-Platinum ($10,000)
+**&raquo; [IASSIST & CARTO sponsorship packages [PDF]](/file/conferences/iassist-carto-2024-sponsorship-package.pdf)**
+
+### Sponsorship tiers in brief
+
+Note: all fees are in USD.
+
+#### Platinum 
+
+Platinum level benefits ($10,000)
 : Exhibit space
 : Poster space
 : Special recognition
 : Logo on the conference website
 : Up to two conference registrations
 
-### Gold
+#### Gold
 
-Gold ($5,000)
+Gold level benefits ($5,000)
 : Exhibit space
 : Poster space
 : Logo on the conference website
 : One conference registration
 
-### Silver
+#### Silver
 
-Silver ($3,000)
+Silver level benefits ($3,000)
 : Poster space
 : Logo on the conference website
 
-### Bronze
+#### Bronze
 
-Bronze ($1,000)
+Bronze level benefits ($1,000)
 : Logo on the conference website
 
-For more information contact us programme ( at ) lists.iassistdata.org 
+
 
 
 
