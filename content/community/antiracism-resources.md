@@ -32,8 +32,7 @@ We aim to help build anti-racism into the process of working with data.
   <i class="fas fa-bell"></i>
  </div>
   <h3>Data sources on racism</h3>
-  </a>
-  <p>Data on a variety of topics but all documenting racism and the Black experience internationally.<br />
+   <p>Data on a variety of topics but all documenting racism and the Black experience internationally.<br />
 	Download in [Comma-separated format](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) | [MS Excel format with color-coded topics](/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx) | [PDF format](/community/antiracismresources-ig/DataSources-forRacialJustice.pdf) <br />
 	[Suggest an additional data source](https://docs.google.com/forms/d/e/1FAIpQLSe0yocc2nueS4awjw5bwozLLAbAqCNnfqKbn995qg3MyG_D5Q/viewform)</p>
  </div>
@@ -41,6 +40,7 @@ We aim to help build anti-racism into the process of working with data.
 
 <div class="col-md-6">
  <div class="box-simple">
+	 <a href="/community/antiracism-resources-guide/">
   <div class="icon">
    <i class="fas fa-book-open"></i>
   </div>
@@ -55,6 +55,40 @@ We aim to help build anti-racism into the process of working with data.
   </div>
  </div>
 </div>
+
+<div class="container">
+  <div class="col-md-8">
+   <div class="row">
+<!--<div style="display:flex;align-items:top;margin:2em;">-->
+<div class="col-md-6">
+ <div class="box-simple">
+	 <a href="https://www.zotero.org/groups/4892474/iassist_anti-racism_resources_interest_group/items">
+ <div class="icon">
+  <i class="fas fa-bell"></i>
+ </div>
+  <h3>Zotero library</h3>
+  </a>
+  <p>An open Zotero library of resources for building anti-racism into the process of working with data across the research lifecycle and research about race in various countries.</p>
+ </div>
+</div>
+
+<div class="col-md-6">
+ <div class="box-simple">
+	 <a href="/community/antiracismresources-ig/essays">
+  <div class="icon">
+   <i class="fas fa-book-open"></i>
+  </div>
+   <h3>Essays and webinars</h3>
+  </a>
+  <p>Essays and webinars that briefly summarize varying national perspectives about collecting data by race.</p>						
+ </div>
+</div>
+<!--</div>-->
+
+  </div>
+ </div>
+</div>
+
 
 Please use the feedback forms for additions and comments to the resources lists, guide, and library. We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group’s co-chairs, Anja Perry, anja.perry [ at ] gesis.org and Abigail Goben, agoben [ at ] uic.edu.
 
