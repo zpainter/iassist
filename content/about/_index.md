@@ -14,19 +14,23 @@ Our members work in information technology, libraries, data services, research &
 
 **&raquo; [Join IASSIST](/about/become-a-member "More information on becoming a member")**
 
+## International Membership 
+
 ### ~400 Members from a variety of settings
 
 Our members represent a variety of organizational sectors across the globe; the majority are within acedemia, working in data services, libraries, archives or research positions.
 
-{{< figure src="/img/about/by-region.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}
-<br />
-{{< figure src="/img/about/by-organisational-sector.png" alt="Pie chart of IASSIST members across the globe. Moren than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}
+{{< figure src="/img/about/by-region.png" alt="Doughnut chart of IASSIST members across the globe." caption="Image 1. IASSIST members by region: More than 70% are in the US, 15% in Europe and 15% in Canada and the rest in Africa or areas without an active region." width="500" >}}
 
-*Numbers represent averages in early 2019.* 
+<br />
+
+{{< figure src="/img/about/by-organisational-sector.png" class="" alt="Doughnut chart of IASSIST members by organisational sector." caption="Image 2. IASSIST members by organisational sector: Almost 80% work in academia and less than 10% in either governmental or non-profit organizations." width="500" >}}
+
+Numbers represent averages in early 2019.
 
 ### Expertise and Colleagues
 
-{{< figure src="/img/about/by-organisational-type.png" alt="Pie chart of IASSIST members across the globe. More than 70% are in the US, 15% in Europe and 15% in Canada." title="" width="500" >}}<br />
+{{< figure src="/img/about/by-organisational-type.png" class="" alt="Doughnut chart of IASSIST members by organisational type." caption="Image 3. IASSIST members by organizational type. A little less than half work in a library, about a quarter in a data archive, and the rest in academic departments, data labs or data services." width="500" >}}
 
 Many members identify themselves as:  
 
@@ -52,10 +56,10 @@ As an organization IASSIST strives to:
 -   Provide opportunities for collegial exchange of sound professional
     practices
 
-## IASSIST communities 
+## IASSIST Communities
 
-{{< figure src="/img/about/membership-venn.png" alt="Venn diagram of IASSIST core communities: These three are social scientists and researchers, data and information specialists, and data scientists, methodologists and computing specialists." title="" width="450" >}}<br />
-
+{{< figure src="/img/about/membership-venn.png" class="" alt="Venn diagram of IASSIST core communities." caption="Image 4. IASSIST's core communities are social scientists and researchers, data and information specialists, and data scientists, methodologists and computing specialists. There is notable overlap within these three." width="450" >}}<br />
+ 
 -   Social science researchers and scientists who are producers and users of micro and macro-level social data;
 -   Information/data specialists, who curate and preserve social data, manage facilities and provide services that promote the secondary use of social data;
 -   Methodologists, computing specialists and data scientists who advance technical methods to manipulate and analyze social data.
