@@ -11,7 +11,7 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 ### Webinar registrations
 
-IASSIST's [Geospatial Interest Group](/community/geospatial-interest-group) will be host a web presentation/discussion on Friday, **November 3, 2023** at 1pm Eastern on the topic of how we are using **Open Educational Resources (OER) and other shared materials in teaching**. We’ll also introduce IMGIS, a shared repository of GIS-related teaching materials that is in development. We invite your participation and comments in the development of this resource.
+IASSIST's [Geospatial Interest Group](/community/geospatial-interest-group) will be host a web presentation/discussion on Friday, **November 3, 2023** at 1pm Eastern on the topic of how we are using **Open Educational Resources (OER) and other shared materials in teaching**. We’ll also introduce [IMGIS <span class="fas fa-external-link-alt"></span>](https://osf.io/zfv4e), a shared repository of GIS-related teaching materials that is in development. We invite your participation and comments in the development of this resource.
 
 There will be time for discussion and sharing so bring your favorite resources. These can be anything: websites, blogs, tutorials, books, courses, etc. Register online.
 
