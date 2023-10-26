@@ -130,7 +130,7 @@ paginate = 10
     privacy_policy = """/about/privacy-policy/"""
     code_of_conduct = """/community/code-of-conduct/"""	
     
-    copyright = "Content licensed by Creative Commons BY 4.0" 
+    copyright = "Content licensed under Creative Commons BY 4.0" 
     # Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
 
     # Format dates with Go's time formatting
@@ -179,6 +179,8 @@ paginate = 10
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
+    # We have hacked this to feature some of our key services!
+    title = "This is IASSIST"
 
 [params.testimonials]
     enable = false
@@ -191,7 +193,7 @@ paginate = 10
 [params.see_more]
     enable = false
     icon = "far fa-file-alt"
-    title = "IASSIST on Social Media"
+    title = "Could be some promotion element perhaps"
     subtitle = ""
     link_url = "#"
     link_text = ""
@@ -201,8 +203,9 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
+	# We have hacked this to feature our social media banners!
     title = "IASSIST on Social Media"
-    subtitle = "Follow us, and get the latest updates as they happen."
+    subtitle = "Follow us on various platforms and get the latest IASSIST or data services updates as they happen."
 
 [params.recent_posts]
     enable = true
@@ -211,7 +214,7 @@ paginate = 10
 
 [params.alerts]
     enable = false
-    # Setting this to true prints alerts defined in their own files stacked on top of each other. 
+    # Setting this to true prints alerts defined in their own files stacked on top of each other on the main page, below the carousel. 
     title = "Alerts"
 	
 [markup.goldmark.renderer]

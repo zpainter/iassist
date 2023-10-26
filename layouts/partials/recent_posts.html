@@ -39,7 +39,8 @@
                         </div>
 
                         <div class="content">
-                            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                          <div class="box-simple">
+                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                             <p class="author-category">
                             {{ with .Params.author }}
                             {{ i18n "authorBy" }} <!--<a href="#">--><strong>{{ . }}</strong><!--</a>-->
@@ -48,8 +49,9 @@
                             </p>
                             <p class="intro">{{ .Summary }}</p>
                             <p class="read-more">
-                              <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
+                              <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReadingBlog" }}</a>
                             </p>
+                          </div>
                         </div>
                     </div>
                     <!-- /.box-image-text -->
