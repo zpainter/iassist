@@ -49,9 +49,6 @@
 - id: continueReading
   translation: "Continue reading"
 
-- id: continueReadingBlog
-  translation: "Read the blog"
-
 - id: readMore
   translation: "Read more"
 
