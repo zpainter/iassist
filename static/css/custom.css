@@ -22,7 +22,7 @@ body {
   min-height: 230px;
 }
 
-/* Couldn't figure out where the figcation structure is set, so bluntly modifying the code instead */
+/* Couldn't initially figure out where the figcation structure is set, so bluntly modifying the code instead. Figure is a Hugo shortcode and h4 is the default for "title" and can only be changed by writing a shortcode of your own. Instead "caption" provides a p-element which can and should be modified here, if needed. */
 figcaption h4 {
   /*background-color:white;*/
   font-size: 10pt;
@@ -99,7 +99,8 @@ dl dt:first-of-type {
 	font-size: 16px;
 	}
 
-/* Simple to change top banner background: copy a new file to banners folder and activate this rule.
+/* Simple to change top banner background: copy a new file to banners folder and activate this rule. */
+/*
 #heading-breadcrumbs {
     background: url('/img/banners/binary-pink.png') center center repeat;
 }
@@ -204,6 +205,37 @@ div.home-carousel {
 
 .text-muted {
   color: #6F6F6F; /* Drawn from bootstrap, locally changed to a bit darker for accessibility. Was #777 */
+}
+
+#blog-listing-medium .post .author-category {
+  float: left;
+  color: #6F6F6F;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+}
+
+#blog-listing-medium .post .date-comments a {
+  color: #6F6F6F;
+  margin-right: 20px;
+}
+
+.box-image-text.blog .author-category {
+  color: #6F6F6F;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.pager .disabled > a,
+.pager .disabled > a:hover,
+.pager .disabled > a:focus,
+.pager .disabled > span {
+  color: #6F6F6F;
+  background-color: #ffffff;
+  border-color: #ddd; /* only changed properties need to be kept! */
 }
 
 /* -- Accessibility section ends -- */
