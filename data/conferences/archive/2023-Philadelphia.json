@@ -811,7 +811,8 @@
           "presenters": [
             {
               "name": "Jon Johnson",
-              "institution": "CLOSER, Social Research Institute, UCL"
+              "institution": "CLOSER, Social Research Institute, UCL",
+			  "doix": "10.5281/zenodo.8001540"
             },
             {
               "name": "Sanda Ionescu",
