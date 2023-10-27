@@ -31,8 +31,8 @@ We aim to help build anti-racism into the process of working with data.
  </div>
   <h3>Data sources on racism</h3>
    <p>Data on a variety of topics but all documenting racism and the Black experience internationally.<br />
-	Download in [Comma-separated format](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) | [MS Excel format with color-coded topics](/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx) | [PDF format](/community/antiracismresources-ig/DataSources-forRacialJustice.pdf) <br />
-	[Suggest an additional data source](https://docs.google.com/forms/d/e/1FAIpQLSe0yocc2nueS4awjw5bwozLLAbAqCNnfqKbn995qg3MyG_D5Q/viewform)</p>
+	Download in <a href="/community/antiracismresources-ig/DataSources-forRacialJustice.csv">Comma-separated format</a> | <a href="/community/antiracismresources-ig/DataSources-forRacialJustice.xlsx">MS Excel format with color-coded topics</a> | <a href="/community/antiracismresources-ig/DataSources-forRacialJustice.pdf">PDF format</a> <br />
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0yocc2nueS4awjw5bwozLLAbAqCNnfqKbn995qg3MyG_D5Q/viewform">Suggest an additional data source</a></p>
  </div>
 </div>
 
@@ -45,7 +45,7 @@ We aim to help build anti-racism into the process of working with data.
    <h3>Finding data sources about racism and ethnic bias</h3>
   </a>
   <p>Guide to find sources when what you’re seeking is not included in our list.<br />
-	[Send us feedback or suggest additions to the guide](https://docs.google.com/forms/d/e/1FAIpQLSdYvxPiccUIQ3Gp7Jmlz1hRG0tJw_MzrM2TUcCJFUfgut7JIw/viewform?usp=sf_link)</p>								
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdYvxPiccUIQ3Gp7Jmlz1hRG0tJw_MzrM2TUcCJFUfgut7JIw/viewform?usp=sf_link">Send us feedback or suggest additions to the guide</a></p>								
  </div>
 </div>
 <!--</div>-->
