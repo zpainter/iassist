@@ -3,15 +3,13 @@ title: "Diversity, Equity, and Inclusion Data Resources"
 date: 2023-10-20
 draft: false
 ---
-## Diversity, Equity, and Inclusion Data Resources 
-
 In the wake of the murders of George Floyd, Breonna Taylor and Ahmaud Arbery in 2020, among other (on-going) acts of violence against African Americans in the U.S., members of IASSIST felt compelled to gather materials that can help all of us better recognize, acknowledge and combat inherent racial bias. These members formed this group and compiled the resources linked here.
 
-### Our mission
+## Our mission
 
 We aim to help build anti-racism into the process of working with data.
 
-### We are currently working on these Diversity, Equity, and Inclusion (DEI) Data topics
+## We are currently working on these Diversity, Equity, and Inclusion (DEI) Data topics
 
 - Anti-Racism
 - Accessibility and Inclusion
@@ -19,7 +17,7 @@ We aim to help build anti-racism into the process of working with data.
 - Indigenous Data
 - Gender Data Gap
 
-### Resources gathered by members
+## Resources gathered by members
 
 <br />
 <div class="container">
