@@ -1,8 +1,10 @@
 {{ partial "widgets/search.html" . }}
 <div class="panel panel-default sidebar-menu">
 
+  <aside aria-labelledby="sidebar-heading">
+   <nav role="navigation" aria-label="Page navigation">
     <div class="panel-heading">
-        <h3 class="panel-title">About IASSIST</h3>
+        <h2 id ="sidebar-heading" class="panel-title">About IASSIST</h2>
     </div>
 
     <div class="panel-body">
@@ -55,15 +57,16 @@
             <li>
                 <a href="/about/iassist-elections">Elections</a>
             </li>
-			
+
             <li>
                 <a href="/about/media">Media</a>
-            </li>				
-			
+            </li>
+
             <li>
                 <a href="/about/faq">FAQ</a>
-            </li>			
+            </li>
         </ul>
     </div>
-
+  </aside>
+ </nav>
 </div>

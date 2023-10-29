@@ -1,8 +1,10 @@
 {{ partial "widgets/search.html" . }}
 <div class="panel panel-default sidebar-menu">
 
+  <aside aria-labelledby="sidebar-heading">
+   <nav role="navigation" aria-label="Page navigation">
     <div class="panel-heading">
-        <h3 class="panel-title">Community</h3>
+        <h2 id ="sidebar-heading" class="panel-title">Community</h2>
     </div>
 
     <div class="panel-body">
@@ -38,12 +40,6 @@
                 <a href="/community/previous-interest-groups">Former Interest Groups</a>
             </li>
 
-			<!--
-			<li>
-                <a href="/community/#">more</a>
-            </li>
-			-->
-
 			<li style="padding: 0px 15px; font-weight:bold; background:#e1c1d6;">Related topics</li>
 
 			<li>
@@ -51,7 +47,7 @@
             </li>
 
 			<li>
-                <a href="https://www.iassistdata.info" target="_blank">Membership Site <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://www.iassistdata.info" target="_blank">Membership Site <span class="fas fa-external-link-alt"></span></a>
             </li>
 
 			<li>
@@ -72,5 +68,6 @@
 
         </ul>
     </div>
-
+   </nav>
+  </aside>
 </div>
