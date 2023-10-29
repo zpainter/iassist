@@ -163,6 +163,10 @@ dl dt:first-of-type {
   color: #cccccc; /*#999999*/
 }
 
+#footer h3 {
+  font-size: 1.4em;
+}
+
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
