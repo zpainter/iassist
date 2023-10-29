@@ -4,7 +4,7 @@ id = "contact"
 draft = false
 +++
 
-# Leave us a message
+## Leave us a message
 
 <!--** **Contact form is not yet activated!** **-->
 <!--
@@ -16,4 +16,4 @@ You can leave a message using the contact form below. We will get back to you as
 
 Contact addresses for officials are on the right. Feel free to use them, if you can identify a direct contact.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCSOINnbmvLYYgJHz12xY79ifAIeMRItGK_WRgH5tWsv45lg/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe width="100%" height="1000" src="https://docs.google.com/forms/d/e/1FAIpQLSfCSOINnbmvLYYgJHz12xY79ifAIeMRItGK_WRgH5tWsv45lg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
