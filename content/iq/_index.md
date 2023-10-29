@@ -8,11 +8,11 @@ The IASSIST Quarterly at [**iassistquarterly.com** <i class="fas fa-external-lin
 
 The IASSIST Quarterly represents an international cooperative effort on the part of individuals managing, operating, or using machine-readable data archives, data libraries, and data services. The IASSIST Quarterly reports on activities related to the production, acquisition, preservation, processing, distribution, and use of machine-readable data carried out by its members and others in the international social science community.  Your contributions and suggestions for topics of interest are welcomed. The views set forth by authors of articles contained in this publication are not necessarily those of IASSIST. 
 
-{{< figure src="/img/blog/iq-a.jpg" class="wrap" alt="" title="" height="150" >}}
-{{< figure src="/img/blog/iq-b.jpg" class="wrap" alt="" title="" height="150" >}}
-{{< figure src="/img/blog/iq-c.jpg" class="wrap" alt="" title="" height="150" >}}
-{{< figure src="/img/blog/iq-d.jpg" class="wrap" alt="" title="" height="150" >}}
-{{< figure src="/img/blog/iq-e.jpg" class="wrap" alt="" title="" height="150" >}}
+{{< figure src="/img/blog/iq-a.jpg" class="wrap" alt="IASSIST Newsletter Cover May 1977" title="" height="150" >}}
+{{< figure src="/img/blog/iq-b.jpg" class="wrap" alt="IASSIST Quarterly Cover, first design Summer 1983" title="" height="150" >}}
+{{< figure src="/img/blog/iq-c.jpg" class="wrap" alt="IASSIST Quarterly Cover, second design, Spring 2000" title="" height="150" >}}
+{{< figure src="/img/blog/iq-d.jpg" class="wrap" alt="IASSIST Quarterly Cover, third design" title="" height="150" >}}
+{{< figure src="/img/blog/iq-e.jpg" class="wrap" alt="IASSIST Quarterly Cover, fourth design" title="" height="150" >}}
 
 <br style="clear:both;">
 
