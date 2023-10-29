@@ -1,6 +1,9 @@
 - id: home
   translation: "Home"
 
+- id: titleName
+  translation: "International Association for Social Science Information Service and Technology"
+
 - id: templateBy
   translation: "Template by"
 
