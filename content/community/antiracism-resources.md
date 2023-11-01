@@ -27,7 +27,7 @@ We aim to help build anti-racism into the process of working with data.
 <div class="col-md-6">
  <div class="box-simple">
  <div class="icon">
-  <i class="fa-solid fa-table"></i>
+  <i class="fas fa-table"></i>
  </div>
   <h3>Data sources on racism</h3>
    <p>Data on a variety of topics but all documenting racism and the Black experience internationally.<br />
@@ -40,7 +40,7 @@ We aim to help build anti-racism into the process of working with data.
  <div class="box-simple">
 	 <a href="/community/antiracism-resources-guide/">
   <div class="icon">
-   <i class="fa-solid fa-magnifying-glass"></i>
+   <i class="fas fa-magnifying-glass"></i>
   </div>
    <h3>Finding data sources about racism and ethnic bias</h3>
   </a>
@@ -62,7 +62,7 @@ We aim to help build anti-racism into the process of working with data.
  <div class="box-simple">
 	 <a href="https://www.zotero.org/groups/4892474/iassist_anti-racism_resources_interest_group/items">
  <div class="icon">
-  <i class="fa-solid fa-book"></i>
+  <i class="fas fa-book"></i>
  </div>
   <h3>Zotero library</h3>
   </a>
@@ -74,7 +74,7 @@ We aim to help build anti-racism into the process of working with data.
  <div class="box-simple">
 	 <a href="/community/antiracismresources-ig/essays">
   <div class="icon">
-   <i class="fa-solid fa-person-chalkboard"></i>
+   <i class="fas fa-person-chalkboard"></i>
   </div>
    <h3>Essays and webinars</h3>
   </a>
