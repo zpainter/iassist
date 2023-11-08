@@ -33,7 +33,7 @@ Please send all questions to: **programme ( at ) lists.iassistdata.org**
 ### Local Arrangements Committee
 
 - Sandra Sawchuk (Mount Saint Vincent University)
-- Louise Gilles (Dalhousie University)
+- Louise Gillis (Dalhousie University)
 - Chantal Ripp (University of Ottawa)
 - Dylanne Dearborn (University of Toronto)
 - Jane Fry (Carleton University)

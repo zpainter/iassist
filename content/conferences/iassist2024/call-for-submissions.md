@@ -34,7 +34,7 @@ Do you have a new idea you would like feedback on? Would you like to showcase a 
 
 ### Call for Papers & Paper Competition 
 
-We will also be holding a paper competition and the winner of the paper competition will be announced at the Business Meeting during the conference. To be considered completed papers will need to be submitted by March 15, 2024. 
+We will also be holding a paper competition and the winner of the paper competition will be announced at the Business Meeting during the conference. To be considered completed papers will need to be submitted by April 15, 2024. 
 
 ### Submit Your Proposals and Workshops
 

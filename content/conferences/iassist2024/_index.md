@@ -36,7 +36,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 
 ### Local Arrangements Committee
 - Sandra Sawchuk (Mount Saint Vincent University)
-- Louise Gilles (Dalhousie University)
+- Louise Gillis (Dalhousie University)
 - Chantal Ripp (University of Ottawa)
 - Dylanne Dearborn (University of Toronto)
 - Jane Fry (Carleton University)
