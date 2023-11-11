@@ -13,7 +13,7 @@ IASSIST has an Administrative Committee and six Standing Committees. In addition
  
 [Committees](#committees) **|** [Action Groups](#action-groups) **|** [Interest Groups](#interest-groups)
 
-## Committees
+### Committees
 
 The Administrative Committee and the Standing Committees are responsible for the day-to-day running of the organization.
 
@@ -55,7 +55,7 @@ Responsible for deciding on an annual conference title as well as general themat
 - **2023-2024 Program Co-Chairs: *Sophia Lafferty-Hess, Zach MacDonald, Kristi Thompson***   
 
 
-## Action Groups {#action-groups}
+### Action Groups {#action-groups}
 
 Action Groups are appointed by the Administrative Committee and undertake specific tasks, find solutions to specific problems, or develop and compile relevant materials for specific projects.
 
@@ -65,7 +65,7 @@ Read more: [Former Action Groups](/about/former-action-groups)
 
 More about IASSIST Action Groups and how to establish one is described in the [Constitution](/about/iassist-constitution/#article12-4). 
 
-## Interest Groups {#interest-groups}
+### Interest Groups {#interest-groups}
 
 Interest Groups share information on specific subjects with the larger IASSIST membership and serve as a forum of discussion between as well as during annual meetings. 
 
