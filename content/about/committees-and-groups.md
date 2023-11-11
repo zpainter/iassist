@@ -7,11 +7,15 @@ oldpath = "/about/committees.html"
 date = "2020-10-08 20:00:25 +0300"
 draft = "false"
 +++
+## Standing Committees and Action and Interest Groups
+
+IASSIST has an Administrative Committee and six Standing Committees. In addition there are appointed committees and action and interest groups. The Administrative Committee will establish Committees and Groups as required. 
+ 
 [Committees](#committees) **|** [Action Groups](#action-groups) **|** [Interest Groups](#interest-groups)
 
 ## Committees
 
-IASSIST Standing Committees are responsible for the day-to-day running of the organization. 
+The Administrative Committee and the Standing Committees are responsible for the day-to-day running of the organization.
 
 #### [Administrative Committee](/about/officials) {#administrative-committee}
 The Administrative Committee is the executive body of IASSIST. It implements policies, develops future directions, and coordinates activities for the organization.	
@@ -45,10 +49,10 @@ Responsible for enabling productive and transparent communication among members 
 - **2023-2027 Web Editor: *Zac Painter. zp5928 [ at ] princeton.edu***
 - The [IASSIST Web Team](/about/web-team)
 
-#### [Programme Committee](/conferences/iassist2024/conference-committees) {#program-committee}
+#### [Programme Committee & Local Arrangements](/conferences/iassist2024/conference-committees)  {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events. 
 
-- **2023-2024 Conference Co-Chairs: *Sophia Lafferty-Hess, Zach MacDonald, Kristi Thompson***   
+- **2023-2024 Program Co-Chairs: *Sophia Lafferty-Hess, Zach MacDonald, Kristi Thompson***   
 
 
 ## Action Groups {#action-groups}

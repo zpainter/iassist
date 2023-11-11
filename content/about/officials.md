@@ -181,7 +181,7 @@ In addition, [Interest and Action Group chairs](/about/committees-and-groups#int
 
 ## Past Presidents
 
-term| | |
+term|name |email |
 ---|---|---|
 1976-1979 | Carolyn Geda |  Visit the membership database<!--cg3 [ at ] ix.netcom.com-->|
 1979-1982 | Alice Robbin |  Visit the membership database<!--arobbin [ at ] indiana.edu--> |
