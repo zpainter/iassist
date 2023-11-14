@@ -14,7 +14,7 @@ draft = "false"
 |Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu|	
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, discuss-request [ at ] lists.iassistdata.org  |
-|Social media Editor		|Sebastian Karcher, Lynda Kellam
+|Social media Editors		|Sebastian Karcher, Lynda Kellam, Anja Perry
 |Mentorship pages			|- |
 |Jobs Repository Editor		|Ryan Womack |
 |Administrator Support		|Zac Painter |

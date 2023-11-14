@@ -27,11 +27,11 @@ Responsible for receiving proposals for the enacting, amending, and repealing of
 
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
-- **2023-2025 Co-Chairs: *Sarah Young sarahy [ at ] andrew.cmu.edu*** (2022-2023) and ***Wei Yin***
+- **2023-2025 Chairs: *Sarah Young, sarahy [ at ] andrew.cmu.edu*** (2022-2023) and ***Wei Yin, wy2288 [ at ] columbia.edu***
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
-- **2022-2024 Chair: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young sarahy [ at ] andrew.cmu.edu***
+- **2022-2024 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young sarahy [ at ] andrew.cmu.edu***
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
@@ -74,7 +74,7 @@ Read more about IASSIST Interest Groups and how to establish one in the [Interes
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-- **2032-2024 Co-Chairs: *Jennie Murack, murack [ at ] mit.edu*** and ***Amanda Tickner, atickner [ at ] msu.edu***
+- **2023-2024 Co-Chairs: *Jennie Murack, murack [ at ] mit.edu*** and ***Amanda Tickner, atickner [ at ] msu.edu***
 
 #### [Qualitative Social Science and Humanities Data Interest Group](/community/qualitative-social-science-and-humanities-data-interest-group) (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
 <!--#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} -->
