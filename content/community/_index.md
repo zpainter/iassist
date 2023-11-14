@@ -23,13 +23,12 @@ Webinars are free to attend, but a registration is often required. Webinars will
 
 Please follow our Twitter feed and check out our page on Facebook, and see some of us in action on Flickr. On YouTube you will find IASSIST all webinar recordings. 
 
-
-- [IASSIST on Twitter](https://twitter.com/iassistdata)
-- [IASSIST on YouTube](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
 - [IASSIST on Facebook](https://www.facebook.com/iassistdata/)
-- [IASSIST on Linkedin](https://www.linkedin.com/groups/113890/)
-- [IASSIST on Flickr](http://www.flickr.com/search/?w=all&amp;q=iassist&amp;m=text)
+- [IASSIST on Linkedin](https://www.linkedin.com/company/iassistdata)
+- [IASSIST on YouTube](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
 - [IASSIST on Mastodon](https://mastodon.social/@iassistdata)
+- [IASSIST on Flickr](http://www.flickr.com/search/?w=all&amp;q=iassist&amp;m=text)
+- [IASSIST on Twitter](https://twitter.com/iassistdata)
 
 ### Tweets by IASSISTDATA
 
