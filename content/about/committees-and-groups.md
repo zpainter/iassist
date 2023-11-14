@@ -27,7 +27,7 @@ Responsible for receiving proposals for the enacting, amending, and repealing of
 
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
-- **2023-2025 Chairs: *Sarah Young, sarahy [ at ] andrew.cmu.edu*** (2022-2023) and ***Wei Yin, wy2288 [ at ] columbia.edu***
+- **2023-2025 Chairs: *Sarah Young, sarahy [ at ] andrew.cmu.edu*** and ***Wei Yin, wy2288 [ at ] columbia.edu***
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
