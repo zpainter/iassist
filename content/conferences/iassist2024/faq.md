@@ -70,7 +70,9 @@ TBA
 
 ### What are the requirements to obtain a Canadian Visa?
 
-If you have not already obtained a Visa (if required), you may not be able to get an appointment in time to attend the conference in person. You may want to consider attending virtually. You can find details regarding the United States Visa process here: [https://travel.state.gov/content/travel/en/us-visas.html](https://travel.state.gov/content/travel/en/us-visas.html). 
+All visitors are required to carry a valid passport. In certain cases a visa or Electronic Travel Authorization (eTA) may be required. Use the [Find out if you need a visa <i class="fas fa-external-link-alt"></i>](https://www.cic.gc.ca/english/visit/visas.asp) service to determine if you need a visa or eTA to travel to Canada. Consult the [Electronic Travel Authorization (eTA) <span class="fas fa-external-link-alt"></span>](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html) page for instructions on how to apply for an eTA and [Visitor visa <span class="fas fa-external-link-alt"></span>](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html) page for instructions on how to apply for a visa.
+
+The Program or Local Arrangements Committee will provide letters of invitation to the conference for those who need them. Please reach out as soon as possible, contact us programme ( at ) lists.iassistdata.org 
 
 ### What is the hotel cost? How do I make hotel reservations?
 
