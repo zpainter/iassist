@@ -25,10 +25,11 @@ Presentations are available as follows (more to come):
 
 The [**conference archive**](/conferences/archive/2023-philadelphia/) with links to Zenodo and the [**full program**](/conferences/iassist2023/conference-schedule/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
 
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2023/search?page=1&size=20&sort=conference_session" target="_blank">2023 Conference presentations (Zenodo) <i class="fas fa-external-link-alt"></i></a>
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2023/search?page=1&size=20&sort=conference_session" target="_blank">2023 Conference presentations (Zenodo) <span class="fas fa-external-link-alt"></span></a>
 
-<!--<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iSmUFsNkyevdZSSqF2AKjSA" target="_blank">2022 Conference recordings (YouTube) <i class="fas fa-external-link-alt"></i></a>
+<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iQQvMDpkvgUXjVATenI1YM_" target="_blank">2023 Conference recordings (YouTube) <span class="fas fa-external-link-alt"></span></a>
 
+<!--
 <a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website <i class="fas fa-external-link-alt"></i></a>
 -->
 

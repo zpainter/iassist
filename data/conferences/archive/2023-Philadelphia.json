@@ -21,7 +21,7 @@
           "title": "Fireside Chat with Dr. Jackie Carter, Dr. Kirsten Thorpe, and Kathleen Weldon",
           "abstract": "A fireside chat format was used to discuss complex diversity topics in detail with selected data specialists and to provide the opportunity for the audience to get to know the presenters better. In a comfortable atmosphere the speakers discuss the following diversity in data topics: accessibility, Indigenous engagement, and inclusion of minority populations in surveys. Moderated by Dr. San Cannon.",
           "doi": "",
-          "video": "",
+          "video": "ePquFsyi8BM?si=tBtiOm1DHT42-m1g",
           "presenters": [
             {
               "name": "Jackie Carter",
@@ -41,7 +41,7 @@
           "title": "Keynote",
           "abstract": "As the City of Philadelphia continues to make history as a progressive leader for our LGBTQ+ communities, and as anti-LGB and trans legislation has reached an all-time high in recent years, the city is proud to use data to inform its policies and practices in creating more inclusive, supportive, and safer spaces for LGBTQ+ people.",
           "doi": "",
-          "video": "",
+          "video": "BEi_PJlGdcg",
           "presenters": [
             {
               "name": "Erik Larson",
@@ -63,7 +63,7 @@
           "title": "International developments in policy, tools and workflows for sensitive data management",
           "abstract": "Recent years have seen rapid growth in the demand for sensitive data services in social sciences and related domains. The Five Safes framework and programs such as Data Without Boundaries, the Canadian Research Data Centre Network and the Secure Data Service in the UK have led the way for the development of national and multi-national services for enabling access to sensitive data. These programs do however face challenges associated with their growing success, due to the heavy emphasis on manual processes and principles-based approaches that have been a feature of these sector-leading services. This has resulted in difficulties in managing scalability, process efficiency and data input and output controls to support these services. In recognition of these challenges, there has been a recent growth in efforts to improve the workflows required for sensitive data management - particularly in workflows that support efficient data processing, integration and release. The presentations in this session will present an overview of a selection of these efforts at two organisations, the UK Data Archive (UKDA) and Australian Data Archive (ADA). Presentations will include overviews of four projects in development: The Data Risk Assessment Tool (DRAT) - (Ryan Perry, ADA) - Machine learning for privacy metadata annotations - (Darren Bell, UKDA - ADA) - Automating anonymisation processing using R and SDC-Micro - (Steve McEachern, ADA - UKDA) - Using DDI-CDI for sensitive data integration - (Deirdre Lungley, UKDA). The session will conclude with a discussion among the panel and audience on future tools development requirements, and possible opportunities for collaboration and joint development within the community of social science data archives and sensitive data service providers.",
           "doi": "",
-          "video": "",
+          "video": "w_QqASQK01w",
           "presenters": [
             {
               "name": "Darren Bell",
@@ -113,7 +113,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "t6wp5snhLbI",
       "presentations": [
         {
           "title": "An evolving research data policy landscape: Reflections on an academic library’s place",
@@ -191,7 +191,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "SK9ZhumuazQ",
       "presentations": [
         {
           "title": "Librarians in the Military: information management lessons learned during the Ukraine crisis",
@@ -249,7 +249,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "P8-u7Q6DeRo",
       "presentations": [
         {
           "title": "IASSIST's Anti-Racism Resources Introduction and Hackathon",
@@ -275,7 +275,7 @@
       "abstract": "Data management and archiving",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "m4AtxFbSV1w",
       "presentations": [
         {
           "title": "Diversity in data: Lessons from interdisciplinary practices",
@@ -369,7 +369,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "4LrkKoWvhKk",
       "presentations": [
         {
           "title": "Exploring sex, sexual orientation and gender identity through interactive visualisations",
@@ -569,7 +569,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "bKEan6R23Xw",
       "presentations": [
         {
           "title": "What do future data services look like?",
@@ -619,7 +619,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "Io-qwDAtn_4",
       "presentations": [
         {
           "title": "Finding tools for data documenting racism and the Black experience internationally and guides for searching and using data with an antiracism lens.",
@@ -661,7 +661,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "3TWMC89sJOg",
       "presentations": [
         {
           "title": "Stewarding Our Resources: Building a Sustainable IPUMS Archival Document Access System",
@@ -801,7 +801,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "l16yQ_RuUlU",
       "presentations": [
         {
           "title": "Metadata Provider Perspectives on Longitudinal Data Harmonization",
@@ -846,7 +846,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "xoOjhdEh_Tk",
       "presentations": [
         {
           "title": "Better together: Collaborating on a community-led initiative to develop a survey of Canadian Dataverse administrators",
@@ -944,7 +944,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "clOOpzynsR4",
       "presentations": [
         {
           "title": "Repository CARE takes time: data repository management and implementation of social justice principles towards ethical data sharing",
@@ -1120,7 +1120,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "kc38Rm7aK2g",
       "presentations": [
         {
           "title": "Advancing cross-domain data integration for global development - learnings from the WorldFAIR project",
@@ -1154,7 +1154,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "__J7-VEbsDE",
       "presentations": [
         {
           "title": "Why Open Science is not enough",
@@ -1188,7 +1188,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "i8Qc9znbBaU",
       "presentations": [
         {
           "title": "Developing metadata management training: Experiences and future plans",
@@ -1312,7 +1312,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "jBHq5PvzKkg",
       "presentations": [
         {
           "title": "\"We are the Champions\": Exploring a Data Champions Pilot in the Canadian Context",
@@ -1346,7 +1346,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "QMYbtn18jtk",
       "presentations": [
         {
           "title": "The role of data in the fight for social justice in Uganda",
@@ -1403,7 +1403,7 @@
       "day": "June 2, 2023",
       "abstract": "",
       "moderator": "",
-      "chair": "",
+      "chair": "H14qEdElzdI",
       "presentations": [
         {
           "title": "Powerful DDI-CDI Metadata – the How and the Why?",
@@ -1511,7 +1511,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
-      "video": "",
+      "video": "uAgaDoRciOI",
       "presentations": [
         {
           "title": "Indigenous data manipulation",
