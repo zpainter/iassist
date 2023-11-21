@@ -78,16 +78,18 @@ The central purpose of the IASSIST-Geo interest group is to create a network for
 
 #### [Qualitative Social Science and Humanities Data Interest Group](/community/qualitative-social-science-and-humanities-data-interest-group) (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
 <!--#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} -->
-The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to foster conversations regarding the needs of researchers who generate qualitative data, and what types of services librarians and other information professionals can develop to support these researchers in managing their data/source materials throughout the research lifecycle. Expected outcomes include
-1. developing a connected and informed group, 
-2. providing opportunities for professional development through training, and 
-3. collecting and creating tools and resources for all IASSIST members to make use of (both IG members and non-members). 	 
+The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is bring together researchers and those working in data infrastructure to share and create resources to support good management and use of qualitative data throughout the data lifecycle. We aim to:
 
-- **2023-2024 Co-Chairs: *Maureen Haaker, Cheryl Annette Thompson, Jessica Hagman*** and ***Hilary Bussell***
+1. connect an informed group of professionals working with qualitative data,
+2. raise awareness about key issues and debates in qualitative research,
+3. provide opportunities for professional development through training, and
+4. amalgamate and create resources for all IASSIST members to better understand working with qualitative data.
+
+- **2023-2024 Co-Chairs: *Maureen Haaker, Cheryl Annette Thompson, Jessica Hagman*** and ***Hilary Bussell.<br />Contact the co-chairs: QSSHDIG [ at ] gmail.com***
 
 #### Diversity, Equity, and Inclusion Data Resources Interest Group {#anti-racism-resources-interest-group}  
 
-(Formerly Anti-Racism Resources Interest Group) The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
+The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
 
 The Interest Group has gathered various **[resources on anti-racism](/community/antiracism-resources)**. 
 
