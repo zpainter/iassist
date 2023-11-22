@@ -32,3 +32,5 @@ The conference will take place in Halifax Convention Centre.
 An updated guide with useful local information will be made available, and it includes a map showing conference locations, recommended restaurants, and sites of interest.
 
 For places to go or stay and things to do in Nova Scotia, see [Tourism Nova Scotia <i class="fas fa-external-link-alt"></i>](https://www.novascotia.com/).
+
+{{< figure src="/img/conferences/annual/halifax2024_localimagesbanner.png" alt="" title="" width="720" >}}
