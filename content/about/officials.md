@@ -127,7 +127,8 @@ zp5928 [ at ] princeton.edu
 
 **Archivist**
 
-Christine Nieman
+Christine (Nieman) Hislop, 
+cnieman [ at ] hshsl.umaryland.edu
 
 **Regional Treasurer (Canada)** 
 
