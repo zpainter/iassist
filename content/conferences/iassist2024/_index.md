@@ -29,6 +29,8 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 
 **[Submit](./call-for-submissions/)** your workshop, session, paper or poster proposal. Join us and submit by the deadline <s>November 22, 2023</s> December 1, 2023. It will be the **Best. IASSIST. Ever.**
 
+**Submissions are now closed.**
+
 ### Program Committee Chairs
 - Sophia Lafferty-Hess (Duke University)
 - Zach MacDonald (Western University)

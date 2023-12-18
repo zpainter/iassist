@@ -44,7 +44,9 @@ Submit your proposals and workshops using the Conference Proposal Submission For
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/openconf.php">Submit your conference proposal <i class="fas fa-external-link-alt"></i></a>
 <br /><br />
 
-**The deadline for submissions is <s>November 22, 2023</s> December 1, 2023.**
+The deadline for submissions is <s>November 22, 2023</s> December 1, 2023.
+
+**Submissions are now closed.**
 
 Questions about presentation submissions may be sent to the Program Co-Chairs (Sophia Lafferty-Hess, Zack MacDonald, Kristi Thompson) at programme ( at ) lists.iassistdata.org. 
 
