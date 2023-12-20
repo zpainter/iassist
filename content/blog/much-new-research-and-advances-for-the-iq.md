@@ -8,7 +8,7 @@ banner = "/img/blog/iq-3.png"
 +++
 **Welcome to this special double issue of IASSIST Quarterly for the year 2023, [IQ vol. 47(2) 2023 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/155).**
 
-We are delighted to close out the year by offering the second special issue of the *IASSIST Quarterly* to showcase articles from the Africa workshop. Articles in this issue were presented in the second Africa Workshop which was held in Ibadan, Nigeria, in October 2022.  Guest editors **Winny Nekesa** and **Robert Burosta** have again expertly steered the editorial process to bring us this research.
+We are delighted to close out the year by offering the second special issue of the *IASSIST Quarterly* to showcase articles from the Africa workshop. Articles in this issue were presented in the second Africa Workshop which was held in Ibadan, Nigeria, in October 2022.  Guest editors **Winny Nekesa** and **Robert Stalone Buwule** have again expertly steered the editorial process to bring us this research.
 
 While their [Guest Editors' Notes](https://www.iassistdata.org/blog/2023/12/18/guest-editors-notes-3-4-2023/) describe the included articles, we would like to use this space to share a number of announcements about administrative work on the journal.  First, please join us in welcoming four new [Editorial Board <span class="fas fa-external-link-alt"></span>](https://iassistquarterly.com/index.php/iassist/about/iqeditorialboard) members for a four-year term:
   
