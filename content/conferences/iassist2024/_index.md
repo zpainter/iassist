@@ -44,7 +44,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 - Jane Fry (Carleton University)
 - Amber Leahey (University of Toronto)
 - Martin Chandler (Cape Breton University)
-- Julie Marcoux (Dalhousie University
+- Julie Marcoux (Dalhousie University)
 - Sherri Sunstrum (Carleton University)
 
 
