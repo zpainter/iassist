@@ -8,7 +8,7 @@ type = "conference-2024"
 
 ### Program Committee
 
-Please send all questions to: **programme ( at ) lists.iassistdata.org**
+<span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">Please send all questions to: **programme ( at ) lists.iassistdata.org**<span>
 
 #### Chairs
 

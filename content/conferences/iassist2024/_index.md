@@ -47,7 +47,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 - Julie Marcoux (Dalhousie University)
 - Sherri Sunstrum (Carleton University)
 
-
+<span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">Please send all questions to: **programme ( at ) lists.iassistdata.org**<span>
 
 
 

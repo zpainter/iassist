@@ -8,38 +8,31 @@ type = "conference-2024"
 +++
 ## Conference Hotel and other Accommodation
 
-
 ### Conference Hotel Information 
 
-Updated conference hotel information will be available shortly.
+The Cambridge Hotel provides guests with a magnificent location, best viewed from the rooftop patio! The hotel is located only a 4-minute walk from the conference venue. Continental breakfast is provided with your stay, and more options are available close-by.  
 
-<!--
-
-The Cambridge Hotel provides guests with complimentary breakfast and is in a magnificent location, best viewed from the rooftop patio! The hotel is located only a 4-minute walk from the conference venue. 
-
-[Cambridge Suites Hotel <i class="fas fa-external-link-alt"></i>](https://www.cambridgesuiteshalifax.com/)  
-
-[1583 Brunswick Street, Halifax, Nova Scotia <i class="fas fa-external-link-alt"></i>](https://maps.app.goo.gl/mCHjKx9a3k3AfDyv6)  
-: Hotel phone 902.420.0555  
+[Cambridge Suites Hotel <span class="fas fa-external-link-alt"></span>](https://www.cambridgesuiteshalifax.com/)   
+[1583 Brunswick Street, Halifax, Nova Scotia <span class="fas fa-external-link-alt"></span>](https://maps.app.goo.gl/mCHjKx9a3k3AfDyv6) 
+: Hotel phone 1.902.420.0555  
 : Reservations Toll Free 1.800.565.1263
+: Email: askhalifax ( at ) cambridgesuiteshotel.com 
 
 #### Hotel Booking Reservations
 
-Hotel Reservations for rooms and juniors suites are available for IASSIST registered guests. Use this hotel booking link or contact the hotel for more information to receive the conference rate.
+Hotel Reservations for suites are available for IASSIST and CARTO 2024 registered guests. 
 
-**[Booking link coming soon!]**
--->
+Please book to reserve the conference rate using the hotel’s Conference booking tool:
+
+<a class="btn btn-template-main" target="_blank" href="https://reservations.travelclick.com/13605?groupID=4142748">Book your stay <span class="fas fa-external-link-alt"></span></a>
+<br /><br />
+
+If you would like to add nights to your reservation, please contact the hotel for more information to book travel dates if unavailable. 
+
+The nightly conference rate is $239 CAD. 
 
 ### Other accommodations
 
-Detailed information shortly.
+Additional budget-conscious accommodations are available, including seasonal accommodations offered by local university dormitories. Please note these options are further away from the conference venue (up to 30 minutes) and will require walking or your own transportation. 
 
-<!--
-
-In addition, budget-conscious accommodations are available, including seasonal accommodations offered by local university dormitories. Please note these options are likely to be significantly further away from the conference venue  than the conference hotel (up to 30 minutes) and will require your own transportation. 
-
--->
-
-See [Nova Scotia Tourism <i class="fas fa-external-link-alt"></i>](https://www.novascotia.com/) for other accommodations and tourism information. 
-
-
+See [Nova Scotia Tourism <span class="fas fa-external-link-alt"></span>](https://www.novascotia.com/) for other accommodations and tourism information. 
