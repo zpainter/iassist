@@ -90,9 +90,9 @@ The Interest Group has gathered various **[resources on anti-racism](/community/
 
 - **2023-2024 C0-Chairs: *Anja Perry, anja.perry [ at ] gesis.org*** and ***Abigail Goben, agoben [ at ] uic.edu***
 
-#### Data Acquisitions Interest Group {#data-acquisitions-interest-group}  
+#### Data Collection Development Interest Group (DataCDIG) {#data-acquisitions-interest-group}  
 
-This groups's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access. 
+This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access. 
 
 - **2023-2024 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu*** and ***Ron Nakao, ronbo [ at ] stanford.edu***
 
