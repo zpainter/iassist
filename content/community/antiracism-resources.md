@@ -3,6 +3,15 @@ title: "Diversity, Equity, and Inclusion Data Resources"
 date: 2023-10-20
 draft: false
 ---
+Former Anti-Racism Data Resources collection has been broadened to include resources on diversity, equity and inclusion. Please see the [updated page](/community/diversity-equity-and-inclusion-data-resources). 
+
+<!-- 
+
+*****
+* All editors:
+* edit the version under /community/diversity-equity-and-inclusion-data-resources which corresponds the current name and scope of the interest group.
+*****
+
 In the wake of the murders of George Floyd, Breonna Taylor and Ahmaud Arbery in 2020, among other (on-going) acts of violence against African Americans in the U.S., members of IASSIST felt compelled to gather materials that can help all of us better recognize, acknowledge and combat inherent racial bias. These members formed this group and compiled the resources linked here.
 
 ## Our mission
@@ -24,7 +33,6 @@ Our mission is to provide resources and educational opportunities to better reco
 <div class="container">
   <div class="col-md-8">
    <div class="row">
-<!--<div style="display:flex;align-items:top;margin:2em;">-->
 <div class="col-md-6">
  <div class="box-simple">
  <div class="icon">
@@ -49,7 +57,7 @@ Our mission is to provide resources and educational opportunities to better reco
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdYvxPiccUIQ3Gp7Jmlz1hRG0tJw_MzrM2TUcCJFUfgut7JIw/viewform?usp=sf_link">Send us feedback or suggest additions to the guide</a></p>								
  </div>
 </div>
-<!--</div>-->
+
 
   </div>
  </div>
@@ -58,7 +66,6 @@ Our mission is to provide resources and educational opportunities to better reco
 <div class="container">
   <div class="col-md-8">
    <div class="row">
-<!--<div style="display:flex;align-items:top;margin:2em;">-->
 <div class="col-md-6">
  <div class="box-simple">
 	 <a href="https://www.zotero.org/groups/4892474/iassist_anti-racism_resources_interest_group/items">
@@ -82,7 +89,6 @@ Our mission is to provide resources and educational opportunities to better reco
   <p>Essays and webinars that briefly summarize varying national perspectives about collecting data by race.</p>						
  </div>
 </div>
-<!--</div>-->
 
   </div>
  </div>
@@ -95,3 +101,4 @@ Please use the feedback forms for additions and comments to the resources lists,
 
 ---
 
+-->
