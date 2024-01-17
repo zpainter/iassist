@@ -19,11 +19,11 @@ Canadian airlines that fly from other Canadian cities to Halifax:
  - Porter (from Toronto Island Airport)
  - Lynx
 
-All visitors entering Canada by air, land, and sea are required to carry a valid passport and in certain cases a visa. Transportation [via rail <span class="fas fa-external-link-alt"></span>] (https://www.viarail.ca/en) is not easily travelled throughout Canada, especially to the eastern coast of the country. Expect 24-48 hours drive by car or by train one way from major cities in eastern North America.  No buses are available cross-province. More information about [sea travel <span class="fas fa-external-link-alt"></span>] (https://www.novascotia.com/travel-info/getting-here/sea) to Nova Scotia is available. 
+All visitors entering Canada by air, land, and sea are required to carry a valid passport and in certain cases a visa. Transportation [via rail <span class="fas fa-external-link-alt"></span>](https://www.viarail.ca/en) is not easily travelled throughout Canada, especially to the eastern coast of the country. Expect 24-48 hours drive by car or by train one way from major cities in eastern North America.  No buses are available cross-province. More information about [sea travel <span class="fas fa-external-link-alt"></span>](https://www.novascotia.com/travel-info/getting-here/sea) to Nova Scotia is available. 
 
 #### Visa Application & Letters of Invitation 
 
-Find out more information about [applying for a visa to travel to Canada <span class="fas fa-external-link-alt"></span>] (https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html).
+Find out more information about [applying for a visa to travel to Canada <span class="fas fa-external-link-alt"></span>](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html).
 
 - [Find out if you need a visa to travel to Canada <span class="fas fa-external-link-alt"></span>](https://www.cic.gc.ca/english/visit/visas.asp).
 
