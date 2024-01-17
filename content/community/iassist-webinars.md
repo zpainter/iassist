@@ -1,6 +1,7 @@
 +++
 title = "IASSIST Webinars"
 date = "2021-02-04 10:00:25 -0700"
+banner = "/img/community/iassist-webinar-series.jpg"
 draft = "false"
 +++
 ## IASSIST Webinar Registration and Recordings
