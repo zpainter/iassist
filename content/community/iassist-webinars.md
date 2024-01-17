@@ -12,29 +12,22 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 ### Webinar registrations
 
 <!--
-IASSIST's [Geospatial Interest Group](/community/geospatial-interest-group) will be host a web presentation/discussion on Friday, **November 3, 2023** at 1pm Eastern on the topic of how we are using **Open Educational Resources (OER) and other shared materials in teaching**. We’ll also introduce [IMGIS <span class="fas fa-external-link-alt"></span>](https://osf.io/zfv4e), a shared repository of GIS-related teaching materials that is in development. We invite your participation and comments in the development of this resource.
-
-There will be time for discussion and sharing so bring your favorite resources. These can be anything: websites, blogs, tutorials, books, courses, etc. Register online.
-
-<a class="btn btn-template-main" href="https://mit.zoom.us/meeting/register/tJIldOCgqzIuG9YJKrtb6_1c2zKL-EHjaP6k#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
--->
-
 > No webinar registrations open at the moment.
-
-<!--
-
-#### IASSIST Professional Development Webinar - Making R Interactive With Shiny
-
-**Lorin Bruckner**, Data Visualization Services Librarian at University of North Carolina at Chapel Hill, will demonstrate the different ways that R Shiny apps have been used in her library including for patron projects, tutorials and for interdepartmental library statistics. She'll review the code used to generate an app and explain how R Shiny works differently from R. She'll talk about the user interface vs. server code, and how apps can be improved with some knowledge of HTML and CSS. Attendees should have some basic knowledge or experience with R to get the most out of this webinar.
-
-**About the Speaker:** Lorin Bruckner has worked as a Data Visualization Librarian at UNC Chapel Hill since 2016. While assisting researchers at the University Library, she relies on her knowledge and experience in data analysis as well as her 10 year background in web design and creative direction. She obtained her MS in Information Science at the University of Illinois at Urbana-Champaign.
-
-**Time:** Thursday, August 17th from 1:00-2:00pm Eastern Time (US/Canada)
-
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZIkcuGtqjoiGte1VJVXIzotAMAD2fkcRIGj" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
-
-This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 -->
+
+#### Using IPUMS International: A Focus on Race & Ethnicity in Latin America
+
+[IPUMS <span class="fas fa-external-link-alt"></span>](https://international.ipmums.org/international/) (Integrated Public Use Microdata Series) International is dedicated to collecting and distributing census and survey microdata from around the world. The project goals are to collect and preserve data and documentation, harmonize data, and disseminate the harmonized data free of charge. IPUMS International currently disseminates more than 500 census and survey datasets from 103 countries. In this presentation, the presenters will provide an overview of IPUMS (data availability, topical content, harmonization approach, and data access system) with specific emphasis on race, ethnicity and related information in available data from Latin America. Learn about the provenance of the data, the categorizations available, the research and documentation conducted to harmonize (where feasible) and how to access the data. This will include a brief demonstration of the data request system and tabulator if time permits.
+
+**Lara Cleveland** is a researcher at the University of Minnesota's Institute for Social Research and Data Innovation, where she directs the international microdata projects of IPUMS. Lara holds a PhD in Sociology from the University of Minnesota.
+
+**Rodrigo Lovatón** is a researcher at IPUMS International, where he supervises the processing and harmonization of new census and survey datasets. Rodrigo holds a PhD. in Applied Economics and a Masters in Public Policy from the University of Minnesota.
+
+**Time:** Thursday, February 8, 2024, 11am EST / 4pm GMT
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZAvf-mtrzIpHd0Qx3--8zavf_GzOtbIvuX3" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+This webinar is brought to you by the Diversity, Equity, and Inclusion Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
 ### Most recent webinar recordings
 
