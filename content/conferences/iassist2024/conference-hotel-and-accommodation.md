@@ -38,19 +38,19 @@ The nightly conference rate is $239 CAD.
 
 [The Halifax Convention Centre <span class="fas fa-external-link-alt"></span>](/conferences/iassist2024/maps-and-local-information/) is located within walking distance to additional hotels including:
 
-[The Prince George Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.princegeorgehotel.com/), 1725 Market St, Halifax, NS B3J 3N9<br />
-[Sutton Place Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.suttonplace.com/halifax), 1700 Grafton St, Halifax, NS B3J 2C4<br />
-[Residence Inn Marriott Halifax <span class="fas fa-external-link-alt"></span>](https://www.marriott.com/en-us/hotels/yhzri-residence-inn-halifax-downtown/overview/), 1599 Grafton St, Halifax, NS B3J 2C3<br />
-[The Hollis Halifax Doubletree Suites <span class="fas fa-external-link-alt"></span>](https://www.guestreservations.com/the-hollis-halifax-a-doubletree-suites-by-hilton-hotel/booking), 1649 Hollis St, Halifax, NS B3J 1V8
+- [The Prince George Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.princegeorgehotel.com/), 1725 Market St, Halifax, NS B3J 3N9
+- [Sutton Place Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.suttonplace.com/halifax), 1700 Grafton St, Halifax, NS B3J 2C4
+- [Residence Inn Marriott Halifax <span class="fas fa-external-link-alt"></span>](https://www.marriott.com/en-us/hotels/yhzri-residence-inn-halifax-downtown/overview/), 1599 Grafton St, Halifax, NS B3J 2C3
+- [The Hollis Halifax Doubletree Suites <span class="fas fa-external-link-alt"></span>](https://www.guestreservations.com/the-hollis-halifax-a-doubletree-suites-by-hilton-hotel/booking), 1649 Hollis St, Halifax, NS B3J 1V8
 
 
 #### Student residences & budget conscious accommodations
 
 Seasonal accommodations offered by local university dormitories: 
 
-[Granville Hall Student Residence <span class="fas fa-external-link-alt"></span>](https://www.granvillehall.ca/) (limited capacity, closeby to downtown)<br />
-[Dalhousie Student Residence <span class="fas fa-external-link-alt"></span>](https://www.booking.com/hotel/ca/dalhousie-university-conference-services-summer-accommodations.html) (25-30 minute walk)<br />
-[Saint Mary’s University Residence <span class="fas fa-external-link-alt"></span>](https://www.smu.ca/conferenceservices/summer-accomodations.html) (25-30 minute walk)
+- [Granville Hall Student Residence <span class="fas fa-external-link-alt"></span>](https://www.granvillehall.ca/) (limited capacity, closeby to downtown)
+- [Dalhousie Student Residence <span class="fas fa-external-link-alt"></span>](https://www.booking.com/hotel/ca/dalhousie-university-conference-services-summer-accommodations.html) (25-30 minute walk)
+- [Saint Mary’s University Residence <span class="fas fa-external-link-alt"></span>](https://www.smu.ca/conferenceservices/summer-accomodations.html) (25-30 minute walk)
 
 Please note these options are further away from the conference venue and will require walking or your own transportation. 
 
