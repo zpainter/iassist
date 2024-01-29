@@ -10,7 +10,7 @@ type = "conference-2024"
 
 ### Conference Hotel Information 
 
-The Cambridge Hotel provides guests with a magnificent location, best viewed from the rooftop patio! The hotel is located only a 4-minute walk from the conference venue. Continental breakfast is provided with your stay, and more options are available close-by.  
+The Cambridge Hotel provides guests with a magnificent location, best viewed from the rooftop patio! The hotel is located only a 4-minute walk from the conference venue. Continental breakfast is provided with your stay, and more options are available close-by.   
 
 [Cambridge Suites Hotel <span class="fas fa-external-link-alt"></span>](https://www.cambridgesuiteshalifax.com/)   
 [1583 Brunswick Street, Halifax, Nova Scotia <span class="fas fa-external-link-alt"></span>](https://maps.app.goo.gl/mCHjKx9a3k3AfDyv6) 
@@ -31,8 +31,29 @@ If you would like to add nights to your reservation, please contact the hotel fo
 
 The nightly conference rate is $239 CAD. 
 
+<span style="border:solid silver 1px;background:#FFFFE0;padding:5px 10px 5px 10px;">Please Note: Friday May 31 night is sold out. (February 2024)</span> 
+
+
 ### Other accommodations
 
-Additional budget-conscious accommodations are available, including seasonal accommodations offered by local university dormitories. Please note these options are further away from the conference venue (up to 30 minutes) and will require walking or your own transportation. 
+[The Halifax Convention Centre <span class="fas fa-external-link-alt"></span>](/conferences/iassist2024/maps-and-local-information/) is located within walking distance to additional hotels including:
+
+[The Prince George Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.princegeorgehotel.com/), 1725 Market St, Halifax, NS B3J 3N9<br />
+[Sutton Place Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.suttonplace.com/halifax), 1700 Grafton St, Halifax, NS B3J 2C4<br />
+[Residence Inn Marriott Halifax <span class="fas fa-external-link-alt"></span>](https://www.marriott.com/en-us/hotels/yhzri-residence-inn-halifax-downtown/overview/), 1599 Grafton St, Halifax, NS B3J 2C3<br />
+[The Hollis Halifax Doubletree Suites <span class="fas fa-external-link-alt"></span>](https://www.guestreservations.com/the-hollis-halifax-a-doubletree-suites-by-hilton-hotel/booking), 1649 Hollis St, Halifax, NS B3J 1V8
+
+
+#### Student residences & budget conscious accommodations
+
+Seasonal accommodations offered by local university dormitories: 
+
+[Granville Hall Student Residence <span class="fas fa-external-link-alt"></span>](https://www.granvillehall.ca/) (limited capacity, closeby to downtown)<br />
+[Dalhousie Student Residence <span class="fas fa-external-link-alt"></span>](https://www.booking.com/hotel/ca/dalhousie-university-conference-services-summer-accommodations.html) (25-30 minute walk)<br />
+[Saint Mary’s University Residence <span class="fas fa-external-link-alt"></span>](https://www.smu.ca/conferenceservices/summer-accomodations.html) (25-30 minute walk)
+
+Please note these options are further away from the conference venue and will require walking or your own transportation. 
+
+**Halifax Bus Pass will be provided for the conference week.** A city-wide Halifax bus pass will be provided to you before arrival in Halifax for the duration of the conference. An email with bus pass and more details will be provided after registration.
 
 See [Nova Scotia Tourism <span class="fas fa-external-link-alt"></span>](https://www.novascotia.com/) for other accommodations and tourism information. 
