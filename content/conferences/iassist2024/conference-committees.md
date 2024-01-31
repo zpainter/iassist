@@ -18,17 +18,17 @@ type = "conference-2024"
 
 **Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
 
-**Workshop Coordinators**: TBA
+**Workshop Coordinators**: Deborah Wiltshire, Wolfgang Zenk-Moeltgen, Ted Baldwin
 
-**Lightning Talk Coordinator**: TBA
+**Lightning Talk Coordinator**: Sebastian Karcher
 
-**Session Coordinator**: TBA
+**Session Coordinator**: Jess Hagman
 
-**Papers Competition Coordinator**: TBA
+**Papers Competition Coordinator**: Meryl Brodsky
 
-**Poster Coordinator**: TBA
+**Poster Coordinator**: Mandy Swygart-Hobaugh
 
-**Birds of a Feather Coordinator**: TBA
+**Birds of a Feather Coordinator**: Stephanie Labou
 
 ### Local Arrangements Committee
 
