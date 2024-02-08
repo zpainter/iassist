@@ -53,7 +53,9 @@ To receive Members Only registration discounts, you must be an IASSIST Member in
 
 *Current Members*: Your IASSIST membership must be confirmed before your registration can be finalized. 
 
+<!--
 *Reduced Rate Registration*: Current Reduced Rate Members are eligible for a discounted registration fee. Discount codes will be emailed out to our current reduced rate members. If you have additional questions regarding your qualification, please visit the Become a Member page or contact the current Membership Chair.
+-->
 
 *Payment Policy*: TBA
 
@@ -65,7 +67,9 @@ Registration for IASSIST 2024 includes access to all sessions and provided meals
 
 Pre-conference workshops can be added to your registration for an additional fee.
 
+<!--
 One-Day ONLY Registration for IASSIST 2024 includes access to all sessions and meals and breaks that are included on the schedule for the One Day selected. Reception and Banquet are excluded from One-Day registration.
+-->
 
 For hotel and other local information, consult the [conference hotel page](/conferences/iassist2024/conference-hotel-and-accommodation/).
 
