@@ -11,7 +11,7 @@ type = "conference-2024"
 
 Below is a draft schedule for IASSIST & CARTO 2024. Times are subject to change and break times will be included in morning and afternoon session blocks. The finalized schedule will be released in March. 
 
-
+<!--
 Tuesday May 28|Wednesday May 29|Thursday May 30|Friday May 31|
 ---|---|---|---|
 Morning Workshops (9:00-12:00)|Registration, Plenary, and Morning Sessions (8:00-12:30)|Registration, Plenary, and Morning Sessions (8:00-12:30)|Registration and Morning Sessions (8:00-12:30)|
@@ -24,19 +24,7 @@ Afternoon Workshops (13:00 - 16:00)|Afternoon Sessions (13:30 - 16:00)|Birds of 
    |   |   |   |
    |   |   |   |
 Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00)||
-
-
-
-
-
-
-
-
-
-
-
-<!--
-A typical conference schedule is shown below.  Details on the 2024 schedule will appear in the Spring as the program is finalized.
+-->
 
 <style>
   table.schedule {
@@ -71,54 +59,41 @@ A typical conference schedule is shown below.  Details on the 2024 schedule will
 <table class="schedule">
 <thead>
 	<tr>
-	  <th>Monday</th>
-	  <th>Tuesday</th>
-	  <th>Wednesday</th>
-	  <th>Thursday</th>
-	  <th>Friday</th>
+	  <th>Tuesday May 28</th>
+	  <th>Wednesday May 29</th>
+	  <th>Thursday May 30</th>
+	  <th>Friday May 31</th>
 	</tr>
 </thead>
-<tbody>
+<tbody><!--
 	<tr>
 	  <td></td>
-	  <td>Workshops</td>
-	  <td>Plenary/Panel</td>
-	  <td>Plenary/Panel</td>
-	  <td>Sessions</td>
+	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
+	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
+	  <td>8:00-12:30<br />Registration and Morning Sessions</td>
+	</tr>-->
+	<tr>
+	  <td>9:00-12:00<br />Morning Workshops</td>
+	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
+	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
+	  <td>8:00-12:30<br />Registration and Morning Sessions</td>
 	</tr>
 	<tr>
-	  <td>IASSIST Administrative Meeting</td>
-	  <td>Workshops</td>
-	  <td>Sessions or Interest Groups Meetings</td>
-	  <td>Sessions</td>
-	  <td>Sessions</td>
+	  <td>12:00:13:00<br />Lunch on your own</td>
+	  <td>12:30-13:30<br />Lunch</td>
+	  <td>12:30-13:45<br />IASSIST and ACMLA Business Lunches</td>
+	  <td>12:30-13:30<br />Lunch</td>
 	</tr>
 	<tr>
-	  <td>Lunch on your own</td>
-	  <td>Lunch on your own</td>
-	  <td>Lunch</td>
-	  <td>Lunch &amp; IASSIST Business meeting</td>
-	  <td>Lunch</td>
+	  <td>13:00-16:00<br />Afternoon Workshops</td>
+	  <td>13:30-16:00<br />Afternoon Sessions</td>
+	  <td>13:45-14:30<br />Birds of a Feather<br />14:30-17:00<br />Afternoon Sessions</td>
+	  <td>13:30-15:00<br />Lightning Talks and Closing Ceremony</td>
 	</tr>
 	<tr>
-	  <td>IASSIST Administrative Meeting</td>
-	  <td>Workshops</td>
-	  <td>Sessions</td>
-	  <td>Birds of a Feather</td>
-	  <td>Sessions</td>
-	</tr>
-	<tr>
-	  <td></td>
-	  <td>Interest Group Discussions</td>
-	  <td>Poster session</td>
-	  <td>Sessions</td>
-	  <td>Wrapup</td>
-	</tr>
-	<tr>
-	  <td></td>
-	  <td>Reception</td>
-	  <td></td>
-	  <td>Banquet</td>
+	  <td>17:30<br />Opening Reception</td>
+	  <td>16:00-17:30<br />Poster Reception</td>
+	  <td>18:30-21:00<br />Banquet</td>
 	  <td></td>
 	</tr>
 </tbody>
@@ -127,7 +102,7 @@ A typical conference schedule is shown below.  Details on the 2024 schedule will
 ## Detailed schedule
 
 Forthcoming.
--->
+
 
 <!---
 Monday|Tuesday|Wednesday|Thursday|Friday|

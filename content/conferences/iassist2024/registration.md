@@ -9,9 +9,9 @@ type = "conference-2024"
 
 **Registration is expected to open in February/March 2024.**
 
-Registration rates will be posted as soon as they are confirmed. Early bird registration will be available. 
+Registration rates will be posted as soon as the date on which registration opens is confirmed. Early bird registration will be available. 
 
-<br /><br />
+<br />
 
 <!--
 The prior registration rates are posted below:
@@ -57,9 +57,9 @@ To receive Members Only registration discounts, you must be an IASSIST Member in
 *Reduced Rate Registration*: Current Reduced Rate Members are eligible for a discounted registration fee. Discount codes will be emailed out to our current reduced rate members. If you have additional questions regarding your qualification, please visit the Become a Member page or contact the current Membership Chair.
 -->
 
-*Payment Policy*: TBA
+*Payment Policy*: Forthcoming
 
-*Cancellation Policy*: TBA <!--All cancellations received on or before May 1, 2023 are eligible for a full refund of fees paid, less a 10% cancellation fee. No refunds will be issued after the May 1 cut-off date. Registrants are able to transfer completed registrations to colleagues - please contact iassist@concentra-cms.com to finalize this process.-->
+*Cancellation Policy*: Forthcoming <!--All cancellations received on or before May 1, 2023 are eligible for a full refund of fees paid, less a 10% cancellation fee. No refunds will be issued after the May 1 cut-off date. Registrants are able to transfer completed registrations to colleagues - please contact iassist@concentra-cms.com to finalize this process.-->
 
 ### What Does Your Registration Include?
 
