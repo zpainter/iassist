@@ -87,7 +87,7 @@ Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00
 	<tr>
 	  <td>13:00-16:00<br />Afternoon Workshops</td>
 	  <td>13:30-16:00<br />Afternoon Sessions</td>
-	  <td>13:45-14:30<br />Birds of a Feather<br />14:30-17:00<br />Afternoon Sessions</td>
+	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-17:00<br />Afternoon Sessions</td>
 	  <td>13:30-15:00<br />Lightning Talks and Closing Ceremony</td>
 	</tr>
 	<tr>
