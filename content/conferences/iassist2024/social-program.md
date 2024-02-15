@@ -5,17 +5,15 @@ title = "IASSIST and CARTO 2024 - Social Program"
 location = "Halifax, Canada"
 type = "conference-2024"
 +++
+## Welcome Reception
 
-More details to follow.
+**Tuesday, May 28 at 5:30pm**
 
-<!--
-**IASSIST 2024 Reception**
-Tuesday, May 30th, 6PM-8PM
+Please join us for the IASSIST & CARTO Opening Reception to be held at 5:30pm on Tuesday May 28 at the Halifax Convention Centre. 
 
-Connect with old colleagues, make new friends, network and enjoy! Participants enjoy drinks and light appetizers while mingling.
+## Conference Banquet 
 
-**IASSIST 2024 Banquet**
-Thursday, June 1st, 6PM-9PM
+**Thursday May 30 at 6:30pm**
 
-All attendees were invited to join us for this year's banquet. The event included food, drinks, music, and dancing.
--->
+Getting to The Cable Wharf 
+: The Banquet will be held as a reception style event at [The Cable Wharf <span class="fas fa-external-link-alt"></span>](https://www.rcr.ca/restaurants/cable-wharf-kitchen-patio/), conveniently located a [short walk away from the Convention Centre <span class="fas fa-external-link-alt"></span>](https://maps.app.goo.gl/AjYbmHrdhyFvr8n98) or from [Cambridge Hotel Suites <span class="fas fa-external-link-alt"></span>](https://maps.app.goo.gl/DiKpV25xzbgQrKNw6)! 
