@@ -12,9 +12,10 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 ### Webinar registrations
 
-<!--
+
 > No webinar registrations open at the moment.
--->
+
+Slides coming up soon:
 
 #### Using IPUMS International: A Focus on Race & Ethnicity in Latin America
 
@@ -26,7 +27,9 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 **Time:** Thursday, February 8, 2024, 11am EST / 4pm GMT
 
+<!--
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZAvf-mtrzIpHd0Qx3--8zavf_GzOtbIvuX3" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+-->
 
 This webinar is brought to you by the Diversity, Equity, and Inclusion Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
