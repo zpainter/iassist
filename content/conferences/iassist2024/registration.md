@@ -6,6 +6,8 @@ location = "Halifax, Canada"
 banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
+## Conference Registration
+
 
 **Registration is expected to open in February/March 2024.**
 
@@ -47,29 +49,22 @@ Pre-Conference Workshops: $50 each
 <br/>
 -->
 
+
 ### Take advantage of IASSIST Membership benefits!
 
 To receive Members Only registration discounts, you must be an IASSIST Member in good standing. To take advantage of member pricing, please visit the [Become a Member page](/about/become-a-member/) to join today before you register.
 
 *Current Members*: Your IASSIST membership must be confirmed before your registration can be finalized. 
 
-<!--
-*Reduced Rate Registration*: Current Reduced Rate Members are eligible for a discounted registration fee. Discount codes will be emailed out to our current reduced rate members. If you have additional questions regarding your qualification, please visit the Become a Member page or contact the current Membership Chair.
--->
-
 *Payment Policy*: Forthcoming
 
-*Cancellation Policy*: Forthcoming <!--All cancellations received on or before May 1, 2023 are eligible for a full refund of fees paid, less a 10% cancellation fee. No refunds will be issued after the May 1 cut-off date. Registrants are able to transfer completed registrations to colleagues - please contact iassist@concentra-cms.com to finalize this process.-->
+*Cancellation Policy*: Forthcoming
 
 ### What Does Your Registration Include?
 
 Registration for IASSIST 2024 includes access to all sessions and provided meals and breaks that are included on the schedule from Tuesday evening through Friday. 
 
 Pre-conference workshops can be added to your registration for an additional fee.
-
-<!--
-One-Day ONLY Registration for IASSIST 2024 includes access to all sessions and meals and breaks that are included on the schedule for the One Day selected. Reception and Banquet are excluded from One-Day registration.
--->
 
 For hotel and other local information, consult the [conference hotel page](/conferences/iassist2024/conference-hotel-and-accommodation/).
 

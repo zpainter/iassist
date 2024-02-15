@@ -7,4 +7,4 @@ banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
 
-To be announced.
+Workshop topics and registration instructions will be announced soon.
