@@ -7,8 +7,84 @@ banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
 **We are grateful for our sponsors and want to thank our previous sponsors!**
+<!--
+## IASSIST & CARTO 2024 Conference Sponsors 
 
-## Sponsorship 2024 Details
+### Platinum Sponsors
+
+### Gold Sponsors
+
+Dalhousie University [Logo]
+
+Sage Publishing [Logo]
+
+Open Science Framework (OSF) [Logo]
+
+Social Science and Humanities Council of Canada (SSHRC) [Logo]
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure src="/conferences/iassist2023/sponsorship/aristotle.png" alt="Aristotle Metadata logo" >}}
+  </div>
+  <div style="margin-left:1em;">
+    <a href="https://www.aristotlemetadata.com/">Aristotle Metadata</a>
+  </div>
+</div>
+
+### Silver Sponsors
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure src="/conferences/iassist2023/sponsorship/icpsr.png" alt="ICPSR logo" >}}
+  </div> 
+  <div style="margin-left:1em;">
+    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research (ICPSR)</a>
+  </div>
+</div>
+
+University of Toronto Libraries / Borealis [Logos together]
+
+### Bronze Sponsors
+
+Carleton University  [Logo]
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure src="/conferences/iassist2023/sponsorship/XXX.png" alt="XXX" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://XXX">XXX</a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure src="/conferences/iassist2023/sponsorship/ddi.png" alt="DDI Alliance" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://ddialliance.org/">DDI Alliance</a>
+  </div>
+</div>
+
+Canadian Association of Research Libraries (CARL) [Logo]
+
+Ontario Council of University Libraries (OCUL) [Logo]
+
+
+
+We are thankful to the Roper Centre for Public Opinion Research for their contribution this year. [Logo]
+
+We are thankful to the Canadian Association of Research Libraries for their contribution towards coffee for the conference. 
+
+#### Special thank you to Dalhousie University! 
+
+We are very grateful to Dalhousie University for hosting the IASSIST & CARTO 2024 Workshops [link].  
+-->
+
+
+
+
+## Become a Sponsor - Sponsorship 2024 Details
 
 Our sponsorship brochure tells more about IASSIST and CARTO, this year's sponsorship packages, and why become a sponsor. For more information contact us programme ( at ) lists.iassistdata.org 
 
