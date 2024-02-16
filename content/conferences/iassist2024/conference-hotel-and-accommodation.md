@@ -48,7 +48,7 @@ The nightly conference rate is $239 CAD.
 
 Seasonal accommodations offered by local university dormitories: 
 
-- [Granville Hall Student Residence <span class="fas fa-external-link-alt"></span>](https://www.granvillehall.ca/) (limited capacity, closeby to downtown)
+- [Granville Hall Student Residence <span class="fas fa-external-link-alt"></span>](https://www.granvillehall.ca/) (limited capacity, closeby to downtown. Please note that the payment is upfront.)
 - [Dalhousie Student Residence <span class="fas fa-external-link-alt"></span>](https://www.booking.com/hotel/ca/dalhousie-university-conference-services-summer-accommodations.html) (25-30 minute walk)
 - [Saint Mary’s University Residence <span class="fas fa-external-link-alt"></span>](https://www.smu.ca/conferenceservices/summer-accomodations.html) (25-30 minute walk)
 
