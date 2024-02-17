@@ -7,82 +7,140 @@ banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
 **We are grateful for our sponsors and want to thank our previous sponsors!**
-<!--
+
 ## IASSIST & CARTO 2024 Conference Sponsors 
 
+<!--
 ### Platinum Sponsors
+-->
+<!-- logo 330 px -->
 
 ### Gold Sponsors
-
-Dalhousie University [Logo]
-
-Sage Publishing [Logo]
-
-Open Science Framework (OSF) [Logo]
-
-Social Science and Humanities Council of Canada (SSHRC) [Logo]
+<!-- logo 300 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure src="/conferences/iassist2023/sponsorship/aristotle.png" alt="Aristotle Metadata logo" >}}
+    {{< figure width="300" src="/conferences/iassist2024/images/dalhousie.png" alt="logo, Dalhousie University." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.dal.ca/">Dalhousie University  <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://sagepub.com/">Sage Publishing <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2024/images/osf.png" alt="logo, Open Science Framework (OSF)." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://osf.io/">Open Science Framework (OSF) <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2024/images/sshrc.png" alt="logo, Social Science and Humanities Council of Canada (SSHRC)." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx">Social Science and Humanities Council of Canada (SSHRC) <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300px" src="/conferences/iassist2024/images/aristotle.png" alt="logo, Aristotle Metadata." >}}
   </div>
   <div style="margin-left:1em;">
-    <a href="https://www.aristotlemetadata.com/">Aristotle Metadata</a>
+    <a href="https://www.aristotlemetadata.com/">Aristotle Metadata <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
 ### Silver Sponsors
+<!-- logo 270 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure src="/conferences/iassist2023/sponsorship/icpsr.png" alt="ICPSR logo" >}}
+    {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
   </div> 
   <div style="margin-left:1em;">
-    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research (ICPSR)</a>
+    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research (ICPSR) <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
-University of Toronto Libraries / Borealis [Logos together]
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="270px" src="/conferences/iassist2024/images/universitytoronto.png" alt="logo, University of Toronto." >}}
+    {{< figure width="270px" src="/conferences/iassist2024/images/borealis.png" alt="logo, Borealis." >}}
+  </div> 
+  <div style="margin-left:1em;">
+    <a href="https://mdl.library.utoronto.ca/collections/data-portal/borealis">University of Toronto Libraries / Borealis <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
 
 ### Bronze Sponsors
-
-Carleton University  [Logo]
+<!-- logo 240 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure src="/conferences/iassist2023/sponsorship/XXX.png" alt="XXX" >}}
+    {{< figure width="240px" src="/conferences/iassist2024/images/carleton.png" alt="logo, Carleton University " >}}
   </div> 
   <div style="margin-left:1em;">
-   <a href="https://XXX">XXX</a>
+   <a href="https://carleton.ca/">Carleton University <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure src="/conferences/iassist2023/sponsorship/ddi.png" alt="DDI Alliance" >}}
+    {{< figure width="240px" src="/conferences/iassist2024/images/ddi.png" alt="logo, DDI Alliance" >}}
   </div> 
   <div style="margin-left:1em;">
-   <a href="https://ddialliance.org/">DDI Alliance</a>
+   <a href="https://ddialliance.org/">DDI Alliance <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
-Canadian Association of Research Libraries (CARL) [Logo]
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/carl.png" alt="logo, Canadian Association of Research Libraries (CARL)" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.carl-abrc.ca/">Canadian Association of Research Libraries (CARL) <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
 
-Ontario Council of University Libraries (OCUL) [Logo]
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/ocul.png" alt="logo, Ontario Council of University Libraries (OCUL)" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://ocul.on.ca/">Ontario Council of University Libraries (OCUL) <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
 
-
-
-We are thankful to the Roper Centre for Public Opinion Research for their contribution this year. [Logo]
+We are thankful to the [Roper Centre for Public Opinion Research <span class="fas fa-external-link-alt"></span>](https://ropercenter.cornell.edu/) for their contribution this year.
+<div style="display:flex;align-items:center;margin:1em 0 1.5em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/roper.png" alt="logo, Roper Centre for Public Opinion Research" >}}
+  </div> 
+</div>
 
 We are thankful to the Canadian Association of Research Libraries for their contribution towards coffee for the conference. 
 
 #### Special thank you to Dalhousie University! 
 
 We are very grateful to Dalhousie University for hosting the IASSIST & CARTO 2024 Workshops [link].  
--->
 
 
 
+
+<br />
 
 ## Become a Sponsor - Sponsorship 2024 Details
 
