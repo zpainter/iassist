@@ -15,7 +15,7 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 > No webinar registrations open at the moment.
 
-Slides coming up soon:
+<!--
 
 #### Using IPUMS International: A Focus on Race & Ethnicity in Latin America
 
@@ -27,13 +27,20 @@ Slides coming up soon:
 
 **Time:** Thursday, February 8, 2024, 11am EST / 4pm GMT
 
-<!--
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZAvf-mtrzIpHd0Qx3--8zavf_GzOtbIvuX3" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
--->
 
 This webinar is brought to you by the Diversity, Equity, and Inclusion Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+-->
 
 ### Most recent webinar recordings
+
+#### Using IPUMS International: A Focus on Race & Ethnicity in Latin America
+
+Lara Cleveland, Rodrigo Lovatón <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864)
+
+{{< youtube g9ydnn0Q_FE >}}
+
+<br />
 
 #### If only data was like books... Introducing the Data Collection Developement Interest Group
 
@@ -43,15 +50,9 @@ Barbara Esty, Ron Nakao <br /> [Webinar slides on Zenodo <span class="fas fa-ext
 
 <br />
 
-#### Making R Interactive With Shiny
-
-Lorin Bruckner <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.8308322)
-
-{{< youtube aUriimb5Pbw >}}
-
-<br />
-
 ### Older webinar recordings
+
+- [Making R Interactive With Shiny <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=aUriimb5Pbw) (Lorin Bruckner)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.8308322))
 
 - [Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=YDEpK-U99JU) (Margaret Levenstein, Daniel Gillman)<br />Webinar slides on Zenodo: [Levenstein <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.7651298), [Gillman <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.7651313)
 
