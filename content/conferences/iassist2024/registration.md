@@ -9,6 +9,7 @@ type = "conference-2024"
 ## Conference Registration
 
 
+
 **Registration is expected to open in February/March 2024.**
 
 Registration rates will be posted as soon as the date on which registration opens is confirmed. Early bird registration will be available. 
