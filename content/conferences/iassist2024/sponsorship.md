@@ -8,14 +8,14 @@ type = "conference-2024"
 +++
 **We are grateful for our sponsors and want to thank our previous sponsors!**
 
-## IASSIST & CARTO 2024 Conference Sponsors 
+**IASSIST & CARTO 2024 Conference Sponsors**
 
 <!--
 ### Platinum Sponsors
 -->
 <!-- logo 330 px -->
 
-### Gold Sponsors
+## Gold Sponsors
 <!-- logo 300 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
@@ -63,7 +63,7 @@ type = "conference-2024"
   </div>
 </div>
 
-### Silver Sponsors
+## Silver Sponsors
 <!-- logo 270 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
@@ -85,7 +85,7 @@ type = "conference-2024"
   </div>
 </div>
 
-### Bronze Sponsors
+## Bronze Sponsors
 <!-- logo 240 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
@@ -125,17 +125,15 @@ type = "conference-2024"
 </div>
 
 We are thankful to the [Roper Centre for Public Opinion Research <span class="fas fa-external-link-alt"></span>](https://ropercenter.cornell.edu/) for their contribution this year.
-<div style="display:flex;align-items:center;margin:1em 0 1.5em 0;">
+<div style="display:flex;align-items:center;margin:1em 0 2em 0;">
   <div>
     {{< figure width="240px" src="/conferences/iassist2024/images/roper.png" alt="logo, Roper Centre for Public Opinion Research" >}}
   </div> 
 </div>
 
-We are thankful to the Canadian Association of Research Libraries for their contribution towards coffee for the conference. 
+We are thankful to the Canadian Association of Research Libraries (CARL) for their contribution towards coffee for the conference. 
 
-#### Special thank you to Dalhousie University! 
-
-We are very grateful to Dalhousie University for hosting the IASSIST & CARTO 2024 Workshops [link].  
+**Special thank you to Dalhousie University!** We are very grateful to Dalhousie University for hosting the IASSIST & CARTO 2024 Workshops.  
 
 
 

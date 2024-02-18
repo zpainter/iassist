@@ -18,7 +18,7 @@ type = "conference-2024"
 
 In person at the Halifax Convention Centre.
 
-**Host institution: IASSIST with representation from Dalhousie University, Mount Saint Vincent University, and Cape Breton University.**
+**Host institution:** IASSIST with representation from Dalhousie University, Mount Saint Vincent University, and Cape Breton University.
 Held with [CARTO <i class="fas fa-external-link-alt"></i>](https://acmla-acacc.ca/), Association of Canadian Map Libraries and Archives.
 
 ### Land acknowledgment
@@ -30,6 +30,90 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 **[Submit](./call-for-submissions/)** your workshop, session, paper or poster proposal. Join us and submit by the deadline <s>November 22, 2023</s> December 1, 2023. It will be the **Best. IASSIST. Ever.**
 
 **Submissions are now closed.**
+
+<hr />
+<br />
+
+## IASSIST & CARTO ponsors
+
+### Gold 
+<!-- logo 300 px -->
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2024/images/dalhousie.png" alt="logo, Dalhousie University." >}}
+  </div> 
+  <div style="margin-left:10em;">
+    {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2024/images/osf.png" alt="logo, Open Science Framework (OSF)." >}}
+  </div> 
+  <div style="margin-left:10em;">
+    {{< figure width="300" src="/conferences/iassist2024/images/sshrc.png" alt="logo, Social Science and Humanities Council of Canada (SSHRC)." >}}
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300px" src="/conferences/iassist2024/images/aristotle.png" alt="logo, Aristotle Metadata." >}}
+  </div>
+  <div style="margin-left:10em;">
+  </div>
+</div>
+
+## Silver 
+<!-- logo 270 px -->
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
+  </div> 
+  <div style="margin-left:10em;">
+    {{< figure width="270px" src="/conferences/iassist2024/images/universitytoronto.png" alt="logo, University of Toronto." >}}
+    {{< figure width="270px" src="/conferences/iassist2024/images/borealis.png" alt="logo, Borealis." >}}
+  </div>
+</div>
+
+## Bronze 
+<!-- logo 240 px -->
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/carleton.png" alt="logo, Carleton University " >}}
+  </div> 
+  <div style="margin-left:12em;">
+    {{< figure width="240px" src="/conferences/iassist2024/images/ddi.png" alt="logo, DDI Alliance" >}}
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/carl.png" alt="logo, Canadian Association of Research Libraries (CARL)" >}}
+  </div> 
+  <div style="margin-left:12em;">
+    {{< figure width="240px" src="/conferences/iassist2024/images/ocul.png" alt="logo, Ontario Council of University Libraries (OCUL)" >}}
+  </div>
+</div>
+
+We are thankful to the Roper Centre for Public Opinion Research for their contribution this year.
+<div style="display:flex;align-items:center;margin:1em 0 2em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/roper.png" alt="logo, Roper Centre for Public Opinion Research" >}}
+  </div> 
+</div>
+
+We are thankful to the Canadian Association of Research Libraries (CARL) for their contribution towards coffee for the conference. 
+
+**Special thank you to Dalhousie University!** We are very grateful to Dalhousie University for hosting the IASSIST & CARTO 2024 Workshops. 
+
+<br style="clear:both;">
+
+<hr />
+<br />
 
 ### Program Committee Chairs
 - Sophia Lafferty-Hess (Duke University)
@@ -48,8 +132,6 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 - Sherri Sunstrum (Carleton University)
 
 <span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">Please send all questions to: **programme ( at ) lists.iassistdata.org**<span>
-
-
 
 <!--Image credit: -->
 
