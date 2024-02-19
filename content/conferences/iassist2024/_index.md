@@ -34,45 +34,38 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 <hr />
 <br />
 
-## IASSIST & CARTO ponsors
+## IASSIST & CARTO sponsors
 
 ### Gold 
 <!-- logo 300 px -->
 
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 2em;">
+  <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/dalhousie.png" alt="logo, Dalhousie University." >}}
   </div> 
-  <div style="margin-left:10em;">
+  <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
   </div>
-</div>
-
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
+  <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/osf.png" alt="logo, Open Science Framework (OSF)." >}}
   </div> 
-  <div style="margin-left:10em;">
+  <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/sshrc.png" alt="logo, Social Science and Humanities Council of Canada (SSHRC)." >}}
+  </div>
+  <div style="padding: 2em;">
+    {{< figure width="300px" src="/conferences/iassist2024/images/aristotle.png" alt="logo, Aristotle Metadata." >}}
   </div>
 </div>
 
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
-    {{< figure width="300px" src="/conferences/iassist2024/images/aristotle.png" alt="logo, Aristotle Metadata." >}}
-  </div>
-  <div style="margin-left:10em;">
-  </div>
-</div>
 
 ## Silver 
 <!-- logo 270 px -->
 
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
+<div style="display:flex;flex-wrap:wrap;align-items:left;margin:2em 0em 2em 2em;">
+  <div style="padding: 2em;">
     {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
   </div> 
-  <div style="margin-left:10em;">
+  <div style="padding: 2em;">
     {{< figure width="270px" src="/conferences/iassist2024/images/universitytoronto.png" alt="logo, University of Toronto." >}}
     {{< figure width="270px" src="/conferences/iassist2024/images/borealis.png" alt="logo, Borealis." >}}
   </div>
@@ -81,20 +74,17 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 ## Bronze 
 <!-- logo 240 px -->
 
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
+<div style="display:flex;flex-wrap:wrap;align-items:left;margin:2em 0em 2em 2em;">
+  <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/carleton.png" alt="logo, Carleton University " >}}
   </div> 
-  <div style="margin-left:12em;">
+  <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/ddi.png" alt="logo, DDI Alliance" >}}
   </div>
-</div>
-
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
+  <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/carl.png" alt="logo, Canadian Association of Research Libraries (CARL)" >}}
   </div> 
-  <div style="margin-left:12em;">
+  <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/ocul.png" alt="logo, Ontario Council of University Libraries (OCUL)" >}}
   </div>
 </div>
