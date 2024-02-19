@@ -61,7 +61,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 ## Silver 
 <!-- logo 270 px -->
 
-<div style="display:flex;flex-wrap:wrap;align-items:left;margin:2em 0em 2em 2em;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 2em;">
   <div style="padding: 2em;">
     {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
   </div> 
@@ -74,7 +74,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 ## Bronze 
 <!-- logo 240 px -->
 
-<div style="display:flex;flex-wrap:wrap;align-items:left;margin:2em 0em 2em 2em;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 2em;">
   <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/carleton.png" alt="logo, Carleton University " >}}
   </div> 
