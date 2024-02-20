@@ -76,19 +76,19 @@ Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00
 	  <td>9:00-12:00<br />Morning Workshops</td>
 	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
 	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
-	  <td>8:00-12:30<br />Registration and Morning Sessions</td>
+	  <td>8:00-10:45<br />Registration and Morning Sessions<br /><br />10:45-12:00<br />Lightning Talks</td>
 	</tr>
 	<tr>
 	  <td>12:00:13:00<br />Lunch on your own</td>
 	  <td>12:30-13:30<br />Lunch</td>
 	  <td>12:30-13:45<br />IASSIST and ACMLA Business Lunches</td>
-	  <td>12:30-13:30<br />Lunch</td>
+	  <td>12:00-13:00<br />Lunch</td>
 	</tr>
 	<tr>
 	  <td>13:00-16:00<br />Afternoon Workshops</td>
 	  <td>13:30-16:00<br />Afternoon Sessions</td>
-	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-17:00<br />Afternoon Sessions</td>
-	  <td>13:30-15:00<br />Lightning Talks and Closing Ceremony</td>
+	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-16:00<br />Afternoon Sessions<br /><br />16:00-17:00<br />Interest Groups Meetings</td>
+	  <td>13:00-14:30<br />Afternoon Session and Closing Ceremony</td>
 	</tr>
 	<tr>
 	  <td>17:30<br />Opening Reception</td>
