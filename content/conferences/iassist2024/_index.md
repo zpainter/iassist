@@ -39,7 +39,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 ### Gold 
 <!-- logo 300 px -->
 
-<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 2em;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
   <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/dalhousie.png" alt="logo, Dalhousie University." >}}
   </div> 
@@ -61,7 +61,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 ## Silver 
 <!-- logo 270 px -->
 
-<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 2em;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
   <div style="padding: 2em;">
     {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
   </div> 
@@ -74,7 +74,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 ## Bronze 
 <!-- logo 240 px -->
 
-<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 2em;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
   <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/carleton.png" alt="logo, Carleton University " >}}
   </div> 
@@ -90,8 +90,8 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 </div>
 
 We are thankful to the Roper Centre for Public Opinion Research for their contribution this year.
-<div style="display:flex;align-items:center;margin:1em 0 2em 0;">
-  <div>
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:0em 0em 0em 0em;">
+  <div style="padding: 1em 0 1em 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/roper.png" alt="logo, Roper Centre for Public Opinion Research" >}}
   </div> 
 </div>
