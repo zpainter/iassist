@@ -3,7 +3,7 @@ year = "2024"
 draft = "false"
 title = "IASSIST and CARTO 2024 - Registration"
 location = "Halifax, Canada"
-banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
+banner = "/img/conferences/annual/halifax2024-registration-open.png"
 type = "conference-2024"
 +++
 ## Conference Registration
