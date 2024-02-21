@@ -8,65 +8,33 @@ type = "conference-2024"
 +++
 ## Conference Registration
 
+Register now for the IASSIST & CARTO 2024 Full Conference, May 28-31, 2024.
 
-
-**Registration is expected to open in February/March 2024.**
-
-Registration rates will be posted as soon as the date on which registration opens is confirmed. Early bird registration will be available. 
+Full conference registration includes coffee breaks, lunches, and all social programme events, including welcome reception (May 28), poster session (May 29), and the conference banquet at [The Cable Wharf <span class="fas fa-external-link-alt"></span>](https://www.rcr.ca/restaurants/cable-wharf-kitchen-patio/) (May 30).
 
 <br />
+  <a class="btn btn-template-main" href="https://iassistdata.info/event-5411184" target="_blank" >Register for IASSIST & CARTO 2024 <span class="fas fa-external-link-alt"></span></a>
+<br /><br />
 
-<!--
-The prior registration rates are posted below:
+Registration takes place through IASSIST's event management system.
 
-**Full Conference Registration**
+**Please Note:** If you are an IASSIST member, please login with the same email address you use to manage your IASSIST membership. If you are an ACMLA member, please use the registration code provided separately.
 
-Category|Early Bird|Regular|On-Site|
----|---|---|---|
-Member|$395|$425|$455|
-Non-Member|$445|$475|$495|
+### Early Bird Conference Registration
 
-Early Bird is on or before 5/01.
+Rates
+: Conference Registration Early Bird: ACMLA Member - $475.00 USD (code required)
+: Conference Registration Early Bird: IASSIST Member - $475.00 USD (IASSIST members only)
+: Conference Registration Early Bird: Non-member - $525.00 USD
 
-Regular is 5/02-5/22.
+All early bird rates are valid **until March 27, 2024.** Prices will increase after this date.
 
-On-site is on or after 5/23.
-<br/>
-<br/>
+Conference Sponsor Registration (included benefit for Gold and Platinum level sponsors) is required and done on the same form.
 
-**Digital Only Registration**
+**All payments are in US dollars and are non-refundable.** Exceptions for visa-required situations may be possible, please contact us at programme ( at ) lists.iassistdata.org.
 
-Category|Rate|
----|---|
-Member|$100|
-Non-Member|$200|
+To receive Members Only registration discounts, you must be an IASSIST Member in good standing. To take advantage of member pricing, please visit the [Become a Member page](/about/become-a-member/) to join before you register. 
 
-One-Day Registration: $139
+### IASSIST & CARTO Workshop Registration
 
-Reduced Rate Registration: 50% Discount
-
-Pre-Conference Workshops: $50 each
-<br/>
-<br/>
--->
-
-
-### Take advantage of IASSIST Membership benefits!
-
-To receive Members Only registration discounts, you must be an IASSIST Member in good standing. To take advantage of member pricing, please visit the [Become a Member page](/about/become-a-member/) to join today before you register.
-
-*Current Members*: Your IASSIST membership must be confirmed before your registration can be finalized. 
-
-*Payment Policy*: Forthcoming
-
-*Cancellation Policy*: Forthcoming
-
-### What Does Your Registration Include?
-
-Registration for IASSIST 2024 includes access to all sessions and provided meals and breaks that are included on the schedule from Tuesday evening through Friday. 
-
-Pre-conference workshops can be added to your registration for an additional fee.
-
-For hotel and other local information, consult the [conference hotel page](/conferences/iassist2024/conference-hotel-and-accommodation/).
-
-
+More information about IASSIST & CARTO Workshop registration is available on a separate page: [IASSIST and CARTO 2024 - Workshop Schedule](/conferences/iassist2024/workshops/). Please note that workshops will cost an additional $50 USD each. 
