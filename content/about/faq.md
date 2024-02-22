@@ -10,14 +10,14 @@ draft = "false"
 ## Membership
 
 -   [What is the IASSIST membership year?](#faq2)
--   [What happens if I join before March 1 of a particular year?](#faq3)
--   [What happens if I join on or after March 1st of a particular
+-   [What happens if I join or renew before March 1 of a particular year?](#faq3)
+-   [What happens if I join or renew on or after March 1st of a particular
     year?](#faq4)
--   [What happens if I join at the conference?](#faq5)
 -   [How do I renew my membership?](#faq6)
 -   [What currencies can I use to pay my membership fees?](#faq15)
 -   [How do you determine the non-US dollar membership fees?](#faq16)
 -   [Where do I send my membership payment?](#faq17)
+-   [Do you offer a reduced membership rate?](#faq5)
 -   [May I buy a digital copy of the IASSIST list of members?](#faq13)
 
 ## Participation in IASSIST
@@ -53,45 +53,26 @@ draft = "false"
 ### What is the IASSIST membership year?{#faq2}
 >  July 1 - June 30
 
-### What happens if I join before March 1 of a particular year?{#faq3}
->   Your membership goes to the end of that membership year. For
-    example, if you join in Feb 2009, your membership ends June
-    30, 2009.
+### What happens if I join or renew before March 1 of a particular year?{#faq3}
+>   Your membership goes to the end of that membership year. For example, if you join in February 2024, your membership ends June 30, 2024.
 
-### What happens if I join on or after March 1st of a particular year?{#faq4}
->   Your membership extends to the end of the NEXT membership year. For
-    example, if you joined in March 2019, your membership ends June
-    30 2020.
-
-### What happens if I join at the conference/when registering for the conference?{#faq5}
->   Your membership always goes to the end of the next membership year.
-    For example, if you joined at the conference in May 2019, your
-    membership ends June 30 2020.
+### What happens if I join or renew on or after March 1st of a particular year?{#faq4}
+>   If you are joining as a new member or renewing as a member in good standing, your membership extends to the end of the NEXT membership year. For example, if you joined in March 2024, your membership ends June 30, 2025. If you are renewing a lapsed membership, your payment will make you active for the CURRENT membership year.
 
 ### How do I renew my membership?{#faq6}
 >   If you haven't renewed for the next membership year, an e-mail announcement with instructions will be sent out in June, and a reminder in early July when the new membership year begins. Payment for the upcoming membership year can be made online, or in conjunction with your conference registration. A third notice is sent out later in the year if we have no record of your renewal. Questions about your membership status should be directed to the [Treasurer](https://www.iassistdata.info/treasurers/).
 
 ### What currencies can I use to pay my membership fees?{#faq15}
->   Membership fees paid with your conference registration are in
-    whatever currency is used by the conference. The rate is provided by
-    the Treasurer. Payments can be made in US dollars, Canadian dollars,
-    GB Pounds, or Euros. When you pay by credit card paying in US Dollars is usually the easiest option. If you need to pay by check/cheque --
-    please contact the [currency-appropriate
-    treasurer](https://www.iassistdata.info/treasurers/). You need to
-    designate the currency in which you want your payment processed. If
-    no designation is made we will base it on your home country whenever
-    possible.
+>   Payments can be made in US dollars, Canadian dollars, GB Pounds, or Euros. Online credit card transactions will be conducted automatically, via Affinipay, in US Dollars and may be subject to currency fluctuation. If you need to pay by check/cheque – please contact the [currency-appropriate treasurer](https://www.iassistdata.info/treasurers/). You need to designate the currency in which you want your payment processed. 
 
 ### How do you determine the non-US dollar membership fees?{#faq16}
->   The Treasurer makes yearly evaluations of the Canadian, GB Pound,
-    and Euro rates. We generally look at a month or more of rates (to
-    account for slight fluctuations) and then take the current rate for
-    $50 US and round to the nearest full Canadian Dollar, Pound, or
-    Euro. These rates are set in February of each year and are not
-    adjusted unless there are major changes in the exchange rate.
+>   The Treasurer makes yearly evaluations of the Canadian, GB Pound, and Euro rates. We generally look at a month or more of rates (to account for slight fluctuations) and then take the current rate for $50 USD and round to the nearest full Canadian Dollar, Pound, or Euro. These rates are set in May or June before the membership renewal period of each year and are not adjusted unless there are major changes in the exchange rate.
 
 ### Where do I send my membership payment?{#faq17}
->   Please refer to the [Payment Information](https://www.iassistdata.info/howtopay). Credit card transactions in US Dollars will be conducted automatically, via PayPal. Canadian members send their cheque payments to the Canadian Assistant Treasurer. Members in the US, Africa, Asia/Pacific regions and residents of Latin America may send payments to the US Treasurer. Members in the Europe may send payments to the European Assistant Treasurer. Contact information for all Treasurers is at     [www.iassistdata.info/treasurers](https://www.iassistdata.info/treasurers).
+>   Please refer to the [Payment Information](https://www.iassistdata.info/howtopay). Credit card transactions in US Dollars will be conducted automatically, via AffiniPay. Canadian members can send their cheque payments to the Canadian Assistant Treasurer. Members in the US, Africa, Asia/Pacific regions and residents of Latin America may send payments to the US Treasurer. Members in the Europe may send payments to the European Assistant Treasurer. Contact information for all Treasurers is at [www.iassistdata.info/treasurers](https://www.iassistdata.info/treasurers).
+
+### Do you offer a reduced membership rate?{#faq5}
+>   Yes! The [reduced rate](https://iassistdata.info/howtopay) is available to students, retirees, and members based on lower income, lower-middle, and upper-middle income countries as defined by the [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). All members paying the reduced rate are expected to self-declare their reduced rate; proof will not be requested by IASSIST officials.
 
 ### May I buy a digital copy of the IASSIST list of members?{#faq13}
 >   No. As a non-profit organization, the resources of IASSIST,
