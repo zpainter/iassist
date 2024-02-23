@@ -85,6 +85,15 @@ type = "conference-2024"
   </div>
 </div>
 
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="270px" src="/conferences/iassist2024/images/alliancecan.png" alt="logo, Digital Research Alliance of Canada." >}}
+  </div> 
+  <div style="margin-left:1em;">
+    <a href="https://alliancecan.ca/en">Digital Research Alliance of Canada <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
 ## Bronze Sponsors
 <!-- logo 240 px -->
 

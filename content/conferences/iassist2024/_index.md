@@ -75,7 +75,11 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
     {{< figure width="270px" src="/conferences/iassist2024/images/universitytoronto.png" alt="logo, University of Toronto." >}}
     {{< figure width="270px" src="/conferences/iassist2024/images/borealis.png" alt="logo, Borealis." >}}
   </div>
+  <div style="padding: 2em;">
+    {{< figure width="270px" src="/conferences/iassist2024/images/alliancecan.png" alt="logo, Digital Research Alliance of Canada." >}}
+  </div> 
 </div>
+
 
 ## Bronze 
 <!-- logo 240 px -->
