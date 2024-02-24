@@ -55,9 +55,11 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
   <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/osf.png" alt="logo, Open Science Framework (OSF)." >}}
   </div> 
+<!--
   <div style="padding: 2em;">
     {{< figure width="300" src="/conferences/iassist2024/images/sshrc.png" alt="logo, Social Science and Humanities Council of Canada (SSHRC)." >}}
   </div>
+  -->
   <div style="padding: 2em;">
     {{< figure width="300px" src="/conferences/iassist2024/images/aristotle.png" alt="logo, Aristotle Metadata." >}}
   </div>

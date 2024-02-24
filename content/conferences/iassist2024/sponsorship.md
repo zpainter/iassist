@@ -44,7 +44,7 @@ type = "conference-2024"
    <a href="https://osf.io/">Open Science Framework (OSF) <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
-
+<!--
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
     {{< figure width="300" src="/conferences/iassist2024/images/sshrc.png" alt="logo, Social Science and Humanities Council of Canada (SSHRC)." >}}
@@ -53,7 +53,7 @@ type = "conference-2024"
    <a href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx">Social Science and Humanities Council of Canada (SSHRC) <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
-
+-->
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
     {{< figure width="300px" src="/conferences/iassist2024/images/aristotle.png" alt="logo, Aristotle Metadata." >}}
