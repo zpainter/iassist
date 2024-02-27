@@ -68,7 +68,7 @@ Our mission is to provide resources and educational opportunities to better reco
       </div>
       <div class="col-md-6">
         <div class="box-simple">
-          <a href="/community/diversity-equity-and-inclusion-data-resources/essays">
+          <a href="/community/diversity-equity-and-inclusion-data-resources/webinars">
             <div class="icon">
               <i class="fas fa-person-chalkboard"></i>
             </div>
