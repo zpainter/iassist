@@ -27,8 +27,7 @@ Presenters:
 - Lara Cleveland - University of Minnesota's Institute for Social Research and Data Innovation 
 - Rodrigo Lovaton - IPUMS International
 
-
-
+<br>
 ### Webinar and essays on how different countries view race {#nov2023}
 
 #### Essays for Specific Countries
@@ -39,7 +38,7 @@ IASSIST members have contributed essays or resources explaining how their respec
 - [United Kingdom](/community/antiracismresources-ig/uk)
 - [United States](/community/antiracismresources-ig/us)
 
-
+<br>
 #### Webinar: A Conversation About Data on Race & Ethnicity Around the World
 30 November 2022 11:00 AM-12:30 PM Eastern Time (US and Canada)
 
