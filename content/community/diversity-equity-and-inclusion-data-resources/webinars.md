@@ -10,6 +10,7 @@ draft: false
 
 If you would like to contribute an essay or webinar for an additional country or region, please email the current [chairs of the interest group](/community/diversity-equity-and-inclusion-data-resources).
 
+
 ### Webinar: “Race & Ethnicity in Latin America” {#feb2024}
 08 February 2024 11:00 AM-12:00 PM Eastern Time (US and Canada)
 
@@ -27,6 +28,7 @@ Presenters:
 - Rodrigo Lovaton - IPUMS International
 
 
+
 ### Webinar and essays on how different countries view race {#nov2023}
 
 #### Essays for Specific Countries
@@ -36,6 +38,7 @@ IASSIST members have contributed essays or resources explaining how their respec
 - [Germany](/community/antiracismresources-ig/germany)
 - [United Kingdom](/community/antiracismresources-ig/uk)
 - [United States](/community/antiracismresources-ig/us)
+
 
 #### Webinar: A Conversation About Data on Race & Ethnicity Around the World
 30 November 2022 11:00 AM-12:30 PM Eastern Time (US and Canada)
