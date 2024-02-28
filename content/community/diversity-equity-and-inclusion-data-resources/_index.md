@@ -68,13 +68,13 @@ Our mission is to provide resources and educational opportunities to better reco
       </div>
       <div class="col-md-6">
         <div class="box-simple">
-          <a href="/community/diversity-equity-and-inclusion-data-resources/essays">
+          <a href="/community/diversity-equity-and-inclusion-data-resources/webinars">
             <div class="icon">
               <i class="fas fa-person-chalkboard"></i>
             </div>
-            <h3>Essays and webinars</h3>
+            <h3>Webinars and essays</h3>
             </a>
-              <p>Essays and webinars that briefly summarize varying national perspectives about collecting data by race.</p>
+              <p>Webinars and essays about our work</p>
         </div>
       </div>
     </div>
