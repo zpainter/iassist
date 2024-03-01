@@ -26,11 +26,11 @@ IASSIST 2024 will be an in-person only conference experience. In-person attendee
 
 ### What is the registration fee?
 
-When confirmed, all conference registration fees will be listed on the [registration page](/conferences/iassist2024/registration/) of the Conference Website.
+All conference registration fees will be listed on the [registration page](/conferences/iassist2024/registration/) of the Conference Website.
 
 ### When does registration open?
 
-TBA
+In February 2024.
 
 ### Can I register in person at the Conference Venue?
 
@@ -38,7 +38,7 @@ TBA
 
 ### Can I get a discount when I register early?
 
-Yes, there is an early bird discount to those who register for the conference early.
+Yes, there is an early bird discount to those who register for the conference early. This fee is valid until March 27, 2024.
 
 ### How is registration confirmed?
 
@@ -50,7 +50,9 @@ TBA
 
 _* Pre-conference workshops can be added to your registration for an additional fee_.
 
+<!--
 **In-Person One-Day ONLY Registration** for IASSIST 2024 includes access to all sessions and meals and breaks that are included on the schedule for the One Day selected. Reception and Banquet are excluded from One-Day registration.
+-->
 
 ### What meals are included with registration?
 
@@ -66,7 +68,7 @@ The Conference Registration desk will be located in the Halifax Convention Centr
 
 ### What is the registration cancellation policy?
 
-TBA
+All payments are in US dollars and are non-refundable. Exceptions for visa-required situations may be possible, please contact us at programme@lists.iassistdata.org
 
 ### What are the requirements to obtain a Canadian Visa?
 
@@ -76,11 +78,11 @@ The Program or Local Arrangements Committee will provide letters of invitation t
 
 ### What is the hotel cost? How do I make hotel reservations?
 
-TBA
+Conference hotel daily rate is $239 CAD. See the [Conference hotel and accommodation](/conferences/iassist2024/conference-hotel-and-accommodation) page for more information. Reservations can be made online or by calling to Cambridge Suites Hotel. 
 
 ### Is there any alternative accommodation?
 
-TBA
+Please consult the Conference hotel and accommodation page for more details. May is a popular time of year in Halifax and you should plan to book your stay early.
 
 ### What if I cannot attend the in-person conference, will there be an option to attend virtually?
 
@@ -88,7 +90,14 @@ IASSIST & CARTO 2024 is an in-person event.
 
 ### How can I receive regular updates about the conference?
 
-TBA
+Please follow IASSIST's social media accounts:
+
+- [Facebook](https://www.facebook.com/iassistdata/)
+- [Linkedin](https://www.linkedin.com/company/iassistdata)
+- [Bluesky](https://bsky.app/profile/iassistdata.bsky.social)
+- [Mastodon](https://mastodon.social/@iassistdata)
+- [Twitter](https://twitter.com/iassistdata)
+- [YouTube](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
 
 ### Will it be the best IASSIST ever?
 
