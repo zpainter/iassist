@@ -131,6 +131,15 @@ type = "conference-2024"
   </div>
 </div>
 
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/crdcn.png" alt="logo, Canadian Research Data Centre Network" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://crdcn.ca/">Canadian Research Data Centre Network <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
 We are thankful to the [Roper Centre for Public Opinion Research <span class="fas fa-external-link-alt"></span>](https://ropercenter.cornell.edu/) for their contribution this year.
 <div style="display:flex;align-items:center;margin:1em 0 2em 0;">
   <div>

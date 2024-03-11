@@ -97,6 +97,9 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
   <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/ocul.png" alt="logo, Ontario Council of University Libraries (OCUL)" >}}
   </div>
+  <div style="padding: 2em;">
+    {{< figure width="240px" src="/conferences/iassist2024/images/CRDCNlogoBlue.png" alt="logo, Canadian Research Data Centre Network" >}}
+  </div>
 </div>
 
 We are thankful to the Roper Centre for Public Opinion Research for their contribution this year.
