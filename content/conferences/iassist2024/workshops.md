@@ -21,16 +21,19 @@ You may now register for IASSIST & CARTO 2024 Workshops. Workshops will be held 
 ### Morning Workshops (9:00-12:00)
 
 #### Introduction to Data Analysis with Python
+##### Tim Dennis, Cody Hennesy
 
 This Python workshop uses hands-on coding to introduce programming for library and information workers with little or no previous programming experience. The lesson utilizes open datasets to model reproducible workflows for data analysis, with a focus on helping learners apply and work with fundamental Python concepts such as data types, functions, loops, and libraries. The open-source Library Carpentry Python lesson that we’ll use to teach this workshop  is currently undergoing a major redesign, and will use the JupyterLab environment along with Pandas dataframes to explore and generate descriptive statistics from a quantitative dataset of library usage data. The workshop provides a basic introduction for those working with metadata, citations, and quantitative data, and serves as a great first step for folks hoping to continue to build skills to access, clean, analyze, and visualize data with Python.
 
 #### Coding Qualitative Data: The Methods (using your Mind) and the Mechanics (using Taguette)
+##### Mandy Swygart-Hobaugh
 
 This hands-on workshop introduces participants to both the methodological knowledge and the mechanical skills to collaboratively code qualitative data. The workshop will open with a "mini-methods" talk about the broader methodological and epistemological considerations of qualitative research, including discussion of qualitative research methods, qualitative data types, and analytical coding of qualitative data [approximately 75 minutes total of the 3-hour workshop time]. Then participants will apply the mini-methods knowledge by hands-on coding an interview transcript collaboratively using Taguette, a free and open-source qualitative research tool.
 
 NOTE: This workshop is an adaptation of curriculum unit developed for a Fall 2023 Georgia State University (GSU) experiential learning lab course – "Tackling Food Insecurity: A Public Interest Data Literacy (PIDLit) Learning Lab" – taught by members of the GSU Library’s Research Data Services (RDS) Department. Methods examples and the coding exercise data relate to individuals and communities experiencing food insecurity.
 
 #### Let's create data schemas!
+##### Michelle Edwards
 
 A key component to any research project is data and making that data FAIR-compliant is our ultimate goal.  However, many researchers today are creating minimal documentation of their data, maybe just enough to pass the requirements of the data management plan (DMP), and maybe the requirements of a data repository.  In many situations, researchers may be relying on data repositories or archives to create the necessary documentation to make their data FAIR or are just not concerned about it.
 
@@ -39,6 +42,7 @@ At the University of Guelph, we are encouraging and enabling our researchers to 
 This workshop will walk you through the development of the Semantic Engine tools and provide hands-on experience creating your own data schemas.  We will work with a sample dataset and demonstrate how we can build the layers of a schema, how they are uniquely identified, how you can share them, build upon an existing schema, and how we can create a data entry Excel file for the project.  We will close the workshop with a discussion about current and future development and possible uses within the broader research ecosystem - just think how AI could use these schemas?
 
 #### Navigating the Shoals of Moral Hazards as a Data Ethic's Privateer
+##### Cameron Tuai
 
 Where the ocean of data meet the shores of analytics lay many a treacherous shoals of moral hazard.  Navigating these hazards requires both a sound ethical map and a grasp of the peculiarity of data-oriented moral dilemmas. Learn the ropes of basic western ethical philosophy, plot the characteristics of data-oriented moral hazards, and lay sail to ethical point unknown.  Register now and you'll cruise the seas for data gold, you'll fire no guns and shed no tears, register now and become a data ethic's privateer. (see Rogers, Barrett's Privateers)
 
@@ -54,6 +58,7 @@ As a practice oriented workshop, participants will apply technology based ethica
 The goal of the workshop is to enlist a crew of data privateers to cruise the seas of moral hazard and bring back the riches of data that rightfully belong to the common good.
 
 #### Fundamentals of MAST & IDEAL Metadata
+##### Sam Spencer
 
 SPONSORED BY ARISTOTLE. Fundamentals of MAST & IDEAL Metadata is a short-course in the MAST/IDEAL Methodology, a pragmatic framework for building understanding and organisational support for data management through good processes rather than specific tools or standards.
 
@@ -79,10 +84,12 @@ As an emerging framework, following the course participants will be invited to p
 ### Afternoon Workshops (13:00-16:00)
 
 #### Leveraging ChatGPT for Research: Effective Data Gathering Techniques
+##### Patience Chewachong Akih
 
 The purpose of the workshop is to give a comprehensive understanding of the data gathering techniques used in research. The session will address ethical considerations and discuss how to get the best results from data gathering. The potential for aiding research is shown in the introduction to the workshop. Practical insights into its real-world applications are provided by the diverse strategies and methodologies it explores. The importance of ethical considerations is emphasized in the workshop. Discussion on ethical implications and best practices will be important. Participants will learn how to gather data through hands-on exercises and simulations. The workshop will focus on data quality and reliability, offering insights to enhance accuracy and relevance, and fostering a collaborative learning environment. Resources, toolkits, and references will be at the end of the workshop. The goal is to equip participants with comprehensive knowledge and practical skills that will allow them to effectively use ChatGPT for data gathering in research contexts.
 
 #### Understanding Data Anonymization
+##### Kristi Thompson
 
 Data curators should have a basic understanding of data anonymization so they can support safe sharing of sensitive data and avoid sharing data that accidentally violates confidentiality. This workshop will consist of a lecture followed by a session using R. The first half will cover the mathematical and theoretical underpinnings of guaranteed data anonymization. Topics covered include an overview of identifiers and quasi-identifiers, an introduction to k-anonymity, a look at some cases where k-anonymity breaks down, and a discussion of various enhancements of k-anonymity.
 
@@ -91,17 +98,20 @@ The second half will walk participants through some steps to assess the disclosu
 Much of the academic material looking at data anonymization is quite abstract and aimed at computer scientists, while material aimed at data curators does not always consider recent developments. This session is intended to help bridge the gap.
 
 #### Open Data and QGIS for Strengthening Data and Geographic Competencies and Humanitarian Interventions
+##### Ann James
 
 Key concepts and technical skills in data and geographic literacies play a vital role in the effective communication of research and analysis of humanitarian importance conducted by individuals employed in academia, nonprofits, and government teams in North America and elsewhere. Such literacies include an individual’s ability to select, clean, analyze, visualize, critique, and interpret relevant open geospatial datasets. It also includes an ability to understand and critically apply fundamental geographic principles which underlie geospatial technologies. 
 
 This workshop engages open data and open source GIS software to provide participants an introduction to key concepts and technical skills in data and geographic literacies. During the workshop, participants will become familiar with key geographic concepts, especially the map, geographic place, projections, and coordinate reference systems. They will gain hands-on experience accessing, visualizing, and interpreting a geospatial dataset representing sensitive subjects of relevance to public health within the US-Mexico international border region. Through their participation, attendees’ may also enhance their awareness and knowledge of open educational resources, international migration as a public health issue, and opportunities for humanitarian interventions in borderlands, such as improvements in an ability to access information, clean water, food, and shelter.
 
 #### Data Curation Fundamentals
+##### Mikala Narlock,  Sophia Lafferty-Hess, Erin Clary, Amber Leahey, Lina Harper 
 
 Data curation is a key component of the data sharing and publication process, during which data professionals review a dataset, code, and related outputs to ensure that data are findable, accessible, interoperable, and reusable (FAIR) and incorporates ethical curation considerations. Data curation enables data discovery and access, maintains data quality and authenticity, adds value, and provides for re-use over time through activities including open and controlled access, archiving, metadata creation, digital preservation, and file format transformation. There are many additional activities encompassed by the term data curation– which can be daunting for a novice to understand and apply in a meaningful way.
 
 The IASSIST & CARTO 2024 proposed Data Curation Network (DCN) and Digital Research Alliance of Canada co-hosted Data Curation Fundamentals training workshop will provide attendees with a framework for getting started with data curation, including hands-on practical curation training using various data formats . Using  the DCN CURATE(D) workflow (z.umn.edu/curate) and the Canadian bilingual (English and French) CURATION framework,, attendees will learn practical curation techniques that can be applied across research disciplines. Provided by members of the DCN Education Committee, and the Alliance’s Curation Expert Group (CEG) and invited speakers, this workshop will leverage both active learning opportunities, using example datasets, as well as discussions in an inclusive peer-to-peer learning environment. This established curriculum has been used for both in-person and virtual learning opportunities, with overwhelming success. This workshop has been taught in the United States, adapted and extended for use in Canada, and we are eager to bring our curriculum to the international community.
 
 #### Research Reproducibility and Data Management with R
+##### Briana Wham
 
 In the rapidly evolving research landscape, characterized by the increasing prevalence of open science practices, data intensive methodologies, and computational approaches, ensuring the reproducibility and transparency of research outcomes is vital. The aim of this hands-on workshop is to empower participants with the knowledge and practical skills required to implement data management practices and cultivate reproducible research practices within the RStudio environment. Leveraging the capabilities of R and RStudio, the workshop will delve into various aspects of research reproducibility and data management, emphasizing literate programming, project workflows, and an array of R packages to support data management and reproducibility efforts. Participants can expect to gain an increased understanding of how R and RStudio can serve as instrumental tools in fostering transparent, reproducible, and reusable research.
