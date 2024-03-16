@@ -9,7 +9,7 @@ type = "conference-2024"
 
 ## IASSIST 2024 Conference schedule at a glance
 
-Below is a draft schedule for IASSIST & CARTO 2024. Times are subject to change and break times will be included in morning and afternoon session blocks. The finalized schedule will be released in March. 
+Below is a draft at a glance schedule for IASSIST & CARTO 2024. Times are still subject to change and break and transition times will be included in morning and afternoon session blocks.
 
 <!--
 Tuesday May 28|Wednesday May 29|Thursday May 30|Friday May 31|
@@ -74,8 +74,8 @@ Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00
 	</tr>-->
 	<tr>
 	  <td>9:00-12:00<br />Morning Workshops</td>
-	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
-	  <td>8:00-12:30<br />Registration, Plenary, and Morning Sessions</td>
+	  <td>8:00-12:30<br />Registration, Plenary 1, and Morning Sessions</td>
+	  <td>8:00-12:30<br />Registration, Plenary 2, and Morning Sessions</td>
 	  <td>8:00-10:45<br />Registration and Morning Sessions<br /><br />10:45-12:00<br />Lightning Talks</td>
 	</tr>
 	<tr>
@@ -88,12 +88,12 @@ Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00
 	  <td>13:00-16:00<br />Afternoon Workshops</td>
 	  <td>13:30-16:00<br />Afternoon Sessions</td>
 	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-16:00<br />Afternoon Sessions<br /><br />16:00-17:00<br />Interest Groups Meetings</td>
-	  <td>13:00-14:30<br />Afternoon Session and Closing Ceremony</td>
+	  <td>13:00-14:30<br />Afternoon Sessions and Closing Ceremony</td>
 	</tr>
 	<tr>
-	  <td>17:30<br />Opening Reception</td>
+	  <td>17:30-19:30<br />Opening Reception</td>
 	  <td>16:00-17:30<br />Poster Reception</td>
-	  <td>18:30-21:00<br />Banquet</td>
+	  <td>18:30-20:30<br />Banquet</td>
 	  <td></td>
 	</tr>
 </tbody>
@@ -101,8 +101,11 @@ Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00
 
 ## Detailed schedule
 
-Forthcoming.
+The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2024/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.
 
+<br />
+  <a class="btn btn-template-main" href="https://www.google.com/url?q=https://www.openconf.org/iassist2024/modules/request.php?module%3Doc_program%26action%3Dprogram.php%26p%3Dprogram&sa=D&source=docs&ust=1710598406562664&usg=AOvVaw3Wo3ftt6PzX1flaFBYPywU" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
+<br /><br />
 
 <!---
 Monday|Tuesday|Wednesday|Thursday|Friday|
