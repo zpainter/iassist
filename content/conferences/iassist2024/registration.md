@@ -35,6 +35,8 @@ Conference Sponsor Registration (included benefit for Gold and Platinum level sp
 
 To receive Members Only registration discounts, you must be an IASSIST Member in good standing. To take advantage of member pricing, please visit the [Become a Member page](/about/become-a-member/) to join before you register. 
 
+**Note:** At this time only conference attendees can reserve a spot at the banquet. If you would like to request an additional ticket (for a spouse, etc.), please contact *programme [ at ] lists.iassistdata.org* and we will place you on a waitlist.
+
 ### IASSIST & CARTO Workshop Registration
 
 More information about IASSIST & CARTO Workshop registration is available on a separate page: [IASSIST and CARTO 2024 - Workshop Schedule](/conferences/iassist2024/workshops/). Please note that workshops will cost an additional $50 USD each. 
