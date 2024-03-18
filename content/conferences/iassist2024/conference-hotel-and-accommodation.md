@@ -20,6 +20,9 @@ The Cambridge Hotel provides guests with a magnificent location, best viewed fro
 
 #### Hotel Booking Reservations
 
+<span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">The Cambridge Hotel is now completely FULL. Please select an alternative accommodation.<span>
+
+<!--
 Hotel Reservations for suites are available for IASSIST and CARTO 2024 registered guests. 
 
 Please book to reserve the conference rate using the hotel’s Conference booking tool:
@@ -32,7 +35,9 @@ If you would like to add nights to your reservation, please contact the hotel fo
 The nightly conference rate is $239 CAD. 
 
 <span style="border:solid silver 1px;background:#FFFFE0;padding:5px 10px 5px 10px;">Please Note: Friday May 31 night is sold out. (February 2024)</span> 
+-->
 
+The nightly conference rate was $239 CAD. 
 
 ### Other accommodations
 
@@ -42,6 +47,9 @@ The nightly conference rate is $239 CAD.
 - [Sutton Place Hotel Halifax <span class="fas fa-external-link-alt"></span>](https://www.suttonplace.com/halifax), 1700 Grafton St, Halifax, NS B3J 2C4
 - [Residence Inn Marriott Halifax <span class="fas fa-external-link-alt"></span>](https://www.marriott.com/en-us/hotels/yhzri-residence-inn-halifax-downtown/overview/), 1599 Grafton St, Halifax, NS B3J 2C3
 - [The Hollis Halifax Doubletree Suites <span class="fas fa-external-link-alt"></span>](https://www.guestreservations.com/the-hollis-halifax-a-doubletree-suites-by-hilton-hotel/booking), 1649 Hollis St, Halifax, NS B3J 1V8
+- [The Barrington Hotel <span class="fas fa-external-link-alt"></span>](https://www.thebarringtonhotel.ca), 1875 Barrington Street, Halifax, NS B3J 3L6
+- [Four Points by Sheraton Halifax <span class="fas fa-external-link-alt"></span>](https://www.marriott.com/en-us/hotels/yhzfp-four-points-halifax/overview/), 1496 Hollis Street, Halifax, NS B3J 3Z1
+- [The Halliburton Hotel <span class="fas fa-external-link-alt"></span>](https://thehalliburton.com/), 5184 Morris Street, Halifax, NS, B3J 1B3
 
 
 #### Student residences & budget conscious accommodations
