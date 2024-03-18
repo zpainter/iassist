@@ -7,7 +7,15 @@ banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
 
-## IASSIST 2024 Conference schedule at a glance
+## Detailed conference schedule
+
+The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2024/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.
+
+<br />
+  <a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
+<br /><br />
+
+## Conference schedule at a glance
 
 Below is a draft at a glance schedule for IASSIST & CARTO 2024. Times are still subject to change and break and transition times will be included in morning and afternoon session blocks.
 
@@ -99,13 +107,7 @@ Opening Reception (17:30)|Poster Reception (16:00- 17:30)|Banquet (18:30 - 21:00
 </tbody>
 </table>
 
-## Detailed schedule
 
-The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2024/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.
-
-<br />
-  <a class="btn btn-template-main" href="https://www.google.com/url?q=https://www.openconf.org/iassist2024/modules/request.php?module%3Doc_program%26action%3Dprogram.php%26p%3Dprogram&sa=D&source=docs&ust=1710598406562664&usg=AOvVaw3Wo3ftt6PzX1flaFBYPywU" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
-<br /><br />
 
 <!---
 Monday|Tuesday|Wednesday|Thursday|Friday|
