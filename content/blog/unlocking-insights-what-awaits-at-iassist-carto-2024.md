@@ -32,7 +32,7 @@ There is an incredibly varied programme this year, ranging from reproducibility 
 
 "We also have presentations on core applications from our field from data discovery, access and metadata to data management and archiving to data literacy to how we work with each other through partnerships and collaborations," they conclude. 
 
-{{< figure src="/img/blog/halifax2024-citadel1200.jpg" class="" link="/img/blog/halifax2024-citadel1200.jpg" alt="An aerial view of Halifax Citadel situated on a top of a green grassy hill on an overclouded day. Text IASSIST CARTO 2024 is on the top of the photo." title="The Halifax Citadel National Historic Site allows visitors to explore the history of the fortress and Halifax. It was the large hill overlooking the easily defended harbor below that led the British to found the town there in 1749. Image: Ron Cogswell, 2017. CC BY." width="800" >}}
+{{< figure src="/img/blog/halifax2024-citadel1200.jpg" class="" link="/img/blog/halifax2024-citadel1200.jpg" alt="An aerial view of Halifax Citadel situated on a top of a green grassy hill on an overclouded day. Text IASSIST CARTO 2024 is on the top of the photo." title="The Halifax Citadel National Historic Site allows visitors to explore the history of the fortress and Halifax. It was the large hill overlooking the easily defended harbor below that led the British to found the town there in 1749. Image: Modified from Ron Cogswell, 2017. CC BY." width="800" >}}
 
 ### Why should I take the opportunity to travel onsite to attend IASSIST & CARTO 2024? 
 
