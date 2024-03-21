@@ -54,4 +54,4 @@ A poster session with refreshments will be held on Wednesday May 29th in the aft
 
 Come celebrate IASSIST and CARTO conferences together at the Cable Wharf restaurant on the evening of Thursday May 30th. Full reception dinner and waterfront sights to behold!
 
-**[Read more about the conference and the program](conferences/iassist2024/)!**
+**[Read more about the conference and the program](/conferences/iassist2024/)!**
