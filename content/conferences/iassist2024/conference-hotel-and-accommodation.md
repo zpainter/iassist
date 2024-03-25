@@ -10,7 +10,7 @@ type = "conference-2024"
 
 ### Conference Hotel Information 
 
-The Cambridge Hotel provides guests with a magnificent location, best viewed from the rooftop patio! The hotel is located only a 4-minute walk from the conference venue. Continental breakfast is provided with your stay, and more options are available close-by.   
+The Cambridge Hotel provides guests with a magnificent location, best viewed from the rooftop patio! The hotel is located only a 4-minute walk from the Halifax Convention Centre (conference venue located at 1650 Argyle Street, in Halifax, Nova Scotia, Canada). Continental breakfast is provided with your stay, and more options are available close-by.  
 
 [Cambridge Suites Hotel <span class="fas fa-external-link-alt"></span>](https://www.cambridgesuiteshalifax.com/)   
 [1583 Brunswick Street, Halifax, Nova Scotia <span class="fas fa-external-link-alt"></span>](https://maps.app.goo.gl/mCHjKx9a3k3AfDyv6) 
