@@ -27,7 +27,7 @@ Rates
 : Conference Registration Early Bird: IASSIST Member - $475.00 USD (IASSIST members only)
 : Conference Registration Early Bird: Non-member - $525.00 USD
 
-All early bird rates are valid <!--until March 27-->**April 5, 2024.** Prices will increase after this date.
+All early bird rates are valid until **April 5, 2024.** (extended from March 27). Prices will increase after this date.
 
 Conference Sponsor Registration (included benefit for Gold and Platinum level sponsors) is required and done on the same form.
 
