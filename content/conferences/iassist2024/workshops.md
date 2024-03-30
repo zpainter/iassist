@@ -8,7 +8,9 @@ type = "conference-2024"
 +++
 ## Workshop registration
 
-You may now register for IASSIST & CARTO 2024 Workshops. Workshops will be held on Tuesday May 28 at Dalhousie University. More information about room locations will be provided in advance. It is only possible to attend one workshop in the morning and another in the afternoon. Workshop registration is open to all, you do not have to register for the full conference to register for a workshop. 
+You may now register for IASSIST & CARTO 2024 Workshops. Workshops will be held on Tuesday May 28 at Dalhousie University. More information about room locations will be provided in advance. 
+
+It is only possible to attend one workshop in the morning and another in the afternoon. Workshop registration is open to all, you do not have to register for the full conference to register for a workshop. 
 
 <br />
 <a class="btn btn-template-main" href="https://iassistdata.info/event-5601452">Register for IASSIST & CARTO Workshop <span class="fas fa-external-link-alt"></span></a>
