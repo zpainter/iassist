@@ -20,14 +20,21 @@ Registration takes place through IASSIST's event management system.
 
 **Please Note:** If you are an IASSIST member, please login with the same email address you use to manage your IASSIST membership. If you are an ACMLA member, please use the registration code provided separately.
 
-### Early Bird Conference Registration
+### Early Bird Conference Registration (until April 5)
 
 Rates
 : Conference Registration Early Bird: ACMLA Member - $475.00 USD (code required)
 : Conference Registration Early Bird: IASSIST Member - $475.00 USD (IASSIST members only)
 : Conference Registration Early Bird: Non-member - $525.00 USD
 
-All early bird rates are valid until **April 5, 2024.** (extended from March 27). Prices will increase after this date.
+All early bird rates are valid until **April 5, 2024.** (extended from March 27).
+
+### Regular Conference Registration (after April 5)
+
+Rates
+: Regular Conference Registration: ACMLA Member - $525.00 USD (code required)
+: Regular Conference Registration: IASSIST Member - $525.00 USD (IASSIST members only)
+: Regular Conference Registration: Non-member - $575.00 USD
 
 Conference Sponsor Registration (included benefit for Gold and Platinum level sponsors) is required and done on the same form.
 
