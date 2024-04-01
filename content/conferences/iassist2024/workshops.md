@@ -44,6 +44,10 @@ At the University of Guelph, we are encouraging and enabling our researchers to 
 This workshop will walk you through the development of the Semantic Engine tools and provide hands-on experience creating your own data schemas.  We will work with a sample dataset and demonstrate how we can build the layers of a schema, how they are uniquely identified, how you can share them, build upon an existing schema, and how we can create a data entry Excel file for the project.  We will close the workshop with a discussion about current and future development and possible uses within the broader research ecosystem - just think how AI could use these schemas?
 
 #### Navigating the Shoals of Moral Hazards as a Data Ethics Privateer
+
+Not available. 
+
+<!--
 ##### Cameron Tuai
 
 Where the ocean of data meet the shores of analytics lay many a treacherous shoals of moral hazard.  Navigating these hazards requires both a sound ethical map and a grasp of the peculiarity of data-oriented moral dilemmas. Learn the ropes of basic western ethical philosophy, plot the characteristics of data-oriented moral hazards, and lay sail to ethical point unknown.  Register now and you'll cruise the seas for data gold, you'll fire no guns and shed no tears, register now and become a data ethic's privateer. (see Rogers, Barrett's Privateers)
@@ -58,6 +62,7 @@ Building on five years of teaching a three credit applied ethics and technology 
 As a practice oriented workshop, participants will apply technology based ethical theory to analyze a privacy based moral dilemma drawn from the 2023 SPARK analysis of the Web of Science suite of products.  This privacy-oriented case study will provide participants with both an opportunity to apply ethical theory and a specific framework for describing the hazards of privacy in terms of the Panopticon; moral capital; self-determination.
 
 The goal of the workshop is to enlist a crew of data privateers to cruise the seas of moral hazard and bring back the riches of data that rightfully belong to the common good.
+-->
 
 #### Fundamentals of MAST & IDEAL Metadata
 ##### Sam Spencer
