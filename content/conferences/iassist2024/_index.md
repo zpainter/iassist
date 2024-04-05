@@ -27,7 +27,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 
 ### Conference and workshop registration
 
-**[Registration](./registration/)** for IASSIST & CARTO 2024 is now open! Be sure to secure your spot early. The early bird registration rate has been extended and will close April 5, 2024, after which registration fees will incereace.
+**[Registration](./registration/)** for IASSIST & CARTO 2024 is now open! Be sure to secure your spot early. The early bird registration rate has been extended and will close April 12, 2024, after which registration fees will incereace.
 
 It will be the **Best. IASSIST. Ever.**
 
