@@ -102,6 +102,9 @@ It will be the **Best. IASSIST. Ever.**
   <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/crdcn.png" alt="logo, Canadian Research Data Centre Network" >}}
   </div>
+  <div style="padding: 2em;">
+    {{< figure width="240px" src="/conferences/iassist2024/images/ukds.png" alt="logo, UK Data Service" >}}
+  </div>
 </div>
 
 We are thankful to the Roper Centre for Public Opinion Research for their contribution this year.
