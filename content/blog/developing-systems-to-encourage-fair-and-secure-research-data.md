@@ -1,0 +1,23 @@
++++
+author = "IQ Editor"
+title = "Editors' notes: Developing systems to encourage FAIR and secure research data"
+tags = [ "News and Announcements", "IQ",]
+date = "2024-03-28 01:00:00 -0700"
+draft = "false"
+banner = "/img/blog/iq-3.png"
++++
+**Welcome to first issue of IASSIST Quarterly for 2024; this is Volume 48 of the journal, [IQ vol. 48(1) 2024 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/156).**
+
+The three papers in this issue represent different aspects of researchers’ use of data archives. Experts from three major data archives (ICPSR, IPUMS, and GESIS) share their experiences developing systems to make research resources in their archives more findable, accessible, and usable.    
+
+**Lafia, Million, and Hemphill** in their article ***Exploratory and directed search strategies at a social science data archive*** investigate search strategies of users of a large social science data archive. In an effort to understand how users search for curated research data, the authors analyze data queries issued through the Inter-University Consortium for Political and Social Research (ICPSR) website’s search box. The study is meant to inform archives and repositories of their users’ experience and help develop systems that encourage dataset findability, accessibility and reuse. The authors identify two types of data searches, exploratory and directed searches. They find that while users that issued exploratory queries were able to navigate the ICPSR website successfully and refine their searches, they may benefit from more explicit support for query reformation. The authors suggest ways development of tools and training could improve users’ experience.  
+
+In the article ***Stewarding our resources: Building a sustainable IPUMS archival document access system*** **Daina Magnuson** describes IPUMS experience building a web interface to support exploration and dissemination of archival materials associated with IPUMS International (IPUMS-I). Ancillary materials, including thousands of unique pieces of census and survey documentation were obtained by IPUMS-I during data acquisition efforts. This rich source material was curated and preserved by archival staff. Magnuson describes in details the development of a system that would make these resources findable, searchable and downloadable to internal users as well as IPUMS researchers. Strategies describe may inform other data archives considering developing similar tools.
+
+**Deborah Wiltshire** in her article ***Developing canonical ‘Safe Researcher’ training materials for Trusted Research Environment*** describes the development of training materials for researchers applying to access restricted data through Trusted Research Environment (TRE). The increased use of a virtual desktop environment, as opposed to physical safe rooms, offers researchers easier and more flexible access to restricted data; however, it offers fewer physical safeguards. Attending a mandatory ‘Safe Researcher’ training is one of the principles of the Five Safe Framework[i] developed by the UK’s Office for National Statistics to bridge this gap and assure the safe use of sensitive data. The process described in the article could be easily adapted by other TREs according to their needs and settings (e.g., in-person vs. online training).
+
+In the spirit of making information findable, accessible and reusable, we’re happy to share that the Open Journal System platform from the University of Alberta has enabled author linking to ORCID. This means that IQ authors are now able to connect their ORCID iDs to their IQ publications, so that their ORCID profiles will automatically update with those citations as their articles are published. For existing IQ account holders, log into your account at the upper right of the [IQ page <span class="fas fa-external-link-alt"></span>](https://iassistquarterly.com/index.php/iassist), and go to Profile > Public. Then click “Create or Connect your ORCID iD” (just below the Homepage URL field). For details, [see this video walkthrough <span class="fas fa-external-link-alt"></span>](https://vimeo.com/374415404) of profile authentication. New IQ users will automatically be prompted to link (or create) their ORCID iDs during IQ account creation. Authors are also encouraged to note their ORCID iD link with their affiliation and contact information in an endnote when submitting a manuscript for publication.
+
+We hope to see many of you at the 49th Annual IASSIST Conference in Halifax, Nova Scotia, Canada, May 28-31, 2024!
+
+Ofira Schwartz and Michele Hayslett, March 2024
