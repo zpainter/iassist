@@ -127,14 +127,16 @@ zp5928 [ at ] princeton.edu
 
 **Archivist**
 
-Christine (Nieman) Hislop, 
-cnieman [ at ] hshsl.umaryland.edu
+Christine (Nieman) Hislop, cnieman [ at ] hshsl.umaryland.edu
+<br />*Questions regarding IASSIST Archives:* archivist [ at ] iassistdata.org
+
 
 **Regional Treasurer (Canada)** 
 
 Amber Leahey,
 amber.leahey [ at ] utoronto.ca
 
+<!--
 **Regional Treasurer (Europe & Africa)** 
 
 Open
@@ -142,7 +144,7 @@ Open
 **Regional Treasurer (Asia & Pacific)** 
 
 Open 
-
+-->
 
 ## Committee Chairs
 

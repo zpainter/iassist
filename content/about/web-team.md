@@ -36,6 +36,6 @@ draft = "false"
 |IQ Editors				|Michele Hayslett & Ofira Schwartz-Soicher,<br />editor.iassistquarterly [ at ] gmail.com  |
 |IQ Support Contact/Managing Editor| Phillip Ndhlovu, phillip.ndhlovu [ at ] gsu.ac.zw  |
 
-<br />[See IQ for more details<i class="fas fa-external-link-alt"></i>](https://www.iassistquarterly.com/index.php/iassist/about/contact)
+<br />[See IQ for more details <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/about/contact)
 
 
