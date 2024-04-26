@@ -42,7 +42,7 @@ There is an incredibly varied programme this year, ranging from reproducibility 
 
 ### What can we expect from the social program and what are the highlights of Halifax in May? 
 
-"Marking the 49th Annual IASSIST and 50th CARTO conferences, coming to Halifax and Nova Scotia in May will be a spectacular time of year to visit and enjoy the sea breeze", our conference hosts say. 
+"Marking the 49th Annual IASSIST and 54th CARTO conferences, coming to Halifax and Nova Scotia in May will be a spectacular time of year to visit and enjoy the sea breeze", our conference hosts say. 
 
 Seafaring, busy ports, coastal life and seafood are hallmarks of the city. But don't forget the gardens, the fortress or the historical quarters. Halifax is a walkable city, and you can see many attractions, museums or restaurants on foot from the conference venue. Halifax Central Library is known for its innovative design and only a short walk away from the conference venue.
 
