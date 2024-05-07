@@ -21,7 +21,7 @@ The conference will take place at the Halifax Convention Centre (1650 Argyle Str
 
 ### Where will the workshops take place?
 
-The workshops will take place at Dalhousie University, more information coming soon. 
+The workshops will take place at the McCain Building at Dalhousie University. There will be an information and check-in desk in Seminar 2016 where attendees can check in and get some coffee prior to their workshop. See also this [information sheet <span class="fas fa-external-link-alt"></span>](https://tinyurl.com/iassist24workshops) with room locations and other workshops details. 
 
 ### Will there be an option for virtual attendance?
 
@@ -59,13 +59,26 @@ Visit the [Maps & Local Information](/conferences/iassist2024/maps-and-local-inf
 
 ### When will the registration desk be available on site to pick up my badge?
 
-The Conference Registration desk will be located in the Halifax Convention Centre, Argyle Level, at the conference venue. The desk will be staffed at 8am, Tuesday through Friday. Staff will remain at the desk during conference hours each day.
+The Conference Registration desk will be located in the Halifax Convention Centre, Argyle Level, at the conference venue. The desk will be staffed from 15:00-19:00 Tuesday and starting at 8am Wednesday - Friday. Staff will remain at the desk during conference hours each day.
 
 We encourage all attendees to register online only. 
 
 ### What is the registration cancellation policy?
 
 All payments are in US dollars and are non-refundable. Exceptions for visa-required situations may be possible, please contact us at programme@lists.iassistdata.org
+
+### How do I add my presentation to the conference archive? 
+
+All presenters are encouraged to upload a copy of their presentation to the IASSIST 2024 Zenodo Conference Community by following these steps:
+
+- Go to the Zenodo community at https://zenodo.org/communities/iassist2024
+- Follow the [/conferences/iassist2024/recommended-presentation-metadata-in-zenodo-2024.pdf](instructions for adding materials (PDF))
+- Please note you will need to create a Zenodo account if you don't already have one. Zenodo is integrated with several other systems such as ORCID and GitHub for easy access.
+- If you have issues with uploading your file(s), volunteers at the registration desk during the conference can assist you. Alternatively, you can email programme@lists.iassistdata.org
+
+### What platform will be used for at-conference synchronous communication?
+
+We have a Slack channel (iassistdata) that can be used for conversations at the conference. You should receive the link to join the channel in the conference updates email. If you did not receive the link, please check your spam folder first. Then email programme@lists.iassistdata.org
 
 ### What are the requirements to obtain a Canadian Visa? 
 
