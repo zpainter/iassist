@@ -72,7 +72,7 @@ All payments are in US dollars and are non-refundable. Exceptions for visa-requi
 All presenters are encouraged to upload a copy of their presentation to the IASSIST 2024 Zenodo Conference Community by following these steps:
 
 - Go to the Zenodo community at https://zenodo.org/communities/iassist2024
-- Follow the [/conferences/iassist2024/recommended-presentation-metadata-in-zenodo-2024.pdf](instructions for adding materials (PDF))
+- Follow these [/conferences/iassist2024/recommended-presentation-metadata-in-zenodo-2024.pdf](instructions for adding materials) (PDF)
 - Please note you will need to create a Zenodo account if you don't already have one. Zenodo is integrated with several other systems such as ORCID and GitHub for easy access.
 - If you have issues with uploading your file(s), volunteers at the registration desk during the conference can assist you. Alternatively, you can email programme@lists.iassistdata.org
 
