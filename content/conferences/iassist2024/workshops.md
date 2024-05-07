@@ -18,6 +18,10 @@ It is only possible to attend one workshop in the morning and another in the aft
 
 **Please note** that due to a system limitation, you can only register for 1 workshop at a time. If you wish to register for two workshops (both morning and afternoon), complete the workshop registration form twice. We apologize for any inconvenience.
 
+### Information for participants
+
+Once you have registered for a workshop, please see this [information document <span class="fas fa-external-link-alt"></span>](https://tinyurl.com/iassist24workshops) with information regarding what you should bring with you to the workshop. Instructors may also contact participants prior to the workshop with more details. 
+
 ## Workshops available
 
 ### Morning Workshops (9:00-12:00)
@@ -112,7 +116,7 @@ Key concepts and technical skills in data and geographic literacies play a vital
 This workshop engages open data and open source GIS software to provide participants an introduction to key concepts and technical skills in data and geographic literacies. During the workshop, participants will become familiar with key geographic concepts, especially the map, geographic place, projections, and coordinate reference systems. They will gain hands-on experience accessing, visualizing, and interpreting a geospatial dataset representing sensitive subjects of relevance to public health within the US-Mexico international border region. Through their participation, attendees’ may also enhance their awareness and knowledge of open educational resources, international migration as a public health issue, and opportunities for humanitarian interventions in borderlands, such as improvements in an ability to access information, clean water, food, and shelter.
 
 #### Data Curation Fundamentals
-##### Mikala Narlock, Sophia Lafferty-Hess, Erin Clary, Amber Leahey, Lina Harper 
+##### Mikala Narlock, Sophia Lafferty-Hess, Erin Clary, Amber Leahey, Meghan Goodchild, Tamanna Moharana, Robyn Stobbs 
 
 Data curation is a key component of the data sharing and publication process, during which data professionals review a dataset, code, and related outputs to ensure that data are findable, accessible, interoperable, and reusable (FAIR) and incorporates ethical curation considerations. Data curation enables data discovery and access, maintains data quality and authenticity, adds value, and provides for re-use over time through activities including open and controlled access, archiving, metadata creation, digital preservation, and file format transformation. There are many additional activities encompassed by the term data curation – which can be daunting for a novice to understand and apply in a meaningful way.
 
