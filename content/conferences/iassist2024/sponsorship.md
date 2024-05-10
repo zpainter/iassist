@@ -85,6 +85,15 @@ type = "conference-2024"
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
+    {{< figure width="270px" src="/conferences/iassist2024/images/msvu.png" alt="logo, Mount Saint Vincent University." >}}
+  </div> 
+  <div style="margin-left:1em;">
+    <a href="https://msvu.ca">Mount Saint Vincent University <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
     {{< figure width="270px" src="/conferences/iassist2024/images/alliancecan.png" alt="logo, Digital Research Alliance of Canada." >}}
   </div> 
   <div style="margin-left:1em;">
@@ -146,6 +155,15 @@ type = "conference-2024"
   </div> 
   <div style="margin-left:1em;">
    <a href="https://ukdataservice.ac.uk/">UK Data Service <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2024/images/ithaka.png" alt="logo, ITHAKA" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.ithaka.org">ITHAKA <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 

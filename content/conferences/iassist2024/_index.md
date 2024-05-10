@@ -80,6 +80,9 @@ It will be the **Best. IASSIST. Ever.**
   <div style="padding: 2em;">
     {{< figure width="450px" src="/conferences/iassist2024/images/alliancecan.png" alt="logo, Digital Research Alliance of Canada." >}}
   </div> 
+  <div style="padding: 2em;">
+    {{< figure width="270px" src="/conferences/iassist2024/images/msvu.png" alt="logo, Mount Saint Vincent University." >}}
+  </div> 
 </div>
 
 
@@ -104,6 +107,9 @@ It will be the **Best. IASSIST. Ever.**
   </div>
   <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2024/images/ukds.png" alt="logo, UK Data Service" >}}
+  </div>
+  <div style="padding: 2em;">
+    {{< figure width="240px" src="/conferences/iassist2024/images/ithaka.png" alt="logo, ITHAKA" >}}
   </div>
 </div>
 
