@@ -19,7 +19,7 @@ If you are in a situation that is not an emergency (for example, lost identifica
 
 The conference will take place at the Halifax Convention Centre (1650 Argyle Street, in Halifax, Nova Scotia, Canada) from May 28 - May 31, 2024.
 
-### How to get to the Halifax downtown / Hotel / Convention Centre frmo the Halifax International Airport?
+### How to get to the Halifax downtown / Hotel / Convention Centre from the Halifax International Airport?
 
 This [Local Guide <span class="fas fa-external-link-alt"></span>](https://docs.google.com/document/d/1GejWyXc1c_fn6uMqT9FQnmS87cNmDSlpqNxBxgJeL-E/edit?usp=sharing) provides more details about using your conference badge as the complimentary transit pass for the week. Stay tuned for an email with your individualised badge (check you junk folder in case!) which will be used as your temporary bus pass until you pick up your printed badge at the Registration desk on Tuesday or Wednesday. 
 
