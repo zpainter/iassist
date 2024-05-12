@@ -97,7 +97,7 @@ As an emerging framework, following the course participants will be invited to p
 #### Leveraging ChatGPT for Research: Effective Data Gathering Techniques
 ##### Patience Chewachong Akih
 
-** \*workshop cancelled\* **
+**\*workshop cancelled\***
 
 <!--
 The purpose of the workshop is to give a comprehensive understanding of the data gathering techniques used in research. The session will address ethical considerations and discuss how to get the best results from data gathering. The potential for aiding research is shown in the introduction to the workshop. Practical insights into its real-world applications are provided by the diverse strategies and methodologies it explores. The importance of ethical considerations is emphasized in the workshop. Discussion on ethical implications and best practices will be important. Participants will learn how to gather data through hands-on exercises and simulations. The workshop will focus on data quality and reliability, offering insights to enhance accuracy and relevance, and fostering a collaborative learning environment. Resources, toolkits, and references will be at the end of the workshop. The goal is to equip participants with comprehensive knowledge and practical skills that will allow them to effectively use ChatGPT for data gathering in research contexts.
