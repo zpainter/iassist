@@ -30,7 +30,7 @@ Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
 
 #### Annual Conference
 
-Bristol, UK, June 3 - 6 31, 2025
+Bristol, UK, June 3 - June 6 31, 2025
 
 <a class="btn btn-template-main" href="./iassist2025/">IASSIST 2025 Conference website</a> 
 

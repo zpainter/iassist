@@ -8,7 +8,7 @@ banner = "/img/conferences/annual/halifax2024-logobanner-socialmedia.png"
 type = "conference-2024"
 +++
 
-{{< figure src="/img/conferences/annual/halifax2024-logobanner.png" alt="" title="" width="720" >}}
+{{< figure src="/img/conferences/annual/halifax2024-logobanner.png" alt="Conference logo. A compass, a lighthouse and some waves." title="" width="720" >}}
 
 ## 49th Annual Conference of IASSIST joined together with CARTO
 
