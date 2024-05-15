@@ -14,13 +14,13 @@ If you would like to contribute an essay or webinar for an additional country or
 ### Webinar: “Race & Ethnicity in Latin America” {#feb2024}
 08 February 2024 11:00 AM-12:00 PM Eastern Time (US and Canada)
 
-[IPUMS (Integrated Public Use Microdata Series) International](https://international.ipums.org/international/) is dedicated to collecting and distributing census and survey microdata from around the world. The project goals are to collect and preserve data and documentation, harmonize data, and disseminate the harmonized data free of charge. IPUMS International currently disseminates more than 500 census and survey datasets from 103 countries. In this presentation, the presenters will provide an overview of IPUMS (data availability, topical content, harmonization approach, and data access system) with specific emphasis on race, ethnicity and related information in available data from Latin America. Learn about the provenance of the data, the categorizations available, the research and documentation conducted to harmonize (where feasible) and how to access the data. This will include a brief demonstration of the data request system and tabulator if time permits.
+[IPUMS (Integrated Public Use Microdata Series) International <span class="fas fa-external-link-alt"></span>](https://international.ipums.org/international/) is dedicated to collecting and distributing census and survey microdata from around the world. The project goals are to collect and preserve data and documentation, harmonize data, and disseminate the harmonized data free of charge. IPUMS International currently disseminates more than 500 census and survey datasets from 103 countries. In this presentation, the presenters will provide an overview of IPUMS (data availability, topical content, harmonization approach, and data access system) with specific emphasis on race, ethnicity and related information in available data from Latin America. Learn about the provenance of the data, the categorizations available, the research and documentation conducted to harmonize (where feasible) and how to access the data. This will include a brief demonstration of the data request system and tabulator if time permits.
 
 #### [Recording](https://www.youtube.com/watch?v=g9ydnn0Q_FE) (57:31 min)
-> *Suggested Citation*: Cleveland, L., & Lovatón Dávila, R. (2024, Februar 8). Using IPUMS International: A Focus on Race & Ethnicity in Latin America. IASSIST Professional Development Webinar Series, Online. https://www.youtube.com/watch?v=g9ydnn0Q_FE
+> *Suggested Citation*: Cleveland, L., & Lovatón Dávila, R. (2024, Februar 8). Using IPUMS International: A Focus on Race & Ethnicity in Latin America. IASSIST Professional Development Webinar Series, Online. https://www.youtube.com/watch?v=g9ydnn0Q_FE <span class="fas fa-external-link-alt"></span>
 
 #### [Slides](https://doi.org/10.5281/zenodo.10674864)
-> *Suggested Citation*: Cleveland, L., & Lovatón Dávila, R. (2024, Februar 8). Using IPUMS International: A Focus on Race & Ethnicity in Latin America. IASSIST Professional Development Webinar Series, Online. Zenodo. https://doi.org/10.5281/zenodo.10674864
+> *Suggested Citation*: Cleveland, L., & Lovatón Dávila, R. (2024, Februar 8). Using IPUMS International: A Focus on Race & Ethnicity in Latin America. IASSIST Professional Development Webinar Series, Online. Zenodo. https://doi.org/10.5281/zenodo.10674864 <span class="fas fa-external-link-alt"></span>
 
 Presenters:
 - Introductions: Sarah Young - Carnegie Mellon University; Anne Zald - Northwestern University
@@ -52,13 +52,13 @@ This webinar, brought to you by the Anti-Racism Resources Interest Group and the
 - What are some of the key issues with these data?
 
 
-#### [Recording](https://www.youtube.com/watch?v=7S8Y9dA1rPY&t=48s) (1:30 h)
+#### [Recording <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=7S8Y9dA1rPY&t=48s) (1:30 h)
 
-> *Suggested Citation*:  Bordelon, Bobray J., Cooper, Alexandra, de Noronha, Nigel, Levergood, Barbara, Manuel, Kevin, Perry, Anja, Wiltshire, Deborah, & Zald, Anne E. \(2022, November 30). A Conversation About Data on Race & Ethnicity Around the World. IASSIST.  https://www.youtube.com/watch?v=7S8Y9dA1rPY&t=48s
+> *Suggested Citation*:  Bordelon, Bobray J., Cooper, Alexandra, de Noronha, Nigel, Levergood, Barbara, Manuel, Kevin, Perry, Anja, Wiltshire, Deborah, & Zald, Anne E. \(2022, November 30). A Conversation About Data on Race & Ethnicity Around the World. IASSIST.  https://www.youtube.com/watch?v=7S8Y9dA1rPY&t=48s <span class="fas fa-external-link-alt"></span>
 
-#### [Slides](https://doi.org/10.5281/zenodo.7400733)
+#### [Slides <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.7400733)
 
-> *Suggested Citation*:  Bordelon, Bobray J., Cooper, Alexandra, de Noronha, Nigel, Levergood, Barbara, Manuel, Kevin, Perry, Anja, Wiltshire, Deborah, & Zald, Anne E. \(2022, December 5). A Conversation About Data on Race & Ethnicity Around the World. Zenodo. https://doi.org/10.5281/zenodo.7400733
+> *Suggested Citation*:  Bordelon, Bobray J., Cooper, Alexandra, de Noronha, Nigel, Levergood, Barbara, Manuel, Kevin, Perry, Anja, Wiltshire, Deborah, & Zald, Anne E. \(2022, December 5). A Conversation About Data on Race & Ethnicity Around the World. Zenodo. https://doi.org/10.5281/zenodo.7400733 <span class="fas fa-external-link-alt"></span>
 
 Presenters:
 - Framing of the Issues: Anne Zald - Northwestern University
