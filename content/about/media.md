@@ -3,6 +3,16 @@ title = "Media"
 date = "2020-05-02 00:00:00 -0700"
 draft = "false"
 +++
+## IASSIST Brand and Promotion
+
+IASSIST wants to leverage the unique expertise in the social sciences to help benefit all data professionals and internationally support open and non-discriminatory science and research. Our members work across disciplines to discover data, curate it, make it available, analyze and visualize it, and keep it available. We work together to advocate for responsible data management and use, to build a broader community surrounding research data, and to encourage the professional development of data professionals.
+
+<!--
+IASSIST Shop
+
+BUTTON -> redbubble
+-->
+
 ## Flyers
 
 The following brochures are available for distribution. 
@@ -25,17 +35,21 @@ Available in these languages:
 
 ## Logo
 
-The following logo types are recommended for use on websites where IASSIST logo is needed. Please do not restructure the logo in any way or remove any contents, including whitespace. The minimum height for the logo on a website is 60px. Please contact the Communications Committee Chair if you need alternative versions of our logo or a logo which is suitable for printing purposes. We are happy to provide you with one. 
+The following logotypes are recommended for use on websites or printed materials where the IASSIST logo is needed. 
+
+The following guidelines should help you: Please do not shape, rotate, stretch or distort the logo in any way or remove any contents, including whitespace or wordmark. The protected area (clearspace) around the logo should be at least the height of the "i" inside the logomark. The logo should only be placed on a white or very light background. The full name of the association must always be readable in print and online. The acceptable minimum height of the logo on a website is 80 pixels. While our default logo is very colorful, use the black or white version on layouts that are black and white only. 
+
+Contact the Communications Committee (communications ( at ) iassistdata.org) if need a copy of our logo or if you need alternative versions of it or are unsure if your intended use complies with IASSIST's policies. We will happy to assist and provide you with a logo file that suits your needs. 
 ﻿
 #### Logo Variants
 
 Primary
-: Landscape version with full text in color or black and white
-: Available as PNG (for web) or as EPS (for print)
+: Landscape, with full name of teh Association (in color or black and white)
+: Available in PNG (for web) or as EPS (for print) formats
 
 Secondary
-: Square logo with text IASSIST inside in color
-: Available as PNG (for web) or as EPS (for print)
+: Square logo, with only text IASSIST inside (in color or in black and white)
+: Available in PNG (for web) or as EPS (for print) formats
 
 ## Website History
 
