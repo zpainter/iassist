@@ -32,7 +32,7 @@ Our mission is to provide resources and educational opportunities to better reco
           </div>
           <h3>Data sources on racism</h3>
             <p>Data on a variety of topics but all documenting racism and the Black experience internationally.<br />
-			Download in <a href="/community/diversity-equity-and-inclusion-data-resources/DataSources-forRacialJustice.csv">Comma-separated format</a> | <a href="/community/diversity-equity-and-inclusion-data-resources/DataSources-forRacialJustice.xlsx">MS Excel format with color-coded topics</a> | <a href="/community/diversity-equity-and-inclusion-data-resources/DataSources-forRacialJustice.pdf">PDF format</a> <br />
+			Download in <a href="/community/diversity-equity-and-inclusion-data-resources/DataSourcesOnRacism.csv">Comma-separated format</a> | <a href="/community/diversity-equity-and-inclusion-data-resources/ReadMe.pdf">ReadMe for opening and using the file</a> <br />
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0yocc2nueS4awjw5bwozLLAbAqCNnfqKbn995qg3MyG_D5Q/viewform" target=_blank" >Suggest an additional data source <span class="fas fa-external-link-alt"></span></a></p>
         </div>
       </div>
