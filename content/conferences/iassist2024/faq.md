@@ -80,6 +80,8 @@ All presenters are encouraged to upload a copy of their presentation to the IASS
 - Please note you will need to create a Zenodo account if you don't already have one. Zenodo is integrated with several other systems such as ORCID and GitHub for easy access.
 - If you have issues with uploading your file(s), volunteers at the registration desk during the conference can assist you. Alternatively, you can email programme@lists.iassistdata.org
 
+After submitting your presentation files, IASSIST volunteers will review the metadata and enhance as needed and then the materials will be made publicly available in the IASSIST Collection. Presenters may upload their files before or after the conference. We start to make them available shortly before the conference. Review and publication may take up to 48 hours during the conference week and longer later in the summer.
+
 ### What platform will be used for at-conference synchronous communication?
 
 We have a Slack channel (iassistdata) that can be used for conversations at the conference. You should receive the link to join the channel in the conference updates email. If you did not receive the link, please check your spam folder first. Then email programme@lists.iassistdata.org
