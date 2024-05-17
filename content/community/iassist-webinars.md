@@ -28,9 +28,13 @@ This webinar includes two presentations reflecting on issues Indigenous communit
 
 **Time:** Thursday, May 16, 2024, 12-1:30pm EDT/5-6:30pm BST
 
+<!--
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZYod-mtrD0vHNLgiTF9fkTtZ2bpfKW35mXs#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+-->
 
 This webinar is brought to you by the  ASSIST DEI Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+
+***Recording will be available soon.***
 
 
 ### Most recent webinar recordings
