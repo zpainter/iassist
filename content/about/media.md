@@ -9,7 +9,7 @@ IASSIST wants to leverage the unique expertise in the social sciences to help be
 
 ### IASSIST Store
 
-Fancy a cool T-shirt, mug, or just a colorful sticker for your laptop or water bottle to show that you are affiliated with IASSIST? Then your next stop is the IASSIST shop on Redbubble. More products may come later - let us know what you would like to find! 
+Fancy a cool T-shirt, mug, or just a colorful sticker for your laptop or water bottle to show that you are affiliated with IASSIST? Then your next stop is the IASSIST shop on Redbubble.
 
 {{< figure src="/img/about/redbubbleshop.jpg" alt="IASSIST branded products." width="500" >}}
 
@@ -17,7 +17,7 @@ Fancy a cool T-shirt, mug, or just a colorful sticker for your laptop or water b
   <a class="btn btn-template-main" href="https://www.redbubble.com/people/iassist/shop?asc=u" target="_blank" >Visit IASSIST store <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
-Please note that all products are provided by a third party, and IASSIST does not set the prices or control the quality of the items available. 
+More products may come later - let us know what you would like to find! Please note that all products are provided by a third party and IASSIST does not control the quality of the items available. However, we welcome any feedback about the products.
 
 ### Logo
 
@@ -25,7 +25,7 @@ The following logotypes are recommended for use on websites or printed materials
 
 The following **guidelines** should help you: Please do not shape, rotate, stretch or distort the logo in any way or remove any contents, including whitespace or wordmark. The protected area (clearspace) around the logo should be at least the height of the "i" inside the logomark. The logo should only be placed on a white or very light background. The full name of the association must always be readable in print and online. The acceptable minimum height of the logo on a website is 80 pixels. While our default logo is very colorful, use the black or white version on layouts that are black and white only. 
 
-Contact the Communications Committee (communications ( at ) iassistdata.org) if need a copy of our logo or if you need alternative versions of it or are unsure if your intended use complies with IASSIST's policies. We will happy to assist and provide you with a logo file that suits your needs. 
+Contact the Communications Committee (communications ( at ) iassistdata.org) if need a copy of our logo, or if you need alternative versions of it or are unsure if your intended use complies with IASSIST's policies. We will happy to assist and provide you with a logo file that suits your needs. 
 ﻿
 #### Logo Variants
 
