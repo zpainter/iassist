@@ -191,12 +191,12 @@ paginate = 10
     subtitle = ""
 
 [params.see_more]
-    enable = false
+    enable = true
     icon = "far fa-file-alt"
-    title = "Could be later used as a promotion element perhaps"
-    subtitle = ""
-    link_url = "#"
-    link_text = ""
+    title = "IASSIST Store"
+    subtitle = "IASSIST branded products on Redbubble"
+    link_url = "/about/media/"
+    link_text = "To the store"
 
 [params.clients]
     enable = true
