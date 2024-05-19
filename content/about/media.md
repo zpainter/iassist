@@ -5,9 +5,9 @@ draft = "false"
 +++
 ## IASSIST Brand
 
-IASSIST wants to leverage the unique expertise in the social sciences to help benefit all data professionals and internationally support open and non-discriminatory science and research. Our members work across disciplines to discover data, curate it, make it available, analyze and visualize it, and keep it available. We work together to advocate for responsible data management and use, to build a broader community surrounding research data, and to encourage the professional development of data professionals.
+IASSIST wants to leverage the unique expertise in the social sciences to help benefit all data professionals and internationally support open, responsible and non-discriminatory science and research. Our members work across disciplines to discover data, curate it, make it available, analyze and visualize it, and keep it available. We work together to advocate for responsible data management and use, to build a broader community surrounding research data, and to encourage the professional development of data professionals.
 
-### IASSIST Shop
+### IASSIST Store
 
 Fancy a cool T-shirt, mug, or just a colorful sticker for your laptop or water bottle to show that you are affiliated with IASSIST? Then your next stop is the IASSIST shop on Redbubble. More products may come later - let us know what you would like to find! 
 
@@ -30,7 +30,7 @@ Contact the Communications Committee (communications ( at ) iassistdata.org) if 
 #### Logo Variants
 
 Primary
-: Landscape, with full name of teh Association (in color or black and white)
+: Landscape, with full name of the Association (in color or black and white)
 : Available in PNG (for web) or as EPS (for print) formats
 
 Secondary
