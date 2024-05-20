@@ -19,4 +19,4 @@ Meeting of the Hybrid General Assembly, Thursday, June 9, 2022, Gothenburg, Swed
 8. Regional Secretaties Reports
 9. Adjournment
 
-» **[Minutes in PDF format](/file/about/agm22-minutes-approved.pdf "AGM Minutes 2022").** (approved, fortcoming)
+» **[Minutes in PDF format](/file/about/agm22-minutes-approved.pdf "AGM Minutes 2022").** (approved)
