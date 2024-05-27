@@ -30,6 +30,8 @@ draft = "false"
 
 <br />To contact the web team, please use our [contact form](/contact) or email iassistwebmaster [ at ] gmail.com
 
+If you wish to see something posted on the website or are looking for ways to make your voice heard, please review the Community page for more information.
+
 
 |IASSIST Quarterly||
 |:---|:---|

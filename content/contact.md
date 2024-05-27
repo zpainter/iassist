@@ -14,6 +14,6 @@ You can leave a message using the contact form below. We will get back to you as
 
 **If your question is specific to the IASSIST Conference**, please send it directly to the Programme Committee or Local Committee Chairs (contact information on the conference pages).
 
-Contact addresses for officials are on the right. Feel free to use them, if you can identify a direct contact.
+See Community section for ways to make your voice heard. Contact addresses for officials are on the right. Feel free to use them, if you can identify a direct contact.
 
 <iframe width="100%" height="1000" src="https://docs.google.com/forms/d/e/1FAIpQLSfCSOINnbmvLYYgJHz12xY79ifAIeMRItGK_WRgH5tWsv45lg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
