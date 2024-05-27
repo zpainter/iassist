@@ -57,6 +57,8 @@ Barbara Esty, Ron Nakao <br /> [Webinar slides on Zenodo <span class="fas fa-ext
 
 ### Older webinar recordings
 
+- [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
+
 - [Making R Interactive With Shiny <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=aUriimb5Pbw) (Lorin Bruckner)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.8308322))
 
 - [Transparency and Reproducibility of Federal Statistics for the National Center for Science and Engineering Statistics <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=YDEpK-U99JU) (Margaret Levenstein, Daniel Gillman)<br />Webinar slides on Zenodo: [Levenstein <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.7651298), [Gillman <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.7651313)

@@ -11,6 +11,14 @@ IASSIST Africa is an official Chapter of IASSIST in Africa. The chapter was offi
 
 IASSIST Africa collaborates with various academic and information institutions to deliver training on relevant topics related to data services. Training is intended to help to enrich attendees with skills to manage data research in their institutions. The chapter organises webinars on topcis such as data literacy, open science, data management and privacy, and arranges Regional Workshop events in Africa.
 
-<a class="btn btn-template-main" href="http://iassistafrica.org/" title="" >Visit IASSIST Africa website<i class="fas fa-external-link-alt"></i></a>
+<a class="btn btn-template-main" href="http://iassistafrica.org/" title="" >Visit IASSIST Africa website<span class="fas fa-external-link-alt"></span></a>
+
+### Events
+
+- [3rd IASSIST Africa Regional Workshop](conferences/iassist-africa-2023/) Pretoria, South Africa, October 18-20, 2023
+- [2nd IASSIST Africa Regional Workshop](conferences/iassist-africa-2022/) Ibadan, Nigeria, October 4-7, 2022
+- [1st IASSIST Africa Regional Workshop](conferences/iassist-africa-2021/) Kampala, Uganda, January 11-13, 2021 
+
+### Contact
 
 IASSIST Africa can be contacted via the Secretariat, secretariat (at) iassistafrica.org
