@@ -57,7 +57,7 @@ Barbara Esty, Ron Nakao <br /> [Webinar slides on Zenodo <span class="fas fa-ext
 
 ### Older webinar recordings
 
-- [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
+- [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
 
 - [Making R Interactive With Shiny <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=aUriimb5Pbw) (Lorin Bruckner)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.8308322))
 

@@ -86,6 +86,6 @@ The **main conference was virtual and took place in May 17-20, 2021**. In additi
 
 ### Past Conferences
 
-**[Conference Archive](/conferences/archive)** captures the rich history of IASSIST conferences.
+**[Conference Archive](/conferences/archive)** captures the rich history of IASSIST annual conferences.
 
 <br />
