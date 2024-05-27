@@ -8,9 +8,11 @@ type = "conference-2024"
 +++
 ## Conference Registration
 
-Register now for the IASSIST & CARTO 2024 Full Conference, May 28-31, 2024.
+Register for the IASSIST & CARTO 2024 Full Conference, May 28-31, 2024.
 
 Full conference registration includes coffee breaks, lunches, and all social programme events, including welcome reception (May 28), poster session (May 29), and the conference banquet at [The Cable Wharf <span class="fas fa-external-link-alt"></span>](https://www.rcr.ca/restaurants/cable-wharf-kitchen-patio/) (May 30).
+
+**Please note:** Banquet is at capacity as of May 17, 2024.
 
 <br />
   <a class="btn btn-template-main" href="https://iassistdata.info/event-5411184" target="_blank" >Register for IASSIST & CARTO 2024 <span class="fas fa-external-link-alt"></span></a>
