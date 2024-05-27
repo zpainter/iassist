@@ -25,9 +25,11 @@ Held with [CARTO <i class="fas fa-external-link-alt"></i>](https://acmla-acacc.c
  
 Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded territory of the Mi’kmaq People. It is covered by the Treaties of Peace and Friendship, first signed in 1726, which established rules for an ongoing relationship between nations. The people of the Mi’kmaw Nation have lived on this territory for millennia, and we acknowledge them as the past, present, and future caretakers of this land.
 
-### Conference and workshop registration
+### Welcome to Halifax!
 
-**[Registration](./registration/)** for IASSIST & CARTO 2024 is now open! Be sure to secure your spot early. The early bird registration rate has been extended and will close April 12, 2024, after which registration fees will incereace.
+#### Conference and workshop registration
+
+The conference is about to being, but **[Registration](./registration/)** for IASSIST & CARTO 2024 is still possible.
 
 It will be the **Best. IASSIST. Ever.**
 
