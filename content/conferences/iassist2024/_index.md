@@ -29,7 +29,7 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 
 #### Conference and workshop registration
 
-The conference is about to being, but **[Registration](./registration/)** for IASSIST & CARTO 2024 is still possible.
+The conference is about to begin, but **[registration](./registration/)** for IASSIST & CARTO 2024 is still possible.
 
 It will be the **Best. IASSIST. Ever.**
 
