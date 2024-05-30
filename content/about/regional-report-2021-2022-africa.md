@@ -9,7 +9,7 @@ Winny Nekesa Akullo<br />
 UBOS<br />
 June, 2022
 
-» **[Report in PDF format](/file/about/africa_regional_report_2021-2022.pdf).**
+» **[Report in PDF format](/file/about/africa_regional_report-2021-2022.pdf).**
 
 
 

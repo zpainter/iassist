@@ -9,7 +9,7 @@ Winny Nekesa Akullo<br />
 UBOS<br />
 May, 2023
 
-» **[Report in PDF format](/file/about/africa_regional_report_2022-2023.pdf).**
+» **[Report in PDF format](/file/about/africa_regional_report-2022-2023.pdf).**
 
 
 
