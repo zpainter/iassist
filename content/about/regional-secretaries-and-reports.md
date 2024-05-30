@@ -18,6 +18,10 @@ Africa
 
 *Reports:*
 
+<!--
+-   [2023-2024](/about/regional-report-2023-2024-africa)
+-->
+-   [2022-2023](/about/regional-report-2022-2023-africa)
 -   [2021-2022](/about/regional-report-2021-2022-africa)
 -   [2020-2021](/about/regional-report-2020-2021-africa)
 -   [2019-2020](/about/regional-report-2019-2020-africa)
@@ -38,6 +42,10 @@ Asia/Pacific
 
 *Reports:*
 
+<!--
+-   [2023-2024](/about/regional-report-2023-2024-asiapacific)
+-   [2022-2023](/about/regional-report-2022-2023-asiapacific)
+-->
 -   [2021-2022](/about/regional-report-2021-2022-asiapacific)
 -   [2007-2008](/about/regional-report-2007-2008-asiapacific)
 -   [2006-2007](/about/regional-report-2006-2007-asiapacific)
@@ -52,6 +60,10 @@ Canada
 
 *Reports:*
 
+<!--
+-   [2023-2024](/about/regional-report-2023-2024-canada)
+-->
+-   [2022-2023](/about/regional-report-2022-2023-canada)
 -   [2021-2022](/about/regional-report-2021-2022-canada)
 -   [2020-2021](/about/regional-report-2020-2021-canada)
 -   [2019-2020](/about/regional-report-2019-2020-canada)
@@ -78,10 +90,14 @@ Canada
 Europe
 ------
 
-*Current Secretary:* Anne-Sofie Fink, Denmark
+*Current Secretary:* David Schiller, Germany
 
 *Reports:*
 
+<!--
+-   [2023-2024](/about/regional-report-2023-2024-europe)
+-   [2022-2023](/about/regional-report-2022-2023-europe)
+-->
 -   [2021-2022](/about/regional-report-2021-2022-europe)
 -   [2020-2021](/about/regional-report-2020-2021-europe)
 -   [2011-2012](/about/regional-report-2011-2012-europe)
@@ -106,6 +122,10 @@ United States
 
 *Reports:*
 
+<!--
+-   [2023-2024](/about/regional-report-2023-2024-united-states)
+-->
+-   [2022-2023](/about/regional-report-2022-2023-united-states)
 -   [2021-2022](/about/regional-report-2021-2022-united-states)
 -   [2020-2021](/about/regional-report-2020-2021-united-states)
 -   [2019-2020](/about/regional-report-2019-2020-united-states)
