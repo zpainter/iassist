@@ -55,6 +55,7 @@ jane.fry [ at ] carleton.ca
 **Europe** *
 
 David Schiller
+david.schiller [ at ] fhgr.ch
 
 **USA** *
 
@@ -74,6 +75,7 @@ dylanne.dearborn [ at ] utoronto.ca
 **Europe** *
 
 Deborah Wiltshire
+deborah.wiltshire [ at ] gesis.org
 
 Wolfgang Zenk-Möltgen,
 wolfgang.zenk-moeltgen [ at ] gesis.org
@@ -81,10 +83,13 @@ wolfgang.zenk-moeltgen [ at ] gesis.org
 **USA** *
 
 Michael J. Beckstrand
+mjbeckst [ at ] umn.edu
 
 Meryl Brodsky
+meryl.brodsky [ at ] austin.utexas.edu
 
 Ashley Jester
+
 
 ### Term from 2021-2025
 

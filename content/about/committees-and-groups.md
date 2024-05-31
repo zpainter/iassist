@@ -27,11 +27,11 @@ Responsible for receiving proposals for the enacting, amending, and repealing of
 
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
-- **2023-2025 Chairs: *Sarah Young, sarahy [ at ] andrew.cmu.edu*** and ***Wei Yin, wy2288 [ at ] columbia.edu***
+- **2024-2026 Chairs: *Wei Yin, wy2288 [ at ] columbia.edu*** and ***Olatunbosun Obileye, bosun.obileye [ at ] gmail.com
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
-- **2022-2024 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young sarahy [ at ] andrew.cmu.edu***
+- **2024-2026 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young, sarahy [ at ] andrew.cmu.edu***
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
@@ -59,7 +59,21 @@ Responsible for deciding on an annual conference title as well as general themat
 
 Action Groups are appointed by the Administrative Committee and undertake specific tasks, find solutions to specific problems, or develop and compile relevant materials for specific projects.
 
+#### Organizational Archive Action Group {#organizational-archive-action-group}
+
+TBA
+
+- **2024-2025 Chair: *Christine Nieman Hislop, cnieman [ at ] hshsl.umaryland.edu****
+
+#### Program Committee Review Action Group {#program-committee-review-action-group}
+
+To review the program committee procedures.
+
+- **2024-2025 Chair: *Bobray Bordelon, bordelon [ at ] princeton.edu****
+
+<!--
 > Currently there are no active action groups.
+-->
 
 Read more: [Former Action Groups](/about/former-action-groups) 
 
@@ -71,16 +85,11 @@ Interest Groups share information on specific subjects with the larger IASSIST m
 
 Read more about IASSIST Interest Groups and how to establish one in the [Interest Group Checklist](/about/all-about-interest-groups).
 
-#### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
-The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
+#### Data Collection Development Interest Group (DataCDIG) {#data-acquisitions-interest-group}  
 
-- **2023-2024 Co-Chairs: *Jennie Murack, murack [ at ] mit.edu*** and ***Amanda Tickner, atickner [ at ] msu.edu***
+This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access. 
 
-#### [Qualitative Social Science and Humanities Data Interest Group](/community/qualitative-social-science-and-humanities-data-interest-group) (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
-<!--#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} -->
-The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to bring together researchers and those working in data infrastructure to share and create resources to support good management and use of qualitative data throughout the data lifecycle. We aim to connect an informed group of professionals working with qualitative data, raise awareness about key issues in qualitative research, provide opportunities for professional development, and create resources for all IASSIST members to better understand working with qualitative data.
-
-- **2023-2024 Co-Chairs: *Maureen Haaker, Cheryl Annette Thompson, Jessica Hagman*** and ***Hilary Bussell.<br />Contact the co-chairs: QSSHDIG [ at ] gmail.com***
+- **2024-2025 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu*** and ***Ron Nakao, ronbo [ at ] stanford.edu***
 
 #### Diversity, Equity, and Inclusion Data Resources Interest Group {#anti-racism-resources-interest-group}  
 
@@ -88,13 +97,25 @@ The work of the group will include maintaining the work done thus far and may ex
 
 The Interest Group has gathered various **[resources on diversity, equity and inclusion](/community/diversity-equity-and-inclusion-data-resources)**. 
 
-- **2023-2024 C0-Chairs: *Anja Perry, anja.perry [ at ] gesis.org*** and ***Abigail Goben, agoben [ at ] uic.edu***
+- **2024-2025 Co-Chairs: *Abigail Goben, agoben [ at ] uic.edu*** and ***Todd Quinn***
 
-#### Data Collection Development Interest Group (DataCDIG) {#data-acquisitions-interest-group}  
+#### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
+The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access. 
+- **2024-2025 Chair: *Amanda Tickner, atickner [ at ] msu.edu****
 
-- **2023-2024 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu*** and ***Ron Nakao, ronbo [ at ] stanford.edu***
+#### Professionals New to Data Support Interest Group {#professionals-new-to-data-support-interest-group}
+
+***NEW*** This group's focus will be on the support and development of professionals growing into data support roles.  
+
+- **2024-2025 Co-Chairs: *Sophia Adeyeye*** and ***Paula Lackie***
+
+#### [Qualitative Social Science and Humanities Data Interest Group](/community/qualitative-social-science-and-humanities-data-interest-group) (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
+<!--#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} -->
+The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to bring together researchers and those working in data infrastructure to share and create resources to support good management and use of qualitative data throughout the data lifecycle. We aim to connect an informed group of professionals working with qualitative data, raise awareness about key issues in qualitative research, provide opportunities for professional development, and create resources for all IASSIST members to better understand working with qualitative data.
+
+- **2024-2025 Co-Chairs: *Maureen Haaker, Cheryl Annette Thompson, Jessica Hagman*** and ***Hilary Bussell.<br />Contact the co-chairs: QSSHDIG [ at ] gmail.com***
+
 
 ### Previous interest group resources
 
