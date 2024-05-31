@@ -27,7 +27,7 @@ Responsible for receiving proposals for the enacting, amending, and repealing of
 
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
-- **2024-2026 Chairs: *Wei Yin, wy2288 [ at ] columbia.edu*** and ***Olatunbosun Obileye, bosun.obileye [ at ] gmail.com
+- **2024-2026 Chairs: *Wei Yin, wy2288 [ at ] columbia.edu*** and ***Olatunbosun Obileye, bosun.obileye [ at ] gmail.com***
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
@@ -61,15 +61,15 @@ Action Groups are appointed by the Administrative Committee and undertake specif
 
 #### Organizational Archive Action Group {#organizational-archive-action-group}
 
-TBA
+This group is charged with processing and curating documents and memorabilia in the IASSIST Archives to commemorate the 50th Annual Conference, IASSIST 2025.
 
-- **2024-2025 Chair: *Christine Nieman Hislop, cnieman [ at ] hshsl.umaryland.edu****
+- **2024-2025 Chair: *Christine Nieman Hislop, cnieman [ at ] hshsl.umaryland.edu***
 
 #### Program Committee Review Action Group {#program-committee-review-action-group}
 
 To review the program committee procedures.
 
-- **2024-2025 Chair: *Bobray Bordelon, bordelon [ at ] princeton.edu****
+- **2024-2025 Chair: *Bobray Bordelon, bordelon [ at ] princeton.edu***
 
 <!--
 > Currently there are no active action groups.
@@ -102,7 +102,7 @@ The Interest Group has gathered various **[resources on diversity, equity and in
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-- **2024-2025 Chair: *Amanda Tickner, atickner [ at ] msu.edu****
+- **2024-2025 Chair: *Amanda Tickner, atickner [ at ] msu.edu***
 
 #### Professionals New to Data Support Interest Group {#professionals-new-to-data-support-interest-group}
 
