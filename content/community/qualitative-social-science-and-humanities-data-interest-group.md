@@ -12,13 +12,13 @@ The **IASSIST Qualitative Social Science & Humanities Data Interest Group (QSSHD
 We support a wide range of disciplines, methods, and roles who work with qualitative data. We organise informal, quarterly meetings as an opportunity to network, discuss emerging issues and technology that support qualitative work and update the interest group on the latest opportunities for training.
 
 Meet the leadership team:
-: [Jessica Hagman <i class="fas fa-external-link-alt"></i>](https://experts.illinois.edu/en/persons/jessica-cherese-hagman)
-: [Cheryl Thompson <i class="fas fa-external-link-alt"></i>](https://odum.unc.edu/people/thompson/)
-: [Hilary Bussell <i class="fas fa-external-link-alt"></i>](https://library.osu.edu/people/bussell.21)
-: [Michael Beckstrand <i class="fas fa-external-link-alt"></i>](https://cla.umn.edu/about/directory/profile/mjbeckst)
-: [Maureen Haaker <i class="fas fa-external-link-alt"></i>](https://www.uos.ac.uk/people/maureen-haaker/)
+: [Jessica Hagman <span class="fas fa-external-link-alt"></span>](https://experts.illinois.edu/en/persons/jessica-cherese-hagman)
+: [Cheryl Thompson <span class="fas fa-external-link-alt"></span>](https://odum.unc.edu/people/thompson/)
+: [Hilary Bussell <span class="fas fa-external-link-alt"></span>](https://library.osu.edu/people/bussell.21)
+: [Michael Beckstrand <span class="fas fa-external-link-alt"></span>](https://cla.umn.edu/about/directory/profile/mjbeckst)
+: [Maureen Haaker <span class="fas fa-external-link-alt"></span>](https://www.uos.ac.uk/people/maureen-haaker/)
 
-Email the leadership team, *QSSHDIG [ at ] gmail.com* for more information or to sign up for our mailing list.
+Email the leadership team, ***QSSHDIG [ at ] gmail.com*** for more information or to sign up for our mailing list.
 
 
 
