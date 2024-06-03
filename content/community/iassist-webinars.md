@@ -12,40 +12,47 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 ### Webinar registrations
 
-<!--
 > No webinar registrations open at the moment.
--->
 
+<!--
+#### Indigenous Data: A few perspectives
+
+This webinar includes two presentations reflecting on issues Indigenous communities are currently facing, the first one presented by Dr. Diana Lewis and the second one presented by Dr Stacy Allison-Cassin and Camille Callison. Indigenous communities experience detrimental health impacts living near industrial development. Dr. Lewis develops Indigenous-led approaches to environmental health risk assessment, governance and data management. Currently Dr. Lewis is working on examining the health impacts of living near oil and gas extraction (Chipewyan, Cree and Métis) and a landfill site (Haudenosaunee), working with Athabasca Chipewyan and Mikisew Cree First Nations, Fort Chipewyan Métis Nation, and Oneida Nation of the Thames to co-develop environmental health frameworks to show how community-led, locally relevant and culturally safe governance frameworks and cultural protocols ensure the highest ethical standards are followed and promote community health decisions that respect Indigenous values and traditions and the OCAP principles for data management. The Respectful Terminology Platform Project (RTPP), an Indigenous-led initiative under the NIKLA-ANCLA umbrella, is led by RTPP Co-Principal Investigators Camille Callison (Tāłtān Nation, University of the Fraser Valley) and Dr. Stacy Allison-Cassin (Métis Nation of Ontario, Dalhousie University). The project is dedicated to advancing the development of a dynamic, multilingual platform for Indigenous terminology that can be used in libraries, archives, museums, and data systems worldwide.
+
+**Diana Lewis** is an Assistant Professor...
+
+**Stacy Allison-Cassin** is an Assistant Professor ...
+
+**Time:** Thursday, May 16, 2024, 12-1:30pm EDT/5-6:30pm BST
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZYod-mtrD0vHNLgiTF9fkTtZ2bpfKW35mXs#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+This webinar is brought to you by the  ASSIST DEI Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+-->
 
 ### Most recent webinar recordings
 
 #### Indigenous Data: A few perspectives
 
-Diana Lewis, Stacy Allison-Cassin, Camille Callison  <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+Diana Lewis, Stacy Allison-Cassin, Camille Callison <br /> Webinar slides on Zenodo: [Lewis <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.11457041), [Callison & Allison-Cassin <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.11456881)
 
-{{< youtube wW5OjQw4L0 >}}
+{{< youtube -wW5OjQw4L0 >}}
 
 <br />
 
 #### Using IPUMS International: A Focus on Race & Ethnicity in Latin America
 
-Lara Cleveland, Rodrigo Lovatón <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864)
+Lara Cleveland, Rodrigo Lovatón<br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864)
 
 {{< youtube g9ydnn0Q_FE >}}
-
-<br />
-
-#### If only data was like books... Introducing the Data Collection Developement Interest Group
-
-Barbara Esty, Ron Nakao <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10497133)
-
-{{< youtube uk_AKEaH6xQ >}}
 
 <br />
 
 ### Older webinar recordings
 
 - [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
+
+- [If only data was like books... Introducing the Data Collection Developement Interest Group <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=uk_AKEaH6xQ) (Barbara Esty, Ron Nakao)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10497133))
 
 - [Making R Interactive With Shiny <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=aUriimb5Pbw) (Lorin Bruckner)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.8308322))
 
