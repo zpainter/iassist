@@ -17,15 +17,7 @@ Please note the collection is still growing and presentations are still being ad
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
-2nd IASSIST Africa Regional Workshop was arranged in Ibadan, Nigeria, October 4-7, 2022.
-
-<a class="btn btn-template-main" href="./iassist-africa-2022/">Africa Workshop</a> 
-
-IASSIST 2022 Conference was arranged as a hybrid event in Gothenburg, Sweden, June 7-10, 2022.
-
-<a class="btn btn-template-main" href="./iassist-sweden-2022/">IASSIST 2022, Sweden</a>
-
-Please note the collection is still growing and presentations are still being added to the community.
+<br />
 
 ## Conference schedule at a glance
 
