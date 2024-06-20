@@ -13,8 +13,8 @@ The detailed schedule of the conference is available on Openconf, the conference
 
 <br />
   <a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
-
-<br />
+  
+Please note the collection is still growing and presentations are still being added to the community.
 
   <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
