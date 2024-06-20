@@ -4,11 +4,11 @@ title = "My First IASSIST Conference Experience "
 tags = [ "News and Announcements", "Community", "conferences", "IASSIST 2024", "collaboration", "Canada", "professional development", ]
 date = "2024-06-19 00:15:00 -0700"
 draft = "false"
-banner = "/img/blog/halifax2024-rj1.jpg"
+banner = "/img/blog/halifax2024-rl1.jpg"
 +++
 As an early-career academic librarian, I was grateful and excited to attend the 49th Annual Conference of IASSIST. The conference took place in Halifax, Nova Scotia, Canada from May 28 – 31, 2024. This year, the conference theme was **Uncharted: Navigating the Future of Data**. 
 
-<div style="float: right; max-width: 300px;">
+<div style="float: right; max-width: 300px; margin-left: 10px;">
 {{< figure src="/img/blog/halifax2024-rl1.jpg" class="wrap-right" link="/img/blog/halifax2024-rl1.jpg" alt="On a sunny day, a green grassy island with a couple of white buildings can be seen in the far background. The foreground of the picture is filled with a calm blue ocean." title="Georges Island National Historic Site near the Halifax waterfront. Photo: Ruby Lindsay." width="280" >}}
 </div>
 
