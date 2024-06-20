@@ -2,7 +2,7 @@
 author = "Ruby Lindsay"
 title = "My First IASSIST Conference Experience "
 tags = [ "News and Announcements", "Community", "conferences", "IASSIST 2024", "collaboration", "Canada", "professional development", ]
-date = "2024-06-20 00:15:00 -0700"
+date = "2024-06-19 00:15:00 -0700"
 draft = "false"
 banner = "/img/blog/halifax2024-rj1.jpg"
 +++

@@ -12,6 +12,10 @@ The IASSIST Quarterly has earned the DOAJ Seal in recognition of using best prac
 
 <a href="https://doaj.org/toc/2331-4141" target="_blank" style="display: block; width: 150px; height: auto;"><img src="https://doaj.org/static/doaj/images/logo/seal.png"/></a>
 
+{{< figure src="https://doaj.org/static/doaj/images/logo/seal.png" class="" link="https://doaj.org/toc/2331-4141" alt="Logo with text DOAJseal." title="" width="150" >}}
+
+<br /><br />
+
 {{< figure src="/img/blog/iq-a.jpg" class="wrap" alt="IASSIST Newsletter Cover May 1977" title="" height="150" >}}
 {{< figure src="/img/blog/iq-b.jpg" class="wrap" alt="IASSIST Quarterly Cover, first design Summer 1983" title="" height="150" >}}
 {{< figure src="/img/blog/iq-c.jpg" class="wrap" alt="IASSIST Quarterly Cover, second design, Spring 2000" title="" height="150" >}}
