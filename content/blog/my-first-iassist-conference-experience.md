@@ -4,7 +4,7 @@ title = "My First IASSIST Conference Experience "
 tags = [ "News and Announcements", "Community", "conferences", "IASSIST 2024", "collaboration", "Canada", "professional development", ]
 date = "2024-06-19 00:15:00 -0700"
 draft = "false"
-banner = "/img/blog/halifax2024-rl1.jpg"
+banner = "/img/blog/halifax2024-rl1-banner.jpg"
 +++
 As an early-career academic librarian, I was grateful and excited to attend the 49th Annual Conference of IASSIST. The conference took place in Halifax, Nova Scotia, Canada from May 28 – 31, 2024. This year, the conference theme was **Uncharted: Navigating the Future of Data**. 
 
