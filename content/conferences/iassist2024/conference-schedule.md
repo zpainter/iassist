@@ -11,14 +11,19 @@ type = "conference-2024"
 
 The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2024/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.
 
-<br />
-  <a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
   
 Please note the collection is still growing and presentations are still being added to the community.
 
-  <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
-<br />
+2nd IASSIST Africa Regional Workshop was arranged in Ibadan, Nigeria, October 4-7, 2022.
+
+<a class="btn btn-template-main" href="./iassist-africa-2022/">Africa Workshop</a> 
+
+IASSIST 2022 Conference was arranged as a hybrid event in Gothenburg, Sweden, June 7-10, 2022.
+
+<a class="btn btn-template-main" href="./iassist-sweden-2022/">IASSIST 2022, Sweden</a>
 
 Please note the collection is still growing and presentations are still being added to the community.
 
