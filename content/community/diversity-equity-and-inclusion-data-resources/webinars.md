@@ -5,10 +5,31 @@ draft: false
 ---
 ## Webinars and Essays
 
+- [Webinar: “Indigenous Data: A few perspectives” (May 16th, 2024)](/community/diversity-equity-and-inclusion-data-resources/webinars#may2024)
 - [Webinar: “Race & Ethnicity in Latin America” (February 8th, 2024)](/community/diversity-equity-and-inclusion-data-resources/webinars#feb2024)
 - [Webinar and essays on how different countries view race (November 30th, 2023)](/community/diversity-equity-and-inclusion-data-resources/webinars#nov2023)
 
 If you would like to contribute an essay or webinar for an additional country or region, please email the current [chairs of the interest group](/community/diversity-equity-and-inclusion-data-resources).
+
+</br></br>
+### Webinar: “Indigenous Data: A few perspectives” {#may2024}
+16 May 2024 05:00 PM-06:30 PM British Summer Time
+
+This webinar includes two presentations reflecting on issues Indigenous communities are currently facing, the first one presented by Dr. Diana Lewis and the second one presented by Dr Stacy Allison-Cassin and Camille Callison. Indigenous communities experience detrimental health impacts living near industrial development. Dr. Lewis develops Indigenous-led approaches to environmental health risk assessment, governance and data management. Currently Dr. Lewis is working on examining the health impacts of living near oil and gas extraction (Chipewyan, Cree and Métis) and a landfill site (Haudenosaunee), working with Athabasca Chipewyan and Mikisew Cree First Nations, Fort Chipewyan Métis Nation, and Oneida Nation of the Thames to co-develop environmental health frameworks to show how community-led, locally relevant and culturally safe governance frameworks and cultural protocols ensure the highest ethical standards are followed and promote community health decisions that respect Indigenous values and traditions and the OCAP principles for data management. The Respectful Terminology Platform Project (RTPP), an Indigenous-led initiative under the NIKLA-ANCLA umbrella, is led by RTPP Co-Principal Investigators Camille Callison (Tāłtān Nation, University of the Fraser Valley) and Dr. Stacy Allison-Cassin (Métis Nation of Ontario, Dalhousie University). The project is dedicated to advancing the development of a dynamic, multilingual platform for Indigenous terminology that can be used in libraries, archives, museums, and data systems worldwide.
+
+#### [Recording](https://www.youtube.com/watch?v=-wW5OjQw4L0) (1:24 h)
+> *Suggested Citation*: Lewis, D., Callison, C. & Allison-Cassin, S. (2024, May 16). Indigenous Data: A few perspectives. IASSIST Professional Development Webinar Series, Online. https://www.youtube.com/watch?v=-wW5OjQw4L0 <span class="fas fa-external-link-alt"></span>
+
+#### [Slides by Diana Lewis](https://doi.org/10.5281/zenodo.11457041)
+> *Suggested Citation*: Lewis, D. (2024, Mai 16). Respecting Indigenous Data Sovereignty. IASSIST Webinar Series, Online. Zenodo. https://doi.org/10.5281/zenodo.11457041 <span class="fas fa-external-link-alt"></span>
+
+#### [Slides by Camille Callison & Stacy Allison-Cassin](https://doi.org/10.5281/zenodo.11456881)
+> *Suggested Citation*: Callison, C., & Allison-Cassin, S. (2024, Mai 16). Respectful Terminology Platform Project and Indigenous data. IASSIST Webinar Series, Online. Zenodo. https://doi.org/10.5281/zenodo.11456881 <span class="fas fa-external-link-alt"></span>
+
+Presenters:
+- Diana Lewis - Sipekne’katik First Nation in Mi’kma’ki member, University of Guelph
+- Camille Callison - Tāłtān Nation member, University of the Fraser Valley (UFV) and University of Manitoba
+- Stacy Allison-Cassin - Métis Nation of Ontario member, Dalhousie University
 
 </br></br>
 ### Webinar: “Race & Ethnicity in Latin America” {#feb2024}
