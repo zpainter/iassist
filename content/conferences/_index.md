@@ -26,6 +26,12 @@ Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
 
 <a class="btn btn-template-main" href="./iassist2024/">IASSIST 2024 Conference website</a> 
 
+#### Africa Workshop
+
+4th IASSIST Africa Regional Workshop, Nairobi, Kenya, October 23-26, 2024.
+
+<a class="btn btn-template-main" href="./iassist-africa-2024/">To Africa Workshop</a>
+
 ### 2025 IASSIST Events
 
 #### Annual Conference
