@@ -12,23 +12,24 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 ### Webinar registrations
 
-> No webinar registrations open at the moment.
-
 <!--
-#### Indigenous Data: A few perspectives
+> No webinar registrations open at the moment.
+-->
 
-This webinar includes two presentations reflecting on issues Indigenous communities are currently facing, the first one presented by Dr. Diana Lewis and the second one presented by Dr Stacy Allison-Cassin and Camille Callison. Indigenous communities experience detrimental health impacts living near industrial development. Dr. Lewis develops Indigenous-led approaches to environmental health risk assessment, governance and data management. Currently Dr. Lewis is working on examining the health impacts of living near oil and gas extraction (Chipewyan, Cree and Métis) and a landfill site (Haudenosaunee), working with Athabasca Chipewyan and Mikisew Cree First Nations, Fort Chipewyan Métis Nation, and Oneida Nation of the Thames to co-develop environmental health frameworks to show how community-led, locally relevant and culturally safe governance frameworks and cultural protocols ensure the highest ethical standards are followed and promote community health decisions that respect Indigenous values and traditions and the OCAP principles for data management. The Respectful Terminology Platform Project (RTPP), an Indigenous-led initiative under the NIKLA-ANCLA umbrella, is led by RTPP Co-Principal Investigators Camille Callison (Tāłtān Nation, University of the Fraser Valley) and Dr. Stacy Allison-Cassin (Métis Nation of Ontario, Dalhousie University). The project is dedicated to advancing the development of a dynamic, multilingual platform for Indigenous terminology that can be used in libraries, archives, museums, and data systems worldwide.
+#### Getting Started with Data Services Guidelines
 
-**Diana Lewis** is an Assistant Professor...
+Does your library have public-facing guidelines to set patron expectations for non-curation data services? If the answer is “no” or “I’m not sure”, you’re not alone! This interactive webinar will build off a discussion on the IASSIST listserv about public-facing documentation that lays out specific data support services offered and sets patron expectations of data services. To set the stage, Vicky Rampin (NYU) will discuss the process around creating the NYU data services service guidelines, and Stephanie Labou (UC San Diego) will talk about how similar guidelines were adapted and implemented at the UC San Diego Library. Most of the webinar will be dedicated to sharing use cases and issues attendees would like boundaries around, as well as hands-on time to collaboratively draft guidelines and policies, or critically review local policies. Bring your guidelines if they exist, or pain points that you’d like to address in guidelines!
 
-**Stacy Allison-Cassin** is an Assistant Professor ...
+About our speakers: 
+**Vicky Rampin** is the Librarian for Research Data Management and Reproducibility and the subject specialist for data science and computer science at New York University. Vicky supports researchers of all levels and disciplines in creating well-managed, reproducible scholarship through instruction, consultations, outreach, and infrastructure building. 
 
-**Time:** Thursday, May 16, 2024, 12-1:30pm EDT/5-6:30pm BST
+**Stephanie Labou** is the Data Science Librarian at the University of California San Diego Library. She provides user assistance with datasets and data analysis through general reference, in-person consultations, and collection development of licensed and open access data. Stephanie also co-manages the library’s Data & GIS Lab, provides instruction and short-form workshops on coding skills and best practices, and acts as the library liaison for the data science major and the Halıcıoğlu Data Science Institute.
 
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZYod-mtrD0vHNLgiTF9fkTtZ2bpfKW35mXs#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+**Time:** July 10, 2024, 2:00pm EDT
+
+<a class="btn btn-template-main" href="https://shorturl.at/kJlhK" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 This webinar is brought to you by the  ASSIST DEI Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
--->
 
 ### Most recent webinar recordings
 
