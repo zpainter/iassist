@@ -1,7 +1,9 @@
 +++
 title = "4th IASSIST Africa Regional Workshop"
 draft = "false"
+banner = "/img/carousel/iassist-africa-workshop-flyer2024.jpg"
 +++
+
 {{< figure src="/img/carousel/iassist-africa-workshop-flyer2024.jpg" alt="IASSIST Africa Regional Workshop 2024 flyer" title="" width="700" >}}
 
 ## Transforming Africa Through Data: Innovations, Governance, and Sustainable Development
