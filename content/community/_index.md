@@ -40,7 +40,7 @@ Webinars are free to attend, usually open to non-members too, but a registration
 
 ## IASSIST on Social Media
 
-Follow our on the social media platforms of yoru choice. Twitter feed and check out our page on Facebook, and see some of us in action on Flickr. On YouTube you will find IASSIST all webinar recordings. 
+Follow our on the social media platforms of your choice. Twitter feed and check out our page on Facebook, and see some of us in action on Flickr. On YouTube you will find IASSIST all webinar recordings. 
 
 - [IASSIST on Facebook](https://www.facebook.com/iassistdata/)
 - [IASSIST on Linkedin](https://www.linkedin.com/company/iassistdata)
