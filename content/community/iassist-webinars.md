@@ -40,7 +40,7 @@ This webinar is brought to you by the  ASSIST DEI Data Resources Interest Group 
 
 #### Getting Started with Data Services Guidelines 
 
-Stephanie Labou, Vicky Rampin <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.1331539)
+Stephanie Labou, Vicky Rampin <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.13315139)
 
 {{< youtube jqNdslSIvXM >}}
 
@@ -56,7 +56,7 @@ Diana Lewis, Stacy Allison-Cassin, Camille Callison <br /> Webinar slides on Zen
 
 ### Older webinar recordings
 
-- [Using IPUMS International: A Focus on Race & Ethnicity in Latin America <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=g9ydnn0Q_FE) (Stephanie Labou, Vicky Rampin)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864))
+- [Using IPUMS International: A Focus on Race & Ethnicity in Latin America <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=g9ydnn0Q_FE) (Lara Cleveland, Rodrigo Lovatón)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864))
 
 - [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
 
