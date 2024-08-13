@@ -14,13 +14,34 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 > No webinar registrations open at the moment.
 
+<!--
 
+#### Getting Started with Data Services Guidelines
+
+Does your library have public-facing guidelines to set patron expectations for non-curation data services? If the answer is "no" or "I’m not sure", you’re not alone! This interactive webinar will build off a discussion on the IASSIST listserv about public-facing documentation that lays out specific data support services offered and sets patron expectations of data services. 
+
+To set the stage, Vicky Rampin (NYU) will discuss the process around creating the NYU data services service guidelines, and Stephanie Labou (UC San Diego) will talk about how similar guidelines were adapted and implemented at the UC San Diego Library. Most of the webinar will be dedicated to sharing use cases and issues attendees would like boundaries around, as well as hands-on time to collaboratively draft guidelines and policies, or critically review local policies. Bring your guidelines if they exist, or pain points that you’d like to address in guidelines!
+
+About our speakers: 
+
+**Vicky Rampin** is the Librarian for Research Data Management and Reproducibility and the subject specialist for data science and computer science at New York University. Vicky supports researchers of all levels and disciplines in creating well-managed, reproducible scholarship through instruction, consultations, outreach, and infrastructure building. 
+
+**Stephanie Labou** is the Data Science Librarian at the University of California San Diego Library. She provides user assistance with datasets and data analysis through general reference, in-person consultations, and collection development of licensed and open access data. Stephanie also co-manages the library’s Data & GIS Lab, provides instruction and short-form workshops on coding skills and best practices, and acts as the library liaison for the data science major and the Halıcıoğlu Data Science Institute.
+
+**Time:** July 10, 2024, 2:00pm EDT
+
+<a class="btn btn-template-main" href="https://shorturl.at/kJlhK" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+This webinar is brought to you by the  ASSIST DEI Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+
+-->
 
 ### Most recent webinar recordings
 
 #### Getting Started with Data Services Guidelines 
 
-Vicky Rampin, Stephanie Labou <br />
+Stephanie Labou, Vicky Rampin <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.1331539)
+
 {{< youtube jqNdslSIvXM >}}
 
 <br />
@@ -33,15 +54,9 @@ Diana Lewis, Stacy Allison-Cassin, Camille Callison <br /> Webinar slides on Zen
 
 <br />
 
-#### Using IPUMS International: A Focus on Race & Ethnicity in Latin America
-
-Lara Cleveland, Rodrigo Lovatón<br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864)
-
-{{< youtube g9ydnn0Q_FE >}}
-
-<br />
-
 ### Older webinar recordings
+
+- [Using IPUMS International: A Focus on Race & Ethnicity in Latin America <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=g9ydnn0Q_FE) (Stephanie Labou, Vicky Rampin)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864))
 
 - [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
 
