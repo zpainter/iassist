@@ -29,6 +29,18 @@ Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded ter
 
 It was the **Best. IASSIST. Ever.**
 
+Presentations are available as follows:
+
+<!--The [**conference archive**](/conferences/archive/2023-halifax/) with links to Zenodo and-->
+
+
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank">2024 Conference presentations (Zenodo) <span class="fas fa-external-link-alt"></span></a>
+
+The [**full program**](/conferences/iassist2024/conference-schedule/) abstracts are available on our site. Alternatively, you may search or browse directly in Zenodo too.
+
+None of the sessions were recorded.
+
 <!--
 ### Call for Submissions and Workshops
 

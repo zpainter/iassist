@@ -21,7 +21,7 @@ The theme of the conference was ***Diversity in Research: Social Justice from Da
 
 It was the **Best. IASSIST. Ever.**
 
-Presentations are available as follows (more to come):
+Presentations are available as follows:
 
 The [**conference archive**](/conferences/archive/2023-philadelphia/) with links to Zenodo and the [**full program**](/conferences/iassist2023/conference-schedule/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
 
