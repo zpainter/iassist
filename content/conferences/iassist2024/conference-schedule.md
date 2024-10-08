@@ -9,9 +9,9 @@ type = "conference-2024"
 
 ## Detailed conference schedule
 
-The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2024/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.
+The detailed schedule of the conference was available on Openconf, the conference management software used by IASSIST. <!--In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2024/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.--> A local copy of the program is available on IASSIST's website.
 
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist2024/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="/conferences/iassist2024/full-program/" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
   
 Please note the collection is still growing and presentations are still being added to the community.
 

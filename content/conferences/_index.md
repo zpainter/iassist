@@ -18,6 +18,14 @@ The annual conference is always an international event. Conference locations ref
 
 <div style="background-color:#eee;padding:.5em;">
 
+### 2025 IASSIST Events
+
+#### Annual Conference
+
+Bristol, England, UK, June 3 - June 6, 2025
+
+<a class="btn btn-template-main" href="./iassist2025/">IASSIST 2025 Conference website</a> 
+
 ### 2024 IASSIST Events
 
 #### Annual Conference
@@ -31,14 +39,6 @@ Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
 4th IASSIST Africa Regional Workshop, Nairobi, Kenya, October 23-26, 2024.
 
 <a class="btn btn-template-main" href="./iassist-africa-2024/">To Africa Workshop</a>
-
-### 2025 IASSIST Events
-
-#### Annual Conference
-
-Bristol, England, UK, June 3 - June 6, 2025
-
-<a class="btn btn-template-main" href="./iassist2025/">IASSIST 2025 Conference website</a> 
 
 </div>
 
