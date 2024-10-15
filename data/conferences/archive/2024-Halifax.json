@@ -1784,7 +1784,7 @@
       "presentations": [
         {
           "title": "Charting a course for open data literacy education",          "abstract": "This presentation shares a new model for developing open source data literacy lessons collaboratively. The Library Carpentry Curriculum Advisory Committee (LC-CAC) adopted a new lesson adoption policy in 2023 to encourage creating and broadening the scope of data literacy lessons in Library Carpentry. The policy leverages open-source frameworks for lesson development, such as the Carpentries Incubator (https:\/\/carpentries-incubator.org), along with open peer review via the Carpentries Lab (https:\/\/carpentries-lab.org), to support a variety of burgeoning data and information-science educational initiatives. While the traditional LC curriculum introduces tidy data concepts and tools such as Git, the Unix shell, and OpenRefine, early work using the new lesson adoption model has begun to integrate lessons on artificial intelligence, computational thinking, and data curation. LC-CAC has also partnered with UCLA to support the inclusion of materials developed under the IMLS-funded Lessons for Librarians in Open Science project (https:\/\/ucla-imls-open-sci.info). Six new lessons focused on topics such as data management, open qualitative research, open science hardware, and reproducible workflows are already being developed during year one of the two-year grant.",
-          "doi": "",
+          "doi": "10.5281/zenodo.11402645",
           "video": "",
           "presenters": [
             {
@@ -2950,7 +2950,7 @@
         {
           "title": "Workshop 3: Introduction to Data Analysis with Python",
           "abstract": "This six hour Python workshop uses hands-on coding to introduce programming for library and information workers with little or no previous programming experience. The lesson utilizes open datasets to model reproducible workflows for data analysis, with a focus on helping learners apply and work with fundamental Python concepts such as data types, functions, loops, and libraries. The open-source Library Carpentry Python lesson that we’ll use to teach this workshop is currently undergoing a major redesign, and will use the JupyterLab environment along with Pandas dataframes to explore and generate descriptive statistics from a quantitative dataset of library usage data. The workshop provides a basic introduction for those working with metadata, citations, and quantitative data, and serves as a great first step for folks hoping to continue to build skills to access, clean, analyze, and visualize data with Python.",
-          "doi": "10.5281/zenodo.11402645",
+          "doi": "",
           "video": "",
           "presenters": [
             {
