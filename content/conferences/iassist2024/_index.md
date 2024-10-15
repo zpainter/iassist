@@ -25,19 +25,15 @@ Held with [CARTO <i class="fas fa-external-link-alt"></i>](https://acmla-acacc.c
  
 Halifax, also called Kjipuktuk (ji-buk-tuk), is in the ancestral and unceded territory of the Mi’kmaq People. It is covered by the Treaties of Peace and Friendship, first signed in 1726, which established rules for an ongoing relationship between nations. The people of the Mi’kmaw Nation have lived on this territory for millennia, and we acknowledge them as the past, present, and future caretakers of this land.
 
-### Welcome to Halifax!
+### Thank you for joining us in Halifax!
 
 It was the **Best. IASSIST. Ever.**
 
 Presentations are available as follows:
 
-<!--The [**conference archive**](/conferences/archive/2023-halifax/) with links to Zenodo and-->
-
-
+The [**conference archive**](/conferences/archive/2024-halifax/) with links to Zenodo and the [**full program**](/conferences/iassist2024/full-program/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank">2024 Conference presentations (Zenodo) <span class="fas fa-external-link-alt"></span></a>
-
-The [**full program**](/conferences/iassist2024/conference-schedule/) abstracts are available on our site. Alternatively, you may search or browse directly in Zenodo too.
 
 None of the sessions were recorded.
 

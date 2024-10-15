@@ -17,6 +17,8 @@ Please note the collection is still growing and presentations are still being ad
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2024/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
+Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2024-halifax/).
+
 <br />
 
 ## Conference schedule at a glance
