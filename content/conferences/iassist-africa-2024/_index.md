@@ -4,7 +4,7 @@ draft = "false"
 banner = "/img/carousel/iassist-africa-workshop-flyer2024.jpg"
 +++
 
-{{< figure src="/img/carousel/iassist-africa-workshop-flyer2024.jpg" alt="IASSIST Africa Regional Workshop 2024 flyer" title="" width="700" >}}
+{{< figure src="/img/conferences/iassist-africa-workshop-flyer2024-800-2.jpg" alt="IASSIST Africa Regional Workshop 2024 flyer" title="" width="700" >}}
 
 ## Transforming Africa Through Data: Innovations, Governance, and Sustainable Development
 
@@ -16,7 +16,7 @@ Host institution: IASSIST Africa, in collaboration with the Parliament of Kenya
 
 #### More information
 
-<a class="btn btn-template-main" href="http://iassistafrica.org/" target="_blank" title="Opens to a new tab">Visit the Workshop website</a>
+<a class="btn btn-template-main" href="http://iassistafrica.org/?page_id=541" target="_blank" title="Opens to a new tab">Visit the Workshop website</a>
 
 Questions about the presentation submissions may be sent to the Program Chairs at programme ( at ) iassistafrica.org.
 

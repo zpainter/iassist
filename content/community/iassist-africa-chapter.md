@@ -15,10 +15,14 @@ IASSIST Africa collaborates with various academic and information institutions t
 
 ### Events
 
+- [4th IASSIST Africa Regional Workshop](/conferences/iassist-africa-2024) Nairobi, Kenya, October 23-26, 2024
 - [3rd IASSIST Africa Regional Workshop](/conferences/iassist-africa-2023) Pretoria, South Africa, October 18-20, 2023
 - [2nd IASSIST Africa Regional Workshop](/conferences/iassist-africa-2022) Ibadan, Nigeria, October 4-7, 2022
 - [1st IASSIST Africa Regional Workshop](/conferences/iassist-africa-2021) Kampala, Uganda, January 11-13, 2021 
 
+{{< figure src="/img/conferences/iassist-africa-workshop-flyer2024-800-2.jpg" alt="IASSIST Africa Regional Workshop 2024 flyer" title="" width="400" >}}
+
 ### Contact
 
 IASSIST Africa can be contacted via the Secretariat, secretariat (at) iassistafrica.org
+
