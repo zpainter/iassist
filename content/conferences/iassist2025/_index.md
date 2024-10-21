@@ -26,14 +26,14 @@ IASSIST 2025 would love for you to join us in Bristol, United Kingdom, for its g
 
 IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
 
-The Call for proposals will be coming out in early November. Stay tuned!
+The **Call for proposals** will be coming out in early November. Stay tuned!
 
 See you in Bristol! It will be the **Best. IASSIST. Ever.**
 
 IASSIST 2025 Program Committee: programme@lists.iassistdata.org
 : Michael Beckstrand, mjbeckst ( at ) umn.edu
 : Jane Fry, jane.fry ( at ) carleton.ca
-: Oliver Wattler, oliver.watteler ( at ) gesis.org
+: Oliver Watteler, oliver.watteler ( at ) gesis.org
 
 ### Conference info
 
