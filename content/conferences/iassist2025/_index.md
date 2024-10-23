@@ -4,11 +4,11 @@ draft = "false"
 title = "IASSIST 2025 - Main Page"
 location = "Bristol, UK"
 datalink = "/data/conferences/archive/2025-Bristol.json"
-banner = "/img/conferences/annual/bristol2025-placeholder-socialmedia.jpg"
+banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 
-{{< figure src="/img/conferences/annual/bristol2025-placeholder-socialmedia.jpg" alt="logo, iassist." title="" width="800" >}}
+{{< figure src="/img/conferences/annual/bristol2025-socialmedia.jpg" alt="logo, iassist." title="" width="800" >}}
 
 ## 50th Annual Conference of IASSIST
 
