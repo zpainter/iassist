@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo"
 
 [context.production.environment]
-HUGO_VERSION = "v0.105.0"
+HUGO_VERSION = "v0.136.5"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -11,13 +11,13 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "v0.105.0"
+HUGO_VERSION = "v0.136.5"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "v0.105.0"
+HUGO_VERSION = "v0.136.5"
 
 [[redirects]]
 from = "https://iassistdata.org/conferences/archive/2018/*"
@@ -27,4 +27,9 @@ status = 301
 [[redirects]]
 from = "https://iassistdata.org/conferences/archive/2019/*"
 to = "https://iassistdata.org/conferences/archive/2019-sydney/"
+status = 301
+
+[[redirects]]
+from = "https://iassistdata.org/blog/defining-data-librarian-call-comments"
+to = "https://iassistdata.org/blog/2006/06/12/defining-data-librarian-call-comments/"
 status = 301
