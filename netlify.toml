@@ -29,7 +29,4 @@ from = "https://iassistdata.org/conferences/archive/2019/*"
 to = "https://iassistdata.org/conferences/archive/2019-sydney/"
 status = 301
 
-[[redirects]]
-from = "https://iassistdata.org/blog/defining-data-librarian-call-comments"
-to = "https://iassistdata.org/blog/2006/06/12/defining-data-librarian-call-comments/"
-status = 301
+
