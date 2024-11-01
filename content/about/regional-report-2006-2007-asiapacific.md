@@ -1,7 +1,7 @@
 +++
 title = "Regional Report 2006-2007 Asia/Pacific"
 draft = "false"
-date = "2007-05"
+date = "2007-05-01"
 author = "Sophie Holloway"
 +++
 **IASSIST Regional Report 2006-07<br />Asia/Pacific**

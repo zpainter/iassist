@@ -1,7 +1,7 @@
 +++
 title = "Regional Report 2004-2005 Canada"
 draft = "false"
-date = "2005-05"
+date = "2005-05-01"
 author = "Bo Wandschneider"
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Regional Report 1996-1997 Canada"
 draft = "false"
-date = "1997-05"
+date = "1997-05-01"
 author = "Wendy Watkins"
 +++
 
