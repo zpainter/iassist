@@ -41,7 +41,7 @@ This webinar is brought to you by the IASSIST DEI Data Resources Interest Group 
 
 #### Incorporating Data Quality into your teaching and research consultations
 
-Grace Liu, Bobray Bordelon, Jennifer C. Boettcher, Rashelle Nagar 
+Grace Liu, Bobray Bordelon, Jennifer C. Boettcher, Rashelle Nagar <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14054502)
 
 {{< youtube vaXbJ9dPoNQ >}}
 
