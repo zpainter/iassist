@@ -4,7 +4,7 @@ draft = "false"
 title = "IASSIST 2025 - Call for Proposals"
 location = "Bristol, UK"
 datalink = "/data/conferences/archive/2025-Bristol.json"
-banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
+banner = "/img/conferences/annual/bristol2025-socialmedia-call-for-papers.jpg"
 type = "conference-2025"
 +++
 ## IASSIST at 50! Bridging oceans, harbouring data & anchoring the future
