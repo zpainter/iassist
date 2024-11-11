@@ -15,7 +15,9 @@ IASSIST 2025 invites you to join us in Bristol, United Kingdom, for its golden a
 
 Visit lively, yet laid-back, Bristol and find a city full of character, centuries-old heritage, and an irrepressible creative zeal. Enveloped in the hills of South West England, Bristol is a city full of unique experiences, from year-round festivals, award-winning cycle tracks, and gastronomy of every flavour, to first-class arts venues, and awe-inspiring street art.
 
-The conference will be held in-person, centring around networking opportunities and interactions. We welcome submissions for papers, presentations, posters, demonstrations, workshops, and lightning talks that embrace our conference theme, **Bridging oceans, harbouring data & anchoring the future**. We are seeking out information on: the connections created by data and data services professionals and enthusiasts; the wealth of knowledge in the community; the context of our profession today; and good data practice in the future. Possible topics include (but are not limited to): 
+The conference will be held in-person, centring around networking opportunities and interactions. We welcome submissions for papers, presentations, posters, demonstrations, workshops, and lightning talks that embrace our conference theme, **Bridging oceans, harbouring data & anchoring the future**. We are seeking out information on: the connections created by data and data services professionals and enthusiasts; the wealth of knowledge in the community; the context of our profession today; and good data practice in the future.
+
+Possible topics include (but are not limited to): 
 
 - Environmental impact and sustainability
 - Artificial Intelligence 
