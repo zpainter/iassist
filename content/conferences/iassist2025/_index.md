@@ -28,7 +28,7 @@ IASSIST (International Association for Social Science Information Services and T
 
 ### Call for Submissions and Workshops
 
-**[Submit](./call-for-submissions/)** your workshop, session, paper or poster proposal. Join us and submit by the deadline December 13, 2024.
+**[Submit](./call-for-proposals/)** your workshop, session, paper or poster proposal. Join us and submit by the deadline December 13, 2024.
 
 <!--
 **Submissions are now closed.**
