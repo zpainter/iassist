@@ -19,9 +19,9 @@ Frequently asked questions related to the Conference are answered here.
 
 The conference will take place at Bristol, UK from June 3-6, 2025. Workshops will be held on the [University West of England Bristol campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml).
 
-### How to get to the Bristol downtown / Hotel / from the nearest airports?
+### How to get to the Bristol downtown / hotel / from the nearest airports?
 
-TBA
+See [Travelling to Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/) by Visit Bristol.
 
 ### Where will the workshops take place?
 
@@ -29,7 +29,7 @@ Workshops will be held on the [University West of England Bristol campus <span c
 
 ### Will there be an option for virtual attendance?
 
-TBA
+The conference will be held in-person in Bristol, UK.
 
 ### What is the registration fee?
 
@@ -71,7 +71,8 @@ TBA
 
 ### How do I add my presentation to the conference archive? 
 
-TBA 
+Detailed instructions will be provided later. All presenters are asked to upload their presentation files to IASSIST 2025 conference community on Zenodo, or ask the the IASSIST Communications team to do it for them. 
+
 <!--
 All presenters are encouraged to upload a copy of their presentation to the IASSIST 2024 Zenodo Conference Community by following these steps:
 
@@ -118,5 +119,5 @@ Please follow IASSIST's social media accounts:
 - [Linkedin <span class="fas fa-external-link-alt"></span>](https://www.linkedin.com/company/iassistdata)
 - [Bluesky <span class="fas fa-external-link-alt"></span>](https://bsky.app/profile/iassistdata.bsky.social)
 - [Mastodon <span class="fas fa-external-link-alt"></span>](https://mastodon.social/@iassistdata)
-- [Twitter <span class="fas fa-external-link-alt"></span>](https://twitter.com/iassistdata)
+- [Twitter <span class="fas fa-external-link-alt"></span>](https://twitter.com/iassistdata) (only major updates)
 - [YouTube <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
