@@ -21,7 +21,7 @@ The conference will take place at Bristol, UK from June 3-6, 2025. Workshops wil
 
 ### How to get to the Bristol downtown / hotel / from the nearest airports?
 
-See [Travelling to Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/) by Visit Bristol.
+Bristol International [Airport Flyer <span class="fas fa-external-link-alt"></span>]https://www.bristolairport.co.uk/to-and-from-the-airport/) bus service makes it quick and easy to travel between the airport and Bristol. A bus or train ride from Heathrow Airport to Bristol takes about 2 h 15 minutes to 2 h 50 minutes. See also [Travelling to Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/) by Visit Bristol.
 
 ### Where will the workshops take place?
 
@@ -59,7 +59,7 @@ TBA
 
 ### How do I get around in Bristol?
 
-TBA
+See [A guide to taking the bus in Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/blog/post/a-guide-to-taking-the-bus-in-bristol/) by Visit Bristol. The best way to buy your bus tickets is via the First Bus app. For train travellers the [PlusBus <span class="fas fa-external-link-alt"></span>](https://www.gwr.com/your-tickets/ways-to-save/combined-train-and-bus-tickets) is a discounted bus pass that you can buy with your train ticket.
 
 ### When will the registration desk be available on site to pick up my badge?
 
