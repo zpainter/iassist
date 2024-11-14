@@ -18,8 +18,6 @@ type = "conference-2025"
 
 **Host institution:** University West of England
 
-**<span style="background:pink;padding:.5em;border-radius:15px;">Save the date!</span>**
-
 **IASSIST at 50! Bridging oceans, harbouring data & anchoring the future**
 
 IASSIST 2025 would love for you to join us in Bristol, United Kingdom, for its golden anniversary conference from June 3 to June 6, 2025, to engage in the past, present, and future of data services, including data management and technologies. 
@@ -45,7 +43,12 @@ IASSIST 2025 Program Committee: programme@lists.iassistdata.org
 
 Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml) in the historic city centre.
 
+<!--
+**<span style="background:pink;padding:.5em;border-radius:15px;">Save the date!</span>**
+-->
+<!--
 We look forward to meeting in England, UK next June for the first time since the 1975 IASSIST Organising Committee Meeting took place at the London School of Economics 50 years earlier in [1975](https://iassistdata.org/conferences/1974-1999-conferences). 
+-->
 
 <br />
 
