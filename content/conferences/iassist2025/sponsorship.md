@@ -14,9 +14,9 @@ type = "conference-2025"
 
 Our sponsorship brochure talks more about this year's sponsorship packages, and why become a sponsor.
 
-For more information contact us lac  ( at ) lists.iassistdata.org
+For more information contact us: lac  ( at ) lists.iassistdata.org
 
-**&raquo; [IASSIST sponsorship packages [PDF]](/file/conferences/iassist-carto-2025-sponsorship-package.pdf)**
+**&raquo; [IASSIST 2025 sponsorship packages [PDF]](/file/conferences/iassist-carto-2025-sponsorship-package.pdf)**
 
 ### Sponsorship tiers in brief
 
@@ -37,8 +37,7 @@ Platinum level benefits (£8,000 GBP)
 Gold level benefits (£5,000 GBP)
 : Exhibit Table
 : Sponsor Logo on website
-: Demo space during
-: Poster Session
+: Demo space during Poster Session
 : Two conference registrations
 
 #### Silver
