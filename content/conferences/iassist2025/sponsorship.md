@@ -10,13 +10,13 @@ type = "conference-2025"
 
 **We are grateful for our sponsors and want to thank our previous sponsors!**
 
-## Become a Sponsor - Sponsorship 2024 Details
+## Become a Sponsor - Sponsorship 2025 Details
 
 Our sponsorship brochure talks more about this year's sponsorship packages, and why become a sponsor.
 
 For more information contact us lac  ( at ) lists.iassistdata.org
 
-**&raquo; [IASSIST & CARTO sponsorship packages [PDF]](/file/conferences/iassist-carto-2025-sponsorship-package.pdf)**
+**&raquo; [IASSIST sponsorship packages [PDF]](/file/conferences/iassist-carto-2025-sponsorship-package.pdf)**
 
 ### Sponsorship tiers in brief
 
