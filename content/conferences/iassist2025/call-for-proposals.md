@@ -44,7 +44,7 @@ Decisions regarding submissions will be sent out by email mid-February 2025.
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/openconf.php" target="_blank">Submit your proposal <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
-Questions about presentation submissions may be sent to the Program Co-Chairs (Michael Beckstrand, Jane Fry, and Oliver Watteler) at *programme.lists ( at ) iassistdata.org*. 
+Questions about presentation submissions may be sent to the Program Co-Chairs (Michael Beckstrand, Jane Fry, and Oliver Watteler) at *programme ( at ) lists.iassistdata.org*. 
 
 ## Support for Attending the Conference 
 
