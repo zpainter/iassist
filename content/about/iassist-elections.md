@@ -35,11 +35,11 @@ The formal responsibilities of all elected IASSIST officers are described in Art
 
 <!--To nominate a candidate, or ask--> 
 Any questions about the Election or nominations
-: Please contact Elections Committee Chair San Cannon, sancan99(at) gmail.com.
+: Please contact Elections Committee Chair San Cannon, sancan99 (at) gmail.com.
 
 ## IASSIST Election 2023 - Results
 
-IASSIST recently conducted its election of officers and additional members of the Administrative Committee, with elected individuals taking up office at the IASSIST General Assembly in June 2023. Newly elected officials are listed below. Congratulations to all.
+<!--IASSIST recently conducted its election of officers and additional members of the Administrative Committee, with--> The following elected individuals <!--taking--> took up office at the IASSIST General Assembly in June 2023. <!--Newly elected officials are listed below.--> Congratulations to all.
 
 |Post (term of office)|Name of Incumbent|
 |:---|---:|
