@@ -10,13 +10,13 @@ draft = "false"
 Every two years IASSIST conducts an election of officers in each active geographic region. The Administrative Committee is the executive body of IASSIST. Terms in office are two or four years depending on the position. The number of vacant seats and positions up for election depend on the rotation. In addition to the President and Vice-President, the Treasurer, the Secretary, and the Regional Secretaries there are elected Members at Large who reflect the geographic distribution of the membership.
 
 <!--
-**2023 is an election year for IASSIST.** 
+**2025 is an election year for IASSIST.** 
 
-Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2022-2023). Nominations period will end on March 3, 2023 and the Election will open on March 30, 2023. Members will receive a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).
+Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2025-2025). Nominations period will end on March DD, 2023 and the Election will open on March DD 2025. Members will receive a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).
 
-Membership dues must be paid by March 3 (candidates) or March 27 (to vote). 
+Membership dues must be paid by March DD (candidates) or March DD (to vote). 
 
-The newly elected candidates will take office at the 2023 General Assembly, which will be held June 1, 2023.
+The newly elected candidates will take office at the 2025 General Assembly, which will be held June 2025.
 
 The following 14 positions will be included in the election:
 
@@ -30,12 +30,12 @@ The following 14 positions will be included in the election:
 The formal responsibilities of all elected IASSIST officers are described in Article XII of the IASSIST Constitution.
 
 <!--
-<a class="btn btn-template-main" href="/about/2023-election-bios/" >Slate of 2023 candidates and their biographies</a> <br /><br />
+<a class="btn btn-template-main" href="/about/2025-election-bios/" >Slate of 2025 candidates and their biographies</a> <br /><br />
 -->
 
 <!--To nominate a candidate, or ask--> 
 Any questions about the Election or nominations
-: Please contact Elections Committee Chair Tuomas J. Alaterä, tuomas.alatera (at) tuni.fi.
+: Please contact Elections Committee Chair San Cannon, sancan99(at) gmail.com.
 
 ## IASSIST Election 2023 - Results
 
