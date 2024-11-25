@@ -4,7 +4,7 @@ draft = "false"
 +++
 ## IASSIST Annual Conference and Regional Events
 
-Each May/June the annual conference provides data professionals a variety of opportunities to participate in discussions about data sharing and management, data access and repository tools, metadata for research data, best practices for preserving data, global resources for information, new technologies professional development and much more. 
+Each May/June the annual conference provides data professionals a variety of opportunities to participate in discussions about data sharing and management, data access and repository tools, metadata for research data, best practices for preserving data, global resources for information, new technologies, professional development and much more. 
 
 The conference consists of workshops focused on the profession, stimulating plenaries, panel discussions, individual presentations, and posters. Networking opportunities with peers from around the world take place in breakout groups, interest group or birds of a feather sessions, and perhaps most importantly, during the breaks. 
 
