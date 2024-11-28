@@ -60,27 +60,31 @@ Questions about presentation submissions may be sent to the Program Co-Chairs (M
 
 For information about traveling to Bristol, check out the conference website.
 
-
-<!--
 ## Presentation Formats
 
 The Program Committee welcomes proposals for the following formats:
 
-**Workshops**
-Successful workshop proposals will blend lecture and active learning techniques. Typically workshops are half-day with 2-hour and 3-hour options. Workshops will be held on May 28, 2024. 
+**Individual Presentation:** Typically this format is a 15-minute talk. It can be accompanied by a written paper but it is not required. If your individual proposal is accepted, you will be grouped into an appropriate session with similar presentations.
 
-**Individual Presentation** This format is a 15-minute talk. If your individual proposal is accepted, you will be grouped into an appropriate session with similar presentations.
+**Panel:** You may propose an entire session (90-120 minutes) with a minimum of three speakers to “deep dive “into a specific resource or concept. The session proposal can take a variety of forms, e.g., a set of three to four presentations, a discussion panel, a tutorial (with less substance than a pre-conference workshop), a discussion with the audience, etc. If accepted, the person who proposed the session becomes the session organizer, and is responsible for securing speakers and a Chair. Please note: the names of all speakers and the moderator must be included in the proposal.
 
-**Paper** This format is a 15-minute talk. Presenters are required to submit an original research paper in advance of the conference and present and discuss its findings at the conference as an Individual Presentation. We will select submissions based on proposals, and the authors of accepted proposals are required to submit their final and complete papers by April 2023. All papers will be eligible for publication consideration in an edition of IASSIST Quarterly. In addition, one paper will be selected as best paper with a prize of one free registration for a future IASSIST conference.
+**Posters or Demonstration:** Proposals in this category should identify the message being conveyed in the poster or the demonstration.
 
-**Posters or Demonstration** This format is most useful for one-on-one discussions about your research topic or tool demonstration. Proposals in this category should identify the message being conveyed in the poster or the demonstration.
+**Workshops:** Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide the necessary classroom space and, depending on need and availability, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Typically workshops are half-day with 2-hour and 3-hour options.
 
-**Lightning Talks** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and speakers are restricted to 5 minutes total. Presentations should have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations.
+PLEASE note that all workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
 
-**Panel** You may propose an entire session (60 minutes) with a minimum of three speakers to "deep dive "into a specific resource or concept. The session proposal can take a variety of forms, e.g., a set of three to four presentations, a discussion panel, a tutorial (with less substance than a pre-conference workshop), a discussion with the audience, etc. If accepted, the person who proposed the session becomes the session organizer and is responsible for securing speakers and a chair. Please note: the names of all speakers and the moderator must be included in the proposal.
+**Lightning Talks:** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and speakers are restricted to 5 minutes total. Presentations should have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations.
 
-NOTE: When submitting you will be required to select one of the proposal formats above, but it is possible that your submission may be accepted on the condition of adapting it to another format (e.g., an individual presentation proposal might be accepted if you are willing to adapt it to a poster or a Lightning Talk). If this is the case, you will be given the choice to accept this format change or to decline being in the conference program when notified of its acceptance.
--->
+**Other Formats:** Session formats are not limited to the ideas above; session organizers are welcome to suggest other formats. We will consider interactive formats that encourage audience participation.
+
+**NOTE:** When submitting you will be required to select one of the proposal formats above, but it is possible that your submission may be accepted on the condition of adapting it to another format (e.g., an individual presentation proposal might be accepted if you are willing to adapt it to a poster or a Lightning Talk). If this is the case, you will be given the choice to accept this format change or to decline being in the conference program when notified of its acceptance.
+
+### Submitting a Presentation Proposal
+
+Please use the online submission form above to submit your presentation proposal.
+
+All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. **NOTE:** Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can’t understand what a proposal is about, it will be rejected.
 
 ## About IASSIST 
 
