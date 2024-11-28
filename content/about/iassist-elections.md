@@ -9,13 +9,12 @@ draft = "false"
 +++
 Every two years IASSIST conducts an election of officers in each active geographic region. The Administrative Committee is the executive body of IASSIST. Terms in office are two or four years depending on the position. The number of vacant seats and positions up for election depend on the rotation. In addition to the President and Vice-President, the Treasurer, the Secretary, and the Regional Secretaries there are elected Members at Large who reflect the geographic distribution of the membership.
 
-<!--
 **2025 is an election year for IASSIST.** 
 
-Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2025-2025). Nominations period will end on March DD, 2023 and the Election will open on March DD 2025. Members will receive a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).
+Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2024-2025). Nominations period will be open from December 1 through the end of January 2025. The election will be held in late March 2025. Members will receive a link to the ballot by email to their email address registered with the membership. <!--Candidate bios are made available before the voting begins (see below).
 
 Membership dues must be paid by March DD (candidates) or March DD (to vote). 
-
+-->
 The newly elected candidates will take office at the 2025 General Assembly, which will be held June 2025.
 
 The following 14 positions will be included in the election:
