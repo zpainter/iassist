@@ -15,6 +15,7 @@ Any IASSIST member may nominate an individual for an elected position. To stand 
 
 Membership dues must be paid by March DD (candidates) or March DD (to vote). 
 -->
+
 The newly elected candidates will take office at the 2025 General Assembly, which will be held June 2025.
 
 The following 14 positions will be included in the election:
@@ -23,8 +24,7 @@ The following 14 positions will be included in the election:
 - Vice President (two-year term)
 - Secretary (four-year term)
 - Regional Secretaries for Africa, Asia/Pacific, Canada, Europe, and USA (two-year terms)
-- Member at large (four-year terms): Canada (1), Europe (2), USA (3 seats)
--->
+- Member at large (four-year terms): Canada (1 seat), Europe (2 seats), USA (3 seats)
 
 The formal responsibilities of all elected IASSIST officers are described in Article XII of the IASSIST Constitution.
 
