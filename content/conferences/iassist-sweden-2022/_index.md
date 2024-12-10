@@ -29,8 +29,6 @@ Thank you for attending.
 
 <a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iSmUFsNkyevdZSSqF2AKjSA" target="_blank">2022 Conference recordings (YouTube) <i class="fas fa-external-link-alt"></i></a>
 
-<a class="btn btn-template-main" href="https://iassist2022.org/" target="_blank">Visit the Conference website <i class="fas fa-external-link-alt"></i></a>
-
 <br />
 
 #### Programme Chairs
