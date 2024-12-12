@@ -11,14 +11,15 @@ Every two years IASSIST conducts an election of officers in each active geograph
 
 **2025 is an election year for IASSIST.** 
 
-Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2024-2025). Nominations period will be open from December 1 through the end of January 2025. The election will be held in late March 2025. Members will receive a link to the ballot by email to their email address registered with the membership. <!--Candidate bios are made available before the voting begins (see below).
+Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, you must be a member in good standing (dues paid for the membership year 2024-2025). Nominations period will be open from December 1 through the end of January 2025. The election will be held in late March 2025. Members will receive a link to the ballot by email to their email address registered with the membership. <!-- Candidate bios are made available before the voting begins (see below).-->
 
+<!--
 Membership dues must be paid by March DD (candidates) or March DD (to vote). 
 -->
 
 The newly elected candidates will take office at the 2025 General Assembly, which will be held June 2025.
 
-The following 14 positions will be included in the election:
+**The following 14 positions will be included in the election:**
 
 - President (two-year term)
 - Vice President (two-year term)
