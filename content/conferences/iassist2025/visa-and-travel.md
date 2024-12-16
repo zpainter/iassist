@@ -11,9 +11,9 @@ The information below is intended as a starting point and travellers should alwa
 
 **For more information about getting to Bristol go to the [Visit Bristol information page <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/).**
 
-You may need a [visa <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/apply-to-come-to-the-uk) or an [electronic travel authorisation (ETA) <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) to enter the UK. The type of the visa you need may depend on where you come from, your reason to enter the UK, the lenght of your visit, and your personal circumstances. Pay close attention to what type of a visa you need and remember that your application must be approved before you travel. Requirements for ETA will apply on or after April 2, 2025.
+You may need a [visa <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/apply-to-come-to-the-uk) or an [Electronic Travel Authorisation (ETA) <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) to enter the UK. The type of visa you need may depend on where you come from, your reason for entering the UK, the length of your visit, and your personal circumstances. Pay close attention to what type of a visa you need and remember that your application must be approved before you travel. Requirement for an ETA will apply on or after April 2, 2025.
 
-**To find out if you need a visa/ETA, see [check if you need a UK visa by GOV.UK <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/check-uk-visa)**
+**To find out if you need a visa or ETA, see the [Check if you need a UK visa <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/check-uk-visa) page on GOV.UK.**
 
 ## Guide to getting to Bristol
 
