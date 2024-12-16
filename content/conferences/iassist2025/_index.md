@@ -26,11 +26,12 @@ IASSIST (International Association for Social Science Information Services and T
 
 ### Call for Submissions and Workshops
 
-**[Submit](./call-for-proposals/)** your workshop, session, paper, or poster proposal now. The deadline is December 13, 2024.
-
 <!--
-**Submissions are now closed.**
+**[Submit](./call-for-proposals/)** your workshop, session, paper, or poster proposal now. The deadline is December 13, 2024.
 -->
+
+Submissions are now closed.
+: Thank you for your submissions. Decisions regarding submissions will be sent out by email mid-February 2025.
 
 See you in Bristol! It will be the **Best. IASSIST. Ever.**
 

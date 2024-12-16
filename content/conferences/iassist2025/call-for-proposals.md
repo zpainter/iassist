@@ -34,14 +34,14 @@ Possible topics include (but are not limited to):
 
 Have you ever considered submitting a poster? Do you have a new idea you would like feedback on? Would you like to showcase a new service or resource? We will be holding a **Poster Reception** to encourage conversations, sharing of ideas, and community building, while engaging with these visually dynamic posters. 
 
-**The deadline for submissions is Friday December 13, 2024.**
-
 We request that submitters limit themselves to one proposal per format type.
+
+**The Call for Proposals is now closed. The deadline for submissions was Friday December 13, 2024.**
 
 Decisions regarding submissions will be sent out by email mid-February 2025.
 
 <br />
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/openconf.php" target="_blank">Submit your proposal <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/openconf.php" target="_blank">Review your submissions <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
 See below for more information about different presentation formats. Questions about presentation submissions may be sent to the Program Co-Chairs (Michael Beckstrand, Jane Fry, and Oliver Watteler) at *programme ( at ) lists.iassistdata.org*. 
