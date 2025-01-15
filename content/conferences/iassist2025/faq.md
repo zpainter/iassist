@@ -21,7 +21,7 @@ The conference will take place at Bristol, UK from June 3-6, 2025. Workshops wil
 
 ### How to get to the Bristol downtown / hotel / from the nearest airports?
 
-Bristol International [Airport Flyer <span class="fas fa-external-link-alt"></span>]https://www.bristolairport.co.uk/to-and-from-the-airport/) bus service makes it quick and easy to travel between the airport and Bristol. A bus or train ride from Heathrow Airport to Bristol takes about 2 h 15 minutes to 2 h 50 minutes. See also [Travelling to Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/) by Visit Bristol.
+Bristol International [Airport Flyer <span class="fas fa-external-link-alt"></span>](https://www.bristolairport.co.uk/to-and-from-the-airport/) bus service makes it quick and easy to travel between the airport and Bristol. A bus or train ride from Heathrow Airport to Bristol takes about 2 h 15 minutes to 2 h 50 minutes. See also [Travelling to Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/) by Visit Bristol.
 
 ### Where will the workshops take place?
 
@@ -89,6 +89,9 @@ TBA
 ### What are the requirements to obtain a UK Visa? 
 
 See https://www.gov.uk/apply-to-come-to-the-uk
+
+Please note that even if you don't need a visa, you may need to get an electronic travel authorisation (ETA).
+
 <!--See [Visa and Travel page](/conferences/iassist2025/visa-and-travel/).-->
 
 ### What is the hotel cost? How do I make hotel reservations? 
@@ -104,7 +107,7 @@ TBA
 
 ### Are major Credit Cards accepted everywhere? 
 
-TBA
+Most major credit card are accepted, but smaller stores may only accept Visa and Mastercard. 
 
 ### How can I receive regular updates about the conference? 
 
