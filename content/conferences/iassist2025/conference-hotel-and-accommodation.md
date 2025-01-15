@@ -9,7 +9,7 @@ type = "conference-2025"
 
 We encourage conference participants to book a room at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml), where the conference will also be held.
 
-**Important:** This preferential rate cannot be booked through a third-party agent. Rooms must be booked directly with the hotel using the contact details above.
+**Important:** This preferential rate cannot be booked through a third-party agent. Rooms must be booked directly with the hotel using the contact details below.
 
 ### Reservations
 
@@ -27,11 +27,11 @@ The preferential rate is available for stays from the weekend before the confere
 
 **Confirmation and payment:** When booking with the conference venue they charge upon arrival and not in advance.
 
-Room Requirements:
-: Double Room: In the UK, hotel rooms listed as "double" typically mean the room contains one double-sized bed.
-: Twin Room: If you are booking a room for double occupancy but do not wish to share a bed, you should request a twin room. A twin room typically has two single beds, not two double beds.
+**Room Requirements:**
 
-**Important:** These room types may differ from what is commonly expected in North American hotels, where double-occupancy rooms often have two separate double beds.
+- Double Room: In the UK, hotel rooms listed as "double" typically mean the room contains one double-sized bed.
+- Twin Room: If you are booking a room for double occupancy but do not wish to share a bed, you should request a twin room. A twin room typically has two single beds, not two double beds.
+- **Important:** These room types may differ from what is commonly expected in North American hotels, where double-occupancy rooms often have two separate double beds.
 
 <!--
 ### Other accommodations
