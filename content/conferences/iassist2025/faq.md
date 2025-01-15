@@ -93,8 +93,9 @@ See https://www.gov.uk/apply-to-come-to-the-uk
 
 ### What is the hotel cost? How do I make hotel reservations? 
 
-TBA
-<!--See [Hotel and accommodations](/conferences/iassist2025/conference-hotel-and-accommodation).-->
+When you book with the conference venue directly, and use the code IASSIST2025, the rate if £155.00 per room per night (including breakfast and VAT). This preferential rate cannot be booked through a third-party agent or hotel website.
+
+See [Hotel and accommodations](/conferences/iassist2025/conference-hotel-and-accommodation) for detailed instructions.
 
 ### Is there any alternative accommodation?
 
