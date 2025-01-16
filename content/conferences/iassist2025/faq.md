@@ -33,7 +33,7 @@ The conference will be held in-person in Bristol, UK.
 
 ### What is the registration fee?
 
-TBA
+The fee will be confirmed soon, but you can expect the fees to be [similar to 2024](/conferences/iassist2024/registration).
 
 ### When does registration open?
 
