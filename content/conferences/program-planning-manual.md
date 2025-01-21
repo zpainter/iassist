@@ -101,80 +101,111 @@ It is essential that the PC work along with the Local Arrangements Committee (LA
 
 ### PC Co-Chair Duties
 
-The Conference Program Committee (PC) typically has up to three co-chairs.  The attempt has been made to have the co-chairs be 1 from the US, 1 from Canada, and 1 from Europe, but this isn't required.  The co-chairs responsibility is to come up with the theme and title of the conference, ensure all coordinator roles are filled (workshops, posters, lightning  talks, Birds of a Feather, etc.), to regularly have open discussions with the local arrangements committee to ensure that everything is on schedule and inform one another of potential issues.
+The Conference Program Committee (PC) typically has up to three co-chairs. The attempt has been made to have the co-chairs be 1 from the US, 1 from Canada, and 1 from Europe, but this is not required. The co-chairs responsibility is to come up with the theme and title of the conference, ensure all coordinator roles are filled (workshops, posters, lightning talks, Birds of a Feather, etc.), to regularly have open discussions with the local arrangements committee to ensure that everything is on schedule, and inform one another of potential issues. The PC Chairs share responsibility for visas with the IASSIST President/ Vice-President and Fellows Chairs.
 
 Refer to the [Timeline section]({{< ref "program-planning-manual.md#planning-timeline" >}}) for a higher level list of all activities and proposed deadlines.
 
+#### Visas
+
+Who is potentially eligible for an IASSIST visa letter?
+- IASSIST Administrative Committee Members and others in an official capacity
+- Fellows
+- Presenters who supply the following documents:
+	- Proof of employment or of study (Letter from HR department or academic chair or some official from one’s organization; possible name on website) 
+	- Personal statement (why important; how will it benefit your career; what happens if no visa)
+
+Not eligible:
+- Guests of applicant
+- Attendees not presenting nor in another official capacity
+
+Visa requirements:
+- [Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html)
+- [European Union](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en)
+- [UK](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/UnitedKingdom.html)
+- [USA](https://travel.state.gov/content/travel/en/us-visas.html)
+
+Who supplies IASSIST letters?  The following 2 categories are handled separately from presenters.
+- Fellow Chair(s) for Fellows
+- President or Vice-President of IASSIST for AC members
+
+Who can supply the IASSIST letter if the host institution is not handling the visa process?
+- Program Committee Chairs will supply letters for eligible presenters.
+
 #### Theme
 
-Facilitate the committee choosing a conference theme, taking past (and especially recent) themes into account.  Refer to the timeline for when the theme needs to be finalized, but this should be one of the first tasks of the committee, over the summer following the previous year’s conference.
+Facilitate the committee choosing a conference theme, taking past (and especially recent) themes into account. Refer to the timeline for when the theme needs to be finalized, but this should be one of the first tasks of the committee, over the summer following the previous year’s conference.
 
 #### Plenaries
 
-Use the larger planning committee, as well as the LAC, to brainstorm ideas for plenary speakers. This is helpful to do over the fall of the year prior to the conference. Identify a Plenary Coordinator (this can be one of the co-chairs) as this is an important role. The plenary speakers usually come from the region and the LAC can help recruiting them. Speakers should be finalized before notifications go out to session speakers. Past conferences have generally had two or three plenary speakers. Program co-chairs get to choose the number in consultation with the LAC.  
+Use the larger planning committee, as well as the LAC, to brainstorm ideas for plenary speakers. This is helpful to do over the fall of the year prior to the conference. Identify a Plenary Coordinator (this can be one of the co-chairs) as this is an important role. The plenary speakers usually come from the region and the LAC can help recruit them. Speakers should be finalized before notifications go out to session speakers. Recent past conferences have generally had two plenary speakers. While three plenary speakers were often present in the past, a reduction to two allowed for more opportunities for other activities. Program co-chairs get to choose the number in consultation with the LAC.
 
 #### Coordinator Roles
 
-Recruit and coordinate other chairs for workshops, PKs, posters, sessions, paper competition, review and sorting, and plenary speakers (optional).  Determine a means for the conference committee to connect (Google Group, Slack channel, Basecamp, etc.). 
+Recruit and coordinate other coordinators  for workshops, lightning talks, posters, sessions, paper competition, review, and plenary speakers (optional). Determine means for the conference committee to connect (Google Group, Slack channel, etc.).
 
 #### OpenConf Software Set-Up
 
-Set up the OpenConf software, following the example of the previous year.  The previous year’s co-chairs can provide a setup file (the format of this file is .oc) to load with all the previous year’s settings. The immediate previous year's PC co-chairs will provide the incoming co-chairs a demonstration on how to use OpenConf.
+Set up the OpenConf software, following the example of the previous year. The previous year’s co-chairs can provide a setup file (the format of this file is .oc) to load with all the previous year’s settings. The immediate previous year’s PC co-chairs will provide the incoming co-chairs a demonstration on how to use OpenConf.
 
 - Modify all content to reflect this year’s info.
 
-- Build submission form in OpenConf. This requires coordination with LAC/website team because the OpenConf form will have links to the website. Test the form before launching. 
+- Build submission form in OpenConf. This requires coordination with the LAC/website team because the OpenConf form will have links to the website. Test the form before launching. 
 
-- Add note to OpenConf submission form in large font or all CAPS, IF YOU DON’T GET A CONFIRMATION EMAIL FOR YOUR SUBMISSION, PLEASE CONTACT THE CO-CHAIRS.
+- Add note to OpenConf submission form in large font or all CAPS, IF YOU DON’T GET A CONFIRMATION EMAIL FOR YOUR SUBMISSION, PLEASE CONTACT programme@lists.iassistdata.org.
 
 #### Meet Regularly with the LAC
 
-Stay in regular touch with the LAC. Set up a schedule to meet (ideally) bi-weekly with the co-chairs and the LAC. Coordinators of various aspects of the program (Posters, Workshops, Paper Competition, etc.) can be included as their part becomes prominent, or at least provide regular reports by email.
+Stay in regular touch with the LAC. Set up a schedule to meet (ideally) bi-weekly with the co-chairs and the LAC. Coordinators of various aspects of the program (Posters, Workshops, Paper Competition, etc.) can be included as their part becomes prominent, or at least provide regular reports by email.  Including coordinators in some planning meetings allows for a fuller overview of the process.
 
 #### Call for Proposals (CFP)
 
-Coordinate distribution of the CFP. Invite members of the larger conference planning committee to claim various lists to which to post.  Use these same lists to post notices at various strategic moments, e.g., when the program is posted, when registration opens and when the early bird registration deadline approaches. 
+Coordinate distribution of the CFP. Invite members of the larger conference planning committee and Administrative Committee to claim various lists to which to post. Use these same lists to post notices at various strategic moments, e.g., when the program is posted, when registration opens and when the early bird registration deadline approaches.
 
-- In the CFP, discourage people from proposing multiple sessions.  It’s difficult to schedule sessions when presenters are in multiple spots, and it prevents other participants from speaking, potentially barring them from obtaining travel funds to attend.
+- In the CFP, discourage people from proposing multiple sessions. It’s difficult to schedule sessions when presenters are in multiple spots, and it prevents other participants from speaking, potentially barring them from obtaining travel funds to attend.
 
-- Before sending the CFP ask the planning committee to check travel arrangements for the destination city.  Bear in mind complicated or lengthy travel may make it difficult to formulate the program on Friday.  Speakers often don’t want to be scheduled in the last session if their travel plans mean they have to leave early.  Decide whether to collect speakers’ preference of day/session along with their proposals.
+- Before sending the CFP ask the Local Arrangements Committee to check travel arrangements for the destination city. Bear in mind complicated or lengthy travel may make it difficult to formulate the program on Friday. Speakers often don’t want to be scheduled in the last session if their travel plans mean they have to leave early. Decide whether to collect speakers’ preference of day/session along with their proposals.
 
-- Establish an email address for the conference program that be used as a point of contact with the Program Co-Chairs and committee at large (Gmail works well for this purpose).
+- programme@lists.iassistdata.org will be used as a point of contact with the Program Co-Chairs and committee at large.
 
-#### Begin Review and Draft Conference Schedule (Involves Sorting Coordinator and Team)
+#### Begin Abstract Review and Draft Conference Schedule
 
-- Set up reviewing form and make review assignments to reviewing group in OpenConf.
+- Set up a reviewing form and make review assignments to the reviewing group in OpenConf.
 
-- Compile review scores and comments in a spreadsheet to give to sorting group. It is recommended that those sorting were also reviewers, but not all reviewers need to be sorters.
+- Compile review scores and comments in a spreadsheet based on the rubric criteria. This criteria can be found in OpenConf from the previous year.
 
-- The sorters will return a new spreadsheet with all the sessions sorted into preliminary session blocks, along with recommendations for format switches and rejections.
+- When declining sessions, try to choose low-scoring ones as defined by the rubric criteria.
 
-- Take recommendations of sorting committee and fit sessions into schedule.
+- Create a new spreadsheet with all the sessions sorted into preliminary session blocks, along with recommendations for format switches and rejections.
 
-- Double-check with Sorting Coordinator and committee about which sessions they have changed from one format to another, e.g., from a panel proposal to an individual session.  The committee needs to provide a complete list of these.
-
-- You can build a basic shell with input from LAC about room availability, which may dictate how many tracks you can have, i.e., how many concurrent sessions you can run.  It was helpful in 2017 to use an online program like Padlet.com to be able to arrange and rearrange sessions.  
-
-- If you must decline sessions, try to choose low-scoring ones.  If it is an issue of quality or poor fit, you may still choose to decline, but if it is only an issue of how many sessions will fit in the schedule you at least want to try to avoid cutting sponsor-led sessions.
-
-- Once you have a draft of the schedule, enter it into OpenConf--it will flag concurrent sessions with the same speakers. This helps alleviate accidental double-booking.
-
-- With LAC, make room assignments.  Several options (and depends on local circumstances).
-
-- Try to assign based on which sessions you think will have the largest attendance relative to room sizes.  When there are sessions on "hot topic" issues, you can assume these will be popular.
-
-- If one room is further away from the others, try to identify which of the concurrents is the least like the others, which would indicate that its attendees would be less likely room-switch in the middle of the session.
-
-- If the rooms are mostly the same size, assign rooms according to where they already fall on the program. Having a whole column in the program (as in, all "1" concurrent sessions) be in the same room can be a logical and easy to navigate arrangement.
+- List which sessions have changed from one format to another, e.g. from a panel proposal to an individual session or from an individual session to a poster session.  Check with submitters for approval of the new format.
 
 #### Notify Presenters
 
-- Collaborate with poster, PK and workshop chairs to shift sessions to other formats if warranted before sending out notifications. (Poster, PK and workshop chairs all send their own notifications.)  Presenters who are asked to change their format should be asked if that is okay with them before other notifications go out.
+- Collaborate with poster, lightning talk and workshop chairs to shift sessions to other formats if warranted before sending out notifications. Presenters who are asked to change their format should be asked if that is okay with them before other notifications go out.
 
-- Send out notifications, both acceptances and rejections as well as notices for sessions whose format has to be changed or to add another speaker to the proposed session.  It is best to track the notifications and confirmations in a spreadsheet and then enter them into OpenConf later for the program.
+- Send out notifications, both acceptances and rejections as well as notices for sessions whose format has to be changed or to add another speaker to the proposed session. It is best to track the notifications and confirmations in a spreadsheet and then enter them into OpenConf later for the program.
 
-- Notify Concurrent Sessions Chair that it is time to seek volunteers for session chairs. Create and provide a **[spreadsheet](/file/conferences/IASSIST-conference-sample-session-chair-sign-up-sheet.xlsx)** (sample linked) that lists all sessions.  
-	
+#### Create Schedule 
+
+- Build a basic shell with input from LAC about room availability, which may dictate how many tracks you can have, i.e., how many concurrent sessions you can run. An online program like Padlet.com can be useful  to arrange and rearrange sessions.
+- Fit sessions into the schedule.
+- Once you have a draft of the schedule, enter it into OpenConf–it will flag concurrent sessions with the same speakers. This helps alleviate accidental double-booking.
+- With LAC, make room assignments. Several options (and depends on local circumstances).
+- Try to assign based on which sessions you think will have the largest attendance relative to room sizes. When there are sessions on “hot topic” issues, you can assume these will be popular.
+- If one room is further away from the others, try to identify which of the concurrents is the least like the others, which would indicate that its attendees would be less likely to room-switch in the middle of the session.
+- If the rooms are mostly the same size, assign rooms according to where they already fall on the program. Having a whole column in the program (as in, all “1” concurrent sessions) be in the same room can be a logical and easy to navigate arrangement.
+
+#### Tips
+
+- The IASSIST Secretary will create a Google folder for all things related to the program.
+- Templates exist for many common tasks.  
+- Previous lists exist for common sponsors and places to publicize. Lists are included in the Planning Committee Folder.
+- Include the AC for helping publicize.  Many lists require membership.  For some groups you may want to slightly customize the message.  As an example for GOVDOC-L talk about how relates to government documents; for BUSLIB-L how relates to business data.
+- New lists can be created by requests by the List Administrator.
+- There is a Program Committee email list.
+- Use Google Documents and place them in the Program Committee Folder so that all on the PC can edit.
+
+
 ### Poster Session Coordinator Duties
 
 The Poster Session Coordinator has the following duties:
