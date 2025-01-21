@@ -205,22 +205,6 @@ Coordinate distribution of the CFP. Invite members of the larger conference plan
 - There is a Program Committee email list.
 - Use Google Documents and place them in the Program Committee Folder so that all on the PC can edit.
 
-
-### Poster Session Coordinator Duties
-
-The Poster Session Coordinator has the following duties:
-
-- Work with LAC to figure out how many posters will fit in the space and what the set-up will be (poster boards, booths, etc.). The sooner you can figure out the maximum poster size, the better.
-
-- Decide which posters to accept/reject. Posters are rarely rejected unless they are a) clearly out of scope of the conference or b) space is tight. There are typically a fair number of other conference submission moved to posters, so best not to send out notices until the Program Co-Chairs give you the go-ahead.  Notifications are typically sent soon after session presenters have been notified.
-
-- Handle all communication with poster presenters.
-
-- Some presenters will want to mail their posters ahead of time. Coordinate with LAC to figure out whether this is possible and how people should do it.
-
-- Be available before and during the poster session to help set up and troubleshoot any issues.
-
-- Collect electronic poster files (PDF preferred) after the conference to include in the conference archive. 
 	
 ### Poster Session Coordinator Duties
 
@@ -260,18 +244,20 @@ The Workshop Coordinator has the following duties:
 	
 ### Plenary Session Coordinator Duties
 
-A program co-chair may assume these duties, or recruit a separate coordinator. The LAC is definitely helpful to work with as they tend to know of local experts who would be relevant, engaging Plenary speakers.
+To identify and choose plenary speakers.  
+
+A program co-chair may assume these duties, or recruit a separate coordinator. The program co-chairs should work with LAC as they tend to know of local experts who would be relevant, engaging Plenary speakers.
 
 Please note that there are [specific guidelines related to financial compensation](#) regarding Plenary Speakers.
 
 #### In August/September of the year prior to the conference...
 
-The first order of business is to solicit potential speakers using **[an email message](/file/conferences/IASSIST-conference-sample-email-to-plenary-speaker.docx)** (sample linked).  In this message you provide information about the conference and the organization, and any relevant financial information.
+The first order of business is to solicit potential speakers using **[an email message](/file/conferences/IASSIST-conference-sample-email-to-plenary-speaker.docx)** (sample linked). In this message you provide information about the conference and the organization, and any relevant financial information.
 
 #### By late January
 
-- Request a photo, their *brief* bio (one paragraph), and a short paragraph about the topic of their talk.  It is helpful to give them word limits for both bits of text, and to specify the deadline by which you need them.  Check with LAC about setting the deadline:  it’s helpful for them to have this information prior to registration opening.
-- Explain their time limits.  It may be different on different days.  The opening session will almost always have a welcome from someone at the host institution as well as the IASSIST president, and perhaps housekeeping announcements about room assignments that may not have made it into the program or room changes--altogether perhaps ten minutes.  So speakers will usually have about 45-50 minutes to speak if they leave ten minutes for questions, assuming the plenary is scheduled for 75 minutes.
+- Request a photo, their *brief* bio (one paragraph), and a short paragraph about the topic of their talk. It is helpful to give them word limits for both bits of text, and to specify the deadline by which you need them. Check with LAC about setting the deadline: it’s helpful for them to have this information prior to registration opening.
+- Explain their time limits. It may be different on different days. The opening session will almost always have a welcome from someone at the host institution as well as the IASSIST president, and perhaps housekeeping announcements about room assignments that may not have made it into the program or room changes–altogether perhaps ten minutes. So speakers will usually have about 45-50 minutes to speak if they leave ten minutes for questions, assuming the plenary is scheduled for 75 minutes.
 
 #### Email the speakers in late March/early April:
 
@@ -279,53 +265,55 @@ The first order of business is to solicit potential speakers using **[an email m
 
 - Ask if they have any special requirements for A/V.
 
-- Ensure that the speaker(s) knows what we will offer them vis a vis honorarium/travel expenses/nothing. If something make sure LAC provides necessary tax forms and information regarding the process for receipt of funds or reimbursements.
+- Ensure that the speaker(s) knows what we will offer them vis-a-vis honorarium/travel expenses/nothing. If there is an honorarium or paid travel expenses make sure LAC provides necessary tax forms and information regarding the process for receipt of funds or reimbursements.
 
-**Email speakers a week or two before the conference** to let them know where to meet on-site and any relevant reminders regarding finances (if applicable).  Also provide them with your phone number in the event they have any issues getting to the venue.  Advise that they may want to send any slides to you in advance so you can have them preloaded before they arrive.
+**Email speakers a week or two before the conference** to let them know where to meet on-site and any relevant reminders regarding finances (if applicable). Also provide them with your phone number in the event they have any issues getting to the venue. Advise that they may want to send any slides to you in advance so you can have them preloaded before they arrive.
 
-On the day of the conference be sure to meet with the speakers and make sure they have all that they need (tech, water, location of restrooms, etc.) and get them set up for their presentation.  Also act as their concierge for the day should they wish to stay on and attend other sessions (where to go, how to read the program, etc.).
+On the day of the conference be sure to meet with the speakers and make sure they have all that they need (tech, water, location of restrooms, etc.) and get them set up for their presentation. Also act as their concierge for the day should they wish to stay on and attend other sessions (where to go, how to read the program, etc.).
 
-After the conference be sure to write a personal thank you note (handwritten if possible) to all speakers.  It would be ideal if this note were signed by the PC co-chairs as well as the plenary coordinator (bring stationary to conference).
+After the conference be sure to write a personal thank you note (handwritten if possible) to all speakers. It would be ideal if this note were signed by the PC co-chairs as well as the plenary coordinator (bring stationary to conference).
 
 ### Submission Review and Sorting Coordinator Duties
 
-The Program Committee Co-Chairs (PC Co-Chairs) will recruit a team of Reviewers (at least 5 people) and a team of Sorters (one appointed Coordinator and at least 2 others; should, if possible, also serve as Reviewers).  It is important that continuity is maintained over the years in these roles.
+The Program Committee Co-Chairs (PC Co-Chairs) will recruit a team of Reviewers (at least 5 people) and a team of Sorters (one appointed Coordinator and at least 2 others; should, if possible, also serve as Reviewers). It is important that continuity is maintained over the years in these roles.
 
 #### Call for Papers and Submissions:
 
-Determine with the PC Co-Chairs what topics are to be included in the Call for Papers and the submission form.  This will be important for Sorting later.
+Determine with the PC Co-Chairs what topics are to be included in the Call for Papers and the submission form. This will be important for Sorting later.
 
 With the PC Co-chairs, review and revise the online submission form to be sure all necessary information about proposals will be submitted.
 
-The online submission form should clearly state that people should limit the number of proposals in which they would take part.  We are seeing an increase in the number of people included in more than 3 proposals (some up to 5) and it makes it difficult for reviewing, sorting, and scheduling.
+The online submission form should clearly state that people should limit the number of proposals in which they would take part. We are seeing an increase in the number of people included in more than 3 proposals (some up to 5) and it makes it difficult for reviewing, sorting, and scheduling.
+
 
 #### Review proposals:
 
- The Program Chairs will contact reviewers and set a timeline for the review of all individual proposals, papers, and session proposals.  Lightning talks review, Poster review, and Workshop review are done by others. However, the Reviewers will make comments about placing a proposal into another type of presentation (poster, lightning talk, Birds of Feather, or possibly a plenary panel or presentation)
+The Program Chairs will contact reviewers and set a timeline for the [blind review](https://drive.google.com/file/d/1TYf-3BLTMWx-OzX04QjXgwku_0GcLYsN/view) of all individual proposals, papers, session proposals, lightning talks, and posters. Workshop reviews are done by the workshop coordinators. However, the Reviewers will make comments about placing a proposal into another type of presentation (poster, lightning talk, or possibly a plenary panel or presentation).
 
-Once the online review system is in place, each reviewer will read and rank proposals (Likert scale is used, may be up to 7 for scoring if that granularity is needed), adding comments and additional topics that will help with sorting.  When the review has been completed, the Program Chairs will review the proposals with low rankings and make a preliminary elimination of proposals that do not meet program criteria.
+Once the online review system is in place, each reviewer will read and rank proposals (Likert scale is used, may be up to 7 for scoring if that granularity is needed), adding comments and additional topics that will help with sorting. When the review has been completed, the Program Chairs will review the proposals with low rankings and make a preliminary elimination of proposals that do not meet program criteria.
 
 All information is confidential.
 
-The PC Co-chairs will provide a preliminary schedule for the conference program so that when the Sorters put sessions together they will know how many sessions and of what length will be available. 
+The PC Co-chairs will provide a preliminary schedule for the conference program so that when the Sorters put sessions together they will know how many sessions and of what length will be available.
+
 
 #### Sorting:
 
-After review has been completed, the PC Co-Chairs will provide the Sorting team with a spreadsheet of all proposals they have moved forward into the development of the program sessions.  
+After review has been completed, the PC Co-Chairs will provide the Sorting team with a spreadsheet of all proposals they have moved forward into the development of the program sessions.
 
-The Sorting team will put proposals into topic driven sessions and send (1) a spreadsheet of sessions and (2) a list of session titles, number of presenters, and notes to the PC Co-Chairs.  This usually takes 3-4 working weeks.  It is a demanding process and needs to be done by people who can set aside time to fully read all proposals, interact with the team and resolve sorting problems all during this time period.  The team usually has 2-3 Skype sessions a week.
+The Sorting team will put proposals into topic driven sessions and send (1) a spreadsheet of sessions and (2) a list of session titles, number of presenters, and notes to the PC Co-Chairs. This usually takes 3-4 working weeks. It is a demanding process and needs to be done by people who can set aside time to fully read all proposals, interact with the team and resolve sorting problems all during this time period. The team usually has 2-3 online planning sessions a week.
 
 The Sorting team will recommend proposals that are to be moved into Poster, Lightning Talk, or Birds of Feather slots.
 
-The PC Co-Chairs will place the sessions into the schedule, maintaining pre-defined “tracks” (e.g., Data Management, Technical Development, Public Services etc.) and avoid scheduling somebody for two sessions at once.  The Sorting team may make recommendations about the timing of sessions.
+The PC Co-Chairs will place the sessions into the schedule, maintaining pre-defined “tracks” (e.g., Data Management, Technical Development, Public Services etc.) and avoid scheduling somebody for 2 sessions at once. The Sorting team may make recommendations about the timing of sessions.
 
 The Sorting team will not contact presenters; the PC Co-chairs will manage contacts and discussions with presenters regarding the need for more information about content, presenters, and potential changes in the type of presentation.
 
-The Paper Competition Chair will review Papers that have been accepted for the conference; these paper presentations will be included in the program as individual presentations.
+The Paper Competition Chair will review papers that have been accepted for the conference; these paper presentations will be included in the program as individual presentations.
 
 #### Diversity review board:
 
-In 2023 a diversity review board was introduced. Three people with a diverse background (this can be in terms of origin, gender, sexuality, gender identity and so on) are asked to serve on this board and their task is to review all rejected submissions and check whether any rejections were made for discriminatory reasons. If this is the case, the program chairs will follow the diversity review board’s decision. The diversity review board also serves as a board of appeal for authors who feel that their submission was rejected for discriminatory reasons and who want to have the decision reevaluated.
+In 2023, the Administrative Committee approved the creation of a diversity review process for the current and future IASSIST conferences.  IASSIST is committed to an inclusive conference and seeks to ensure that proposals are reviewed without discrimination or bias.  If a proposal is rejected, the submitter may appeal that rejection as being done for discriminatory reasons using the Diversity Review Process.  If an appeal is submitted under the Diversity Review Process, the appealed proposal will be sent to the Program Committee Chairs who will consult with the Executive Board.  The Program Committee reserves the right to admit proposals it determines were rejected for biased or discriminatory reasons.  All activities are subject to the [IASSIST Code of Conduct](https://iassistdata.org/community/code-of-conduct/).
 
 ### Concurrent Sessions Coordinator Duties
 
