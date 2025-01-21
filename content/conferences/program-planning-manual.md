@@ -5,7 +5,7 @@ date = "2017-05-31"
 author = "PPMAG"
 +++
 ## Program Planning Manual
-The purpose of this Handbook is to assist those who will be responsible for developing the program of future IASSIST Annual Conferences. The information contained within has been put together by several individuals who have had experience running past conferences. While many things necessarily change from year to year, there is a surprising amount of continuity involving the decisions made and the deadlines set. It is hoped this manual can be continued as a living document, dynamically maintained by succeeding generations of conference program planners.  The Local Arrangements Committee (or LAC) has a separate set of responsibilities, and will have their own manual.  There will be occasions where information may be cross-referenced between both the Program Planning and Local Arrangements Manuals.
+The purpose of this manual is to assist those who will be responsible for developing the program of future IASSIST Annual Conferences. While many things necessarily change from year to year, there is a surprising amount of continuity involving the decisions made and the deadlines set. It is hoped this manual can be continued as a living document, dynamically maintained by succeeding generations of conference program planners. The Local Arrangements Committee (or LAC) has a [separate set of responsibilities <span class="fas fa-external-link-alt"></span>](https://iassistdata.org/conferences/guidelines-for-hosting-iassist-conferences/). There will be occasions where information may be cross-referenced between both the Program Planning and Local Arrangements Manuals.
 
 - [Provenance of the Manual]({{< ref "program-planning-manual.md#provenance-of-the-manual" >}})
 - [Purposes of the IASSIST Conference]({{< ref "program-planning-manual.md#purposes-of-the-iassist-conference" >}})
@@ -60,25 +60,36 @@ Revisions: Separate program planning from local arrangements content for more fo
 Revised 17 July 2023<br />
 Revisions: Added sections on the Paper Competition and the diversity review board, added to sections Plenaries, BoF, and Collecting and Archiving of Conference Presentations, corrected typos
 
+**Revised by:** Bobray Bordelon, Princeton University, Ashley Jester, Lynda Kellam, University of Pennsylvania, Sophia Lafferty-Hess, Duke University.<br />
+Revised June-September 2024.<br />
+Revisions: Corrected typos; Updated terminology and technologies. Clarified divisions between Program and Local Arrangements. Mentoring session was completely revised.  Eliminated Sorting Sessions Coordinator role since Program Chairs have been doing those duties. Moved approval of all formats with the exception of the workshops to the review committee. Clarified the diversity review process.  Updated responsibilities of each role to reflect current practice. Clarified the timeline.
+
+**Revised by:** Jane Fry, Carleton University, as the Program Cttee worked its way through it for IASSIST 2025.<br />
+Revised: September 2024-May 2025.<br />
+Revisions were minor ones that were noticed as this Manual was followed.
+
+
 ## Purposes of the IASSIST Conference
 
-It is clear that, despite the growth of the Internet, e-mail and listservs, the annual conference still offers us the best way to communicate with each other, to share ideas, and to seek feedback from our peers. Both formally, through the delivery of papers and the presentation of poster-sessions, and informally through the one-on-one or small group conversations, a surprising amount of professional support and advice is given. The networking that takes place during break periods and in the evenings is just as important as the organized sessions, plenaries, workshops and roundtables. The conference provides us a way to conduct professional training and to upgrade our own skills through workshops. It allows us to promote data librarianship and archiving as well as innovations in social science technology, and to plan the future of our profession via roundtables and other working groups. The conference gives us the opportunity to take advantage of the expertise of the people who make up the membership of the Association, as well as bring new people into IASSIST. It is the only time of the year when both the Administrative Committee and the general membership are able to meet and vote on important issues. The formal presentation of papers at the conference promotes scholarly writing by the membership and offers them the opportunity to publish in the Association's quarterly journal.
+It is clear that, despite the growth of the Internet, e-mail and listservs, the annual conference still offers us the best way to communicate with each other, to share ideas, and to seek feedback from our peers. Both formally, through the delivery of papers and the presentation of poster-sessions, and informally through the one-on-one or small group conversations, birds of a feather gatherings, and interest groups, a surprising amount of professional support and advice is given. The networking that takes place during break periods and in the evenings is just as important as the organized sessions, plenaries, workshops and roundtables. The conference provides a way to conduct professional training and to upgrade skills through workshops. It allows us to promote data librarianship and archiving as well as innovations in social science technology, and to plan the future of our profession via roundtables and other working groups. The conference gives the opportunity to take advantage of the expertise of the members of the Association, as well as bring new people into IASSIST. It is the only time of the year when both the Administrative Committee and the general membership are able to meet and vote on important issues. The formal presentation of papers at the conference promotes scholarly writing by the membership and offers the opportunity to publish in the Association’s quarterly journal.
 
 ## Structure, Content and Responsibility of and for the Manual
 
-This manual purports to give advice and hand along “conventional wisdom.” The intention is to move from the general to the specific, singling out areas of high importance. The reader is encouraged to use the linked table of contents to hone in on areas in which they need guidance.  The content for this particular manual is for conference program planning specifically.  The stewardship of this manul will always fall under the current/immediate past program planning committee chairs who will serve as editors.  Areas/issues that relate to local arrangements will be cross referenced with the local arrangements manual. The current/immediate past local arrangements committee is also encouraged to offer feedback and suggest any necessary changes to the current manual stewards.
+This manual purports to give advice and hand along “conventional wisdom.” The intention is to move from the general to the specific, singling out areas of high importance. The reader is encouraged to use the linked table of contents to hone in on areas in which they need guidance. The content for this particular manual is for conference program planning specifically. The stewardship of this manual will always fall under the current/immediate past program planning committee chairs who will serve as editors. Areas/issues that relate to local arrangements will be cross referenced with the local arrangements manual. The current/immediate past local arrangements committee is also encouraged to offer feedback and suggest any necessary changes to the current manual stewards.
 
 ## Program Planning Committee Leadership and Structure
 
-The Program Committee (PC) can take a number of different forms. It can be quite small, say five or six people, double that size, or even larger. What all have in common is the position of Program Co-Chairs (2 to 3). The Co-Chairs are a pivotal position that decide who will serve on the PC and what their roles will be. At the current IASSIST annual conference the IASSIST President appoints the Co-Chairs for the next conference. This ensures that the chairs have adequate time to develop a solid program. The Chairs are a major influence on the intellectual content of the conference, and it is the Chairs who assume ultimate responsibility for deciding on a conference title as well as general thematic structure.
+The Program Committee (PC) can take a number of different forms. It can be quite small, say five or six people, double that size, or even larger. What all have in common is the position of Program Co-Chairs (2 to 3). The Co-Chairs are a pivotal position that decide who will serve on the PC and what their roles will be. Prior to the current IASSIST annual conference, the IASSIST President appoints the Co-Chairs for the next conference. This ensures that the chairs have adequate time to develop a solid program. The Chairs are a major influence on the intellectual content of the conference, and it is the Chairs who assume ultimate responsibility for deciding on a conference title as well as general thematic structure.
 
 It is strongly encouraged that the Chairs create a multi-national committee that includes members from the United States, Canada, and outside the North American continent. The individual members of the PC generally serve as catalysts for the creation of conference workshops, plenaries, and sessions by suggesting ideas, finding likely speakers, and often acting as session organizers or chairs.
 
-The PC Co-chairs may charge an individual to coordinate different conference components and activities (current roles described in detail below).  The PC at-large can be tasked to provide assistance at any step during the planning process.  PC Co-chairs are encouraged to make good use of their committees.
+The PC Co-chairs may charge an individual to coordinate different conference components and activities (current roles described in detail below). The PC at-large can be tasked to provide assistance at any step during the planning process. PC Co-chairs are encouraged to make good use of their committees.
 
 It is essential that the PC work along with the Local Arrangements Committee (LAC) to ensure proper venue size for sessions, plenaries, workshops, posters and social events.
 
+
 - [PC Co-Chair Duties]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}})
+- [Poster Session Coordinator Duties]({{< ref "program-planning-manual.md#poster-session-coordinator-duties" >}})
 - [Workshop Coordinator Duties]({{< ref "program-planning-manual.md#workshop-coordinator-duties" >}})
 - [Plenary Session Coordinator Duties]({{< ref "program-planning-manual.md#plenary-session-coordinator-duties" >}})
 - [Submission Review and Sorting Coordinator Duties]({{< ref "program-planning-manual.md#submission-review-and-sorting-coordinator-duties" >}})
@@ -180,27 +191,41 @@ The Poster Session Coordinator has the following duties:
 
 - Collect electronic poster files (PDF preferred) after the conference to include in the conference archive. 
 	
+### Poster Session Coordinator Duties
+
+The Poster Session Coordinator has the following duties:
+
+- Work with LAC to figure out how many posters will fit in the space and what the set-up will be (poster boards, booths, etc.). The sooner you can figure out the maximum poster size, the better.
+
+- Some presenters will want to mail their posters ahead of time. Coordinate with LAC to figure out whether this is possible and how people should do it.
+
+- Be available before and during the poster session to help set up and troubleshoot any issues.
+
+- Disseminate information on how to include  electronic poster files (PDF preferred) in the conference archive.
+
+
 ### Workshop Coordinator Duties
 
 The Workshop Coordinator has the following duties:
 
-- Write a Call for Workshops. This will strongly echo the overall CFP, but needs to include more information about what we’re looking for in workshop submissions.
-
-- Work with PC co-chairs on the Workshops submission form. You can include the form with the larger submission form in OpenConf. Workshops proposals require several additional fields (learning objectives, prerequisites, workshop lengths, workshop setting, hardware/software requirements).
-
-- Advertise the Call for Workshops.
+- Work with PC co-chairs on the Workshops submission form. Include the form with the larger submission form in OpenConf.
+  
+- Workshops proposals require several additional fields (learning objectives, prerequisites, workshop lengths, workshop setting, hardware/software requirements).
+  
+- Work with LAC on how many classrooms are available and space in each.  This will be one factor in how many can be accommodated.
 
 - Decide which workshop proposals to accept and reject. Criteria used in the past: fit with conference theme, appropriateness for audience, mix of topics, availability of required software, etc.
-
-- Send out acceptances and rejections for Workshops.
-
+  
+- Send out acceptances and rejections for Workshops via OpenConf.
+  
 - Work with LAC on classroom and lab space and hardware/software provision.
-
+  
 - Handle all communication with Workshop providers.
-
-- Create and disseminate a Workshop evaluation (Web-based preferred).
+  
+- Create and disseminate a Workshop evaluation electronically.
 
 - Be available on the day of the Workshops to help troubleshoot any issues and remind providers to ask attendees to fill out the Workshop evaluation.
+
 	
 ### Plenary Session Coordinator Duties
 
@@ -323,9 +348,9 @@ The Birds of a Feather (BoF) Coordinator has the following duties:
 
 Work with Program Committee Co-Chairs (PC Co-Chairs) and LAC to determine:
 
-- How BoF session proposals will be collected.  Given that BoF tend to be more spontaneous than planned, the opportunity to propose a BoF session will be mentioned in the call, but actual proposals will not be collected through the submission form.
+- How BoF session proposals will be collected. Given that BoF tends to be more spontaneous than planned, the opportunity to propose a BoF session will be mentioned in the call, but actual proposals will not be collected through the submission form.
 
-- When the BoF session will be held. In the middle of the day, for example right after the Business Lunch, turned out to be successful!
+- When the BoF session will be held. In the middle of the day, for example right after the Business Lunch, it turned out to be successful!
 
 - Where the BoF session will be held with room layout (space will determine number of BoF proposals included).
 
@@ -335,9 +360,9 @@ Work with Program Committee Co-Chairs (PC Co-Chairs) and LAC to determine:
 
 **About three weeks before the conference**, send out the per-conference proposal submission form.
 
-Coordinator arrival may determine how topics are displayed (the more time one has, the more creative one may elect to be).  Pre-proposed topics need to be listed on the display including the number of votes resulting from duplicate/multiple submissions.  The display should be posted no later than **Tuesday morning (workshop day)**. 
+Coordinator arrival may determine how topics are displayed (the more time one has, the more creative one may elect to be).  Pre-proposed topics need to be listed on the display including the number of votes resulting from duplicate/multiple submissions.  The display should be posted no later than **Wednesday morning**. 
 
-Listing new topics and voting must close by end-of-day the day before the session occurs to allow all votes to be tallied, and room assignments to be made.  Provide final list with room assignments to Program Co-Chairs to include in Open Conf.  Depending on timing of session, it may be possible to also announce the sessions at the Business Lunch.
+Listing new topics and voting must close by end-of-day the day before the session occurs to allow all votes to be tallied, and room assignments to be made.  Provide final list with room assignments to Program Co-Chairs to include in Open Conf.  Depending on timing of session, it may be possible to also announce the sessions at the Business Lunch or during housekeeping prior to a Plenary.
 
 ### Mentoring Committee Coordinator
 
@@ -389,16 +414,14 @@ Responsibilities:
 
 The Lightning Talks Coordinator has the following duties:
 
-- Decide which PK proposals to accept and reject. Criteria used are: appropriateness of the proposed content, fit with conference theme, and length of session (8 is the maximum number of PKs that a one hour session can handle). Most proposals are accepted, but should still be ranked since there are usually 1-2 submissions from other types that are given the option to switch to a PK.
+- Handle all communication with lightning talk presenters.
 
-- Handle all communication with PK presenters.
+- Collect bios of all presenters for session introductions. Request any special accommodations (the most common is going earlier in session due to travel), etc.
 
-- Collect bios of all PK presenters for session introductions. Request any special accommodations (the most common is going earlier in session due to travel), etc.
-
-- Collect all PK presentation files before the conference so they can be loaded and ready to present on the day of.
+- Communicate how to load presentation files before the conference.
 
 - Chair the session the day of, introducing each presenter, and troubleshooting any issues (there are almost always minor technical issues, but just stay calm and keep the show going!).
-- Share presentation files with program committee for conference archive.
+
 	
 ## Planning Timeline
 
@@ -549,27 +572,26 @@ Paper Submission (Competitive) - by end of March
 	
 ## Choosing a Conference Title
 
-This is a subjective choice that is best made among the Program Committee Co-Chairs and the Local Arrangements Committee (LAC). During the first month or two following the preceding conference the PC Co-Chairs should convene and decide on the title and text for the Call for Papers (see [PC Co-Chair Duties]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}})). Regardless of when it is done, it needs to be done before the Web site and first publicity are available later that summer (see [Planning Timeline]({{< ref "program-planning-manual.md#planning-timeline" >}})). The choice of title will be a factor in the success of the Call for Proposals.
+This is a subjective choice that is best made among the Program Committee Co-Chairs and the Local Arrangements Committee (LAC). During the first month or two following the preceding conference the PC Co-Chairs should convene and decide on the title and text for the Call for Proposals (see [PC Co-Chair Duties]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}})). Regardless of when it is done, it needs to be done before the Web site and first publicity are available later that summer (see [Planning Timeline]({{< ref "program-planning-manual.md#planning-timeline" >}})). The choice of title will be a factor in the success of the Call for Proposals.
 
 The conference logo itself is typically created by the LAC, but they will likely ask for feedback from the PC Co-Chairs.
 
 ## Finances Related to Plenary Speakers, Workshop Presenters, Honored Members, etc.
 
-IASSIST is not in a position to provide financial assistance for participation in the conference. All speakers and Chairs are expected to register for the conference and pay conference fees. **Plenary speakers** are not expected to pay conference fees and are invited to attend activities *during the day of the plenary* at no charge. This information should be conveyed to individuals at the time of initial contact to avoid any misunderstandings. To save plenary speakers travel costs, they are usually recruited from the region.
+IASSIST is not in a position to provide financial assistance for participation in the conference. **All speakers and Chairs are expected to register for the conference and pay conference fees. Plenary speakers** are not expected to pay conference fees and are invited to attend activities *during the day of the plenary* at no charge. This information should be conveyed to individuals at the time of initial contact to avoid any misunderstandings. To save plenary speakers travel costs, they are usually recruited from the region.
 
-The local arrangements committee (LAC) may use the sponsorship funds they have negotiated to partly cover costs like accommodation or travel for plenary speakers or local organizers. Please keep in mind that it will fall on the LAC to a) provide the necessary steps and processes for reimbursements and/or compensation, and b) process the necessary tax paperwork for recipients.
+The local arrangements committee (LAC) may use funds they have negotiated to partly cover costs like accommodation or travel for plenary speakers. Please keep in mind that it will fall on the LAC to a) provide the necessary steps and processes for reimbursements and/or compensation, and b) process the necessary tax paperwork for recipients. Funding for honorarium or speaker expenses should be approved by the Executive Committee before any offers are made to speakers.
 
 The Admin Committee voted in May 2014 to discontinue previous IASSIST policy that the Workshop Presenters are offered one free conference registration per workshop. Starting from the 2015 conference there will not be any registration compensation for the workshop instructors.
 
+
 ## Announcing the Call for Proposals (CFP) Including Papers, Sessions, Posters, Lightning Talks
 
-The [Program Commitee Co-Chairs]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}}) are responsible for the coordinated distribution of the CFP. They will invite members of the larger conference planning committee to claim various lists to which to post.These same list assignments will be used to post notices at various strategic moments, e.g., when the program is posted, when registration opens and when the early bird registration deadline approaches. The Call for Workshops is drafted by the [Workshops Coordinator]({{< ref "program-planning-manual.md#workshop-coordinator-duties" >}}) but may be sent at the same time.
+The [Program Commitee Co-Chairs]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}}) are responsible for the coordinated distribution of the CFP. They will invite members of the larger conference planning committee or other volunteers from the Admin Committee to claim various lists to which to post.These same list assignments will be used to post notices at various strategic moments, e.g., when the program is posted, when registration opens and when the early bird registration deadline approaches.  
 
-- In the CFP, discourage people from proposing multiple sessions.  It’s difficult to schedule sessions when presenters are in multiple spots, and it prevents other participants from speaking, potentially barring them from obtaining travel funds to attend.
+- In the CFP, discourage people from proposing multiple sessions. It’s difficult to schedule sessions when presenters are in multiple spots, and it prevents other participants from speaking, potentially barring them from obtaining travel funds to attend.
 
-- Before sending the CFP ask the planning committee to check travel arrangements for the destination city.  Bear in mind complicated or lengthy travel may make it difficult to formulate the program on Friday.  Speakers often don’t want to be scheduled in the last session if their travel plans mean they have to leave early.  Decide whether to collect speakers’ preference of day/session along with their proposals.
-
-- The CFP needs to go out in **early October in the year preceding the conference**.
+- The CFP needs to go out by **early October in the year preceding the conference**.
 	
 ## Conference Schedule Format and Organization of the Program
 
@@ -591,15 +613,10 @@ There may be additional meetings, like IFDO meeting, on Tuesday. DDI Alliance ma
 
 ## Collection and Archiving of Conference Presentations
 
-To be updated according to the new Zenodo strategy. 
-
-Session chairs and Program Chairs are in key positions in reminding presenters to upload their presentation files. It works best if presenters can choose between uploading their slides in OpenConf (and have volunteers add them to Zenodo) and uploading them to Zenodo directly. Prepare a [cheat sheet](https://iassistdata.org/conferences/iassist2023/recommended-presentation-metadata-in-zenodo-2023.pdf) for the direct upload to Zenodo to make sure that everyone adds the relevant metadata. The Session and Program Chairs should follow up with the presenters during the weeks after the conference to collect as many presentations as possible. 
+Session chairs and Program Chairs are in key positions in reminding presenters to upload their presentation files into Zenodo. Prepare a [cheat sheet](https://iassistdata.org/conferences/iassist2023/recommended-presentation-metadata-in-zenodo-2023.pdf) for the direct upload to Zenodo to make sure that everyone adds the relevant metadata. The cheat sheet needs to be reviewed and updated annually. The Session and Program Chairs should follow up with the presenters during the weeks after the conference to collect as many presentations as possible.
 
 
 
 
-
-	
-	
 
 	
