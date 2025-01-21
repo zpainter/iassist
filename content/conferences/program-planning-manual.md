@@ -254,7 +254,7 @@ Please note that there are [specific guidelines related to financial compensatio
 
 The first order of business is to solicit potential speakers using **[an email message](/file/conferences/IASSIST-conference-sample-email-to-plenary-speaker.docx)** (sample linked). In this message you provide information about the conference and the organization, and any relevant financial information.
 
-#### By late January
+#### By late January:
 
 - Request a photo, their *brief* bio (one paragraph), and a short paragraph about the topic of their talk. It is helpful to give them word limits for both bits of text, and to specify the deadline by which you need them. Check with LAC about setting the deadline: it’s helpful for them to have this information prior to registration opening.
 - Explain their time limits. It may be different on different days. The opening session will almost always have a welcome from someone at the host institution as well as the IASSIST president, and perhaps housekeeping announcements about room assignments that may not have made it into the program or room changes–altogether perhaps ten minutes. So speakers will usually have about 45-50 minutes to speak if they leave ten minutes for questions, assuming the plenary is scheduled for 75 minutes.
@@ -319,47 +319,49 @@ In 2023, the Administrative Committee approved the creation of a diversity revie
 
 The Concurrent Sessions Coordinator has the following duties:
 
+Seek volunteers for session chairs. Create and provide a [spreadsheet](https://www.google.com/url?q=https://iassistdata.org/file/conferences/IASSIST-conference-sample-session-chair-sign-up-sheet.xlsx&sa=D&source=docs&ust=1737429566645770&usg=AOvVaw0yixSWBJS-yuVpDqPFmEwY) (sample linked) that lists all sessions.
+
+
 Send an invitation first to the planning committee and then to the full IASSIST list to volunteer to chair a session. Identify a few people to serve as backups in case others have to drop out. Give everyone the URL for the session chair sign up spreadsheet (created by Conference Co-Chairs). If separate sheets are used for each day of the conference, be sure to mention that. Tell them to sign up with their name and email address and be sure to pay attention for any notes that list special circumstances or other issues such as: 
 
-- Sessions where a panel and presentation are combined.  In instances like this, the time cannot just be split 50/50.  The presentation is allotted 20-25 minutes, the panel gets the remaining time.
-- More presentations in a session than normal (e.g. more than three).  The chair needs to be aware that they have to manage the time for each presentation very carefully.
-- Presenters in the paper track are noted.  One winner will be chosen who will receive a free future registration for the conference and their paper will be published in IASSIST Quarterly, but ALL papers are eligible to be submitted to IQ.  Those authors should be especially encouraged to submit.  Chairs should put author release forms in those participants’ hands.
-- Address any other notes/special circumstances listed during their session with the respective presenter/authors (e.g. Skype needed, slides in advance for visual or hearing impaired, etc.).
+- Sessions where a panel and presentation are combined. In instances like this, the time cannot just be split 50/50. The presentation is allotted 20-25 minutes, the panel gets the remaining time.
+- More presentations in a session than normal (e.g. more than three). The chair needs to be aware that they have to manage the time for each presentation very carefully.
+- Presenters in the paper track are noted. One winner will be chosen who will receive a free future registration for the conference and their paper will be published in IASSIST Quarterly, but ALL papers are eligible to be submitted to IQ. Those authors should be especially encouraged to submit. 
+- Address any other notes/special circumstances listed during their session with the respective presenter/authors (e.g. audio needed, slides in advance for visual or hearing impaired, etc.).
+
 
 No later than five to six weeks before the conference, be in touch with all session chairs to inform them of their duties, outlined in the **[Sample Letter](/file/conferences/IASSIST-conference-sample-email-to-session-chairs.docx)**.  Note that this copy is marked up so you are aware what you need to change.
 
-**Session chairs need to:** Collect all speakers' A/V requirements and relay that information to the LAC.  Act as a liaison between speakers and the LAC for any tech needs/issues or other accommodations.
+**Session chairs need to:** Communicate A/V requirements and relay that information to the LAC. Act as a liaison between speakers and the LAC for any tech needs/issues or other accommodations.
 
-Both before and after the conference encourage your session's speakers a) to formally write up their presentation as a paper to submit to the IQ (paper competition entrants are already doing this), and b) submit their presentations for the conference archive.  They will be able to do so through OpenConf.  Encourage speakers to upload prior to the conference, but they will have a window of time after if they did not get the chance to do so.
+Both before and after the conference encourage your session’s speakers a) to formally write up their presentation as a paper to submit to the IQ (paper competition entrants are already doing this), and b) submit their presentations for the conference archive. Encourage speakers to upload prior to the conference, but they will have a window of time after if they did not get the chance to do so.
 
 By **three weeks** prior to the conference, Session Chairs should have:
 
-- Checked their time allotment and determined how much time each project has to present.  Remember to include time for speaker introductions and questions.
-- Emailed their presenters with relevant advance information, including the location of the room they are using, confirm AV requests, and their time allotment and a strong recommendation to practice in order to stay within their time limit.
+- Checked their time allotment and determined how much time each project has to present. Remember to include time for speaker introductions and questions.
+- Emailed their presenters with relevant advance information, including the location of the room they are using, confirm AV, and their time allotment and a strong recommendation to practice in order to stay within their time limit.
 
-By **one week** prior ot the conference, Session Chairs should have:
+By **one week** prior ot the conference, Session Chairs should:
 
-- Verified speakers' needs and communicated any special to the coordinator or LAC.
-- Gathered speakers' brief bios and confirmed their affiliations.
-- Reminded speakers about uploading presentations to OpenConf with instructions.
-- Reminded speakers to bring a back-up electronic copy AND a print copy of their presentation (should technology fail).  Recommend selecting open formats or compatible formats.
-- Prepared discussion questions.
-- Decided on whether questions will be taken during or at the end of the session.
+- Verify speakers’ needs and communicate any special needs to the coordinator or LAC.
+- Gather speakers’ brief bios and confirm their affiliations.
+- Remind speakers about uploading presentations to the conference archive. 
+- Remind speakers to bring a back-up electronic copy AND a print copy of their presentation (should technology fail). Recommend selecting open formats or compatible formats.
+- Prepare discussion questions.
+- Decide on whether questions will be taken during or at the end of the session.
 
 By the **opening reception**, Session Chairs should have tried to meet with their speakers.
 
-By the **day of their session**, Session Chairs should have:
+By the **day of their session**, Session Chairs should:
 
-- Introduced themselves to their speakers.
-- Located the session room.
-- Introduced themselves to the room monitor (typically from host institution to help with AV and other issues). Note not always available but should know who their local IT help is.
+- Introduce themselves to their speakers.
+- Locate their session room.
+- Introduce themselves to the room monitor (typically from the host institution to help with AV and other issues). Note not always available but should know who their local IT help is.
 - Arrive 20 minutes early and load any presentations that could not be sent ahead of time.
-- Pointed out to their speakers IA release forms to submit their presentations as IQ papers.
 
-By **two weeks post conference**, Session Chairs should have:
+By **two weeks post conference**, Session Chairs should:
 
-- Sent each of their speakers a thank-you note for their participation in the conference and again inviting them to submit an IQ paper on their presentation topic (especially if in the paper competition track).
-- Uploaded or ensured that all of their presenters uploaded their presentation files into OpenConf for inclusion in the conference archive.
+- Upload or ensure that all of their presenters uploaded their presentation files into the conference archive.
 	
 ### Birds of a Feather Coordinator Duties
 
@@ -398,11 +400,12 @@ The Mentoring Committee Coordinator has the following duties:
 	
 ### Paper Competition Coordinator Duties
 	
-The paper competition is open to IASSIST members who are writing or have written a paper in the year since the last IASSIST conference. The paper may be published or unpublished. It must be of interest to IASSIST members, and it must be written in English with formatted references. The winner receives a free entry to next year’s IASSIST conference.  
+The paper competition is open to IASSIST members who are writing or have written a paper in the year since the last IASSIST conference. The paper may be published or unpublished. It must be of interest to IASSIST members, and it must be written in English with formatted references. The winner receives a free entry to next year’s IASSIST conference.
 The paper competition is run by a volunteer coordinator.
 
 Responsibilities:
 - Find several volunteers (3-7) to serve as Reviewers (Feb/March)
+	- IQ editors usually serve as reviewers
 	- It’s ideal if volunteers from different regions can participate
 	- The competition can be conducted over email
 	- Send the Reviewers the [review spreadsheet](/file/conferences/2022-IASSIST-Papers-Competition-Review-Sheet.xlsx) and ask if they would like to make changes
@@ -448,9 +451,9 @@ The Lightning Talks Coordinator has the following duties:
 
 **Assuming that the conference is held at the end of May/early June.**
 
-Regular session, paper, posters and lightning talk submissions - Late Nov/Early Dec.
+Regular session, paper, posters and lightning talk submissions - Due Late Nov/Early Dec.
 
-Workshop submissions (may be timed with regular submissions) - Late Nov/Early Dec.
+Workshop submissions (may be timed with regular submissions) - Due Late Nov/Early Dec.
 
 Fellows Applications and Notifications - solicit applications around time of Call for Proposals (CFP) (early Oct.), notify acceptance by late March (ideally before applicant has to confirm attendance)
 
@@ -460,133 +463,114 @@ Confirmation of acceptance and changes to program - Mid-march (confirm) and Mid-
 
 Paper Submission (Competitive) - by end of March
 
+
 ### Conference planning year
 
 #### July
 
 - Review the timeline in the Program Planning Manual
 
-- Establish modes of communication for PC, this includes at-large email list and group work space as well as an email account for submitters to communicate with the PC
+- Use the existing programme listserv and PC Google drives for communication.   Establish the email account for submitters to communicate with the PC. 
 
 - Begin planning for PC work and how the group will operate in shaping the program
 
 - Communicate with past chairs regarding revision of [conference manual]({{< ref "guidelines-for-hosting-iassist-conferences.md" >}}).
 
-- Decide upon conference theme and design logo (if not already done so by LAC)
+- DDecide upon the conference theme and design logo in collaboration with LAC.
 
 #### August
 
-- Co-chairs draft and share for comment Call for Proposals (Papers, Sessions, Posters, Lightning Talks). Workshop Coordinator will draft Call for Workshops.
+- Co-chairs draft and share with LAC for comment Call for Proposals (Papers, Sessions, Posters, Lightning Talks, Workshops) (CFP). 
+- Ensure you are set-up to use the OpenConf set-up. Contact the executive board to arrange payment.
+- Obtain the shell of the previous year’s conference to use as a template in the Google Drive.
+- Brainstorm with LAC potential plenary speakers.
 
-- Ensure you are set-up to use the OpenConf set-up.  Contact executive board to arrange payment.
-
-- Obtain the shell of the previous year’s conference to use as a template from previous year’s co-chairs.
 
 #### September
 
-- Draft, share, and revise call for workshops
-
-- Revise call for papers based on group feedback
-
-- Solicit volunteers to send out call for papers to various email lists
-
-- Finalize call for papers
-
+- Present theme and logo to Administrative Committee for comment and approval by acclamation.
+- Revise CFP  based on feedback
+- Solicit volunteers from Administrative Committee to send out call for proposals to various email lists
+- Finalize CFP
 - Build and test submission form in OpenConf
-
 - Think about deadlines for Fellows applications, papers deadline, general submissions, sorting, notifications, etc.
+- Reach out to potential plenary speakers.
+- Send out an announcement to IASSIST and other relevant lists a Hold the Date announcement with theme, location, images. Call for proposals. - Late September
+
 
 #### October
 
-- Send out Call for Proposals (CFP) to IASSIST-L (co-chairs) and other lists (volunteers) - early Oct.
-
-- Send out call for workshops (if not done simultaneously with general call)
-
+- Send out Call for Proposals to IASSIST-L (co-chairs) and other lists (volunteers) - very early Oct.
 - Create plan for delegating work among committee members
-
 - Solicit and decide upon volunteers for particular PC roles
+- Set deadline for November 1 (and if needed extension no later than November 15)
+
 
 #### November
 
-- As submissions come in, clarify with speakers any uncertainties or further information needed; have completed and finalized submissions by week before last week of November.
-
-- Set Deadline for submissions in November
-
+- As submissions come in, clarify with speakers any uncertainties or further information needed.
+- Close submissions. 
 - Report on number of proposals submitted in AC Meetings (see calendar)
+
 
 #### December
 
 - Begin proposal evaluations by early December
-
 - Submission review completed by mid December
-
-- Evaluate workshop submissions and consult with PC chairs for decisions - Deadline mid December for proposals
-
+- Evaluate workshop submissions and consult with PC chairs for decisions.
 - Work with LAC to determine workshop space and arrangements
+
 
 #### January
 
-- Provide preliminary schedule to Sorting Coordinator and Committee
+- Firm up all acceptances by early January.  Send out notifications by mid-January.
+- Require acceptances by two weeks after the offer goes out.
+- Program Committee begins building a preliminary schedule.  Figure out sub-themes.
+- Send any appeals to the Diversity Review Process.
 
-- Sorting Coordinator and Committee refine groupings (with titles) and make final decisions on acceptances - Due mid-late January
-
-- Organize sessions into slots in the schedule (Chairs; after receive final groupings)
-
-- Finalize the schedule and firm up all acceptance decisions by late January/early February Deadline for notification of acceptance: Late January/early February
-
-	- Send the acceptance/rejection letters, including information about slated time slot
-
-	- Include original proposal and title / ask for changes and confirmation by March 1.
 
 #### February
 
+- **Early February. Send out listings of topics, plenaries, and registration link to list servs to get people interested. This does not need to have times yet but should give enough so that someone considering registering knows what the offerings are. Include information about the host site to create excitement about the conference and location.**
 - Gather info. needed for communicating with chairs and presenters
+- Plan and finalize schedule
+- Registration should open in early February.
 
-- Request any special equipment needed for workshops with local committee
-
-- Plan and finalize workshop schedule
-
-- Create overall conference schedule; include a calculation of the number of sessions possible
-
-- Decide upon and solicit plenary speaker (in process with exec)
 
 #### March
 
-- Rearrange session arrangement as needed based on any feedback from presenters and conflicts that arise with chair assignment.
-
+- **Put the final program online by the beginning of March. Send out an announcement regarding registration and program by volunteers to lists.**
+- Rearrange session arrangement as needed based on conflicts.
 - Make schedule in OpenConf and update records in proposal database using the updated Excel file - rolling
+- Build spreadsheet for session chair signup.
 
-- Begin to recruit session chairs about eight weeks pre-conference and remind any panel sessions without chairs to recruit one.
-
-- Send Letter 1 to session chairs/speakers five to six weeks pre-conference, outlining expectations, confirming info. about collecting AV & other needs.
-
-- Get final program up online before end of March - Ideally time with registration opening.
-
-- Paper submissions collected by end of March (Paper Coordinator and Committee will review).
 
 #### April
 
-- Finish recruiting all session chairs
+- By early April, workshop and poster coordinators send out communication regarding specs.
+- Send out reminder promotional email.
+- Recruit session chairs
+- Send Letter 1 to session chairs/speakers five to six weeks pre-conference, outlining expectations, confirming info., and communicating about AV & other needs.
+- Revise program and plan for disability accommodations as needed based on information provided by session chairs.
+- Letter 2 for speakers (further expectations, details for sessions, info. from publications committee)
+- Paper submissions collected by mid-April (Paper Coordinator and Committee will review).
 
-- Hear back from session chairs; revise program and plan for special accommodations as needed
-
-- Letter 2 for speakers (further expectations, details for sessions, info. from publications committee) - 
 
 #### May
 
-- Final logistics planning with LAC 
+- First week of May, Session Chairs send out emails to presenters.
+- Final logistics planning with LAC
+- Final logistics email to registrants
+- Work with Communications to set up Zenodo
+- First week of May, Session Chairs send out emails to presenters.
+
 
 #### June/July
-
-- Follow-up with presenters as needed, largely around collection of presentations (may be through OpenConf or other platform as needed)
-
-- Export program from OpenConf and provide to IASSIST Archivist (ask Admin)
-
+- Provide to Communications and Archive program information
 - Export shell files from OpenConf (.oc) and provide to next year’s PC chairs
-
 - Revise conference manual as needed
+- **Celebrate a job well done!**
 
-- **Celebrate on a job well done!**
 	
 	
 ## Choosing a Conference Title
@@ -614,7 +598,20 @@ The [Program Commitee Co-Chairs]({{< ref "program-planning-manual.md#pc-co-chair
 	
 ## Conference Schedule Format and Organization of the Program
 
-The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}})).  It typically follows this schedule, but changes may be made depending on circumstance.  Any proposed major changes should be run by the IASSIST Administrative Committee.
+Tips:
+
+- This is a potential schedule dependent upon the location, pacing, etc. This is flexible.
+- Items that are not flexible:  Business Lunch will be on Thursday and banquet that evening.
+- Should include a day of workshops before the conference.
+- Networking is critical. Try to allow at least one 30 minute break each day.
+- Should be no more than 5 concurrent sessions.
+- Should be one to two plenaries or alternative structures such as fireside chats (a chance for all to be in the same room and allow announcements).
+- Should have a session for Birds of a Feather.
+- If possible, have wine and cheese for the poster sessions.
+- Need at least one slot for interest groups (at end of day).
+
+
+The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< ref "program-planning-manual.md#pc-co-chair-duties" >}})).  It typically follows this schedule, but changes may be made depending on circumstance. Any proposed major changes should be run by the IASSIST Administrative Committee.  This uses concurrent sessions of 1 hour blocks, transitions of 15 minutes, and breaks of 30 minutes.
 
 |Monday|Tuesday|Wednesday|Thursday|Friday|
 |---|---|---|---|---|
@@ -628,7 +625,7 @@ The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< 
 |||Poster Session|IASSIST Banquet||
 
 <br />
-There may be additional meetings, like IFDO meeting, on Tuesday. DDI Alliance may also choose to meet after the conference on Saturday. 
+Collaboration with other groups such as CESSDA when in Europe or CARTO when in Canada is encouraged. They may have additional meetings preceding or following the conference. The DDI Alliance has often tagged on their meeting to the IASSIST conference.
 
 ## Collection and Archiving of Conference Presentations
 
