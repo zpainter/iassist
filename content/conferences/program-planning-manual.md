@@ -621,7 +621,7 @@ The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< 
 |---|---|---|---|---|
 |Satellite Events such as DDI Alliance||Break|Break|Break|
 |---|---|---|---|---|
-|||A. Concurrent Sessions (no more than 5)|E. Concurrent Sessions (no more than 5)Lightning Talks|
+|||A. Concurrent Sessions (no more than 5)|E. Concurrent Sessions (no more than 5)|Lightning Talks|
 |---|---|---|---|---|
 |||Transition|Transition|Lunch|
 |---|---|---|---|---|
