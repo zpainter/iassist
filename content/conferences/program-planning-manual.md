@@ -615,14 +615,19 @@ The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< 
 
 |Monday|Tuesday|Wednesday|Thursday|Friday|
 |---|---|---|---|---|
-|All day meetings of IASSIST Admin and DDI Alliance|Morning Workhops (3-5)|Plenary 1|Plenary 2|Plenary 3 OR Concurrent Sessions G (no more than 5, Friday typically leaner)|
-||Afternoon Workshops (3-5)|Break|Break|Break|
-||Opening Reception|Concurrent Sessions A (no more than 5|Concurrent Sessions D (no more than 5)|Concurrent Sessions H (no more than 5, Friday typically leaner)|
-|||Lunch|Business Lunch|Lunch|
-|||Concurrent Sessions B (no more than 5)|Concurrent Sessions E (no more than 5)|Lightning Talks|
-|||Break|Birds of a Feather Session|Conference Wrap-Up|
-|||Concurrent Sessions C (no more than 5)|Concurrent Sessions F (no more than 5)||
-|||Poster Session|IASSIST Banquet||
+|Exec|Registration|Registration|Registration|Registration|
+|Admin|AM Workshops (3-5)|Conference Opening & Plenary 1|Plenary|H. Concurrent Sessions (no more than 5)|
+|Satellite Events such as DDI Alliance||Break|Break|Break|
+|||A. Concurrent Sessions (no more than 5)|E. Concurrent Sessions (no more than 5)Lightning Talks|
+|||Transition|Transition|Lunch|
+|||B. Concurrent Sessions (no more than 5)|F. Concurrent Sessions (no more than 5)|I. Concurrent Sessions (no more than 5)
+|||Lunch|Business Lunch (at least 75 minutes)|Closing Ceremony|
+|||C. Concurrent Sessions (no more than 5)|Birds of a Feather||
+||PM Workshops (3-5)|Break|Break||
+|||D. Concurrent Sessions (no more than 5)|G. Concurrent Sessions (no more than 5)||
+|||Transition|Interest Groups||
+||Evening - Opening Reception|Poster Sessions|Evening - Banquet||
+
 
 <br />
 Collaboration with other groups such as CESSDA when in Europe or CARTO when in Canada is encouraged. They may have additional meetings preceding or following the conference. The DDI Alliance has often tagged on their meeting to the IASSIST conference.
@@ -632,7 +637,19 @@ Collaboration with other groups such as CESSDA when in Europe or CARTO when in C
 Session chairs and Program Chairs are in key positions in reminding presenters to upload their presentation files into Zenodo. Prepare a [cheat sheet](https://iassistdata.org/conferences/iassist2023/recommended-presentation-metadata-in-zenodo-2023.pdf) for the direct upload to Zenodo to make sure that everyone adds the relevant metadata. The cheat sheet needs to be reviewed and updated annually. The Session and Program Chairs should follow up with the presenters during the weeks after the conference to collect as many presentations as possible.
 
 
+## Other Notes
 
+Program Committee starting with IASSIST 2026 (Approved by Administrative Committee - December 17, 2024)
 
+The Program Committee will consist of at least two co-chairs who are recommended by the Executive Committee (EXEC) for appointment by the IASSIST President with the consent of the Administrative Committee (ADMIN). The program chairs will serve 2 year terms that are staggered.
 
-	
+The Program Committee will consist of at least two co-chairs who are recommended by the Executive Committee (EXEC) for appointment by the IASSIST President and approved by acclamation by the Administrative Committee (ADMIN). The program chairs will serve 2 year terms that are staggered. The co-chairs, in addition to leading the program, will meet regularly with Local Arrangements chairs. Current Program Committee chairs should be consulted to see if they have any recommendations. The process should begin by March to allow sufficient time to ask people and have approval by acclamation by ADMIN by the May administrative meeting.  The newly appointed Program chairs ideally can observe the conference before taking over as a Program chair.
+
+The Program chairs will choose Coordinators (Workshops, Posters, Lightning Talks, Sessions, etc.). The coordinator roles can serve one year, 2 years, or continue. Coordinators are not expected to attend the program committee meetings unless called to a specific meeting due to their role but are encouraged to read all minutes to understand the bigger picture of the program. Other roles such as reviewers will be chosen each year in an open call to the membership.  
+
+Notes:
+- For the first year of the new structure, one chair would serve a one year term in order to achieve the stagger.  
+- In the event of a joint conference (such as CARTO, CESSDA, etc.) a representative from that organization would be invited to the Program Committee to take part in planning.   
+- A call to the Membership will go out for interest in serving on Program.
+- EXEC should consider geographic and gender diversity in the staggered appointments. Geographic is likely not viable at this point in terms of trying to have someone from outside USA/Canada given low participation from outside these areas.
+
