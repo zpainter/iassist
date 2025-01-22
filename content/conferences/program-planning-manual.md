@@ -616,16 +616,27 @@ The conference schedule is built in OpenConf (see [Program Co-Chair Duties]({{< 
 |Monday|Tuesday|Wednesday|Thursday|Friday|
 |---|---|---|---|---|
 |Exec|Registration|Registration|Registration|Registration|
+|---|---|---|---|---|
 |Admin|AM Workshops (3-5)|Conference Opening & Plenary 1|Plenary|H. Concurrent Sessions (no more than 5)|
+|---|---|---|---|---|
 |Satellite Events such as DDI Alliance||Break|Break|Break|
+|---|---|---|---|---|
 |||A. Concurrent Sessions (no more than 5)|E. Concurrent Sessions (no more than 5)Lightning Talks|
+|---|---|---|---|---|
 |||Transition|Transition|Lunch|
+|---|---|---|---|---|
 |||B. Concurrent Sessions (no more than 5)|F. Concurrent Sessions (no more than 5)|I. Concurrent Sessions (no more than 5)
+|---|---|---|---|---|
 |||Lunch|Business Lunch (at least 75 minutes)|Closing Ceremony|
+|---|---|---|---|---|
 |||C. Concurrent Sessions (no more than 5)|Birds of a Feather||
+|---|---|---|---|---|
 ||PM Workshops (3-5)|Break|Break||
+|---|---|---|---|---|
 |||D. Concurrent Sessions (no more than 5)|G. Concurrent Sessions (no more than 5)||
+|---|---|---|---|---|
 |||Transition|Interest Groups||
+|---|---|---|---|---|
 ||Evening - Opening Reception|Poster Sessions|Evening - Banquet||
 
 
