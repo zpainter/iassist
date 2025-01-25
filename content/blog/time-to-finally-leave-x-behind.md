@@ -1,0 +1,17 @@
++++
+author = "Tuomas J. Alaterä"
+title = "Time to Finally Leave X Behind"
+tags = [ "News and Announcements", "social media",]
+date = "2025-01-24 03:00:00 -0700"
+draft = "false"
+banner = "/img/blog/exit.png"
++++
+IASSIST adopted Twitter at quite an early stage, already in 2010. For many years, Twitter was a key online communication tool during annual conferences. For several years, the closing session of the conference even highlighted the top ten or so tweets. In addition to funny updates, Twitter served as an information channel and, during the sessions, as a venue to share key observations. The participants summarised key contents, shared insightful observations in 140 characters and photos. We argued, jokingly, about which was the official hashtag to use: for example, #iassist15 or #iassist2015. After all, the second one cost two more valuable characters! Iassisters also shared personal updates and professional news on Twitter between conferences.
+
+Since then, there have also been different channels for communication during the conference. For example, a conference application or Slack has been used. We have also adopted other social media channels, but Twitter still had the largest number of followers. Now it's time to say goodbye to it.
+
+In the last couple of years, we have noticed that the service is no longer the same as before. Instead of being the source of first news — whether these were about research data management or events in the world's crisis centres beyond the reach of conventional means of communication — the discussion atmosphere had become polarised and, as a result, responses to messages and their sharing decreased. Even so, the service was still a useful communication channel for organisational news. Until it became X and the predictability disappeared, the terms of use changed, following became more difficult for unregistered customers, features for non-paying customers were cut, and the amount of fake news increased massively. The number of followers started to decrease.
+
+Therefore, IASSIST, like many other organisations, has decided to stop using X. It is no longer suitable for its original purpose, and we do not want to direct our members to it. We have already significantly reduced our communication on the service earlier, and IASSIST will totally stop the use of X by February 11, 2025. By then, references to X from our services will be removed, and we will change our account settings to be more private. There will no longer be new updates to the platform.
+
+However, IASSIST does not leave social media. We are still available on several platforms. Our number of followers has grown fastest on [LinkedIn <span class="fas fa-external-link-alt"></span>](https://www.linkedin.com/company/iassistdata)and [Bluesky <span class="fas fa-external-link-alt"></span>](https://bsky.app/profile/iassistdata.bsky.social). [Facebook <span class="fas fa-external-link-alt"></span>](https://www.facebook.com/iassistdata) and [Mastodon <span class="fas fa-external-link-alt"></span>](https://mastodon.social/@iassistdata) also serve you. All these channels convey the most important IASSIST news. LinkedIn and Facebook are more verbose, and Bluesky and Mastodon refer more to content published on the website. See you there — or face-to-face in Bristol next June when IASSIST turns 50!
