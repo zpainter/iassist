@@ -200,12 +200,6 @@ draft = "false"
     Editor ensures there is a regular stream of content on the blog.
 
 ### How can I follow / be followed by iassistdata on Twitter or Facebook?{#faq25}
->   IASSIST has a Twitter account, managed by the web team. If you have
-    a twitter account, you can follow iassistdata. We'll follow you
-    back unless you block us (it's up to you!). We'll occasionally
-    retweet data-related tweets. A recent stream comes through the
-    IASSIST home page. View an [iBlog post]({{< ref "iassist-twitter-account.md" >}}) announcing the IASSIST twitter
-    account. Our Facebook gets roughly the same status updates as the
-    Twitter account.
+>   IASSIST no longer uses X/Twitter. Instead, we welcome you to follow us on LinkedIn, Bluesky, Facebook, and Mastodon. All platforms get roughly the same status updates.
 
 
