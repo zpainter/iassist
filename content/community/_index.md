@@ -40,13 +40,12 @@ Webinars are free to attend, usually open to non-members too, but a registration
 
 ## IASSIST on Social Media
 
-Follow our on the social media platforms of your choice. Twitter feed and check out our page on Facebook, and see some of us in action on Flickr. On YouTube you will find IASSIST all webinar recordings. 
+Follow us on your favourite social media platforms! We have stopped using x/Twitter, but you can find us on LinkedIn, Bluesky, Facebook, and Mastodon. These platforms mostly get the same updates, though we occasionally repost other content on LinkedIn. You can find all IASSIST webinar recordings on YouTube. And for a trip down the memory lane, check us out on Flickr. 
 
 - [IASSIST on Facebook](https://www.facebook.com/iassistdata/)
 - [IASSIST on Linkedin](https://www.linkedin.com/company/iassistdata)
 - [IASSIST on Bluesky](https://bsky.app/profile/iassistdata.bsky.social)
 - [IASSIST on Mastodon](https://mastodon.social/@iassistdata)
-- [IASSIST on Twitter](https://twitter.com/iassistdata)
 - [IASSIST on YouTube](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
 - [IASSIST on Flickr](http://www.flickr.com/search/?w=all&amp;q=iassist&amp;m=text)
 
