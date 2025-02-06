@@ -22,35 +22,10 @@ Meet the leadership team:
 Email the leadership team, ***QSSHDIG [ at ] gmail.com*** for more information or to sign up for our mailing list.
 
 
-## Call for Presentations: Workshops on Qualitative Research Technology {#cfp1}
+## Register now for the 2025 workshop series on qualitative data analysis tools.
 
-Do you use or consult on software or other technology for qualitative research? 
-
-We're seeking presenters for a series on qualitative research technology in early 2025 to help build our collective knowledge of the tools available to qualitative researchers. Technology could include dedicated software for qualitative data analysis (e.g. NVivo, Taguette) or any other tool used across the research process. 
-
-Interested speakers should see the [full call for proposals <span class="fas fa-external-link-alt"></span>](https://docs.google.com/document/d/1gD1rKvZHPYyk8-tpiGIruLvjPXKhCbL9D48gKvEGOc8/edit?tab=t.0) and complete this [brief form <span class="fas fa-external-link-alt"></span>](https://docs.google.com/forms/d/e/1FAIpQLSccHFUJII5f94J8GzNO-_yeegj9O05cvVVHGP3WSIIXfT6FCA/viewform?usp=sf_link) by **5pm CST on Friday, December 6, 2024**. 
-
-Questions can be submitted to Jess Hagman (jhagman at illinois.edu). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+Throughout the year, QSSHDIG and the Professional Development committee is hosting a [series of workshops <span class="fas fa-external-link-alt"></span>](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) on technology for qualitative research. The workshops are intended to offer both researchers and those who consult with qualitative researchers an introductory overview of the technology presented. Please direct any questions on the workshop series to Jess Hagman jhagman ( at ) illinois.edu. 
 
 
 
