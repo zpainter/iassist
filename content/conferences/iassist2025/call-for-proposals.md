@@ -38,7 +38,7 @@ We request that submitters limit themselves to one proposal per format type.
 
 **The Call for Proposals is now closed. The deadline for submissions was Friday December 13, 2024.**
 
-Decisions regarding submissions will be sent out by email mid-February 2025.
+Decisions regarding submissions were sent out by email late January 2025.
 
 <br />
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/openconf.php" target="_blank">Review your submissions <span class="fas fa-external-link-alt"></span></a>
