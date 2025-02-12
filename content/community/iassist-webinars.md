@@ -12,29 +12,23 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 ### Webinar registrations
 
-> No webinar registrations open at the moment.
-
 <!--
-#### Incorporating Data Quality into your teaching and research consultations
-
-Join Grace Liu (West Chester University), Bobray Bordelon (Princeton University), Rashelle Nagar (Stanford University), and Jennifer Boettcher (Georgetown University) for a panel discussion on incorporating data quality literacy into instruction and research consultations. They will introduce a new open educational resource on data quality literacy, which features an open-access e-book based on insights from leaders in academia, government, and the corporate sector, shared during the IMLS National Forum Webinar Series. Additionally, the resource offers practical tips and knowledge briefs on data quality topics. The panel will engage the audience in a lively discussion on incorporating data quality and utilizing these open educational materials for teaching and research consultations. These materials were partially made available through an IMLS grant on building the capacity of academic librarians to understand data quality issues and evaluate data quality.
-
-About our speakers:
-
-**Grace Liu** is the Associate Professor and Business Librarian at West Chester University. Since joining WCU in 2019, she has initiated several grant projects on topics including evaluating online sources, data quality literacy, college student retention, career information literacy, and equity efforts in libraries. She is the Principal Investigator of the Institute of Museum and Library Services (IMLS) National Forum grant project Building Capacity of Academic Librarians in Understanding Quantitative Data, Data Quality Problems, and Evaluating Data Quality [RE-252357-OLS-22]. She published the article Data Quality Problems Troubling Business and Financial Researchers: A Literature Review and Synthetic Analysis in the Journal of Business & Finance Librarianship in 2020.
-
-**Bobray Bordelon** joined Princeton University as the Economics & Finance Librarian in 1993 and has led Data & Statistical Services since 2004. He is the former director of the Cultural Policy and the Arts National Data Archive (CPANDA) (2006-2015).  He has served in many leadership roles in various data and library organizations and is currently Vice-President of IASSIST and a member of the Roper Archival Advisory Committee. He co-taught “Providing Social Science Data Services: Strategies for Design and Operation” (2014-2018) as part of the ICPSR summer program and served on ICPSR Council (2018-2024).  He has been honored with the William H. Flanigan Award for Distinguished Service as an ICPSR Official Representative and the ALA BRASS Award for Excellence in Business Librarianship.  He has authored various articles and chapters on a wide variety of topics, guest edited journals, and is a frequent speaker.  
-
-**Jennifer C. Boettcher** has had a prolific career spanning 30-plus years. She is a nationally known business librarian who is known for her books on government information and the economic census as well as her articles about NAICS (North American Industry Classification System) codes. She has published dozens of articles and has given more than 40 presentations at the national and local levels. Jennifer has received several awards including the 2023 RUSA Isadore Gilbert Mudge Award in recognition of her outstanding contributions to reference librarianship, the 2022 Special Library Association’s Business and Finance Community Distinguished Member Award, and the 2010 BRASS Gale Cengage Award for Excellence in Business Librarianship. She is a mentor to many in the profession and a committed and active member of the American Library Association, Special Libraries Association, the Academic Business Libraries Director group, CABAL (Capital Area Business Academic Librarians), a group that she founded, and is still learning from IASSIST.
-
-**Rashelle Nagar** is the Business Research & Collections Librarian at Stanford Graduate School of Business Library. She is the Co-Principal Investigator of the Institute of Museum and Library Services (IMLS) National Forum grant project Building Capacity of Academic Librarians in Understanding Quantitative Data, Data Quality Problems, and Evaluating Data Quality [RE-252357-OLS-22].
-
-**Time:** November 7, 2024 12pm - 1pm Eastern Time
-
-<a class="btn btn-template-main" href="https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus06web.zoom.us%2Fmeeting%2Fregister%2FtZArdemrrzotE9c83kyS_d0Ozs_7QH8ZglTr&data=05%7C02%7Ctuomas.alatera%40tuni.fi%7C6ac2d9cae7254f1b566708dce3e1200c%7Cfa6944afcc7c4cd89154c01132798910%7C0%7C0%7C638635803276831089%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=HQN7nZbTaZLZI8AdVMhbXpsHN%2FgYJMBs1qsOWLD0CUI%3D&reserved=0" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
-
-This webinar is brought to you by the IASSIST DEI Data Resources Interest Group and the Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+> No webinar registrations open at the moment.
 -->
+
+#### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
+
+Legacies of illegality surrounds the utilization of data, information and how they are passed across for use in organizations, society and institutions. Data and information hiding through a concept that synchronizes with data abstraction and encapsulation is taken to a different parlance where process owners behave as if the exclusivity of access and knowledge about that gives them a power boost even at the detriment of organizational and societal growth. They make users wander and grope in an abyss of data loss even when they are in a familiar environment. This presentation addresses issues relating to democratizing data support and governance strategy. The intention is to bring us to speed and come to terms with the need to be democratic about data and information usage and dissemination while observing and aligning with hierarchical access rights. The aims are to encourage listeners to make data and information readily accessible and understandable to a wider range of users within an organization, while still maintaining robust data governance practices to ensure accuracy, security, and compliance, essentially allowing everyone to utilize data effectively without requiring extensive technical expertise that make users wander even though they are not lost.
+
+About our speaker:
+
+Professor **Longe Olumide Babatope**, MTech, PhD, FASI, is a leading expert in Information Systems Security, recognized by Microsoft Research for his contributions to privacy and cybersecurity in Africa. A Fulbright SIR Fellow, Heidelberg Laureate, and MacArthur Scholar, he has collaborated with NEPAD, the UN, and MIT-Harvard Cyber Explorations on ICT innovation and cyber governance. His research, cited over 5,000 times, has influenced U.S. patents and global cybersecurity policies. With nearly 200 publications, he has engaged with top institutions worldwide, including Cambridge, Imperial College, and UBC. A Fellow of the African Scientific Institute, he holds an Endowed Professorship in Cybersecurity & ICT Education in Africa and serves as Vice-Chancellor of West Midlands Open University, Lagos. He is also a doctoral supervisor, research assessor, and examiner for global institutions, advancing education, research, and policy.
+
+**Time:** Friday, February 28, 2025, 9am EST / 2pm UTC
+
+<a class="btn btn-template-main" href="https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus06web.zoom.us%2Fmeeting%2Fregister%2F4fn6RaXiQHeBvywom2HUfw&data=05%7C02%7Ctuomas.alatera%40tuni.fi%7Ccd4919bbd2a34736db2708dd4b73cc84%7Cfa6944afcc7c4cd89154c01132798910%7C0%7C0%7C638749682908859590%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=MmZWqcvjOWr7Oyvc6QZv7IWJdwpX1FjEz4EOLyOhq1Q%3D&reserved=0" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+This webinar is brought to you by the IASSIST Professionals New to Data Support Interest Group and the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
 ### Most recent webinar recordings
 
