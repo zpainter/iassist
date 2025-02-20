@@ -11,7 +11,7 @@ IASSIST Fellows program has provided financial assistance to more than 70 confer
 
 The exact amount of support granted is determined annually and may have a special regional or thematic focus. Fellows program application provides more information.
 
-## Mission 
+## Mission
 
 The mission of the **IASSIST Fellows Program** is to provide support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data and implementing information policy decisions at their home institutions. 
 
@@ -23,7 +23,7 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 - Check the [current year's conference website](/conferences) for information about the conference and applying, including deadlines.
 
-- See [Fellows application form <i class="fas fa-external-link-alt"></i>](https://forms.gle/PRNz3p91Yao6sBjq5).
+- See [Fellows application form <span class="fas fa-external-link-alt"></span>](https://forms.gle/1xLyY3Y6W96GreKYA).
 
 For more information, to apply for funding, or nominate a person for a
 fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
