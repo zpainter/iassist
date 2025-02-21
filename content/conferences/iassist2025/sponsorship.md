@@ -1,14 +1,72 @@
 +++
 year = "2025"
 draft = "false"
-title = "IASSIST 2025 - Become a Sponsor"
+title = "IASSIST 2025 - Sponsorship"
 location = "Bristol, UK"
 datalink = "/data/conferences/archive/2025-Bristol.json"
 banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 
-**We are grateful for our sponsors and want to thank our previous sponsors!**
+We are grateful for our sponsors and want to thank our previous sponsors!<br>Skroll down for more information on sponsoring our 2025 event.
+
+**IASSIST 2025 Conference Sponsors**
+
+<!--
+### Platinum Sponsors
+-->
+<!-- logo 330 px -->
+<!--
+## Gold Sponsors
+-->
+<!-- logo 300 px -->
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2025/images/dataverse.png" alt="logo, Dataverse." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://dataverse.org">Dataverse <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2025/images/digital-science.png" alt="logo, Digital Science." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.digital-science.com">Digital Science <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2025/images/gale.png" alt="logo, Gale." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.gale.com">Gale <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300px" src="/conferences/iassist2025/images/gesis.png" alt="logo, Gesis." >}}
+  </div>
+  <div style="margin-left:1em;">
+    <a href="https://www.gesis.org">Gesis <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300px" src="/conferences/iassist2025/images/ukds.png" alt="logo, UK Data Service" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://ukdataservice.ac.uk">UK Data Service <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+
 
 ## Become a Sponsor - Sponsorship 2025 Details
 
