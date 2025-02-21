@@ -3,7 +3,7 @@ year = "2025"
 draft = "false"
 title = "IASSIST 2025 - Maps and Local Information"
 location = "Bristol, UK"
-banner = "/img/conferences/annual/bristol2025-placeholder-socialmedia.jpg"
+banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 

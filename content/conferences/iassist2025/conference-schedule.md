@@ -3,6 +3,7 @@ year = "2025"
 draft = "false"
 title = "IASSIST 2025 - Conference Schedule"
 location = "Bristol, UK"
+banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 <!--

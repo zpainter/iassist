@@ -3,6 +3,7 @@ year = "2025"
 draft = "false"
 title = "IASSIST 2025 - Visa and Travel"
 location = "Bristol, UK"
+banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 ## Basic information about travelling to Bristol, UK

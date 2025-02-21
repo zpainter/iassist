@@ -4,6 +4,7 @@ draft = "false"
 title = "IASSIST 2025 - Conference Hotel and Accommodations"
 location = "Bristol, UK"
 type = "conference-2025"
+banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 +++
 ## Conference Hotel
 
