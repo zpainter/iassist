@@ -18,11 +18,11 @@ Currently we have many webinars upcoming. Scroll down for more!
 > No webinar registrations open at the moment.
 -->
 
-#### IASSIST Workshop Series: Tools for Qualitative Research
+#### March 25 | IASSIST Workshop Series: Tools for Qualitative Research
 
 See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
 
-#### AI-Driven Data: From Raw Insights to Visual Mastery
+#### March 11 | AI-Driven Data: From Raw Insights to Visual Mastery
 
 In this webinar we will explore the transformative power of AI in the realm of data analysis and visualization. In this session, you'll discover how AI can streamline the journey from raw data to actionable insights by automating tasks such as data review, cleaning, organization, and pre-processing. We’ll also dive into techniques for creating compelling visualizations and demonstrate how AI, when provided with contextual information, can offer valuable recommendations for further research and exploration.
 
@@ -39,7 +39,7 @@ Robert is currently involved in many different projects at GU-Q, including teach
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
 
-#### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
+#### February 28 | Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
 
 Legacies of illegality surrounds the utilization of data, information and how they are passed across for use in organizations, society and institutions. Data and information hiding through a concept that synchronizes with data abstraction and encapsulation is taken to a different parlance where process owners behave as if the exclusivity of access and knowledge about that gives them a power boost even at the detriment of organizational and societal growth. They make users wander and grope in an abyss of data loss even when they are in a familiar environment. This presentation addresses issues relating to democratizing data support and governance strategy. The intention is to bring us to speed and come to terms with the need to be democratic about data and information usage and dissemination while observing and aligning with hierarchical access rights. The aims are to encourage listeners to make data and information readily accessible and understandable to a wider range of users within an organization, while still maintaining robust data governance practices to ensure accuracy, security, and compliance, essentially allowing everyone to utilize data effectively without requiring extensive technical expertise that make users wander even though they are not lost.
 
