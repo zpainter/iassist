@@ -12,9 +12,32 @@ Webinars will be recorded and made available on the [IASSIST YouTube Channel pla
 
 ### Webinar registrations
 
+Currently we have many webinars upcoming. Scroll down for more!
+
 <!--
 > No webinar registrations open at the moment.
 -->
+
+#### IASSIST Workshop Series: Tools for Qualitative Research
+
+See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
+
+#### AI-Driven Data: From Raw Insights to Visual Mastery
+
+In this webinar we will explore the transformative power of AI in the realm of data analysis and visualization. In this session, you'll discover how AI can streamline the journey from raw data to actionable insights by automating tasks such as data review, cleaning, organization, and pre-processing. We’ll also dive into techniques for creating compelling visualizations and demonstrate how AI, when provided with contextual information, can offer valuable recommendations for further research and exploration.
+
+About our speaker:
+
+**Robert Laws** has been working with Georgetown University since 2007 and at the Georgetown University in Qatar (GU-Q) campus since 2008. Throughout this period Robert has played a leading role in teaching students, faculty, and staff about technology. Although Robert's academic background is in history, he has gained a mastery of multiple types of digital skills, including web development, audio and video production, web development, data visualization, and artificial intelligence. He studied history, receiving a BA and MA from George Mason University. Robert received an MLS degree from SUNY at Buffalo.
+
+Robert is currently involved in many different projects at GU-Q, including teaching courses on data visualization and artificial intelligence. Robert has played a leading role in the University's engagement and adoption of emerging technologies and running the Library's Innovation Lab for advanced media and technology teaching and learning since its inception in 2023.
+
+**Time:** Tuesday, March 11, 2025, 11 am EDT / 3 pm UTC / 6 pm AST
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZEkcOmorT0oG9ZqUGO4x46jN8qq9NMXe6h6" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+This webinar is brought to you by the IASSIST Professionals New to Data Support Interest Group and the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+
 
 #### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
 
@@ -26,12 +49,13 @@ Professor **Longe Olumide Babatope**, MTech, PhD, FASI, is a leading expert in I
 
 **Time:** Friday, February 28, 2025, 9am EST / 2pm UTC
 
-<a class="btn btn-template-main" href="https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus06web.zoom.us%2Fmeeting%2Fregister%2F4fn6RaXiQHeBvywom2HUfw&data=05%7C02%7Ctuomas.alatera%40tuni.fi%7Ccd4919bbd2a34736db2708dd4b73cc84%7Cfa6944afcc7c4cd89154c01132798910%7C0%7C0%7C638749682908859590%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=MmZWqcvjOWr7Oyvc6QZv7IWJdwpX1FjEz4EOLyOhq1Q%3D&reserved=0" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/4fn6RaXiQHeBvywom2HUfw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 This webinar is brought to you by the IASSIST Professionals New to Data Support Interest Group and the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
-### Most recent webinar recordings
 
+
+### Most recent webinar recordings
 
 #### Incorporating Data Quality into your teaching and research consultations
 
