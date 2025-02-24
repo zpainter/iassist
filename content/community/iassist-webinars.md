@@ -36,7 +36,7 @@ Robert is currently involved in many different projects at GU-Q, including teach
 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZEkcOmorT0oG9ZqUGO4x46jN8qq9NMXe6h6" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
-This webinar is brought to you by the IASSIST Professionals New to Data Support Interest Group and the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
 
 #### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
