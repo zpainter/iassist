@@ -46,7 +46,7 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
     {{< figure width="270px" src="/conferences/iassist2025/images/gesis.png" alt="logo, Gesis." >}}
   </div>
   <div style="margin-left:1em;">
-    <a href="https://www.gesis.org">Gesis <span class="fas fa-external-link-alt"></span></a>
+    <a href="https://www.gesis.org">GESIS <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
     {{< figure width="240px" src="/conferences/iassist2025/images/dataverse.png" alt="logo, Dataverse." >}}
   </div> 
   <div style="margin-left:1em;">
-   <a href="https://dataverse.org">Dataverse <span class="fas fa-external-link-alt"></span></a>
+   <a href="https://dataverse.org">The Dataverse Project <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
@@ -81,6 +81,7 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
   </div>
 </div>
 
+<br />
 
 
 ## Become a Sponsor - Sponsorship 2025 Details
