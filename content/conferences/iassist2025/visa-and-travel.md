@@ -6,6 +6,21 @@ location = "Bristol, UK"
 banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
+This page gives you essential information about the visa requirements and basic information on travelling to Bristol.
+
+## Visa Information
+
+The information below is intended as a starting point and travellers should always confirm current guidelines with service providers and officials directly.
+
+You may need a visa  or an [Electronic Travel Authorisation (ETA) <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) to enter the UK. The type of visa you need may depend on where you come from, your reason for entering the UK, the length of your visit, and your personal circumstances. **To find out if you need a visa or ETA, see the [Check if you need a UK visa page <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/check-uk-visa) on GOV.UK.**
+
+
+**ETA**: The requirement for an ETA will apply on or after April 2, 2025 and details of [how to apply for an ETA <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta#apply-for-an-eta) and about the costs can be found on GOV.UK.
+
+**Visa**: If you are presenting at the conference and require a visa to enter the UK, you can request a supporting visa letter from the Local Arrangements Committee once you have registered. These will be issued by our local hosts, the University of the West of England. Your registration form will ask if you require a supporting document for your VISA application, if you have registered and haven’t received this in 3 working days from your registration please send an email to ***iassist2025 ( at ) uwe.ac.uk*** citing your full name, and registration email. 
+
+Please pay close attention to what type of a visa you need and remember that your application must be approved before you travel, so allow plenty of time for your application.
+
 ## Basic information about travelling to Bristol, UK
 
 The information below is intended as a starting point and travellers should always confirm current guidelines with service providers and officials directly. <!--Travellers should confirm current requirements and guidelines directly with the Canadian government, as conditions may change.--> 

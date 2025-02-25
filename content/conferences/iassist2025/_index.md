@@ -31,7 +31,8 @@ IASSIST (International Association for Social Science Information Services and T
 -->
 
 Submissions are now closed.
-: Thank you for your submissions. Decisions regarding submissions will be sent out by email mid-February 2025.
+: Thank you for your submissions. Decisions regarding submissions were sent out by email in late January 2025.
+: Registration will open in early March, 2025.
 
 See you in Bristol! It will be the **Best. IASSIST. Ever.**
 
@@ -44,12 +45,63 @@ IASSIST 2025 Program Committee: programme@lists.iassistdata.org
 
 Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml) in the historic city centre.
 
+<hr />
+<br />
+
+## IASSIST & CARTO sponsors
+
+### Gold 
+<!-- logo 300 px -->
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
+  <div style="padding: 2em;">
+    {{< figure width="300px" src="/conferences/iassist2025/images/ukds.png" alt="logo, UK Data Service" >}}
+  </div> 
+</div>
+
+
+## Silver 
+<!-- logo 270 px -->
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
+  <div style="padding: 2em;">
+    {{< figure width="270px" src="/conferences/iassist2025/images/digital-science.png" alt="logo, Digital Science." >}}
+  </div>
+  <div style="padding: 2em;">
+    {{< figure width="270px" src="/conferences/iassist2025/images/gesis.png" alt="logo, Gesis." >}}
+  </div> 
+  <div style="padding: 2em;">
+    {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
+  </div>
+</div>
+
+
+## Bronze 
+<!-- logo 240 px -->
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
+  <div style="padding: 2em;">
+    {{< figure width="240px" src="/conferences/iassist2025/images/dataverse.png" alt="logo, Dataverse." >}}
+  </div> 
+  <div style="padding: 2em;">
+    {{< figure width="240px" src="/conferences/iassist2025/images/gale.png" alt="logo, Gale." >}}
+  </div>
+</div>
+
+<br style="clear:both;">
+
+<hr />
+<br />
+
 <!--
 **<span style="background:pink;padding:.5em;border-radius:15px;">Save the date!</span>**
 -->
 <!--
 We look forward to meeting in England, UK next June for the first time since the 1975 IASSIST Organising Committee Meeting took place at the London School of Economics 50 years earlier in [1975](https://iassistdata.org/conferences/1974-1999-conferences). 
 -->
+
+
+
 
 <br />
 

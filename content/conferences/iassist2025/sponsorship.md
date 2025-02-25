@@ -16,23 +16,25 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
 ### Platinum Sponsors
 -->
 <!-- logo 330 px -->
-<!--
+
 ## Gold Sponsors
--->
 <!-- logo 300 px -->
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="300" src="/conferences/iassist2025/images/dataverse.png" alt="logo, Dataverse." >}}
+    {{< figure width="300px" src="/conferences/iassist2025/images/ukds.png" alt="logo, UK Data Service" >}}
   </div> 
   <div style="margin-left:1em;">
-   <a href="https://dataverse.org">Dataverse <span class="fas fa-external-link-alt"></span></a>
+   <a href="https://ukdataservice.ac.uk">UK Data Service <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
+## Silver Sponsors
+<!-- logo 270 px -->
+
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="300" src="/conferences/iassist2025/images/digital-science.png" alt="logo, Digital Science." >}}
+    {{< figure width="270px" src="/conferences/iassist2025/images/digital-science.png" alt="logo, Digital Science." >}}
   </div> 
   <div style="margin-left:1em;">
    <a href="https://www.digital-science.com">Digital Science <span class="fas fa-external-link-alt"></span></a>
@@ -41,16 +43,7 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="300" src="/conferences/iassist2025/images/gale.png" alt="logo, Gale." >}}
-  </div> 
-  <div style="margin-left:1em;">
-   <a href="https://www.gale.com">Gale <span class="fas fa-external-link-alt"></span></a>
-  </div>
-</div>
-
-<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
-  <div>
-    {{< figure width="300px" src="/conferences/iassist2025/images/gesis.png" alt="logo, Gesis." >}}
+    {{< figure width="270px" src="/conferences/iassist2025/images/gesis.png" alt="logo, Gesis." >}}
   </div>
   <div style="margin-left:1em;">
     <a href="https://www.gesis.org">Gesis <span class="fas fa-external-link-alt"></span></a>
@@ -59,10 +52,32 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="300px" src="/conferences/iassist2025/images/ukds.png" alt="logo, UK Data Service" >}}
+    {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
   </div> 
   <div style="margin-left:1em;">
-   <a href="https://ukdataservice.ac.uk">UK Data Service <span class="fas fa-external-link-alt"></span></a>
+    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research (ICPSR) <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+
+## Bronze Sponsors
+<!-- logo 240 px -->
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2025/images/dataverse.png" alt="logo, Dataverse." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://dataverse.org">Dataverse <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2025/images/gale.png" alt="logo, Gale." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.gale.com">Gale <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 

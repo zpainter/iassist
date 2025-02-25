@@ -42,7 +42,7 @@ The registration fees are similar to 2024 and are as follows:
 
 ### When does registration open?
 
-Registration will be open from 24 February 2025.
+Registration will be open from the end of February 2025.
 
 <!--See the [registration page](/conferences/iassist2025/registration/).-->
 
@@ -89,7 +89,7 @@ Registration will be held at the Mercure Bristol Grand Hotel as follows:
 
 ### What is the registration cancellation policy?
 
-TBA
+All payments are in GBP £ and are non-refundable. However, exceptions for visa-required situations may be possible, please contact us at iassist2025 ( at ) uwe.ac.uk. 
 
 ### How do I add my presentation to the conference archive? 
 
@@ -114,7 +114,7 @@ See https://www.gov.uk/apply-to-come-to-the-uk
 
 Please note that even if you don't need a visa, you may need to get an electronic travel authorisation (ETA).
 
-<!--See [Visa and Travel page](/conferences/iassist2025/visa-and-travel/).-->
+See [Visa and Travel page](/conferences/iassist2025/visa-and-travel/).
 
 ### What is the hotel cost? How do I make hotel reservations? 
 
