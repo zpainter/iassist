@@ -48,7 +48,7 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
 <hr />
 <br />
 
-## IASSIST & CARTO sponsors
+## IASSIST 2025 sponsors
 
 ### Gold 
 <!-- logo 300 px -->
