@@ -21,4 +21,16 @@ Workshops will be held on the [University West of England Bristol campus <span c
 
 For places to go or stay and things to do in Bristol, see [Visit Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/).
 
-{{< figure src="/img/conferences/annual/bristol2024_uwe.jpg" alt="" title="" width="400" >}}
+<!--
+{{< figure src="/img/conferences/annual/bristol2025-colourful-houses.jpg" alt="" title="" width="460" >}}
+{{< figure src="/img/conferences/annual/bristol2025-bridge-balloons.jpg" alt="" title="" width="460" >}}
+-->
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:.5em 0em .5em 0em;">
+  <div style="padding: .5em;">
+    {{< figure width="400px" src="/img/conferences/annual/bristol2025-colourful-houses.jpg" alt="logo, Dataverse." >}}
+  </div> 
+  <div style="padding: .5em;">
+    {{< figure width="400px" src="/img/conferences/annual/bristol2025-bridge-balloons.jpg" alt="logo, Gale." >}}
+  </div>
+</div>

@@ -26,6 +26,10 @@ Please pay close attention to what type of a visa you need and remember that you
 
 For most travel options we recommend flying to Heathrow if a direct flight to Bristol isn’t available. You can then get a (prebooked) coach from Heathrow to Bristol or use the National Rail website to arrive at Bristol Temple Meads by train.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1qwDYUAYEkRnFy6Vc0IkK6t3Yx0pddiY&ehbc=2E312F&noprof=1" width="720" height="540" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<small><a href="https://www.google.com/maps/d/embed?mid=1qwDYUAYEkRnFy6Vc0IkK6t3Yx0pddiY&ehbc=2E312F&noprof=1" target="_blank" title="Opens a new tab">View Larger Map <span class="fas fa-external-link-alt"></span></a></small>
+
 ### Flying into Bristol
 
 [Bristol Airport <span class="fas fa-external-link-alt"></span>](https://www.bristolairport.co.uk/)
