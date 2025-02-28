@@ -24,7 +24,7 @@ IASSIST 2025 would love for you to join us in Bristol, United Kingdom, for its g
 
 IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
 
-{{< figure src="/img/conferences/annual/bristol2025-floating-harbour.jpg" alt="" title="" width="700" >}}
+{{< figure src="/img/conferences/annual/bristol2025-floating-harbour.jpg" alt="Sunset over a river harbour. There are blocks of flats on the left bank of the river and museum steamship on the right." title="" width="800" >}}
 
 ### Call for Submissions and Workshops
 
