@@ -24,7 +24,16 @@ IASSIST 2025 would love for you to join us in Bristol, United Kingdom, for its g
 
 IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
 
+### Registration
+
+Registration will open on the first week of March. 
+
+Early Bird rate will be running until April 6
+
+
 {{< figure src="/img/conferences/annual/bristol2025-floating-harbour.jpg" alt="Sunset over a river harbour. There are blocks of flats on the left bank of the river and museum steamship on the right." title="" width="800" >}}
+
+
 
 ### Call for Submissions and Workshops
 
@@ -34,7 +43,6 @@ IASSIST (International Association for Social Science Information Services and T
 
 Submissions are now closed.
 : Thank you for your submissions. Decisions regarding submissions were sent out by email in late January 2025.
-: Registration will open in early March, 2025.
 
 See you in Bristol! It will be the **Best. IASSIST. Ever.**
 

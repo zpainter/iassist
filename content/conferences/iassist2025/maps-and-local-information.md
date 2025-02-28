@@ -28,9 +28,9 @@ For places to go or stay and things to do in Bristol, see [Visit Bristol <span c
 
 <div style="display:flex;flex-wrap:wrap;align-items:center;margin:.5em 0em .5em 0em;">
   <div style="padding: .5em;">
-    {{< figure width="400px" src="/img/conferences/annual/bristol2025-colourful-houses.jpg" alt="logo, Dataverse." >}}
+    {{< figure width="400px" src="/img/conferences/annual/bristol2025-colourful-houses.jpg" alt="A waterfront, colourful houses on the slope behind the water and small sailing yachts in the forefront." >}}
   </div> 
   <div style="padding: .5em;">
-    {{< figure width="400px" src="/img/conferences/annual/bristol2025-bridge-balloons.jpg" alt="logo, Gale." >}}
+    {{< figure width="400px" src="/img/conferences/annual/bristol2025-bridge-balloons.jpg" alt="Colourful hot air balloons over a large suspension bridge on clear sunny day. Bridge crosses a river and there are green trees on both sides." >}}
   </div>
 </div>

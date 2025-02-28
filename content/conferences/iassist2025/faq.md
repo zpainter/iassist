@@ -54,6 +54,10 @@ Early Bird Registration for Members and Non-Members will be available.
 
 You will be sent a confirmation email on receipt of your registration form and payment.
 
+### I have registered / don’t know if I’ve registered and I can’t find an Email confirmation. What should I do?
+
+If you believe you have registered and would like to check on something please email the registration team on: IASSIST2025 ( at ) uwe.ac.uk 
+
 ### What is included in the full registration fees?
 
 Access to all talks, workshops, drinks receptions on the evenings of Tuesday 03 and Wednesday 04 June, and a conference dinner on the evening of Thursday 05 June.
@@ -132,7 +136,7 @@ Most major credit card are accepted, but smaller stores may only accept Visa and
 
 ### How can I receive regular updates about the conference? 
 
-Until the registration is available, follow these pages and IASSIST in social media.
+Once you have registered, we will send you updates via Email. We will still be updating this website and our social media so please follow those too! 
 
 ### Will it be the best IASSIST ever?
 
