@@ -8,7 +8,9 @@ draft = "false"
 
 IASSIST Professional Developement Committee organizes and hosts IASSIST Community Webinars. Webinars are free to attend, but a registration is required. IASSIST members will be the first ones to get the information on future webinars. Webinars usually last about 45-60 minutes. Some of the topics have for example been data visualization, qualitative analysis tools, and data curation. 
 
-Webinars will be recorded and made available on the [IASSIST YouTube Channel playlist <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=aUriimb5Pbw&list=PLD9Y_M_A24iQJBWr2tz4XyPRFXHj-gTEW&pp=iAQB).
+Webinars will be recorded and made available under the CC BY license on the [IASSIST YouTube Channel playlist <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=aUriimb5Pbw&list=PLD9Y_M_A24iQJBWr2tz4XyPRFXHj-gTEW&pp=iAQB).
+
+On this page you will find links to the recordings and information on any webiars that are open for registration.
 
 ### Webinar registrations
 
@@ -38,7 +40,7 @@ Robert is currently involved in many different projects at GU-Q, including teach
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
-
+<!--
 #### February 28 | Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
 
 Legacies of illegality surrounds the utilization of data, information and how they are passed across for use in organizations, society and institutions. Data and information hiding through a concept that synchronizes with data abstraction and encapsulation is taken to a different parlance where process owners behave as if the exclusivity of access and knowledge about that gives them a power boost even at the detriment of organizational and societal growth. They make users wander and grope in an abyss of data loss even when they are in a familiar environment. This presentation addresses issues relating to democratizing data support and governance strategy. The intention is to bring us to speed and come to terms with the need to be democratic about data and information usage and dissemination while observing and aligning with hierarchical access rights. The aims are to encourage listeners to make data and information readily accessible and understandable to a wider range of users within an organization, while still maintaining robust data governance practices to ensure accuracy, security, and compliance, essentially allowing everyone to utilize data effectively without requiring extensive technical expertise that make users wander even though they are not lost.
@@ -52,10 +54,18 @@ Professor **Longe Olumide Babatope**, MTech, PhD, FASI, is a leading expert in I
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/4fn6RaXiQHeBvywom2HUfw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 This webinar is brought to you by the IASSIST Professionals New to Data Support Interest Group and the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
-
+-->
 
 
 ### Most recent webinar recordings
+
+#### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
+
+Longe Olumide Babatope <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14946938)
+
+{{< youtube K-pH1ZiChkg >}}
+
+<br />
 
 #### Incorporating Data Quality into your teaching and research consultations
 
@@ -65,15 +75,10 @@ Grace Liu, Bobray Bordelon, Jennifer C. Boettcher, Rashelle Nagar <br /> [Webina
 
 <br />
 
-#### Getting Started with Data Services Guidelines 
-
-Stephanie Labou, Vicky Rampin <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.13315139)
-
-{{< youtube jqNdslSIvXM >}}
-
-<br />
 
 ### Older webinar recordings
+
+- [Getting Started with Data Services Guidelines <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=jqNdslSIvXM) (Stephanie Labou, Vicky Rampin)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.13315139))
 
 - [Indigenous Data: A few perspectives <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=-wW5OjQw4L0) (Diana Lewis, Stacy Allison-Cassin, Camille Callison)<br />Webinar slides on Zenodo: [Lewis <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.11457041), [Callison & Allison-Cassin <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.11456881)
 
