@@ -4,7 +4,7 @@ draft = "false"
 title = "IASSIST 2025 - Registration"
 location = "Bristol, UK"
 datalink = "/data/conferences/archive/2025-Bristol.json"
-banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
+banner = "/img/conferences/annual/bristol2025-socialmedia-registration.jpg"
 type = "conference-2025"
 +++
 ## Conference Registration
