@@ -26,10 +26,13 @@ IASSIST (International Association for Social Science Information Services and T
 
 ### Registration
 
-Registration will open on the first week of March. 
+**Registration for the conference and workshops is now open!!!**
 
-Early Bird rate will be running until April 6
+Early Bird is currently open and running until April 6
 
+[**Register now**](registration/) to get the best rates and help make IASSIST 2025 the BEST EVER!
+
+<hr />
 
 {{< figure src="/img/conferences/annual/bristol2025-floating-harbour.jpg" alt="Sunset over a river harbour. There are blocks of flats on the left bank of the river and museum steamship on the right." title="" width="800" >}}
 

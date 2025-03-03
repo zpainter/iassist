@@ -25,7 +25,7 @@ Bristol International [Airport Flyer <span class="fas fa-external-link-alt"></sp
 
 ### Where will the workshops take place?
 
-Workshops will be held on the [University West of England Bristol campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/) (UWE) on 03 June. UWE is about 4 miles (6.5 km) from the Mercure Bristol Grand Hotel and is easily reached by bus or taxi in 20-30 minutes.
+Workshops will be held on the [University West of England Bristol campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/) (UWE) on 03 June. UWE is about 4 miles (6.5 km) from the Mercure Bristol Grand Hotel and is easily reached by bus or taxi in 20-30 minutes. Registration for workshops is now open. See the [registration page](/conferences/iassist2025/registration/).
 
 ### Will there be an option for virtual attendance?
 
@@ -42,9 +42,7 @@ The registration fees are similar to 2024 and are as follows:
 
 ### When does registration open?
 
-Registration will be open from the end of February 2025.
-
-<!--See the [registration page](/conferences/iassist2025/registration/).-->
+Registration is now open. See the [registration page](/conferences/iassist2025/registration/).
 
 ### Can I get a discount when I register early?
 
