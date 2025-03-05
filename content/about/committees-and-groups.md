@@ -49,8 +49,8 @@ Responsible for enabling productive and transparent communication among members 
 - **2023-2027 Web Editor: *Zac Painter. zp5928 [ at ] princeton.edu***
 - The [IASSIST Web Team](/about/web-team)
 
-#### Programme Committee & Local Arrangements  {#program-committee}
-Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events. 
+#### [Programme Committee & Local Arrangements](/conferences/iassist2025/conference-committees)  {#program-committee}
+Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events.  
 
 - **2024-2025 Program Co-Chairs: *Jane Fry, Michael Beckstrand, and Oliver Watteler***   
 
