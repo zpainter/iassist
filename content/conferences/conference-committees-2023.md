@@ -2,21 +2,16 @@
 title = "Conference Committees"
 draft = "false"
 +++
-# Conference Committees
+# Conference Committees 2023
 
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
 
-Contact the 2025 committees:
-: Program Committee: programme ( at ) lists.iassistdata.org
-: Local Arrangements Committee: IASSIST2025 ( at ) uwe.ac.uk
+Contact the 2023 committees:
+: Program Committee: programme [ at ] lists.iassistdata.org
+: Local Arrangements Committee: see the website
 
-Conference hashtag: #IASSIST2025
+Conference hashtag: #IASSIST2023
 
-Full committee info: [2025]({{< ref "iassist2025/conference-committees.md" >}})
-
-<br />
-
-<!--
 ## Program Committee
 
 Co-Chairs
@@ -42,12 +37,10 @@ Chair
 : Lynda Kellam, University of Pennsylvania, USA
 : Bobray Bordelon, Princeton University, USA
 : Ryan Womack, Rutgers University, USA
--->
+
 
 #### Previous conference committees
 
-[2024]({{< ref "iassist2024/conference-committees.md" >}}) |
-[2023]({{< ref "conference-committees-2023.md" >}}) |
 [2022]({{< ref "conference-committees-2022.md" >}}) |
 [2020-21]({{< ref "conference-committees-2020-21.md" >}}) |
 [2019]({{< ref "conference-committees-2019.md" >}}) |

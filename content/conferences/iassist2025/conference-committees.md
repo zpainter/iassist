@@ -36,6 +36,7 @@ type = "conference-2025"
 
 ### Local Arrangements Committee
 
-- Dr. Felix Ritchie
-- Deborah Wiltshire
-- Ripley Williamson King (UWE)
+- Dr. Felix Ritchie (UWE, UK)
+- Deborah Wiltshire (Gesis, Germany)
+- Ripley Williamson King (UWE, UK)
+- Anna Graham (UWE, UK)
