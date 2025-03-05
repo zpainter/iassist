@@ -146,5 +146,4 @@ Please follow IASSIST's social media accounts:
 - [Linkedin <span class="fas fa-external-link-alt"></span>](https://www.linkedin.com/company/iassistdata)
 - [Bluesky <span class="fas fa-external-link-alt"></span>](https://bsky.app/profile/iassistdata.bsky.social)
 - [Mastodon <span class="fas fa-external-link-alt"></span>](https://mastodon.social/@iassistdata)
-- [Twitter <span class="fas fa-external-link-alt"></span>](https://twitter.com/iassistdata) (only major updates)
 - [YouTube <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g)
