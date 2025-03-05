@@ -51,7 +51,7 @@ See you in Bristol! It will be the **Best. IASSIST. Ever.**
 
 IASSIST 2025 Program Committee: programme@lists.iassistdata.org
 : Michael Beckstrand, mjbeckst ( at ) umn.edu
-: Jane Fry, jane.fry ( at ) carleton.ca
+: Jane Fry, jane.fry ( at ) cunet.carleton.ca
 : Oliver Watteler, oliver.watteler ( at ) gesis.org
 
 ### Conference info
