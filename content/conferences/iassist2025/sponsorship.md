@@ -8,7 +8,7 @@ banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 
-We are grateful for our sponsors and want to thank our previous sponsors!<br>Skroll down for more information on sponsoring our 2025 event.
+We are grateful for our sponsors and want to thank them for their generous support. <br>Skroll down for more information on sponsoring our 2025 event.
 
 **IASSIST 2025 Conference Sponsors**
 
@@ -88,10 +88,11 @@ We are grateful for our sponsors and want to thank our previous sponsors!<br>Skr
 
 Our sponsorship brochure talks more about this year's sponsorship packages, and why become a sponsor.
 
-For more information contact us: lac  ( at ) lists.iassistdata.org
+For more information contact us: lac ( at ) lists.iassistdata.org
 
 **&raquo; [IASSIST 2025 sponsorship packages [PDF]](/file/conferences/iassist-carto-2025-sponsorship-package.pdf)**
 
+<!--
 ### Sponsorship tiers in brief
 
 Note: all fees are in GDP.
@@ -125,5 +126,4 @@ Silver level benefits (£3,000 GBP)
 
 Bronze level benefits (£1,000GBP)
 : Sponsor Logo on website
-
-
+-->
