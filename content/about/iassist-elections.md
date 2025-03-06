@@ -29,9 +29,7 @@ The newly elected candidates will take office at the 2025 General Assembly, whic
 
 The formal responsibilities of all elected IASSIST officers are described in Article XII of the IASSIST Constitution.
 
-<!--
-<a class="btn btn-template-main" href="/about/2025-election-bios/" >Slate of 2025 candidates and their biographies</a> <br /><br />
--->
+<a class="btn btn-template-main" href="/about/2025-election-bios" >Slate of 2025 candidates and their biographies</a> <br /><br />
 
 <!--To nominate a candidate, or ask--> 
 Any questions about the Election or nominations
