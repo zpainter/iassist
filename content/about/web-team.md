@@ -14,7 +14,7 @@ draft = "false"
 |Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu||
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
 |Discussion List Moderator	|Ashley Jester, discuss-request [ at ] lists.iassistdata.org  |
-|Social media Editors		|Sebastian Karcher, Lynda Kellam, Anja Perry|
+|Social media Editors		|Tuomas J. Alaterä, Lynda Kellam|
 |Jobs Repository Editor		|Ryan Womack |
 |Administrator Support		|Zac Painter |
 |Membership Site Admins		|iassist.membership [ at ] gmail.com|
@@ -36,7 +36,7 @@ If you wish to see something posted on the website or are looking for ways to ma
 |IASSIST Quarterly||
 |:---|:---|
 |IQ Editors				|Michele Hayslett & Ofira Schwartz-Soicher,<br />editor.iassistquarterly [ at ] gmail.com  |
-|IQ Support Contact/Managing Editor| Phillip Ndhlovu, phillip.ndhlovu [ at ] gsu.ac.zw  |
+|IQ Support Contact/Managing Editor| Position open  |
 
 <br />[See IQ for more details <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/about/contact)
 
