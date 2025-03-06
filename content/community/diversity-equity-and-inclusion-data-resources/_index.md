@@ -1,9 +1,9 @@
 ---
-title: "Diversity, Equity, and Inclusion Data Resources"
+title: "Representation in Data"
 date: 2023-10-20
 draft: false
 ---
-In the wake of the murders of George Floyd, Breonna Taylor and Ahmaud Arbery in 2020, among other (on-going) acts of violence against African Americans in the U.S., members of IASSIST felt compelled to gather materials that can help all of us better recognize, acknowledge and combat inherent racial bias. These members formed this group and compiled the resources linked here.
+In the wake of the murders of George Floyd, Breonna Taylor and Ahmaud Arbery in 2020, among other (on-going) acts of violence against African Americans in the U.S., members of IASSIST felt compelled to gather materials that can help all of us better recognize, acknowledge and combat inherent racial bias. These members formed this group and compiled the resources linked here. We continue the work under the name of Representation in Data Interest Group, (formely Diversity, Equity, and Inclusion Data Resources Interest Group).
 
 ## Our mission
 

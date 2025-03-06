@@ -91,7 +91,7 @@ This group's mission is to build community and share experiences and insights on
 
 - **2024-2025 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu*** and ***Ron Nakao, ronbo [ at ] stanford.edu***
 
-#### Diversity, Equity, and Inclusion Data Resources Interest Group {#anti-racism-resources-interest-group}  
+#### Representation in Data Interest Group {#anti-racism-resources-interest-group}  
 
 The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
 
