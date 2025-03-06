@@ -13,6 +13,7 @@ According to [Article VIII of the IASSIST Constitution](/about/iassist-constitut
 
 The years for which minutes are available are listed below.
 
+-   [2023 (Philadelphia, USA)](/about/general-assembly-minutes-2023) 
 -   [2022 (Gothenburg, Sweden)](/about/general-assembly-minutes-2022) 
 -   [2021 (Virtual General Assembly)](/about/general-assembly-minutes-2021) 
 -   [2020 (Virtual General Assembly)](/about/general-assembly-minutes-2020) 
