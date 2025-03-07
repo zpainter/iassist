@@ -12,7 +12,7 @@ Contact the 2025 committees:
 
 Conference hashtag: #IASSIST2025
 
-Full committee info: [2025]({{< ref "iassist2025/conference-committees.md" >}})
+**Full committee info: [2025]({{< ref "iassist2025/conference-committees.md" >}})**
 
 <br />
 

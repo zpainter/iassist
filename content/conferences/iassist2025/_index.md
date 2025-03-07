@@ -50,13 +50,14 @@ Submissions are now closed.
 See you in Bristol! It will be the **Best. IASSIST. Ever.**
 
 IASSIST 2025 Program Committee: programme@lists.iassistdata.org
+: Chairs:
 : Michael Beckstrand, mjbeckst ( at ) umn.edu
 : Jane Fry, jane.fry ( at ) cunet.carleton.ca
 : Oliver Watteler, oliver.watteler ( at ) gesis.org
 
 ### Conference info
 
-Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml) in the historic city centre.
+Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml) in the historic city centre. See Maps and Locan Information section for additional details. Local Arrangements Committee: iassist2025 ( at ) uwe.ac.uk
 
 <hr />
 <br />
