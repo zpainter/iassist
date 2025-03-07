@@ -40,3 +40,8 @@ type = "conference-2025"
 - Deborah Wiltshire (Gesis, Germany)
 - Ripley Williamson King (UWE, UK)
 - Anna Graham (UWE, UK)
+- Jennifer Crossley (UWE, UK)
+- Norma Menabny (Queens University Belfast)
+- Michael O'Connor (Queens University Belfast)
+- Steven McEachern (UK Data Archive)
+- Robin Rice (University of Edinburgh, UK)
