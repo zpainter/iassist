@@ -19,26 +19,32 @@ The Administrative Committee and the Standing Committees are responsible for the
 
 #### [Administrative Committee](/about/officials) {#administrative-committee}
 The Administrative Committee is the executive body of IASSIST. It implements policies, develops future directions, and coordinates activities for the organization.	
+
 - **2023-2025 Chair: *Robin Rice, robin.rice [ at ] ed.ac.uk***
 
 #### Constitutional Review Committee {#constitutional-review-committee}
 Responsible for receiving proposals for the enacting, amending, and repealing of the by-laws of IASSIST and for preparing revised articles and by-laws for members' approval, as well as for undertaking an annual review of the constitution and by-laws and proposing amendments as it deems appropriate.
+
 - **2023-2025 Chair: *Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi***
 
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
+
 - **2024-2026 Chairs: *Wei Yin, wy2288 [ at ] columbia.edu*** and ***Olatunbosun Obileye, bosun.obileye [ at ] gmail.com***
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
+
 - **2024-2026 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young, sarahy [ at ] andrew.cmu.edu***
 
 #### Membership Committee {#membership-committee}
-Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed.   
+Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed. See also the IASSIST [Liaison and Organizational Sponsorship Task Force](/conferences/event-sponsorship).
+
 - **2023-2025 Chair: *Amanda Tickner, atickner [ at ] msu.edu***
 
 #### Elections Committee {#elections-committee}
 Responsible for receiving nominations for the election of the Administrative Committee, the Regional Secretaries, and the officers of IASSIST, distributing ballots and electoral information according to regulation, tallying the ballots, reporting on the results of the tally, and for recommending alterations in procedures. This committee is chaired by the immediate Past President. Administrative Committee members at large not up for election assist the chair. 
+
 - **2023-2025 Chair: *San Cannon, sancan99 [ at ] gmail.com***
 
 #### Communications Committee {#communications-committee}
@@ -102,11 +108,11 @@ The Interest Group has gathered various **[resources on diversity, equity and in
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-- **2024-2025 Chair: *Amanda Tickner, atickner [ at ] msu.edu***
+- **2024-2025 Co-Chairs: *Amanda Tickner, atickner [ at ] msu.edu, Bruce Boucek*** and ***Paxton LaJoie***
 
 #### Professionals New to Data Support Interest Group {#professionals-new-to-data-support-interest-group}
 
-***NEW*** This group's focus will be on the support and development of professionals growing into data support roles.  
+This group's focus is on the support and development of professionals growing into data support roles.  
 
 - **2024-2025 Co-Chairs: *Sophia Adeyeye*** and ***Paula Lackie***
 
