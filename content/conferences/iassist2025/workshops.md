@@ -50,7 +50,7 @@ You can register for the workshops separately to the [main registration <span cl
 5. Embedding sensitive data management best practice in institutional workflows
 6. The Art of Transcription: Using open-source tools to optimize transcription processes
 7. Fundamentals of MAST & IDEAL Metadata
-8. An Introduction to Census Data with R Using the "tidycensus" Package
+8. Working with Census Data in R: Open Source Tools for Social Science Research
 
 ## Morning Workshops
 
@@ -260,15 +260,15 @@ As an emerging framework, following the course participants will be invited to p
 
 Classroom - discussion style/movable furniture
 
-### 8: An Introduction to Census Data with R Using the "tidycensus" Package
+### 8: Working with Census Data in R: Open Source Tools for Social Science Research
 
 #### Aditya Ranganath (University of Colorado Boulder) 
 
-Data Librarians and social science information professionals must often use Census data, whether it is for their own projects, or in order to assist researchers or students with their empirical projects. The process of extracting, querying, analyzing, and visualizing these data can be complex, however; as a result, academic libraries often subscribe to commercial software products that make this process more straightforward. However, these solutions are expensive, and may not be interoperable with the tools and platforms that researchers typically use to conduct empirical research.
+[ Title and description updated ]
 
-In recent years, robust open-source software packages to work with Census data (using the Census Bureau's API) have been developed; these packages provide efficient, cost-effective, and user-friendly pathways to exploring Census data. This workshop provides a hands-on introduction to one such package, namely, the "tidycensus" package, which allows users to interact with the Census API using the R programming language. Participants will learn how to identify, locate, and extract data from the Census (and associated datasets) using "tidycensus", and subsequently analyze these data using tools from the R "tidyverse." 
+Data Librarians and social science information professionals must often use Census data, whether it is for their own projects, or in order to assist researchers and students with their empirical research needs. However, the process of working with these data products can be complex; as a result, academic libraries often subscribe to commercial software applications that can make this process more straightforward. However, these solutions are expensive, and may not be readily interoperable with the open-source tools and platforms that researchers typically use to conduct empirical research. 
 
-Completing the workshop will empower participants to use "tidycensus" in their own research, as well as in their consultations with students and researchers who must work with Census data in their projects. Please note that while our focus will be on the United States Census, tools to extract and work with Census and demographic data from other countries using the R programming language will also be introduced.
+Recent years have witnessed the development of robust open-source R packages that leverage relevant APIs to interact with Census data from a variety of countries and sources across the world. This hands-on workshop provides an introduction to this cross-national package-based Census data ecosystem in R (encompassing packages such as “tidycensus”, “idbr”, “ipumsr”, and others), which offers an accessible alternative to proprietary software applications for social scientists working with Census data. We will demonstrate how to identify, locate, extract, query, visualize, and analyze Census-based demographic data from a variety of countries in an efficient, cost-effective, and user-friendly manner. Upon completing the Workshop,  participants will be empowered to use R as a platform for Census-based demographic research in their own work; consult with and effectively support social science students and researchers that wish to work with Census data in R; and develop hands-on teaching materials that introduce relevant campus stakeholders to important Census data resources, packages, and tools through the R programming language. 
 
 **Workshop Learning Objectives:**
 
