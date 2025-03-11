@@ -64,6 +64,15 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
 
 ## IASSIST 2025 sponsors
 
+### Platinum
+<!-- logo 330 px -->
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
+  <div style="padding: 2em;">
+    {{< figure width="330px" src="/conferences/iassist2025/images/cessda.png" alt="logo, CESSDA" >}}
+  </div> 
+</div>
+
 ### Gold 
 <!-- logo 300 px -->
 
@@ -76,6 +85,20 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
 
 ## Silver 
 <!-- logo 270 px -->
+
+<!--
+<div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;max-width:680px;">
+  <div style="padding: 2em;flex:1;">
+    {{< figure width="270px" src="/conferences/iassist2025/images/digital-science.png" alt="logo, Digital Science." >}}
+  </div>
+  <div style="padding: 2em;flex:1;">
+    {{< figure width="270px" src="/conferences/iassist2025/images/gesis.png" alt="logo, Gesis." >}}
+  </div> 
+  <div id="box3" style="padding: 2em; flex-basis: 100%;text-align:center;">
+    {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
+  </div>
+</div>
+-->
 
 <div style="display:flex;flex-wrap:wrap;align-items:center;margin:2em 0em 2em 0em;">
   <div style="padding: 2em;">

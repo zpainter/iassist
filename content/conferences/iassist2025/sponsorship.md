@@ -12,10 +12,17 @@ We are grateful for our sponsors and want to thank them for their generous suppo
 
 **IASSIST 2025 Conference Sponsors**
 
-<!--
-### Platinum Sponsors
--->
+## Platinum Sponsors
 <!-- logo 330 px -->
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="330px" src="/conferences/iassist2025/images/cessdat.png" alt="logo, CESSDA" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://cessda.eu">Consortium of European Social Science Data Archives <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
 
 ## Gold Sponsors
 <!-- logo 300 px -->
@@ -55,7 +62,7 @@ We are grateful for our sponsors and want to thank them for their generous suppo
     {{< figure width="270px" src="/conferences/iassist2024/images/icpsr.png" alt="logo, ICPSR." >}}
   </div> 
   <div style="margin-left:1em;">
-    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research (ICPSR) <span class="fas fa-external-link-alt"></span></a>
+    <a href="https://www.icpsr.umich.edu/">Inter-university Consortium for Political and Social Research <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
