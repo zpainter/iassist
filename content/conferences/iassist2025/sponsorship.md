@@ -8,7 +8,7 @@ banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
 
-We are grateful for our sponsors and want to thank them for their generous support. <br>Skroll down for more information on sponsoring our 2025 event.
+We are grateful for our sponsors and want to thank them for their generous support. <br>Scroll down for more information on sponsoring our 2025 event.
 
 **IASSIST 2025 Conference Sponsors**
 
@@ -17,7 +17,7 @@ We are grateful for our sponsors and want to thank them for their generous suppo
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="330px" src="/conferences/iassist2025/images/cessdat.png" alt="logo, CESSDA" >}}
+    {{< figure width="330px" src="/conferences/iassist2025/images/cessda.png" alt="logo, CESSDA" >}}
   </div> 
   <div style="margin-left:1em;">
    <a href="https://cessda.eu">Consortium of European Social Science Data Archives <span class="fas fa-external-link-alt"></span></a>
