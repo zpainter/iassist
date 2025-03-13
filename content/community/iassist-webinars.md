@@ -14,16 +14,19 @@ On this page you will find links to the recordings and information on any webiar
 
 ### Webinar registrations
 
-Currently we have many webinars upcoming. Scroll down for more!
+Currently we have many webinars upcoming. Check the link below for more information!
 
 <!--
 > No webinar registrations open at the moment.
 -->
 
+
 #### March 25 | IASSIST Workshop Series: Tools for Qualitative Research
 
 See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
 
+
+<!--
 #### March 11 | AI-Driven Data: From Raw Insights to Visual Mastery
 
 In this webinar we will explore the transformative power of AI in the realm of data analysis and visualization. In this session, you'll discover how AI can streamline the journey from raw data to actionable insights by automating tasks such as data review, cleaning, organization, and pre-processing. We’ll also dive into techniques for creating compelling visualizations and demonstrate how AI, when provided with contextual information, can offer valuable recommendations for further research and exploration.
@@ -40,24 +43,18 @@ Robert is currently involved in many different projects at GU-Q, including teach
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
-<!--
-#### February 28 | Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
-
-Legacies of illegality surrounds the utilization of data, information and how they are passed across for use in organizations, society and institutions. Data and information hiding through a concept that synchronizes with data abstraction and encapsulation is taken to a different parlance where process owners behave as if the exclusivity of access and knowledge about that gives them a power boost even at the detriment of organizational and societal growth. They make users wander and grope in an abyss of data loss even when they are in a familiar environment. This presentation addresses issues relating to democratizing data support and governance strategy. The intention is to bring us to speed and come to terms with the need to be democratic about data and information usage and dissemination while observing and aligning with hierarchical access rights. The aims are to encourage listeners to make data and information readily accessible and understandable to a wider range of users within an organization, while still maintaining robust data governance practices to ensure accuracy, security, and compliance, essentially allowing everyone to utilize data effectively without requiring extensive technical expertise that make users wander even though they are not lost.
-
-About our speaker:
-
-Professor **Longe Olumide Babatope**, MTech, PhD, FASI, is a leading expert in Information Systems Security, recognized by Microsoft Research for his contributions to privacy and cybersecurity in Africa. A Fulbright SIR Fellow, Heidelberg Laureate, and MacArthur Scholar, he has collaborated with NEPAD, the UN, and MIT-Harvard Cyber Explorations on ICT innovation and cyber governance. His research, cited over 5,000 times, has influenced U.S. patents and global cybersecurity policies. With nearly 200 publications, he has engaged with top institutions worldwide, including Cambridge, Imperial College, and UBC. A Fellow of the African Scientific Institute, he holds an Endowed Professorship in Cybersecurity & ICT Education in Africa and serves as Vice-Chancellor of West Midlands Open University, Lagos. He is also a doctoral supervisor, research assessor, and examiner for global institutions, advancing education, research, and policy.
-
-**Time:** Friday, February 28, 2025, 9am EST / 2pm UTC
-
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/4fn6RaXiQHeBvywom2HUfw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
-
-This webinar is brought to you by the IASSIST Professionals New to Data Support Interest Group and the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 -->
 
 
 ### Most recent webinar recordings
+
+#### AI-Driven Data: From Raw Insights to Visual Mastery
+
+Robert Laws <br /> <!--[Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14946938)-->
+
+{{< youtube CkhwoWlzdHM >}}
+
+<br />
 
 #### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
 
@@ -67,16 +64,10 @@ Longe Olumide Babatope <br /> [Webinar slides on Zenodo <span class="fas fa-exte
 
 <br />
 
-#### Incorporating Data Quality into your teaching and research consultations
-
-Grace Liu, Bobray Bordelon, Jennifer C. Boettcher, Rashelle Nagar <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14054502)
-
-{{< youtube vaXbJ9dPoNQ >}}
-
-<br />
-
 
 ### Older webinar recordings
+
+- [Incorporating Data Quality into your teaching and research consultations <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=vaXbJ9dPoNQ) (Grace Liu, Bobray Bordelon, Jennifer C. Boettcher, Rashelle Nagar)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14054502))
 
 - [Getting Started with Data Services Guidelines <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=jqNdslSIvXM) (Stephanie Labou, Vicky Rampin)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.13315139))
 
