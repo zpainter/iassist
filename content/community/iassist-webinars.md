@@ -50,7 +50,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### AI-Driven Data: From Raw Insights to Visual Mastery
 
-Robert Laws <br /> <!--[Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14946938)-->
+Robert Laws <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15024455)
 
 {{< youtube CkhwoWlzdHM >}}
 
