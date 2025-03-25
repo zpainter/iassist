@@ -21,9 +21,9 @@ Currently we have many webinars upcoming. Check the link below for more informat
 -->
 
 
-#### March 25 | IASSIST Workshop Series: Tools for Qualitative Research
+#### April 9 | IASSIST Workshop Series: Tools for Qualitative Research
 
-See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
+> See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
 
 
 <!--
@@ -48,6 +48,14 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### Appropriate Uses of AI for Qualitative Analysis
+
+Christina Silver <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15085973)
+
+{{< youtube 7hVu-AB8HU0 >}}
+
+<br />
+
 #### AI-Driven Data: From Raw Insights to Visual Mastery
 
 Robert Laws <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15024455)
@@ -56,16 +64,10 @@ Robert Laws <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-a
 
 <br />
 
-#### Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century
-
-Longe Olumide Babatope <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14946938)
-
-{{< youtube K-pH1ZiChkg >}}
-
-<br />
-
 
 ### Older webinar recordings
+
+- [Not All Who Wander are Lost – Democratizing Data Support and Governance in 21st Century <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=K-pH1ZiChkg) (Longe Olumide Babatope)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14946938))
 
 - [Incorporating Data Quality into your teaching and research consultations <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=vaXbJ9dPoNQ) (Grace Liu, Bobray Bordelon, Jennifer C. Boettcher, Rashelle Nagar)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.14054502))
 

@@ -23,7 +23,7 @@ Time zones are listed in the speaker’s own time zone, but you can click the da
 March: 
 : Appropriate Uses of AI for Qualitative Analysis with Christina Silver 
 : [March 25, 4-5:30pm GMT <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T16&p1=136&ah=1&am=30)
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/0Mr9TZdWSrO1gfJvH5O3xQ)
+: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/7hVu-AB8HU0)
 
 April: 
 : Taguette for Qualitative Data Analysis with Vicky Rampin
@@ -42,7 +42,7 @@ June
 
 September 
 : Choosing an appropriate digital tool for a qualitative or mixed-methods analysis with Christina Silver 
-: [September 11, 4-5:30pm BST <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T16&p1=136&ah=1&am=30)
+: [September 12, 4-5:30pm BST <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T16&p1=136&ah=1&am=30) <span style="background:beige;padding:.2em;border-radius:15px;">&nbsp;Date updated, was Sept. 11&nbsp;</span>
 : [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/JXXhOmxiR3STMgarDGKYGA)
 
 October 
