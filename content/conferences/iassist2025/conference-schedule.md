@@ -6,16 +6,22 @@ location = "Bristol, UK"
 banner = "/img/conferences/annual/bristol2025-socialmedia.jpg"
 type = "conference-2025"
 +++
-<!--
-## [Full Program Schedule](/conferences/iassist2023/full_program/)
+
+## Detailed conference schedule
+
+The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2025/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button. <!--A local copy of the program is available on IASSIST's website.-->
+
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View detailed schedule <span class="fas fa-external-link-alt"></span></a>
 
 <!--
-<br /><a class="btn btn-template-main" href="/conferences/iassist2023/full_program/">Full Program <i class="fas fa-external-link-alt"></i></a><br /><br />
+Please note the collection is still growing and presentations are still being added to the community.
 
-### as well as [featured speaker profiles](/conferences/iassist2023/speakers/)
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2025/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
-### For details on individual Workshops, consult the [**Workshops** page](/conferences/iassist2023/workshops/)
+Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2024-halifax/).
 -->
+
+<br />
 
 
 ## Conference schedule at a glance
@@ -51,6 +57,7 @@ Before the conference on Monday, June 2:
 	}
   table.schedule tbody td {
     padding: 1em;
+	vertical-align: top;
     }
   table.schedule tbody tr.active-row {
     font-weight: bold;
@@ -74,27 +81,27 @@ Before the conference on Monday, June 2:
 	  <td>8:00-12:30<br />Registration and Morning Sessions</td>
 	</tr>-->
 	<tr>
-	  <td>9:00-12:00<br />Morning Workshops</td>
-	  <td>Registration<br />(all day)<br /><br />8:45-10:00<br />Plenary 1<br /><br />10:30-12:30<br />Morning Sessions</td>
-	  <td>Registration<br />(all day)<br /><br />8:45-10:00<br />Plenary 2<br /><br />10:30-12:30<br />Morning Sessions</td>
-	  <td>Registration<br />9:00-12:00<br /><br />8:00-10:45<br />Morning Sessions <br /><br 7>10:45-12:00<br 7>Lightning Talks</td>
+	  <td>Registration<br />8:00-13:00<br /><br />9:00-12:00<br />Morning Workshops</td>
+	  <td>Registration<br />(all day)<br /><br />8:45-10:00<br />Opening &amp; Plenary 1<br /><br />10:15-12:30<br />Morning Sessions</td>
+	  <td>Registration<br />(all day)<br /><br />8:45-9:45<br />Plenary 2<br /><br />10:00-12:15<br />Morning Sessions</td>
+	  <td>Registration<br />8:00-8:45<br /><br />Housekeeping<br />8:45-9:00<br /><br />9:15-10:15<br />Morning Sessions <br /><br 7>10:30-12:00<br 7>Morning Sessions &amp; Lightning Talks</td>
 	</tr>
 	<tr>
 	  <td>12:00:13:00<br />Lunch on your own</td>
 	  <td>12:30-13:30<br />Lunch</td>
-	  <td>12:30-13:45<br />IASSIST Business Lunches</td>
+	  <td>12:15-13:30<br />IASSIST Business Lunch</td>
 	  <td>12:00-13:00<br />Lunch</td>
 	</tr>
 	<tr>
 	  <td>13:00-16:00<br />Afternoon Workshops</td>
 	  <td>13:30-16:00<br />Afternoon Sessions</td>
-	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-16:00<br />Afternoon Sessions<br /><br />16:00-17:00<br />Interest Groups Meetings</td>
-	  <td>13:00-14:30<br />Afternoon Session and Closing Ceremony</td>
+	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-15:45<br />Afternoon Sessions<br /><br />16:00-17:00<br />Interest Groups Meetings</td>
+	  <td>13:00-14:50<br />Afternoon Sessions and Closing Ceremony</td>
 	</tr>
 	<tr>
 	  <td>17:30-19:30<br />Opening Reception</td>
 	  <td>16:00-17:30<br />Poster Reception</td>
-	  <td>18:30-20:30<br />Banquet</td>
+	  <td>18:30-21:00<br />Banquet</td>
 	  <td></td>
 	</tr>
 </tbody>

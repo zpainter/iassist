@@ -35,10 +35,10 @@ The conference will be held in-person in Bristol, UK.
 
 The registration fees are similar to 2024 and are as follows:
 
-- Early Bird rate: Member	£ 360	Until 06 April 2025
-- Early Bird rate: Non-Member	£ 410	Until 06 April 2025
-- Standard rate: Member	£ 410	From 07 April 2025
-- Standard rate: Non-Member	£ 460	From 07 April 2025
+- Early Bird rate: Member	£ 360	Until 13 April 2025
+- Early Bird rate: Non-Member	£ 410	Until 13 April 2025
+- Standard rate: Member	£ 410	From 14 April 2025
+- Standard rate: Non-Member	£ 460	From 14 April 2025
 
 ### When does registration open?
 

@@ -18,13 +18,13 @@ We are also running workshops open to all, on Tuesday the June 03 at UWE Bristol
 
 Prices for this years conference are below.
 
-### Early Bird Conference Registration (until April 6)
+### Early Bird Conference Registration (until April 13) (extended)
 
 Rates
 : Conference Registration Early Bird: IASSIST Member - £360.00
 : Conference Registration Early Bird: Non-member - £410.00
 
-### General Release (after April 6)
+### General Release (after April 13)
 
 Rates
 : Conference Registration Early Bird: IASSIST Member - £410.00
