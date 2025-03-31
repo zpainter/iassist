@@ -6,7 +6,7 @@ date = "2025-03-29 03:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iq-3.png"
 +++
-**Welcome to the first issue of IASSIST Quarterly for 2025, [IQ vol. 49(1) 2024 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/160).**
+**Welcome to the first issue of IASSIST Quarterly for 2025, [IQ vol. 49(1) 2025 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/160).**
 
 We are excited to welcome two new members to our Editorial Team, **Mary Carter**, the Finance and Operations Research Librarian at Princeton University, and **Jessica (Jess) Hagman**, the Social Sciences Research Librarian and an Assistant Professor at the University of Illinois Urbana-Champaign. Mary and Jess have graciously volunteered to serve as our new Managing Editors and will share the responsibility. They have already taken an active role in the production of this issue.
 
