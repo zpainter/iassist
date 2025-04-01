@@ -36,6 +36,15 @@ We are grateful for our sponsors and want to thank them for their generous suppo
   </div>
 </div>
 
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300px" src="/conferences/iassist2025/images/osf.png" alt="logo, Open Science Framework (OSF)" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://osf.io/">Open Science Framework (OSF) <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
 ## Silver Sponsors
 <!-- logo 270 px -->
 
@@ -85,6 +94,15 @@ We are grateful for our sponsors and want to thank them for their generous suppo
   </div> 
   <div style="margin-left:1em;">
    <a href="https://www.gale.com">Gale <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2025/images/dragon.png" alt="logo, DRAGoN." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.uwe.ac.uk/research/centres-and-groups/data-research-access-and-governance">DRAGoN <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 

@@ -80,6 +80,9 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
   <div style="padding: 2em;">
     {{< figure width="300px" src="/conferences/iassist2025/images/ukds.png" alt="logo, UK Data Service" >}}
   </div> 
+  <div style="padding: 2em;">
+    {{< figure width="300px" src="/conferences/iassist2025/images/osf.png" alt="logo, OSF" >}}
+  </div> 
 </div>
 
 
@@ -122,6 +125,9 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
   </div> 
   <div style="padding: 2em;">
     {{< figure width="240px" src="/conferences/iassist2025/images/gale.png" alt="logo, Gale." >}}
+  </div>
+  <div style="padding: 2em;">  
+    {{< figure width="240px" src="/conferences/iassist2025/images/dragon.png" alt="logo, DRAGoN." >}}
   </div>
 </div>
 
