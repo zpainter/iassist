@@ -27,8 +27,8 @@ Rates
 ### General Release (after April 13)
 
 Rates
-: Conference Registration Early Bird: IASSIST Member - £410.00
-: Conference Registration Early Bird: Non-member - £460.00
+: Conference Registration: IASSIST Member - £410.00
+: Conference Registration: Non-member - £460.00
 
 ### Workshops
 
