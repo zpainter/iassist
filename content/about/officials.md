@@ -39,29 +39,23 @@ jennifer.doty [ at ] emory.edu
 
 **Africa** *
 
-Winny Nekesa,
-winny.nekesa [ at ] ubos.org
+Winny Nekesa
 
 **Asia/Pacific** *
 
-Samuel Spencer,
-sam [ at ] sqbl.org
+Samuel Spencer
 
 **Canada** *
 
-Jane Fry,
-jane.fry [ at ] carleton.ca
+Jane Fry
 
 **Europe** *
 
 David Schiller
-david.schiller [ at ] fhgr.ch
 
 **USA** *
 
-Stephanie Tulley,
-stulley [ at ] clev.frb.org
- 
+Stephanie Tulley
 
 ## Members at Large (by region)
 
@@ -148,7 +142,7 @@ Open
 
 **Regional Treasurer (Asia & Pacific)** 
 
-Open 
+Open
 -->
 
 ## Committee Chairs
@@ -177,9 +171,9 @@ San Cannon, sancan99 [ at ] gmail.com
 
 Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
-**Conference Program Committee 2024**
+**Conference Program Committee 2025**
 
-Sophia Lafferty-Hess, Zach MacDonald, Kristi Thompson
+Jane Fry, Michael Beckstrand, and Oliver Watteler
 
 &nbsp;
 

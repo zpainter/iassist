@@ -38,8 +38,8 @@ type = "conference-2025"
 
 <span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">Please send all questions to: **iassist2025 ( at ) uwe.ac.uk**<span>
 
-- Dr. Felix Ritchie (UWE, UK)
-- Deborah Wiltshire (Gesis, Germany)
+- Prof. Felix Ritchie (UWE, UK)
+- Dr. Deborah Wiltshire (Gesis, Germany)
 - Ripley Williamson King (UWE, UK)
 - Anna Graham (UWE, UK)
 - Jennifer Crossley (UWE, UK)
