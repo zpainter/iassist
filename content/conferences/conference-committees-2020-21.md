@@ -2,9 +2,9 @@
 title = "Conference Committees 2020/2021"
 draft = "false"
 +++
-Conference Committees 2020/2021
-
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
+
+IASSIST 2020 was intended to take place in Gothenburg, Sweden. Due to the COVID-19 pandemic, the conference was postponed and later cancelled. IASSIST 2021 became a fully virtual event. 
 
 Contact the 2020 committees:
 : Program Committee: iassist2020 [ at ] lists.iassistdata.org

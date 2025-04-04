@@ -26,7 +26,7 @@ Coordinators
 At-Large
 : -
 
-Past Co-Chairs/2019 Ex-Officio
+Past Co-Chairs/2021 Ex-Officio
 : Stephanie Tulley, Federal Reserve Bank of Cleveland, USA
 : Stephanie Labou, University of California, San Diego, USA
 

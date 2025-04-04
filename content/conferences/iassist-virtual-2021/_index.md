@@ -4,13 +4,15 @@ draft = "false"
 +++
 ## Global Conference of IASSIST
 
-<a class="btn btn-template-main" href="https://whova.com/web/iassi_202102/" target="_blank" title="(Opens to a new tab)">Thank you for participating!</a>
+<a class="btn btn-template-main" href="https://whova.com/web/iassi_202102/" target="_blank" title="(Opens to a new tab)">Conference website: Thank you for participating!<i class="fas fa-external-link-alt"></i></a>
+
+<br />
 
 **The IASSIST Global Virtual Conference (GVC) was held on May 17-20, 2021. Workshops were held the week prior.**
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2021/search?page=1&size=20&sort=conference_session" target="_blank">2021 Global Virtual Conference presentations (Zenodo)<i class="fas fa-external-link-alt"></i></a>
 
-<a class="btn btn-template-main" href="https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g/videos" target="_blank">2021 Global Virtual Conference recordings (YouTube)<i class="fas fa-external-link-alt"></i></a> 
+<a class="btn btn-template-main" href="https://www.youtube.com/playlist?list=PLD9Y_M_A24iTOicD7VY1rtgxieLG9iLVc" target="_blank">2021 Global Virtual Conference recordings (YouTube)<i class="fas fa-external-link-alt"></i></a> 
 
 Presenters, remember that you may turn your presentation into an article in IASSIST Quarterly (IQ), our peer-reviewed open access journal. See IQ Journal tab for more information. <br /><br />
 

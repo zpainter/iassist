@@ -26,6 +26,31 @@ Bristol, England, UK, June 3 - June 6, 2025
 
 <a class="btn btn-template-main" href="./iassist2025/">IASSIST 2025 Conference website</a> 
 
+#### Africa Workshop
+
+5th IASSIST Africa Regional Workshop, Accra, Ghana, October 22-24, 2025.
+
+<a class="btn btn-template-main" href="./iassist-africa-2025/">To Africa Workshop</a>
+
+### 2026 IASSIST Events
+
+#### Annual Conference
+
+Amherst, Massachusetts, USA, June 2 - June 5, 2026
+
+<a class="btn btn-template-main" href="./iassist2026/">IASSIST 2026 Conference website</a>
+
+</div>
+
+<!--
+#### Forthcoming
+
+None
+
+#### Completed
+-->
+
+
 ### 2024 IASSIST Events
 
 #### Annual Conference
@@ -38,60 +63,30 @@ Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
 
 4th IASSIST Africa Regional Workshop, Nairobi, Kenya, October 23-26, 2024.
 
-<a class="btn btn-template-main" href="./iassist-africa-2024/">To Africa Workshop</a>
+<a class="btn btn-template-main" href="./iassist-africa-2024/">Africa Workshop 2024</a>
 
-</div>
-
-### 2023 IASSIST Events
-
-#### Africa Workshop
-
-3rd IASSIST Africa Regional Workshop Pretoria, South Africa, October 18-20, 2023.
-
-<a class="btn btn-template-main" href="./iassist-africa-2023/">To Africa Workshop</a> 
-
-#### Annual Conference
-
-Philadelphia, PA, USA, May 30 - June 2, 2023
-
-<a class="btn btn-template-main" href="./iassist2023/">IASSIST 2023 Conference website</a> 
-
-### 2022 IASSIST Events
-
-<!--
-#### Forthcoming
-
-None
-
-#### Completed
--->
-
-2nd IASSIST Africa Regional Workshop was arranged in Ibadan, Nigeria, October 4-7, 2022.
-
-<a class="btn btn-template-main" href="./iassist-africa-2022/">Africa Workshop</a> 
-
-IASSIST 2022 Conference was arranged as a hybrid event in Gothenburg, Sweden, June 7-10, 2022.
-
-<a class="btn btn-template-main" href="./iassist-sweden-2022/">IASSIST 2022, Sweden</a>
-
-**IASSIST 2022 presentations are available on Zenodo and recordings on YouTube**
-
-### 2021 IASSIST Events
-
-Because of the continued health and economic concerns caused by the coronavirus, the Administrative Committee of IASSIST, in conjunction with the Program and Local Arrangements committees, voted to change the plans for the 2021 conference.
-
-The **main conference was virtual and took place in May 17-20, 2021**. In addition, there was a separate IASSIST Africa Workshop.
-
-<!--#### Completed-->
-
-<a class="btn btn-template-main" href="./iassist-virtual-2021/" >Global Virtual Conference</a> 
-<a class="btn btn-template-main" href="./iassist-africa-2021/" >Africa Workshop</a> 
-
-
-<br />
 
 ### Past Conferences
 
-**[Conference Archive](/conferences/archive)** captures the rich history of IASSIST annual conferences.
+**[Conference Archive](/conferences/archive)** captures the rich history of IASSIST annual conferences. Conference data begins from 1974 and programs and presentations are available from late 1990's. 
 
+Check "Presentations from the Previous Conference" section in the right hand menu for additional details about the recent conferences.
+
+#### Recent Africa Workshops
+
+
+3rd IASSIST Africa Regional Workshop in Pretoria, South Africa, October 18-20, 2023.
+
+  <a class="btn btn-template-main" href="./iassist-africa-2023/">Africa Workshop 2023</a> 
+
+2nd IASSIST Africa Regional Workshop in Ibadan, Nigeria, October 4-7, 2022.
+
+  <a class="btn btn-template-main" href="./iassist-africa-2022/">Africa Workshop 2022</a> 
+
+1st IASSIST Africa Regional Workshop in Kampala, Uganda, January 11-13, 2021.
+
+  <a class="btn btn-template-main" href="./iassist-africa-2021/" >Africa Workshop 2021</a> 
+
+
+<br />
 <br />
