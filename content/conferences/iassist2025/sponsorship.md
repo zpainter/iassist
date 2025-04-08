@@ -45,6 +45,15 @@ We are grateful for our sponsors and want to thank them for their generous suppo
   </div>
 </div>
 
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300px" src="/conferences/iassist2025/images/edinburgh.png" alt="logo, Digital Curation Centre and EDINA at The University of Edinburgh" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://www.ed.ac.uk/">Digital Curation Centre and EDINA at The University of Edinburgh <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
 ## Silver Sponsors
 <!-- logo 270 px -->
 
