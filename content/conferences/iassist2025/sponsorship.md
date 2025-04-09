@@ -126,7 +126,7 @@ We are grateful for our sponsors and want to thank them for their generous suppo
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="240px" src="/conferences/iassist2025/images/uwe.png" alt="logo, UWE Bristol." >}}
+    {{< figure width="240px" src="/conferences/iassist2025/images/uwe.jpg" alt="logo, UWE Bristol." >}}
   </div> 
   <div style="margin-left:1em;">
    <a href="https://www.uwe.ac.uk/">University of the West of England <span class="fas fa-external-link-alt"></span></a>
