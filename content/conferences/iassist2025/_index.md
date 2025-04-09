@@ -129,6 +129,12 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
   <div style="padding: 2em;">  
     {{< figure width="240px" src="/conferences/iassist2025/images/dragon.png" alt="logo, DRAGoN." >}}
   </div>
+  <div style="padding: 2em;">  
+    {{< figure width="240px" src="/conferences/iassist2025/images/roper.png" alt="logo, Roper Center." >}}
+  </div>
+  <div style="padding: 2em;">  
+    {{< figure width="240px" src="/conferences/iassist2025/images/uwe.png" alt="logo, UWE Bristol." >}}
+  </div>
 </div>
 
 <br style="clear:both;">
