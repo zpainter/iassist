@@ -83,7 +83,11 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
   <div style="padding: 2em;">
     {{< figure width="300px" src="/conferences/iassist2025/images/osf.png" alt="logo, OSF" >}}
   </div> 
+   <div style="padding: 2em;">
+    {{< figure width="300px" src="/conferences/iassist2025/images/edinburgh.png" alt="logo, Digital Curation Centre and EDINA at The University of Edinburgh" >}}
+  </div> 
 </div>
+
 
 
 ## Silver 
