@@ -103,12 +103,12 @@
 </div>
 
 <div class="pdf-paginator" id="pdf-paginator-{{ substr (.Get "url" | md5) 0 8 }}">
-    <button id="pdf-prev-{{ substr (.Get "url" | md5) 0 8 }}">Previous</button>
-    <button id="pdf-next-{{ substr (.Get "url" | md5) 0 8 }}">Next</button> &nbsp; &nbsp;
+    <button id="pdf-prev-{{ substr (.Get "url" | md5) 0 8 }}">Previous page</button>
+    <button id="pdf-next-{{ substr (.Get "url" | md5) 0 8 }}">Next page</button> &nbsp; &nbsp;
     <span>
       <span class="pdf-pagenum" id="pdf-pagenum-{{ substr (.Get "url" | md5) 0 8 }}"></span> / <span class="pdf-pagecount" id="pdf-pagecount-{{ substr (.Get "url" | md5) 0 8 }}"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">&nbsp;[Full PDF]</a>
 </div>
 
 <noscript>
