@@ -20,10 +20,20 @@ Currently we have many webinars upcoming. Check the link below for more informat
 > No webinar registrations open at the moment.
 -->
 
+#### April 29 | An Introduction to Dynamic Data Governance
 
-#### April 9 | IASSIST Workshop Series: Tools for Qualitative Research
+Welcome to Dynamic Data Governance — a people-first approach where everyone in the organisation plays a role in informing the CDO and governance leaders about data: what they have, where it is, and what it means. It’s about everyday contributions and upskilling the specialists who guide the way. It’s the mindset shift where everyone contributes to governance, and specialists uplift their skills to drive consistent, valuable, and secure data practices across the organization.
 
-> See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
+**Time:** Tuesday, April 29, 2025, 19:00 AEST
+[Register](https://us06web.zoom.us/meeting/register/F4CvDn-bQfKdy_rG2LCLPA#/registration)
+
+
+#### May 02 | How does QualCoder Compare with NVivo, Atlas.ti, and MAXQDA?
+
+One of the considerations in adopting and open-source free program is usability and whether it has the same essential features as popular commercial tools. This workshop will look at QualCoder and compare it with these commercial programs on ten dimensions (1) installation and customization; (2) supported files/data types; (3)  workspace, project, file and data management; (4) cases and files classification; (5) memos, annotations and journals; (6) coding (manual, auto and AI assisted); (7) visualization; (8) analysis, querying and reporting; (0) collaboration; and (10) converting to/from other qualitative data analysis tools. Join us to explore the possibilities of QualCoder, a free, open-source qualitative data analysis (QDA) software that can help save time and support many stages of qualitative research. 
+
+**Time:** Friday, May 02, 2025, 12:00 EDT
+[Register](https://us06web.zoom.us/meeting/register/0da31g6NT1K6xdAhM_hCvw#/registration)
 
 
 <!--
@@ -47,6 +57,14 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 
 ### Most recent webinar recordings
+
+#### Taguette for Qualitative Data Analysis
+
+Vicky Rampin <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+
+{{< youtube sB8Ijkf44X4 >}}
+
+<br />
 
 #### Appropriate Uses of AI for Qualitative Analysis
 
