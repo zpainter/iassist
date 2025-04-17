@@ -28,7 +28,7 @@ March:
 April: 
 : Taguette for Qualitative Data Analysis with Vicky Rampin
 : [April 9, 2pm EDT <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T14&p1=179&ah=1)
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/c9NA74yDR_iqZQ2xLFnZUw)
+: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/sB8Ijkf44X4)
 
 May: 
 : How does QualCoder Compare with NVivo, Atlas.ti, and MAXQDA? With Van Tran 
