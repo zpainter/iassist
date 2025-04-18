@@ -20,7 +20,7 @@ type = "conference-2026"
 
 **Host institution:** The University of Massachusetts Amherst Libraries
 
-We would love you to join us in June 2026 for an in-person conference at UMassAmherst as Massachusetts celebrates [250 years <span class="fas fa-external-link-alt"></span>](https://www.visit-massachusetts.com/state/celebrate-mass-250/) of independence and democracy. 
+We would love you to join us in June 2026 for a conference at UMassAmherst as Massachusetts celebrates [250 years <span class="fas fa-external-link-alt"></span>](https://www.visit-massachusetts.com/state/celebrate-mass-250/) of independence and democracy. 
 
 IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
 
@@ -51,7 +51,7 @@ Submissions are now closed.
 -->
 
 
-See you in Amherst! It will be the **Best. IASSIST. Ever.**
+See you in 2026! It will be the **Best. IASSIST. Ever.**
 
 <!--
 IASSIST 2026 Program Committee: programme@lists.iassistdata.org
@@ -63,7 +63,7 @@ IASSIST 2026 Program Committee: programme@lists.iassistdata.org
 
 The [University of Massachusetts Amherst <span class="fas fa-external-link-alt">](https://www.umass.edu/) — the flagship campus of the UMass system — is a nationally ranked public research university located in the scenic Pioneer Valley of Western Massachusetts. The conference sessions and events take place at the UMassAmherst [Campus Center <span class="fas fa-external-link-alt">](https://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center) and locations around the campus.
 
-Stay tuned for more information. 
+Stay tuned for more information and participation options. 
 
 <hr />
 <br />

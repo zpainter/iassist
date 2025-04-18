@@ -17,7 +17,7 @@ Frequently asked questions related to the Conference are answered here.
 
 ### Where will the conference take place?
 
-The conference will take place at Amherst, Massachusetts, USA, June 2-5, 2026, hosted by the University of Massachusetts Amherst. <!--Workshops (on 03 June) will be held on the [University West of England Bristol campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml).-->
+The conference will take place at Amherst, Massachusetts, USA, June 2-5, 2026, hosted by the University of Massachusetts Amherst.
 
 ### How to get to UMassAmherst or the hotels from the nearest airports?
 
@@ -29,7 +29,7 @@ Workshops will be held on the UMassAmherst campus.
 
 ### Will there be an option for virtual attendance?
 
-The conference will be held in-person.
+Options for possible virtual participation will be confirmed later. 
 
 ### What is the registration fee?
 
@@ -58,7 +58,7 @@ TBA
 
 ### What is included in the full registration fees?
 
-TBC, but access to all talks, drink reception, and most meals are included. Accommodation and travel costs are not included.
+TBC, but access to all talks, drink reception, and most meals for onsite participants are included. Accommodation and travel costs are not included.
 
 ### What meals are included with registration?
 
