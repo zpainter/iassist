@@ -36,7 +36,7 @@ Bristol, England, UK, June 3 - June 6, 2025
 
 #### Annual Conference
 
-Amherst, Massachusetts, USA, June 2 - June 5, 2026
+Global Virtual Conference, June 2 - June 5, 2026
 
 <a class="btn btn-template-main" href="./iassist2026/">IASSIST 2026 Conference website</a>
 
