@@ -1,6 +1,6 @@
 +++
 year = "2026"
-draft = "false"
+draft = "true"
 title = "IASSIST 2026 - Maps and Local Information"
 location = "Amherst, Massachusetts, USA"
 banner = "/img/conferences/annual/amherst2026-placeholder.jpg"
