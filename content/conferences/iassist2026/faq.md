@@ -2,7 +2,7 @@
 year = "2026"
 draft = "false"
 title = "IASSIST 2026 - FAQ"
-location = "Amherst, Massachusetts, USA"
+location = "Virtual"
 banner = "/img/conferences/annual/amherst2026-placeholder.jpg"
 type = "conference-2026"
 +++
@@ -11,17 +11,21 @@ type = "conference-2026"
 
 Frequently asked questions related to the Conference are answered here.
 
+<!--
 ### Emergency Contact Details
 
 911 is the emergency number in the US. You should only call 911 if you are in an emergency situation and need immediate help.
+-->
 
 ### Where will the conference take place?
 
-The conference will take place at Amherst, Massachusetts, USA, June 2-5, 2026, hosted by the University of Massachusetts Amherst.
+The conference will take place online, June 2-5, 2026.
 
+<!--
 ### How to get to UMassAmherst or the hotels from the nearest airports?
 
 TBA
+-->
 
 ### Where will the workshops take place?
 
@@ -58,16 +62,19 @@ TBA
 
 ### What is included in the full registration fees?
 
-TBC, but access to all talks, drink reception, and most meals for onsite participants are included. Accommodation and travel costs are not included.
+TBC
 
+<!--
 ### What meals are included with registration?
 
 TBC
+-->
 
+<!--
 ### How do I get around in UMassAmherst / Amherst?
 
 TBC, but see [Visit UMassAmherst <span class="fas fa-external-link-alt"></span>](https://www.umass.edu/admissions/undergraduate-admissions/visit) website for more information.
-
+-->
 <!--
 See [A guide to taking the bus in Bristol <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/blog/post/a-guide-to-taking-the-bus-in-bristol/) by Visit Bristol. The best way to buy your bus tickets is via the [First Bus app <span class="fas fa-external-link-alt"></span>](https://www.firstbus.co.uk/buy-tickets/ways-pay/first-bus-app). For train travellers the [PlusBus <span class="fas fa-external-link-alt"></span>](https://www.gwr.com/your-tickets/ways-to-save/combined-train-and-bus-tickets) is a discounted bus pass that you can buy with your train ticket.
 
@@ -111,11 +118,13 @@ All presenters are encouraged to upload a copy of their presentation to the IASS
 TBA
 -->
 
+<!--
 ### What are the requirements to obtain a US Visa? 
 
 See https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html/visa
 
 Please note that even if you don't need a visa, you may need to get an Electronic System for Travel Authorization (ESTA) approval prior to travel.
+-->
 
 <!--See [Visa and Travel page](/conferences/iassist2025/visa-and-travel/).-->
 
