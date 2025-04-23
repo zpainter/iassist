@@ -2,7 +2,7 @@
 year = "2026"
 draft = "false"
 title = "IASSIST 2026 - Main Page"
-location = " Amherst, Massachusetts, USA"
+location = "Virtual"
 datalink = "/data/conferences/archive/2026-Amherst.json"
 banner = "/img/conferences/annual/amherst2026-socialmedia.jpg"
 type = "conference-2026"
@@ -16,13 +16,11 @@ type = "conference-2026"
 ### theme
 -->
 
-#### Amherst, Massachusetts, USA, June 2-5, 2026
+#### Global Virtual Conference, June 2-5, 2026
 
 **Host institution:** The University of Massachusetts Amherst Libraries
 
-We would love you to join us in June 2026 for a conference at UMassAmherst as Massachusetts celebrates [250 years <span class="fas fa-external-link-alt"></span>](https://www.visit-massachusetts.com/state/celebrate-mass-250/) of independence and democracy. 
-
-IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
+We would love you to join us in June 2026 for our annual conference! IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
 
 <!--
 ### Registration
@@ -59,11 +57,13 @@ IASSIST 2026 Program Committee: programme@lists.iassistdata.org
 : 
 -->
 
+
 ### Conference info
-
+<!--
 The [University of Massachusetts Amherst <span class="fas fa-external-link-alt">](https://www.umass.edu/) — the flagship campus of the UMass system — is a nationally ranked public research university located in the scenic Pioneer Valley of Western Massachusetts. The conference sessions and events take place at the UMassAmherst [Campus Center <span class="fas fa-external-link-alt">](https://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center) and locations around the campus.
-
+-->
 Stay tuned for more information and participation options. 
+
 
 <hr />
 <br />
