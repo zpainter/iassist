@@ -29,7 +29,7 @@ TBA
 
 ### Where will the workshops take place?
 
-Workshops will be held on the UMassAmherst campus.
+TBA
 
 ### Will there be an option for virtual attendance?
 
