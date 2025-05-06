@@ -33,7 +33,7 @@ April:
 May: 
 : How does QualCoder Compare with NVivo, Atlas.ti, and MAXQDA? With Van Tran 
 : [May 2, 12pm EDT <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T12&p1=198&ah=1)
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/0da31g6NT1K6xdAhM_hCvw)
+: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/Cqwu3mjJJHg)
 
 June
 : An Introduction to ReQual with Martin Hájek

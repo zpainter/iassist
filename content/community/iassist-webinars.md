@@ -39,37 +39,6 @@ Martin Hájek is an associate professor of sociology at Charles University in Pr
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/MsuvT7snTkeg_vmoMuP7lQ#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 <!--
-#### April 29 | An Introduction to Dynamic Data Governance
-
-Welcome to Dynamic Data Governance — a people-first approach where everyone in the organisation plays a role in informing the CDO and governance leaders about data: what they have, where it is, and what it means. It’s about everyday contributions and upskilling the specialists who guide the way. It’s the mindset shift where everyone contributes to governance, and specialists uplift their skills to drive consistent, valuable, and secure data practices across the organization.
-
-This webinar introduces the MAST Methodology — a practical, proven framework to make this shift happen in your organisation. This webinar will tell you how to register for the MAST Methodology Micro-Certification at IASSIST 2025. This credential will help you lead better governance practices across your teams and enhance data outcomes.
-
-About our speaker:
-
-**Sam Spencer** is a long-standing member of the IASSIST community, CEO and co-founder of Aristotle Metadata, and leader in government data management and data governance. Through the development of Aristotle Metadata, Sam has worked on a range of data initiatives across the Australian government, providing input ranging from broader data policy to the development of local metadata teams within departments. Sam is a recognised leader in data management, having presented research on data standards and solutions at conferences in Australia and internationally. His personal goal is to demystify data management and aims to make metadata more accessible to everybody.
-
-**Time:** Tuesday, April 29, 2025, 19:00 AEST
-
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/F4CvDn-bQfKdy_rG2LCLPA#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
-
-<br />
-
-#### May 02 | How does QualCoder Compare with NVivo, Atlas.ti, and MAXQDA?
-
-One of the considerations in adopting and open-source free program is usability and whether it has the same essential features as popular commercial tools. This workshop will look at QualCoder and compare it with these commercial programs on ten dimensions (1) installation and customization; (2) supported files/data types; (3)  workspace, project, file and data management; (4) cases and files classification; (5) memos, annotations and journals; (6) coding (manual, auto and AI assisted); (7) visualization; (8) analysis, querying and reporting; (0) collaboration; and (10) converting to/from other qualitative data analysis tools. Join us to explore the possibilities of QualCoder, a free, open-source qualitative data analysis (QDA) software that can help save time and support many stages of qualitative research. 
-
-About our speaker: 
-
-**Van Tran** is currently the Public Health and Social Sciences Librarian at Temple University. She has also been the Senior Research and Data Librarian, at Harvard Kennedy School, and the Open Educational Resources and Open Access Adjunct Librarian at LaGuardia Community College, City University of New York (CUNY). Prior to this she was an associate program director at the Social Science Research Council, where she worked on developing and implementing interdisciplinary social science research, training, and evaluation.
-
-**Time:** Friday, May 02, 2025, 12:00 EDT
-
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/0da31g6NT1K6xdAhM_hCvw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
-
-<br />
--->
-<!--
 #### March 11 | AI-Driven Data: From Raw Insights to Visual Mastery
 
 In this webinar we will explore the transformative power of AI in the realm of data analysis and visualization. In this session, you'll discover how AI can streamline the journey from raw data to actionable insights by automating tasks such as data review, cleaning, organization, and pre-processing. We’ll also dive into techniques for creating compelling visualizations and demonstrate how AI, when provided with contextual information, can offer valuable recommendations for further research and exploration.
@@ -83,10 +52,9 @@ Robert is currently involved in many different projects at GU-Q, including teach
 **Time:** Tuesday, March 11, 2025, 11 am EDT / 3 pm UTC / 6 pm AST
 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZEkcOmorT0oG9ZqUGO4x46jN8qq9NMXe6h6" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+-->
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
-
--->
 
 
 ### Most recent webinar recordings
@@ -115,15 +83,9 @@ Vicky Rampin <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-
 
 <br />
 
-#### Appropriate Uses of AI for Qualitative Analysis
-
-Christina Silver <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15085973)
-
-{{< youtube 7hVu-AB8HU0 >}}
-
-<br />
-
 ### Older webinar recordings
+
+- [Appropriate Uses of AI for Qualitative Analysis <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=7hVu-AB8HU0) (Christina Silver)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15085973))
 
 - [AI-Driven Data: From Raw Insights to Visual Mastery <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=CkhwoWlzdHM) (Robert Laws)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15024455))
 
