@@ -24,6 +24,21 @@ Currently we have many webinars upcoming. Check the link below for more informat
 > No webinar registrations open at the moment.
 -->
 
+#### June 12 | An Introduction to ReQual
+
+The workshop will introduce Requal, a lightweight and easy-to-use, free and open source software for coding qualitative data such as interview transcripts, field notes, or text documents, allowing for easy coding, filtering, and export of annotated text segments. Requal works as both a desktop and server application, supporting real-time multi-user collaboration. The main advantage of Requal over similar software is that it provides several reproducibility features and modules that help users increase the transparency and reflexivity of their analyses. 
+
+First, it allows users to specify research-relevant coder attributes, such as gender, experience, age, and ethnicity, and to monitor whether and how these attributes are reflected in coding patterns. Second, it calculates and visualizes the correspondence between codes, coders, and categories of coders, facilitating discussion of intra-team differences. Third, users can view logs of their actions, which supports traceability of coding processes. In practice, Requal is useful for individual researchers, but finds its best use in team-based research and training in qualitative data analysis, where it benefits from its multi-user web operability, ease of use, and reproducibility modules. See: requal.fsv.cuni.cz
+
+About our speaker:
+
+Martin Hájek is an associate professor of sociology at Charles University in Prague. He is co-developer of Requal. He has a long-standing interest in sociological methodology, and especially in text, discourse, and narrative analysis. He is the author of ***The Reader and the Machine: Selected Methods of Social Science Text Analysis*** (Prague, 2015, in Czech).
+
+**Time:** Wednesday, June 12, 2025, 4pm CEST
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/MsuvT7snTkeg_vmoMuP7lQ#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+<!--
 #### April 29 | An Introduction to Dynamic Data Governance
 
 Welcome to Dynamic Data Governance — a people-first approach where everyone in the organisation plays a role in informing the CDO and governance leaders about data: what they have, where it is, and what it means. It’s about everyday contributions and upskilling the specialists who guide the way. It’s the mindset shift where everyone contributes to governance, and specialists uplift their skills to drive consistent, valuable, and secure data practices across the organization.
@@ -53,7 +68,7 @@ About our speaker:
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/0da31g6NT1K6xdAhM_hCvw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 <br />
-
+-->
 <!--
 #### March 11 | AI-Driven Data: From Raw Insights to Visual Mastery
 
@@ -75,6 +90,22 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 
 ### Most recent webinar recordings
+
+#### An Introduction to Dynamic Data Governance
+
+Sam Spencer <br />  slides forthcoming <!--[Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15233827)-->
+
+{{< youtube rqL93TLL75Q >}}
+
+<br />
+
+#### How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA?
+
+Van Bich Tran <br /> slides forthcoming <!-- [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15233827)-->
+
+{{< youtube Cqwu3mjJJHg >}}
+
+<br />
 
 #### Taguette for Qualitative Data Analysis
 
