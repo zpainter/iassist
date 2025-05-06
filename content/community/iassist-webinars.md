@@ -61,7 +61,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### An Introduction to Dynamic Data Governance
 
-Sam Spencer <br />  slides forthcoming <!--[Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15233827)-->
+Sam Spencer <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15351952)
 
 {{< youtube rqL93TLL75Q >}}
 
