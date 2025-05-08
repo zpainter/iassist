@@ -69,7 +69,7 @@ Sam Spencer <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-a
 
 #### How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA?
 
-Van Bich Tran <br /> slides forthcoming <!-- [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15233827)-->
+Van Bich Tran <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745)
 
 {{< youtube Cqwu3mjJJHg >}}
 
