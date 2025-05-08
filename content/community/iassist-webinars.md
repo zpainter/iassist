@@ -59,19 +59,20 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA?
+
+Van Bich Tran <br /> [Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745)
+
+{{< youtube Cqwu3mjJJHg >}}
+
+<br />
+
+
 #### An Introduction to Dynamic Data Governance
 
 Sam Spencer <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15351952)
 
 {{< youtube rqL93TLL75Q >}}
-
-<br />
-
-#### How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA?
-
-Van Bich Tran <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745)
-
-{{< youtube Cqwu3mjJJHg >}}
 
 <br />
 
