@@ -33,3 +33,8 @@ status = 301
 from = "https://iassistdata.org/blog/defining-data-librarian-call-comments"
 to = "https://iassistdata.org/blog/2006/06/12/defining-data-librarian-call-comments/"
 status = 301
+
+[[redirects]]
+from = "https://iassistdata.org/iq/evolution-data-citation-principles-implementation"
+to = "https://iassistquarterly.com/index.php/iassist/article/view/504"
+status = 301
