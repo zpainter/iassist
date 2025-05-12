@@ -9,15 +9,15 @@ Items initially archived on paper have subsequently been digitized.
 
 ## How to Access
 
-The IASSIST Archive is no directly accessible online, except for certain sections of the Oral History Project. 
+The IASSIST Archive is not directly accessible online, except for certain sections of the Oral History Project. 
 
-If you are interested in accessing the archive, please contact IASSIST Archivist at archivist ( at ) iassistdata.org and state the reason of your interest. 
+If you are interested in accessing the archive, please contact the IASSIST Archivist at archivist ( at ) iassistdata.org and state the reason of your interest. 
 
 - TBC: access levels for members/non-members?
 
 ## IASSIST at 50
 
-The 50th Annual Conference of IASSIST will be held in Bristol, UK, in June 2025. The theme the conference is Bridging oceans, harbouring data & anchoring the future. The 50 years of the association will be celebrated throughout the conference. 
+The 50th Annual Conference of IASSIST will be held in Bristol, UK, in June 2025. The theme the conference is "Bridging oceans, harbouring data & anchoring the future". The 50 years of the association will be celebrated throughout the conference. 
 
 ### IASSIST at 50 feed
 
@@ -49,7 +49,7 @@ If you are interested in accessing the archive. please contact IASSIST Archivist
 
 #### Organizational Archive Action Group
 
-This group is active from the General Assemby 2024 to 2025 and is charged with processing and curating documents and memorabilia in the IASSIST Archives to commemorate the 50th Annual Conference, IASSIST 2025, in June 2025.
+This group is active from the General Assembly 2024 to 2025 and is charged with processing and curating documents and memorabilia in the IASSIST Archives to commemorate the 50th Annual Conference, IASSIST 2025, in June 2025.
 
 <!--
 
