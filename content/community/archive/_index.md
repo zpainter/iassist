@@ -3,13 +3,13 @@ title = "IASSIST Archive"
 draft = false
 +++
 
-Over the years, IASSIST has collected various documents of its organisational history. These include everything from the founding documents to financial reports, from conference proceedings to meeting minutes, from newletters and images to letter correcpondence. 
+Over the years, IASSIST has collected various documents pertaining to its organisational history. These include founding documents, financial reports, conference proceedings, meeting minutes, newletters, and letter correcpondence. 
 
-Items initially archived on paper have later been digitized. 
+Items initially archived on paper have subsequently been digitized. 
 
 ## How to Access
 
-IASSIST Archive is no directly accessible online except for certain sections of the Oral History Project. 
+The IASSIST Archive is no directly accessible online, except for certain sections of the Oral History Project. 
 
 If you are interested in accessing the archive, please contact IASSIST Archivist at archivist ( at ) iassistdata.org and state the reason of your interest. 
 
@@ -43,7 +43,7 @@ Blurb about project and links to materials in GoogleDrive
 ### How to Get Involved?
 
 IASSIST Archive is managed by the Archivist, an ex-officio member of the IASSIST Administrative Committee appointed by the AC for a term of four years.
-The Archivist obtains records and other documentary materials from former and current officers and from the general membership to document the policies, procedures, and transactions of IASSIST and maintains these materials in an archive and promotes the use of them.
+The Archivist obtains records and other documentary materials from former and current officers and from the general membership to document the policies, procedures, and transactions of IASSIST. The Archivist maintains these materials in an archive and promotes their use.
 
 If you are interested in accessing the archive. please contact IASSIST Archivist at archivist ( at ) iassistdata.org. 
 
@@ -58,9 +58,6 @@ This group is active from the General Assemby 2024 to 2025 and is charged with p
 - IASSIST at 50 feed (linked from on embedded on the page) – Embedded Youtube compilation video, perhaps also linking to the poster which will be uploaded to Zenodo
 - Any visual elements needed? – Other than the embedded video, I don’t think so
 - one page or pages? If pages, a special navigation may be needed which needs more work – One page for now
-
-
-digitization
 
 -->
 
