@@ -34,6 +34,8 @@ The workshops will be in person, held at [UWE Bristol Frenchay campus <span clas
 
 The workshops have limited availability. Although you can register to them at a later date it is advised that if there is a workshop you are particularly keen on attending you should register to it at the time of your booking to avoid disappointment. 
 
+**Workshop registration closes on Friday, May 16.**
+
 <!--
 You can register for the workshops separately to the [main registration <span class="fas fa-external-link-alt"></span>](https://store.uwe.ac.uk/conferences-and-events/research-business-and-innovation/iassist/iassist-international-association-for-social-science-information-service-and-technology).
 -->
@@ -49,7 +51,7 @@ You can register for the workshops separately to the [main registration <span cl
 
 5. Embedding sensitive data management best practice in institutional workflows
 6. The Art of Transcription: Using open-source tools to optimize transcription processes
-7. Fundamentals of MAST & IDEAL Metadata
+7. Fundamentals of MAST & IDEAL Metadata **[ withdrawn ]**
 8. Working with Census Data in R: Open Source Tools for Social Science Research
 
 ## Morning Workshops
@@ -226,6 +228,9 @@ Whisper, FAMTAFOS (or Textwash), and web browser (with Wifi connection)
 
 ### 7: Fundamentals of MAST & IDEAL Metadata
 
+**[ withdrawn ]**
+
+<!--
 #### Samuel Spencer (Aristotle Metadata)
 
 Fundamentals of MAST & IDEAL Metadata is a short-course in the MAST/IDEAL Methodology, a pragmatic framework for building understanding and organisational support for data management through good processes rather than specific tools or standards.
@@ -259,6 +264,7 @@ As an emerging framework, following the course participants will be invited to p
 **Workshop Setting:**
 
 Classroom - discussion style/movable furniture
+-->
 
 ### 8: Working with Census Data in R: Open Source Tools for Social Science Research
 
