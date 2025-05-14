@@ -97,7 +97,7 @@ All payments are in GBP £ and are non-refundable. However, exceptions for visa-
 
 All presenters are asked to upload their presentation files to IASSIST 2025 conference community on Zenodo, or ask the the IASSIST Communications team to do it for them. Upload a copy of your presentation to the IASSIST 2025 Conference Community by following these steps:
 
-- Go to the Zenodo community at https://zenodo.org/communities/iassist2025
+- Go to the Zenodo community at https://zenodo.org/communities/iassist-2025
 - Follow these [instructions for adding materials (PDF)](/conferences/iassist2025/recommended-presentation-metadata-in-zenodo-2025.pdf) and provide at minimum the metadata highlighted in the instructions.
 - Please note you will need to create a Zenodo account if you don't already have one. Zenodo is integrated with several other systems such as ORCID and GitHub for easy access.
 - If you have issues with uploading your file(s), volunteers at the registration desk during the conference may be able assist you. Alternatively, you can email communications ( at ) iassistdata.org
