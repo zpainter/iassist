@@ -85,9 +85,9 @@ Most of the venues are fairly close together in the city centre but note that Br
 
 Registration will be held at the Mercure Bristol Grand Hotel as follows:
 
-- Wednesday 04 June   08.45 – 16.00
-- Thursday 05 June  08.45 – 16.00
-- Friday 06 June 08.45 – 12.00
+- Wednesday 04 June   08.00 – 16.00
+- Thursday 05 June  08.00 – 16.00
+- Friday 06 June 08.00 – 12.00
 
 ### What is the registration cancellation policy?
 
@@ -95,20 +95,18 @@ All payments are in GBP £ and are non-refundable. However, exceptions for visa-
 
 ### How do I add my presentation to the conference archive? 
 
-Detailed instructions will be provided later. All presenters are asked to upload their presentation files to IASSIST 2025 conference community on Zenodo, or ask the the IASSIST Communications team to do it for them. 
-
-<!--
-All presenters are encouraged to upload a copy of their presentation to the IASSIST 2024 Zenodo Conference Community by following these steps:
+All presenters are asked to upload their presentation files to IASSIST 2025 conference community on Zenodo, or ask the the IASSIST Communications team to do it for them. Upload a copy of your presentation to the IASSIST 2025 Conference Community by following these steps:
 
 - Go to the Zenodo community at https://zenodo.org/communities/iassist2025
-- Follow these [instructions for adding materials (PDF)](/conferences/iassist2025/recommended-presentation-metadata-in-zenodo-2025.pdf)
+- Follow these [instructions for adding materials (PDF)](/conferences/iassist2025/recommended-presentation-metadata-in-zenodo-2025.pdf) and provide at minimum the metadata highlighted in the instructions.
 - Please note you will need to create a Zenodo account if you don't already have one. Zenodo is integrated with several other systems such as ORCID and GitHub for easy access.
-- If you have issues with uploading your file(s), volunteers at the registration desk during the conference can assist you. Alternatively, you can email programme@lists.iassistdata.org
--->
+- If you have issues with uploading your file(s), volunteers at the registration desk during the conference may be able assist you. Alternatively, you can email communications ( at ) iassistdata.org
 
+<!--
 ### What platform will be used for at-conference synchronous communication?
 
 TBA
+-->
 
 ### What are the requirements to obtain a UK Visa? 
 
