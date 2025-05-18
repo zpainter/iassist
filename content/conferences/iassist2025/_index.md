@@ -28,7 +28,7 @@ IASSIST (International Association for Social Science Information Services and T
 
 **<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference and workshops is still open!!!</span>**
 
-Early Bird was open until April 13 (extended). Regular Registration closes on Friday, May 16.
+Early Bird was open until April 13 (extended). Regular Conference Registration closes on **Monday, May 19**.
 
 [**Register now**](registration/) and help make IASSIST 2025 the BEST EVER!
 
