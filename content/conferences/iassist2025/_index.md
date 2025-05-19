@@ -26,7 +26,7 @@ IASSIST (International Association for Social Science Information Services and T
 
 ### Registration
 
-**<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is still open!!!</span>**
+**<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is now closed.</span>**
 
 Early Bird was open until April 13 (extended). Regular Conference Registration was closed on **Sunday, May 18**.
 
