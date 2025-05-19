@@ -25,7 +25,7 @@ Rates
 : Conference Registration Early Bird: IASSIST Member - £360.00
 : Conference Registration Early Bird: Non-member - £410.00
 
-### General Release (after April 13 until May 19)
+### General Release (after April 13 until May 18)
 
 Rates
 : Conference Registration: IASSIST Member - £410.00
@@ -40,8 +40,12 @@ Workshop registration ends on May 16, 2025.
 
 To receive Members Only registration discounts, you must be an IASSIST Member in good standing. To take advantage of member pricing, please visit the [Become a Member page](/about/become-a-member/) to join before you register. 
 
+
+<!--
 <br />
   <a class="btn btn-template-main" href="https://store.uwe.ac.uk/conferences-and-events/research-business-and-innovation/iassist/iassist-international-association-for-social-science-information-service-and-technology" target="_blank" >Register for IASSIST 2025 <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
+
+-->
 
 **All payments are in GBP £ and are non-refundable.** However, exceptions for visa-required situations may be possible, please contact us. In case you have any questions about registration please email: iassist2025 ( at ) uwe.ac.uk

@@ -28,10 +28,11 @@ IASSIST (International Association for Social Science Information Services and T
 
 **<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is still open!!!</span>**
 
-Early Bird was open until April 13 (extended). Regular Conference Registration closes on **Monday, May 19**.
+Early Bird was open until April 13 (extended). Regular Conference Registration was closed on **Sunday, May 18**.
 
+<!--
 [**Register now**](registration/) and help make IASSIST 2025 the BEST EVER!
-
+-->
 <hr />
 
 {{< figure src="/img/conferences/annual/bristol2025-floating-harbour.jpg" alt="Sunset over a river harbour. There are blocks of flats on the left bank of the river and museum steamship on the right." title="" width="800" >}}
