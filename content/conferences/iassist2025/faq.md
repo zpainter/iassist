@@ -42,7 +42,7 @@ The registration fees are similar to 2024 and are as follows:
 
 ### When does registration open?
 
-Registration is now open. See the [registration page](/conferences/iassist2025/registration/).
+Registration was open until May 18, 2025. See the [registration page](/conferences/iassist2025/registration/).
 
 ### Can I get a discount when I register early?
 

@@ -9,13 +9,13 @@ type = "conference-2025"
 +++
 ## Conference Registration
 
-We are pleased to announce that **registration for the 2025 IASSIST conference is now open**!
+**Registration for the 2025 IASSIST conference is now closed**
 
 This year's event will be held between June 03 to June 06 in Bristol, UK, at the Mercure Bristol Grand Hotel, and hosted by the University of the West of England (UWE Bristol).
 
 The conference rate includes the Conference Dinner at 'We the Curious', an arrival drinks reception 03 June at Bristol Museum and Gallery  as well as attendance to the poster board reception on 04 June at the hotel. 
 
-We are also running workshops open to all, on Tuesday the June 03 at UWE Bristol. Registration for the workshops is also open. Consult the conference and workshop schedule pages for more information about the program.
+We are also running workshops open to all, on Tuesday the June 03 at UWE Bristol. Consult the conference and workshop schedule pages for more information about the program.
 
 Prices for this years conference are below.
 
