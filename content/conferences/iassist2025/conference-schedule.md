@@ -26,6 +26,8 @@ Abstracts with links to Zenodo are also available in the [**annual conference ar
 
 ## Conference schedule at a glance
 
+**Note** Registration and other times have been updated. (May 27, 2025)  
+
 Before the conference on Monday, June 2:
 
 - The IASSIST Executive Committee 9:00-10:00
@@ -81,10 +83,10 @@ Before the conference on Monday, June 2:
 	  <td>8:00-12:30<br />Registration and Morning Sessions</td>
 	</tr>-->
 	<tr>
-	  <td>Registration<br />8:00-13:00<br /><br />9:00-12:00<br />Morning Workshops</td>
-	  <td>Registration<br />(all day)<br /><br />8:45-10:00<br />Opening &amp; Plenary 1<br /><br />10:15-12:30<br />Morning Sessions</td>
-	  <td>Registration<br />(all day)<br /><br />8:45-9:45<br />Plenary 2<br /><br />10:00-12:15<br />Morning Sessions</td>
-	  <td>Registration<br />8:00-8:45<br /><br />Housekeeping<br />8:45-9:00<br /><br />9:15-10:15<br />Morning Sessions <br /><br 7>10:30-12:00<br 7>Morning Sessions &amp; Lightning Talks</td>
+	  <td>9:00-12:00<br />Morning Workshops</td>
+	  <td>8:00-16:00<br />Registration<br /><br />8:45-10:00<br />Opening &amp; Plenary 1<br /><br />10:15-12:30<br />Morning Sessions</td>
+	  <td>8:00-16:00<br />Registration<br /><br />8:45-9:45<br />Plenary 2<br /><br />10:00-12:15<br />Morning Sessions</td>
+	  <td>8:00-10:00<br />Registration<br /><br />Housekeeping<br />8:45-9:00<br /><br />9:15-10:15<br />Morning Sessions <br /><br 7>10:30-12:00<br 7>Morning Sessions &amp; Lightning Talks</td>
 	</tr>
 	<tr>
 	  <td>12:00:13:00<br />Lunch on your own</td>
@@ -93,15 +95,15 @@ Before the conference on Monday, June 2:
 	  <td>12:00-13:00<br />Lunch</td>
 	</tr>
 	<tr>
-	  <td>13:00-16:00<br />Afternoon Workshops</td>
+	  <td>13:00-16:00<br />Afternoon Workshops<br /><br />14:00-16:00<br />Registration at Mercure Grand Hotel<br /><br /></td>
 	  <td>13:30-16:00<br />Afternoon Sessions</td>
 	  <td>13:45-14:30<br />Birds of a Feather<br /><br />14:30-15:45<br />Afternoon Sessions<br /><br />16:00-17:00<br />Interest Groups Meetings</td>
 	  <td>13:00-14:50<br />Afternoon Sessions and Closing Ceremony</td>
 	</tr>
 	<tr>
-	  <td>17:30-19:30<br />Opening Reception</td>
+	  <td>18:00 - 21:00<br />Opening Reception at Bristol Museum & Art Gallery</td>
 	  <td>16:00-17:30<br />Poster Reception</td>
-	  <td>18:30-21:00<br />Banquet</td>
+	  <td>18.30-23.30<br />Conference Dinner at We the Curious</td>
 	  <td></td>
 	</tr>
 </tbody>

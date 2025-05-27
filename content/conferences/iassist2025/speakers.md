@@ -42,7 +42,7 @@ Steve is a director of the UK Data Archive, and a former director of the Austral
   <div style="margin-left:1em;">
 <strong>Dr. Edson Burton</strong><br /><br />
 
-Banquet Opening<br />
+Conference Dinner Opening<br />
 
 Edson is a local historian. poet, drama writer, curator, and UWE Bristol alum.
   </div>
