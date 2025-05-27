@@ -9,7 +9,7 @@ type = "conference-2025"
 
 ## Opening Reception
 
-**Tuesday, June 2 at 6:00pm**
+**Tuesday, June 3 at 6:00pm**
 
 Please join us for the IASSIST Opening Reception to be held at 6:00-8:45pm on Tuesday June 3 at the Bristol Museum and Art Gallery.
 
@@ -18,7 +18,7 @@ Getting to Bristol Museum and Art Gallery
 
 ## Conference Banquet 
 
-**Thursday June 4 at 6:30pm**
+**Thursday June 5 at 6:30pm**
 
 The banquent will be held at We The Curious on Bristol's harbourside. 
 
