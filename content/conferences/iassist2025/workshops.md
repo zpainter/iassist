@@ -137,7 +137,7 @@ Classroom - participants bring laptops
 
 ### 4: Learn how to create synthetic data
 
-#### Gillian Raab (University of Edinburgh); Lee Williamson (University of Edinburgh)
+#### Gillian Raab (University of Edinburgh); Lynne Adair (University of Edinburgh)
 
 The workshop will discuss the use of synthetic data for disclosure control. It will include discussions of what and how synthetic data can be used. Different types of synthetic data will be discussed. A practical session on how to create low-fidelity synthetic data, using the R package synthpop, will be included in the workshop and participants will be guided as to how they might proceed to create synthetic data with greater utility. The workshop will also include discussions of how to assess synthetic data for utility and disclosure control.
 
