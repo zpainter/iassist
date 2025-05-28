@@ -84,7 +84,7 @@ Windows OS are preferred but others are also fine. If a computer lab has all nec
 
 ### 2: Teaching Qualitative Data Analysis using Open Data, Standards, and Tools
 
-#### Sebastian Karcher (Qualitative Data Repository); Nathaniel Porter (Virginia Tech)
+#### Sebastian Karcher (Qualitative Data Repository); Michael Beckstrand (University of Minnesota)
 
 Teaching Computer-Assisted Qualitative Data Analysis (CAQDAS) can be a challenge: Qualitative data for instruction can be hard to find, CAQDAS data formats are proprietary as are all leading tools. In this “train the trainer” workshop, we show how instructors can leverage the recent opening of qualitative research infrastructure and build an effective training around open qualitative data (as can be found in the Qualitative Data Repository), open standards (here, the REFI-QDA standard for the exchange of qualitative data projects), and open tools (the open source QualCoder software).
 
