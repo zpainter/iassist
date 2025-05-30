@@ -33,11 +33,11 @@ Learn more about the IASSIST [Oral History Project](/community/archive/oral-hist
 
 IASSIST 2025 marks the 50th conference for the International Association for Social Science Information Services and Technology (IASSIST). This poster maps the locations of previous conferences and highlights locations and regions that have served as repeated hosts for past IASSIST conferences. As we explore and celebrate 50 years of IASSIST conferences, this poster also demonstrates the geographic gaps and future opportunities for expanding global participation in serving as a conference host and diversifying attendance. One of the hallmarks of IASSIST has been its international perspective. This poster aims to showcase and reflect that trait.
 
-{{< embed-pdf url="/conferences/iassist2025/bristol-tourist-flyer-with-web-links.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/file/community/IASSISTat50_Poster_Final_WebAccessible.pdf" hidePaginator="false" >}}
 
 <br />
 
-View the poster on Zenodo: [URN to the PDF in Zenodo <span class="fas fa-external-link-alt"></span>]()
+[&raquo; View the poster on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15540492)
 
 
 ### Organizational Archive Action Group
