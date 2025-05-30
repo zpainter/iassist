@@ -290,4 +290,4 @@ Participants should have some prior exposure to the R programming language and t
 
 **Workshop Computer Requirements:**
 
-Participants should attend with their personal laptops, with R and R Studio installed. Before the workshop, they must also apply for a Census API Key (https://api.census.gov/data/key_signup.html); typically, an API key will be issued immediately upon applying. An API key will be needed to participate in the workshop.
+Participants should attend with their personal laptops, with R and R Studio installed. Before the workshop, they must also apply for a Census API Key at https://api.census.gov/data/key_signup.html. Typically, an API key will be issued immediately upon applying. An API key will be needed to participate in the workshop.
