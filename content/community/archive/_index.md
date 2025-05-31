@@ -52,10 +52,5 @@ IASSIST Archive is managed by the Archivist, an ex-officio member of the IASSIST
 
 If you are interested in getting involved with the IASSIST Archive, please contact IASSIST Archivist at archivist ( at ) iassistdata.org. 
 
-#### Organizational Archive Action Group
-
-This group is active from the General Assembly 2024 to 2025 and is charged with processing and curating documents and memorabilia in the IASSIST Archives to commemorate the 50th Annual Conference, IASSIST 2025, in June 2025.
-
 <br />
-
 <br />
