@@ -87,6 +87,9 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
    <div style="padding: 2em;">
     {{< figure width="300px" src="/conferences/iassist2025/images/edinburgh.png" alt="logo, Digital Curation Centre and EDINA at The University of Edinburgh" >}}
   </div> 
+  <div style="padding: 2em;">
+    {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
+  </div>
 </div>
 
 

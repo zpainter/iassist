@@ -54,6 +54,15 @@ We are grateful for our sponsors and want to thank them for their generous suppo
   </div>
 </div>
 
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://sagepub.com/">Sage Publishing <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
 ## Silver Sponsors
 <!-- logo 270 px -->
 
