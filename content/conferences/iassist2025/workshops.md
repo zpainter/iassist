@@ -165,7 +165,7 @@ Participants can download the R package and all software and data required.
 
 ### 5: Embedding sensitive data management best practice in institutional workflows
 
-#### Zosia Beckles (University of Bristol); Kirsty Merrett (University of Bristol); Alice Motes (University of Bath); Christopher Tibbs (University of Exeter); Kellie Snow (Cardiff University)
+#### Zosia Beckles (University of Bristol); Jade Godsall (University of Bristol); Alice Motes (University of Bath); Kellie Snow (Cardiff University)
 
 This half-day workshop will provide an overview of approaches to management of sensitive research data based on the collective experience of GW4 (https://gw4.ac.uk/) research data management support staff at the University of Bath, University of Bristol, Cardiff University, and University of Exeter, and how these approaches may be adapted for different institutional contexts. This will include design of consent forms, data management plans, and data sharing strategies, and how to embed this within the context of individual institutional workflows and policy frameworks.
 
