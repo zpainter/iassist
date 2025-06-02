@@ -5,7 +5,7 @@ draft = false
 
 To commemorate IASSIST’s 50th anniversary conferences, the Organizational Archive Action Group conducted Oral History interviews with long-time IASSIST members. IASSIST members were asked to share their memories and reflections on past conferences, to reflect on IASSIST’s impact on their careers, and what they would like to see in the future of IASSIST. 
 
-Interviewees included [Past Presidents](/about/officials/#past-presidents), [Achievement Award](/about/iassist-achievement-award/) winners, and long-serving editors of the [IASSIST Quarterly <span class="fas fa-external-link-alt"></span>](https://iassistdata.org/iq/):
+Interviewees included [Past Presidents](/about/officials/#past-presidents), [Achievement Award](/about/iassist-achievement-award/) winners, and long-serving editors of the [IASSIST Quarterly](/iq/):
 
 - Margaret Adams, 2012 Achievement Award Winner & Organizational Archive Action Group, USA
 - Tuomas J. Alaterä, Past President 2015-2019, Finland
@@ -18,6 +18,5 @@ Interviewees included [Past Presidents](/about/officials/#past-presidents), [Ach
 - Cindy Severt, 2004 Local Arrangement Committee & Organizational Archive Action Group, USA
 
 **Full recordings with transcripts are being processed and will be available in summer 2025.**
-
 
 <br />
