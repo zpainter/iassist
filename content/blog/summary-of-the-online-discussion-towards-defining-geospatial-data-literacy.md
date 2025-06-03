@@ -4,7 +4,7 @@ title = "Summary of the online discussion, Towards Defining Geospatial Data Lite
 tags = [ "Interest groups", "Community of data professionals", "GIS", "Data literacy",]
 date = "2020-09-15 01:02:03 -0700"
 draft = "false"
-banner = "/img/blog/1024px-Real_GDP_growth_rate_(%)_in_2017.png"
+banner = "/img/blog/1024px-Real_GDP_growth_rate_percent_in_2017.png"
 +++
 The [Geospatial Interest Group](/community/geospatial-interest-group) hosted a webinar and discussion on March 24, 2020, Towards Defining Geospatial Data Literacy, in order for participants to think about data literacy concepts that are unique to geospatial data and how these are presented in our teaching. Little has been written specifically about geospatial data literacy and the goal of this discussion was to gather information on what GIS and data educators see as important components.
 
@@ -30,7 +30,7 @@ The majority of the event consisted of a discussion of unique components of geos
 	- Including uncertainty
 - Visualization: Can the data be visualized spatially? Is it appropriate to do so?
 
-{{< figure src="/img/blog/1024px-Real_GDP_growth_rate_(%)_in_2017.png" class="" alt="A choropleth map showing countries by real GDP growth rate in 2017, based on The World Factbook data." title="A choropleth map showing countries by real GDP growth rate in 2017, based on data from The World Factbook. Wikimedia Commons. JackintheBox. CC BY-SA." width="600" >}}
+{{< figure src="/img/blog/1024px-Real_GDP_growth_rate_percent_in_2017.png" class="" alt="A choropleth map showing countries by real GDP growth rate in 2017, based on The World Factbook data." title="A choropleth map showing countries by real GDP growth rate in 2017, based on data from The World Factbook. Wikimedia Commons. JackintheBox. CC BY-SA." width="600" >}}
 
 ## Conclusion
 
