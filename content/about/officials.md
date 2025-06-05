@@ -17,29 +17,25 @@ Voting members of the Administrative Committee have been marked with *.
 
 **President** *
 
-Robin Rice, 
-robin.rice [ at ] ed.ac.uk
+Bobray Bordelon, bordelon [ at ] princeton.edu
 
 **Vice-President** *
 
-Bobray Bordelon, 
-bordelon [ at ] princeton.edu
+Dylanne Dearborn, dylanne.dearborn [ at ] utoronto.ca
 
 **Secretary** *
 
-Lynda Kellam,
-lmkellam [ at ] upenn.edu
+Lynda Kellam, lmkellam [ at ] upenn.edu
 
 **Treasurer** *
 
-Jen Doty,
-jennifer.doty [ at ] emory.edu
+Jen Doty, jennifer.doty [ at ] emory.edu
 
 ## Regional Secretaries
 
 **Africa** *
 
-Winny Nekesa
+Winny Nekesa Akullo
 
 **Asia/Pacific** *
 
@@ -47,7 +43,7 @@ Samuel Spencer
 
 **Canada** *
 
-Jane Fry
+Maggie Marchant
 
 **Europe** *
 
@@ -55,7 +51,7 @@ David Schiller
 
 **USA** *
 
-Stephanie Tulley
+Carla Graebner
 
 ## Members at Large (by region)
 
@@ -63,57 +59,46 @@ Stephanie Tulley
 
 **Canada** *
 
-Dylanne Dearborn,
-dylanne.dearborn [ at ] utoronto.ca
+Alisa Rod (2025-2027)
 
 **Europe** *
 
-Deborah Wiltshire
-deborah.wiltshire [ at ] gesis.org
+Deborah Wiltshire, deborah.wiltshire [ at ] gesis.org
 
-Wolfgang Zenk-Möltgen,
-wolfgang.zenk-moeltgen [ at ] gesis.org
+Wolfgang Zenk-Möltgen, wolfgang.zenk-moeltgen [ at ] gesis.org
 
 **USA** *
 
-Michael J. Beckstrand
-mjbeckst [ at ] umn.edu
+Michael J. Beckstrand, mjbeckst [ at ] umn.edu
 
-Meryl Brodsky
-meryl.brodsky [ at ] austin.utexas.edu
+Meryl Brodsky, meryl.brodsky [ at ] austin.utexas.edu
 
 Ashley Jester
 
-
-### Term from 2021-2025
+### Term from 2025-2029
 
 **Canada** *
 
-Amber Leahey,
-amber.leahey [ at ] utoronto.ca
+Amber Leahey, amber.leahey [ at ] utoronto.ca
 
 **Europe** *
 
-Flavio Bonifacio,
-flavio.bonifacio [ at ] metis-ricerche.it
+Flavio Bonifacio, flavio.bonifacio [ at ] metis-ricerche.it
 
 **USA** *
 
-Dharma Akmon,
-dharmrae [ at ] umich.edu
+Stephanie Labou
 
-Sebastian Karcher,
-skarcher [ at ] maxwell.syr.edu
+Sophia Lafferty-Hess, sophia.lafferty.hess [ at ] duke.edu
 
-Sophia Lafferty-Hess,
-sophia.lafferty.hess [ at ] duke.edu
+Elisabeth Shook
+
 
 ## Ex-Officio Officers
 
 **Past President** *
 
-San Cannon,
-sancan99 [ at ] gmail.com
+Robin Rice, robin.rice [ at ] ed.ac.uk
 
 **Editor, Quarterly**
 
@@ -121,8 +106,7 @@ Michele Hayslett, michele_hayslett [ at ] unc.edu and Ofira Schwartz-Soicher, os
 
 **Editor, Web**
 
-Zac Painter,
-zp5928 [ at ] princeton.edu
+Zac Painter, zp5928 [ at ] princeton.edu
 
 **Archivist**
 
@@ -132,32 +116,32 @@ Christine (Nieman) Hislop, cnieman [ at ] hshsl.umaryland.edu
 
 **Regional Treasurer (Canada)** 
 
-Amber Leahey,
-amber.leahey [ at ] utoronto.ca
+Amber Leahey, amber.leahey [ at ] utoronto.ca
 
 <!--
-**Regional Treasurer (Europe & Africa)** 
+  **Regional Treasurer (Europe & Africa)** 
 
-Open
+  Open
 
-**Regional Treasurer (Asia & Pacific)** 
+  **Regional Treasurer (Asia & Pacific)** 
 
-Open
+  Open
 -->
+
 
 ## Committee Chairs
 
 **Constitutional Review Committee**
 
-Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
+San Cannon, sancan99 [ at ] gmail.com
 
 **Professional Development Committee**
 
-Sarah Young sarahy [ at ] andrew.cmu.edu (2022-2023) and Wei Yin
+Olatunbosun Obileye, bosun.obileye [ at ] gmail.com, Kate Barron, katebar [ at ] stanford.edu
 
 **IASSIST Fellows**
 
-Florio Arguillas, foa2 [ at ] cornell.edu and Sarah Young sarahy [ at ] andrew.cmu.edu
+Florio Arguillas, foa2 [ at ] cornell.edu and Sarah Young, sarahy [ at ] andrew.cmu.edu
 
 **Membership Committee**
 
@@ -165,15 +149,15 @@ Amanda Tickner, atickner [ at ] msu.edu
 
 **Elections Committee**
 
-San Cannon, sancan99 [ at ] gmail.com
+Robin Rice, robin.rice [ at ] ed.ac.uk
 
 **Communications Committee**
 
 Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
-**Conference Program Committee 2025**
+**Conference Program Committee**
 
-Jane Fry, Michael Beckstrand, and Oliver Watteler
+Michael Beckstrand and Ashley Jester
 
 &nbsp;
 
@@ -199,5 +183,4 @@ term|name |email |
 2011-2015 | Bill Block |  block [ at ] cornell.edu |
 2015-2019 | Tuomas J. Alaterä |  tuomas.alatera [ at ] tuni.fi |
 2019-2023 | San Cannon | sancan99 [ at ] gmail.com |
-
-
+2023-2025 | Robin Rice | robin.rice [ at ] ed.ac.uk |

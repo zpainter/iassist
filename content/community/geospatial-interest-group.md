@@ -36,4 +36,4 @@ The central purpose of the **IASSIST Geospatial Interest Group** is to create a 
 Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place.
 
 For more information please contact:<br />
-**2024-2025 Chair:** Amanda Tickner, atickner [ at ] msu.edu
+**2025-2026 Co-Chairs:** Bruce Boucek and Paxton LaJoie
