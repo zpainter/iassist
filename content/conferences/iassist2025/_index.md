@@ -88,7 +88,7 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
     {{< figure width="300px" src="/conferences/iassist2025/images/edinburgh.png" alt="logo, Digital Curation Centre and EDINA at The University of Edinburgh" >}}
   </div> 
   <div style="padding: 2em;">
-    {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
+    {{< figure width="300" src="/conferences/iassist2025/images/sage.png" alt="logo, Sage Publishing." >}}
   </div>
 </div>
 
@@ -139,6 +139,9 @@ Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"
   </div>
   <div style="padding: 2em;">  
     {{< figure width="240px" src="/conferences/iassist2025/images/roper.png" alt="logo, Roper Center." >}}
+  </div>
+  <div style="padding: 2em;">
+    {{< figure width="240px" src="/conferences/iassist2025/images/ddi.png" alt="logo, DDI Alliance." >}}
   </div>
   <div style="padding: 2em;">  
     {{< figure width="240px" src="/conferences/iassist2025/images/uwe.jpg" alt="logo, UWE Bristol." >}}

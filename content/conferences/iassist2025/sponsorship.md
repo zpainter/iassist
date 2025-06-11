@@ -56,7 +56,7 @@ We are grateful for our sponsors and want to thank them for their generous suppo
 
 <div style="display:flex;align-items:center;margin:2em 0 4em 0;">
   <div>
-    {{< figure width="300" src="/conferences/iassist2024/images/sage.png" alt="logo, Sage Publishing." >}}
+    {{< figure width="300" src="/conferences/iassist2025/images/sage.png" alt="logo, Sage Publishing." >}}
   </div> 
   <div style="margin-left:1em;">
    <a href="https://sagepub.com/">Sage Publishing <span class="fas fa-external-link-alt"></span></a>
@@ -130,6 +130,15 @@ We are grateful for our sponsors and want to thank them for their generous suppo
   </div> 
   <div style="margin-left:1em;">
    <a href="https://ropercenter.cornell.edu/">Roper Center <span class="fas fa-external-link-alt"></span></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin:2em 0 4em 0;">
+  <div>
+    {{< figure width="240px" src="/conferences/iassist2025/images/ddi.png" alt="logo, DDI Alliance" >}}
+  </div> 
+  <div style="margin-left:1em;">
+   <a href="https://ddialliance.org/">DDI Alliance <span class="fas fa-external-link-alt"></span></a>
   </div>
 </div>
 
