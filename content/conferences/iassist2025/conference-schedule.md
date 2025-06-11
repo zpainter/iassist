@@ -13,11 +13,11 @@ The detailed schedule of the conference is available on Openconf, the conference
 
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View detailed schedule <span class="fas fa-external-link-alt"></span></a>
 
+Please note the collection of presentations is still growing and presentations are still being added to the community.
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2025/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
+
 <!--
-Please note the collection is still growing and presentations are still being added to the community.
-
-<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist2025/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
-
 Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2024-halifax/).
 -->
 

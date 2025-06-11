@@ -18,47 +18,70 @@ type = "conference-2025"
 
 **Host institution:** University West of England
 
-**IASSIST at 50! Bridging oceans, harbouring data & anchoring the future**
-
 IASSIST 2025 would love for you to join us in Bristol, United Kingdom, for its golden anniversary conference from June 3 to June 6, 2025, to engage in the past, present, and future of data services, including data management and technologies. 
 
 IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
 
+### Thank you for joining us in Bristol!
+
+It was the **Best IASSIST. Ever.**
+
+Presentations from the conference are available as follows:
+
+<!--
+The [**conference archive**](/conferences/archive/2025-bristol/) with links to Zenodo and the [**full program**](/conferences/iassist2025/full-program/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
+-->
+
+Presentations are being added to Zenodo. The conference archive will be made available on our site later. 
+
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2025/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank">2025 Conference presentations (Zenodo) <span class="fas fa-external-link-alt"></span></a>
+
+None of the sessions were recorded.
+
+
+<!--
 ### Registration
 
 **<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is now closed.</span>**
 
 Early Bird was open until April 13 (extended). Regular Conference Registration was closed on **Sunday, May 18**.
 
-<!--
 [**Register now**](registration/) and help make IASSIST 2025 the BEST EVER!
 -->
+
 <hr />
 
 {{< figure src="/img/conferences/annual/bristol2025-floating-harbour.jpg" alt="Sunset over a river harbour. There are blocks of flats on the left bank of the river and museum steamship on the right." title="" width="800" >}}
 
+<br />
 
+<!--
 
 ### Call for Submissions and Workshops
 
-<!--
+
 **[Submit](./call-for-proposals/)** your workshop, session, paper, or poster proposal now. The deadline is December 13, 2024.
--->
+
 
 Submissions are now closed.
 : Thank you for your submissions. Decisions regarding submissions were sent out by email in late January 2025.
 
 See you in Bristol! It will be the **Best. IASSIST. Ever.**
 
-IASSIST 2025 Program Committee: programme@lists.iassistdata.org
+-->
+
+### Conference info
+
+IASSIST 2025 Program Committee: programme ( at ) lists.iassistdata.org
 : Chairs:
 : Michael Beckstrand, mjbeckst ( at ) umn.edu
 : Jane Fry, jane.fry ( at ) cunet.carleton.ca
 : Oliver Watteler, oliver.watteler ( at ) gesis.org
 
-### Conference info
 
-Workshops will be held on the [UWE campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions will be at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml) in the historic city centre. See Maps and Locan Information section for additional details. Local Arrangements Committee: iassist2025 ( at ) uwe.ac.uk
+Workshops was held on the [UWE campus <span class="fas fa-external-link-alt"></span>](https://www.uwe.ac.uk/), and the conference sessions at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml) in the historic city centre. See Maps and Locan Information section for additional details. 
+
+Local Arrangements Committee: iassist2025 ( at ) uwe.ac.uk
 
 <hr />
 <br />
