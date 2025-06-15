@@ -87,7 +87,7 @@ Van Bich Tran <br /> [Webinar slides and demonstration files on Zenodo <span cla
 
 - [Using IPUMS International: A Focus on Race & Ethnicity in Latin America <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=g9ydnn0Q_FE) (Lara Cleveland, Rodrigo Lovatón)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10674864))
 
-- [Research Dama Management and Sustainable Developement <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
+- [Research Data Management and Sustainable Development <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=ZDn2HXPeLOs) (IASSIST Africa Chapter)<br />
 
 - [If only data was like books... Introducing the Data Collection Developement Interest Group <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=uk_AKEaH6xQ) (Barbara Esty, Ron Nakao)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.10497133))
 
