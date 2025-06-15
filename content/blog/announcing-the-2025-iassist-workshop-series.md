@@ -38,7 +38,7 @@ May:
 June
 : An Introduction to ReQual with Martin Hájek
 : [June 12, 4pm CEST <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T16&p1=204)
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/MsuvT7snTkeg_vmoMuP7lQ)
+: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/b_UdlAPU_QE)
 
 September 
 : Choosing an appropriate digital tool for a qualitative or mixed-methods analysis with Christina Silver 
