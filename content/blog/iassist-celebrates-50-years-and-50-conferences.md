@@ -4,7 +4,7 @@ title = "IASSIST Celebrates 50 Years and 50 Conferences!"
 tags = ["News and Announcements", "anniversary", "data services", "IASSIST 2025", "data",]
 date = "2025-06-02 02:00:00 -0700"
 draft = "false"
-banner = "/img/blog/nieman-hislop-brodsky-poster.jpg"
+banner = "/img/blog/nieman-hislop-brodsky-poster-crop.jpg"
 +++
 At the IASSIST 2024 conference, the Organizational Archive Action Group was formed to commemorate IASSIST’s 50th anniversary conference: IASSIST 2025. Action Group members included: Margaret (Peggy) Adams, Meryl Brodsky, James Capobianco, Michele Hayslett, Thomas Lindsay, Christine Nieman Hislop (IASSIST Archivist & Action Group Coordinator), Zac Painter, Cindy Severt, and Wei Yin.  
 
