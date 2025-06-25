@@ -8,7 +8,7 @@ banner = "/img/blog/iq-3.png"
 +++
 Dear IASSISTers,
 
-Welcome to {IASSIST Quarterly Vol. 49 No. 2 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/161).**
+Welcome to [IASSIST Quarterly Vol. 49 No. 2 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/161).
 
 It was wonderful to meet so many colleagues and to make new connections at the Best IASSIST Ever! in Bristol, UK. It is always exciting to learn about the innovative work that is being done by members of this community.
 
@@ -36,7 +36,9 @@ In ***The role of FAIR principles in high-quality research data documentation: L
 
 **Margaret Marchant** and **C. Jeffrey Belliston** in their paper ***Data literacy in undergraduate research: A case study from student poster competitions*** make use of information collected from undergraduate poster competitions, which is a common way for undergraduate students to share research, to examine data literacy skills of undergraduate students at Brigham Young University. The authors identify strengths and gaps in data literacy education and offer suggestions for supporting and encouraging undergraduate research and data literacy development beyond the traditional area of data analysis.
 
-The last article in this issue departs from our usual topics, but we felt it was important to include it.  Authors **Priya Silverstein**, **Julia G. Bottesini**, **Sebastian Karcher**, and **Colin Elman**, in their paper ***Introducing the Journal Editors Discussion Interface*** (JEDI), acquaint us with the online community they have helped found for journal editors in the social sciences, launched in 2021. JEDI aims to increase uptake of open science at social science journals by providing journal editors with a space to learn and discuss. The paper explores JEDI's progress in its first two years, presenting data on membership, posts, and from a members' survey.  We, editors of the IQ, found feedback from the JEDI community to be not only informative and helpful but actually crucial at times since we became aware of it in March 2024.  We publish it here not only as a window for readers into our world, but also as a potentially informative item for those of you who may be serving with other journals' editorial staff or boards or have such people in your circles.  
+The last article in this issue departs from our usual topics, but we felt it was important to include it.  Authors **Priya Silverstein**, **Julia G. Bottesini**, **Sebastian Karcher**, and **Colin Elman**, in their paper ***Introducing the Journal Editors Discussion Interface*** (JEDI), acquaint us with the online community they have helped found for journal editors in the social sciences, launched in 2021. JEDI aims to increase uptake of open science at social science journals by providing journal editors with a space to learn and discuss. The paper explores JEDI's progress in its first two years, presenting data on membership, posts, and from a members' survey.
+
+We, editors of the IQ, found feedback from the JEDI community to be not only informative and helpful but actually crucial at times since we became aware of it in March 2024. We publish it here not only as a window for readers into our world, but also as a potentially informative item for those of you who may be serving with other journals' editorial staff or boards or have such people in your circles.  
 
 We hope you enjoy reading and wish you a productive summer.
 
