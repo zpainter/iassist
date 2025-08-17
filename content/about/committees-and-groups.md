@@ -92,9 +92,9 @@ Interest Groups share information on specific subjects with the larger IASSIST m
 
 Read more about IASSIST Interest Groups and how to establish one in the [Interest Group Checklist](/about/all-about-interest-groups).
 
-#### Data Collection Development Interest Group (DataCDIG) {#data-acquisitions-interest-group}  
+#### [Data Collection Development Interest Group (DataCDIG)](/community/data-collection-development-interest-group) {#data-acquisitions-interest-group}  
 
-This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access. 
+This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access.
 
 - **2025-2026 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu, Ron Nakao, ronbo [ at ] stanford.edu*** and *** HD McKay, hyun.duck.mckay@vanderbilt.edu***
 
