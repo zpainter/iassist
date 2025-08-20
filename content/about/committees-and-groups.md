@@ -102,9 +102,9 @@ This group's mission is to build community and share experiences and insights on
 
 The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
 
-The Interest Group has gathered various **[resources on diversity, equity and inclusion](/community/diversity-equity-and-inclusion-data-resources)**. 
+The Interest Group has gathered various [resources on representation in data](/community/representation-in-data-ig). 
 
-- **2025-2026 Co-Chairs: *Todd Quinn***
+- **2025-2026 Chairs: *Todd Quinn***
 
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
