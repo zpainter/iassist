@@ -32,7 +32,7 @@ Our mission is to provide resources and educational opportunities to better reco
           </div>
           <h3>Data sources on racism</h3>
             <p>Data on a variety of topics but all documenting racism and the Black experience internationally.<br />
-			Download in <a href="/community/diversity-equity-and-inclusion-data-resources/DataSourcesOnRacism.csv">Comma-separated format</a> | <a href="/community/diversity-equity-and-inclusion-data-resources/ReadMe.pdf">ReadMe for opening and using the file</a> <br />
+			Download in <a href="/community/representation-in-data-ig/DataSourcesOnRacism.csv">Comma-separated format</a> | <a href="/community/representation-in-data-ig/ReadMe.pdf">ReadMe for opening and using the file</a> <br />
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0yocc2nueS4awjw5bwozLLAbAqCNnfqKbn995qg3MyG_D5Q/viewform" target=_blank" >Suggest an additional data source <span class="fas fa-external-link-alt"></span></a></p>
         </div>
       </div>
@@ -68,7 +68,7 @@ Our mission is to provide resources and educational opportunities to better reco
       </div>
       <div class="col-md-6">
         <div class="box-simple">
-          <a href="/community/diversity-equity-and-inclusion-data-resources/webinars">
+          <a href="/community/representation-in-data-ig/webinars">
             <div class="icon">
               <i class="fas fa-person-chalkboard"></i>
             </div>
@@ -82,6 +82,6 @@ Our mission is to provide resources and educational opportunities to better reco
 </div>
 
 
-Please use the feedback forms for additions and comments to the resources lists, guide, and library. We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group’s co-chairs, Todd Quinn, tq [ at ] umn.edu
+Please use the feedback forms for additions and comments to the resources lists, guide, and library. We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group’s chair, Todd Quinn, tq [ at ] umn.edu
 
 *Please note:  These resources will be reviewed periodically for their usage statistics.  When usage drops, these resources will be retired.*
