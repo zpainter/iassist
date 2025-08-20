@@ -10,7 +10,7 @@ In the wake of the murders of George Floyd, Breonna Taylor and Ahmaud Arbery in 
 Our mission is to provide resources and educational opportunities to better recognize, acknowledge, and combat inherent biases in the creation, collection, and use of data for the study of discrimination. We target all forms of discrimination, including but not limited to immigrant status, ethnicity, race,  gender and gender identity, sexuality, religion, class, disability and the intersectionality of these aspects. Our work is informed by an actively anti-racist, anti-sexist, anti-colonial, and anti-discriminatory stance. We aim to ensure a global scope in our work, as discrimination varies in form and impact geographically. 
 
 
-## We are currently working on these Diversity, Equity, and Inclusion (DEI) Data topics
+## We are currently working on these topics
 
 - Anti-Racism
 - Accessibility and Inclusion
