@@ -97,7 +97,7 @@ Read more about IASSIST Interest Groups and how to establish one in the [Interes
 
 This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access.
 
-- **2025-2026 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu, Ron Nakao, ronbo [ at ] stanford.edu*** and *** HD McKay, hyun.duck.mckay@vanderbilt.edu***
+- **2025-2026 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu, Ron Nakao, ronbo [ at ] stanford.edu, and HD McKay, hyun.duck.mckay [ at ] vanderbilt.edu***
 
 #### Representation in Data Interest Group {#anti-racism-resources-interest-group}  
 
