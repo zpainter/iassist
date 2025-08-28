@@ -45,6 +45,17 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+
+
+#### Synthetic Data, GenAI, and What Data Services Staff Need to Know
+
+Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+
+{{< youtube mnL4k8WD7mc >}}
+
+<br />
+
+
 #### An Introduction to ReQual
 
 Martin Hájek <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15665092)
