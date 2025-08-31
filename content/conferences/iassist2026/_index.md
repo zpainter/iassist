@@ -24,13 +24,15 @@ type = "conference-2026"
 
 ### Conference info
 
-In order to allow as many as possible to attend IASSIST 2026, the conference will be virtual.  Please note, the 2025 Conference in Bristol will be in person as planned.
+In order to allow as many as possible to attend IASSIST 2026, the conference will be virtual.  <!--Please note, the 2025 Conference in Bristol will be in person as planned.--> More information about the arrangements will be released in the fall of 2026.
 
 We thank University of Massachusetts Amherst Libraries for their willingness and hard work to host next year’s IASSIST 2026.  While many were looking forward to travelling to Amherst, we want to give you ample notice that the 2026 conference will be virtual. Since planning began, we have heard from many that you would be unable to attend an in-person conference in 2026 due to changes in funding and other challenges.  IASSIST strives to be inclusive and we know many long time members are never or rarely able to attend in person conferences.
 
 We greatly value the in-person camaraderie and networking that occurs in person and hope to return to an in-person conference in 2027. IASSIST Administrative Committee with the full support of University of Massachusetts Amherst Libraries has voted to make the 2026 conference virtual. 
 
+<!--
 **We would love for you to join us in June 2026 for a virtual conference and look forward to this year's in-person conference [June 3-6, 2025 in Bristol](/conferences/iassist2025/), United Kingdom.**
+-->
 
 IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 

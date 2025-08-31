@@ -17,22 +17,20 @@ type = "conference-2025"
 - Jane Fry, jane.fry ( at ) cunet.carleton.ca
 - Oliver Watteler, oliver.watteler ( at ) gesis.org
 
-<!--
+
 **Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
 
-**Workshop Coordinators**: Deborah Wiltshire, Wolfgang Zenk-Moeltgen, Ted Baldwin
+**Workshop Coordinators**: Ted Baldwin
 
-**Lightning Talk Coordinator**: Sebastian Karcher
+**Lightning Talk Coordinator**: 
 
-**Session Coordinator**: Jess Hagman
+**Session Coordinator**: 
 
 **Papers Competition Coordinator**: Meryl Brodsky
 
-**Poster Coordinator**: Mandy Swygart-Hobaugh
+**Poster Coordinator**: Todd Quinn
 
-**Birds of a Feather Coordinator**: Stephanie Labou
--->
-
+**Birds of a Feather Coordinator**: Programme Committee
 
 ### Local Arrangements Committee
 
