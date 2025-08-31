@@ -10,7 +10,7 @@ Contact the 2026 committees:
 : Program Committee: programme ( at ) lists.iassistdata.org
 : Local Arrangements Committee: TBA
 
-Conference hashtag: #IASSIST2025
+Conference hashtag: #IASSIST2026
 
 **Full committee info: [2026]({{< ref "iassist2026/conference-committees.md" >}})**
 

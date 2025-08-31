@@ -35,5 +35,5 @@ type = "conference-2026"
 
 <span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">Please send all questions to: **TBA**<span>
 
-- PJennifer Chaput
+- Jennifer Chaput
 - Ryan Clement
