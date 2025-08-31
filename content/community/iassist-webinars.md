@@ -27,29 +27,24 @@ Workshops will continue in September. Check the link below for more information!
 <!--
 #### March 11 | AI-Driven Data: From Raw Insights to Visual Mastery
 
-In this webinar we will explore the transformative power of AI in the realm of data analysis and visualization. In this session, you'll discover how AI can streamline the journey from raw data to actionable insights by automating tasks such as data review, cleaning, organization, and pre-processing. We’ll also dive into techniques for creating compelling visualizations and demonstrate how AI, when provided with contextual information, can offer valuable recommendations for further research and exploration.
+(ABSTRACT)
 
 About our speaker:
 
-**Robert Laws** has been working with Georgetown University since 2007 and at the Georgetown University in Qatar (GU-Q) campus since 2008. Throughout this period Robert has played a leading role in teaching students, faculty, and staff about technology. Although Robert's academic background is in history, he has gained a mastery of multiple types of digital skills, including web development, audio and video production, web development, data visualization, and artificial intelligence. He studied history, receiving a BA and MA from George Mason University. Robert received an MLS degree from SUNY at Buffalo.
-
-Robert is currently involved in many different projects at GU-Q, including teaching courses on data visualization and artificial intelligence. Robert has played a leading role in the University's engagement and adoption of emerging technologies and running the Library's Innovation Lab for advanced media and technology teaching and learning since its inception in 2023.
+**NAME** (bio)
 
 **Time:** Tuesday, March 11, 2025, 11 am EDT / 3 pm UTC / 6 pm AST
 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZEkcOmorT0oG9ZqUGO4x46jN8qq9NMXe6h6" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
-
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 -->
 
 ### Most recent webinar recordings
 
-
-
 #### Synthetic Data, GenAI, and What Data Services Staff Need to Know
 
-Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17013216)
 
 {{< youtube mnL4k8WD7mc >}}
 
@@ -64,19 +59,11 @@ Martin Hájek <br /> [Webinar slides on Zenodo <span class="fas fa-external-link
 
 <br />
 
-
-#### How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA?
-
-Van Bich Tran <br /> [Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745)
-
-{{< youtube Cqwu3mjJJHg >}}
-
-<br />
-
-
 ### Older webinar recordings
 
 #### 2025
+
+- [How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA? <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=Cqwu3mjJJHg) (Van Bich Tran)<br />([Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745))
 
 - [An Introduction to Dynamic Data Governance <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=rqL93TLL75Q) (Sam Spencer)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15351952))
 
