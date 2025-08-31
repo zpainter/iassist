@@ -99,13 +99,13 @@ This group's mission is to build community and share experiences and insights on
 
 - **2025-2026 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu, Ron Nakao, ronbo [ at ] stanford.edu, and HD McKay, hyun.duck.mckay [ at ] vanderbilt.edu***
 
-#### Representation in Data Interest Group {#anti-racism-resources-interest-group}  
+#### Representation in Data Interest Group {#anti-racism-resources-interest-group}  {#representation-in-data-interest-group} 
 
 The work of the group will include maintaining the work done thus far and may expand over time to address other types of discrimination such as by indigenous group, migrant/refugee status, gender/transgender, sexuality, cultural/ethnic groups, religion, etc.
 
 The Interest Group has gathered various [resources on representation in data](/community/representation-in-data-ig). 
 
-- **2025-2026 Chairs: *Todd Quinn***
+- **2025-2026 Chair: *Todd Quinn, tq [ at ] umn.edu***
 
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
