@@ -12,7 +12,7 @@ Contact the 2026 committees:
 
 Conference hashtag: #IASSIST2025
 
-**Full committee info: [2026]({{< ref "iassist2025/conference-committees.md" >}})**
+**Full committee info: [2026]({{< ref "iassist2026/conference-committees.md" >}})**
 
 <br />
 
