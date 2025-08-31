@@ -11,11 +11,11 @@ June 2023
 
 This guide is intended to help find **(a)** primary and secondary data and datasets documenting racism and the Black experience internationally, as well discrimination based on indigenous, national, and cultural or ethnic origins and **(b)** tools, articles, and rubrics for building anti-racism into the process of working with data across the data-research lifecycle. 
 
-The guide is accompanied by other resources developed by the [IASSIST Anti-Racism Resources Interest Group](/about/committees-and-groups#interest-groups	):
+The guide is accompanied by other resources developed by the [IASSIST Anti-Racism Resources Interest Group](/community/representation-in-data-ig):
 
-- [Datasets, projects, and data sources](/community/antiracismresources-ig/DataSources-forRacialJustice.csv) for racial justice (in .csv format)
-- [Tools, articles, and rubrics](/community/antiracismresources-ig/ArticlesToolsRubrics-forRacialJustice.csv) for working with data through an anti-racism lens (in .csv format)
-- [How Different Countries View Race](/community/antiracismresources-ig/essays/) essays and webinar
+- [Datasets, projects, and data sources](/community/representation-in-data-ig/DataSources-forRacialJustice.csv) for racial justice (in .csv format)
+- [Tools, articles, and rubrics](/community/representation-in-data-ig/ArticlesToolsRubrics-forRacialJustice.csv) for working with data through an anti-racism lens (in .csv format)
+- [How Different Countries View Race](/community/representation-in-data-ig/essays/) essays and webinar
 
 While the strategies and techniques given are initially oriented toward this original scope, the list of suggested terms can be adapted and expanded over time to address other types of discrimination, such as by migrant/refugee status, religion, gender identity, or sexuality.
 
