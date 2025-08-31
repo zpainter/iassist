@@ -15,7 +15,7 @@ The guide is accompanied by other resources developed by the [IASSIST Anti-Racis
 
 - [Datasets, projects, and data sources](/community/representation-in-data-ig/DataSources-forRacialJustice.csv) for racial justice (in .csv format)
 - [Tools, articles, and rubrics](/community/representation-in-data-ig/ArticlesToolsRubrics-forRacialJustice.csv) for working with data through an anti-racism lens (in .csv format)
-- [How Different Countries View Race](/community/representation-in-data-ig/essays/) essays and webinar
+- [How Different Countries View Race](/community/representation-in-data-ig/webinars/#nov2023) essays and webinar
 
 While the strategies and techniques given are initially oriented toward this original scope, the list of suggested terms can be adapted and expanded over time to address other types of discrimination, such as by migrant/refugee status, religion, gender identity, or sexuality.
 
