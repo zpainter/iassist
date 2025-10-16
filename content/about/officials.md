@@ -39,7 +39,7 @@ Winny Nekesa Akullo
 
 **Asia/Pacific** *
 
-Samuel Spencer
+(Vacant)
 
 **Canada** *
 
