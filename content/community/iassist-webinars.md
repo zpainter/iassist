@@ -14,11 +14,11 @@ On this page you will find links to the recordings and information on any webiar
 
 ### Webinar registrations
 
-Workshops will continue in September. Check the link below for more information!
+Workshops will continue until November. Check the link below for more information!
 
 #### IASSIST Workshop Series: Tools for Qualitative Research
 
-> See a [separate post for info about the individual events](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
+> See a [separate post for info about the individual events](/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
 
 <!--
 > No webinar registrations open at the moment.
@@ -42,6 +42,22 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### Choosing an Appropriate Digital Tool for a Qualitative or Mixed-Methods Analysis
+
+Christina Silver <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17415256)
+
+{{< youtube N6F4VHn7BQk >}}
+
+<br />
+
+#### A Gentle Introduction to NVivo
+
+Paul R. Pival <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17419498)
+
+[No recording available]
+
+<br />
+
 #### Synthetic Data, GenAI, and What Data Services Staff Need to Know
 
 Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17013216)
@@ -51,17 +67,11 @@ Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett <br /> [Webinar 
 <br />
 
 
-#### An Introduction to ReQual
-
-Martin Hájek <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15665092)
-
-{{< youtube b_UdlAPU_QE >}}
-
-<br />
-
 ### Older webinar recordings
 
 #### 2025
+
+- [An Introduction to ReQual <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=b_UdlAPU_QE) (Martin Hájek)<br />([Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15665092))
 
 - [How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA? <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=Cqwu3mjJJHg) (Van Bich Tran)<br />([Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745))
 

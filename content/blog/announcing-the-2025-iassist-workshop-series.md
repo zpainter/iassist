@@ -40,16 +40,15 @@ June
 : [June 12, 4pm CEST <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T16&p1=204)
 : [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/b_UdlAPU_QE)
 
-September 
-: Choosing an appropriate digital tool for a qualitative or mixed-methods analysis with Christina Silver 
-: [September 12, 4-5:30pm BST <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T16&p1=136&ah=1&am=30) <span style="background:beige;padding:.2em;border-radius:15px;">&nbsp;Date updated, was Sept. 11&nbsp;</span>
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/JXXhOmxiR3STMgarDGKYGA)
-
 October 
 : A Gentle Introduction to NVivo with Paul Pival 
 : [October 9, 10am MDT <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T10&p1=55)
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/kUcUXHWGQ6K-0uJRzMj6iA)
- 
+: (No recording available)
+
+Choosing an appropriate digital tool for a qualitative or mixed-methods analysis with Christina Silver <br />
+[October 17, 4-5:30pm BST <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T16&p1=136&ah=1&am=30) <span style="background:beige;padding:.2em;border-radius:15px;">&nbsp;Date updated, was Sept. 12&nbsp;</span><br />
+[Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/N6F4VHn7BQk)
+
 November
 : Generative AI in Qualitative Data Analysis: introducing the Guided AI Thematic Analysis (GAITA) framework with Kien Nguyen-Trung 
 : [November 21, 12pm AEDT <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T12&p1=152)
