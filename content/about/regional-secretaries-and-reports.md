@@ -39,7 +39,7 @@ Africa
 Asia/Pacific
 ------------
 
-*Current Secretary:* Samuel Spencer
+*Current Secretary:* (Vacant)
 
 *Reports:*
 
