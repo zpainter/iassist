@@ -105,7 +105,7 @@ The work of the group will include maintaining the work done thus far and may ex
 
 The Interest Group has gathered various [resources on representation in data](/community/representation-in-data-ig). 
 
-- **2025-2026 Chair: *Todd Quinn, tq [ at ] umn.edu***
+- **2025-2026 Chair: *Todd Quinn, tq [ at ] unm.edu***
 
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
