@@ -1,0 +1,242 @@
+/*
+// +----------------------------------------------------------------------+
+// | OpenConf                                                             |
+// +----------------------------------------------------------------------+
+// | Copyright (c) 2002-2024 Zakon Group LLC.  All Rights Reserved.       |
+// +----------------------------------------------------------------------+
+// | This source file is subject to the OpenConf License, available on    |
+// | the OpenConf web site: www.OpenConf.com                              |
+// +----------------------------------------------------------------------+
+*/
+
+.mod_program_confname{ font-size: 2rem; margin: 1rem 0.5rem; font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif; line-height: 1.1; font-size: 2.13rem; font-weight: 700; color: #1b1b1b; }
+
+h1 { margin-top: 1rem; }
+
+.main-download { padding-bottom: 3rem; }
+
+.footer-download {
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	width:100%;
+}
+
+.main-download .oc-icon {
+	display: inline-block;
+	fill: currentColor;
+	height: 1em;
+	position: relative;
+	width: 1em;
+}
+.main-download .oc-icon--size-3 {
+	height: 1.5rem;
+	width: 1.5rem;
+}
+
+/* FULL PROGRAM */
+
+#oc_program {
+}
+
+#oc_program input[type="checkbox"] {
+	width: 1rem;
+	height: 1rem;
+	margin: 0 0.2rem;
+}
+
+/* Matrix */
+
+#oc_program_matrix {
+}
+#oc_program_matrix .oc_program_Date {
+	font-size: 1.3rem;
+	font-weight: bold;
+	display: block;
+	margin-bottom: 1rem;
+}
+#oc_program_matrix .oc_program_time {
+	border: 0;
+	padding: 5px;
+	white-space: nowrap;
+	width: 7rem;
+}
+#oc_program_matrix .oc_program_timeAMPM {
+	width: 10rem;
+}
+
+.oc_program_TimeSlot {
+	width: 100%;
+	margin-bottom: 2rem;
+	border-collapse: collapse;
+	page-break-inside: avoid;
+}
+.oc_program_TimeSlot th, td {
+	padding: 0;
+	margin: 0;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	vertical-align: top;
+}
+
+.oc_program_concurrentSessions {
+	border-collapse: collapse;
+	width: 100%;
+}
+.oc_program_concurrentSessions td{
+	padding: 3px;
+}
+.oc_program_concurrentSessionsTitle {
+	font-size: 1.1rem;
+	font-weight: bold;
+	border-bottom: 0;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #aaa;
+	color: inherit;
+}
+.oc_program_concurrentSession {
+	border-bottom: 0;
+	border-right: 1px #000 solid;
+	background-color: #fff;
+	color: inherit;
+}
+.oc_program_concurrentSession:last-child {
+	border-right: 0;
+}
+.oc_program_concurrentSessionRoom, .oc_program_concurrentSessionTopic {
+	text-align: center;
+	font-size: 0.8rem;
+	border-bottom: 0;
+	background-color: #ddd;
+	color: #000;
+	border-right: 1px #000 solid;
+	font-weight: bold;
+}
+.oc_program_concurrentSessionRoom:last-child, .oc_program_concurrentSessionTopic:last-child {
+	border-right: 0;
+}
+.oc_program_concurrentSessionRoomInline, .oc_program_concurrentSessionTopicInline {
+	font-weight: normal;
+}
+.oc_program_concurrentSessionTitle {
+	display: block;
+	font-weight: bold;
+	font-size: 1.1rem;
+}
+.oc_program_singleSessionInfo {
+	display: block;
+}
+.oc_program_concurrentSessionChairName {
+	display: block;
+	border-bottom: 1px dashed #000;
+}
+.oc_program_concurrentSessionChairNameTitle {
+	font-style: italic;
+}
+.oc_program_concurrentSessionPaper {
+	display: block;
+	border-bottom: 1px dashed #000;
+}
+.oc_program_concurrentSessionPaper:last-child {
+	border-bottom: 0;
+}
+.oc_program_concurrentSessionPaperTitle {
+	display: block;
+	font-style: italic;
+}
+.oc_program_concurrentSessionPaperAuthors {
+	display: block;
+}
+.oc_program_concurrentSessionDiscussantName {
+	display: block;
+}
+.oc_program_concurrentSessionDiscussantNameTitle {
+	font-style: italic;
+}
+
+/* Single Column */
+
+#oc_program_single .oc_program_Date {
+	font-size: 1.3rem;
+	font-weight: bold;
+	display: block;
+	padding-top: 1rem;
+	color: #333;
+	background-color: inherit;
+	border-top: 1px solid #000;
+	margin: 1em 0;
+}
+#oc_program_single .oc_program_Date:first-child {
+	border-top: 0;
+}
+#oc_program_single .oc_program_time {
+	border: 0;
+	font-size: 1.1rem;
+	font-weight: bold;
+	margin: 1rem 0;
+	color: #555;
+	background-color: #f0f0f0;
+	padding: 0.5rem;
+}
+
+	/** Session **/
+.oc_program_Session {
+	margin-left: 1rem;
+}
+.oc_program_SessionTitle {
+	font-weight: bold;
+	font-size: 1.05em;
+	margin-top: 1rem;
+}
+.oc_program_SessionRoom, .oc_program_SessionTopic {
+	font-weight: normal;
+}
+.oc_program_SessionChairName {
+}
+.oc_program_SessionChairNameTitle {
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 1rem;
+}
+.oc_program_SessionInfo {
+}
+
+	/** Papers **/
+.oc_program_SessionPaper {
+	margin-top: 1rem;
+}
+.oc_program_SessionPaperTitle {
+}
+.oc_program_SessionPaperAuthors {
+	margin-left: 1rem;
+}
+.oc_program_SessionPaperDiscussant {
+	margin-left: 1rem;
+}
+.oc_program_DiscussantNameTitle {
+	font-style: italic;
+}
+.oc_program_SessionPaperAbstract {
+	margin: 1rem 0 1rem 2rem;
+}
+
+/* Page */
+
+.oc_program_page_sessioninfo {
+	color: #555;
+}
+.oc_program_page_body {
+	font-size: 1.13rem;
+}
+.oc_program_page_sessionchair {
+	color: #555;
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* EXTRAS */
+
+#oc_program_single .oc_program_SessionTitle label { font-size: 1.10rem; }
+
+.oc_multifile_listTable td { border: 0; }
