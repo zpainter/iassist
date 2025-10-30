@@ -5,7 +5,7 @@ title = "IASSIST 2026 - Call for Proposals"
 location = "Virtual"
 datalink = "/data/conferences/archive/2026-Virtual.json"
 banner = "/img/conferences/annual/iassist2026-virtual-placeholder-socialmedia.jpg"
-type = "conference-2025"
+type = "conference-2026"
 +++
 <!--## THEME-->
 
@@ -50,7 +50,8 @@ We request that submitters limit themselves to one proposal per format type.
 Decisions regarding submissions will be sent out by email early-February 2026.
 
 The Call for proposals and workshops, with a link to the submission form, is available at: 
-https://www.openconf.org/iassist2026/openconf.php
+https://www.openconf.org/iassist2026/openconf.php 
+
 Or from the IASSIST 2026 Homepage at: 
 https://iassistdata.org/conferences/iassist2026/ 
 
