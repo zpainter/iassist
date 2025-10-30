@@ -9,90 +9,64 @@ type = "conference-2025"
 +++
 <!--## THEME-->
 
+
+## IASSIST 2026 - Championing Data: Data Professionals at the Nexus
+
 ### Call for Proposals
 
-Call for Proposals will be announced in the fall of 2026 with detailed information about the important dates and presentation formats.
+IASSIST 2026 invites you to join us for a virtual conference on **June 2 - June 5, 2026** to engage, connect, and collaborate around the theme of Championing Data. IASSIST (the International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching.
 
-<!--
+As IASSIST goes virtual for 2026, we are building an engaging array of events and formats to maximize our shared time at the conference. Through dynamic sessions, collaborative discussions, and community-driven activities, we'll share our expertise and build connections to advance our collective data-centered work at our institutions and organizations. IASSIST 2026 will feature ample semi-structured time, with attendee-selected themes for discussion and idea exchange, gathered at the start of the conference, as well as unstructured segments with breakout opportunities to capture the interstitial moments at these events. Social hours, trivia and participatory games will round out the experience to help build connections and invigorate our collective work.
 
-IASSIST 2025 invites you to join us in Bristol, United Kingdom, for its golden anniversary conference (yes, that is 50 years!!) from **June 3 - June 6, 2025** to engage in the past, present, and future of data services, including data management and technologies. IASSIST (the International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. 
+We welcome submissions for the conference structured time: papers, presentations, panels, roundtables, and other novel virtual meeting formats that embrace our conference theme, “Championing Data: Data Professionals at the Nexus”. We are seeking out information on the importance of data in our world, from its collection to its ethics and governance; from making sense of data to aiding others in doing the same; and modes and methods of protecting and championing data in an era of disruption and innovation. Possible topics include (but are not limited to): 
 
-Visit lively, yet laid-back, Bristol and find a city full of character, centuries-old heritage, and an irrepressible creative zeal. Enveloped in the hills of South West England, Bristol is a city full of unique experiences, from year-round festivals, award-winning cycle tracks, and gastronomy of every flavour, to first-class arts venues, and awe-inspiring street art.
-
-The conference will be held in-person, centring around networking opportunities and interactions. We welcome submissions for papers, presentations, posters, demonstrations, workshops, and lightning talks that embrace our conference theme, **Bridging oceans, harbouring data & anchoring the future**. We are seeking out information on: the connections created by data and data services professionals and enthusiasts; the wealth of knowledge in the community; the context of our profession today; and good data practice in the future.
-
-Possible topics include (but are not limited to): 
-
-- Environmental impact and sustainability
-- Artificial Intelligence 
-- Reproducibility
-- Partnerships and collaboration
-- Data literacy
+- Data rescue / data advocacy
+- Data stories -- data usage, digitization efforts, archival treasures
+- Data literacy and training
+- Data management
+- Data discovery, access, and licensing
 - Data consultation and librarianship
-- Data management and archiving
-- Data provenance, CARE / FAIR data principles
-- Data discovery and access
+- Data ethics and governance
+- Data security, restrictions, and actions
 - Data documentation and metadata
-- Data governance and ethics
-- Data gaps and biases
+- CARE / FAIR data principles
+- Partnerships and collaboration
+- Original data collection efforts
+- Technology, platforms and tools for data collection, management, and analysis
+- Large data and high performance computing
+- Generative AI -- training, ethics, licensing
 
-Have you ever considered submitting a poster? Do you have a new idea you would like feedback on? Would you like to showcase a new service or resource? We will be holding a **Poster Reception** to encourage conversations, sharing of ideas, and community building, while engaging with these visually dynamic posters. 
 
+## Presentation Formats and Notes
+
+For this virtual conference we are specifically accepting submissions in two formats: presentation and block. 
+Presentations will be allotted 10 minutes to give a talk, summarize a paper, or walk listeners through a poster. Presentations will be grouped with others to make up an hour session (including Q&A). 
+
+A block will be assigned a full hour (a complete session) and can take the format of a panel, roundtable discussion, or anything else you’re thinking about -- creativity encouraged!
+
+The deadline for submissions is Friday December 19, 2025.
 We request that submitters limit themselves to one proposal per format type.
 
-**The Call for Proposals is now closed. The deadline for submissions was Friday December 13, 2024.**
+Decisions regarding submissions will be sent out by email early-February 2026.
 
-Decisions regarding submissions were sent out by email late January 2025.
+The Call for proposals and workshops, with a link to the submission form, is available at: 
+https://www.openconf.org/iassist2026/openconf.php
+Or from the IASSIST 2026 Homepage at: 
+https://iassistdata.org/conferences/iassist2026/ 
 
-<br />
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/openconf.php" target="_blank">Review your submissions <span class="fas fa-external-link-alt"></span></a>
-<br /><br />
+Questions about presentation submissions may be sent to the Program Committee (Michael Beckstrand, Ashley Jester, Meghan Goodchild, Jim Church) at programme@lists.iassistdata.org. 
 
-See below for more information about different presentation formats. Questions about presentation submissions may be sent to the Program Co-Chairs (Michael Beckstrand, Jane Fry, and Oliver Watteler) at *programme ( at ) lists.iassistdata.org*. 
 
-## Support for Attending the Conference 
 
-**IASSIST Fellows Program** supports data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data, implementing information policy decisions, and providing data services at their home institutions.
-
-**IASSIST Early Professional Fellows Program** supports early career data professionals from under-resourced institutions. It recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
-
-**Applications will close on Friday December 13, 2024.** Please address your questions about the Fellows Program to Fellows Committee Co-Chairs Florio Arguillas (foa2 at cornell.edu) and Sarah Young (sarahy at andrew.cmu.edu).
-
-<br />
-<a class="btn btn-template-main" href="https://forms.gle/1xLyY3Y6W96GreKYA" target="_blank">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
-<br /><br />
-
-For information about traveling to Bristol, check out the conference website.
-
-## Presentation Formats
-
-The Program Committee welcomes proposals for the following formats:
-
-**Individual Presentation:** Typically this format is a 15-minute talk. It can be accompanied by a written paper but it is not required. If your individual proposal is accepted, you will be grouped into an appropriate session with similar presentations.
-
-**Panel:** You may propose an entire session (90-120 minutes) with a minimum of three speakers to “deep dive “into a specific resource or concept. The session proposal can take a variety of forms, e.g., a set of three to four presentations, a discussion panel, a tutorial (with less substance than a pre-conference workshop), a discussion with the audience, etc. If accepted, the person who proposed the session becomes the session organizer, and is responsible for securing speakers and a Chair. Please note: the names of all speakers and the moderator must be included in the proposal.
-
-**Papers and Paper Competition:** Presenters are required to submit an original research paper in advance of the conference, and present and discuss its findings at the conference. We will select submissions based on proposals, and the authors of accepted proposals are required to submit their final and complete papers by March 31, 2025. All papers will be eligible for publication consideration in an edition of IASSIST Quarterly. In addition, one paper will be selected as "Best Paper" with a prize of one free registration for a future IASSIST conference.
-
-**Posters or Demonstration:** Proposals in this category should identify the message being conveyed in the poster or the demonstration.
-
-**Workshops:** Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide the necessary classroom space and, depending on need and availability, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Typically workshops are half-day with 2-hour and 3-hour options.
-
-PLEASE note that all workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
-
-**Lightning Talks:** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and speakers are restricted to 5 minutes total. Presentations should have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations.
-
-**Other Formats:** Session formats are not limited to the ideas above; session organizers are welcome to suggest other formats. We will consider interactive formats that encourage audience participation.
-
-**NOTE:** When submitting you will be required to select one of the proposal formats above, but it is possible that your submission may be accepted on the condition of adapting it to another format (e.g., an individual presentation proposal might be accepted if you are willing to adapt it to a poster or a Lightning Talk). If this is the case, you will be given the choice to accept this format change or to decline being in the conference program when notified of its acceptance.
-
--->
+<!--
 
 ### Submitting a Presentation Proposal
 
 Please use the online submission form above to submit your presentation proposal.
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. **NOTE:** Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can’t understand what a proposal is about, it will be rejected.
+
+-->
 
 ## About IASSIST 
 
