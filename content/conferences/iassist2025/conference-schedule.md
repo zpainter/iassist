@@ -9,16 +9,26 @@ type = "conference-2025"
 
 ## Detailed conference schedule
 
-The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2025/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button. <!--A local copy of the program is available on IASSIST's website.-->
+<!--
+The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2025/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.
+-->
 
+<!--
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View detailed schedule <span class="fas fa-external-link-alt"></span></a>
+-->
 
-Please note the collection of presentations is still growing and presentations are still being added to the community.
+The detailed schedule of the conference was available on Openconf, the conference management software used by IASSIST. A local copy of the program is available on IASSIST’s website.
+
+<a class="btn btn-template-main" href="/conferences/iassist2025/full-program/" target="_blank" >View the detailed schedule <span class="fas fa-external-link-alt"></span></a>
+
+<!--Please note the collection is still growing and presentations are still being added to the community.-->
+
+Please note that while the collection of presentations is nearly comprehensive, a few items are missing. If you wish to obtain a copy of a missing presentation or poster, we recommend contacting the respective authors directly.
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2025/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
 <!--
-Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2024-halifax/).
+Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2025-bristol/).
 -->
 
 <br />
