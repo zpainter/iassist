@@ -14,11 +14,15 @@ type = "conference-2026"
 
 IASSIST 2026 invites you to join us for a **virtual conference** on **June 2 - June 5, 2026** to engage, connect, and collaborate around the theme of Championing Data. IASSIST (the International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching.
 
-As IASSIST goes virtual for 2026, we are building an engaging array of events and formats to maximize our shared time at the conference. Through dynamic sessions, collaborative discussions, and community-driven activities, we'll share our expertise and build connections to advance our collective data-centered work at our institutions and organizations. IASSIST 2026 will feature ample semi-structured time, with attendee-selected themes for discussion and idea exchange, gathered at the start of the conference, as well as unstructured segments with breakout opportunities to capture the interstitial moments at these events. Social hours, trivia and participatory games will round out the experience to help build connections and invigorate our collective work.
+As IASSIST goes virtual for 2026, we are building an engaging array of events and formats to maximize our shared time at the conference. Through dynamic sessions, collaborative discussions, and community-driven activities, we'll share our expertise and build connections to advance our collective data-centered work at our institutions and organizations. 
+
+IASSIST 2026 will feature ample semi-structured time, with attendee-selected themes for discussion and idea exchange, gathered at the start of the conference, as well as unstructured segments with breakout opportunities to capture the interstitial moments at these events. Social hours, trivia and participatory games will round out the experience to help build connections and invigorate our collective work.
 
 We welcome submissions for the conference structured time: papers, presentations, panels, roundtables, and other novel virtual meeting formats that embrace our conference theme, ***Championing Data: Data Professionals at the Nexus***. 
 
-We are seeking out information on the importance of data in our world, from its collection to its ethics and governance; from making sense of data to aiding others in doing the same; and modes and methods of protecting and championing data in an era of disruption and innovation. Possible topics include (but are not limited to): 
+We are seeking out information on the importance of data in our world, from its collection to its ethics and governance; from making sense of data to aiding others in doing the same; and modes and methods of protecting and championing data in an era of disruption and innovation. 
+
+Possible topics include (but are not limited to): 
 
 - Data rescue / data advocacy
 - Data stories -- data usage, digitization efforts, archival treasures
@@ -36,7 +40,7 @@ We are seeking out information on the importance of data in our world, from its 
 - Large data and high performance computing
 - Generative AI -- training, ethics, licensing
 
-## Presentation Formats and Notes
+### Presentation Formats and Notes
 
 For this virtual conference we are specifically accepting submissions in two formats: **presentation and block**. 
 
@@ -49,10 +53,12 @@ We request that submitters limit themselves to one proposal per format type.
 
 Decisions regarding submissions will be sent out by email early-February 2026.
 
+### Submit a Proposal
+
 The Call for proposals and workshops, with a link to the submission form, is available at Openconf.
 
 <br />
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist2026/openconf.php" target="_blank">Submission institutions <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist2026/openconf.php" target="_blank">Submit a Proposal <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
 Questions about presentation submissions may be sent to the Program Committee (Michael Beckstrand, Ashley Jester, Meghan Goodchild, Jim Church) at *programme ( at ) lists.iassistdata.org*. 
