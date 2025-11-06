@@ -22,8 +22,6 @@ type = "conference-2026"
 
 **Host institution:** IASSIST
 
-### Conference info
-
 In order to allow as many as possible to attend IASSIST 2026, the conference will be virtual. More information about the arrangements will be released in the fall of 2026.
 
 We are building an engaging array of events and formats to maximize our shared time at the conference.  Besides presentations and panels, IASSIST 2026 will feature semi-structured time, with attendee-selected themes for discussion and idea exchange, as well as unstructured segments. Social hours, trivia and participatory games will round out the experience.
@@ -68,7 +66,8 @@ IASSIST 2026 Program Committee: programme@lists.iassistdata.org
 The [University of Massachusetts Amherst <span class="fas fa-external-link-alt">](https://www.umass.edu/) — the flagship campus of the UMass system — is a nationally ranked public research university located in the scenic Pioneer Valley of Western Massachusetts. The conference sessions and events take place at the UMassAmherst [Campus Center <span class="fas fa-external-link-alt">](https://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center) and locations around the campus.
 -->
 
-<br />
+### Conference info
+
 **<span style="background:pink;padding:.5em;border-radius:15px;">Originally planned for Amherst, MA, USA</span>**
 
 IASSIST Administrative Committee with the full support of University of Massachusetts Amherst Libraries has voted to make the 2026 conference virtual. 
