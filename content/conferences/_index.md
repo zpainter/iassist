@@ -18,6 +18,15 @@ The annual conference is always an international event. Conference locations ref
 
 <div style="background-color:#eee;padding:.5em;">
 
+### 2026 IASSIST Events
+
+#### Annual Conference
+
+Virtual Conference, June 2 - June 5, 2026
+
+<a class="btn btn-template-main" href="./iassist2026/">IASSIST 2026 Conference website</a>
+
+
 ### 2025 IASSIST Events
 
 #### Annual Conference
@@ -31,14 +40,6 @@ Bristol, England, UK, June 3 - June 6, 2025
 5th IASSIST Africa Regional Workshop, Accra, Ghana, October 22-24, 2025.
 
 <a class="btn btn-template-main" href="./iassist-africa-2025/">To Africa Workshop</a>
-
-### 2026 IASSIST Events
-
-#### Annual Conference
-
-Virtual Conference, June 1 - June 5, 2026
-
-<a class="btn btn-template-main" href="./iassist2026/">IASSIST 2026 Conference website</a>
 
 </div>
 

@@ -15,6 +15,8 @@ type = "conference-2026"
 
 - Michael Beckstrand, mjbeckst ( at ) umn.edu
 - Ashley Jester
+- Meghan Goodchild
+- Jim Church
 
 **Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
 

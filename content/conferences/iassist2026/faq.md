@@ -13,7 +13,7 @@ Frequently asked questions related to the Conference are answered here.
 
 ### Where will the conference take place?
 
-The conference will take place online, June 1-5, 2026.
+The conference will take place online, June 2-5, 2026.
 
 It was originally planned to take place in Amherst, MA, USA, but it has become clear that many in the US and elsewhere would be unable to attend an in-person event in 2026 due to changes in funding and other challenges. Therefore, the IASSIST Adminstrative Committee has voted to make the 2026 conference virtual. 
 
@@ -32,6 +32,22 @@ Early Bird Registration for Members and Non-Members will be available.
 ### What is the registration cancellation policy?
 
 TBC
+
+### When does the Call for Presentation open?
+
+The CfP is open and closes on December 19, 2025
+
+### Which platform will be used for the virtual conference?
+
+TBA
+
+### Are the presentations recorded for later viewing?
+
+TBA
+
+### Do the time zones taken into account when putting together the program? 
+
+TBA
 
 ### How can I receive regular updates about the conference? 
 
