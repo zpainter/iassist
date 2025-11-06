@@ -7,6 +7,7 @@ datalink = "/data/conferences/archive/2026-Virtual.json"
 banner = "/img/conferences/annual/iassist2026-virtual-placeholder-socialmedia.jpg"
 type = "conference-2026"
 +++
+
 <!--## THEME-->
 ## IASSIST 2026 - Championing Data: Data Professionals at the Nexus
 
