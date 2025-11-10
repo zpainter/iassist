@@ -165,6 +165,13 @@ Committee Chairs are non-voting members of the Administrative Committee.
 In addition, [Interest and Action Group chairs](/about/committees-and-groups#interest-groups) may be invited to attend Administrative Committee meetings.
 
 
+
+## Officer Duties
+
+IASSIST maintains a list of [duties](https://docs.google.com/document/d/1vzx2H9D_PMgkF2eAY6S0UmV2A8F4L2kTAil1Pubbywg/edit?usp=sharing) for all officers. 
+
+
+
 ## Past Presidents
 
 term|name |email |
