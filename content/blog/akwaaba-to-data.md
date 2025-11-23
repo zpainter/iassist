@@ -4,7 +4,7 @@ title = "Akwaaba to Data: My Memoir of the IASSIST Africa Conference in Ghana"
 tags = [ "News and Announcements", "Africa", "conferences", "professional development",]
 date = "2020-11-22 03:00:00 -0700"
 draft = "false"
-banner = "/img/blog/iassist-africa-2025-02-dsc_9644.jpg"
+banner = "/img/blog/iassist-africa-2025-02-dsc_9644-1200.jpg"
 +++
   {{< figure src="/img/blog/iassist-africa-2025-01-dsc_9927.jpg" class="wrap" link="/img/blog/iassist-africa-2025-01-dsc_9927.jpg" alt="" title="" width="300" >}}
   
@@ -31,7 +31,7 @@ On the first morning, we ordered a Bolt ride and set off for the conference venu
 
 The conference venue was the Office of the Head of Local Government Services. Admittedly, my initial expectation of what a "local government office" would look like was quickly overturned. The building was breathtaking; modern, tiled, spacious, and spotless. Its location was even more strategic: surrounded by iconic structures such as the [National Theatre <span class="fas fa-external-link-alt"></span>](https://www.google.com/search?ved=1t:260882&q=National+Theatre+Accra+Ghana&bbid=3981869848165693795&bpid=5050746860857341775), the Ghana Economic Academy, Afua Sutherland Children's Park, Ridge Church School & Accra Ridge Church, Ministry of Business Development (Ghana), Kempinski Hotel Gold Coast City and the Children's Affairs Secretariat among others . The entire district seemed like a governmental and intellectual hub, a confluence of knowledge and civic development.
  
- {{< figure src="/img/blog/iassist-africa-2025-05-dsc_9669.jpg" class="wrap-right" link="/img/blog/iassist-africa-2025-05-dsc_9669.jpg" alt="" title="" width="300" >}}
+ {{< figure src="/img/blog/iassist-africa-2025-05-dsc_9669.jpg" class="wrap" link="/img/blog/iassist-africa-2025-05-dsc_9669.jpg" alt="" title="" width="300" >}}
  
 IASSIST, the International Association for Social Science Information Service and Technology, is an organisation dedicated to information scientists and data professionals globally. It serves as a nexus for innovation, collaboration, and implementation of data-driven solutions across sectors. The Africa Regional Chapter of IASSIST brought together scholars, professionals, and data experts from Ghana, Nigeria, Kenya, Uganda, and several other African nations. The theme of this year's conference ***Enhancing Data Management for Promoting Continuous Growth and a Sustainable Future for Africa*** could not have been timelier.
  
@@ -65,7 +65,7 @@ As the conference drew to a close, I had to prepare for my return flight schedul
  
 My heartfelt gratitude goes to all who made this journey possible: the Local Organising Committee led by **Dr David Kofi Doku**, District Coordinating Director, ERCC Local Government Service, Ghana and Professor **Philip Kankam**, HoD, Information Science. University of Ghana, for their outstanding efforts; my university's management team under the leadership of Professor **Akeem Lasisi**, Vice-Chancellor, Federal University of Health Sciences, Ila-Orangun; my direct Boss, **Mrs Bukky Asubiojo**, FNLA, University Librarian; the Tertiary Education Trust Fund (TETFund) for their support; and my beloved family for their understanding and encouragement. 
 
- {{< figure src="/img/blog/iassist-africa-2025-11-dsc_9900.jpg" class="wrap-right" link="/img/blog/iassist-africa-2025-11-dsc_9900.jpg" alt="" title="" width="300" >}}
+ {{< figure src="/img/blog/iassist-africa-2025-11-dsc_9900.jpg" class="wrap" link="/img/blog/iassist-africa-2025-11-dsc_9900.jpg" alt="" title="" width="300" >}}
 
 As I reflect on those three unforgettable days, I am reminded that conferences are not just about presentations and papers, they are about people, places, and possibilities. Ghana, with its warmth, discipline, and charm, offered me a renewed vision of Africa's potential. Indeed, ***[Akwaaba <span class="fas fa-external-link-alt"></span>](https://www.google.com/search?ved=1t:260882&q=Akwaaba+meaning+Ghana&bbid=3981869848165693795&bpid=5050746860857341775)*** "welcome" is more than a greeting; it is a spirit, one that makes you feel at home even miles away. 
 
