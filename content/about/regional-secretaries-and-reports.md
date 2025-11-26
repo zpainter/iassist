@@ -39,7 +39,7 @@ Africa
 Asia/Pacific
 ------------
 
-*Current Secretary:* (Vacant)
+*Current Secretary:* Kenji Ishida, Japan
 
 *Reports:*
 
