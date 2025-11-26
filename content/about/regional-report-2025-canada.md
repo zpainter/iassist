@@ -9,4 +9,4 @@ Jane Fry<br />
 Carleton University<br />
 May, 2025
 
-» **[Report in PDF format](/).**
+» **[Report in PDF format](/file/about/canada_regional_report_2025.pdf).**
