@@ -18,9 +18,7 @@ Africa
 
 *Reports:*
 
-<!--
--   [2024-2025](/about/regional-report-2024-2025-africa)
--->
+-   [2025](/about/regional-report-2025-africa)
 -   [2023-2024](/about/regional-report-2023-2024-africa)
 -   [2022-2023](/about/regional-report-2022-2023-africa)
 -   [2021-2022](/about/regional-report-2021-2022-africa)
@@ -61,9 +59,7 @@ Canada
 
 *Reports:*
 
-<!--
--   [2024-2024](/about/regional-report-2024-2024-canada)
--->
+-   [2025](/about/regional-report-2025-canada)
 -   [2023-2024](/about/regional-report-2023-2024-canada)
 -   [2022-2023](/about/regional-report-2022-2023-canada)
 -   [2021-2022](/about/regional-report-2021-2022-canada)
@@ -96,10 +92,8 @@ Europe
 
 *Reports:*
 
+-   [2025](/about/regional-report-2025-europe)
 -   [2023-2024](/about/regional-report-2023-2024-europe)
-<!--
--   [2022-2023](/about/regional-report-2022-2023-europe)
--->
 -   [2021-2022](/about/regional-report-2021-2022-europe)
 -   [2020-2021](/about/regional-report-2020-2021-europe)
 -   [2011-2012](/about/regional-report-2011-2012-europe)
