@@ -9,4 +9,4 @@ IASSIST Regional Report
 : 
 : May, 2025
 
-» **[Report in PDF format](/).**
+» **[Report in PDF format](/file/about/europe_regional_report_2025.pdf).**
