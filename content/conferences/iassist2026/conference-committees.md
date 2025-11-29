@@ -14,9 +14,9 @@ type = "conference-2026"
 #### Chairs
 
 - Michael Beckstrand, mjbeckst ( at ) umn.edu
-- Ashley Jester
 - Meghan Goodchild
 - Jim Church
+- Ashley Jester (until November 2025)
 
 **Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
 

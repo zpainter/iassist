@@ -59,7 +59,7 @@ See you in 2027! It will be the **Best. IASSIST. Ever.**
 
 
 IASSIST 2026 Program Committee: programme@lists.iassistdata.org
-: Chairs: Michael Beckstrand, Ashley Jester, Meghan Goodchild, Jim Church
+: Chairs: Michael Beckstrand, Meghan Goodchild, Jim Church
 
 
 <!--
