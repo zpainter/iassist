@@ -39,7 +39,7 @@ Winny Nekesa Akullo
 
 **Asia/Pacific** *
 
-(Vacant)
+Kenji Ishida
 
 **Canada** *
 
@@ -73,7 +73,7 @@ Michael J. Beckstrand, mjbeckst [ at ] umn.edu
 
 Meryl Brodsky, meryl.brodsky [ at ] austin.utexas.edu
 
-Ashley Jester
+(Vacant)
 
 ### Term from 2025-2029
 
@@ -157,7 +157,7 @@ Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 **Conference Program Committee**
 
-Michael Beckstrand and Ashley Jester
+Michael Beckstrand
 
 &nbsp;
 
