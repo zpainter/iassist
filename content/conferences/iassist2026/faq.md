@@ -47,7 +47,7 @@ TBA
 
 ### Do the time zones taken into account when putting together the program? 
 
-TBA
+We are collecting "home timezone" with abstract proposals to allow for flexible scheduling. The final schedule will be based on submissions received, and will strive to keep presentations during "waking hours". Each conference day is estimated to have 4-6 hours of programming.
 
 ### How can I receive regular updates about the conference? 
 

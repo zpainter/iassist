@@ -55,7 +55,7 @@ Each conference day is estimated to have 4-6 hours of programming.
 
 We are currently accepting submissions for structured time (see above) and will follow up closer to the conference with those registered to generate unconference/"birds of a feather"-style discussions.
 
-IASSIST Quarterly is facilitating a paper competition as normal; please submit your paper abstracts as "presentations", which is our catch-all format for 10 minute windows of content
+IASSIST Quarterly is facilitating a paper competition as normal; please submit your paper abstracts as "presentations", which is our catch-all format for 10 minute windows of content.
 
 ### Important Dates
 
