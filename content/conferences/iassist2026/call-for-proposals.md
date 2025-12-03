@@ -8,15 +8,14 @@ banner = "/img/conferences/annual/iassist2026-virtual-placeholder-socialmedia.jp
 type = "conference-2026"
 +++
 
-<!--## THEME-->
-## IASSIST 2026 - Championing Data: Data Professionals at the Nexus
+<!--## THEME, no year-->
+## Championing Data: Data Professionals at the Nexus
 
 ### Call for Proposals
 
 IASSIST 2026 invites you to join us for a **virtual conference** on **June 2 - June 5, 2026** to engage, connect, and collaborate around the theme of Championing Data. IASSIST (the International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching.
 
 As IASSIST goes virtual for 2026, we are building an engaging array of events and formats to maximize our shared time at the conference. Through dynamic sessions, collaborative discussions, and community-driven activities, we'll share our expertise and build connections to advance our collective data-centered work at our institutions and organizations. 
-
 IASSIST 2026 will feature ample semi-structured time, with attendee-selected themes for discussion and idea exchange, gathered at the start of the conference, as well as unstructured segments with breakout opportunities to capture the interstitial moments at these events. Social hours, trivia and participatory games will round out the experience to help build connections and invigorate our collective work.
 
 We welcome submissions for the conference structured time: papers, presentations, panels, roundtables, and other novel virtual meeting formats that embrace our conference theme, ***Championing Data: Data Professionals at the Nexus***. 
@@ -41,14 +40,26 @@ Possible topics include (but are not limited to):
 - Large data and high performance computing
 - Generative AI -- training, ethics, licensing
 
-### Presentation Formats and Notes
+### Presentation Formats
 
 For this virtual conference we are specifically accepting submissions in two formats: **presentation and block**. 
 
 - Presentations will be allotted 10 minutes to give a talk, summarize a paper, or walk listeners through a poster. Presentations will be grouped with others to make up an hour session (including Q&A). 
 - A block will be assigned a full hour (a complete session) and can take the format of a panel, roundtable discussion, or anything else you’re thinking about -- creativity encouraged!
 
-The **deadline for submissions is Friday December 19, 2025**.
+### Notes
+
+We are collecting "home timezone" with abstract proposals to allow for flexible scheduling. The final schedule will be based on submissions received, and will strive to keep presentations during "waking hours".
+
+Each conference day is estimated to have 4-6 hours of programming.
+
+We are currently accepting submissions for structured time (see above) and will follow up closer to the conference with those registered to generate unconference/"birds of a feather"-style discussions.
+
+IASSIST Quarterly is facilitating a paper competition as normal; please submit your paper abstracts as "presentations", which is our catch-all format for 10 minute windows of content
+
+### Important Dates
+
+The **deadline for all submissions is Friday December 19, 2025**.
 
 We request that submitters limit themselves to one proposal per format type.
 
