@@ -42,6 +42,14 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### Generative AI in Qualitative Data Analysis: Introducing the Guided AI Thematic Analysis (GAITA) framework
+
+Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+
+{{< youtube cd-ZM0FWD3c >}}
+
+<br />
+
 #### Choosing an Appropriate Digital Tool for a Qualitative or Mixed-Methods Analysis
 
 Christina Silver <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17415256)
@@ -58,18 +66,14 @@ Paul R. Pival <br /> [Webinar slides on Zenodo <span class="fas fa-external-link
 
 <br />
 
-#### Synthetic Data, GenAI, and What Data Services Staff Need to Know
 
-Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17013216)
-
-{{< youtube mnL4k8WD7mc >}}
-
-<br />
 
 
 ### Older webinar recordings
 
 #### 2025
+
+- [Synthetic Data, GenAI, and What Data Services Staff Need to Know <span class="fas fa-external-link-alt"></span>](https://youtube.com/watch?v=mnL4k8WD7mc) (Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett)<br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17013216)
 
 - [An Introduction to ReQual <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=b_UdlAPU_QE) (Martin Hájek)<br />([Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15665092))
 
