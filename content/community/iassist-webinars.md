@@ -44,7 +44,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### Generative AI in Qualitative Data Analysis: Introducing the Guided AI Thematic Analysis (GAITA) framework
 
-Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17872630)
 
 {{< youtube cd-ZM0FWD3c >}}
 
@@ -58,24 +58,15 @@ Christina Silver <br /> [Webinar slides on Zenodo <span class="fas fa-external-l
 
 <br />
 
-#### A Gentle Introduction to NVivo
-
-Paul R. Pival <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17419498)
-
-[No recording available]
-
-<br />
-
-
-
-
 ### Older webinar recordings
 
 #### 2025
 
-- [Synthetic Data, GenAI, and What Data Services Staff Need to Know <span class="fas fa-external-link-alt"></span>](https://youtube.com/watch?v=mnL4k8WD7mc) (Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett)<br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17013216)
+- A Gentle Introduction to NVivo (Paul R. Pival)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17419498)) [No recording available]
 
-- [An Introduction to ReQual <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=b_UdlAPU_QE) (Martin Hájek)<br />([Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15665092))
+- [Synthetic Data, GenAI, and What Data Services Staff Need to Know <span class="fas fa-external-link-alt"></span>](https://youtube.com/watch?v=mnL4k8WD7mc) (Joanna Schroeder, Matt Jansen, Lorin Bruckner, Michele Hayslett)<br /> ([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17013216))
+
+- [An Introduction to ReQual <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=b_UdlAPU_QE) (Martin Hájek)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15665092))
 
 - [How does QualCoder compare with NVivo, ATLAS.ti, MAXQDA? <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=Cqwu3mjJJHg) (Van Bich Tran)<br />([Webinar slides and demonstration files on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.15363745))
 

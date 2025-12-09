@@ -52,7 +52,7 @@ Choosing an appropriate digital tool for a qualitative or mixed-methods analysis
 November
 : Generative AI in Qualitative Data Analysis: introducing the Guided AI Thematic Analysis (GAITA) framework with Kien Nguyen-Trung 
 : [November 21, 12pm AEDT <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T12&p1=152)
-: [Register <span class="fas fa-external-link-alt"></span>](https://us06web.zoom.us/meeting/register/Z8-GwxKXRhKhjXdAtMXBbA)
+: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/cd-ZM0FWD3c)
 
 Each webinar will include a live demonstration, discussion of key features or analysis strategies, and time for Q&A. 
 
