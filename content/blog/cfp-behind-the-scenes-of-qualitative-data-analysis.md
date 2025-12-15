@@ -16,6 +16,6 @@ We expect the series will spark new ideas for both novice and experienced qualit
 
 The series will be offered in collaboration with the IASSIST Professional Development Committees. Students and professionals in any discipline are invited to apply, as well as those using any type of data or technology (or no tech at all). Presentations will be recorded and shared on the [IASSIST YouTube channel <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/channel/UC315efmsReDcFbWHpWBmb9g). 
 
-Please direct questions to Jess Hagman at jhagman ( at ) illinois.edu. Proposals are due December 12, 2025 at 5pm CST. We’ll contact selected speakers in January 2026. 
+Please direct questions to Jess Hagman at jhagman ( at ) illinois.edu. Proposals are due **January 9, 2026 at 5pm CST** (extended from December 12, 2025). We'll contact selected speakers in late January 2026. 
 
 **[&raquo; Send your proposal online <span class="fas fa-external-link-alt"></span>](https://docs.google.com/forms/d/e/1FAIpQLSfAq0avTeQeMR4wXBXvH_VDdMO9FEjzXmVF1sKucnm09UsZ-A/viewform?usp=publish-editor)**.
