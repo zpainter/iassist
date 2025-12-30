@@ -15,8 +15,12 @@ type = "conference-2026"
 
 - Michael Beckstrand, mjbeckst ( at ) umn.edu
 - Meghan Goodchild
-- Jim Church
 - Ashley Jester (until November 2025)
+
+#### At Large
+
+- Jim Church
+- Stephanie Labou
 
 **Fellows Coordinators**: Florio Orocio Arguillas, Sarah Young
 

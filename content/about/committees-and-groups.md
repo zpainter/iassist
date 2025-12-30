@@ -58,7 +58,7 @@ Responsible for enabling productive and transparent communication among members 
 #### [Programme Committee & Local Arrangements](/conferences/conference-committees)  {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events.  
 
-- **2025-2027 Program Co-Chairs: *Michael Beckstrand (-2026), Megan Goodchild, Jim Church*** and ***Ashley Jester (-2025)***
+- **2025-2027 Program Co-Chairs: *Michael Beckstrand (-2026), Megan Goodchild (-2027)*** and ***Ashley Jester (-2025)***
 - **2026 Local Arrangements Co-Chairs: *Jennifer Chaput and Ryan Clement***  
 
 
