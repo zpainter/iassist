@@ -1,7 +1,7 @@
 +++
 author = "IQ Editors"
 title = "Editors' notes: From FAIR principles to data competencies: Evolving library support for data-driven scholarship"
-tags = [ "News and Announcements", "IQ", "library support", "",]
+tags = [ "News and Announcements", "IQ", "library support", "FAIR",]
 date = "2025-09-25 03:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iq-3.png"
