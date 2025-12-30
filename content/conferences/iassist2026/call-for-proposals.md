@@ -59,21 +59,22 @@ IASSIST Quarterly is facilitating a paper competition as normal; please submit y
 
 ### Important Dates
 
-The **deadline for all submissions is Friday December 19, 2025**.
-
 We request that submitters limit themselves to one proposal per format type.
 
-Decisions regarding submissions will be sent out by email early-February 2026.
+The **deadline for all submissions was Friday December 19, 2025**.
 
+Decisions regarding submissions will be sent out by email early-February 2026.
+<!--
 ### Submit a Proposal
 
 The Call for proposals and workshops, with a link to the submission form, is available at Openconf.
+-->
 
 <br />
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist2026/openconf.php" target="_blank">Submit a Proposal <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist2026/openconf.php" target="_blank">Review your Proposals <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
-Questions about presentation submissions may be sent to the Program Committee (Michael Beckstrand, Ashley Jester, Meghan Goodchild, Jim Church) at *programme ( at ) lists.iassistdata.org*. 
+Questions about presentation submissions may be sent to the Program Committee (Michael Beckstrand, Meghan Goodchild, Jim Church) at *programme ( at ) lists.iassistdata.org*. 
 
 <!--
 ### Submitting a Presentation Proposal
