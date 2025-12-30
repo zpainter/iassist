@@ -73,7 +73,7 @@ Michael J. Beckstrand, mjbeckst [ at ] umn.edu
 
 Meryl Brodsky, meryl.brodsky [ at ] austin.utexas.edu
 
-(Vacant)
+HD MacKay
 
 ### Term from 2025-2029
 
@@ -157,7 +157,7 @@ Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 **Conference Program Committee**
 
-Michael Beckstrand
+Michael Beckstrand, Meghan Goodchild
 
 &nbsp;
 
