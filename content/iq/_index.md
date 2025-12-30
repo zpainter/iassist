@@ -8,7 +8,7 @@ The IASSIST Quarterly at [**iassistquarterly.com** <span class="fas fa-external-
 
 The IASSIST Quarterly represents an international cooperative effort on the part of individuals managing, operating, or using machine-readable data archives, data libraries, and data services. The IASSIST Quarterly reports on activities related to the production, acquisition, preservation, processing, distribution, and use of machine-readable data carried out by its members and others in the international social science community.  Your contributions and suggestions for topics of interest are welcomed. The views set forth by authors of articles contained in this publication are not necessarily those of IASSIST. 
 
-{{< figure src="/img/doaj-seal.png" class="wrap" link="https://doaj.org/toc/2331-4141" alt="Logo with text DOAJseal." title="" width="170" >}}
+{{< figure src="/img/doaj-seal.png" class="wrap-right" link="https://doaj.org/toc/2331-4141" alt="Logo with text DOAJseal." title="" width="170" >}}
 
 The IASSIST Quarterly has earned the DOAJ Seal in recognition of using best practices in open access publishing. Only about 10% of DOAJ journals have been awarded the Seal.  
 
