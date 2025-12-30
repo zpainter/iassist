@@ -1,7 +1,7 @@
 +++
 author = "IQ Editors"
 title = "Editors' notes: Perspectives on data: Management, access, and education across institutions"
-tags = [ "News and Announcements", "IQ", "Data Management, "Data Access",]
+tags = [ "News and Announcements", "IQ", "Data Management", "Data Access",]
 date = "2025-12-19 03:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iq-3.png"
