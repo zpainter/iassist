@@ -16,7 +16,7 @@ Host institution: IASSIST Africa, in collaboration with the Local Government Hea
 
 #### More information
 
-<a class="btn btn-template-main" href="http://iassistafrica.org/" target="_blank" title="Opens to a new tab">Visit the Workshop website</a>
+<a class="btn btn-template-main" href="http://iassistafrica.org//?page_id=546" target="_blank" title="Opens to a new tab">Visit the Workshop website</a>
 
 Questions about the presentation submissions may be sent to the Program Chairs at programme ( at ) iassistafrica.org.
 

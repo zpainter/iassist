@@ -46,12 +46,12 @@ Early Bird is currently open and running until April dd ().
 
 ### Call for Submissions and Workshops
 
-**[Submit](./call-for-proposals/)** your workshop, session, paper, poster or other novel virtual presentation proposal now. The deadline is December 19, 2025.
-
 <!--
-Submissions are now closed.
-: Thank you for your submissions. Decisions regarding submissions were sent out by email in late January 2026.
+**[Submit](./call-for-proposals/)** your workshop, session, paper, poster or other novel virtual presentation proposal now. The deadline is December 19, 2025.
 -->
+
+Submissions are now closed.
+: Thank you for your submissions. Decisions regarding submissions will be sent out by email early-February 2026.
 
 <!--
 See you in 2027! It will be the **Best. IASSIST. Ever.**
