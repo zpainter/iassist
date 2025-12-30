@@ -10,7 +10,7 @@ The IASSIST Quarterly represents an international cooperative effort on the part
 
 The IASSIST Quarterly has earned the DOAJ Seal in recognition of using best practices in open access publishing. Only about 10% of DOAJ journals have been awarded the Seal.  
 
-{{< figure src="https://doaj.org/static/doaj/images/logo/seal.png" class="" link="https://doaj.org/toc/2331-4141" alt="Logo with text DOAJseal." title="" width="150" >}}
+{{< figure src="/img/doaj-seal.png" class="" link="https://doaj.org/toc/2331-4141" alt="Logo with text DOAJseal." title="" width="150" >}}
 
 <br /><br />
 
