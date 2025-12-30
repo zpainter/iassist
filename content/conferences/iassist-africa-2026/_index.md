@@ -10,7 +10,7 @@ banner = "/img/carousel/iassist-africa-workshop-flyer2026.jpg"
 
 ### Imperial Resort Beach Hotel, Entebbe, Uganda, November 4-6, 2026
 
-Host institution: IASSIST Africa, n collaboration with the East African School of Library and Information Science, Makerere University
+Host institution: IASSIST Africa, in collaboration with the East African School of Library and Information Science, Makerere University
 
 <br />
 
