@@ -14,7 +14,7 @@ Host institution: IASSIST Africa, in collaboration with the Parliament of Kenya
 
 <br />
 
-#### More information
+<!--#### More information-->
 
 <a class="btn btn-template-main" href="http://iassistafrica.org/?page_id=541" target="_blank" title="Opens to a new tab">Visit the Workshop website</a>
 
