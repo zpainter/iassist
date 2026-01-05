@@ -4,7 +4,7 @@ draft = "false"
 banner = "/img/carousel/iassist-africa-workshop-flyer2025.jpg"
 +++
 
-{{< figure src="/img/carousel/iassist-africa-workshop-flyer2024.jpg" alt="IASSIST Africa Regional Workshop 2025 flyer" title="" width="700" >}}
+{{< figure src="/img/carousel/iassist-africa-workshop-flyer2025-800.jpg" alt="IASSIST Africa Regional Workshop 2025 flyer" title="" width="700" >}}
 
 ## Enhancing Data Management for Promoting Continuous Growth and a Sustainable Future for Africa
 
