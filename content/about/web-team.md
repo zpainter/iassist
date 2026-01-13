@@ -11,21 +11,16 @@ draft = "false"
 |Role|Contact|
 |:---|:---|
 |Web Editor (appointed)		|Zac Painter, zp5928 [ at ] princeton.edu |
-|Website Administrator 		|Harrison Dekker, hdekker [ at ] uri.edu||
 |Communications Committee Chair	|Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi|
-|Discussion List Moderator	|Ashley Jester, discuss-request [ at ] lists.iassistdata.org  |
+|Discussion List Moderator	|Rashelle Nagar, discuss-request [ at ] lists.iassistdata.org  |
 |Social Media Editors		|Tuomas J. Alaterä, Lynda Kellam|
 |Jobs Repository Editor		|Ryan Womack |
+|Website Administrator 		|Harrison Dekker |
 |Administrator Support		|Zac Painter |
 |Membership Site Admins		|iassist.membership [ at ] gmail.com|
 
 <!--
-|iBlog Editor 				|Robin Rice, r.rice [ at ] ed.ac.uk|
-|Mentorship pages			|-|
-|Section Editor: About		|Tuomas J. Alaterä |
-|Section Editor: Conferences|Chiu-Chuang (Lu) Chou |
-|Section Editor: Resources	|Minglu Wang |
-|Section Editor: Community	|Jen Darragh  |
+|iBlog Editor 				|open|
 -->
 
 <br />To contact the web team, please use our [contact form](/contact) or email iassistwebmaster [ at ] gmail.com
