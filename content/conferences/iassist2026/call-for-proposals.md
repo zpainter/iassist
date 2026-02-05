@@ -40,6 +40,20 @@ Possible topics include (but are not limited to):
 - Large data and high performance computing
 - Generative AI -- training, ethics, licensing
 
+
+### Support for Attending the Conference
+
+**IASSIST Fellows Program** supports data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data, implementing information policy decisions, and providing data services at their home institutions.
+
+**IASSIST Early Professional Fellows Program** supports early career data professionals from under-resourced institutions. It recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to attend the conference.
+
+**Applications will close on Friday February 20, 2026.** Please address your questions about the Fellows Program to Fellows Committee Co-Chairs Florio Arguillas (foa2 at cornell.edu) and Sarah Young (sarahy at andrew.cmu.edu).
+
+<br />
+<a class="btn btn-template-main" href="https://docs.google.com/forms/d/e/1FAIpQLSeVjPuYyiAS9FtcAkQyombUME9B-SkqoIOlcBUU3pIh2locSA/viewform">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
+<br /><br />
+
+
 ### Presentation Formats
 
 For this virtual conference we are specifically accepting submissions in two formats: **presentation and block**. 
