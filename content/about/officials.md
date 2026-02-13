@@ -110,7 +110,7 @@ Zac Painter, zp5928 [ at ] princeton.edu
 
 **Archivist**
 
-Christine (Nieman) Hislop, cnieman [ at ] hshsl.umaryland.edu
+Christine (Nieman) Hislop, cnhislop [ at ] umd.edu
 <br />*Questions regarding IASSIST Archives:* archivist [ at ] iassistdata.org
 
 
