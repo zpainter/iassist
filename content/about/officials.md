@@ -73,7 +73,7 @@ Michael J. Beckstrand, mjbeckst [ at ] umn.edu
 
 Meryl Brodsky, meryl.brodsky [ at ] austin.utexas.edu
 
-HD MacKay
+HD McKay
 
 ### Term from 2025-2029
 
