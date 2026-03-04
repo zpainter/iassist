@@ -43,7 +43,7 @@ Kenji Ishida
 
 **Canada** *
 
-Maggie Marchant
+Carla Graebner
 
 **Europe** *
 
@@ -51,7 +51,7 @@ David Schiller
 
 **USA** *
 
-Carla Graebner
+Maggie Marchant
 
 ## Members at Large (by region)
 
