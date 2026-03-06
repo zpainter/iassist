@@ -44,7 +44,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### Your Voice Matters: Shaping IASSIST Quarterly’s Data Policy and Path to Scopus
 
-Ofira Schwartz and Michele Hayslett <br /> No slides available
+Ofira Schwartz and Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.18890588)
 
 The editors of IASSIST Quarterly share updates on the journal's progress toward meeting the requirements for Scopus review and potential inclusion in its index. A critical prerequisite is the establishment of a data policy.
 
@@ -55,6 +55,8 @@ The editors of IASSIST Quarterly share updates on the journal's progress toward 
 #### Generative AI in Qualitative Data Analysis: Introducing the Guided AI Thematic Analysis (GAITA) framework
 
 Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17872630)
+
+This presentation proposes a Guided AI Thematic Analysis (GAITA), an adapted version of King et al.'s (2018) Template Analysis to help qualitative researchers apply Generative AI in thematic analysis process.
 
 {{< youtube cd-ZM0FWD3c >}}
 
