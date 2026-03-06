@@ -22,9 +22,10 @@ Meet the leadership team:
 Email the leadership team, ***QSSHDIG [ at ] gmail.com*** for more information or to sign up for our mailing list.
 
 
-## Register now for the 2025 workshop series on qualitative data analysis tools.
+## Register now for the spring 2026 presentations on qualitative data analysis
  
-Throughout the year, QSSHDIG and the Professional Development committee is hosting a [series of workshops <span class="fas fa-external-link-alt"></span>](https://iassistdata.org/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) on technology for qualitative research. The workshops are intended to offer both researchers and those who consult with qualitative researchers an introductory overview of the technology presented. Please direct any questions on the workshop series to Jess Hagman jhagman ( at ) illinois.edu. 
+QSSHDIG and the Professional Development committee is hosting a [series of workshops <span class="fas fa-external-link-alt"></span>](https://iassistdata.org/blog/2026/03/05/announcing-the-spring-2026-presentations-on-qualitative/) where presenters share their experiences and insight into doing qualitative work with a variety of data types and methods. The series aims to bring together qualitative researchers across disciplines to see the variety of approaches to working with qualitative data, a process that is often invisible to the reader of published researchers and a challenge for new researchers to learn.
 
+Please direct any questions on the workshop series to Jess Hagman jhagman ( at ) illinois.edu. 
 
 <!--<a class="btn btn-template-main" href="https://sites.google.com/uncg.edu/iassistqsshdig/home" target="_blank">Visit QSSHDIG</a>-->
