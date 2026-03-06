@@ -8,7 +8,7 @@ banner = "/img/blog/iq-3.png"
 +++
 Dear IASSISTers,
 
-Welcome to [IASSIST Quarterly Vol. 49 No. 4 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/163).
+Welcome to [IASSIST Quarterly Vol. 49 No. 4 <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/164).
 
 IQ's Editors and Editorial Board are continuously working on developingpolicies toprovide a clear, consistent, and equitable experience for authors, reviewers, and readers. Authors who are considering submitting a manuscript are encouraged to download and read over the author template if they haven't published with us recently. One recent update is a request that as part of the review process, authors include a separate letter, apart from their manuscript, explaining how the reviewers' commentswere addressed. This letter offers authors an opportunity to clarify why certain comments were not fully implemented or were addressed differently than recommended.
 
