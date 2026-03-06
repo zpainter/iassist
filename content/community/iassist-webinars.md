@@ -14,11 +14,11 @@ On this page you will find links to the recordings and information on any webiar
 
 ### Webinar registrations
 
-Workshops will continue until November. Check the link below for more information!
+Workshops will continue in March. Check the link below for more information!
 
-#### IASSIST Workshop Series: Tools for Qualitative Research
+#### IASSIST Workshop Series: Spring 2026 Presentations on Qualitative Data Analysis
 
-> See a [separate post for info about the individual events](/blog/2025/02/02/announcing-the-2025-iassist-workshop-series/) and registration info. 
+> See a [separate post for info about the individual events](/blog/2026/03/05/announcing-the-spring-2026-presentations-on-qualitative/) and registration info. 
 
 <!--
 > No webinar registrations open at the moment.
