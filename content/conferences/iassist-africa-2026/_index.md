@@ -3,14 +3,15 @@ title = "6th IASSIST Africa Regional Workshop"
 draft = "false"
 banner = "/img/carousel/iassist-africa-workshop-flyer2026.jpg"
 +++
-<!--
-{{< figure src="/img/conferences/iassist-africa-workshop-flyer2026-800.jpg" alt="IASSIST Africa Regional Workshop 2026 flyer" title="" width="700" >}}
--->
+{{< figure src="/img/carousel/iassist-africa-workshop-flyer2026-800.jpg" alt="IASSIST Africa Regional Workshop 2026 flyer" title="" width="600" >}}
+
 ## Leveraging Emerging Technologies for Data-Driven Development for Africa
 
 ### Imperial Resort Beach Hotel, Entebbe, Uganda, November 4-6, 2026
 
 Host institution: IASSIST Africa, in collaboration with the East African School of Library and Information Science, Makerere University
+
+Call for abstracts is open until March 15, 2026.
 
 <br />
 
