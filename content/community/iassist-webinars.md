@@ -42,6 +42,16 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### Your Voice Matters: Shaping IASSIST Quarterly’s Data Policy and Path to Scopus
+
+Ofira Schwartz and Michele Hayslett <br /> No slides available
+
+The editors of IASSIST Quarterly share updates on the journal's progress toward meeting the requirements for Scopus review and potential inclusion in its index. A critical prerequisite is the establishment of a data policy.
+
+{{< youtube tm0y4xx5HQs >}}
+
+<br />
+
 #### Generative AI in Qualitative Data Analysis: Introducing the Guided AI Thematic Analysis (GAITA) framework
 
 Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17872630)
@@ -50,17 +60,11 @@ Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-
 
 <br />
 
-#### Choosing an Appropriate Digital Tool for a Qualitative or Mixed-Methods Analysis
-
-Christina Silver <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17415256)
-
-{{< youtube N6F4VHn7BQk >}}
-
-<br />
-
 ### Older webinar recordings
 
 #### 2025
+
+- [Choosing an Appropriate Digital Tool for a Qualitative or Mixed-Methods Analysis <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=N6F4VHn7BQk) (Christina Silver)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17415256))
 
 - A Gentle Introduction to NVivo (Paul R. Pival)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17419498)) [No recording available]
 
