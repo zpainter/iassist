@@ -24,21 +24,27 @@ Workshops will continue in March. Check the link below for more information!
 > No webinar registrations open at the moment.
 -->
 
-<!--
-#### March 11 | AI-Driven Data: From Raw Insights to Visual Mastery
 
-(ABSTRACT)
+#### March 12 | From Feed to Archive: A Roadmap for Sustainable Social Media Reseaerch
 
-About our speaker:
 
-**NAME** (bio)
+In an era of high-volume, high-velocity digital data, social media has become a primary lens for understanding human behavior. However, moving data from "live feed" to "research archive" is complicated by technical, ethical, and legal hurdles. This panel discussion offers a roadmap for researchers looking to preserve social media data for long-term use while navigating the evolving landscape of platform policies and global regulations. Attendees will gain actionable insights into the lifecycle of social media data management, including:
 
-**Time:** Tuesday, March 11, 2025, 11 am EDT / 3 pm UTC / 6 pm AST
+- Best practices for organizing and documenting social data
+- Guidance for protecting vulnerable populations, mitigating disclosure risks, and addressing the nuances of archiving "public" data that feels private
+- Strategies for sharing social media data within the context of evolving global legal frameworks and platforms' Terms of Service
 
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/tZEkcOmorT0oG9ZqUGO4x46jN8qq9NMXe6h6" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+About our speakers:
+
+- **Libby Hemphill** (Associate Professor, University of Michigan School of Information; Director, Social Media Archive, ICPSR)
+- **Marley Kalt** (Senior Data Project Manager, ICPSR) 
+- **Alison Sweet** (Senior Data Project Manager, ICPSR) 
+
+**Time:** Thursday, March 12, 2026, 11 am EST
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/-gdZpjklRWeJFhmnixkC9w#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
--->
 
 ### Most recent webinar recordings
 
