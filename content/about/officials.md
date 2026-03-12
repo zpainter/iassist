@@ -35,7 +35,7 @@ Jen Doty, jennifer.doty [ at ] emory.edu
 
 **Africa** *
 
-Winny Nekesa Akullo
+Winny Nekesa Akullo, winny.nekesa [ at ] yahoo.com
 
 **Asia/Pacific** *
 
@@ -43,7 +43,7 @@ Kenji Ishida
 
 **Canada** *
 
-Carla Graebner
+Carla Graebner, cgraebne [ at ] sfu.ca
 
 **Europe** *
 
@@ -51,7 +51,7 @@ David Schiller
 
 **USA** *
 
-Maggie Marchant
+Maggie Marchant, maggie_marchant [ at ] byu.edu
 
 ## Members at Large (by region)
 
@@ -59,7 +59,7 @@ Maggie Marchant
 
 **Canada** *
 
-Alisa Rod (2025-2027)
+Alisa Rod, alisa.rod [ at ] mcgill.ca (2025-2027)
 
 **Europe** *
 
@@ -73,7 +73,7 @@ Michael J. Beckstrand, mjbeckst [ at ] umn.edu
 
 Meryl Brodsky, meryl.brodsky [ at ] austin.utexas.edu
 
-HD McKay
+HD McKay, hd.mckay [ at ] vanderbilt.edu
 
 ### Term from 2025-2029
 
@@ -87,11 +87,11 @@ Flavio Bonifacio, flavio.bonifacio [ at ] metis-ricerche.it
 
 **USA** *
 
-Stephanie Labou
+Stephanie Labou, slabou [ at ] ucsd.edu
 
 Sophia Lafferty-Hess, sophia.lafferty.hess [ at ] duke.edu
 
-Elisabeth Shook
+Elisabeth Shook, ershook [ at ] umich.edu
 
 
 ## Ex-Officio Officers
