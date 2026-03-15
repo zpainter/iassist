@@ -106,7 +106,7 @@ Because of the continued health and economic concerns caused by the coronavirus,
 
 **Host institutions:** Australian Data Archive, the University of New South Wales, Aristotle Metadata, and the Australian Consortium for Social and Political Research, Inc. (ACSPRI).
 
-<a class="btn btn-template-main" href="https://www.iassist2019.org/2018/09/11/welcome/" target="_blank">Conference website</a>
+<a class="btn btn-template-main" href="https://web.archive.org/web/20190822195459/https://www.iassist2019.org/#content" target="_blank">Conference website</a>
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2019/search?page=1&size=20&sort=conference_session" target="_blank">2019 Conference presentations (Zenodo)</a>
 
