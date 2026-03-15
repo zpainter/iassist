@@ -15,6 +15,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Florio Arguillas",
+      "video": "-FqvAKomm2Y",
       "presentations": [
         {
           "title": "ReprohackNL 2019: Enhancing research reproducibility at Dutch Universities",
@@ -81,6 +82,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Robin Rice",
+      "video": "LnkGz9_oKSg",
       "presentations": [
         {
           "title": "Panel: Navigating the Labyrinth: Cultivating and Sustaining Partnerships Across the Institution",
@@ -113,6 +115,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Amber Leahey",
+      "video": "AmWat-AM8k4",
       "presentations": [
         {
           "title": "Scholarly Communication: ARL Libraries’ Investment in Research Data Infrastructure",
@@ -171,6 +174,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Stephanie Labou",
+      "video": "WWu4acpOojw",
       "presentations": [
         {
           "title": "Scaling up research data services: a saga of organizational redesign gone awry",
@@ -225,6 +229,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Dylanne Dearborn",
+      "video": "bQHrLTcuPRc",
       "presentations": [
         {
           "title": "The cat’s out of the bag and we’re the cat ladies: The library’s role when researchers want to use leaked datasets",
@@ -271,6 +276,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Tuomas J. Alaterä",
+      "video": "4bPfMqlzfWE",
       "presentations": [
         {
           "title": "Accessing our past: the historical Census of Canada data inventory project",
@@ -322,6 +328,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Ron Nakao",
+      "video": "4bPfMqlzfWE",
       "presentations": [
         {
           "title": "Privacy Protection and Public Data: The U.S. 2020 Census",
@@ -350,6 +357,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "San Cannon",
+      "video": "T9kYsCrjxmA",
       "presentations": [
         {
           "title": "Given Meaning: Centering the Work of Data Visualization in Instruction",
@@ -408,6 +416,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Carol Perry",
+      "video": "36p5B_ehEb0",
       "presentations": [
         {
           "title": "Kuha2 - Open Source Metadata Server",
@@ -428,6 +437,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Stephanie Tulley",
+      "video": "fG3ak7dwb04",
       "presentations": [
         {
           "title": "Optimizing Openness in Human Subjects Research: Balancing Transparency and Protection",
@@ -482,6 +492,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Kelly Chatain",
+      "video": "yf04jUcv0kA",
       "presentations": [
         {
           "title": "Crafting a Sustainable Reproducibility Service and Archive",
@@ -544,6 +555,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Alicia Hofelich Mohr",
+      "video": "g49qQh0sXBk",
       "presentations": [
         {
           "title": "Accelerators and Speedbumps: RDM Capacity Development in Canadian Research Institutions",
@@ -638,6 +650,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Ashley Jester",
+      "video": "URNv_64BdaE",
       "presentations": [
         {
           "title": "What’s new, CoreTrustSeal? Changes and expected developments 2020-2022",
@@ -696,6 +709,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Jennifer Doty",
+      "video": "ZWv5tk8OwWQ",
       "presentations": [
         {
           "title": "EmpoderaData: Developing data literacy capacity in Latin America",
@@ -746,6 +760,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "Bobray Bordelon",
+      "video": "zK4GNsHt8s8",
       "presentations": [
         {
           "title": "Do Graduate Students Dream of -for- Loops?  Ph.D. Students and Data Services at Emory University",
@@ -783,11 +798,12 @@
        ]
     },
     {
-      "title": "Lightning Talks",
+      "title": "Thursday - Lightning Talks",
       "day": "",
       "abstract": "",
       "moderator": "",
       "chair": "Lynda Kellam, Laurence Horton",
+      "video": "",
       "presentations": [
         {
           "title": "Heritage made digital, Qatar Digital Library- a partnership to digitize heritage",
@@ -898,7 +914,6 @@
             }
           ]
         },
-
         {
           "title": "Data Culture in Canada: Perceptions and Practice Across the Disciplines",
           "abstract": "Amid the increasing recognition of the value of research data, federal granting agencies are developing formal policies to advance the data culture in Canada. In order to better support their research communities, a consortium of Canadian universities surveyed researchers to identify research data management (RDM) practices, needs and attitudes. The consortium’s previous efforts characterized the data culture in distinct disciplines with individual surveys targeting researchers in science and engineering, humanities and social sciences, and health sciences and medicine. The data collected from the three surveys have been compiled to create a national dataset, which enables a deeper understanding of the Canadian RDM landscape. This poster presents the analysis of the national dataset, giving an overall picture of data sharing, data preservation, data management planning and interest in data management services. The results highlight trends in common practices across the country while revealing any unique practices and attitudes between disciplines, regions, researcher ranks and types of institutions. Informed by the survey findings, institutional policy, service, and infrastructure development can be aligned with funding agency requirements and effective data stewardship practices. Additionally, this publicly available national dataset will support future analysis in building sustainability in a national RDM strategy.",
@@ -910,7 +925,6 @@
             }
           ]
         },
-
         {
           "title": "The Landscape of State-Level Open Data Portals in the United States",
           "abstract": "With the increasing focus in the United States at the federal level to make data openly available and the appearance in the past decade of state legislation requiring agencies to make their data publicly available, the issue of long-term public accessibility to government data at all levels of government has gained prominence. This is particularly true for librarians who regularly help users access these data and for those stewarding collections and access to government information and data. The spotlight has been on federal-level data as well as city-level data, but less focus has been given to state-level data and how state governments are responding to the push for public access to government information. In order to learn more about the landscape at the state level in the United States, we gathered information about state-sponsored open data, geospatial data, and transparency portals and websites. This poster will provide insight into high-level trends around modes of access, legislative support, usability of the data, and robustness of content for those states that have repositories or portals for geospatial data, open data writ large, or transparency data such as budget and expenditure information. Learning more about how states are dealing with access to state- and locally-produced government data can help shed light on how academic institutions could move forward as a potential partner for state agencies to provide expertise and facilitate access to these important data.",
@@ -926,7 +940,6 @@
             }
           ]
         },
-
         {
           "title": "Involving Community to Build Strong Metadata Foundations",
           "abstract": "The ICPSR Metadata Librarian recently conducted a survey of both internal and external users of the ICPSR website in order to determine what was missing from ICPSR metadata that would enhance the user's experience, what was redundant or unnecessary that either confuses or detracts from the user's experience, and what practices and policies are contributing to incomplete information or inconsistencies across the archive. This was timed with the ongoing development of a new ICPSR infrastructure for data. The first part of the survey consisted of a focus group of 5 internal users. They participated in 5 tasks interacting with the ICPSR website ranging in specificity and difficulty. The second part of the survey included recruiting external users through references and ICPSR's membership list. More than 40 users were selected and 18 completed the survey. Questions in the survey were based off of feedback from the focus group, the learning objectives, and previous research. The survey was designed on SurveyMonkey and distributed through email. The results were analyzed to determine most frequent tasks, most useful features, and most important fields to the users. Feedback was also solicited to determine whether to implement new fields and new field functionality in ICPSR's newly built infrastructure. Many of the ideas presented by the users have been implemented with success. This experience was valuable to not only metadata, but the organization as a whole. When building a new infrastructure for data, it is important to involve the community to collect insights from those individuals the infrastructure would affect the most. Building our tools with the involvement of our core communities enhances relationships and much-needed trust (confidence) in our archives.",
@@ -938,7 +951,6 @@
             }
           ]
         },
-
         {
           "title": "Data Engagement for the Data-Hesitant Librarian",
           "abstract": "In today’s library settings, there is an increasing focus on data skills and data literacy. In fact, many library job seekers, particularly librarians, consider data skills a ticket to success. With technical advances in cataloging, metadata and systems librarianship, library involvement with research data management, growing sophistication and scope of library assessment work, and analytical enhancements in the fields of digital humanities and digital literacies, data-related competencies are more central to librarians’ activities than ever.  Library leaders now encourage widespread acquisition of data skills in order to have a corps of data-savvy librarians. But what happens to the data-hesitant librarian in this scenario? While data literacy is seen as a universal good and universally attainable, data-related training often assumes competency levels that are above the “rank beginner” status advertised. Librarians may not feel that data applies to their discipline or work flow. They may also self-identify as “non-data people”, often with attendant shame around that fact. This means that for any push towards data-savviness, there are both librarians who resist, whatever the reasons for their hesitation, and librarians who want to engage but have barriers/uncertainty around beginning.  The questions included in this presentation will be: how to engage these librarians (and staff) with data? Can we? Must we? Should we? An outline of critical data literacy will be followed by suggestions for how to engage “non-data” librarians with data training and activities in the library setting. The issues of how feasible/desirable it is to expect universal data-savviness, and how to empower librarians to choose their own approaches to the issue, both in the workplace and in their career planning, will be addressed. Finally we’ll discuss training approaches and resources. Attendees will leave with ideas for implementing inclusive data initiatives in their settings.",
@@ -950,7 +962,6 @@
             }
           ]
         },
-
         {
           "title": "Uncorked 3D: Visualizing Taste",
           "abstract": "This will be the third talk in what has become a series of lightning talks based upon the the author and her spouse’s data-driven quest to drink better wine. Since 2007, my husband and I have been recording our wine tasting notes and associated metadata (grape variety, vintage, origin, producer, etc.) in order to create a dataset that has enabled us to better understand our preferences and make more informed choices when confronted with new bottles at stores or restaurants.  Building upon the previous two lightning talks, this talk will explore the depth of the data to a greater degree. While the talk in Australia was adequate, the author realized during later discussions that the two-dimensional format of a slide-driven talk wasn’t conveying the depth and breath of information that needed to be considered when thinking about wine. It was there that the idea began to grow for a revised talk that would focus on an interactive web-based data visualization, giving my audience the chance to turn the data over for themselves while I shared the insights we had found most helpful. Rendering the data in this way will both allow this talk to explore more of the complexity present in the data as well as provide my audience the chance to dig into information for themselves and hopefully find new insights that they can share with me.",
@@ -970,6 +981,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
+      "video": "",
       "presentations": [
         {
           "title": "The International Journal for Re-Views in Empirical Economics (IREE) – a new open-access journal for replications",
@@ -1049,6 +1061,7 @@
       "abstract": "",
       "moderator": "",
       "chair": "",
+      "video": "",
       "presentations": [
         {
           "title": "2021-05-10 SSHOC Open Science and Research Data Management Train-the-Trainer Bootcamp 2 Day - Part 1",
