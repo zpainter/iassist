@@ -33,9 +33,21 @@
                           <p><strong>Ordinal:</strong> {{ $data.conferenceNum }}</p>
                           <p><strong><a href="{{ $data.conferenceUrl }}">Conference website</a></strong></p>
                           <h3> Program </h3>
-                          <button> Toggle abstract visibility </button>
+                          <p>The archive provides titles, presenters, abstracts, and links to presentations in Zenodo and recordings on YouTube, where available. If the list does not include any links, it means the presentation was not obtained by IASSIST. However, it may be available online, if the authors have published it elsewhere.</p>
+                          <p>All recent archives are organized in the following order: plenaries, concurrent sessions, lightning talks, posters, and workshops. Abstracts can be viewed by clicking the button below.</p>
+                          <!--<button class="btn btn-template-main"> Show or hide abstracts </button>-->
+                          <button
+                            style="border-radius:8px;border-color:black;border-width:2px;background-color:#e3c1d8;color:black;padding:8px 10px;"
+                            onmouseover="this.style.backgroundColor='#c27baa'"
+                            onmouseout="this.style.backgroundColor='#e3c1d8'">
+                            Show or hide abstracts
+                          </button>
+                          <br /><br />
                           {{ range $s := $data.sessions }}
                             <div class="conference-session"> <h4>{{ if $s.day }}{{$s.day }}:&nbsp;{{ end }}{{ $s.title }}</h4></div>
+                              {{ if $s.abstract }}
+                                <div class=""><strong>Session theme/info:</strong> {{ $s.abstract }}</div>
+                              {{ end }}
                               {{ if $s.video }}
                                 <div class="conference-doi">&raquo; <a href="https://www.youtube.com/watch?v={{ $s.video }}" title="{{ i18n "viewRecording" }} '{{ $s.title }}' {{ i18n "onYouTube" }}" target="_blank">Recording on YouTube</a></div>
                               {{ end }}
@@ -44,9 +56,18 @@
                               {{ range $pr := $p.presenters }}
                                 <div class="conference-presenters"><em>{{ $pr.name }} ({{ $pr.institution }}) {{ if $pr.doix }}&raquo; <a href="https://doi.org/{{$pr.doix }}" title="{{ i18n "openPanelPresentation" }} {{ i18n "onZenodo" }}" target="_blank">doi.org/{{ $pr.doix }}</a>{{ end }}</em></div>
                               {{ end }}
-                                <div style="display:none; padding: .5em 0 0 1em;" class="abstract"> {{ $p.abstract }} </div>
-                              {{ if $p.doi }}
-                                <div class="conference-doi">&raquo; <a href="https://doi.org/{{ $p.doi }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">doi.org/{{ $p.doi }}</a></div>
+                                {{- $absNewline := replace $p.abstract "\n" "<br />" -}}
+                                <div style="display:none; padding: .5em 0 0 1em;" class="abstract"> 
+                                  {{ $absNewline | safeHTML }} 
+                                </div>
+                              {{ with $p.doi }}
+                                {{ if reflect.IsSlice . }}
+                                  {{ range . }}
+                                    <div class="conference-doi">&raquo; <a href="https://doi.org/{{ . }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">doi.org/{{ . }}</a></div>
+                                  {{ end }}
+                                {{ else }}
+                                   <div class="conference-doi">&raquo; <a href="https://doi.org/{{ $p.doi }}" title="{{ i18n "openPresentation" }} '{{ $p.title }}' {{ i18n "onZenodo" }}" target="_blank">doi.org/{{ . }}</a></div>
+                                {{ end }}
                               {{ end }}
                               {{ if $p.video }}
                                 <div class="conference-doi">&raquo; <a href="https://www.youtube.com/watch?v={{ $p.video }}" title="{{ i18n "viewRecording" }} '{{ $p.title }}' {{ i18n "onYouTube" }}" target="_blank">Recording on YouTube</a></div>
