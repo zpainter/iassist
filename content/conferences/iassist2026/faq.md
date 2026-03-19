@@ -23,7 +23,7 @@ TBC
 
 ### When does registration open?
 
-TBC
+Soon
 
 ### Can I get a discount when I register early?
 
@@ -35,7 +35,7 @@ TBC
 
 ### When does the Call for Presentation open?
 
-The CfP is open and closes on December 19, 2025
+The Call for Presentations closed on December 19, 2025
 
 ### Which platform will be used for the virtual conference?
 
@@ -45,7 +45,7 @@ TBA
 
 TBA
 
-### Do the time zones taken into account when putting together the program? 
+### Are the time zones taken into account when putting together the program? 
 
 We are collecting "home timezone" with abstract proposals to allow for flexible scheduling. The final schedule will be based on submissions received, and will strive to keep presentations during "waking hours". Each conference day is estimated to have 4-6 hours of programming.
 
