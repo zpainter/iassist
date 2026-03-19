@@ -92,10 +92,10 @@ Before the conference on Monday, June 2:
 	  <td>Session J</td>
 	</tr>
 	<tr>
-	  <td>12:00:13:00<br />Regional / Unconference</td>
-	  <td>12:30-13:30<br />Interest Groups / Unconference</td>
-	  <td>12:15-13:30<br />Interest Groups / Unconference</td>
-	  <td>12:00-13:00<br />Unconference</td>
+	  <td>Regional / Unconference</td>
+	  <td>Interest Groups / Unconference</td>
+	  <td>Interest Groups / Unconference</td>
+	  <td>Unconference</td>
 	</tr>
 	<tr>
 	  <td>Session B</td>
