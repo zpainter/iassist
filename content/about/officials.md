@@ -39,7 +39,7 @@ Winny Nekesa Akullo, winny.nekesa [ at ] yahoo.com
 
 **Asia/Pacific** *
 
-Kenji Ishida
+Kenji Ishida, ishidak [ at ] iss.u-tokyo.ac.jp
 
 **Canada** *
 
