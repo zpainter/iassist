@@ -44,7 +44,7 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 #### From Feed to Archive: A Roadmap for Sustainable Social Media Research
 
-Libby Hemphill, Marley Kalt, and Alison Sweet <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+Libby Hemphill, Marley Kalt, and Alison Stroud <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19227790)
 
 This panel discussion offers a roadmap for researchers looking to preserve social media data for long-term use while navigating the evolving landscape of platform policies and global regulations.
 
