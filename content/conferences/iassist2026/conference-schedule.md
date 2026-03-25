@@ -9,7 +9,9 @@ type = "conference-2026"
 
 ## Detailed conference schedule
 
-To accoomodate our global membership, each day's start time is staggered. On Tuesday and Thursday, the conference will begin at 11AM Eastern time, on Wednesday at 9AM Eastern time, and on Friday at 12 noon Eastern time. 
+To accoomodate our global membership, each day's start time is staggered. On Tuesday and Thursday the conference will begin at [11:00 AM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T11&p1=43), on Wednesday at [09:00 AM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T09&p1=43), and on Friday at [12:00 PM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T12&p1=43). 
+
+
 
 Full schedule details are forthcoming. For now, the [conference program listing <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/proceedings) with session info is available.
 
