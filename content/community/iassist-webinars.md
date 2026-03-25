@@ -34,21 +34,6 @@ Statistics Canada, the nation's statistical agency, collects and disseminates a 
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
-#### March 12 | From Feed to Archive: A Roadmap for Sustainable Social Media Reseaerch
-
-In an era of high-volume, high-velocity digital data, social media has become a primary lens for understanding human behavior. However, moving data from "live feed" to "research archive" is complicated by technical, ethical, and legal hurdles. This panel discussion offers a roadmap for researchers looking to preserve social media data for long-term use while navigating the evolving landscape of platform policies and global regulations. Attendees will gain actionable insights into the lifecycle of social media data management, including:
-
-- Best practices for organizing and documenting social data
-- Guidance for protecting vulnerable populations, mitigating disclosure risks, and addressing the nuances of archiving "public" data that feels private
-- Strategies for sharing social media data within the context of evolving global legal frameworks and platforms' Terms of Service
-
-About our speakers:
-
-- **Libby Hemphill** (Associate Professor, University of Michigan School of Information; Director, Social Media Archive, ICPSR)
-- **Marley Kalt** (Senior Data Project Manager, ICPSR) 
-- **Alison Sweet** (Senior Data Project Manager, ICPSR) 
-
-**Time:** Thursday, March 12, 2026, 11 am EST
 
 <!--
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/-gdZpjklRWeJFhmnixkC9w#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
@@ -56,6 +41,16 @@ About our speakers:
 
 
 ### Most recent webinar recordings
+
+#### From Feed to Archive: A Roadmap for Sustainable Social Media Research
+
+Libby Hemphill, Marley Kalt, and Alison Sweet <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>]()
+
+This panel discussion offers a roadmap for researchers looking to preserve social media data for long-term use while navigating the evolving landscape of platform policies and global regulations.
+
+{{< youtube yBgJUyl-Zmc >}}
+
+<br />
 
 #### Your Voice Matters: Shaping IASSIST Quarterly’s Data Policy and Path to Scopus
 
