@@ -22,13 +22,18 @@ type = "conference-2026"
 
 **Host institution:** IASSIST
 
-In order to allow as many as possible to attend IASSIST 2026, the conference will be virtual. More information about the arrangements will be released in the fall of 2026.
+In order to allow as many as possible to attend IASSIST 2026, the conference will be virtual. We would love for you to join us from June 2 to June 5, 2026, to engage, connect, and collaborate around the theme of Championing Data.
 
-We are building an engaging array of events and formats to maximize our shared time at the conference.  Besides presentations and panels, IASSIST 2026 will feature semi-structured time, with attendee-selected themes for discussion and idea exchange, as well as unstructured segments. Social hours, trivia and participatory games will round out the experience.
+We are building an engaging array of events and formats to maximize our shared time at the conference. Besides presentations and panels, IASSIST 2026 will feature semi-structured time, with attendee-selected themes for discussion and idea exchange, as well as unstructured segments. Social hours, trivia and participatory games will round out the experience.
 
-IASSIST (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
+**Registration will open in April 2026**. 
 
-We greatly value the in-person camaraderie and networking that occurs in person and hope to return to an in-person conference in 2027. 
+See the Conference Schedule for the latest information about the presentations. 
+
+<a class="btn btn-template-main" href="conference-schedule">Conference Schedule </a>
+
+
+**IASSIST** (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 
 See you virtually! It will be the **Best IASSIST. Ever**.
 
@@ -51,7 +56,7 @@ Early Bird is currently open and running until April dd ().
 -->
 
 Submissions are now closed.
-: Thank you for your submissions. Decisions regarding submissions will be sent out by email early-February 2026.
+: Thank you for your submissions. Decisions regarding submissions were sent out by email in early-February 2026.
 
 <!--
 See you in 2027! It will be the **Best. IASSIST. Ever.**
@@ -70,11 +75,13 @@ The [University of Massachusetts Amherst <span class="fas fa-external-link-alt">
 
 **<span style="background:pink;padding:.5em;border-radius:15px;">Originally planned for Amherst, MA, USA</span>**
 
-IASSIST Administrative Committee with the full support of University of Massachusetts Amherst Libraries has voted to make the 2026 conference virtual. 
+IASSIST Administrative Committee with the full support of University of Massachusetts Amherst Libraries voted to make the 2026 conference virtual. 
 
 We thank University of Massachusetts Amherst Libraries for their willingness and hard work to host IASSIST 2026.  While many were looking forward to travelling to Amherst, we want to give you ample notice that the 2026 conference will be virtual. Since planning began, we have heard from many that you would be unable to attend an in-person conference in 2026 due to changes in funding and other challenges.  IASSIST strives to be inclusive and we know many long time members are never or rarely able to attend in person conferences.
 
 While many details need to be worked out including time zone challenges, we will strive to continue our tradition of the "Best IASSIST Ever" conference with added inclusivity!
+
+We greatly value the in-person camaraderie and networking that occurs in person and hope to return to an in-person conference in 2027. 
 
 <hr />
 <br />

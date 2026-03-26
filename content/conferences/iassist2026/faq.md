@@ -23,7 +23,7 @@ TBC
 
 ### When does registration open?
 
-Soon
+In April 2026.
 
 ### Can I get a discount when I register early?
 
@@ -48,6 +48,12 @@ TBA
 ### Are the time zones taken into account when putting together the program? 
 
 We are collecting "home timezone" with abstract proposals to allow for flexible scheduling. The final schedule will be based on submissions received, and will strive to keep presentations during "waking hours". Each conference day is estimated to have 4-6 hours of programming.
+
+Each day's start time is staggered. On Tuesday and Thursday the conference will begin at 11:00 AM Eastern time, on Wednesday at 09:00 AM Eastern time, and on Friday at 12:00 PM Eastern time.
+
+### How is the community building made possible?
+
+The program includes mid-day unconference or birds-of-feather sessions for community-based discussion and networking.
 
 ### How can I receive regular updates about the conference? 
 
