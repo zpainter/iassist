@@ -35,12 +35,18 @@ Statistics Canada, the nation's statistical agency, collects and disseminates a 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 
 
-<!--
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/-gdZpjklRWeJFhmnixkC9w#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
--->
-
 
 ### Most recent webinar recordings
+
+#### Visual Methods for Multimodal Analysis: Expanding Critical Approaches to Qualitative Research
+
+Angela Wiseman, Marva Cappello, Jennifer D. Turner <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19234775)
+
+Building on frameworks and approaches from Critical Visual Methods to Advance Racial Justice in Educational Research, this session examines the various ways scholars can use visual methods to understand multimodal artifacts. 
+
+{{< youtube z0QUOhmME-Q >}}
+
+<br />
 
 #### From Feed to Archive: A Roadmap for Sustainable Social Media Research
 
@@ -62,19 +68,11 @@ The editors of IASSIST Quarterly share updates on the journal's progress toward 
 
 <br />
 
-#### Generative AI in Qualitative Data Analysis: Introducing the Guided AI Thematic Analysis (GAITA) framework
-
-Kien Nguyen-Trung <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17872630)
-
-This presentation proposes a Guided AI Thematic Analysis (GAITA), an adapted version of King et al.'s (2018) Template Analysis to help qualitative researchers apply Generative AI in thematic analysis process.
-
-{{< youtube cd-ZM0FWD3c >}}
-
-<br />
-
 ### Older webinar recordings
 
 #### 2025
+
+- [Generative AI in Qualitative Data Analysis: Introducing the Guided AI Thematic Analysis (GAITA) framework <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=cd-ZM0FWD3c) (Kien Nguyen-Trung)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17872630))
 
 - [Choosing an Appropriate Digital Tool for a Qualitative or Mixed-Methods Analysis <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=N6F4VHn7BQk) (Christina Silver)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.17415256))
 
