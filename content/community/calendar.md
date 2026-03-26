@@ -3,9 +3,9 @@ title = "IASSIST Public Calendar"
 banner = "/img/community/iassist-webinar-series.jpg"
 draft = "false"
 +++
-The IASSIST Calendar includes IASSIST events such as webinars, interest group discussions, open committee meetings, and Administrative meetings. Each listing includes how to register or who to contact for an invitation. 
+The IASSIST Calendar includes IASSIST events such as webinars, interest group discussions, open committee meetings, and Administrative meetings. Each listing includes how to register or whom to contact for an invitation. 
 
-More information about IASSIST Professional Development Committee's upcoming open webinars is also available on the IASSIST Webinars page. 
+Further details about upcoming open webinars organized by the IASSIST Professional Development Committee are available on the IASSIST Webinars page. 
 
 Use the dropdown menu in the upper right corner to switch between a monthly view and events schedule view. 
 
