@@ -9,6 +9,9 @@ Further details about upcoming open webinars organized by the IASSIST Profession
 
 Use the dropdown menu in the upper right corner to switch between a monthly view and events schedule view. 
 
+{{< event-calendar >}}
+
+<!-- Keep here for debugging: this version moved to shortcuts
 <div style="
   width: 100%;
   min-width: 600px;
@@ -26,5 +29,6 @@ Use the dropdown menu in the upper right corner to switch between a monthly view
 </div>
 
 <a class="btn btn-template-main" href="https://calendar.google.com/calendar/newembed?src=iassistdata@gmail.com" title="" target="_blank" >Open the calendar in a separate window <span class="fas fa-external-link-alt"></span></a>
+-->
 
 <br />
