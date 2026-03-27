@@ -22,12 +22,12 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
-	
+
 [[menu.main]]
     identifier = "about"
     name = "About"
     url  = "/about/"
-    weight = 2	
+    weight = 2
 
 [[menu.main]]
     identifier="conferences"
@@ -45,13 +45,13 @@ paginate = 10
     identifier="blog"
     name = "iBlog"
     url  = "/blog/"
-    weight = 5	
-	
+    weight = 5
+
 #[[menu.main]]
 #    identifier = "resources"
 #    name = "Resources"
 #    url = "/resources/"
-#    weight = 6	
+#    weight = 8
 
 [[menu.main]]
     identifier="community"
@@ -106,7 +106,7 @@ paginate = 10
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "pink"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -121,7 +121,7 @@ paginate = 10
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email (but does this work for Netlify as well?)
+    # Enable the contact form by entering your Formspree.io email (but does this work for Netlify as well?)
     email = "iassistwebmaster@gmail.com"
     contact_form_ajax = false
 
