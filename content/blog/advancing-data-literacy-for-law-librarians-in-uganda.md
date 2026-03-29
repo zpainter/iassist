@@ -2,7 +2,7 @@
 author = "Andrew Bayunga and Winny Nekesa Akullo"
 title = "Advancing Data Literacy for Law librarians in Uganda"
 tags = [ "News and Announcements", "Event Sponsorship", "Professional Development", "Workshops",]
-date = "2026-01-12 03:00:00 -0700"
+date = "2026-01-22 03:00:00 -0700"
 draft = "false"
 banner = "/img/blog/data-literacy-law-librarians1-cropped.jpg"
 +++
