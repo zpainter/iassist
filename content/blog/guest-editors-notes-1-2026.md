@@ -1,0 +1,25 @@
++++
+author = "Hilary Bussell, Cheryl Thompson, Maureen Haaker & Michael Beckstrand"
+title = "Guest editors' note: IASSIST Quarterly Special Issue"
+tags = [ "News and Announcements", "IQ", "Qualitative Data", "Open Science",]
+date = "2026-03-31 03:01:00 -0700"
+draft = "false"
+banner = "/img/blog/iq-4-guest.png"
++++
+Dear IASSISTers,
+
+Qualitative data and their collections are valuable treasures for re-use, re-analysis, and training. However, there is a tension inherent in qualitative data sharing between the desire for transparency and the complex ethical, methodological, and labor-intensive realities of sharing non-numeric materials. As the push for Open Science accelerates, researchers are increasingly required to navigate the high standards set by the FAIR, CARE, and TRUST principles. In response to data sharing expectations, qualitative researchers have expressed concerns about the ethical challenges, methodological concerns, and labor involved in making their data and materials publicly available. The collection of papers in this [special issue <span class="fas fa-external-link-alt"></span>](https://www.iassistquarterly.com/index.php/iassist/issue/view/165) examines the challenges of data sharing in the context of qualitative research.  
+
+The first paper, ***Evaluating data sharing practices: A case study for federally funded research using FAIR Standards***, examines qualitative and quantitative data from a federally funded project on undergraduate academic success. Author **Jung Mi Scoulas** evaluates how these shared data sets align with FAIR principles, offering critical insights for applying these standards across diverse and complex data types.
+
+In ***Giving structure to the "everything else" box: Creating curation standards for qualitative data***, **Amanda Draft**, **Matthew Johnston**, **Aubrey Garman**, **Zachary Bennett**, and **Annie Beaubien** examine the role played by data curators in applying FAIR standards to the unique, often variable structures of qualitative and mixed-methods research. The authors highlight how the Inter-university Consortium for Political and Social Research (ICPSR) has refined its workflows for qualitative data and present a framework that categorizes curation tasks into specific "curation levels" based on their intensity.
+
+The curation of qualitative data requires special considerations in archival infrastructure, workflow, and relationships with other archival collections. The article, ***IPUMS qualitative resources: Supporting robust social science research***, looks at the development of archival infrastructure to manage, preserve, annotate, and distribute qualitative data at an established archive with a long history of curating census data. **Diana Magnuson** presents a model for how data archives can extend their data curation workflows to qualitative data, even if it is not the primary data product.
+
+In ***Managing, sharing and reusing qualitative data - approaches that integrate data protection, research ethics and research interests***, or: How researchers and data providers work together to make qualitative research data available for scientific re-use, **Kati Mozygemba** describes archival infrastructure designed to address the data protection and ethical challenges in qualitative data sharing. This article explores the QualidataNet, a network of qualitative research data infrastructures established as part of the National Research Data Infrastructure in Germany that enables cooperative data management, data access, and data exchange among data producers.
+
+The article, ***Stewarding qualitative data: A hermeneutic and relational reframing of qualitative data governance*** explores the challenges of applying deidentification and disclosure control practices designed for structured data to qualitative data. Taking a critical approach, **Elizabeth Green** proposes a nuanced model where qualitative data governance aligns with ethics, FAIR, and CARE principles for a responsive and practical stewardship of qualitative data.
+
+The article, ***From labourer to information service expert: FSD's journey in qualitative data archiving*** by **Arja Kuula-Luumi**, **Jarkko Päivärinta**, and **Tuomas J. Alaterä**, highlights how a data repository extended their archiving services to qualitative data. The Finnish Social Science Data Archive (FSD) has slowly evolved qualitative data archiving support since 2003 including practical guidance for researchers, procedures, and software.
+
+Given the recent global and disciplinary trends in open science and data, we believe it is timely to revisit the qualitative data landscape. This special issue contributes to the literature on concepts, theory, and practices that can support transparent, trustworthy, and accessible qualitative research now and into the future.
