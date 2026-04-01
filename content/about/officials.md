@@ -108,6 +108,10 @@ Michele Hayslett, michele_hayslett [ at ] unc.edu and Ofira Schwartz-Soicher, os
 
 Zac Painter, zp5928 [ at ] princeton.edu
 
+**Listserv Manager**
+
+Rashelle Nagar, rmnagar [at] stanford.edu
+
 **Archivist**
 
 Christine (Nieman) Hislop, cnhislop [ at ] umd.edu
