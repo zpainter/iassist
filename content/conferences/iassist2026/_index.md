@@ -4,11 +4,11 @@ draft = "false"
 title = "IASSIST 2026 - Main Page"
 location = "Virtual"
 datalink = "/data/conferences/archive/2026-Amherst.json"
-banner = "/img/conferences/annual/iassist2026-virtual-placeholder-socialmedia.jpg"
+banner = "/img/conferences/annual/iassist2026-virtual-socialmedia.jpg"
 type = "conference-2026"
 +++
 
-{{< figure src="/img/conferences/annual/iassist2026-virtual-placeholder.jpg" alt="" title="" width="700" >}}
+{{< figure src="/img/conferences/annual/iassist2026-virtual-1200.jpg" alt="" title="" width="700" >}}
 
 ## 51st Annual Conference of IASSIST
 
