@@ -9,14 +9,11 @@ type = "conference-2026"
 
 ## Detailed conference schedule
 
-To accoomodate our global membership, each day's start time is staggered. On Tuesday and Thursday the conference will begin at [11:00 AM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T11&p1=43), on Wednesday at [09:00 AM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T09&p1=43), and on Friday at [12:00 PM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260605T12&p1=43). 
+To accommodate our global membership, the start times are staggered. On Tuesday, Thursday, and Friday, the conference will begin at [11:00 AM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260602T11&p1=43), and on Wednesday at [09:00 AM Eastern Time <span class="fas fa-external-link-alt"></span>](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260603T09&p1=43).
 
+The detailed schedule of the conference is available on [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/modules/request.php?module=oc_program&action=program.php&p=program), the conference management software used by IASSIST. In Openconf, you can also choose a program at-a-glance or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button. 
 
-
-Full schedule details are forthcoming. For now, the [conference program listing <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/proceedings) with session info is available.
-
-<!--
-The detailed schedule of the conference is available on Openconf, the conference management software used by IASSIST. In [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/openconf.php), you can also choose a program at-a-glance, a mobile-friendly version of the program, or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button.--> <!--A local copy of the program is available on IASSIST's website.-->
+The [conference program listing <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/proceedings) with session info is also available on Openconf. <!--A local copy of the program is available on IASSIST's website.-->
 <!--
 <a class="btn btn-template-main" href="https://www.openconf.org/iassist2026/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank" >View detailed schedule <span class="fas fa-external-link-alt"></span></a>
 -->
