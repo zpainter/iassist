@@ -23,7 +23,7 @@ Workshops will continue in March. Check the link below for more information!
 <!--
 > No webinar registrations open at the moment.
 -->
-
+<!--
 #### April 9 | North of 49: Discovering Canadian Data Resources
 
 Statistics Canada, the nation's statistical agency, collects and disseminates a wide range of data and statistics about Canada's population, social conditions, economics and so much more. In this webinar academic library data professionals Alexandra Cooper (Queen's University), Kevin Manuel (Toronto Metropolitan University) and Michael Steelworthy (Laurier University) will introduce attendees to the Statistics Canada website and what is available on it and how to search and navigate the results for resources such as the Census of Population, geographic classifications, and statistics on representation. The presenters will also highlight other sources for public opinion polling data and where to find them (for free!) and also provide an overview of Odesi and Scholars Geoportal, data platforms used to discover and use Statistics Canada's data.
@@ -33,10 +33,20 @@ Statistics Canada, the nation's statistical agency, collects and disseminates a 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/aizCSTQGTxyiHeFT9HNz0A#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
-
+-->
 
 
 ### Most recent webinar recordings
+
+#### North of 49: Discovering Canadian Data Resources
+
+Alexandra Cooper, Kevin Manuel, Michael Steelworthy  <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19555906)
+
+The webinar introduces the Statistics Canada website and what is available on it and how to search and navigate the results for resources such as the Census of Population, geographic classifications, and statistics on representation. 
+
+{{< youtube 7E3XnnnHf4U >}}
+
+<br />
 
 #### Visual Methods for Multimodal Analysis: Expanding Critical Approaches to Qualitative Research
 
@@ -58,17 +68,11 @@ This panel discussion offers a roadmap for researchers looking to preserve socia
 
 <br />
 
-#### Your Voice Matters: Shaping IASSIST Quarterly’s Data Policy and Path to Scopus
-
-Ofira Schwartz and Michele Hayslett <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.18890588)
-
-The editors of IASSIST Quarterly share updates on the journal's progress toward meeting the requirements for Scopus review and potential inclusion in its index. A critical prerequisite is the establishment of a data policy.
-
-{{< youtube tm0y4xx5HQs >}}
-
-<br />
-
 ### Older webinar recordings
+
+#### 2026
+
+- [Your Voice Matters: Shaping IASSIST Quarterly’s Data Policy and Path to Scopus <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=tm0y4xx5HQs) (Ofira Schwartz and Michele Hayslett)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.18890588))
 
 #### 2025
 
