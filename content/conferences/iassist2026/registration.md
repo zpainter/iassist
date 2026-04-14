@@ -3,7 +3,7 @@ year = "2026"
 draft = "false"
 title = "IASSIST 2026 - Main Page"
 location = "Virtual"
-banner = "/img/conferences/annual/iassist2026-virtual-socialmedia.jpg"
+banner = "/img/conferences/annual/iassist2026-virtual-regopen.jpg"
 type = "conference-2026"
 +++
 
