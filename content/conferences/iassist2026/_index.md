@@ -30,9 +30,10 @@ In order to allow as many as possible to attend IASSIST 2026, the conference wil
 
 We are building an engaging array of events and formats to maximize our shared time at the conference. Besides presentations and panels, IASSIST 2026 will feature semi-structured time, with attendee-selected themes for discussion and idea exchange, as well as unstructured segments. Social hours, trivia and participatory games will round out the experience.
 
-**Registration will open in April 2026**. 
+<!--
+**Registration will open in April 2026**. -->
 
-See the Conference Schedule for the latest information about the presentations. 
+See the **Conference Schedule** for the latest information about the presentations. 
 
 <a class="btn btn-template-main" href="conference-schedule">Conference Schedule </a>
 

@@ -19,11 +19,11 @@ It was originally planned to take place in Amherst, MA, USA, but it has become c
 
 ### What is the registration fee?
 
-TBC
+Conference Registration: IASSIST Member - $50 USD, Non-member - $110 USD. No separate early-bird fee is offered.
 
 ### When does registration open?
 
-In April 2026.
+On April 14, 2026.
 
 ### Can I get a discount when I register early?
 
@@ -31,7 +31,7 @@ Early Bird Registration for Members and Non-Members will be available.
 
 ### What is the registration cancellation policy?
 
-TBC
+All payments are refundable until May 22, 2026. Please contact the IASSIST Treasurer directly to request a refund.
 
 ### When does the Call for Presentation open?
 
