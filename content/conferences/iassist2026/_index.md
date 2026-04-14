@@ -41,17 +41,15 @@ See the Conference Schedule for the latest information about the presentations.
 
 See you virtually! It will be the **Best IASSIST. Ever**.
 
-<!--
 ### Registration
 
-**<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference and workshops is now open!!!</span>**
+**<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is now open!!!</span>**
 
-Early Bird is currently open and running until April dd ().
+<!--Early Bird is currently open and running until April dd ().-->
 
 [**Register now**](registration/) to get the best rates and help make IASSIST 2026 the BEST EVER!
 
 <hr />
--->
 
 ### Call for Submissions and Workshops
 
@@ -67,8 +65,10 @@ See you in 2027! It will be the **Best. IASSIST. Ever.**
 -->
 
 
-IASSIST 2026 Program Committee: programme@lists.iassistdata.org
-: Chairs: Michael Beckstrand, Meghan Goodchild, Jim Church
+### IASSIST 2026 Program Committee
+
+Please send all questions to programme@lists.iassistdata.org 
+: Michael Beckstrand, Meghan Goodchild, Jim Church, and Stephanie Labou
 
 
 <!--

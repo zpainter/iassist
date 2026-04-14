@@ -9,7 +9,11 @@ type = "conference-2026"
 
 ### Program Committee
 
+As the 2026 conference is virtual, the roles related to conference arrangements are different compared to onsite conferences.
+
 <span style="border:solid silver 1px;background:#fff0f3;padding:5px 10px 5px 10px;">Please send all questions to: **programme ( at ) lists.iassistdata.org**<span>
+
+<!--
 
 #### Chairs
 
@@ -43,3 +47,4 @@ type = "conference-2026"
 
 - Jennifer Chaput
 - Ryan Clement
+-->
