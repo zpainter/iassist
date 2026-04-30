@@ -9,7 +9,7 @@ draft: false
 Our mission is to provide resources and educational opportunities to better recognize, acknowledge, and combat inherent biases in the creation, collection, and use of data for the study of discrimination. We target all forms of discrimination, including but not limited to immigrant status, ethnicity, race,  gender and gender identity, sexuality, religion, class, disability and the intersectionality of these aspects. Our work is informed by an actively anti-racist, anti-sexist, anti-colonial, and anti-discriminatory stance. We aim to ensure a global scope in our work, as discrimination varies in form and impact geographically. 
 
 
-## We are currently working on these topics
+### Areas of interest
 
 - Indigenous Peoples - Convener: Joanna Schroeder - schroejh [at] bc.edu
 - LGBTQ+ - Convener: Kevin Manuel - kevin.manuel [at] torontomu.ca
