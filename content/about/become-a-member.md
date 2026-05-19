@@ -26,8 +26,6 @@ IASSIST welcomes new members and offers an array of benefits:
 
 - **Reduced rate** ($25, USD) is available to students, retirees, and members based on lower income, lower-middle, and upper-middle income countries as defined by the [World Bank <span class="fas fa-external-link-alt"></span>](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). All members paying the reduced rate are expected to self-declare their reduced rate; proof will not be requested by IASSIST officials.
 
-> Please note that the regular membership fee will increase to $60 (USD) beginning next year (January 2025). The increase will affect the renewals that normally happen at the end of the membership year in June. The reduced rate will not be increased.
-
 **If you are a member** and want to manage or renew your membership:  Manage your membership online by logging in to the [membership site](https://www.iassistdata.info/application) with your email and password. Proceed to "View profile". Renew button takes you to a payment page. Follow the instructions to complete the payment. If you have forgotten your password, you can find it by clicking on "Forgot password" link next to the login button.  
 
 ### Membership administration site (iassistdata.info)
