@@ -20,9 +20,8 @@ Workshops will continue in March. Check the link below for more information!
 
 > See a [separate post for info about the individual events](/blog/2026/03/05/announcing-the-spring-2026-presentations-on-qualitative/) and registration info. 
 
-<!--
 > No webinar registrations open at the moment.
--->
+
 <!--
 #### April 9 | North of 49: Discovering Canadian Data Resources
 
@@ -35,12 +34,11 @@ Statistics Canada, the nation's statistical agency, collects and disseminates a 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
 -->
 
-
 ### Most recent webinar recordings
 
 #### Qualitative wayfinding: Dissertation reflections on poststructural analysis of academic library value discourse
 
-Nicole Pagowsky <br /> <!--[Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19555906)-->
+Nicole Pagowsky <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.20402555)
 
 Qualitative research is flexible and allows the researcher to deeply engage with the context and nuance of their data. However, for many qualitative methodologies and methods, there is little guidance and the researcher can feel lost. 
 
