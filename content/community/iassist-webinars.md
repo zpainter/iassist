@@ -38,6 +38,16 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### Qualitative wayfinding: Dissertation reflections on poststructural analysis of academic library value discourse
+
+Nicole Pagowsky <br /> <!--[Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19555906)-->
+
+Qualitative research is flexible and allows the researcher to deeply engage with the context and nuance of their data. However, for many qualitative methodologies and methods, there is little guidance and the researcher can feel lost. 
+
+{{< youtube uS2PSn6Mv54 >}}
+
+<br />
+
 #### North of 49: Discovering Canadian Data Resources
 
 Alexandra Cooper, Kevin Manuel, Michael Steelworthy  <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19555906)
