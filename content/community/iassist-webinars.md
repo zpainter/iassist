@@ -66,19 +66,11 @@ Building on frameworks and approaches from Critical Visual Methods to Advance Ra
 
 <br />
 
-#### From Feed to Archive: A Roadmap for Sustainable Social Media Research
-
-Libby Hemphill, Marley Kalt, and Alison Stroud <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19227790)
-
-This panel discussion offers a roadmap for researchers looking to preserve social media data for long-term use while navigating the evolving landscape of platform policies and global regulations.
-
-{{< youtube yBgJUyl-Zmc >}}
-
-<br />
-
 ### Older webinar recordings
 
 #### 2026
+
+- [From Feed to Archive: A Roadmap for Sustainable Social Media Research <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=yBgJUyl-Zmc) (Libby Hemphill, Marley Kalt, and Alison Stroud)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19227790))
 
 - [Your Voice Matters: Shaping IASSIST Quarterly’s Data Policy and Path to Scopus <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=tm0y4xx5HQs) (Ofira Schwartz and Michele Hayslett)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.18890588))
 
