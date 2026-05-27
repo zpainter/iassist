@@ -49,7 +49,7 @@ TBA
 
 We are collecting "home timezone" with abstract proposals to allow for flexible scheduling. The final schedule will be based on submissions received, and will strive to keep presentations during "waking hours". Each conference day is estimated to have 4-6 hours of programming.
 
-Each day's start time is staggered. On Tuesday and Thursday the conference will begin at 11:00 AM Eastern time, on Wednesday at 09:00 AM Eastern time, and on Friday at 12:00 PM Eastern time.
+Each day's start time is staggered. On Tuesday, Thursday and Friday the conference will begin at 11:00 AM Eastern time; and on Wednesday at 09:00 AM Eastern time.
 
 ### How is the community building made possible?
 
