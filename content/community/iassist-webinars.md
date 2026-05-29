@@ -34,6 +34,16 @@ This webinar is brought to you by the IASSIST Professional Development Committee
 
 ### Most recent webinar recordings
 
+#### Thanking World: Exploring Acknowledgments Patterns and Support Systems in Dissertations 
+
+Manika Lamba <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.20440435)
+
+Since the 1990s, research on acknowledgment sections in scientific papers has gained momentum, yet a major hurdle remains—data availability. This challenge is even greater for theses and dissertations. 
+
+{{< youtube rp4odQRM8Iw >}}
+
+<br />
+
 #### Qualitative wayfinding: Dissertation reflections on poststructural analysis of academic library value discourse
 
 Nicole Pagowsky <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.20402555)
@@ -54,19 +64,11 @@ The webinar introduces the Statistics Canada website and what is available on it
 
 <br />
 
-#### Visual Methods for Multimodal Analysis: Expanding Critical Approaches to Qualitative Research
-
-Angela Wiseman, Marva Cappello, Jennifer D. Turner <br /> [Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19234775)
-
-Building on frameworks and approaches from Critical Visual Methods to Advance Racial Justice in Educational Research, this session examines the various ways scholars can use visual methods to understand multimodal artifacts. 
-
-{{< youtube z0QUOhmME-Q >}}
-
-<br />
-
 ### Older webinar recordings
 
 #### 2026
+
+- [Visual Methods for Multimodal Analysis: Expanding Critical Approaches to Qualitative Research <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=z0QUOhmME-Q) (Angela Wiseman, Marva Cappello, Jennifer D. Turner)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19234775))
 
 - [From Feed to Archive: A Roadmap for Sustainable Social Media Research <span class="fas fa-external-link-alt"></span>](https://www.youtube.com/watch?v=yBgJUyl-Zmc) (Libby Hemphill, Marley Kalt, and Alison Stroud)<br />([Webinar slides on Zenodo <span class="fas fa-external-link-alt"></span>](https://doi.org/10.5281/zenodo.19227790))
 
