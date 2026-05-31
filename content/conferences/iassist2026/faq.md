@@ -27,7 +27,7 @@ On April 14, 2026.
 
 ### Can I get a discount when I register early?
 
-Early Bird Registration for Members and Non-Members will be available.
+No, there is no Early Bird Registration for Members and Non-Members available.
 
 ### What is the registration cancellation policy?
 
@@ -39,17 +39,17 @@ The Call for Presentations closed on December 19, 2025
 
 ### Which platform will be used for the virtual conference?
 
-TBA
+Zoom Events
 
 ### Are the presentations recorded for later viewing?
 
-TBA
+No, but some pre-recorded presentations may be shared later.
 
 ### Are the time zones taken into account when putting together the program? 
 
 We are collecting "home timezone" with abstract proposals to allow for flexible scheduling. The final schedule will be based on submissions received, and will strive to keep presentations during "waking hours". Each conference day is estimated to have 4-6 hours of programming.
 
-Each day's start time is staggered. On Tuesday, Thursday and Friday the conference will begin at 11:00 AM Eastern time; and on Wednesday at 09:00 AM Eastern time.
+On Tuesday, Thursday, and Friday, the conference will begin at 11:00 AM Eastern Time, and on Wednesday at 09:00 AM Eastern Time.
 
 ### How is the community building made possible?
 
