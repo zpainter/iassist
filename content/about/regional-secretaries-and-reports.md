@@ -55,7 +55,7 @@ Asia/Pacific
 Canada
 ------
 
-*Current Secretary:* Jane Fry
+*Current Secretary:* Carla Graebner
 
 *Reports:*
 
@@ -114,7 +114,7 @@ Europe
 United States
 -------------
 
-*Current Secretary:* Stephanie Tulley
+*Current Secretary:* Maggie Marchant
 
 *Reports:*
 
