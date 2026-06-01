@@ -21,6 +21,8 @@ Rates
 
 To receive Members Only registration discounts, you must be an IASSIST Member in good standing. To take advantage of member pricing, please visit the [Become a Member page](/about/become-a-member/) to join before you register. 
 
+Registration for individuals is now closed. Sponsors may still register.
+
 <br />
   <a class="btn btn-template-main" href="https://iassistdata.info/event-6626322" target="_blank" >Register for IASSIST 2026 Virtual Conference <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
