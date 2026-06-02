@@ -50,7 +50,7 @@ Regular registration for this event is now closed.
 **<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is now open!!!</span>**
 
 <!--Early Bird is currently open and running until April dd ().-->
-
+<!--
 [**Register now**](registration/) to get the best rates and help make IASSIST 2026 the BEST EVER!
 -->
 <hr />
