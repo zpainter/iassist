@@ -58,10 +58,10 @@ Presenters:
 #### Essays for Specific Countries
 IASSIST members have contributed essays or resources explaining how their respective nations have viewed or counted racial groups over time:*
 
-- [Canada](/community/antiracismresources-ig/canada)
-- [Germany](/community/antiracismresources-ig/germany)
-- [United Kingdom](/community/antiracismresources-ig/uk)
-- [United States](/community/antiracismresources-ig/us)
+- [Canada](/community/representation-in-data-ig/canada)
+- [Germany](/community/representation-in-data-ig/germany)
+- [United Kingdom](/community/representation-in-data-ig/uk)
+- [United States](/community/representation-in-data-ig/us)
 
 </br>
 
