@@ -18,6 +18,22 @@ The annual conference is always an international event. Conference locations ref
 
 <div style="background-color:#eee;padding:.5em;">
 
+### 2027 IASSIST Events
+
+#### Annual Conference
+
+Virtual Conference, June 2 - June 5, 2026
+
+<a class="btn btn-template-main" href="./iassist2027/">IASSIST 2027 Conference website</a>
+
+<!--
+#### Africa Workshop
+
+6th IASSIST Africa Regional Workshop, city, country,mm dd-dd, 2027.
+
+<a class="btn btn-template-main" href="./iassist-africa-2027/">To Africa 2027 Workshop</a>
+-->
+
 ### 2026 IASSIST Events
 
 #### Annual Conference
@@ -31,6 +47,8 @@ Virtual Conference, June 2 - June 5, 2026
 6th IASSIST Africa Regional Workshop, Entebbe, Uganda,November 4-6, 2026.
 
 <a class="btn btn-template-main" href="./iassist-africa-2026/">To Africa 2026 Workshop</a>
+
+</div>
 
 ### 2025 IASSIST Events
 
@@ -46,22 +64,6 @@ Bristol, England, UK, June 3 - June 6, 2025
 
 <a class="btn btn-template-main" href="./iassist-africa-2025/">Africa 2025 Workshop</a>
 
-</div>
-
-### 2024 IASSIST Events
-
-#### Annual Conference
-
-Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
-
-<a class="btn btn-template-main" href="./iassist2024/">IASSIST 2024 Conference website</a> 
-
-#### Africa Workshop
-
-4th IASSIST Africa Regional Workshop, Nairobi, Kenya, October 23-26, 2024.
-
-<a class="btn btn-template-main" href="./iassist-africa-2024/">Africa Workshop 2024</a>
-
 
 ### Past Conferences
 
@@ -70,6 +72,10 @@ Halifax, Nova Scotia, Canada, May 28 - May 31, 2024
 Check "Presentations from the Previous Conference" section in the right hand menu for conference website and additional details about the recent conferences.
 
 #### Past Africa Workshops
+
+4th IASSIST Africa Regional Workshop, Nairobi, Kenya, October 23-26, 2024.
+
+  <a class="btn btn-template-main" href="./iassist-africa-2024/">Africa Workshop 2024</a> 
 
 3rd IASSIST Africa Regional Workshop in Pretoria, South Africa, October 18-20, 2023.
 
