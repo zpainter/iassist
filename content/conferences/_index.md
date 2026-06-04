@@ -22,7 +22,7 @@ The annual conference is always an international event. Conference locations ref
 
 #### Annual Conference
 
-Virtual Conference, June 2 - June 5, 2026
+Conference, June 2 - June 5, 2026
 
 <a class="btn btn-template-main" href="./iassist2027/">IASSIST 2027 Conference website</a>
 
