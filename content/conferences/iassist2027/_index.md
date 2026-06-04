@@ -22,9 +22,7 @@ type = "conference-2027"
 -->
 
 
-
-
-**Host institution:** TBA
+**Host institution:** Simon Fraser University and University of British Columbia
 
 <!--
 **Registration will open in April 2026**. 
