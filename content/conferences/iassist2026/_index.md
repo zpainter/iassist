@@ -3,7 +3,7 @@ year = "2026"
 draft = "false"
 title = "IASSIST 2026 - Main Page"
 location = "Virtual"
-datalink = "/data/conferences/archive/2026-Amherst.json"
+datalink = "/data/conferences/archive/2026-virtual.json"
 banner = "/img/conferences/annual/iassist2026-virtual-socialmedia.jpg"
 type = "conference-2026"
 +++
@@ -30,50 +30,30 @@ In order to allow as many as possible to attend IASSIST 2026, the conference wil
 
 We are building an engaging array of events and formats to maximize our shared time at the conference. Besides presentations and panels, IASSIST 2026 will feature semi-structured time, with attendee-selected themes for discussion and idea exchange, as well as unstructured segments. Social hours, trivia and participatory games will round out the experience.
 
-<!--
-**Registration will open in April 2026**. -->
+**IASSIST** (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 
 See the **Conference Schedule** for the latest information about the presentations. 
 
 <a class="btn btn-template-main" href="conference-schedule">Conference Schedule </a>
 
+### Thank you for joining us virtually!
 
-**IASSIST** (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
+I was lovely to see you all. It was the **Best IASSIST. Ever**.
 
-See you virtually! It will be the **Best IASSIST. Ever**.
-
-### Registration
-
-Regular registration for this event is now closed.
+Presentations from the conference are available as follows:
 
 <!--
-**<span style="background:pink;padding:.5em;border-radius:15px;">Registration for the conference is now open!!!</span>**
-
-<!--Early Bird is currently open and running until April dd ().-->
-<!--
-[**Register now**](registration/) to get the best rates and help make IASSIST 2026 the BEST EVER!
--->
-<hr />
-
-### Call for Submissions and Workshops
-
-<!--
-**[Submit](./call-for-proposals/)** your workshop, session, paper, poster or other novel virtual presentation proposal now. The deadline is December 19, 2025.
+The [**conference archive**](/conferences/archive/2026-virtual/) with links to Zenodo and the [**full program**](/conferences/iassist2026/full-program/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
 -->
 
-Submissions are now closed.
-: Thank you for your submissions. Decisions regarding submissions were sent out by email in early-February 2026.
+Presentations are currently being added to Zenodo. The conference archive will be made available on our site later. Some of the presentations were recorded. Recordings may be available on Zenodo too.
 
-<!--
-See you in 2027! It will be the **Best. IASSIST. Ever.**
--->
-
+<a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2026/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank">2025 Conference presentations (Zenodo) <span class="fas fa-external-link-alt"></span></a>
 
 ### IASSIST 2026 Program Committee
 
 Please send all questions to programme@lists.iassistdata.org 
 : Michael Beckstrand, Meghan Goodchild, Jim Church, and Stephanie Labou
-
 
 <!--
 The [University of Massachusetts Amherst <span class="fas fa-external-link-alt">](https://www.umass.edu/) — the flagship campus of the UMass system — is a nationally ranked public research university located in the scenic Pioneer Valley of Western Massachusetts. The conference sessions and events take place at the UMassAmherst [Campus Center <span class="fas fa-external-link-alt">](https://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center) and locations around the campus.
@@ -89,7 +69,7 @@ We thank University of Massachusetts Amherst Libraries for their willingness and
 
 While many details need to be worked out including time zone challenges, we will strive to continue our tradition of the "Best IASSIST Ever" conference with added inclusivity!
 
-We greatly value the in-person camaraderie and networking that occurs in person and hope to return to an in-person conference in 2027. 
+We greatly value the in-person camaraderie and networking that occurs in person and return to an in-person conference in 2027. 
 
 <hr />
 <br />
