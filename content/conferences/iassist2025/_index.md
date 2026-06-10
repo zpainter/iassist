@@ -28,11 +28,7 @@ It was the **Best IASSIST. Ever.**
 
 Presentations from the conference are available as follows:
 
-<!--
 The [**conference archive**](/conferences/archive/2025-bristol/) with links to Zenodo and the [**full program**](/conferences/iassist2025/full-program/) are available on our site. Alternatively, you may search or browse directly in Zenodo too.
--->
-
-Presentations are being added to Zenodo. The conference archive will be made available on our site later. 
 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2025/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank">2025 Conference presentations (Zenodo) <span class="fas fa-external-link-alt"></span></a>
 
