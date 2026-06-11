@@ -1,7 +1,7 @@
 +++
 author = "Lynda Kellam"
 title = "Championing Public Data: Data Professionals in Civic Life"
-tags = [ "News and Announcements", "conferences", "data rescue", "keynote",]
+tags = [ "News and Announcements", "conferences", "iassist 2026", "data rescue", "keynote",]
 date = "2026-06-10 05:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iassist2026-virtual-1200-keynote.jpg"
@@ -16,7 +16,7 @@ What we have to talk about matters, and we need each other to be present and con
 
 ### The IASSIST Community
 
-I've been in IASSIST since 2007, and along the way, I've had the extraordinary privilege of learning from former IASSIST leaders, such as **Chuck Humphrey**, **Bill Block**, and **Ann Green**. As well as long-time members like **Walter Giesbrecht** (who passed away this year), **Jen Green**, **Tuomas Alaterä**, and many more. I've gained close friends and collaborators who have become some of the most important people in my professional and personal life. And I have watched this community grow in size, depth, and diversity of topics.
+I've been in IASSIST since 2007, and along the way, I've had the extraordinary privilege of learning from former IASSIST leaders, such as **Chuck Humphrey**, **Bill Block**, and **Ann Green**, as well as long-time members like **Walter Giesbrecht** (who passed away this year), **Jen Green**, **Tuomas Alaterä**, and many more. I've gained close friends and collaborators who have become some of the most important people in my professional and personal life. And I have watched this community grow in size, depth, and diversity of topics.
 
 One moment has stayed with me for years. At one conference, Chuck Humphrey, a former President of IASSIST and a mentor to many of us, was asked at the last minute to fill in for a missing keynote speaker. He had nothing prepared. Instead of talking for an hour, he invited the community into a conversation. He asked questions and listened. And people talked about it for years afterward because he brought us together as a community. That is one of my core professional memories. And, as hard as it may be, that connectedness is part of what I want us to try to achieve with each other this week, even across a screen.
 
@@ -34,7 +34,7 @@ In this talk, I want to reflect on the role we play in academia and in the wider
 
 I'll start by talking about how I got here, because I think my trajectory reflects the larger path of our field in the last few years, at least, and where it's going. 
 
-I started my career as the first data librarian at the University of North Carolina at Greensboro in 2007. In some ways, that was an incredible opportunity. I got to define what the role meant. In other ways, it was genuinely difficult, because nobody else quite understood what I did. If a question at the reference desk had the word "data" in it, it came to me. If a newspaper article mentioned data, I was asked for my thoughts, even if the content was unrelated to my work
+I started my career as the first data librarian at the University of North Carolina at Greensboro in 2007. In some ways, that was an incredible opportunity. I got to define what the role meant. In other ways, it was genuinely difficult, because nobody else quite understood what I did. If a question at the reference desk had the word "data" in it, it came to me. If a newspaper article mentioned data, I was asked for my thoughts, even if the content was unrelated to my work.
 
 I was a unicorn. I was expected to know statistical software packages (as many as possible), GIS, government data, my subject domains, and, later, data management practices and qualitative data analysis software. And I tell you this not to complain, but because many people in this room know what I am talking about. As a community, we've often faced unrealistic expectations or a lack of understanding of our field and exactly what a data librarian or data professional does.
 
@@ -111,9 +111,9 @@ And our volunteers have done an incredible amount of work. Over the past year, t
 
 And this work continues. We are not done. We still have requests for our volunteers to back up data.
 
-We are also thinking about the future. We know that data infrastructure is fragile, and that what happened in the United States in 2025 is not only an American problem — it's a problem that can emerge anywhere. Many of us understand that what we are building is not just an emergency response. We want a broader conversation about what resilient public data infrastructure should look like in the future. We are asking lots of questions in partnership with other organizations, including the Center for Open Science, Invest in Open Infrastructure, and the American Geophysical Union. These questions include: What kinds of networks do we need? What kinds of partnerships? What responsibilities belong to governments, and what responsibilities belong to NGOs, states, libraries and public institutions when governments fail to maintain access?
+We are also thinking about the future. We know that data infrastructure is fragile, and that what happened in the United States in 2025 is not only an American problem — it's a problem that can emerge anywhere. Many of us understand that what we are building is not just an emergency response. We want a broader conversation about what resilient public data infrastructure should look like in the future. We are asking lots of questions in partnership with other organizations, including the Center for Open Science, Invest in Open Infrastructure, and the American Geophysical Union. These questions include: What kinds of networks do we need? What kinds of partnerships? What responsibilities belong to governments, and what responsibilities belong to NGOs, states, libraries, and public institutions when governments fail to maintain access?
 
-In addition to working within those broader efforts, the DRP wants to leave behind documentation for the next generation of data rescuers. You can hear more about that work in Session G Block, ***From Emergency To Infrastructure: Building A Data Rescue Toolkit***, which **Halle Burns**, **Mikala Narlock**, and I will facilitate later this week.
+In addition to working within those broader efforts, the DRP wants to leave behind documentation for the next generation of data rescuers. You can hear more about that work in Session G Block, ***From Emergency to Infrastructure: Building A Data Rescue Toolkit***, which Halle Burns, Mikala Narlock, and I will facilitate later this week.
 
 But here is what I want you to take from the DRP story: DRP did not create the community that made it possible. It drew from and enhanced that community. The community was already in this organization, in these relationships, in the professional values we have been building together for decades. What 2025 gave us was a moment urgent enough to make all of that necessary. Just as I learned from my mentors in the data community, I want others to learn from what we've built. That is how this community works. 
 
@@ -159,9 +159,9 @@ Especially in an era increasingly shaped by AI-generated information, our profes
 
 ### IASSIST Sessions
 
-And many of this week's sessions reflect this direction. I want to flag just a few.
+Many of this week's sessions reflect this direction. I want to flag just a few.
 
-**Cameron Blevins** and colleagues will present the Data Advocacy For All Toolkit in Session A.1, which is exactly the kind of resource that can help us act on this expanded sense of purpose. **Annelise Sklar** will talk about maintaining a licensed data collection amid unexpected budget reductions in Session C.2 — a situation I suspect many of you've faced or are facing. And Mikala Narlock — one of my DRP Steering Committee colleagues — will present on ***Championing Sustainable Data Services: Strategic Scoping As Advocacy*** in Session J.1. Tomorrow I'll chair a panel titled ***Managing Through Crisis: Supervising Data Librarians In Uncertain Times***, where we'll talk frankly about what it means to lead data services departments in this environment. These sessions, and others, are not departures from what we do. They are broader expressions of it.
+**Cameron Blevins** and colleagues will present the Data Advocacy for All Toolkit in Session A.1, which is exactly the kind of resource that can help us act on this expanded sense of purpose. **Annelise Sklar** will talk about maintaining a licensed data collection amid unexpected budget reductions in Session C.2 — a situation I suspect many of you've faced or are facing. And Mikala Narlock — one of my DRP Steering Committee colleagues — will present on ***Championing Sustainable Data Services: Strategic Scoping as Advocacy*** in Session J.1. Tomorrow I'll chair a panel titled ***Managing Through Crisis: Supervising Data Librarians in Uncertain Times***, where we'll talk frankly about what it means to lead data services departments in this environment. These sessions, and others, are not departures from what we do. They are broader expressions of it.
 
 ### Returning to our IASSIST Community
 
