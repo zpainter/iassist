@@ -20,6 +20,6 @@ Our members work in information technology, libraries, data services, research &
 
 Our members represent a variety of organizational sectors across the globe; the majority are within acedemia, working in data services, libraries, archives or research positions.
 
-{{< figure src="/img/about/by-region.png" alt="Doughnut chart of IASSIST members across the globe." caption="IASSIST members by region: More than 70% are in the US, 15% in Europe and 15% in Canada and the rest in Africa or areas without an active region." width="500" >}}
+{{< figure src="/img/about/IASSIST_Map_26_NoLabels.png" alt="Map of IASSIST members across the globe." caption="IASSIST members by region." width="500" >}}
 
 <br /><br />
