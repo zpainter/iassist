@@ -20,6 +20,6 @@ Our members work in information technology, libraries, data services, research &
 
 Our members represent a variety of organizational sectors across the globe; the majority are within acedemia, working in data services, libraries, archives or research positions.
 
-{{< figure src="/img/about/IASSIST_Map_26_NoLabels.png" alt="Map of IASSIST members across the globe." caption="IASSIST members by region." width="500" >}}
+{{< figure src="/img/about/iassist-map-26-nolabels.png" class="" link="/img/about/iassist-map-26-nolabels.png" alt="World map with pale green dots representing the size of membership across the globe." caption="IASSIST members by region. (Click image to enlargen.)" width="600" >}}
 
 <br /><br />
