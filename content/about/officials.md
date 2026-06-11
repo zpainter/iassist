@@ -141,11 +141,11 @@ San Cannon, sancan99 [ at ] gmail.com
 
 **Professional Development Committee**
 
-Olatunbosun Obileye, bosun.obileye [ at ] gmail.com, Kate Barron, katebar [ at ] stanford.edu
+Kate Barron, katebar [ at ] stanford.edu and Carol Choi, cc8133 [ at ] nyu.edu
 
 **IASSIST Fellows**
 
-Florio Arguillas, foa2 [ at ] cornell.edu and Sarah Young, sarahy [ at ] andrew.cmu.edu
+Florio Arguillas, foa2 [ at ] cornell.edu and Robert Bowule, burosta [ at ] gmail.com
 
 **Membership Committee**
 
@@ -161,7 +161,8 @@ Tuomas J. Alaterä, tuomas.alatera [ at ] tuni.fi
 
 **Conference Program Committee**
 
-Michael Beckstrand, Meghan Goodchild
+Meryl Brodsky, Sandra Sawchuk, Meghan Goodchild
+
 
 &nbsp;
 

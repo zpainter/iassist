@@ -2,12 +2,16 @@
 nid = "51"
 uid = "1"
 author = "administrator"
-title = "Previous interest group resources"
+title = "Previous interest groups and resources"
 oldpath = ""
 date = "2020-03-20 10:00:25 -0700"
 draft = "false"
 +++
 **These former Interest Groups have produced resources that may be of use for the membership or the data community at-large.** Visit the **[Committees and Groups]({{< ref "committees-and-groups.md#interest-groups" >}})** page to see which Interest Groups are active at the moment. <br /><br />
+
+### Professionals New to Data Support Interest Group {#professionals-new-to-data-support-interest-group}
+
+This group's focus was on the support and development of professionals growing into data support roles.  
 
 ### [Health Data Interest Group](/community/health-data-interest-group) (HDIG) {#health-data-interest-group}
 The availability of health data about individuals, gathered from surveys or health care systems, are an invaluable resource for researchers who wish to examine interactions between individuals and the healthcare they receive. In addition, there is now much more demand for research and analysis of linked health and social data (for example, health records linked with education or social security records). Particular challenges face data professionals who seek to acquire health, and linked health data. The IASSIST Health Data Interest Group was established to bring together data practitioners and technicians who manage access to health, and health-linked data for research purposes, in order to share expertise and enable members to overcome challenges in their day-to-day roles.  
@@ -35,8 +39,8 @@ This interest group focused on issues related to research data management and cu
 - Maintain an [inventory of materials, resources, and policies](/https://web.archive.org/web/20130201064259/http://www.iassistdata.org/resources/category/data-management-and-curation) related to sound data management and curation internationally
 - Enable opportunities for IASSIST members to learn and enhance their skills in this field 
 - Foster information-sharing among IASSIST members of their work in this area at their institutions 
-- Maintain awareness of data management and curation issues internationally across   disciplines, including beyond the social sciences 
-- Seek opportunities for outreach and advocacy on issues related to data management,   including to organizations with similar missions 
+- Maintain awareness of data management and curation issues internationally across disciplines, including beyond the social sciences 
+- Seek opportunities for outreach and advocacy on issues related to data management, including to organizations with similar missions 
 - Examine issues related to collaborative ventures with research groups 
 - Provide input and feedback on data curation tools
 

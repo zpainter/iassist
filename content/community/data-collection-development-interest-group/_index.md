@@ -26,8 +26,7 @@ For event details and registration links, join the ***dataCDIG list-serv*** (see
 2025-2026 Co-Chairs
 
 - [Barbara Esty <span class="fas fa-external-link-alt"></span>](https://guides.library.yale.edu/prf.php?id=5c324162-7cdb-11ed-9922-0ad758b798c3) 
-- [Ron Nakao <span class="fas fa-external-link-alt"></span>](https://profiles.stanford.edu/ronald-nakao)
-- [HD McKay <span class="fas fa-external-link-alt"></span>](https://researchguides.library.vanderbilt.edu/prf.php?id=74263e65-9032-11ed-b6b9-0ad758b798c3)
+- [Jeremy Darrington <span class="fas fa-external-link-alt"></span>](https://library.princeton.edu/about/staff-directory/jeremy-darrington)
 
 dataCDIG List-serv
 : Subscribe to the dataCDIG list by emailing: ***sympa ( at ) lists.iassistdata.org*** with the subject line: ***subscribe datacdig***

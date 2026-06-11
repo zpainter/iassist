@@ -14,10 +14,13 @@ We support a wide range of disciplines, methods, and roles who work with qualita
 
 Meet the leadership team:
 : [Hilary Bussell <span class="fas fa-external-link-alt"></span>](https://library.osu.edu/people/bussell.21)
-: [Maureen Haaker <span class="fas fa-external-link-alt"></span>](https://www.uos.ac.uk/people/maureen-haaker/)
 : [Jessica Hagman <span class="fas fa-external-link-alt"></span>](https://experts.illinois.edu/en/persons/jessica-cherese-hagman)
+
+<!--
+: [Maureen Haaker <span class="fas fa-external-link-alt"></span>](https://www.uos.ac.uk/people/maureen-haaker/)
 : [Michael Beckstrand <span class="fas fa-external-link-alt"></span>](https://cla.umn.edu/about/directory/profile/mjbeckst)
 : [Cheryl Thompson <span class="fas fa-external-link-alt"></span>](https://odum.unc.edu/people/thompson/)
+-->
 
 Email the leadership team, ***QSSHDIG [ at ] gmail.com*** for more information or to sign up for our mailing list.
 

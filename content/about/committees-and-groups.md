@@ -58,8 +58,8 @@ Responsible for enabling productive and transparent communication among members 
 #### [Programme Committee & Local Arrangements](/conferences/conference-committees)  {#program-committee}
 Responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the Local Arrangements Committee to set an agenda for putting together sessions, plenaries, workshops, and social events.  
 
-- **2025-2027 Program Co-Chairs: *Michael Beckstrand (-2026), Megan Goodchild (-2027)*** and ***Ashley Jester (-2025)***
-- **2026 Local Arrangements Co-Chairs: *Jennifer Chaput and Ryan Clement***  
+- **2026-2028 Program Co-Chairs: *Meryl Brodsky (~2028), Sandra Sawchuk (~2027)*** and ***Meghan Goodchild (~2026)***
+- **2027 Local Arrangements Co-Chairs: *Carla Graebner*** and ***Jeremy Buhler***  
 
 
 ### Action Groups {#action-groups}
@@ -97,30 +97,24 @@ Read more about IASSIST Interest Groups and how to establish one in the [Interes
 
 This group's mission is to build community and share experiences and insights on data acquisition and its challenges, such as licensing, storing, curating and providing access.
 
-- **2025-2026 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu, Ron Nakao, ronbo [ at ] stanford.edu, and HD McKay, hyun.duck.mckay [ at ] vanderbilt.edu***
+- **2026-2027 Co-Chairs: *Barbara Esty, barbara.esty [ at ] yale.edu, Jeremy Darrington, jdarring [ at ] princeton.edu***
 
 #### [Representation in Data Interest Group](/community/representation-in-data-ig) {#representation-in-data-interest-group} 
 
 This mission of the Representation in Data Interest Group is to provide resources and educational opportunities to better recognize, acknowledge, and combat inherent biases in the creation, collection, and use of data for the study of discrimination. 
 
-- **2025-2026 Chair: *Todd Quinn, tq [ at ] unm.edu***
+- **2026-2027 Co-Chairs: *Michele Hayslett, michele_hayslett [ at ] unc.edu*** and ***Ryan Womack, rwomack [ at ] libraries.rutgers.edu***
 
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
 - **2025-2026 Co-Chairs: *Bruce Boucek*** and ***Paxton LaJoie***
 
-#### Professionals New to Data Support Interest Group {#professionals-new-to-data-support-interest-group}
-
-This group's focus is on the support and development of professionals growing into data support roles.  
-
-- **2025-2026 Co-Chairs: *Sophia Adeyeye*** and ***Paula Lackie***
-
 #### [Qualitative Social Science and Humanities Data Interest Group](/community/qualitative-social-science-and-humanities-data-interest-group) (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
 <!--#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} -->
 The central purpose of the IASSIST Qualitative Social Science and Humanities Data Interest Group is to bring together researchers and those working in data infrastructure to share and create resources to support good management and use of qualitative data throughout the data lifecycle. We aim to connect an informed group of professionals working with qualitative data, raise awareness about key issues in qualitative research, provide opportunities for professional development, and create resources for all IASSIST members to better understand working with qualitative data.
 
-- **2025-2026 Co-Chairs: *Hilary Bussell, Maureen Haaker*** and ***Jessica Hagman.<br />Contact the co-chairs: QSSHDIG [ at ] gmail.com***
+- **2026-2027 Co-Chairs: *Hilary Bussell*** and ***Jessica Hagman <br />Contact the co-chairs: QSSHDIG [ at ] gmail.com***
 
 
 ### Previous interest group resources

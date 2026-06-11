@@ -6,13 +6,13 @@ draft = "false"
 
 The **Program Committee** is responsible for deciding on an annual conference title as well as general thematic structure. The Program Chairs are responsible for the intellectual content of the conference, and choosing members of the multi-national Program Committee, deciding how it will function, and assigning responsibilities to its members. The Committee works along with the **Local Arrangements Committee** to set an agenda for putting together sessions, plenaries, workshops, and social events.
 
-Contact the 2026 committees:
+Contact the 2027 committees:
 : Program Committee: programme ( at ) lists.iassistdata.org
 : Local Arrangements Committee: TBA
 
-Conference hashtag: #IASSIST2026
+Conference hashtag: #IASSIST2027
 
-**Full committee info: [2026]({{< ref "iassist2026/conference-committees.md" >}})**
+**Full committee info: [2027]({{< ref "iassist2027/conference-committees.md" >}})**
 
 <br />
 
@@ -46,6 +46,7 @@ Chair
 
 #### Previous conference committees
 
+[2026]({{< ref "iassist2026/conference-committees.md" >}}) |
 [2025]({{< ref "iassist2025/conference-committees.md" >}}) |
 [2024]({{< ref "iassist2024/conference-committees.md" >}}) |
 [2023]({{< ref "conference-committees-2023.md" >}}) |

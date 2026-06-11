@@ -85,10 +85,12 @@ Our mission is to provide resources and educational opportunities to better reco
 
 Please use the feedback forms for additions and comments to the resources lists, guide, and library. 
 
-We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group’s chair, Todd Quinn, tq [ at ] umn.edu
+We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group's chairS, Michele Hayslett, michele_hayslett [ at ] unc.edu and Ryan Womack, rwomack [ at ] libraries.rutgers.edu
 
 *Please note:  These resources will be reviewed periodically for their usage statistics.  When usage drops, these resources will be retired.*
 
 ## History
 
 In the wake of the murders of George Floyd, Breonna Taylor and Ahmaud Arbery in 2020, among other (on-going) acts of violence against African Americans in the U.S., members of IASSIST felt compelled to gather materials that can help all of us better recognize, acknowledge and combat inherent racial bias. These members formed this group and compiled the resources linked here. We continue the work under the name of Representation in Data Interest Group, (formerly Diversity, Equity, and Inclusion Data Resources Interest Group).
+
+<br />
