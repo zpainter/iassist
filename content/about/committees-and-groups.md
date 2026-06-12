@@ -30,12 +30,12 @@ Responsible for receiving proposals for the enacting, amending, and repealing of
 #### Professional Development Committee {#professional-development-committee}
 Responsible for promoting the development of professional skills of IASSIST members through education, training, information, networking and mentoring.
 
-- **2025-2027 Chairs: *Olatunbosun Obileye, bosun.obileye [ at ] gmail.com*** (-2026) and ***Kate Barron, katebar [ at ] stanford.edu*** (-2027)
+- **2026-2028 Chairs: *Kate Barron, katebar [ at ] stanford.edu*** (-2027) and ***Carol Choi, cc8133 [ at ] nyu.edu***  (-2028) 
 
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
 
-- **2024-2026 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Sarah Young, sarahy [ at ] andrew.cmu.edu***
+- **2024-2026 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Robert Bowule, burosta [ at ] gmail.com***
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed. See also the IASSIST [Liaison and Organizational Sponsorship Task Force](/conferences/event-sponsorship).
@@ -108,7 +108,7 @@ This mission of the Representation in Data Interest Group is to provide resource
 #### [Geospatial Interest Group](/community/geospatial-interest-group) {#geospatial-interest-group}
 The central purpose of the IASSIST-Geo interest group is to create a network for members focused on issues of geospatial data as related to the social sciences. Expected outcomes include developing a connected and informed group, opportunities for professional development through training, shared professional tools, resources for all IASSIST members to make use of, both members and non-members of the IG, and an elevated awareness of social sciences and place. 
 
-- **2025-2026 Co-Chairs: *Bruce Boucek*** and ***Paxton LaJoie***
+- **2026-2027 Co-Chairs: *Bruce Boucek*** and ***Paxton LaJoie***
 
 #### [Qualitative Social Science and Humanities Data Interest Group](/community/qualitative-social-science-and-humanities-data-interest-group) (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} 
 <!--#### [Qualitative Social Science and Humanities Data Interest Group <i class="fas fa-external-link-alt"></i>](https://sites.google.com/uncg.edu/iassistqsshdig/home "OSSHDIG webiste") (QSSHDIG) {#qualitative-social-science-and-humanities-data-interest-group} -->

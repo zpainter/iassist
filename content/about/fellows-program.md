@@ -19,7 +19,7 @@ The mission of the **IASSIST Early Professional Fellows Program** is to provide 
 
 ### Application process
 
-Please be aware that **funding is not intended to cover the entire cost of attending the conference. The applicant's home institution must provide some level of financial support to supplement an IASSIST Fellow award**.  Strong preference will be given to first time participants and applicants from those countries currently with insufficient representation at IASSIST. Only fully completed applications will be considered. Applicants submitting a paper for the conference will be given priority consideration for funding.
+Please be aware that **funding is not intended to cover the entire cost of attending the conference. The applicant's home institution must provide some level of financial support to supplement an IASSIST Fellow award**. Strong preference will be given to first time participants and applicants from those countries currently with insufficient representation at IASSIST. Only fully completed applications will be considered. Applicants submitting a paper for the conference will be given priority consideration for funding.
 
 - Check the [current year's conference website](/conferences) for information about the conference and applying, including deadlines.
 
@@ -27,7 +27,7 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 For more information, to apply for funding, or nominate a person for a
 fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
-- Co-Chairs: *Florio Arguillas* and *Sarah Young*. Please contact us at *fellows [ at ] iassistdata.org*
+- Co-Chairs: *Florio Arguillas* and *Robert Bowule*. Please contact us at *fellows [ at ] iassistdata.org*
 
 ### Further information
 
@@ -37,4 +37,4 @@ Below is a map of IASSIST Fellows across the globe 2012-2022. The program began 
 
 {{< figure src="/img/about/fellows-map1.png" alt="Map of IASSIST Fellows across the globe. Created by Bruce Boucek." title="" width="800" >}} 
 
-﻿
+<br />
