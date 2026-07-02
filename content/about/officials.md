@@ -145,7 +145,7 @@ Kate Barron, katebar [ at ] stanford.edu and Carol Choi, cc8133 [ at ] nyu.edu
 
 **IASSIST Fellows**
 
-Florio Arguillas, foa2 [ at ] cornell.edu and Robert Bowule, burosta [ at ] gmail.com
+Florio Arguillas, foa2 [ at ] cornell.edu and Robert Buwule, burosta [ at ] gmail.com
 
 **Membership Committee**
 
