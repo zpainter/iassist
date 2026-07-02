@@ -7,11 +7,22 @@ oldpath = "/about/outreach.html"
 date = "2021-11-05 00:00:01 +0700"
 draft = "false"
 +++
+
 IASSIST Fellows program has provided financial assistance to more than 70 conference participants from around the world since 1997. The program is aimed at data professionals from emerging economies and underrepresented regions, as well as early career data professionals. 
 
-The exact amount of support granted is determined annually and may have a special regional or thematic focus. Fellows program application provides more information.
+The Fellowship covers:
 
-## Mission
+- travel to the annual conference (i.e. flights as well as a support letter for visa purposes)
+- conference registration fees, including the annual banquet and pre-conference workshops.
+- three years of membership to IASSIST
+
+You can find out more about membership benefits on the Become a Member page [https://iassistdata.org/about/become-a-member/].  
+
+The Fellowships do not cover lodging, food (other than that provided at the conference) or visa-related costs. Note that the exact amount of support granted is determined annually and may have a special regional or thematic focus. The Fellows program application will provide more information.
+
+In addition to supporting Fellows to attend the IASSIST Annual Conference, the IASSIST Fellows program also supports Fellows for the IASSIST Africa Workshop. This Fellowship covers registration fees only and support for this program is determined annually. There is a separate call and application process for IASSIST Africa Workshop Fellows.
+
+### Mission
 
 The mission of the **IASSIST Fellows Program** is to provide support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data and implementing information policy decisions at their home institutions. 
 
@@ -25,9 +36,8 @@ Please be aware that **funding is not intended to cover the entire cost of atten
 
 - See [Fellows application form <span class="fas fa-external-link-alt"></span>](https://forms.gle/1xLyY3Y6W96GreKYA).
 
-For more information, to apply for funding, or nominate a person for a
-fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
-- Co-Chairs: *Florio Arguillas* and *Robert Bowule*. Please contact us at *fellows [ at ] iassistdata.org*
+For more information, to apply for funding, or nominate a person for a fellowship, please send an email inquiry to the [Fellows Committee](/about/committees-and-groups/#iassist-fellows)
+- Co-Chairs: *Florio Arguillas* and *Robert Buwule*. Please contact us at *fellows [ at ] iassistdata.org*
 
 ### Further information
 
