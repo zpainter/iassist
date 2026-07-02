@@ -35,7 +35,7 @@ Responsible for promoting the development of professional skills of IASSIST memb
 #### [IASSIST Fellows](/about/fellows-program) {#iassist-fellows}
 Provides support for data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of research data. Provides support for early career professionals new to data in the social sciences, who may not otherwise have the funding to travel.
 
-- **2024-2026 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Robert Bowule, burosta [ at ] gmail.com***
+- **2024-2026 Chairs: *Florio Arguillas, foa2 [ at ] cornell.edu*** and ***Robert Buwule, burosta [ at ] gmail.com***
 
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed. See also the IASSIST [Liaison and Organizational Sponsorship Task Force](/conferences/event-sponsorship).
