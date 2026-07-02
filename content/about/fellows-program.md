@@ -16,7 +16,7 @@ The Fellowship covers:
 - conference registration fees, including the annual banquet and pre-conference workshops.
 - three years of membership to IASSIST
 
-You can find out more about membership benefits on the Become a Member page [https://iassistdata.org/about/become-a-member/].  
+You can find out more about membership benefits on the [Become a Member](/about/become-a-member) page.  
 
 The Fellowships do not cover lodging, food (other than that provided at the conference) or visa-related costs. Note that the exact amount of support granted is determined annually and may have a special regional or thematic focus. The Fellows program application will provide more information.
 
