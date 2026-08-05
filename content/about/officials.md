@@ -31,6 +31,10 @@ Lynda Kellam, lmkellam [ at ] upenn.edu
 
 Jen Doty, jennifer.doty [ at ] emory.edu
 
+**Past President** *
+
+Robin Rice, robin.rice [ at ] ed.ac.uk
+
 ## Regional Secretaries
 
 **Africa** *
@@ -95,10 +99,6 @@ Elisabeth Shook, ershook [ at ] umich.edu
 
 
 ## Ex-Officio Officers
-
-**Past President** *
-
-Robin Rice, robin.rice [ at ] ed.ac.uk
 
 **Editor, Quarterly**
 
