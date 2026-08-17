@@ -9,9 +9,9 @@ draft = "false"
 +++
 Every two years IASSIST conducts an election of officers in each active geographic region. The Administrative Committee is the executive body of IASSIST. Terms in office are two or four years depending on the position. The number of vacant seats and positions up for election depend on the rotation. In addition to the President and Vice-President, the Treasurer, the Secretary, and the Regional Secretaries there are elected Members at Large who reflect the geographic distribution of the membership.
 
-**2025 is was election year for IASSIST.** 
+**2026 is not an election year for IASSIST. 2027 will be an election year.** 
 
-Any IASSIST member could nominate an individual for an elected position. To stand or vote in the election, one had be a member in good standing (dues paid for the membership year 2024-2025). Nominations period was open open from December 1 through the end of January 2025. The election was held in late March 2025. Members received a link to the ballot by email to their email address registered with the membership. <!-- Candidate bios are made available before the voting begins (see below).-->
+Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, one has be a member in good standing (dues paid for the membership year 2026-2027). Nominations info will be made available by the end of 2026. <!--Nominations period was open open from December 1 through the end of January 2025. The election was held in late March 2025. Members received a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).-->
 
 <!--
 Membership dues must be paid by March DD (candidates) or March DD (to vote). 
@@ -37,16 +37,19 @@ The formal responsibilities of all elected IASSIST officers are described in Art
 
 <!--To nominate a candidate, or ask--> 
 Any questions about the Election or nominations
-: Please contact Elections Committee Chair San Cannon, sancan99 (at) gmail.com.
+: Please contact Elections Committee Chair Robin Rice, robin.rice  (a t) ed.ac.uk
 
 ## IASSIST Election 2025 - Results
 
-<!-- use when change has happened:
+<!-- use when the change has happened: -->
 
 The following elected individuals took up office at the IASSIST General Assembly in June 2025. Congratulations to all.
--->
+
+<!-- use after the election:
 
 IASSIST recently conducted its election of officers and additional members of the Administrative Committee, with the following elected individuals taking up office at the IASSIST General Assembly in June 2025. Newly elected officials are listed below. Congratulations to all.
+
+-->
 
 |Post (term of office)|Name of Incumbent|
 |:---|---:|
