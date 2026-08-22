@@ -18,6 +18,7 @@ Africa
 
 *Reports:*
 
+-   [2026](/about/regional-report-2026-africa)
 -   [2025](/about/regional-report-2025-africa)
 -   [2023-2024](/about/regional-report-2023-2024-africa)
 -   [2022-2023](/about/regional-report-2022-2023-africa)
@@ -45,6 +46,7 @@ Asia/Pacific
 -   [2023-2024](/about/regional-report-2023-2024-asiapacific)
 -   [2022-2023](/about/regional-report-2022-2023-asiapacific)
 -->
+-   [2026](/about/regional-report-2026-asiapacific)
 -   [2021-2022](/about/regional-report-2021-2022-asiapacific)
 -   [2007-2008](/about/regional-report-2007-2008-asiapacific)
 -   [2006-2007](/about/regional-report-2006-2007-asiapacific)
