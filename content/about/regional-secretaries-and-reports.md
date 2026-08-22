@@ -125,6 +125,7 @@ United States
 <!--
 -   [2024-2025](/about/regional-report-2024-2025-united-states)
 -->
+-   [2026](/about/regional-report-2026-united-states)
 -   [2023-2024](/about/regional-report-2023-2024-united-states)
 -   [2022-2023](/about/regional-report-2022-2023-united-states)
 -   [2021-2022](/about/regional-report-2021-2022-united-states)
