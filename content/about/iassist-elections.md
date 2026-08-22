@@ -11,7 +11,7 @@ Every two years IASSIST conducts an election of officers in each active geograph
 
 **2026 is not an election year for IASSIST. 2027 will be an election year.** 
 
-Any IASSIST member may nominate an individual for an elected position. To stand or vote in the election, one has be a member in good standing (dues paid for the membership year 2026-2027). Nominations info will be made available by the end of 2026. <!--Nominations period was open open from December 1 through the end of January 2025. The election was held in late March 2025. Members received a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).-->
+Any IASSIST member could nominate an individual for an elected position. To stand or vote in the election, one must be a member in good standing (dues paid for the membership year 2026-2027). Nominations period will be open from December 1, 2026 through the end of January 2027. The election will be held in late March 2027. Members will receive a link to the ballot by email to their email address registered with the membership. <!--Nominations period was open open from December 1 through the end of January 2025. The election was held in late March 2025. Members received a link to the ballot by email to their email address registered with the membership. Candidate bios are made available before the voting begins (see below).-->
 
 <!--
 Membership dues must be paid by March DD (candidates) or March DD (to vote). 
@@ -39,11 +39,11 @@ The formal responsibilities of all elected IASSIST officers are described in Art
 Any questions about the Election or nominations
 : Please contact Elections Committee Chair Robin Rice, robin.rice  (a t) ed.ac.uk
 
+<!--
 ## IASSIST Election 2025 - Results
 
-<!-- use when the change has happened: -->
-
 The following elected individuals took up office at the IASSIST General Assembly in June 2025. Congratulations to all.
+-->
 
 <!-- use after the election:
 
@@ -51,28 +51,10 @@ IASSIST recently conducted its election of officers and additional members of th
 
 -->
 
-|Post (term of office)|Name of Incumbent|
-|:---|---:|
-| **President** (2 Years)		| Bobray Bordelon |
-| **Vice-President** (2 Years)	| Dylanne Dearborn |
-| **Treasurer** (4 Years)		| Jennifer Doty |
-| &nbsp;|&nbsp; |
-|**Regional Secretaries** (2 Years)|&nbsp;|
-| Africa		| Winny Nekesa Akullo |
-| Asia/Pacific	| Samuel Spencer |
-| Canada		| Maggie Marchant |
-| Europe		| David Schiller |
-| United States	| Carla Graebner |
-| &nbsp;|&nbsp; |
-|**Member-at-Large** (4 Years)|&nbsp;|
-| Canada		| Amber Leahey |
-| Europe		| Flavio Bonifacio |
-| United States	| Stephanie Labou |
-| &nbsp;		| Sophia Lafferty-Hess |
-| &nbsp;		| Elisabeth Shook |
+
 
 
 ## Results of previous Elections
 
-**| [2023](/about/iassist-election-2023-results) | [2021](/about/iassist-election-2021-results) | [2019](/about/iassist-election-2019-results) | [2017](/about/iassist-election-2017-results) | [2015](/about/iassist-election-2015-results) | [2013](/about/iassist-election-2013-results) | [2011](/about/iassist-election-2011-results) | [2009](/about/iassist-election-2009-results) | [2007](/about/iassist-election-2007-results) | [2004](/about/iassist-election-2004-results) | [2002](/about/iassist-election-2002-results) |**
+**| [2025](/about/iassist-election-2025-results) | [2023](/about/iassist-election-2023-results) | [2021](/about/iassist-election-2021-results) | [2019](/about/iassist-election-2019-results) | [2017](/about/iassist-election-2017-results) | [2015](/about/iassist-election-2015-results) | [2013](/about/iassist-election-2013-results) | [2011](/about/iassist-election-2011-results) | [2009](/about/iassist-election-2009-results) | [2007](/about/iassist-election-2007-results) | [2004](/about/iassist-election-2004-results) | [2002](/about/iassist-election-2002-results) |**
 
