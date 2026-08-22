@@ -16,7 +16,7 @@ Meeting of the Hybrid General Assembly, Thursday, June 1, 2023, Philadelphia, PA
 5. Committee Reports
 6. Action Group Reports
 7. Interest Group Reports
-8. Regional Secretaties Reports
+8. Regional Secretaries Reports
 9. Adjournment
 
 » **[Minutes in PDF format](/file/about/agm23-minutes-approved.pdf "AGM Minutes 2023").**
