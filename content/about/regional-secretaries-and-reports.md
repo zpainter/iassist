@@ -59,6 +59,7 @@ Canada
 
 *Reports:*
 
+-   [2026](/about/regional-report-2026-canada)
 -   [2025](/about/regional-report-2025-canada)
 -   [2023-2024](/about/regional-report-2023-2024-canada)
 -   [2022-2023](/about/regional-report-2022-2023-canada)
@@ -92,6 +93,7 @@ Europe
 
 *Reports:*
 
+-   [2026](/about/regional-report-2026-europe)
 -   [2025](/about/regional-report-2025-europe)
 -   [2023-2024](/about/regional-report-2023-2024-europe)
 -   [2021-2022](/about/regional-report-2021-2022-europe)
