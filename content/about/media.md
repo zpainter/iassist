@@ -37,6 +37,8 @@ Secondary
 : Square logo, with only text IASSIST inside (in color or in black and white)
 : Available in PNG (for web) or as EPS (for print) formats
 
+ <!--
+
 ### Flyers
 
 The following brochures are available for distribution. 
@@ -56,6 +58,8 @@ Available in these languages:
 -   [German](/file/about/printiassistbrochuregerman_2013.pdf)
 -   [Portuguese](/file/about/printiassistbrochureport_2012.pdf)
 -   [Spanish](/file/about/printiassistbrochurespanish_2012.pdf)
+
+-->
 
 ### Website History
 
