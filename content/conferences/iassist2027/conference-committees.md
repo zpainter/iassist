@@ -16,7 +16,7 @@ type = "conference-2027"
 
 #### Chairs
 
-- Meryl Brodsky,
+- Meryl Brodsky
 - Sandra Sawchuk
 - Meghan Goodchild
 
@@ -45,3 +45,4 @@ type = "conference-2027"
 
 - Carla Graebner
 - Jeremy Buhler
+- Paul Lesack

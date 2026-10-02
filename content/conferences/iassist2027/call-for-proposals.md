@@ -41,22 +41,15 @@ We request that submitters limit themselves to **one proposal per format type**.
 
 See below for information about different presentation formats. Questions about presentation submissions may be sent to the Program Co-Chairs (Meryl Brodsky and Sandra Sawchuk) at ***programme [ at ] lists.iassistdata.org***.
 
-Financial Support for Attending the Conference
-The IASSIST Fellows Program supports data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data, implementing information policy decisions, and providing data services at their home institutions.
-
-The IASSIST Early Professionals Fellows Program supports data professionals from under-resourced institutions. It recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
-
-Applications will close on November 2, 2026. Please address questions about the Fellows Program to Fellows Committee Co-Chairs [Florio Arguillas and Robert Buwule] at fellows [ at ] iassistdata.org.
-
 For information about traveling to Vancouver, check out the conference website.
 
 ### Financial Support for Attending the Conference
 
-**IASSIST Fellows Program** supports data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data, implementing information policy decisions, and providing data services at their home institutions.
+**The IASSIST Fellows Program** supports data professionals from countries with emerging economies and underrepresented regions who are developing information infrastructures regarding the use and preservation of public and private data, implementing information policy decisions, and providing data services at their home institutions.
 
-**IASSIST Early Professional Fellows Program** supports data professionals from under-resourced institutions. It recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
+**The IASSIST Early Professional Fellows Program** supports data professionals from under-resourced institutions. It recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
 
-**Applicatinns will close on November 2, 2026.** Please address questions about the Fellows Program to Fellows Committee Co-Chairs (Florio Arguillas and Robert Buwule) at fellows [ at ] iassistdata.org.
+**Applications will close on November 2, 2026.** Please address questions about the Fellows Program to Fellows Committee Co-Chairs (Florio Arguillas and Robert Buwule) at fellows [ at ] iassistdata.org.
 
 <br />
 <a class="btn btn-template-main" href="#">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
@@ -78,7 +71,7 @@ The Program Committee welcomes proposals for the following formats:
 
 - **Workshops:** Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide classroom space and, possibly, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Workshops are typically half-day with 2-hour and 3-hour options.
 
--- **PLEASE NOTE:** All workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
+    - **PLEASE NOTE:** All workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
 
 - **Lightning Talks:** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and each speaker is restricted to 5 minutes. Presentations may have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations. They tend to be “lighter” either in the topic or delivery.
 
@@ -95,9 +88,6 @@ Please use the online submission form on Openconf above to submit your presentat
 <br /><br />
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. **NOTE:** Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can't understand what a proposal is about, it will be rejected.
-
-About IASSIST
-The International Association for Social Science Information Services and Technology (IASSIST) is an international organization of professionals working with information technology and data services to support research and teaching.
 
 ## About IASSIST 
 

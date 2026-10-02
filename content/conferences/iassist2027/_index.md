@@ -12,17 +12,17 @@ type = "conference-2027"
 
 ## 52nd Annual Conference of IASSIST
 
-<!-- ### THEME -->
+### Sea Change: Transforming Data Practices
 
-<!--### Vancouver, Canada, May 25-28, 2027-->
-### Save the dates: May 25-28, 2027
+#### Vancouver, Canada, May 25-28, 2027
 
 <!--
 **<span style="background:pink;padding:.5em;border-radius:15px;">New Format (Previously planned for Amherst, MA, USA)</span>**
 -->
 
-
 **Host institution:** Simon Fraser University and University of British Columbia
+
+Stay tuned for more information in October 2026.
 
 <!--
 **Registration will open in April 2026**. 
@@ -55,10 +55,10 @@ Regular registration for this event is now closed.
 
 ### Call for Submissions and Workshops
 
-Expected to be announced in September/October 2026.
+Will open in early October 2026.
 
 <!--
-**[Submit](./call-for-proposals/)** your workshop, session, paper, poster or other novel virtual presentation proposal now. The deadline is December 19, 2025.
+**[Submit](./call-for-proposals/)** your workshop, session, paper, poster or other novel virtual presentation proposal now. The deadline is Novermber 1, 2026.
 -->
 <!--
 Submissions are now closed.
