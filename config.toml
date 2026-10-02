@@ -18,52 +18,292 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    identifier="home"
-    name = "Home"
-    url  = "/"
-    weight = 1
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+# [[menu.main]]
+#     name       = "Option 1: Default Page"
+#     url        = "/"
+#     weight     = 1
+#     parent     = "menu.home"
+
+# [[menu.main]]
+#     name       = "Option 2: Application"
+#     url        = "/"
+#     weight     = 2
+#     parent     = "menu.home"
 
 [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url  = "/about/"
-    weight = 2
+    name       = "About"
+    identifier = "menu.about"
+    url        = "/img/logo-whitebg.jpg"
+    weight     = 2
 
 [[menu.main]]
-    identifier="conferences"
-    name = "Conferences"
-    url  = "/conferences/"
-    weight = 3
+    name       = "About IASSIST"
+    identifier = "section.about"
+    url        = "/about/"
+    weight     = 1
+    parent     = "menu.about"
+    post       = 1
 
 [[menu.main]]
-    identifier = "iq"
-    name = "IQ Journal"
-    url = "/iq/"
-    weight = 4
+    name       = "FAQ"
+    identifier = "section.faq"
+    url        = "/about/faq/"
+    weight     = 100
+    parent     = "menu.about"
+    post       = 4
+	
+[[menu.main]]
+    name       = "Officials"
+    identifier = "section.officials"
+    url        = "/about/officials/"
+    weight     = 10
+    parent     = "menu.about"
+    post       = 2
 
 [[menu.main]]
-    identifier="blog"
-    name = "iBlog"
-    url  = "/blog/"
-    weight = 5
-
-#[[menu.main]]
-#    identifier = "resources"
-#    name = "Resources"
-#    url = "/resources/"
-#    weight = 8
+    name       = "Elections"
+    identifier = "section.elections"
+    url        = "/about/elections/"
+    weight     = 90
+    parent     = "menu.about"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Committees and Groups"
+    identifier = "section.committees-amd-groups"
+    url        = "/about//"
+    weight     = 30
+    parent     = "menu.about"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Fellows Program"
+    identifier = "section.fellows-program"
+    url        = "/about/fellows-program/"
+    weight     = 40
+    parent     = "menu.about"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Brand, Promotion and Media"
+    identifier = "section.media"
+    url        = "/about/media/"
+    weight     = 50
+    parent     = "menu.about"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Achievement Award"
+    identifier = "section.achievement-award"
+    url        = "/about/iassist-achievement-award/"
+    weight     = 60
+    parent     = "menu.about"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Brand, Promotion and Media"
+    identifier = "section.media"
+    url        = "/about/media/"
+    weight     = 70
+    parent     = "menu.about"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Documents (NEW)"
+    identifier = "section.documents"
+    url        = "/about/documents/"
+    weight     = 80
+    parent     = "menu.about"
+    post       = 2
 
 [[menu.main]]
-    identifier="community"
-    name = "Community"
-    url  = "/community/"
-    weight = 6
+    name       = "Events"
+    identifier = "menu.events"
+    url        = "/img/logo-whitebg.jpg"
+    weight     = 2.5
 
 [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url  = "/contact/"
-    weight = 7
+    name       = "Annual Conference"
+    identifier = "section.annual-conference"
+    url        = "/conferences/"
+    weight     = 1
+    parent     = "menu.events"
+    post       = 1
+
+	[[menu.main]]
+    name       = "Webinars"
+    identifier = "section.webinars"
+    url        = "/community/webinars"
+    weight     = 50
+    parent     = "menu.events"
+    post       = 2
+
+	[[menu.main]]
+    name       = "Africa Workshop"
+    identifier = "section.africa-workshop"
+    url        = "/#/"
+    weight     = 100
+    parent     = "menu.events"
+    post       = 2
+	
+	[[menu.main]]
+    name       = "Events Calendar"
+    identifier = "section.events-calendar"
+    url        = "/#/"
+    weight     = 101
+    parent     = "menu.events"
+    post       = 2
+
+[[menu.main]]
+    name       = "IQ+iBlog"
+    identifier = "menu.iq"
+    url        = "/img/logo-whitebg.jpg"
+    weight     = 2.7
+
+[[menu.main]]
+    name       = "IASSIST Quarterly"
+    identifier = "section.iq"
+    url        = "/#/"
+    weight     = 1
+    parent     = "menu.iq"
+    post       = 1
+	
+[[menu.main]]
+    name       = "iBlog"
+    identifier = "section.iblog"
+    url        = "/#/"
+    weight     = 1
+    parent     = "menu.iq"
+    post       = 1
+	
+[[menu.main]]
+    name       = "Membership"
+    identifier = "menu.membership"
+    url        = "/img/logo-whitebg.jpg"
+    weight     = 2.9
+
+[[menu.main]]
+    name       = "Membership Benefits"
+    identifier = "section.benefits"
+    url        = "/#/"
+    weight     = 1
+    parent     = "menu.membership"
+    post       = 1
+	
+[[menu.main]]
+    name       = "Manage Your Membership"
+    identifier = "section.benefits"
+    url        = "/#/"
+    weight     = 5
+    parent     = "menu.membership"
+    post       = 1
+
+[[menu.main]]
+    name       = "Jobs Repository"
+    identifier = "section.jobs-repository"
+    url        = "/#/"
+    weight     = 10
+    parent     = "menu.membership"
+    post       = 1
+
+[[menu.main]]
+    name       = "Interest Groups"
+    identifier = "section.interest-groups"
+    url        = "/#/"
+    weight     = 20
+    parent     = "menu.membership"
+    post       = 1
+
+[[menu.main]]
+    name       = "Discussion List"
+    identifier = "section.discussion-list"
+    url        = "/#/"
+    weight     = 30
+    parent     = "menu.membership"
+    post       = 1
+
+# [[menu.main]]
+#     name       = "Accordions"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Alerts"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Buttons"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Content Boxes"
+#     url        = ""
+#     weight     = 4
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Horizontal Blocks"
+#     url        = ""
+#     weight     = 5
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Pagination"
+#     url        = ""
+#     weight     = 6
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Tabs"
+#     url        = ""
+#     weight     = 7
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Typography"
+#     url        = ""
+#     weight     = 8
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Default Sticky Header"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.headervariations"
+
+# [[menu.main]]
+#     name       = "No Sticky Header"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.headervariations"
+
+# [[menu.main]]
+#     name       = "Light Header"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.headervariations"
+
+[[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 5
+
+[[menu.main]]
+    identifier = "join-us"
+    name       = "Join Us!"
+    url        = "/contact/"
+    weight     = 7
 
 # Top bar social links menu
 
