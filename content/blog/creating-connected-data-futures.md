@@ -1,7 +1,7 @@
 +++
 author = "IQ Editors"
 title = "Editors' note: Creating connected data futures: Perspectives on research data services and infrastructure"
-tags = [ "News and Announcements", "IQ", "Qualitative Data", "Open Science",]
+tags = [ "News and Announcements", "IQ", "Research data", "Infrastructures", "AI",]
 date = "2026-10-01 03:00:00 -0700"
 draft = "false"
 banner = "/img/blog/iq-4.png"
