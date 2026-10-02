@@ -8,7 +8,7 @@ banner = "/img/blog/iq-4.png"
 +++
 Dear IASSISTers,
 
-Welcome to [IASSIST Quarterly Vol. 50 No. 3 <span class="fas fa-external-link-alt"></span>](https://doi.org/10.29173/iq1238).
+Welcome to [IASSIST Quarterly Vol. 50 No. 3 <span class="fas fa-external-link-alt"></span>](https://iassistquarterly.com/index.php/iassist/issue/view/167).
 
 We open this issue thinking about **Walter Giesbrecht**, a valued member of the IASSIST community, who passed away on March 8, 2026, at the age of 69 in Richmond Hill, Ontario. In tribute to Walter's life and contributions, several close friends and colleagues gathered memories and reflections shared by IASSIST members to write an in memoriam. Walter's dedication to data librarianship, along with his leadership and commitment to the profession, continues to inspire many within our community. His legacy lives on through colleagues, students, and researchers whose work he influenced and enriched.
 
