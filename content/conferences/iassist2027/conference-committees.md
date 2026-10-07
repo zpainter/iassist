@@ -4,7 +4,7 @@ draft = "false"
 title = "IASSIST 2027 - Conference Committees"
 location = "Vancouver, B.C., Canada"
 datalink = "/data/conferences/archive/2027-Vancouver.json"
-banner = "/img/conferences/annual/vancouver2027-placeholder.jpg"
+banner = "/img/conferences/annual/iassist2027-logo-socialmedia.png"
 type = "conference-2027"
 +++
 

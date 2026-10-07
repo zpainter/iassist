@@ -4,11 +4,11 @@ draft = "false"
 title = "IASSIST 2027 - Main Page"
 location = "Vancouver, B.C., Canada"
 datalink = "/data/conferences/archive/2027-Vancouver.json"
-banner = "/img/conferences/annual/vancouver2027-placeholder.jpg"
+banner = "/img/conferences/annual/iassist2027-logo-socialmedia.png"
 type = "conference-2027"
 +++
 
-{{< figure src="/img/conferences/annual/vancouver2027-placeholder.jpg" alt="" title="" width="720" >}}
+{{< figure src="/img/conferences/annual/iassist2027-logo-1200.png" alt="" title="" width="720" >}}
 
 ## 52nd Annual Conference of IASSIST
 
