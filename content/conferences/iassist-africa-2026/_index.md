@@ -11,7 +11,7 @@ banner = "/img/carousel/iassist-africa-workshop-flyer2026.jpg"
 
 Host institution: IASSIST Africa, in collaboration with the East African School of Library and Information Science, Makerere University
 
-Call for abstracts is open until March 15, 2026.
+Call for abstracts was open until March 15, 2026. Registration for the event is now open.
 
 <br />
 
