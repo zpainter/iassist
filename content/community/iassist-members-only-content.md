@@ -4,7 +4,7 @@ draft = "false"
 +++
 ## Membership administration site (iassistdata.info)
 
-You can join, renew and manage your membership at **[iassistdata.info](iassistdata.info)**.
+You can join, renew and manage your membership at **[iassistdata.info <i class="fas fa-external-link-alt"></i>](https://iassistdata.info)**.
 
 Your login is the email you used to register your membership.
 
