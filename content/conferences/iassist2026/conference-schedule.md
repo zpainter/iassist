@@ -20,7 +20,7 @@ Please note that while the collection of presentations is nearly comprehensive, 
 <a class="btn btn-template-main" href="https://zenodo.org/communities/iassist-2026/records?q=&l=list&p=1&s=10&sort=conference-desc" target="_blank" >Presentations on Zenodo <span class="fas fa-external-link-alt"></span></a>
 
 <!--
-Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2026-/).
+Abstracts with links to Zenodo are also available in the [**annual conference archive**](/conferences/archive/2026-gvc/).
 -->
 
 <br />
@@ -29,9 +29,12 @@ To accommodate our global membership, the start times were staggered. On Tuesday
 
 <!--
 The detailed schedule of the conference is available on [Openconf <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/modules/request.php?module=oc_program&action=program.php&p=program), the conference management software used by IASSIST. In Openconf, you can also choose a program at-a-glance or create a personalized program by checking the boxes next to the sessions you would like to attend and clicking the Create My Program button. 
+
+The [conference program listing <span class="fas fa-external-link-alt"></span>](https://www.openconf.org/iassist2026/proceedings) with session info is also available on Openconf. <!--A local copy of the program is available on IASSIST's website.
 -->
 
 <br />
+
 
 ## Conference schedule at a glance
 
