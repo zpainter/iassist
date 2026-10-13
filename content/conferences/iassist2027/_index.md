@@ -25,7 +25,7 @@ type = "conference-2027"
 Stay tuned for more information in October 2026.
 
 <!--
-**Registration will open in April 2026**. 
+**Registration will open in MONTH 2027**. 
 -->
 
 <!--
@@ -53,13 +53,10 @@ Regular registration for this event is now closed.
 -->
 <hr />
 
-### Call for Submissions and Workshops
+### Call for Submissions
 
-Will open in early October 2026.
+**[Submit](./call-for-proposals/)** your workshop, panel, paper, poster, lightning talk or other presentation proposal now. The deadline is Novermber 13, 2026.
 
-<!--
-**[Submit](./call-for-proposals/)** your workshop, session, paper, poster or other novel virtual presentation proposal now. The deadline is Novermber 1, 2026.
--->
 <!--
 Submissions are now closed.
 : Thank you for your submissions. Decisions regarding submissions were sent out by email in early-February 2026.
@@ -69,22 +66,16 @@ Submissions are now closed.
 See you in 2028! It will be the **Best. IASSIST. Ever.**
 -->
 
-
 ### IASSIST 2027 Program Committee
 
 Please send all questions to programme@lists.iassistdata.org 
-: Conference teams to be announced.
+: Chairs: Meryl Brodsky, Sandra Sawchuk, Meghan Goodchild
 
-
-<!--
-The [University of Massachusetts Amherst <span class="fas fa-external-link-alt">](https://www.umass.edu/) — the flagship campus of the UMass system — is a nationally ranked public research university located in the scenic Pioneer Valley of Western Massachusetts. The conference sessions and events take place at the UMassAmherst [Campus Center <span class="fas fa-external-link-alt">](https://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center) and locations around the campus.
--->
-
-<!--
 ### Conference info
--->
 
-Banner image: Merijana, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+Nestled between the Burrard Inlet and the Salish Sea (Strait of Georgia), Vancouver is the largest city in British Columbia. With a population of just over 660,000, Vancouver enjoys two research universities (Simon Fraser University and the University of British Columbia) along with several comprehensive universities and colleges. It is a beautiful and vibrant city with both cultural and outdoor attractions.
+
+Logo image: Paul Lesack
 <hr />
 <br />
 
