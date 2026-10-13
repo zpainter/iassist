@@ -17,7 +17,7 @@ The International Association for Social Science Information Services and Techno
 
 Nestled between the Burrard Inlet and the Salish Sea (Strait of Georgia), Vancouver is the largest city in British Columbia. With a population of just over 660,000, Vancouver enjoys two research universities (Simon Fraser University and the University of British Columbia) along with several comprehensive universities and colleges. It is a beautiful and vibrant city with both cultural and outdoor attractions.
 
-We welcome submissions for papers, presentations, posters, workshops, and lightning talks that embrace our conference theme, **Sea Change: Transforming Data Practices**. We want to hear from data and data services professionals about how their data practices are adapting or changing in the current environment of Artificial Intelligence, budget and funding challenges, climate considerations, and the rapidly changing realities faced by academic and research institutions.
+We welcome submissions for papers, individual presentations, panels, posters or demonstrations, lightning talks, or workshops that embrace our conference theme, **Sea Change: Transforming Data Practices**. We want to hear from data and data services professionals about how their data practices are adapting or changing in the current environment of Artificial Intelligence, budget and funding challenges, climate considerations, and the rapidly changing realities faced by academic and research institutions.
 
 Possible topics include (but are not limited to):
 
@@ -35,13 +35,11 @@ Possible topics include (but are not limited to):
 
 We request that submitters limit themselves to **one proposal per format type**.
 
-**The deadline for submissions is November 1, 2026.**
+**The deadline for submissions is November 13, 2026.**
 
 **Decisions** regarding submissions will be sent out in **early January 2027**.
 
 See below for information about different presentation formats. Questions about presentation submissions may be sent to the Program Co-Chairs (Meryl Brodsky and Sandra Sawchuk) at ***programme [ at ] lists.iassistdata.org***.
-
-For information about traveling to Vancouver, check out the conference website.
 
 ### Financial Support for Attending the Conference
 
@@ -69,11 +67,11 @@ The Program Committee welcomes proposals for the following formats:
 
 - **Poster or Demonstration:** Proposals in this category should be clear about the message being conveyed in the poster or demonstration.
 
+- **Lightning Talks:** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and each speaker is restricted to 5 minutes. Presentations may have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations. They tend to be “lighter” either in the topic or delivery.
+
 - **Workshops:** Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide classroom space and, possibly, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Workshops are typically half-day with 2-hour and 3-hour options.
 
     - **PLEASE NOTE:** All workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
-
-- **Lightning Talks:** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and each speaker is restricted to 5 minutes. Presentations may have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations. They tend to be “lighter” either in the topic or delivery.
 
 - **Other Formats:** Session formats are not limited to the ideas above; session organizers are welcome to suggest other formats. We will consider interactive formats that encourage audience participation.
 
@@ -81,10 +79,10 @@ The Program Committee welcomes proposals for the following formats:
 
 ### Submitting a Presentation Proposal
 
-Please use the online submission form on Openconf above to submit your presentation proposal (below).
+Please use the online submission form on Openconf to submit your presentation proposal (below).
 
 <br />
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist27/openconf.php" target="_blank">Submit your Proposals <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist27/openconf.php" target="_blank">Submit your Proposal <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. **NOTE:** Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can't understand what a proposal is about, it will be rejected.
