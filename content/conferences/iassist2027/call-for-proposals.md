@@ -84,7 +84,7 @@ The Program Committee welcomes proposals for the following formats:
 Please use the online submission form on Openconf above to submit your presentation proposal (below).
 
 <br />
-<a class="btn btn-template-main" href="https://www.openconf.org/iassist2027/openconf.php" target="_blank">Submit your Proposals <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://www.openconf.org/iassist27/openconf.php" target="_blank">Submit your Proposals <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
 All submissions should include the proposed title and an abstract. The abstract should be no longer than 300 words and written for a general audience. **NOTE:** Abstracts longer than 300 words will be returned to be shortened before being considered. Also, if the reviewers can't understand what a proposal is about, it will be rejected.
