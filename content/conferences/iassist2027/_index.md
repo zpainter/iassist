@@ -36,7 +36,7 @@ See the **Conference Schedule** for the latest information about the presentatio
 
 **IASSIST** (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 
-We are pleased to announce that in 2027 our annual conference will return to Vancouver, British Columbia, Canada. The conference will be held in-person in May. Further details will be released soon. See you in Vancouver 2027! It will be the **Best IASSIST. Ever**.
+We are pleased to announce that in 2027 our annual conference will return to Vancouver, British Columbia, Canada. The conference will be held in-person in May. See you in Vancouver 2027! It will be the **Best IASSIST. Ever**.
 
 <!--
 ### Registration

@@ -50,7 +50,7 @@ See below for information about different presentation formats. Questions about 
 **Applications will close on November 2, 2026.** Please address questions about the Fellows Program to Fellows Committee Co-Chairs (Florio Arguillas and Robert Buwule) at fellows [ at ] iassistdata.org.
 
 <br />
-<a class="btn btn-template-main" href="https://docs.google.com/forms/d/e/1FAIpQLSd_UZN2M7qBK71ucv1A3Vb0WdivmgVwD0_1-nQ7aN96bimOBA/viewform">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://docs.google.com/forms/d/e/1FAIpQLSd_UZN2M7qBK71ucv1A3Vb0WdivmgVwD0_1-nQ7aN96bimOBA/viewform" target="_blank">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
 For information about traveling to Vancouver, check out the [conference website](.).
@@ -69,9 +69,7 @@ The Program Committee welcomes proposals for the following formats:
 
 - **Lightning Talks:** A lightning talk is a short, highly visual presentation. Presentations in this category are timed, and each speaker is restricted to 5 minutes. Presentations may have a maximum of 15 slides, but there is no restriction on how many minutes you stay on each slide or the exact format of the presentation as long as you stay within the strict time limit. These are not your typical conference presentations. They tend to be “lighter” either in the topic or delivery.
 
-- **Workshops:** Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide classroom space and, possibly, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Workshops are typically half-day with 2-hour and 3-hour options.
-
-    - **PLEASE NOTE:** All workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
+- **Workshops:** Successful workshop proposals will blend lecture and active learning techniques. The conference planning committee will provide classroom space and, possibly, computing supplies for workshops. Proposals should outline needed computer hardware and software, if any, or specify if participants should bring their own. Workshops are typically half-day with 2-hour and 3-hour options. **PLEASE NOTE:** All workshop leaders are required to register and pay the registration fee for the conference; registration for individual days will be available.
 
 - **Other Formats:** Session formats are not limited to the ideas above; session organizers are welcome to suggest other formats. We will consider interactive formats that encourage audience participation.
 
