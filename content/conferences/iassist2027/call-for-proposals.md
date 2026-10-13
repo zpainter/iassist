@@ -50,7 +50,7 @@ See below for information about different presentation formats. Questions about 
 **Applications will close on November 2, 2026.** Please address questions about the Fellows Program to Fellows Committee Co-Chairs (Florio Arguillas and Robert Buwule) at fellows [ at ] iassistdata.org.
 
 <br />
-<a class="btn btn-template-main" href="#">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
+<a class="btn btn-template-main" href="https://docs.google.com/forms/d/e/1FAIpQLSd_UZN2M7qBK71ucv1A3Vb0WdivmgVwD0_1-nQ7aN96bimOBA/viewform">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
 <br /><br />
 
 For information about traveling to Vancouver, check out the [conference website](.).
