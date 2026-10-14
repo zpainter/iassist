@@ -1,0 +1,107 @@
++++
+year = "2027"
+draft = "true"
+title = "IASSIST 2027 - Visa and Travel"
+location = "Vancouver, B.C., Canada"
+datalink = "/data/conferences/archive/2027-Vancouver.json"
+banner = "/img/conferences/annual/iassist2027-logo-socialmedia.png"
+type = "conference-2027"
++++
+## Basic information about travelling to Vancouver, Canada
+
+The information below is intended as a starting point and travellers should always confirm current guidelines with service providers and officials directly.
+
+**THIS PAGE WILL BE UPDATED SOON WITH INFORMATION RELEVANT TO THE 2027 CONFERENCE.**
+
+### Visa Information
+
+<!--
+You may need a [visa <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/apply-to-come-to-the-uk) or an [Electronic Travel Authorisation (ETA) <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) to enter the UK. The type of visa you need may depend on where you come from, your reason for entering the UK, the length of your visit, and your personal circumstances. **To find out if you need a visa or ETA, see the [Check if you need a UK visa page <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/check-uk-visa) on GOV.UK.**
+
+- **ETA**: The requirement for an ETA will apply on or after April 2, 2025 and details of [how to apply for an ETA <span class="fas fa-external-link-alt"></span>](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta#apply-for-an-eta) and about the costs can be found on GOV.UK.
+
+- **Visa**: If you are presenting at the conference and require a visa to enter the UK, you can request **a supporting visa letter** from the Local Arrangements Committee once you have registered. These will be issued by our local hosts, the University of the West of England. Your registration form will ask if you require a supporting document for your VISA application, if you have registered and haven’t received this in 3 working days from your registration please send an email to ***iassist2025 ( at ) uwe.ac.uk*** citing your full name, and registration email. 
+
+Please pay close attention to what type of a visa you need and remember that your application must be approved before you travel, so allow plenty of time for your application.
+-->
+
+## Guide to getting to Vancouver
+
+<!--
+**For more information about getting to Bristol go to the [Visit Bristol information page <span class="fas fa-external-link-alt"></span>](https://visitbristol.co.uk/plan-your-visit/travel-information/travelling-to-bristol/).**
+
+For most travel options we recommend flying to Heathrow if a direct flight to Bristol isn’t available. You can then get a (prebooked) coach from Heathrow to Bristol or use the National Rail website to arrive at Bristol Temple Meads by train.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1qwDYUAYEkRnFy6Vc0IkK6t3Yx0pddiY&ehbc=2E312F&noprof=1" width="720" height="540" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<small><a href="https://www.google.com/maps/d/embed?mid=1qwDYUAYEkRnFy6Vc0IkK6t3Yx0pddiY&ehbc=2E312F&noprof=1" target="_blank" title="Opens a new tab">View Larger Map <span class="fas fa-external-link-alt"></span></a></small>
+
+### Flying into Bristol
+
+[Bristol Airport <span class="fas fa-external-link-alt"></span>](https://www.bristolairport.co.uk/)
+
+- Located 8 miles from Bristol city centre
+- Serves multiple European destinations. Flight options are more limited and can be more costly.
+- Regular "airport flyer" [coach shuttle <span class="fas fa-external-link-alt"></span>](https://www.firstbus.co.uk/bristol-bath-and-west/routes-and-maps/bristol-airport-flyer) direct to Bristol City Centre. This takes around 35 minutes and runs from outside the terminal building. Buses run almost 24 hours/day (approx. 5 buses per hour during the day). Single journey costs 9 GBP, a return (valid for 1 month) costs 15 GBP.
+
+Flying direct to Bristol is the quickest way into the city but as an international airport it is quite small, it might be more convenient to fly to London Heathrow or Gatwick instead, especially if you are flying on a budget or prefer to fly direct. 
+
+First bus, the local bus company run an "airport flyer" that takes around 35 minutes total and costs £9 one way / £15 return. You can find more information about this, and the full schedule on the [first bus website <span class="fas fa-external-link-alt"></span>](https://www.firstbus.co.uk/bristol-bath-and-west/routes-and-maps/bristol-airport-flyer)
+
+If you would prefer to get a Taxi, Bristol Airport only let one company pick up & drop off on the terminal forecourt. This will cost from about £45 one way and take about the same amount of time. More information about this can be found on the [Bristol Airport website <span class="fas fa-external-link-alt"></span>](https://www.bristolairport.co.uk/to-and-from-the-airport/taxis/).
+
+### Arriving into London
+
+#### By Air
+
+[Heathrow Airport (LHR) <span class="fas fa-external-link-alt"></span>](https://www.heathrow.com/)
+- Largest international gateway
+- Extensive global connections
+- Coaches from Heathrow direct to Bristol can be booked via [Flixbus <span class="fas fa-external-link-alt"></span>](https://global.flixbus.com/) or via [National Express <span class="fas fa-external-link-alt"></span>](https://www.nationalexpress.com/en). The journey takes around 2 hours. 
+- By train the journey is longer, around 2.5 hours and you will need to change trains in London. It also costs 2-3 times more than the coach. Search for trains via [National Rail <span class="fas fa-external-link-alt"></span>](https://www.nationalrail.co.uk/). 
+
+[Gatwick Airport (LGW) <span class="fas fa-external-link-alt"></span>](https://www.gatwickairport.com/)
+
+- Second-busiest UK airport
+- Frequent international flights
+- Coaches from Heathrow direct to Bristol can be booked via [Flixbus <span class="fas fa-external-link-alt"></span>](https://global.flixbus.com/) or via [National Express <span class="fas fa-external-link-alt"></span>](https://www.nationalexpress.com/en). The journey takes around 3.5 hours. 
+- By train the journey is around 3.5 to 4 hours and you will need to change trains in London. It is also much more expensive than the coach. Search for trains via National Rail.
+
+#### By Train
+
+[Eurostar  <span class="fas fa-external-link-alt"></span>](https://www.eurostar.com/uk-en)
+
+- The Eurostar goes from Paris/Brussels/Amsterdam to London St. Pancras
+- Transfer to Great Western Railway at London Paddington
+- Total journey time- 4-5 hours
+- Book through [Eurostar <span class="fas fa-external-link-alt"></span>](https://www.eurostar.com/rw-en) and [National Rail <span class="fas fa-external-link-alt"></span>](https://www.nationalrail.co.uk/).
+
+Most people come into the UK via London. Heathrow and Gatwick are the busier airports and the ones we’d advise flying into.  If you are coming in from Europe you can also choose to travel using the Eurostar, this will bring you into Paddington, the central train station in London. From here you can catch a train directly to Bristol temple meads.
+
+### Transportation from London to Bristol
+
+If you are flying into a London airport there are two main options for getting to Bristol, Train or Coach. 
+
+The advantages of the train are that they usually run more frequently, and your time in transit tends to be shorter with it taking about 2.5 hours on the train from London to Bristol. Although we’d advise you do book, you have the option to book an open ticket or book a ticket at the train station.
+
+There are no direct trains to Bristol from the airports so you will need to navigate to London Central before getting to Bristol. Information on how to do this for each airport can be found on their website.
+
+The advantages of getting a coach, or bus to Bristol are that of price and convenience, busses leave directly from outside the airports, in most cases individual terminals have their own bus depo outside. National express coaches are usually rated the best, but there are also carriers Mega bus and Flix bus too.
+
+#### Train Options
+
+Direct Route- London Paddington to Bristol Temple Meads 
+- Operated by Great Western Railway
+- Journey time- Approximately 1 hour 40 minutes
+- Frequent daily services
+- Book via [National Rail <span class="fas fa-external-link-alt"></span>](https://www.nationalrail.co.uk/)
+
+#### Coach Services
+
+- [National Express coaches <span class="fas fa-external-link-alt"></span>](https://www.nationalexpress.com/en/destinations) Modern coaches, usually with charging points for electronics
+- [Mega Bus <span class="fas fa-external-link-alt"></span>](https://www.megabus.co.uk/)
+- [FlixBus  <span class="fas fa-external-link-alt"></span>](https://global.flixbus.com/)
+- More budget-friendly option
+- Direct services from airports 
+- Journey time- Approximately 2.5 hours
+-->
