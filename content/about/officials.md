@@ -149,9 +149,7 @@ Florio Arguillas, foa2 [ at ] cornell.edu and Robert Buwule, burosta [ at ] gmai
 
 **Membership Committee**
 
-Stephanie Labou, slabou [ at ] ucsd.edu
-
-Elisabeth Shook, ershook [ at ] umich.edu
+Stephanie Labou, slabou [ at ] ucsd.edu and Elisabeth Shook, ershook [ at ] umich.edu
 
 **Elections Committee**
 
