@@ -40,7 +40,7 @@ Provides support for data professionals from countries with emerging economies a
 #### Membership Committee {#membership-committee}
 Coordinates activities meant to grow IASSIST membership and addresses needs of existing and future members. Also undertakes representation and liaison activities; connects with sister organizations that have similar goals; and helps to increase the visibility of IASSIST. This Committee's membership includes the Membership Chair, Regional Secretaries, the Vice President, and other IASSIST members as needed. See also the IASSIST [Liaison and Organizational Sponsorship Task Force](/conferences/event-sponsorship).
 
-- **2025-2027 Chair: *Amanda Tickner, atickner [ at ] msu.edu***
+- **2025-2027 Chairs: *Stephanie Labou, slabou [ at ] ucsd.edu*** and ***Elisabeth Shook, ershook [ at ] umich.edu***
 
 #### Elections Committee {#elections-committee}
 Responsible for receiving nominations for the election of the Administrative Committee, the Regional Secretaries, and the officers of IASSIST, distributing ballots and electoral information according to regulation, tallying the ballots, reporting on the results of the tally, and for recommending alterations in procedures. This committee is chaired by the immediate Past President. Administrative Committee members at large not up for election assist the chair. 
