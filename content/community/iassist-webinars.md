@@ -14,23 +14,26 @@ On this page you will find links to the recordings and information on any webiar
 
 ### Webinar registrations
 
-#### IASSIST Workshop Series: Spring 2026 Presentations on Qualitative Data Analysis
+<!--#### IASSIST Workshop Series: Spring 2026 Presentations on Qualitative Data Analysis
 
 > See a [separate post for info about the individual events](/blog/2026/03/05/announcing-the-spring-2026-presentations-on-qualitative/). 
-
-> No webinar registrations open at the moment.
+-->
 
 <!--
-#### April 9 | North of 49: Discovering Canadian Data Resources
+> No webinar registrations open at the moment.
+-->
 
-Statistics Canada, the nation's statistical agency, collects and disseminates a wide range of data and statistics about Canada's population, social conditions, economics and so much more. In this webinar academic library data professionals Alexandra Cooper (Queen's University), Kevin Manuel (Toronto Metropolitan University) and Michael Steelworthy (Laurier University) will introduce attendees to the Statistics Canada website and what is available on it and how to search and navigate the results for resources such as the Census of Population, geographic classifications, and statistics on representation. The presenters will also highlight other sources for public opinion polling data and where to find them (for free!) and also provide an overview of Odesi and Scholars Geoportal, data platforms used to discover and use Statistics Canada's data.
+#### November 11 | Advancing Social Science and Health Research through Harmonization and Transparency: An Overview of IPUMS Data and Resources
 
-**Time:** Thursday, April 9, 2026, 2:00 pm EDt
+IPUMS democratizes access to the world's population data by making them interoperable and comparable across time and space, and disseminating harmonized data and integrated documentation free of charge. Through harmonization, IPUMS provides the research community with a common starting point for their analyses. The IPUMS online data access system allows users to build customized datasets that include only the samples and variables they need. This webinar will begin with a brief overview of the IPUMS data collections, demonstrate how to use the data access system to explore data availability and create a customized data extract, and highlight key resources for appropriately documenting the dataset provenance to ensure appropriate citation.
 
-<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/aizCSTQGTxyiHeFT9HNz0A#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+**Speaker**: Kari Williams, the user engagement manager for IPUMS, housed at the University of Minnesota's Institute for Social Research and Data Innovation.
+
+**Time:** Wednesday, November 11, 2026, 12:00 PM Central
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/L_5OdBO-QWOKydQO6kTXKw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
 This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
--->
 
 ### Most recent webinar recordings
 
