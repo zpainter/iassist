@@ -36,7 +36,7 @@ Manika Lamba, University of Oklahoma
 
 Monday, April 13, 2026
 : 9:00-10:30am CST
-: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/uS2PSn6Mv54)
+: [Watch the recording on YouTube <span class="fas fa-external-link-alt"></span>](https://youtu.be/rp4odQRM8Iw)
 
 Since the 1990s, research on acknowledgment sections in scientific papers has gained momentum, yet a major hurdle remains—data availability. This challenge is even greater for theses and dissertations, where large-scale analysis has been historically difficult. In this talk, I will share my ongoing research into these often-overlooked texts, revealing what they tell us about academic collaboration and support networks. I will also discuss my efforts to build a human-annotated dataset, enriching metadata using large language models for dissertation data, and finally sharing my progress and introducing a "new" open-source tool for qualitative coding. 
 
