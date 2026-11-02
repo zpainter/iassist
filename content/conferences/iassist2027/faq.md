@@ -34,11 +34,19 @@ TBA
 
 ### When does the Call for Presentation open?
 
-The Call for Presentations opens in early October 2026.
+The Call for Presentations opened in early October 2026 and will close on November 13.
 
 ### Are the presentations recorded for later viewing?
 
 No, but some pre-recorded presentations may be shared later.
+
+### What should I consider when planning my trip to Canada?
+
+You should check in good time if you need a visa or electronic travel authorization (eTA) to travel to Canada. [Visit Canada <span class="fas fa-external-link-alt"></span>](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html) provides more information about [visa requirements <span class="fas fa-external-link-alt"></span>](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html) and entering Canada.
+
+### What is the weather like in Vancouver in May?
+
+May in Vancouver is a mild and pleasant. Conditions remain changeable but spring is transitioning into early summer. You can expect daytime highs around 16°C to 18°C (61°F to 64°F), occasionally warmer, and nighttime lows around 9°C to 11°C (48°F to 52°F). Flexible layers and a waterproof jacket are recommended because temperatures and conditions can shift quickly.
 
 ### How can I receive regular updates about the conference? 
 
