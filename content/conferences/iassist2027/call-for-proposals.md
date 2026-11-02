@@ -47,7 +47,9 @@ See below for information about different presentation formats. Questions about 
 
 **The IASSIST Early Professional Fellows Program** supports data professionals from under-resourced institutions. It recognizes the value of new and innovative ideas from graduates and professionals new to data in the social sciences, who may not otherwise have the funding to travel.
 
-**Applications will close on November 2, 2026.** Please address questions about the Fellows Program to Fellows Committee Co-Chairs (Florio Arguillas and Robert Buwule) at fellows [ at ] iassistdata.org.
+**Applications will close on November 13, 2026.** Please be aware that funding is not intended to cover the entire cost of attending the conference. Applicants submitting a paper for the conference will be given priority consideration for funding.
+
+Please address questions about the Fellows Program to Fellows Committee Co-Chairs (Florio Arguillas and Robert Buwule) at fellows [ at ] iassistdata.org.
 
 <br />
 <a class="btn btn-template-main" href="https://docs.google.com/forms/d/e/1FAIpQLSd_UZN2M7qBK71ucv1A3Vb0WdivmgVwD0_1-nQ7aN96bimOBA/viewform" target="_blank">Submit your Fellowship application <span class="fas fa-external-link-alt"></span></a>
