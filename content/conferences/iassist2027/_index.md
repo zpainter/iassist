@@ -16,7 +16,7 @@ type = "conference-2027"
 
 #### Vancouver, Canada, May 25-28, 2027
 
-**Host institution:** IASSIST is hosted by Simon Fraser University with support from the University of British Columbia, the University of Northern British Columbia and the University of British Columbia. 
+**Host institution:** IASSIST is hosted by Simon Fraser University with support from the University of British Columbia, the University of Northern British Columbia and the University of Victoria. 
 
 <!--
 **Registration will open in MONTH 2027**. 
@@ -51,7 +51,7 @@ Regular registration for this event is now closed.
 
 ### Call for Submissions
 
-**[Submit](./call-for-proposals/)** your workshop, panel, paper, poster, lightning talk or other presentation proposal. The deadline is November 13, 2026. Decisions regarding submissions will be sent out in January 2027.
+The deadline to submit all proposals was November 13, 2026. Decisions regarding submissions will be sent out in January 2027.
 
 <!--
 Submissions are now closed.
@@ -66,12 +66,15 @@ See you in 2028! It will be the **Best. IASSIST. Ever.**
 IASSIST will be held at Simon Fraser University’s Vancouver campus situated on the unceded Traditional Coast Salish Lands including the [Squamish](https://www.squamish.net/) (Sḵwx̱wú7mesh Úxwumixw), [Tsleil-Waututh](https://twnation.ca/) (səl̓ilw̓ətaʔɬ) and [Musqueam](https://www.musqueam.bc.ca/) (xʷməθkʷəy̓əm) Nations.   
 For pronunciations, presenters and attendees can review [A Guide to the Pronunciation of Indigenous Communities and Organizations in BC](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/a_guide_to_pronunciation_of_bc_first_nations_-_oct_29_2018.pdf).
 
-
-
 ### Program Committee
 
 Please send all questions to programme@lists.iassistdata.org 
 : Chairs: Meryl Brodsky, Sandra Sawchuk, Meghan Goodchild
+
+### Thank you to our Sponsors\!
+
+More information coming soon. 
+
 
 Logo image: Paul Lesack
 <hr />
