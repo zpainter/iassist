@@ -46,6 +46,8 @@ The following brochures are available for distribution.
 
 [![Thumbnail of the IASSIST Factsheet](/img/about/factsheet2026.jpg "IASSIST Factsheet")](/file/about/iassist_factsheet_2026.pdf)
 
+{{< embed-pdf url="/file/about/iassist_factsheet_2026.pdf" >}}
+
 <!--
 - **IASSIST tri-fold brochure** (PDF)
 
