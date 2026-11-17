@@ -22,6 +22,8 @@ IASSIST welcomes new members and offers an array of benefits:
 -   opportunity to serve on IASSIST committees and action groups
 -   access to the IASSIST Membership Directory and Intranet
 
+See our **[Membership Brochure](/file/about/iassist_factsheet_2026.pdf)** (PDF)
+
 **To join**, please complete the [online application <span class="fas fa-external-link-alt"></span>](https://www.iassistdata.info/application). Credit card transactions will be conducted by Affinipay, and may be subject to currency fluctuation. Annual membership fee is $60 (USD).*
 
 - **Reduced rate** ($25, USD) is available to students, retirees, and members based on lower income, lower-middle, and upper-middle income countries as defined by the [World Bank <span class="fas fa-external-link-alt"></span>](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). All members paying the reduced rate are expected to self-declare their reduced rate; proof will not be requested by IASSIST officials. Current members can change to the reduced rate by logging into the [membership site <span class="fas fa-external-link-alt"></span>](https://iassistdata.info/) and editing their profile details to change the membership level.
