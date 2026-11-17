@@ -12,10 +12,12 @@ Our mission is to provide resources and educational opportunities to better reco
 ### Areas of interest
 
 - Indigenous Peoples - Convener: Joanna Schroeder - schroejh [at] bc.edu
+- Immigrants - Convener: Negeen Aghassibake - negeena [at] uw.edu 
 - LGBTQ+ - Convener: Kevin Manuel - kevin.manuel [at] torontomu.ca
+- People with Disabilities - Conveners: Heather Owen - howen [at] library.rochester.edu and Jennifer Chaput - jchaput [at] umass.edu
 - Racial Justice  (Inactive) (2022-2024)
 - Disabilities and Inclusion (Proposed)
-- Gender gap (Proposed)
+- GWomen/Gender Gap - Convener: Kaelan Caspary - kaelan.caspary [at] ontariotechu.ca 
 - Suggestions for additional areas are welcome.  Any new areas of interest require a convener and at least 2 other members.
 
 
