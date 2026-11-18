@@ -1,6 +1,6 @@
 +++
 year = "2027"
-draft = "false"
+draft = "true"
 title = "IASSIST 2027 - Conference Schedule"
 location = "Vancouver, B.C., Canada"
 datalink = "/data/conferences/archive/2027-Vancouver.json"

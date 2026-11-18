@@ -2,7 +2,7 @@
 year = "2027"
 draft = "false"
 title = "IASSIST 2027 - Call for Proposals"
-location = "Vancouver, B.C., Canada"
+location = "Vancouver, BC, Canada"
 datalink = "/data/conferences/archive/2027-Vancouver.json"
 banner = "/img/conferences/annual/iassist2027-logo-socialmedia-cfp.png"
 type = "conference-2027"
@@ -15,7 +15,7 @@ type = "conference-2027"
 
 The International Association for Social Science Information Services and Technology (IASSIST) invites you to join us **in-person in Vancouver, Canada** for IASSIST 2027, our annual conference, on **May 25-28, 2027**.
 
-Nestled between the Burrard Inlet and the Salish Sea (Strait of Georgia), Vancouver is the largest city in British Columbia. With a population of just over 660,000, Vancouver enjoys two research universities (Simon Fraser University and the University of British Columbia) along with several comprehensive universities and colleges. It is a beautiful and vibrant city with both cultural and outdoor attractions.
+Nestled between the Burrard Inlet and the Salish Sea (Strait of Georgia), Vancouver is the largest city in British Columbia. With a metropolitan population of over 2.6 million people, Vancouver enjoys two research universities (Simon Fraser University and the University of British Columbia) along with several comprehensive universities and colleges. It is a beautiful and vibrant city with both cultural and outdoor attractions.
 
 We welcome submissions for papers, individual presentations, panels, posters or demonstrations, lightning talks, or workshops that embrace our conference theme, **Sea Change: Transforming Data Practices**. We want to hear from data and data services professionals about how their data practices are adapting or changing in the current environment of Artificial Intelligence, budget and funding challenges, climate considerations, and the rapidly changing realities faced by academic and research institutions.
 

@@ -71,12 +71,12 @@ For pronunciations, presenters and attendees can review [A Guide to the Pronunci
 Please send all questions to programme@lists.iassistdata.org 
 : Chairs: Meryl Brodsky, Sandra Sawchuk, Meghan Goodchild
 
+<!--
 ### Thank you to our Sponsors\!
 
 More information coming soon. 
+-->
 
-
-Logo image: Paul Lesack
 <hr />
 <br />
 
