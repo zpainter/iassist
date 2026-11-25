@@ -12,6 +12,8 @@ type = "conference-2027"
 
 Conference registration will be available in early 2027.
 
+We encourage you to register early as space is limited and there will be a registration cap.
+
 <!--We are pleased to announce that **registration for the 2027 IASSIST conference is now open**!-->
 
 <!--**Registration for the 2025 IASSIST conference is now closed**-->

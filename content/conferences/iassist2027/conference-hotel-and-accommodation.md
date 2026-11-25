@@ -10,9 +10,7 @@ type = "conference-2027"
 ## Conference Hotel
 
 <!--
-We encourage conference participants to book a room at the [Mercure Bristol Grand Hotel <span class="fas fa-external-link-alt"></span>](https://all.accor.com/hotel/A0I2/index.en.shtml), where the conference will also be held.
-
-**Important:** This preferential rate cannot be booked through a third-party agent. Rooms must be booked directly with the hotel using the contact details below.
+Booking info should go here
 -->
 
 ### Reservations

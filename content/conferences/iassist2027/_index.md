@@ -16,13 +16,7 @@ type = "conference-2027"
 
 #### Vancouver, Canada, May 25-28, 2027
 
-<!--
-**<span style="background:pink;padding:.5em;border-radius:15px;">New Format (Previously planned for Amherst, MA, USA)</span>**
--->
-
-**Host institution:** Simon Fraser University and University of British Columbia
-
-Stay tuned for more information in October 2026.
+**Host institution:** IASSIST is hosted by Simon Fraser University with support from the University of British Columbia, the University of Northern British Columbia and the University of Victoria. 
 
 <!--
 **Registration will open in MONTH 2027**. 
@@ -36,7 +30,9 @@ See the **Conference Schedule** for the latest information about the presentatio
 
 **IASSIST** (International Association for Social Science Information Services and Technology) is an international organization of professionals working with information technology and data services to support research and teaching. IASSIST members are working together to advocate for responsible data management and use, to build a broader community surrounding research data, and encourage the development of data professionals.
 
-We are pleased to announce that in 2027 our annual conference will return to Vancouver, British Columbia, Canada. The conference will be held in-person in May. See you in Vancouver 2027! It will be the **Best IASSIST. Ever**.
+### IASSIST 2027’s conference theme
+This year's theme, _Sea Change: Transforming Data Practices_, invites data and data services professionals to share how their practices are adapting to artificial intelligence, budget and funding challenges, climate considerations, and the changing realities of academic and research institutions
+
 
 <!--
 ### Registration
@@ -55,7 +51,7 @@ Regular registration for this event is now closed.
 
 ### Call for Submissions
 
-**[Submit](./call-for-proposals/)** your workshop, panel, paper, poster, lightning talk or other presentation proposal now. The deadline is Novermber 13, 2026.
+The deadline to submit all proposals was November 13, 2026. Decisions regarding submissions will be sent out in January 2027.
 
 <!--
 Submissions are now closed.
@@ -66,16 +62,21 @@ Submissions are now closed.
 See you in 2028! It will be the **Best. IASSIST. Ever.**
 -->
 
-### IASSIST 2027 Program Committee
+### Land acknowledgment
+IASSIST will be held at Simon Fraser University’s Vancouver campus situated on the unceded Traditional Coast Salish Lands including the [Squamish](https://www.squamish.net/) (Sḵwx̱wú7mesh Úxwumixw), [Tsleil-Waututh](https://twnation.ca/) (səl̓ilw̓ətaʔɬ) and [Musqueam](https://www.musqueam.bc.ca/) (xʷməθkʷəy̓əm) Nations.   
+For pronunciations, presenters and attendees can review [A Guide to the Pronunciation of Indigenous Communities and Organizations in BC](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/a_guide_to_pronunciation_of_bc_first_nations_-_oct_29_2018.pdf).
+
+### Program Committee
 
 Please send all questions to programme@lists.iassistdata.org 
 : Chairs: Meryl Brodsky, Sandra Sawchuk, Meghan Goodchild
 
-### Conference info
+<!--
+### Thank you to our Sponsors\!
 
-Nestled between the Burrard Inlet and the Salish Sea (Strait of Georgia), Vancouver is the largest city in British Columbia. With a population of just over 660,000, Vancouver enjoys two research universities (Simon Fraser University and the University of British Columbia) along with several comprehensive universities and colleges. It is a beautiful and vibrant city with both cultural and outdoor attractions.
+More information coming soon. 
+-->
 
-Logo image: Paul Lesack
 <hr />
 <br />
 
