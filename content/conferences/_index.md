@@ -14,7 +14,7 @@ The annual conference is always an international event. Conference locations ref
 
 <br id="annual" />
 
-<div style="background-color:#fdebd0;font-weight:bold;padding:.5em;font-size:140%;">Forthcoming and Recent Conferences</div>
+<div style="background-color:#fdebd0;font-weight:bold;padding:.5em;font-size:140%;">Forthcoming Events</div>
 
 <div style="background-color:#eee;padding:.5em;">
 
@@ -26,6 +26,14 @@ Conference, May 25-28, 2027
 
 <a class="btn btn-template-main" href="./iassist2027/">IASSIST 2027 Conference website</a>
 
+### 2028 IASSIST Events
+
+#### Annual Conference
+
+Conference, June 5-8, 2028
+
+<a class="btn btn-template-main" href="./iassist2028/">IASSIST 2028 Conference website</a>
+
 <!--
 #### Africa Workshop
 
@@ -33,6 +41,14 @@ Conference, May 25-28, 2027
 
 <a class="btn btn-template-main" href="./iassist-africa-2027/">To Africa 2027 Workshop</a>
 -->
+
+</div>
+
+
+
+<div style="background-color:#fdebd0;font-weight:bold;padding:.5em;font-size:140%;">Recent Events</div>
+
+<div style="background-color:#eee;padding:.5em;">
 
 ### 2026 IASSIST Events
 
@@ -50,20 +66,6 @@ Virtual Conference, June 2 - June 5, 2026
 
 </div>
 
-### 2025 IASSIST Events
-
-#### Annual Conference
-
-Bristol, England, UK, June 3 - June 6, 2025
-
-<a class="btn btn-template-main" href="./iassist2025/">IASSIST 2025 Conference website</a> 
-
-#### Africa Workshop
-
-5th IASSIST Africa Regional Workshop, Accra, Ghana, October 22-24, 2025.
-
-<a class="btn btn-template-main" href="./iassist-africa-2025/">Africa 2025 Workshop</a>
-
 
 ### Past Conferences
 
@@ -72,6 +74,10 @@ Bristol, England, UK, June 3 - June 6, 2025
 Check "Presentations from the Previous Conference" section in the right hand menu for conference website and additional details about the recent conferences.
 
 #### Past Africa Workshops
+
+5th IASSIST Africa Regional Workshop, Accra, Ghana, October 22-24, 2025.
+
+<a class="btn btn-template-main" href="./iassist-africa-2025/">Africa 2025 Workshop</a>
 
 4th IASSIST Africa Regional Workshop, Nairobi, Kenya, October 23-26, 2024.
 

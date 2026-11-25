@@ -23,7 +23,28 @@ On this page you will find links to the recordings and information on any webiar
 > No webinar registrations open at the moment.
 -->
 
-#### November 11 | Advancing Social Science and Health Research through Harmonization and Transparency: An Overview of IPUMS Data and Resources
+#### December 8 | Funding Research, One Data Set at a Time: Creating a Data Set Grant Program
+
+While datasets are often a rare segment of libraries’ collections, they face the same level of purchasing rigor as books, serials, and other materials. They also come with their own challenges, as collection development guidelines are not created with them in mind. This is why in 2018 we had to say, “No” to a student needing to purchase data for her research. Although inexpensive, the request had to be denied as it could only be licensed to the student, which did not meet our libraries’ collection development guidelines.  
+
+This experience led to the launch of the Data Set Grant program in 2019. These grants are offered to students to support out-of-reach data needs for their studies which cannot be purchased using traditional collection development strategies.  The application process requires students to submit a proposal, giving them experience in the planning stage of the research lifecycle. Additionally, grant recipients offer public presentations about their research, allowing them to build on their scholarly communication and public speaking skills.
+
+In this presentation, we will dive into implementation workflows, marketing strategies, lessons learned, and future plans as we demonstrate an innovative way to supply students with data which enhances students’ learning and research experiences.
+
+**Speakers**: Kathy Leezin Wu, Social Science Librarian in the Learning Initiatives Department, manager of the River Campus Libraries (RCL) Data Set Grant Program at the University of Rochester.
+
+Sarah Siddiqui, Reproducibility Librarian at the University of Rochester
+
+Heather Charlotte Owen, Data Librarian at the University of Rochester.
+
+**Time:** Tuesday, December 8, 2026, 11:00 AM Eastern
+
+<a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/PyrNJDiFREm0atn2aVitFA#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
+
+This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+
+<!--
+#### December 11 | Advancing Social Science and Health Research through Harmonization and Transparency: An Overview of IPUMS Data and Resources
 
 IPUMS democratizes access to the world's population data by making them interoperable and comparable across time and space, and disseminating harmonized data and integrated documentation free of charge. Through harmonization, IPUMS provides the research community with a common starting point for their analyses. The IPUMS online data access system allows users to build customized datasets that include only the samples and variables they need. This webinar will begin with a brief overview of the IPUMS data collections, demonstrate how to use the data access system to explore data availability and create a customized data extract, and highlight key resources for appropriately documenting the dataset provenance to ensure appropriate citation.
 
@@ -33,7 +54,7 @@ IPUMS democratizes access to the world's population data by making them interope
 
 <a class="btn btn-template-main" href="https://us06web.zoom.us/meeting/register/L_5OdBO-QWOKydQO6kTXKw#/registration" title="" >Registration <span class="fas fa-external-link-alt"></span></a>
 
-This webinar is brought to you by the IASSIST Professional Development Committee. The webinar will be recorded and made available on the IASSIST Youtube Channel. Slides and the recording will also be linked from the IASSIST webpage.
+-->
 
 ### Most recent webinar recordings
 
