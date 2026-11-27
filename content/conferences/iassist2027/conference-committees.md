@@ -23,7 +23,7 @@ type = "conference-2027"
 
 - TBA
 
-**Fellows Coordinators:** Florio Orocio Arguillas, Robert Bowule
+**Fellows Coordinators:** Florio Orocio Arguillas, Robert Buwule
 
 **Workshop Coordinators:** Jeremy Buhler, Anja Perry, Deborah Wiltshire 
 
